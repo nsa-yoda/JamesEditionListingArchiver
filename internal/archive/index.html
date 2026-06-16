@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Listing archive</title>
+  <style>
+    :root { color-scheme: light dark; font-family: system-ui, sans-serif; }
+    body { max-width: 56rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
+    header { border-bottom: 1px solid #8886; margin-bottom: 1.5rem; }
+    h1 { font-size: 1.4rem; overflow-wrap: anywhere; }
+    h2 { font-size: 1rem; margin-top: 2rem; }
+    ul { list-style: none; padding: 0; }
+    li { border-bottom: 1px solid #8884; }
+    a { display: flex; gap: .75rem; padding: .7rem .25rem; text-decoration: none; }
+    a:hover { background: #8882; }
+    .kind { width: 1.5rem; color: #777; }
+    .name { flex: 1; overflow-wrap: anywhere; }
+    .meta { color: #777; font-size: .85rem; }
+    .listing { border-bottom: 1px solid #8886; padding-bottom: 1.5rem; }
+    .listing h2 { font-size: 1.3rem; }
+    dl { display: grid; grid-template-columns: minmax(8rem, 12rem) 1fr; gap: .45rem 1rem; }
+    dt { color: #777; }
+    dd { margin: 0; overflow-wrap: anywhere; }
+    dd a { display: inline; padding: 0; }
+    .features { display: flex; flex-wrap: wrap; gap: .4rem; }
+    .features li { border: 1px solid #8885; border-radius: 1rem; padding: .3rem .65rem; }
+    .description { line-height: 1.55; white-space: pre-wrap; }
+    .image-gallery { display: grid; gap: 30px; width: 100vw; margin: 2rem 0 0 calc(50% - 50vw); }
+    .image-gallery figure { margin: 0; }
+    .image-gallery a { display: block; padding: 0; }
+    .image-gallery img { display: block; width: 100%; height: auto; }
+    details { margin-top: 1.5rem; }
+    #error { border: 1px solid #b44; padding: 1rem; white-space: pre-wrap; }
+    footer { color: #777; font-size: .8rem; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="path">Listing archive</h1>
+    <p><a id="parent" href="../index.html" hidden>← Parent directory</a></p>
+  </header>
+  <main id="content">
+    <p>Loading archive index…</p>
+  </main>
+  <footer id="updated"></footer>
+  <script>
+    const content = document.querySelector("#content");
+    const escapeText = value => document.createTextNode(value);
+    const formatBytes = bytes => {
+      if (!Number.isFinite(bytes)) return "";
+      const units = ["B", "KB", "MB", "GB"];
+      let value = bytes, unit = 0;
+      while (value >= 1024 && unit < units.length - 1) { value /= 1024; unit++; }
+      return `${value.toFixed(unit ? 1 : 0)} ${units[unit]}`;
+    };
+    const displayNumber = value => Number.isFinite(value) ? String(value) : "";
+    const displayMoney = value => value && (value.display || [displayNumber(value.amount), value.currency].filter(Boolean).join(" "));
+    const displayUnitPrice = value => value && (value.display || [displayNumber(value.amount), value.currency, value.per_unit && `per ${value.per_unit}`].filter(Boolean).join(" "));
+    const displayMeasurement = value => value && (value.display || [displayNumber(value.value), value.unit].filter(Boolean).join(" "));
+    const displayPath = value => value && value !== "." ? value.split("/").filter(Boolean).join(" > ") : "Archive root";
+    const addField = (list, label, value, href) => {
+      if (value === undefined || value === null || value === "") return;
+      const term = document.createElement("dt");
+      term.textContent = label;
+      const detail = document.createElement("dd");
+      if (href) {
+        const link = document.createElement("a");
+        link.href = href;
+        link.textContent = value;
+        link.target = "_blank";
+        link.rel = "noopener";
+        detail.append(link);
+      } else {
+        detail.textContent = value;
+      }
+      list.append(term, detail);
+    };
+    const renderListing = listing => {
+      const wrapper = document.createElement("article");
+      let galleryHeading;
+      let gallery;
+      wrapper.className = "listing";
+      const title = document.createElement("h2");
+      title.textContent = listing.property?.title || listing.location?.address || "Archived listing";
+      wrapper.append(title);
+
+      const fields = document.createElement("dl");
+      addField(fields, "Price", displayMoney(listing.property?.price));
+      addField(fields, "Price per area", displayUnitPrice(listing.property?.price_per_area));
+      addField(fields, "Type", listing.property?.type);
+      addField(fields, "Availability", listing.property?.availability);
+      addField(fields, "Bedrooms", displayNumber(listing.property?.bedrooms));
+      addField(fields, "Bathrooms", displayNumber(listing.property?.bathrooms));
+      addField(fields, "Floors", displayNumber(listing.property?.floors));
+      addField(fields, "Interior area", displayMeasurement(listing.property?.interior_area));
+      addField(fields, "Lot area", displayMeasurement(listing.property?.lot_area));
+      addField(fields, "Year built", displayNumber(listing.property?.year_built));
+      addField(fields, "Source photo count", displayNumber(listing.property?.photo_count));
+      addField(fields, "Address", listing.location?.address);
+      addField(fields, "Street", listing.location?.street);
+      addField(fields, "Municipality", listing.location?.municipality);
+      addField(fields, "Region", listing.location?.region);
+      addField(fields, "Postal code", listing.location?.postal_code);
+      addField(fields, "Country", listing.location?.country);
+      addField(fields, "Coordinates", listing.location?.latitude != null && listing.location?.longitude != null ? `${listing.location.latitude}, ${listing.location.longitude}` : "");
+      addField(fields, "Map", listing.location?.map_url, listing.location?.map_url);
+      addField(fields, "Video", listing.property?.video_url, listing.property?.video_url);
+      addField(fields, "Site listing ID", listing.source?.listing_id);
+      addField(fields, "Listing reference", listing.source?.listing_reference);
+      addField(fields, "First listed", listing.source?.first_listed);
+      addField(fields, "Last updated", listing.source?.last_updated);
+      addField(fields, "Retrieved", listing.source?.retrieved_at);
+      addField(fields, "Site", listing.source?.site);
+      addField(fields, "Source", listing.source?.url, listing.source?.url);
+      addField(fields, "Canonical source", listing.source?.canonical_url, listing.source?.canonical_url);
+      addField(fields, "Agent", listing.broker?.agent);
+      addField(fields, "Agent profile", listing.broker?.agent_profile_url, listing.broker?.agent_profile_url);
+      addField(fields, "Agent license", listing.broker?.agent_license);
+      addField(fields, "Agency", listing.broker?.agency);
+      addField(fields, "Agency profile", listing.broker?.agency_profile_url, listing.broker?.agency_profile_url);
+      addField(fields, "Agency address", listing.broker?.agency_address);
+      wrapper.append(fields);
+
+      if (listing.property?.description) {
+        const heading = document.createElement("h2");
+        heading.textContent = "Description";
+        const description = document.createElement("p");
+        description.className = "description";
+        description.textContent = listing.property.description;
+        wrapper.append(heading, description);
+      }
+      if (listing.property?.features?.length) {
+        const heading = document.createElement("h2");
+        heading.textContent = `Features (${listing.property.features.length})`;
+        const features = document.createElement("ul");
+        features.className = "features";
+        listing.property.features.forEach(value => {
+          const item = document.createElement("li");
+          item.textContent = value;
+          features.append(item);
+        });
+        wrapper.append(heading, features);
+      }
+      if (listing.images?.length) {
+        const details = document.createElement("details");
+        const summary = document.createElement("summary");
+        summary.textContent = `Image files and download status (${listing.images.length})`;
+        const images = document.createElement("ul");
+        listing.images.forEach((image, index) => {
+          const item = document.createElement("li");
+          const link = document.createElement("a");
+          link.href = image.file ? `images/${image.file}` : image.source_url;
+          link.textContent = image.file || image.source_url || `Image ${index + 1}`;
+          if (!image.file) {
+            link.target = "_blank";
+            link.rel = "noopener";
+          }
+          item.append(link);
+          const metadata = [image.media_type, Number.isFinite(image.bytes) && image.bytes > 0 ? formatBytes(image.bytes) : ""].filter(Boolean).join(", ");
+          if (metadata) item.append(escapeText(` — ${metadata}`));
+          if (image.error) item.append(escapeText(` — ${image.error}`));
+          images.append(item);
+        });
+        details.append(summary, images);
+        wrapper.append(details);
+      }
+      if (listing.warnings?.length) {
+        const details = document.createElement("details");
+        const summary = document.createElement("summary");
+        summary.textContent = `Warnings (${listing.warnings.length})`;
+        const warnings = document.createElement("ul");
+        listing.warnings.forEach(value => {
+          const item = document.createElement("li");
+          item.textContent = value;
+          warnings.append(item);
+        });
+        details.append(summary, warnings);
+        wrapper.append(details);
+      }
+      if (listing.images?.length) {
+        galleryHeading = document.createElement("h2");
+        galleryHeading.textContent = `Images (${listing.images.length})`;
+        gallery = document.createElement("section");
+        gallery.className = "image-gallery";
+        gallery.setAttribute("aria-label", "Listing images");
+        listing.images.forEach((image, index) => {
+          const source = image.file ? `images/${image.file}` : image.source_url;
+          if (!source) return;
+          const figure = document.createElement("figure");
+          const link = document.createElement("a");
+          link.href = source;
+          const element = document.createElement("img");
+          element.src = source;
+          element.alt = `${listing.property?.title || "Listing"} image ${index + 1}`;
+          element.loading = "lazy";
+          element.decoding = "async";
+          link.append(element);
+          figure.append(link);
+          gallery.append(figure);
+        });
+      }
+      content.prepend(wrapper);
+      if (gallery?.childElementCount) content.append(galleryHeading, gallery);
+    };
+    const section = (title, entries, directory) => {
+      if (!entries.length) return null;
+      const wrapper = document.createElement("section");
+      const heading = document.createElement("h2");
+      heading.textContent = `${title} (${entries.length})`;
+      const list = document.createElement("ul");
+      entries.forEach(entry => {
+        const item = document.createElement("li");
+        const link = document.createElement("a");
+        link.href = entry.href;
+        const kind = document.createElement("span");
+        kind.className = "kind";
+        kind.textContent = directory ? "DIR" : "FILE";
+        const name = document.createElement("span");
+        name.className = "name";
+        name.append(escapeText(entry.name));
+        link.append(kind, name);
+        if (!directory) {
+          const meta = document.createElement("span");
+          meta.className = "meta";
+          meta.textContent = formatBytes(entry.size);
+          link.append(meta);
+        }
+        item.append(link);
+        list.append(item);
+      });
+      wrapper.append(heading, list);
+      return wrapper;
+    };
+    const render = index => {
+      document.title = `${index.path || "Archive"} · Listing archive`;
+      document.querySelector("#path").textContent = displayPath(index.path);
+      if (index.parent) {
+        const parent = document.querySelector("#parent");
+        parent.href = index.parent;
+        parent.hidden = false;
+      }
+      content.replaceChildren();
+      const directories = section("Directories", index.directories || [], true);
+      const files = section("Files", index.files || [], false);
+      if (directories) content.append(directories);
+      if (files) content.append(files);
+      if (!directories && !files) content.textContent = "This directory is empty.";
+      document.querySelector("#updated").textContent = `Index updated ${index.last_updated}`;
+    };
+    const showError = error => {
+      content.innerHTML = "";
+      const message = document.createElement("p");
+      message.id = "error";
+      message.textContent = `Could not load index.json or index.js: ${error.message}\n\nVerify that index.html, index.json, and index.js are in the same directory, then rebuild the archive indexes.`;
+      content.append(message);
+    };
+    const loadScriptFallback = () => new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = "./index.js";
+      script.onload = () => window.listingArchiveIndex
+        ? resolve(window.listingArchiveIndex)
+        : reject(new Error("index.js did not define listingArchiveIndex"));
+      script.onerror = () => reject(new Error("index.js could not be loaded"));
+      document.head.append(script);
+    });
+    const loadListingScriptFallback = () => new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = "./listing.js";
+      script.onload = () => window.listingArchiveListing
+        ? resolve(window.listingArchiveListing)
+        : reject(new Error("listing.js did not define listingArchiveListing"));
+      script.onerror = () => reject(new Error("listing.js could not be loaded"));
+      document.head.append(script);
+    });
+    const loadListing = index => {
+      if (!(index.files || []).some(file => file.name === "listing.json")) return Promise.resolve();
+      return fetch("./listing.json", { cache: "no-store" })
+        .then(response => {
+          if (!response.ok) throw new Error(`listing.json returned HTTP ${response.status}`);
+          return response.json();
+        })
+        .catch(() => loadListingScriptFallback())
+        .then(renderListing);
+    };
+    fetch("./index.json", { cache: "no-store" })
+      .then(response => {
+        if (!response.ok) throw new Error(`index.json returned HTTP ${response.status}`);
+        return response.json();
+      })
+      .catch(() => loadScriptFallback())
+      .then(index => {
+        render(index);
+        return loadListing(index).catch(error => {
+          const message = document.createElement("p");
+          message.id = "error";
+          message.textContent = `Could not load listing.json or listing.js: ${error.message}`;
+          content.prepend(message);
+        });
+      })
+      .catch(showError);
+  </script>
+</body>
+</html>

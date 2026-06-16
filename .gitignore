@@ -1,0 +1,20 @@
+# Local credentials
+cookies.txt
+cookies*.txt
+*.cookies
+
+# Local archives
+RealEstateArchive/
+listings/
+/imports/
+JamesEdition/
+
+# Generated binaries and test output
+/listing-archiver
+*.test
+coverage.out
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
