@@ -13,9 +13,19 @@ type Page struct {
 	Doc  *goquery.Document
 }
 
+type VideoURL struct {
+	SourceURL string
+	PosterURL string
+}
+
+type MediaURLs struct {
+	Images []string
+	Videos []VideoURL
+}
+
 type Extractor interface {
 	Match(rawURL string) bool
-	Extract(ctx context.Context, page Page) (*model.Listing, []string, error)
+	Extract(ctx context.Context, page Page) (*model.Listing, MediaURLs, error)
 }
 
 func Select(rawURL string, extractors ...Extractor) Extractor {

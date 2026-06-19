@@ -65,10 +65,10 @@ func RunWithInput(ctx context.Context, args []string, stdin io.Reader, stdout, s
 	}
 	options := archive.Options{
 		Root: cfg.Root, Workers: cfg.Workers, Overwrite: cfg.Overwrite,
-		MetadataOnly: cfg.MetadataOnly, MaxImages: cfg.MaxImages,
+		MetadataOnly: cfg.MetadataOnly, MaxImages: cfg.MaxImages, AssetsOnly: cfg.AssetsOnly,
 	}
 	existing := archive.ExistingIndex{}
-	if len(imports) > 0 {
+	if len(imports) > 0 || cfg.AssetsOnly {
 		existing, err = archive.BuildExistingIndex(cfg.Root)
 		if err != nil {
 			fmt.Fprintf(stderr, "error: inspect existing archive: %v\n", err)
@@ -92,8 +92,13 @@ func RunWithInput(ctx context.Context, args []string, stdin io.Reader, stdout, s
 					successes++
 				}
 			}
+			for _, video := range result.Listing.Videos {
+				if video.File != "" {
+					successes++
+				}
+			}
 			fmt.Fprintf(stdout, "Archived listing to: %s\n", result.Directory)
-			fmt.Fprintf(stdout, "Discovered %d image URLs; downloaded %d files.\n", result.Discovered, successes)
+			fmt.Fprintf(stdout, "Discovered %d image URL(s) and %d video URL(s); downloaded %d file(s) (%d new, %d reused, %d failed).\n", result.DiscoveredImages, result.DiscoveredVideos, successes, result.NewAssets, result.ReusedAssets, result.FailedAssets)
 			completed++
 		}
 	}
@@ -110,20 +115,22 @@ func RunWithInput(ctx context.Context, args []string, stdin io.Reader, stdout, s
 		listing, _, inspectErr := service.InspectHTML(ctx, item.SourceURL, item.HTML)
 		if inspectErr == nil {
 			if directory, ok := existing.Find(listing); ok {
-				if !cfg.Refresh {
+				if !cfg.Refresh && !cfg.AssetsOnly {
 					fmt.Fprintf(stdout, "Skipped existing: %s [found: %s]\n", item.Filename, archivePageReference(cfg.Root, directory))
 					skipped++
 					continue
 				}
-				movedTo, moved, err := archive.MoveExistingArchive(cfg.Root, directory, listing)
-				if err != nil {
-					fmt.Fprintf(stderr, "error: import %s: %v\n", item.Filename, err)
-					importFailures++
-					continue
-				}
-				if moved {
-					fmt.Fprintf(stdout, "Moved existing archive: %s -> %s\n", archivePageReference(cfg.Root, directory), archivePageReference(cfg.Root, movedTo))
-					migrated++
+				if !cfg.AssetsOnly {
+					movedTo, moved, err := archive.MoveExistingArchive(cfg.Root, directory, listing)
+					if err != nil {
+						fmt.Fprintf(stderr, "error: import %s: %v\n", item.Filename, err)
+						importFailures++
+						continue
+					}
+					if moved {
+						fmt.Fprintf(stdout, "Moved existing archive: %s -> %s\n", archivePageReference(cfg.Root, directory), archivePageReference(cfg.Root, movedTo))
+						migrated++
+					}
 				}
 			}
 		}
@@ -139,8 +146,13 @@ func RunWithInput(ctx context.Context, args []string, stdin io.Reader, stdout, s
 				successes++
 			}
 		}
+		for _, video := range result.Listing.Videos {
+			if video.File != "" {
+				successes++
+			}
+		}
 		fmt.Fprintf(stdout, "Imported HTML archive to: %s\n", result.Directory)
-		fmt.Fprintf(stdout, "Discovered %d image URLs; downloaded %d files.\n", result.Discovered, successes)
+		fmt.Fprintf(stdout, "Discovered %d image URL(s) and %d video URL(s); downloaded %d file(s) (%d new, %d reused, %d failed).\n", result.DiscoveredImages, result.DiscoveredVideos, successes, result.NewAssets, result.ReusedAssets, result.FailedAssets)
 		imported++
 	}
 	if len(urls) > 1 {
@@ -164,6 +176,28 @@ func RunWithInput(ctx context.Context, args []string, stdin io.Reader, stdout, s
 			return 1
 		}
 		fmt.Fprintf(stdout, "Rebuilt browser indexes in %d directories beneath: %s\n", count, cfg.Root)
+	}
+	if cfg.Migrate {
+		report, err := archive.MigrateArchive(cfg.Root, time.Now().UTC())
+		if err != nil {
+			fmt.Fprintf(stderr, "error: migrate archive: %v\n", err)
+			return 1
+		}
+		fmt.Fprintf(stdout, "Migrated %d archive(s); moved %d archive(s); rebuilt browser indexes in %d directories.\n", report.Migrated, report.Moved, report.DirectoriesIndexed)
+	}
+	if cfg.Verify {
+		report, err := archive.VerifyArchive(cfg.Root)
+		if err != nil {
+			fmt.Fprintf(stderr, "error: verify archive: %v\n", err)
+			return 1
+		}
+		fmt.Fprintf(stdout, "Verified %d directories, %d listing archive(s), and %d file entries.\n", report.Directories, report.Listings, report.FilesVerified)
+		if len(report.Issues) > 0 {
+			for _, issue := range report.Issues {
+				fmt.Fprintf(stderr, "verify: %s\n", issue)
+			}
+			return 1
+		}
 	}
 	if completed != len(urls) || importFailures > 0 {
 		return 1

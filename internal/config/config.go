@@ -23,6 +23,9 @@ type Config struct {
 	MaxImages    int
 	Refresh      bool
 	Reindex      bool
+	Verify       bool
+	Migrate      bool
+	AssetsOnly   bool
 	HTMLFile     string
 	HTMLDir      string
 	SourceURL    string
@@ -45,6 +48,9 @@ func Parse(args []string, stderr io.Writer) (Config, error) {
 	fs.IntVar(&cfg.MaxImages, "max-images", 0, "maximum images per listing; 0 means unlimited")
 	fs.BoolVar(&cfg.Refresh, "refresh", false, "reprocess existing HTML imports instead of skipping them")
 	fs.BoolVar(&cfg.Reindex, "reindex", false, "rebuild browser indexes beneath the archive root")
+	fs.BoolVar(&cfg.Verify, "verify", false, "verify archive manifests, file hashes, and browser indexes beneath the archive root")
+	fs.BoolVar(&cfg.Migrate, "migrate", false, "migrate existing archives to the current schema and regenerate manifests/indexes")
+	fs.BoolVar(&cfg.AssetsOnly, "assets-only", false, "refresh only images/videos for an existing archive while preserving current listing metadata")
 	fs.StringVar(&cfg.HTMLFile, "html", "", "import saved listing HTML instead of fetching the page")
 	fs.StringVar(&cfg.HTMLDir, "html-dir", "", "import top-level .html and .htm files in a directory")
 	fs.StringVar(&cfg.SourceURL, "source-url", "", "original listing URL for -html import")
@@ -77,8 +83,20 @@ func Parse(args []string, stderr io.Writer) (Config, error) {
 	if cfg.HTMLDir != "" && (len(cfg.URLs) > 0 || cfg.InputFile != "") {
 		return Config{}, fmt.Errorf("-html-dir cannot be combined with -url, positional URLs, or -input")
 	}
-	if len(cfg.URLs) == 0 && cfg.InputFile == "" && cfg.HTMLFile == "" && cfg.HTMLDir == "" && !cfg.Reindex {
-		return Config{}, fmt.Errorf("at least one URL, -input, -html, -html-dir, or -reindex is required")
+	if cfg.AssetsOnly && cfg.MetadataOnly {
+		return Config{}, fmt.Errorf("-assets-only cannot be combined with -metadata-only")
+	}
+	if cfg.AssetsOnly && cfg.Reindex {
+		return Config{}, fmt.Errorf("-assets-only cannot be combined with -reindex")
+	}
+	if cfg.AssetsOnly && cfg.Verify {
+		return Config{}, fmt.Errorf("-assets-only cannot be combined with -verify")
+	}
+	if cfg.AssetsOnly && cfg.Migrate {
+		return Config{}, fmt.Errorf("-assets-only cannot be combined with -migrate")
+	}
+	if len(cfg.URLs) == 0 && cfg.InputFile == "" && cfg.HTMLFile == "" && cfg.HTMLDir == "" && !cfg.Reindex && !cfg.Verify && !cfg.Migrate {
+		return Config{}, fmt.Errorf("at least one URL, -input, -html, -html-dir, -reindex, -verify, or -migrate is required")
 	}
 	return cfg, nil
 }

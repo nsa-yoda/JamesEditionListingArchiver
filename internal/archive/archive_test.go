@@ -75,7 +75,7 @@ func TestRunIdempotentWithPartialImageFailure(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if metadataOnly.Discovered != 2 || len(metadataOnly.Listing.Images) != 1 || metadataOnly.Listing.Images[0].File != "" {
+	if metadataOnly.DiscoveredImages != 2 || metadataOnly.DiscoveredVideos != 0 || len(metadataOnly.Listing.Images) != 1 || metadataOnly.Listing.Images[0].File != "" {
 		t.Fatalf("unexpected metadata-only result: %#v", metadataOnly)
 	}
 	if len(metadataOnly.Listing.Warnings) != 1 {
@@ -144,6 +144,142 @@ func TestImportHTMLDownloadsImagesWithoutFetchingPage(t *testing.T) {
 	}
 	if pageRequests.Load() != 0 || len(result.Listing.Images) != 1 || result.Listing.Images[0].File == "" {
 		t.Fatalf("unexpected import result: page requests=%d, images=%#v", pageRequests.Load(), result.Listing.Images)
+	}
+}
+
+func TestImportHTMLDownloadsDirectVideosAndWritesManifest(t *testing.T) {
+	tinyMP4 := append([]byte{0x00, 0x00, 0x00, 0x18, 'f', 't', 'y', 'p', 'i', 's', 'o', 'm', 0x00, 0x00, 0x02, 0x00}, make([]byte, 128)...)
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, request *http.Request) {
+		switch request.URL.Path {
+		case "/tour.mp4":
+			w.Header().Set("Content-Type", "video/mp4")
+			w.Write(tinyMP4)
+		case "/poster.jpg":
+			w.Header().Set("Content-Type", "image/png")
+			w.Write(append([]byte("\x89PNG\r\n\x1a\n"), make([]byte, 600)...))
+		default:
+			http.Error(w, "page fetch not expected", http.StatusInternalServerError)
+		}
+	}))
+	defer server.Close()
+	html := []byte(`<html><head><meta property="og:title" content="Imported listing"></head><body><video controls poster="/poster.jpg"><source src="/tour.mp4" type="video/mp4"></video></body></html>`)
+	client, err := downloader.NewClient(downloader.ClientConfig{Timeout: time.Second, UserAgent: "test"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	root := t.TempDir()
+	service := Service{Client: client, Extractors: []site.Extractor{localExtractor{Extractor: jamesedition.Extractor{}}}}
+	result, err := service.ImportHTML(context.Background(), server.URL+"/listing", html, Options{Root: root, Workers: 1})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(result.Listing.Videos) != 1 || !strings.HasSuffix(result.Listing.Videos[0].File, ".mp4") {
+		t.Fatalf("unexpected videos: %#v", result.Listing.Videos)
+	}
+	if result.Listing.Videos[0].PosterFile == "" || result.Listing.Videos[0].PosterSourceURL == "" {
+		t.Fatalf("expected saved poster: %#v", result.Listing.Videos[0])
+	}
+	manifest, err := readArchiveManifest(filepath.Join(result.Directory, "manifest.json"))
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(manifest.Assets) != 1 || manifest.Assets[0].Kind != "video" || manifest.Assets[0].Path == "" || manifest.Assets[0].PosterPath == "" {
+		t.Fatalf("unexpected archive manifest: %#v", manifest)
+	}
+	if manifest.Summary.VideosNew != 1 {
+		t.Fatalf("unexpected manifest summary: %#v", manifest.Summary)
+	}
+	if len(manifest.Files) == 0 || manifest.Files[0].SHA256 == "" {
+		t.Fatalf("manifest files missing hashes: %#v", manifest.Files)
+	}
+}
+
+func TestImportHTMLReusesExistingAssetFilesViaManifest(t *testing.T) {
+	var mediaRequests atomic.Int32
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, request *http.Request) {
+		switch request.URL.Path {
+		case "/one.jpg", "/two.jpg", "/three.jpg":
+			mediaRequests.Add(1)
+			w.Header().Set("Content-Type", "image/png")
+			w.Write(append([]byte("\x89PNG\r\n\x1a\n"), make([]byte, 600)...))
+		default:
+			http.Error(w, "page fetch not expected", http.StatusInternalServerError)
+		}
+	}))
+	defer server.Close()
+	client, err := downloader.NewClient(downloader.ClientConfig{Timeout: time.Second, UserAgent: "test"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	root := t.TempDir()
+	service := Service{Client: client, Extractors: []site.Extractor{localExtractor{Extractor: jamesedition.Extractor{}}}}
+	sourceURL := server.URL + "/listing"
+	firstHTML := []byte(`<html><head><meta property="og:title" content="10 Main St, Example, New Jersey 07000"></head><body><img src="/one.jpg"><img src="/two.jpg"></body></html>`)
+	first, err := service.ImportHTML(context.Background(), sourceURL, firstHTML, Options{Root: root, Workers: 1})
+	if err != nil {
+		t.Fatal(err)
+	}
+	secondHTML := []byte(`<html><head><meta property="og:title" content="10 Main St, Example, New Jersey 07000"></head><body><img src="/three.jpg"><img src="/one.jpg"><img src="/two.jpg"></body></html>`)
+	second, err := service.ImportHTML(context.Background(), sourceURL, secondHTML, Options{Root: root, Workers: 1})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if first.Directory != second.Directory {
+		t.Fatalf("archive moved unexpectedly: %q != %q", first.Directory, second.Directory)
+	}
+	if mediaRequests.Load() != 3 {
+		t.Fatalf("media requests = %d, want 3", mediaRequests.Load())
+	}
+	manifest, err := readArchiveManifest(filepath.Join(second.Directory, "manifest.json"))
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(manifest.Assets) != 3 {
+		t.Fatalf("unexpected archive manifest assets: %#v", manifest.Assets)
+	}
+	if manifest.Summary.ImagesExisting != 2 || manifest.Summary.ImagesNew != 1 {
+		t.Fatalf("unexpected manifest summary: %#v", manifest.Summary)
+	}
+}
+
+func TestAssetsOnlyRefreshPreservesExistingMetadata(t *testing.T) {
+	var mediaRequests atomic.Int32
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, request *http.Request) {
+		switch request.URL.Path {
+		case "/one.jpg", "/two.jpg":
+			mediaRequests.Add(1)
+			w.Header().Set("Content-Type", "image/png")
+			w.Write(append([]byte("\x89PNG\r\n\x1a\n"), make([]byte, 600)...))
+		default:
+			http.Error(w, "page fetch not expected", http.StatusInternalServerError)
+		}
+	}))
+	defer server.Close()
+	client, err := downloader.NewClient(downloader.ClientConfig{Timeout: time.Second, UserAgent: "test"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	root := t.TempDir()
+	service := Service{Client: client, Extractors: []site.Extractor{localExtractor{Extractor: jamesedition.Extractor{}}}}
+	sourceURL := server.URL + "/listing"
+	firstHTML := []byte(`<html><head><meta property="og:title" content="10 Main St, Example, New Jersey 07000"></head><body><img src="/one.jpg"></body></html>`)
+	first, err := service.ImportHTML(context.Background(), sourceURL, firstHTML, Options{Root: root, Workers: 1})
+	if err != nil {
+		t.Fatal(err)
+	}
+	secondHTML := []byte(`<html><head><meta property="og:title" content="Changed marketing title"></head><body><img src="/one.jpg"><img src="/two.jpg"></body></html>`)
+	second, err := service.ImportHTML(context.Background(), sourceURL, secondHTML, Options{Root: root, Workers: 1, AssetsOnly: true})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if second.Directory != first.Directory {
+		t.Fatalf("assets-only refresh moved archive: %q != %q", second.Directory, first.Directory)
+	}
+	if second.Listing.Property.Title != first.Listing.Property.Title {
+		t.Fatalf("assets-only refresh changed metadata title: %q != %q", second.Listing.Property.Title, first.Listing.Property.Title)
+	}
+	if len(second.Listing.Images) != 2 || mediaRequests.Load() != 2 {
+		t.Fatalf("unexpected assets-only refresh result: %#v, requests=%d", second.Listing.Images, mediaRequests.Load())
 	}
 }
 

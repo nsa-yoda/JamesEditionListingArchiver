@@ -78,7 +78,7 @@ func TestBrowserPageUsesJSONWithJavaScriptFallback(t *testing.T) {
 		t.Fatal(err)
 	}
 	source := string(page)
-	for _, expected := range []string{`href="../index.html"`, `join(" > ")`, `fetch("./index.json"`, `script.src = "./index.js"`, `window.listingArchiveIndex`, `fetch("./listing.json"`, `script.src = "./listing.js"`, `window.listingArchiveListing`, `className = "image-gallery"`, `gap: 30px`, `width: 100vw`} {
+	for _, expected := range []string{`href="../index.html"`, `join(" > ")`, `fetch("./index.json"`, `script.src = "./index.js"`, `window.listingArchiveIndex`, `fetch("./listing.json"`, `script.src = "./listing.js"`, `window.listingArchiveListing`, `className = "media-gallery"`, `gap: 30px`, `width: 100vw`, `video-js.min.css`, `video.min.js`, `videojs(video`, `object-fit: contain`, `listing-toolbar`, `Copy URL`, `data-filter-button`} {
 		if !strings.Contains(source, expected) {
 			t.Fatalf("browser page does not contain %q", expected)
 		}
@@ -132,6 +132,11 @@ func TestRebuildBrowserIndexesIncludesExistingBranches(t *testing.T) {
 	}
 	if !strings.Contains(string(listingScript), `"title":"Existing listing"`) {
 		t.Fatalf("unexpected listing.js: %s", listingScript)
+	}
+	for _, asset := range []string{"video.min.js", "video-js.min.css"} {
+		if _, err := os.Stat(filepath.Join(listingDir, asset)); err != nil {
+			t.Fatalf("%s browser asset was not generated: %v", asset, err)
+		}
 	}
 }
 

@@ -108,3 +108,34 @@ func DetectImage(contentType string, header []byte, rawURL string) (mediaType, e
 	}
 	return mediaType, "", false
 }
+
+func DetectVideo(contentType string, header []byte, rawURL string) (mediaType, extension string, ok bool) {
+	detected := http.DetectContentType(header)
+	declared, _, _ := mime.ParseMediaType(contentType)
+	mediaType = detected
+	if strings.HasPrefix(declared, "video/") {
+		mediaType = declared
+	}
+	extensions := map[string]string{
+		"video/mp4":  ".mp4",
+		"video/webm": ".webm",
+	}
+	if ext := extensions[mediaType]; ext != "" {
+		return mediaType, ext, true
+	}
+	if len(header) >= 12 && bytes.Equal(header[4:8], []byte("ftyp")) {
+		return "video/mp4", ".mp4", true
+	}
+	if len(header) >= 4 && bytes.Equal(header[:4], []byte{0x1a, 0x45, 0xdf, 0xa3}) {
+		return "video/webm", ".webm", true
+	}
+	if u, err := url.Parse(rawURL); err == nil {
+		switch ext := strings.ToLower(filepath.Ext(u.Path)); ext {
+		case ".mp4":
+			return "video/mp4", ext, true
+		case ".webm":
+			return "video/webm", ext, true
+		}
+	}
+	return mediaType, "", false
+}

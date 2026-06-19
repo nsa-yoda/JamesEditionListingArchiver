@@ -77,6 +77,12 @@ the manifest, retained source, browser page, and image status. If improved
 extraction produces a cleaner address path, the existing archive directory is
 moved before it is rewritten.
 
+Use `-assets-only` when a listing is already archived and you want to preserve
+the current structured metadata while checking the source again for newly
+exposed images or direct videos. In that mode, the archiver refreshes media and
+archive manifests without replacing the existing title, description, location,
+or broker fields.
+
 Plain-text `.url` sidecars and Windows `[InternetShortcut]` files with a
 `URL=https://...` line are supported. Browser-saved HTML normally retains an
 absolute canonical URL. Prefer saving the rendered listing page rather than a
@@ -101,8 +107,11 @@ Flags:
 -overwrite    replace existing image files
 -metadata-only archive metadata and source HTML without downloading images
 -max-images   maximum images per listing; 0 means unlimited
+-assets-only  refresh only images/videos while preserving existing listing metadata
 -refresh      reprocess existing HTML imports instead of skipping them
 -reindex      rebuild browser indexes beneath the archive root
+-verify       verify archive manifests, file hashes, and browser indexes
+-migrate      migrate archives to the current schema and regenerate manifests/indexes
 -user-agent   HTTP User-Agent
 ```
 
@@ -138,10 +147,17 @@ top-level-site, domain, path, HTTPS, and cross-site-ancestor rules match.
     ├── index.js
     ├── listing.json
     ├── listing.js
+    ├── manifest.json
     ├── README.md
     ├── source.html
     ├── source.url
-    └── images/
+    ├── video-js.min.css
+    ├── video.min.js
+    ├── images/
+        ├── index.html
+        ├── index.json
+        └── index.js
+    └── videos/
         ├── index.html
         ├── index.json
         └── index.js
@@ -152,17 +168,26 @@ Every managed directory receives an identical browser page copied from
 contain the same current path, parent, child-directory, and file data. The page
 tries `index.json` first and dynamically loads `index.js` when a browser blocks
 local JSON access through `file://`. Generated browser-index files are omitted
-from their own file listings. Indexes are updated atomically after successful
-archives.
+from their own file listings. The `videos/` directory is created only when a
+listing exposes direct `.mp4` or `.webm` media. Indexes are updated atomically
+after successful archives.
 
 At listing directories, the same page also renders the structured manifest.
 It loads `listing.json` first and falls back to its generated `listing.js`
 counterpart for direct `file://` browsing. Directory and parent links
 explicitly target each generated `index.html`; removing `index.html` from an
-HTTP URL requests the underlying directory instead. Listing pages render all
-available images in a full-viewport-width gallery at the bottom. The page
-header displays the archive path as `country > region > municipality > address`;
-the listing title remains in the listing detail heading.
+HTTP URL requests the underlying directory instead. Listing pages render
+downloaded `.mp4` and `.webm` files near the top in a fully offline Video.js
+player backed by local `video.min.js` and `video-js.min.css` assets stored in
+each listing directory, then render images in bounded full-width frames that
+preserve aspect ratio instead of stretching to the viewport. If Video.js fails
+to initialize for any reason, the same local file still plays through the
+native `<video>` element. All external listing links, including Google Maps
+URLs, open in a new tab. The page header displays the archive path as
+`country > region > municipality > address`; the listing title remains in the
+listing detail heading. Large listing pages also expose a sticky toolbar for
+filtering `all`, `videos`, `images`, `failures`, and `warnings`, plus one-click
+source-URL copy buttons in the file status sections.
 
 Open the root `index.html` directly, or serve the archive root locally:
 
@@ -178,7 +203,19 @@ Rebuild browsing indexes for an archive created by an older version:
 ./listing-archiver -reindex -root ./RealEstateArchive
 ```
 
-`listing.json` is an explicit, versioned manifest. Schema version 1 contains:
+Verify an archive without changing it:
+
+```bash
+./listing-archiver -verify -root ./RealEstateArchive
+```
+
+Migrate an older archive in place to the current schema and manifest format:
+
+```bash
+./listing-archiver -migrate -root ./RealEstateArchive
+```
+
+`listing.json` is an explicit, versioned manifest. Schema version 2 contains:
 
 - source URL, canonical URL, site listing ID, public listing reference,
   first-listed/last-updated display values, and retrieval timestamp;
@@ -188,8 +225,18 @@ Rebuild browsing indexes for an archive created by an older version:
   interior and lot measurements, photo count, availability, and video URL;
 - public broker/agent names, profile URLs, license, and agency address, when
   available;
-- image source URLs, local filenames, media types, byte counts, and failures;
+- image and direct-video source URLs, local filenames, media types, byte
+  counts, download statuses, optional saved poster files, and failures;
 - retained JSON-LD evidence and extraction/download warnings.
+
+`manifest.json` is a separate archive-level file inventory. It records the
+non-generated files currently present in the listing archive plus every image
+and video URL the archiver has seen, including the local file path when one was
+saved. Each tracked file records its size and SHA-256 digest. Each tracked
+asset records whether it was reused from an existing archive, downloaded as
+new, or failed. Reruns use that manifest to reuse existing media by source URL
+even if a listing's media order changes, so newly discovered files can be
+ingested without re-downloading the already archived ones.
 
 Map URLs may contain precise coordinates published by the source listing.
 Review archive contents before sharing them.
@@ -200,11 +247,19 @@ extractor does not promote that data into `listing.json`, but the unchanged raw
 HTML must still be treated as sensitive.
 
 Repeated URL runs against the same source reuse valid existing images and
-update the manifest and retained source atomically. Repeated `-html-dir` runs
-skip already archived listings unless `-refresh` is set. The tool refuses to
-overwrite an archive directory whose manifest identifies a different source.
-When separate listings resolve to the same address path, the later listing
-receives a stable listing-ID or URL-hash suffix.
+videos by source URL and update `listing.json`, `manifest.json`, and the
+retained source atomically. Repeated `-html-dir` runs skip already archived
+listings unless `-refresh` is set. The tool refuses to overwrite an archive
+directory whose manifest identifies a different source. When separate listings
+resolve to the same address path, the later listing receives a stable
+listing-ID or URL-hash suffix.
+
+`-verify` walks the archive root, validates `listing.json`, `manifest.json`,
+saved file hashes, and generated browser indexes, and reports stale or missing
+artifacts without rewriting them. `-migrate` performs the inverse operation: it
+rewrites older listing manifests to the current schema version, regenerates
+`manifest.json`, `listing.js`, `README.md`, and browser indexes, and preserves
+existing media files in place.
 
 ## Development
 
@@ -254,6 +309,8 @@ fingerprint spoofing, proxy rotation, or rate-limit evasion.
   after updating the archiver; existing incorrectly located archive
   directories are not moved automatically.
 - `response is not a recognized image`: the image URL returned non-image data,
+  often an error or challenge page. The failure remains in `listing.json`.
+- `response is not a recognized video`: the video URL returned non-video data,
   often an error or challenge page. The failure remains in `listing.json`.
 - `refuse to overwrite archive for a different source`: two listings resolved
   to the same sanitized fallback path. Choose another root or move the existing

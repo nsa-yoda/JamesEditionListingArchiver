@@ -24,9 +24,13 @@ type Service struct {
 }
 
 type Result struct {
-	Directory  string
-	Listing    model.Listing
-	Discovered int
+	Directory        string
+	Listing          model.Listing
+	DiscoveredImages int
+	DiscoveredVideos int
+	NewAssets        int
+	ReusedAssets     int
+	FailedAssets     int
 }
 
 var ErrArchiveCollision = errors.New("archive path collision")
@@ -37,6 +41,7 @@ type Options struct {
 	Overwrite    bool
 	MetadataOnly bool
 	MaxImages    int
+	AssetsOnly   bool
 }
 
 type ExistingIndex struct {
@@ -68,11 +73,11 @@ func (s Service) InspectHTML(ctx context.Context, sourceURL string, html []byte)
 	if err := validateImportedHTML(sourceURL, html); err != nil {
 		return model.Listing{}, 0, err
 	}
-	listing, imageURLs, err := s.extract(ctx, sourceURL, sourceURL, html)
+	listing, mediaURLs, err := s.extract(ctx, sourceURL, sourceURL, html)
 	if err != nil {
 		return model.Listing{}, 0, err
 	}
-	return *listing, len(imageURLs), nil
+	return *listing, len(mediaURLs.Images) + len(mediaURLs.Videos), nil
 }
 
 func validateImportedHTML(sourceURL string, html []byte) error {
@@ -93,13 +98,26 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 	if !options.MetadataOnly && s.Client == nil {
 		return Result{}, fmt.Errorf("HTTP client is required to download imported listing images")
 	}
-	listing, imageURLs, err := s.extract(ctx, rawURL, finalURL, html)
+	extracted, mediaURLs, err := s.extract(ctx, rawURL, finalURL, html)
 	if err != nil {
 		return Result{}, err
 	}
-	directory, err := resolveListingDirectory(options.Root, *listing)
-	if err != nil {
-		return Result{}, err
+	listing := extracted
+	var directory string
+	if options.AssetsOnly {
+		if existing, err := BuildExistingIndex(options.Root); err == nil {
+			if found, ok := existing.Find(*listing); ok {
+				directory = found
+			}
+		} else {
+			return Result{}, fmt.Errorf("inspect existing archives for assets-only refresh: %w", err)
+		}
+	}
+	if directory == "" {
+		directory, err = resolveListingDirectory(options.Root, *listing)
+		if err != nil {
+			return Result{}, err
+		}
 	}
 	imagesDir := filepath.Join(directory, "images")
 	if err := os.MkdirAll(imagesDir, 0o755); err != nil {
@@ -111,23 +129,77 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 	if err := writeAtomic(filepath.Join(directory, "source.url"), []byte(finalURL+"\n"), 0o644); err != nil {
 		return Result{}, fmt.Errorf("write source URL: %w", err)
 	}
-	discovered := len(imageURLs)
-	if options.MaxImages > 0 && len(imageURLs) > options.MaxImages {
-		listing.Warnings = append(listing.Warnings, fmt.Sprintf("image downloads limited to %d of %d discovered URLs", options.MaxImages, len(imageURLs)))
-		imageURLs = imageURLs[:options.MaxImages]
+	lookups, err := loadExistingAssetLookups(directory)
+	if err != nil {
+		return Result{}, err
+	}
+	if options.AssetsOnly {
+		if existing, err := readListing(filepath.Join(directory, "listing.json")); err == nil {
+			existing.Source.URL = rawURL
+			if existing.Source.CanonicalURL == "" {
+				existing.Source.CanonicalURL = listing.Source.CanonicalURL
+			}
+			existing.Source.RetrievedAt = listing.Source.RetrievedAt
+			listing = &existing
+		} else if !os.IsNotExist(err) {
+			return Result{}, fmt.Errorf("read existing listing for assets-only refresh: %w", err)
+		}
+	}
+	discoveredImages := len(mediaURLs.Images)
+	discoveredVideos := len(mediaURLs.Videos)
+	if options.MaxImages > 0 && len(mediaURLs.Images) > options.MaxImages {
+		listing.Warnings = append(listing.Warnings, fmt.Sprintf("image downloads limited to %d of %d discovered URLs", options.MaxImages, len(mediaURLs.Images)))
+		mediaURLs.Images = mediaURLs.Images[:options.MaxImages]
 	}
 	if options.MetadataOnly {
-		for _, imageURL := range imageURLs {
-			listing.Images = append(listing.Images, model.Image{SourceURL: imageURL})
+		for _, imageURL := range mediaURLs.Images {
+			listing.Images = append(listing.Images, model.Asset{SourceURL: imageURL, Status: "discovered"})
+		}
+		for _, videoURL := range mediaURLs.Videos {
+			listing.Videos = append(listing.Videos, model.Asset{
+				SourceURL:       videoURL.SourceURL,
+				PosterSourceURL: videoURL.PosterURL,
+				Status:          "discovered",
+			})
 		}
 	} else {
-		listing.Images = s.Client.DownloadImages(ctx, imageURLs, imagesDir, downloader.ImageOptions{
-			Workers: options.Workers, Overwrite: options.Overwrite, Referer: finalURL,
+		listing.Images = s.Client.DownloadImages(ctx, mediaURLs.Images, imagesDir, downloader.ImageOptions{
+			Workers: options.Workers, Overwrite: options.Overwrite, Referer: finalURL, Existing: lookups.Images,
 		})
+		if len(mediaURLs.Videos) > 0 {
+			videosDir := filepath.Join(directory, "videos")
+			if err := os.MkdirAll(videosDir, 0o755); err != nil {
+				return Result{}, fmt.Errorf("create video archive directory: %w", err)
+			}
+			videoURLs := make([]string, 0, len(mediaURLs.Videos))
+			videoPosters := map[string]string{}
+			for _, video := range mediaURLs.Videos {
+				videoURLs = append(videoURLs, video.SourceURL)
+				if video.PosterURL != "" {
+					videoPosters[video.SourceURL] = video.PosterURL
+				}
+			}
+			listing.Videos = s.Client.DownloadVideos(ctx, videoURLs, videosDir, downloader.ImageOptions{
+				Workers: options.Workers, Overwrite: options.Overwrite, Referer: finalURL, Existing: lookups.Videos,
+			})
+			for index := range listing.Videos {
+				if posterURL := videoPosters[listing.Videos[index].SourceURL]; posterURL != "" {
+					listing.Videos[index].PosterSourceURL = posterURL
+				}
+			}
+			if err := s.downloadVideoPosters(ctx, videosDir, finalURL, options, lookups, listing.Videos); err != nil {
+				return Result{}, err
+			}
+		}
 	}
 	for _, image := range listing.Images {
 		if image.Error != "" {
 			listing.Warnings = append(listing.Warnings, fmt.Sprintf("image %s: %s", image.SourceURL, image.Error))
+		}
+	}
+	for _, video := range listing.Videos {
+		if video.Error != "" {
+			listing.Warnings = append(listing.Warnings, fmt.Sprintf("video %s: %s", video.SourceURL, video.Error))
 		}
 	}
 	metadata, err := json.MarshalIndent(listing, "", "  ")
@@ -145,30 +217,50 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 	if err := writeAtomic(filepath.Join(directory, "README.md"), []byte(renderMarkdown(*listing)), 0o644); err != nil {
 		return Result{}, fmt.Errorf("write archive README: %w", err)
 	}
-	if err := updateBrowserIndexes(options.Root, imagesDir, time.Now().UTC()); err != nil {
+	generatedAt := time.Now().UTC()
+	if err := writeArchiveManifest(directory, *listing, generatedAt); err != nil {
+		return Result{}, err
+	}
+	if err := updateBrowserIndexes(options.Root, directory, generatedAt); err != nil {
 		return Result{}, fmt.Errorf("update browser indexes: %w", err)
 	}
-	return Result{Directory: directory, Listing: *listing, Discovered: discovered}, nil
+	if err := updateBrowserIndexes(options.Root, imagesDir, generatedAt); err != nil {
+		return Result{}, fmt.Errorf("update browser indexes: %w", err)
+	}
+	if len(listing.Videos) > 0 {
+		if err := updateBrowserIndexes(options.Root, filepath.Join(directory, "videos"), generatedAt); err != nil {
+			return Result{}, fmt.Errorf("update browser indexes: %w", err)
+		}
+	}
+	return Result{
+		Directory:        directory,
+		Listing:          *listing,
+		DiscoveredImages: discoveredImages,
+		DiscoveredVideos: discoveredVideos,
+		NewAssets:        countAssetsByStatus(listing.Images, listing.Videos, "new"),
+		ReusedAssets:     countAssetsByStatus(listing.Images, listing.Videos, "existing"),
+		FailedAssets:     countAssetsByStatus(listing.Images, listing.Videos, "failed"),
+	}, nil
 }
 
-func (s Service) extract(ctx context.Context, rawURL, finalURL string, html []byte) (*model.Listing, []string, error) {
+func (s Service) extract(ctx context.Context, rawURL, finalURL string, html []byte) (*model.Listing, site.MediaURLs, error) {
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(string(html)))
 	if err != nil {
-		return nil, nil, fmt.Errorf("parse HTML: %w", err)
+		return nil, site.MediaURLs{}, fmt.Errorf("parse HTML: %w", err)
 	}
 	extractor := site.Select(finalURL, s.Extractors...)
 	if extractor == nil {
-		return nil, nil, fmt.Errorf("unsupported listing site: %s", downloader.DisplayURL(finalURL))
+		return nil, site.MediaURLs{}, fmt.Errorf("unsupported listing site: %s", downloader.DisplayURL(finalURL))
 	}
-	listing, imageURLs, err := extractor.Extract(ctx, site.Page{URL: finalURL, HTML: html, Doc: doc})
+	listing, mediaURLs, err := extractor.Extract(ctx, site.Page{URL: finalURL, HTML: html, Doc: doc})
 	if err != nil {
-		return nil, nil, fmt.Errorf("extract listing: %w", err)
+		return nil, site.MediaURLs{}, fmt.Errorf("extract listing: %w", err)
 	}
 	listing.Source.URL = rawURL
 	if listing.Source.CanonicalURL == "" {
 		listing.Source.CanonicalURL = finalURL
 	}
-	return listing, imageURLs, nil
+	return listing, mediaURLs, nil
 }
 
 func listingDirectory(root string, listing model.Listing) (string, error) {
@@ -420,6 +512,15 @@ func renderMarkdown(listing model.Listing) string {
 		}
 	}
 	fmt.Fprintf(&builder, "- Images downloaded: %d\n", successes)
+	videoSuccesses := 0
+	for _, video := range listing.Videos {
+		if video.File != "" {
+			videoSuccesses++
+		}
+	}
+	if len(listing.Videos) > 0 || listing.Property.VideoURL != "" {
+		fmt.Fprintf(&builder, "- Videos downloaded: %d\n", videoSuccesses)
+	}
 
 	builder.WriteString("\n## Property\n\n")
 	writeMarkdownValue(&builder, "Type", listing.Property.Type)
@@ -458,6 +559,56 @@ func renderMarkdown(listing model.Listing) string {
 		}
 	}
 	return builder.String()
+}
+
+func (s Service) downloadVideoPosters(ctx context.Context, videosDir, referer string, options Options, lookups existingAssetLookups, videos []model.Asset) error {
+	for index := range videos {
+		if videos[index].PosterSourceURL == "" {
+			continue
+		}
+		results := s.Client.DownloadImages(ctx, []string{videos[index].PosterSourceURL}, videosDir, downloader.ImageOptions{
+			Workers: 1, Overwrite: options.Overwrite, Referer: referer, Existing: lookups.Posters,
+		})
+		if len(results) == 0 {
+			continue
+		}
+		videos[index].PosterFile = results[0].File
+		if videos[index].Status == "" {
+			videos[index].Status = results[0].Status
+		}
+		if results[0].Error != "" && videos[index].Error == "" {
+			videos[index].Error = fmt.Sprintf("poster %s: %s", videos[index].PosterSourceURL, results[0].Error)
+			videos[index].Status = "failed"
+		}
+	}
+	return nil
+}
+
+func countAssetsByStatus(images, videos []model.Asset, status string) int {
+	total := 0
+	for _, asset := range images {
+		if asset.Status == status {
+			total++
+		}
+	}
+	for _, asset := range videos {
+		if asset.Status == status {
+			total++
+		}
+	}
+	return total
+}
+
+func readListing(filename string) (model.Listing, error) {
+	data, err := os.ReadFile(filename)
+	if err != nil {
+		return model.Listing{}, err
+	}
+	var listing model.Listing
+	if err := json.Unmarshal(data, &listing); err != nil {
+		return model.Listing{}, err
+	}
+	return listing, nil
 }
 
 func writeMarkdownValue(builder *strings.Builder, label, value string) {

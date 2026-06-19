@@ -13,7 +13,7 @@ import (
 	"time"
 )
 
-//go:embed index.html
+//go:embed index.html assets/*
 var browserAssets embed.FS
 
 const browserIndexSchemaVersion = 1
@@ -119,14 +119,37 @@ func writeBrowserIndex(root, directory string, now time.Time) error {
 	if err := rebuildListingScript(directory); err != nil {
 		return err
 	}
+	if err := writeListingPageAssets(directory); err != nil {
+		return err
+	}
 
+	index, err := buildBrowserIndex(root, directory, now)
+	if err != nil {
+		return err
+	}
+	data, err := json.MarshalIndent(index, "", "  ")
+	if err != nil {
+		return fmt.Errorf("marshal browser index: %w", err)
+	}
+	script := append([]byte("window."+browserIndexVariable+" = "), data...)
+	script = append(script, ';', '\n')
+	if err := writeAtomic(filepath.Join(directory, "index.json"), append(data, '\n'), 0o644); err != nil {
+		return fmt.Errorf("write browser index JSON data: %w", err)
+	}
+	if err := writeAtomic(filepath.Join(directory, "index.js"), script, 0o644); err != nil {
+		return fmt.Errorf("write browser index JavaScript data: %w", err)
+	}
+	return nil
+}
+
+func buildBrowserIndex(root, directory string, now time.Time) (browserIndex, error) {
 	entries, err := os.ReadDir(directory)
 	if err != nil {
-		return fmt.Errorf("read browser index directory: %w", err)
+		return browserIndex{}, fmt.Errorf("read browser index directory: %w", err)
 	}
 	rel, err := filepath.Rel(root, directory)
 	if err != nil {
-		return fmt.Errorf("resolve browser index path: %w", err)
+		return browserIndex{}, fmt.Errorf("resolve browser index path: %w", err)
 	}
 	index := browserIndex{
 		SchemaVersion: browserIndexSchemaVersion,
@@ -142,7 +165,7 @@ func writeBrowserIndex(root, directory string, now time.Time) error {
 	}
 	for _, entry := range entries {
 		name := entry.Name()
-		if name == "index.html" || name == "index.js" || name == "index.json" || name == "listing.js" || strings.HasPrefix(name, ".index.") {
+		if name == "index.html" || name == "index.js" || name == "index.json" || name == "listing.js" || name == "video.min.js" || name == "video-js.min.css" || strings.HasPrefix(name, ".index.") {
 			continue
 		}
 		if entry.Type()&os.ModeSymlink != 0 {
@@ -154,7 +177,7 @@ func writeBrowserIndex(root, directory string, now time.Time) error {
 		}
 		info, err := entry.Info()
 		if err != nil {
-			return fmt.Errorf("inspect browser index entry %q: %w", name, err)
+			return browserIndex{}, fmt.Errorf("inspect browser index entry %q: %w", name, err)
 		}
 		index.Files = append(index.Files, browserFile{Name: name, Href: pathHref(name), Size: info.Size()})
 	}
@@ -164,19 +187,7 @@ func writeBrowserIndex(root, directory string, now time.Time) error {
 	sort.Slice(index.Files, func(i, j int) bool {
 		return strings.ToLower(index.Files[i].Name) < strings.ToLower(index.Files[j].Name)
 	})
-	data, err := json.MarshalIndent(index, "", "  ")
-	if err != nil {
-		return fmt.Errorf("marshal browser index: %w", err)
-	}
-	script := append([]byte("window."+browserIndexVariable+" = "), data...)
-	script = append(script, ';', '\n')
-	if err := writeAtomic(filepath.Join(directory, "index.json"), append(data, '\n'), 0o644); err != nil {
-		return fmt.Errorf("write browser index JSON data: %w", err)
-	}
-	if err := writeAtomic(filepath.Join(directory, "index.js"), script, 0o644); err != nil {
-		return fmt.Errorf("write browser index JavaScript data: %w", err)
-	}
-	return nil
+	return index, nil
 }
 
 func rebuildListingScript(directory string) error {
@@ -195,6 +206,24 @@ func rebuildListingScript(directory string) error {
 	script = append(script, ';', '\n')
 	if err := writeAtomic(filepath.Join(directory, "listing.js"), script, 0o644); err != nil {
 		return fmt.Errorf("write listing manifest script: %w", err)
+	}
+	return nil
+}
+
+func writeListingPageAssets(directory string) error {
+	if _, err := os.Stat(filepath.Join(directory, "listing.json")); os.IsNotExist(err) {
+		return nil
+	} else if err != nil {
+		return fmt.Errorf("inspect listing manifest for browser assets: %w", err)
+	}
+	for _, asset := range []string{"assets/video.min.js", "assets/video-js.min.css"} {
+		data, err := browserAssets.ReadFile(asset)
+		if err != nil {
+			return fmt.Errorf("read embedded browser asset %q: %w", asset, err)
+		}
+		if err := writeAtomic(filepath.Join(directory, filepath.Base(asset)), data, 0o644); err != nil {
+			return fmt.Errorf("write embedded browser asset %q: %w", asset, err)
+		}
 	}
 	return nil
 }

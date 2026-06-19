@@ -25,6 +25,21 @@ func TestParseValidation(t *testing.T) {
 	if cfg, err := Parse([]string{"-reindex"}, io.Discard); err != nil || !cfg.Reindex {
 		t.Fatalf("reindex config = %#v, %v", cfg, err)
 	}
+	if cfg, err := Parse([]string{"-verify"}, io.Discard); err != nil || !cfg.Verify {
+		t.Fatalf("verify config = %#v, %v", cfg, err)
+	}
+	if cfg, err := Parse([]string{"-migrate"}, io.Discard); err != nil || !cfg.Migrate {
+		t.Fatalf("migrate config = %#v, %v", cfg, err)
+	}
+	for _, args := range [][]string{
+		{"-assets-only", "-metadata-only", "-url", "https://example.test"},
+		{"-assets-only", "-verify"},
+		{"-assets-only", "-migrate"},
+	} {
+		if _, err := Parse(args, io.Discard); err == nil {
+			t.Fatalf("expected error for %#v", args)
+		}
+	}
 }
 
 func TestParseHTMLImport(t *testing.T) {

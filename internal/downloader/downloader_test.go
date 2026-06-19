@@ -150,7 +150,7 @@ func TestDownloadImageRejectsMismatchedResumeRange(t *testing.T) {
 	dir := t.TempDir()
 	rawURL := server.URL + "/image"
 	hash := sha256.Sum256([]byte(rawURL))
-	part := filepath.Join(dir, fmt.Sprintf("001-%x.part", hash[:4]))
+	part := filepath.Join(dir, fmt.Sprintf("img-%x.part", hash[:6]))
 	if err := os.WriteFile(part, tinyPNG[:10], 0o644); err != nil {
 		t.Fatal(err)
 	}

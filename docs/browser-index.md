@@ -9,8 +9,13 @@ Every directory managed by `listing-archiver` contains:
   for browsers that block local JSON reads.
 
 The page contains all CSS and JavaScript it needs and reads the adjacent
-`index.json`, falling back to `index.js` when needed. The page is intentionally
-identical at every archive level.
+`index.json`, falling back to `index.js` when needed. At listing directories it
+also loads `listing.json`/`listing.js`, renders bounded media frames for local
+images, and upgrades local `.mp4`/`.webm` files with vendored `video.min.js`
+and `video-js.min.css` assets stored beside the listing page. It also provides
+a sticky listing toolbar for filtering videos, images, failures, and warnings,
+and copy buttons for archived source URLs. The page is intentionally identical
+at every archive level.
 
 For display, the page renders `path` as a breadcrumb-style label such as
 `United States > New York > Albany > 10 Main Street`. The raw `path` value in
@@ -49,7 +54,8 @@ For display, the page renders `path` as a breadcrumb-style label such as
 - `size` is the file size in bytes.
 - `last_updated` is an RFC3339 UTC timestamp.
 - Symlinks and generated `index.html`/`index.json`/`index.js`/`listing.js`
-  files are not listed.
+  files are not listed. Listing directories also omit their generated
+  `video.min.js` and `video-js.min.css` assets from the browser index.
 
 Indexes are updated atomically along an affected listing's path after a
 successful archive run. Run `listing-archiver -reindex -root <archive>` to

@@ -3,6 +3,7 @@ package app
 import (
 	"bytes"
 	"context"
+	"encoding/json"
 	"fmt"
 	"net/http"
 	"net/http/httptest"
@@ -10,6 +11,9 @@ import (
 	"path/filepath"
 	"strings"
 	"testing"
+	"time"
+
+	"listing-archiver/internal/model"
 )
 
 func TestRunUsageErrorExitCode(t *testing.T) {
@@ -17,7 +21,7 @@ func TestRunUsageErrorExitCode(t *testing.T) {
 	if code := Run(context.Background(), nil, &bytes.Buffer{}, &stderr); code != 2 {
 		t.Fatalf("exit code = %d", code)
 	}
-	if !strings.Contains(stderr.String(), "at least one URL, -input, -html, -html-dir, or -reindex is required") {
+	if !strings.Contains(stderr.String(), "at least one URL, -input, -html, -html-dir, -reindex, -verify, or -migrate is required") {
 		t.Fatalf("stderr = %q", stderr.String())
 	}
 }
@@ -174,5 +178,100 @@ func TestRunHTMLDirectorySkipsExistingUnlessRefresh(t *testing.T) {
 	}
 	if strings.Contains(refreshOut.String(), "Skipped existing:") || !strings.Contains(refreshOut.String(), "Imported HTML archive to:") {
 		t.Fatalf("refresh stdout = %q", refreshOut.String())
+	}
+}
+
+func TestRunVerify(t *testing.T) {
+	root := t.TempDir()
+	dir := filepath.Join(root, "Country", "Region", "Municipality", "10 Main St")
+	if err := os.MkdirAll(filepath.Join(dir, "images"), 0o755); err != nil {
+		t.Fatal(err)
+	}
+	listing := model.New("https://example.test/listing", "test", time.Unix(1, 0))
+	listing.Source.CanonicalURL = listing.Source.URL
+	listing.Location.Country = "Country"
+	listing.Location.Region = "Region"
+	listing.Location.Municipality = "Municipality"
+	listing.Location.Street = "10 Main St"
+	listing.Images = []model.Asset{{SourceURL: "https://example.test/image.jpg", File: "img-1.jpg", Status: "existing"}}
+	data, err := json.Marshal(listing)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "listing.json"), data, 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "listing.js"), []byte("window.listingArchiveListing = {};\n"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "source.url"), []byte(listing.Source.URL+"\n"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "README.md"), []byte("x"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "source.html"), []byte("<html></html>"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "images", "img-1.jpg"), []byte("fixture"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "manifest.json"), []byte(`{"schema_version":1,"files":[],"assets":[],"summary":{}}`), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	var stdout, stderr bytes.Buffer
+	code := Run(context.Background(), []string{"-verify", "-root", root}, &stdout, &stderr)
+	if code != 1 {
+		t.Fatalf("code = %d, stdout=%q stderr=%q", code, stdout.String(), stderr.String())
+	}
+	if !strings.Contains(stdout.String(), "Verified ") || !strings.Contains(stderr.String(), "verify: ") {
+		t.Fatalf("stdout = %q, stderr = %q", stdout.String(), stderr.String())
+	}
+}
+
+func TestRunMigrate(t *testing.T) {
+	root := t.TempDir()
+	dir := filepath.Join(root, "Country", "Region", "Municipality", "10 Main St")
+	if err := os.MkdirAll(filepath.Join(dir, "images"), 0o755); err != nil {
+		t.Fatal(err)
+	}
+	listing := model.New("https://example.test/listing", "test", time.Unix(1, 0))
+	listing.SchemaVersion = 1
+	listing.Source.CanonicalURL = listing.Source.URL
+	listing.Location.Country = "Country"
+	listing.Location.Region = "Region"
+	listing.Location.Municipality = "Municipality"
+	listing.Location.Street = "10 Main St"
+	listing.Images = []model.Asset{{SourceURL: "https://example.test/image.jpg", File: "img-1.jpg"}}
+	data, err := json.Marshal(listing)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "listing.json"), data, 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "source.url"), []byte(listing.Source.URL+"\n"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "source.html"), []byte("<html></html>"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "images", "img-1.jpg"), []byte("fixture"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	var stdout, stderr bytes.Buffer
+	code := Run(context.Background(), []string{"-migrate", "-root", root}, &stdout, &stderr)
+	if code != 0 {
+		t.Fatalf("code = %d, stdout=%q stderr=%q", code, stdout.String(), stderr.String())
+	}
+	if !strings.Contains(stdout.String(), "Migrated 1 archive(s)") {
+		t.Fatalf("stdout = %q", stdout.String())
+	}
+	data, err = os.ReadFile(filepath.Join(dir, "manifest.json"))
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !strings.Contains(string(data), `"schema_version": 1`) {
+		t.Fatalf("manifest.json = %s", data)
 	}
 }

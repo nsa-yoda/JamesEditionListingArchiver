@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-const SchemaVersion = 1
+const SchemaVersion = 2
 
 type Listing struct {
 	SchemaVersion int            `json:"schema_version"`
@@ -13,7 +13,8 @@ type Listing struct {
 	Location      Location       `json:"location"`
 	Property      Property       `json:"property"`
 	Broker        Broker         `json:"broker,omitempty"`
-	Images        []Image        `json:"images"`
+	Images        []Asset        `json:"images"`
+	Videos        []Asset        `json:"videos,omitempty"`
 	Metadata      map[string]any `json:"metadata,omitempty"`
 	Warnings      []string       `json:"warnings"`
 }
@@ -87,12 +88,15 @@ type Broker struct {
 	AgencyAddress    string `json:"agency_address,omitempty"`
 }
 
-type Image struct {
-	SourceURL string `json:"source_url"`
-	File      string `json:"file,omitempty"`
-	MediaType string `json:"media_type,omitempty"`
-	Bytes     int64  `json:"bytes,omitempty"`
-	Error     string `json:"error,omitempty"`
+type Asset struct {
+	SourceURL       string `json:"source_url"`
+	File            string `json:"file,omitempty"`
+	MediaType       string `json:"media_type,omitempty"`
+	Bytes           int64  `json:"bytes,omitempty"`
+	Status          string `json:"status,omitempty"`
+	PosterSourceURL string `json:"poster_source_url,omitempty"`
+	PosterFile      string `json:"poster_file,omitempty"`
+	Error           string `json:"error,omitempty"`
 }
 
 func New(sourceURL, site string, retrievedAt time.Time) Listing {
@@ -100,7 +104,8 @@ func New(sourceURL, site string, retrievedAt time.Time) Listing {
 		SchemaVersion: SchemaVersion,
 		Source:        Source{URL: sourceURL, Site: site, RetrievedAt: retrievedAt.UTC()},
 		Property:      Property{Features: []string{}},
-		Images:        []Image{},
+		Images:        []Asset{},
+		Videos:        []Asset{},
 		Warnings:      []string{},
 	}
 }

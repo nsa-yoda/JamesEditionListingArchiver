@@ -26,10 +26,19 @@
     .features { display: flex; flex-wrap: wrap; gap: .4rem; }
     .features li { border: 1px solid #8885; border-radius: 1rem; padding: .3rem .65rem; }
     .description { line-height: 1.55; white-space: pre-wrap; }
-    .image-gallery { display: grid; gap: 30px; width: 100vw; margin: 2rem 0 0 calc(50% - 50vw); }
-    .image-gallery figure { margin: 0; }
-    .image-gallery a { display: block; padding: 0; }
-    .image-gallery img { display: block; width: 100%; height: auto; }
+    .listing-toolbar { position: sticky; top: 0; z-index: 10; display: flex; flex-wrap: wrap; gap: .5rem; padding: .75rem 0; background: color-mix(in srgb, canvas 92%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid #8884; }
+    .listing-toolbar button { border: 1px solid #8885; background: transparent; color: inherit; border-radius: 999px; padding: .35rem .7rem; cursor: pointer; }
+    .listing-toolbar button[data-active="true"] { background: #8883; }
+    .toolbar-count { color: #777; align-self: center; }
+    .media-gallery { display: grid; gap: 30px; width: 100vw; margin: 2rem 0 0 calc(50% - 50vw); }
+    .media-gallery figure { margin: 0; }
+    .media-frame { width: 100%; max-height: min(80vh, 56rem); min-height: 20rem; background: #111; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+    .media-frame a { display: block; width: 100%; height: 100%; padding: 0; }
+    .media-frame img { display: block; width: 100%; height: 100%; object-fit: contain; }
+    .media-player, .media-player.video-js, .media-player video { display: block; width: 100%; height: 100%; }
+    .media-player video { background: #000; }
+    .media-item[hidden], .warning-item[hidden], .media-gallery figure[hidden], .media-heading[hidden], details[hidden] { display: none !important; }
+    .copy-link { margin-left: .6rem; border: 1px solid #8885; background: transparent; color: inherit; border-radius: .4rem; padding: .15rem .4rem; cursor: pointer; }
     details { margin-top: 1.5rem; }
     #error { border: 1px solid #b44; padding: 1rem; white-space: pre-wrap; }
     footer { color: #777; font-size: .8rem; margin-top: 2rem; }
@@ -59,31 +68,231 @@
     const displayUnitPrice = value => value && (value.display || [displayNumber(value.amount), value.currency, value.per_unit && `per ${value.per_unit}`].filter(Boolean).join(" "));
     const displayMeasurement = value => value && (value.display || [displayNumber(value.value), value.unit].filter(Boolean).join(" "));
     const displayPath = value => value && value !== "." ? value.split("/").filter(Boolean).join(" > ") : "Archive root";
+    const externalLink = href => {
+      const link = document.createElement("a");
+      link.href = href;
+      link.target = "_blank";
+      link.rel = "noopener";
+      return link;
+    };
     const addField = (list, label, value, href) => {
       if (value === undefined || value === null || value === "") return;
       const term = document.createElement("dt");
       term.textContent = label;
       const detail = document.createElement("dd");
       if (href) {
-        const link = document.createElement("a");
-        link.href = href;
+        const link = externalLink(href);
         link.textContent = value;
-        link.target = "_blank";
-        link.rel = "noopener";
         detail.append(link);
       } else {
         detail.textContent = value;
       }
       list.append(term, detail);
     };
+    const addCopyButton = (container, value) => {
+      if (!value) return;
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "copy-link";
+      button.textContent = "Copy URL";
+      button.addEventListener("click", () => navigator.clipboard?.writeText(value).then(() => {
+        button.textContent = "Copied";
+        setTimeout(() => { button.textContent = "Copy URL"; }, 1200);
+      }).catch(() => {
+        button.textContent = "Copy failed";
+        setTimeout(() => { button.textContent = "Copy URL"; }, 1200);
+      }));
+      container.append(button);
+    };
+    const mediaDetails = (title, items, subdir) => {
+      if (!items?.length) return null;
+      const details = document.createElement("details");
+      details.dataset.kind = subdir;
+      const summary = document.createElement("summary");
+      summary.textContent = `${title} (${items.length})`;
+      const list = document.createElement("ul");
+      items.forEach((item, index) => {
+        const entry = document.createElement("li");
+        entry.className = "media-item";
+        entry.dataset.kind = subdir;
+        entry.dataset.status = item.error ? "failed" : (item.status || (item.file ? "existing" : "discovered"));
+        const href = item.file ? `${subdir}/${item.file}` : item.source_url;
+        const link = item.file ? document.createElement("a") : externalLink(href);
+        link.href = href;
+        link.textContent = item.file || item.source_url || `${title} ${index + 1}`;
+        entry.append(link);
+        addCopyButton(entry, item.source_url);
+        const metadata = [item.media_type, Number.isFinite(item.bytes) && item.bytes > 0 ? formatBytes(item.bytes) : ""].filter(Boolean).join(", ");
+        if (metadata) entry.append(escapeText(` — ${metadata}`));
+        if (item.status) entry.append(escapeText(` — ${item.status}`));
+        if (item.error) entry.append(escapeText(` — ${item.error}`));
+        list.append(entry);
+      });
+      details.append(summary, list);
+      return details;
+    };
+    const mediaGallery = (listing, title, items, subdir, tagName) => {
+      if (!items?.length) return [];
+      const heading = document.createElement("h2");
+      heading.className = "media-heading";
+      heading.dataset.kind = subdir;
+      heading.textContent = `${title} (${items.length})`;
+      const gallery = document.createElement("section");
+      gallery.className = "media-gallery";
+      gallery.dataset.kind = subdir;
+      gallery.setAttribute("aria-label", `Listing ${title.toLowerCase()}`);
+      items.forEach((item, index) => {
+        const source = item.file ? `${subdir}/${item.file}` : item.source_url;
+        if (!source) return;
+        const figure = document.createElement("figure");
+        figure.dataset.kind = subdir;
+        figure.dataset.status = item.error ? "failed" : (item.status || (item.file ? "existing" : "discovered"));
+        const frame = document.createElement("div");
+        frame.className = "media-frame";
+        if (tagName === "video") {
+          const video = document.createElement("video");
+          video.className = "media-player video-js vjs-default-skin";
+          video.src = source;
+          if (item.poster_file) video.poster = `videos/${item.poster_file}`;
+          video.controls = true;
+          video.preload = "metadata";
+          video.playsInline = true;
+          video.setAttribute("aria-label", `${listing.property?.title || "Listing"} video ${index + 1}`);
+          frame.append(video);
+        } else {
+          const link = document.createElement("a");
+          link.href = source;
+          const image = document.createElement("img");
+          image.src = source;
+          image.alt = `${listing.property?.title || "Listing"} image ${index + 1}`;
+          image.loading = "lazy";
+          image.decoding = "async";
+          link.append(image);
+          frame.append(link);
+        }
+        figure.append(frame);
+        gallery.append(figure);
+      });
+      return gallery.childElementCount ? [heading, gallery] : [];
+    };
+    const applyListingFilter = value => {
+      document.querySelectorAll("[data-filter-button]").forEach(button => {
+        button.dataset.active = String(button.dataset.filterButton === value);
+      });
+      const showAll = value === "all";
+      document.querySelectorAll(".media-item, .media-gallery figure").forEach(node => {
+        const kind = node.dataset.kind;
+        const status = node.dataset.status;
+        const show = showAll ||
+          (value === "images" && kind === "images") ||
+          (value === "videos" && kind === "videos") ||
+          (value === "failed" && status === "failed");
+        node.hidden = !show;
+      });
+      document.querySelectorAll(".media-heading, details[data-kind]").forEach(node => {
+        const kind = node.dataset.kind;
+        const show = showAll ||
+          (value === "images" && kind === "images") ||
+          (value === "videos" && kind === "videos") ||
+          (value === "failed" && (kind === "images" || kind === "videos")) ||
+          (value === "warnings" && kind === "warnings");
+        node.hidden = !show;
+      });
+      document.querySelectorAll(".warning-item").forEach(node => {
+        node.hidden = !(showAll || value === "warnings");
+      });
+      const warningsDetails = document.querySelector("details[data-kind='warnings']");
+      if (warningsDetails) warningsDetails.hidden = !(showAll || value === "warnings");
+      document.querySelectorAll(".media-gallery").forEach(gallery => {
+        const visible = Array.from(gallery.children).some(child => !child.hidden);
+        gallery.hidden = !visible;
+      });
+      document.querySelectorAll(".media-heading").forEach(heading => {
+        const next = heading.nextElementSibling;
+        heading.hidden = !next || next.hidden;
+      });
+      const count = document.querySelector(".toolbar-count");
+      if (count) {
+        const visibleMedia = document.querySelectorAll(".media-item:not([hidden]), .media-gallery figure:not([hidden])").length;
+        const visibleWarnings = document.querySelectorAll(".warning-item:not([hidden])").length;
+        count.textContent = `${visibleMedia} visible media item(s), ${visibleWarnings} warning(s)`;
+      }
+    };
+    const listingToolbar = listing => {
+      const assets = [...(listing.videos || []), ...(listing.images || [])];
+      if (!assets.length && !(listing.warnings || []).length) return null;
+      const toolbar = document.createElement("section");
+      toolbar.className = "listing-toolbar";
+      [
+        ["all", "All"],
+        ["videos", "Videos"],
+        ["images", "Images"],
+        ["failed", "Failures"],
+        ["warnings", "Warnings"]
+      ].forEach(([value, label], index) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.dataset.filterButton = value;
+        button.dataset.active = String(index === 0);
+        button.textContent = label;
+        button.addEventListener("click", () => applyListingFilter(value));
+        toolbar.append(button);
+      });
+      const count = document.createElement("span");
+      count.className = "toolbar-count";
+      toolbar.append(count);
+      return toolbar;
+    };
+    const ensureVideoJS = () => {
+      if (document.querySelector('script[data-videojs-local]')) return Promise.resolve(window.videojs);
+      if (!document.querySelector('link[data-videojs-local]')) {
+        const link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.href = "./video-js.min.css";
+        link.dataset.videojsLocal = "true";
+        document.head.append(link);
+      }
+      return new Promise((resolve, reject) => {
+        if (window.videojs) {
+          resolve(window.videojs);
+          return;
+        }
+        const existing = document.querySelector('script[data-videojs-local]');
+        if (existing) {
+          existing.addEventListener("load", () => resolve(window.videojs), { once: true });
+          existing.addEventListener("error", () => reject(new Error("video.min.js could not be loaded")), { once: true });
+          return;
+        }
+        const script = document.createElement("script");
+        script.src = "./video.min.js";
+        script.dataset.videojsLocal = "true";
+        script.onload = () => window.videojs
+          ? resolve(window.videojs)
+          : reject(new Error("video.min.js did not define videojs"));
+        script.onerror = () => reject(new Error("video.min.js could not be loaded"));
+        document.head.append(script);
+      });
+    };
+    const upgradeVideos = () => {
+      const videos = document.querySelectorAll("video.video-js");
+      if (!videos.length) return;
+      ensureVideoJS().then(videojs => {
+        videos.forEach(video => {
+          if (!video.dataset.videojsUpgraded) {
+            video.dataset.videojsUpgraded = "true";
+            videojs(video, { controls: true, preload: "metadata", fluid: true, controlBar: { volumePanel: { inline: false } } });
+          }
+        });
+      }).catch(() => {});
+    };
     const renderListing = listing => {
       const wrapper = document.createElement("article");
-      let galleryHeading;
-      let gallery;
       wrapper.className = "listing";
       const title = document.createElement("h2");
       title.textContent = listing.property?.title || listing.location?.address || "Archived listing";
       wrapper.append(title);
+      const toolbar = listingToolbar(listing);
+      if (toolbar) wrapper.append(toolbar);
 
       const fields = document.createElement("dl");
       addField(fields, "Price", displayMoney(listing.property?.price));
@@ -122,6 +331,12 @@
       addField(fields, "Agency address", listing.broker?.agency_address);
       wrapper.append(fields);
 
+      const videoNodes = mediaGallery(listing, "Videos", listing.videos, "videos", "video");
+      if (videoNodes.length) {
+        wrapper.append(...videoNodes);
+        upgradeVideos();
+      }
+
       if (listing.property?.description) {
         const heading = document.createElement("h2");
         heading.textContent = "Description";
@@ -142,66 +357,29 @@
         });
         wrapper.append(heading, features);
       }
-      if (listing.images?.length) {
-        const details = document.createElement("details");
-        const summary = document.createElement("summary");
-        summary.textContent = `Image files and download status (${listing.images.length})`;
-        const images = document.createElement("ul");
-        listing.images.forEach((image, index) => {
-          const item = document.createElement("li");
-          const link = document.createElement("a");
-          link.href = image.file ? `images/${image.file}` : image.source_url;
-          link.textContent = image.file || image.source_url || `Image ${index + 1}`;
-          if (!image.file) {
-            link.target = "_blank";
-            link.rel = "noopener";
-          }
-          item.append(link);
-          const metadata = [image.media_type, Number.isFinite(image.bytes) && image.bytes > 0 ? formatBytes(image.bytes) : ""].filter(Boolean).join(", ");
-          if (metadata) item.append(escapeText(` — ${metadata}`));
-          if (image.error) item.append(escapeText(` — ${image.error}`));
-          images.append(item);
-        });
-        details.append(summary, images);
-        wrapper.append(details);
-      }
+      const videoDetailsNode = mediaDetails("Video files and download status", listing.videos, "videos");
+      if (videoDetailsNode) wrapper.append(videoDetailsNode);
+      const imageDetailsNode = mediaDetails("Image files and download status", listing.images, "images");
+      if (imageDetailsNode) wrapper.append(imageDetailsNode);
       if (listing.warnings?.length) {
         const details = document.createElement("details");
+        details.dataset.kind = "warnings";
         const summary = document.createElement("summary");
         summary.textContent = `Warnings (${listing.warnings.length})`;
         const warnings = document.createElement("ul");
         listing.warnings.forEach(value => {
           const item = document.createElement("li");
+          item.className = "warning-item";
           item.textContent = value;
           warnings.append(item);
         });
         details.append(summary, warnings);
         wrapper.append(details);
       }
-      if (listing.images?.length) {
-        galleryHeading = document.createElement("h2");
-        galleryHeading.textContent = `Images (${listing.images.length})`;
-        gallery = document.createElement("section");
-        gallery.className = "image-gallery";
-        gallery.setAttribute("aria-label", "Listing images");
-        listing.images.forEach((image, index) => {
-          const source = image.file ? `images/${image.file}` : image.source_url;
-          if (!source) return;
-          const figure = document.createElement("figure");
-          const link = document.createElement("a");
-          link.href = source;
-          const element = document.createElement("img");
-          element.src = source;
-          element.alt = `${listing.property?.title || "Listing"} image ${index + 1}`;
-          element.loading = "lazy";
-          element.decoding = "async";
-          link.append(element);
-          figure.append(link);
-          gallery.append(figure);
-        });
-      }
+      const imageNodes = mediaGallery(listing, "Images", listing.images, "images", "img");
       content.prepend(wrapper);
-      if (gallery?.childElementCount) content.append(galleryHeading, gallery);
+      if (imageNodes.length) content.append(...imageNodes);
+      applyListingFilter("all");
     };
     const section = (title, entries, directory) => {
       if (!entries.length) return null;
