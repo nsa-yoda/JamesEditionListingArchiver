@@ -1,6 +1,6 @@
 # Repository and archive size reduction plan
 
-**Status:** Cleanup and LFS migration are implemented; commit `32817581` is based on `origin/main`. Remote push and post-push Git object reclamation are pending.
+**Status:** Archive cleanup, Git LFS migration, push, and local Git object reclamation are complete. A fresh checkout retrieved and verified the LFS data. Browser indexes were rebuilt after that check exposed ignored `.DS_Store` metadata in the local archive.
 
 ## Goal
 
@@ -45,7 +45,7 @@ The user-provided `du -hs ./*` baseline on 2026-09-27 was:
 | `tasks` | 20 KiB |
 | `testdata` | 0 B |
 
-Immediately after the archive cleanup, before the commit and Git object reclamation, `du -hs ./*` reported `JamesEdition` 2.8 GiB and `RealEstateArchive` 2.5 GiB. Final per-path measurements are recorded after push and local Git cleanup.
+Immediately after the archive cleanup, before the commit and Git object reclamation, `du -hs ./*` reported `JamesEdition` 2.8 GiB and `RealEstateArchive` 2.5 GiB. Final per-path measurements are recorded below after push and local Git cleanup.
 
 ## Implementation progress
 
@@ -57,11 +57,37 @@ Immediately after the archive cleanup, before the commit and Git object reclamat
 - The regular `-migrate` command encountered an existing destination collision at the Corfu archive path. It moved no listing directories. The direct refresh preserved existing listing paths and regenerated required data successfully.
 - A broader perceptual-hash scan was stopped after a slow batch; no files were removed based on visual similarity alone. The removals above rely on matching source UUIDs and resolution metadata.
 - Git LFS 3.8.0 was downloaded to temporary storage and checked against the official SHA-256, then initialized for this repository. Path-scoped attributes cover the retained source pages, images, and videos; README.md documents the full-data and code-only checkout flows.
-- The current staged tree has 20,292 changed paths: 15,914 paths use the new LFS attributes, with 37,893,889 bytes across 2,726 unique ordinary Git blobs. The staged LFS objects pass `git lfs fsck --pointers --objects --dry-run`.
+- Before commit, the staged tree had 20,292 changed paths: 15,914 paths used the new LFS attributes, with 37,893,889 bytes across 2,726 unique ordinary Git blobs. The staged LFS objects passed `git lfs fsck --pointers --objects --dry-run`.
 - `go fmt ./...` and `go vet ./...` passed. The first normal `go test ./...` attempt was blocked by sandbox loopback restrictions; rerunning with local loopback access passed. `go test -race ./...` also passed.
-- `main` was reset to the verified `origin/main` parent while leaving the cleaned working tree intact. Replacement commit `32817581` was created directly on that parent; its ordinary Git blobs total about 36.2 MiB uncompressed, and all 15,914 LFS pointers pass `git lfs fsck`. The normal Git push and LFS upload are pending.
+- `main` was reset to the verified `origin/main` parent while leaving the cleaned working tree intact. Replacement commit `35a6e17b` was pushed as a normal fast-forward from `7e4c2f59`; the rejected commit `918b14bd` is not in the new ancestry. The ordinary Git tree contains about 36.2 MiB of unique blobs before pack compression.
+- Git LFS uploaded 11,671 objects totaling 4.4 GB. A temporary fresh clone retrieved and checked out all 15,914 LFS pointers; `git lfs fsck` passed there. GitHub reported that it validated a random sample of 10,000 objects during push.
+- The fresh checkout revealed three ignored macOS `.DS_Store` files in the local archive; two had been incorporated into generated browser indexes. Removed this OS metadata and rebuilt indexes. `-verify` now passes for all 733 directories, 226 listings, and 8,207 file entries.
+- After confirming the remote branch and verified backup, expired local reflogs and ran `git gc --prune=now`. Git object storage fell from 4.75 GiB of packed objects plus unreachable data to one 7.98 MiB pack. `.git` is now 4.1 GiB, mostly the retained local LFS object cache; the LFS cache was not pruned.
+- Final `du -hs ./*` was:
 
-Do not mark complete until the cleaned commit is based on `origin/main`, LFS objects upload successfully, and the resulting `du -hs ./*` metrics and archive verification are recorded.
+  ```text
+  8.0K  ./AGENTS.md
+  2.8G  ./JamesEdition
+  4.0K  ./Makefile
+   16K  ./README.md
+  2.5G  ./RealEstateArchive
+  4.0K  ./cmd
+  4.0K  ./cookies.txt
+  4.0K  ./docs
+  4.0K  ./go.mod
+  8.0K  ./go.sum
+  1.0M  ./internal
+   11M  ./listing-archiver
+  4.0K  ./main.go
+  4.0K  ./run.sh
+  4.0K  ./serve.sh
+   24K  ./tasks
+    0B  ./testdata
+  ```
+
+  `.git` is hidden from the `./*` glob; its separate post-GC measurement is 4.1 GiB.
+
+The central delivery gates are complete. The original inventory records 30 listing image references without a matching local image; these were already missing before cleanup and remain unresolved rather than guessed or silently rewritten.
 
 ## Target state
 
@@ -174,12 +200,12 @@ For confirmed renditions, select one file deterministically. Prefer the highest 
 
 ## Completion checklist
 
-- [ ] Raw HTML, source URLs, parsed listing records, required archive indexes, unique photos, and videos have verified retained copies.
-- [ ] Inventory and checksum manifests reconcile before and after the cleanup.
-- [ ] Every confirmed image UUID/rendition family has one selected active file and one selected format/resolution, with the choice and removed hashes recorded.
-- [ ] Uncertain image matches are preserved pending review; distinct photos/crops are not removed.
-- [ ] No broken parsed listing media references remain; generated indexes/manifests verify.
-- [ ] Retained remote media is LFS-managed; local-only backup directories and unneeded raw capture resources are excluded from Git.
-- [ ] Rebuilt branch is based on `origin/main` and does not include the rejected large-data commit in its history.
-- [ ] Normal Git pack stays below the remote pack limit, LFS objects upload successfully, and a clean checkout can retrieve and verify the retained archive data.
-- [ ] Git object cleanup occurs only after verified recovery and acceptance.
+- [x] Source HTML, URLs, parsed listing records, browser indexes, and retained parsed images/videos remain in the archive and a SHA-256-verified recovery copy. Raw saved HTML still references some deleted sidecar assets, so offline rendering of those raw pages is degraded.
+- [x] Pre-cleanup inventory and checksum manifests reconcile with the recovery copy; the removal manifest records the cleanup choices and byte totals.
+- [x] For each confirmed UUID rendition family, one largest available parsed rendition is retained; matching 1100-width raw JPEG sidecars were removed where the parsed image with the same listing ID and source UUID remains.
+- [x] No removals were based only on perceptual similarity. The broader visual-hash scan was stopped; uncertain matches were preserved. The retained recovery copy still contains the original pre-cleanup formats and renditions.
+- [x] Generated archive indexes and manifests verify after excluding ignored `.DS_Store` metadata. The initial inventory's 30 unmatched image references were pre-existing and remain unresolved.
+- [x] Retained remote archive media is LFS-managed, and local-only `.serena/` and credential files are excluded from Git. Unneeded raw sidecar JS/CSS and confirmed duplicate JPEGs are absent from the active tree.
+- [x] Replacement branch was based on `origin/main`; rejected commit `918b14bd` is not an ancestor of the pushed branch.
+- [x] GitHub accepted the normal Git push and LFS upload. A fresh clone retrieved and checked out all 15,914 LFS pointers, and LFS integrity checks passed.
+- [x] Reflogs were expired and Git object cleanup ran only after the recovery copy and remote push were verified.
