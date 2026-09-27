@@ -1,0 +1,14 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Japan/Tokyo/Shibuya City/3-chōme-47-2 Nishihara/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-93f04d68ce85.webp",
+      "href": "img-93f04d68ce85.webp",
+      "size": 126334
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

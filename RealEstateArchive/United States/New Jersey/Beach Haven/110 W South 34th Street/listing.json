@@ -1,0 +1,911 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/single-family-residence-in-long-beach-twp-17041768",
+    "canonical_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/single-family-residence-in-long-beach-twp-17041768",
+    "site": "jamesedition",
+    "listing_id": "17041768",
+    "listing_reference": "22602612",
+    "first_listed": "Jan 30",
+    "last_updated": "June 15",
+    "retrieved_at": "2026-06-19T08:42:01.239294Z"
+  },
+  "location": {
+    "address": "110 W South 34th Street, Beach Haven, New Jersey, United States",
+    "street": "110 W South 34th Street",
+    "municipality": "Beach Haven",
+    "region": "New Jersey",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=39.585563,-74.228647",
+    "latitude": 39.585563,
+    "longitude": -74.228647
+  },
+  "property": {
+    "title": "Single Family Residence In Long Beach Twp",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 12499000,
+      "currency": "USD",
+      "display": "$12,499,000"
+    },
+    "price_per_area": {
+      "amount": 1505,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,505"
+    },
+    "bedrooms": 7,
+    "bathrooms": 9,
+    "floors": 2,
+    "interior_area": {
+      "value": 8300,
+      "unit": "sqft",
+      "display": "8,300 Sqft"
+    },
+    "photo_count": 77,
+    "description": "An extraordinary opportunity to own a breathtaking gated bayfront estate on Long Beach Island (LBI) offering stunning panoramic bay views. This custom-built, 8,300 sq ft home is situated on a private property where the bay truly becomes your horizon. Spacious decks provide the perfect setting for evenings ending in rose-colored sunsets mirrored on the bay’s surface. Inside, the home features expansive spaces ideal for gathering and reflection while intimate suites offer breathtaking water views, privacy and comfort. The home has been constructed with the latest techniques and products to allow for easy year-round maintenance and longevity. The main level includes grand living and dining areas with 13-ft ceilings, with floor-to-ceiling sliders, beautiful custom millwork, a gourmet kitchen with premium appliances and a hidden full butler’s pantry. The coffered ceiling living room, complete with a custom-built bar and fireplace opens up to a space featuring a pool table and a tropical 13,000-gallon aquarium along with a custom built, temperature-controlled wine room. The infinity edged raised pool provides breathtaking exposure to the bay and sunsets. The east side of the main floor houses a lounge with a bar that leads into a professional grade golf simulator room, and a gym filled with state-of-the-art exercise equipment and a full steam shower bathroom. Take the four-stop elevator down to the three conditioned garages and dog washroom or up to the second level which features six en-suite bedrooms with walk-in closets, a double laundry room and a sitting room. Three of the en-suites lead out to an expansive deck with a fireplace and stunning water views. The primary suite is a true sanctuary with its own private stairwell, offering an office, two walk-in closets, a soaking tub, and a private deck along with a convenient stackable washer and dryer closet. The home was built by Mancini Custom Homes and decorated by highly regarded interior designer Mary O’Brien Cabaron Interior Design with high end furniture and fixtures. Ample storage for water toys, fishing gear, and outdoor furniture is available in the walkable expansive crawl space or in the fourth conditioned garage located on the northwest side of the home opening up to the backyard making it easy to store all your outdoor belongings. The home has radiant heat throughout (including garages), smart home technology including motorized and programming shades throughout, Lutron programmable lighting, Hikvision movable exterior cameras, high-tech security system, Generac whole-house generator, and Control 4/Sonos audio/video technology. The beautifully professionally landscaped exterior amenities include an outdoor kitchen, a firepit with seating, two outdoor showers, a putting green, a pickleball/basketball court, a roof-top hot tub, and high end motorized hurricane screens on the first floor decks designed to extend the seasons for outdoor living, and protection from the sun. Summer days can be enjoyed by the heated infinity gunite pool and spa overlooking the Bay, complete with deck lighting, a Sonos Sound system and SunBrite television. On cooler evenings, you can cozy up and relax in a lounge area by a gas fireplace located on either the first-floor patio or second floor deck. For boating enthusiasts, a dock with two high end hydraulic No-Profile platform boat lifts (40k and 20k lifting capacity) and a WayKleen Power Washer are already in place offering direct access to the water. This estate is more than a home; it is a rare retreat where elegance meets serenity.",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Basketball Court",
+      "Elevator",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Jacuzzi",
+      "Laundry Room",
+      "Office",
+      "Outdoor Kitchen",
+      "Pool",
+      "Privacy",
+      "Tennis Court",
+      "Washer Dryer",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Mancini Realty Co. Inc. - Beach Haven Gardens",
+    "agency": "Mancini Realty Co. Inc. - Beach Haven Gardens",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/mancini-realty-co-inc-beach-haven-gardens-444387",
+    "agency_address": "Beach Haven Gardens, New Jersey, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/2200xxs.jpg",
+      "file": "img-886787b92b1f.webp",
+      "media_type": "image/webp",
+      "bytes": 312336,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/2200xxs.jpg",
+      "file": "img-069230844ae5.webp",
+      "media_type": "image/webp",
+      "bytes": 375090,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/2200xxs.jpg",
+      "file": "img-4d66afaef664.webp",
+      "media_type": "image/webp",
+      "bytes": 490336,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/2200xxs.jpg",
+      "file": "img-2ead99589eb1.webp",
+      "media_type": "image/webp",
+      "bytes": 358188,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/2200xxs.jpg",
+      "file": "img-647233ec76e2.webp",
+      "media_type": "image/webp",
+      "bytes": 214110,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/M00000452.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%287%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%288%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%289%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e60dc67e-a47c-4336-ada0-01c1b0659c7a/je/2000xxs.jpg",
+      "file": "img-ff758fc8b75c.webp",
+      "media_type": "image/webp",
+      "bytes": 194960,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/cb676e27-9885-4010-9f04-63625ebbc5b5/je/2000xxs.jpg",
+      "file": "img-45639317dda3.webp",
+      "media_type": "image/webp",
+      "bytes": 269650,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e7f8dccd-b819-456d-8f80-45d55ef370b7/je/2000xxs.jpg",
+      "file": "img-3f06ff965b71.webp",
+      "media_type": "image/webp",
+      "bytes": 209642,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/bc756ec1-11c8-46a0-b8d4-eaf8ea210573/je/2000xxs.jpg",
+      "file": "img-3f0f5ad369b0.webp",
+      "media_type": "image/webp",
+      "bytes": 164856,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/02e28800-1bb9-4032-9dc8-3b5c0f19722b/je/2000xxs.jpg",
+      "file": "img-bc4ae069c000.webp",
+      "media_type": "image/webp",
+      "bytes": 129316,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/49c658f7-12fb-477d-a796-31f481440a33/je/2000xxs.jpg",
+      "file": "img-460b32a758f9.webp",
+      "media_type": "image/webp",
+      "bytes": 307552,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/829207cd-c63f-4838-ab22-87568c409a8a/je/2000xxs.jpg",
+      "file": "img-e1dfa8b3cca0.webp",
+      "media_type": "image/webp",
+      "bytes": 272758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/53fdd9c5-c432-4649-ba3e-7060a7e249c6/je/2000xxs.jpg",
+      "file": "img-ae46d9962496.webp",
+      "media_type": "image/webp",
+      "bytes": 193002,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/a1a4fcf7-f893-4b59-a99c-80dcb03424ab/je/2000xxs.jpg",
+      "file": "img-d74d8b145238.webp",
+      "media_type": "image/webp",
+      "bytes": 131280,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/a36105ae-7557-469d-91c1-34acdc7f0ea8/je/2000xxs.jpg",
+      "file": "img-6c78db405942.webp",
+      "media_type": "image/webp",
+      "bytes": 179010,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/392a3158-6572-46ac-9e36-8ae557b52f19/je/2000xxs.jpg",
+      "file": "img-8ed5069dcbb3.webp",
+      "media_type": "image/webp",
+      "bytes": 325540,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/7b4af10b-8247-4c22-9de3-c5cf0b11e3ca/je/2000xxs.jpg",
+      "file": "img-d08b1e4d940d.webp",
+      "media_type": "image/webp",
+      "bytes": 105726,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/944118b4-4fc6-4a1a-a7e8-49c70034df0a/je/2000xxs.jpg",
+      "file": "img-9765a6d3b22c.webp",
+      "media_type": "image/webp",
+      "bytes": 317640,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/cd611ab4-2e52-474e-be30-bde28dc53fe2/je/2000xxs.jpg",
+      "file": "img-41174f2bb3c4.webp",
+      "media_type": "image/webp",
+      "bytes": 123670,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8fa6aafc-9aef-4fb5-948b-719818a252cb/je/2000xxs.jpg",
+      "file": "img-d7149a2532b2.webp",
+      "media_type": "image/webp",
+      "bytes": 125788,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/6b7dfda4-fe69-49d3-9df2-b4e7a902f629/je/2000xxs.jpg",
+      "file": "img-cde8fb42bdcf.webp",
+      "media_type": "image/webp",
+      "bytes": 180282,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/2f1ae74c-d3d8-44e1-a29b-eb08e986f488/je/2000xxs.jpg",
+      "file": "img-82694a1f8edb.webp",
+      "media_type": "image/webp",
+      "bytes": 189674,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8bc41e2f-c7e2-41f2-ab29-104aca270482/je/2000xxs.jpg",
+      "file": "img-6f45cfc02d6e.webp",
+      "media_type": "image/webp",
+      "bytes": 188906,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/19b9f2eb-cb45-4138-b867-47adff31bffc/je/2000xxs.jpg",
+      "file": "img-ad127d8eed39.webp",
+      "media_type": "image/webp",
+      "bytes": 194716,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/0a79a6b2-121a-4982-8115-008cf3f0fb27/je/2000xxs.jpg",
+      "file": "img-30501adc3b72.webp",
+      "media_type": "image/webp",
+      "bytes": 200300,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/701de9e6-1c85-4e77-99e7-6669462639cf/je/2000xxs.jpg",
+      "file": "img-5d73f0da1a51.webp",
+      "media_type": "image/webp",
+      "bytes": 97480,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/cb335640-87e6-46dd-a703-5c22478f747a/je/2000xxs.jpg",
+      "file": "img-f2c602635597.webp",
+      "media_type": "image/webp",
+      "bytes": 68296,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/ce4e0ac5-8fc3-42a9-91db-74e8595f36d4/je/2000xxs.jpg",
+      "file": "img-cb5811950561.webp",
+      "media_type": "image/webp",
+      "bytes": 156218,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/83b5f914-f5e7-4fab-be6e-88310c3e0dba/je/2000xxs.jpg",
+      "file": "img-07746f9b2257.webp",
+      "media_type": "image/webp",
+      "bytes": 160398,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/395c5851-9136-4a64-bfb4-7a13152d7369/je/2000xxs.jpg",
+      "file": "img-c844156dcbbb.webp",
+      "media_type": "image/webp",
+      "bytes": 93522,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/f7abbb63-431a-4005-96c1-14d44e28813e/je/2000xxs.jpg",
+      "file": "img-3e3b5168c4ce.webp",
+      "media_type": "image/webp",
+      "bytes": 122156,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/961813f1-e70e-4a4d-9697-58d67d9d9db0/je/2000xxs.jpg",
+      "file": "img-7b13fe62a0db.webp",
+      "media_type": "image/webp",
+      "bytes": 95566,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/1fcdca0b-fe74-4e12-bcfa-13902f1b97dc/je/2000xxs.jpg",
+      "file": "img-74bbb2796a83.webp",
+      "media_type": "image/webp",
+      "bytes": 149052,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/69624465-9bcf-4604-b969-a83c533e9f40/je/2000xxs.jpg",
+      "file": "img-ce5059211792.webp",
+      "media_type": "image/webp",
+      "bytes": 49552,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8c1d7c0e-0daa-485d-b62b-b7b6bdc1cb4d/je/2000xxs.jpg",
+      "file": "img-260105d14e5c.webp",
+      "media_type": "image/webp",
+      "bytes": 241580,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/5e662844-9e3b-41f2-a6bd-e807d7f9b398/je/2000xxs.jpg",
+      "file": "img-e0ade33de270.webp",
+      "media_type": "image/webp",
+      "bytes": 139282,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e3cd5901-ca60-4823-835b-ee3db81aad5f/je/2000xxs.jpg",
+      "file": "img-33cf3cc3d8e9.webp",
+      "media_type": "image/webp",
+      "bytes": 135498,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/ef0627ee-b141-48ac-8307-3cf15513bc74/je/2000xxs.jpg",
+      "file": "img-914c5b274e29.webp",
+      "media_type": "image/webp",
+      "bytes": 163758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/07e9d337-d0ca-4eea-a8e6-e24aa6920f6a/je/2000xxs.jpg",
+      "file": "img-dc90f139aa72.webp",
+      "media_type": "image/webp",
+      "bytes": 171014,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8b9a66e9-9ed9-4dec-952f-0eb3663242ff/je/2000xxs.jpg",
+      "file": "img-8e7f838dec70.webp",
+      "media_type": "image/webp",
+      "bytes": 152950,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/badcf43c-aa63-4c8d-83f4-1d379b009acd/je/2000xxs.jpg",
+      "file": "img-3e46d7c6a60f.webp",
+      "media_type": "image/webp",
+      "bytes": 285934,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/5a1ce747-b116-471f-8136-ef5bc70015f6/je/2000xxs.jpg",
+      "file": "img-4f334d3ab034.webp",
+      "media_type": "image/webp",
+      "bytes": 152166,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/01629501-0be0-460d-a705-682297be777b/je/2000xxs.jpg",
+      "file": "img-a595bc9c91d4.webp",
+      "media_type": "image/webp",
+      "bytes": 199898,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/d1e23dec-9e80-4179-a14e-259d06185c1b/je/2000xxs.jpg",
+      "file": "img-b1bc69638748.webp",
+      "media_type": "image/webp",
+      "bytes": 111944,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/28add9a5-93ee-46b1-87cf-759348c700c3/je/2000xxs.jpg",
+      "file": "img-8529d25cf5d7.webp",
+      "media_type": "image/webp",
+      "bytes": 130296,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/ad022334-57dd-445d-93c4-38a4fb2ae765/je/2000xxs.jpg",
+      "file": "img-52a5d21f88b1.webp",
+      "media_type": "image/webp",
+      "bytes": 135284,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/dea1ea50-fe18-4509-ba7f-3f1bad6a532d/je/2000xxs.jpg",
+      "file": "img-0f51d0d69510.webp",
+      "media_type": "image/webp",
+      "bytes": 82670,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/c9aacaf3-c829-4689-9508-ea6517e9748f/je/2000xxs.jpg",
+      "file": "img-816d7e5881e7.webp",
+      "media_type": "image/webp",
+      "bytes": 74982,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/5f9abadf-ae53-4071-8215-d6609b609204/je/2000xxs.jpg",
+      "file": "img-4c4f66e74d2e.webp",
+      "media_type": "image/webp",
+      "bytes": 86064,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3a47c89f-1139-43a3-b10a-3cce54542c2b/je/2000xxs.jpg",
+      "file": "img-c24a8a60495c.webp",
+      "media_type": "image/webp",
+      "bytes": 73748,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e9aeb1fd-8750-4a9e-9692-5217754b73a5/je/2000xxs.jpg",
+      "file": "img-e9b077e0a49d.webp",
+      "media_type": "image/webp",
+      "bytes": 160078,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/c18ac8cd-71c4-48d6-a9bd-d61782a2929e/je/2000xxs.jpg",
+      "file": "img-9733c0112b53.webp",
+      "media_type": "image/webp",
+      "bytes": 128084,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/a677eb8c-bd24-4532-9dd6-519f27b455fa/je/2000xxs.jpg",
+      "file": "img-769ece90d888.webp",
+      "media_type": "image/webp",
+      "bytes": 106400,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/6018f516-c9f9-4032-b2d2-1a2df25fc843/je/2000xxs.jpg",
+      "file": "img-ea45de559296.webp",
+      "media_type": "image/webp",
+      "bytes": 30274,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/eb2384db-f69b-4751-8675-5af24f88d757/je/2000xxs.jpg",
+      "file": "img-9283d5efd9a7.webp",
+      "media_type": "image/webp",
+      "bytes": 195554,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/6eaa0d14-bf7f-4991-ad6e-34b831afe1fc/je/2000xxs.jpg",
+      "file": "img-f9abea13f600.webp",
+      "media_type": "image/webp",
+      "bytes": 183820,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/fa3d7d3b-7098-4401-948e-a996178427f8/je/2000xxs.jpg",
+      "file": "img-6f9b72121bf1.webp",
+      "media_type": "image/webp",
+      "bytes": 63864,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/be49b893-f002-46b3-beef-c9377ff7a06f/je/2000xxs.jpg",
+      "file": "img-420d4a57bfc5.webp",
+      "media_type": "image/webp",
+      "bytes": 132008,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/cfb6cfdb-1f83-4293-9be5-80d6fd3d1022/je/2000xxs.jpg",
+      "file": "img-3bff395ae8e7.webp",
+      "media_type": "image/webp",
+      "bytes": 138096,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/7df10fe4-ee48-4468-8f5c-655b531550e2/je/2000xxs.jpg",
+      "file": "img-27320cdb4073.webp",
+      "media_type": "image/webp",
+      "bytes": 106566,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/aa7d1d66-c36c-4369-b5ad-9f45ce070aa9/je/2000xxs.jpg",
+      "file": "img-a42508490179.webp",
+      "media_type": "image/webp",
+      "bytes": 136792,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8d38dade-d4c2-4a09-b62c-b03feaacb024/je/2000xxs.jpg",
+      "file": "img-ee9e5dfab4ec.webp",
+      "media_type": "image/webp",
+      "bytes": 64696,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/741d7ba8-9acb-467c-bf69-618ff745f94e/je/2000xxs.jpg",
+      "file": "img-a8b845603aa1.webp",
+      "media_type": "image/webp",
+      "bytes": 108928,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/ab3d0da0-d7e1-47a9-9fb1-59c22c96d1ba/je/2000xxs.jpg",
+      "file": "img-4f453d7132f7.webp",
+      "media_type": "image/webp",
+      "bytes": 114408,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/b15775ac-a256-467d-b9ef-9a83229e1b4d/je/2000xxs.jpg",
+      "file": "img-85b728d1c537.webp",
+      "media_type": "image/webp",
+      "bytes": 60050,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/f884c588-f32d-41c6-b155-21f9fee39784/je/2000xxs.jpg",
+      "file": "img-ecda1c31b964.webp",
+      "media_type": "image/webp",
+      "bytes": 181186,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8d3b11da-14fc-47b4-8e59-4d8171097aec/je/2000xxs.jpg",
+      "file": "img-78f764f88c28.webp",
+      "media_type": "image/webp",
+      "bytes": 162030,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3e444ea8-5543-4213-b793-1bcd58ef425a/je/2000xxs.jpg",
+      "file": "img-ec0706875812.webp",
+      "media_type": "image/webp",
+      "bytes": 116458,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/c4380bec-a893-448d-a65c-11c041ddebad/je/2000xxs.jpg",
+      "file": "img-60d3f919bbc6.webp",
+      "media_type": "image/webp",
+      "bytes": 88608,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/26ec3bf8-39c2-45af-ba09-381484336d52/je/2000xxs.jpg",
+      "file": "img-d2a0ea9bf817.webp",
+      "media_type": "image/webp",
+      "bytes": 184970,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/36288e98-a190-4686-9f04-450b617d35e5/je/2000xxs.jpg",
+      "file": "img-9a3154412793.webp",
+      "media_type": "image/webp",
+      "bytes": 49856,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3f18365e-af82-4306-bcb1-9a36287c768c/je/2000xxs.jpg",
+      "file": "img-63c18f4bd8a0.webp",
+      "media_type": "image/webp",
+      "bytes": 117046,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/d1888ef4-a871-4207-a678-ff1ecc939972/je/2000xxs.jpg",
+      "file": "img-7121c9d6f634.webp",
+      "media_type": "image/webp",
+      "bytes": 116526,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/f73fa39e-2dc2-49cb-9dd0-3884a138ab5b/je/2000xxs.jpg",
+      "file": "img-d79ea258bdb5.webp",
+      "media_type": "image/webp",
+      "bytes": 278504,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/00b20b8b-dd7a-4910-b52b-e87163efe1aa/je/2000xxs.jpg",
+      "file": "img-bafe052aebaa.webp",
+      "media_type": "image/webp",
+      "bytes": 129826,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8d91c299-4dc3-4caa-a312-8d87b7655fc3/je/2000xxs.jpg",
+      "file": "img-aece335450da.webp",
+      "media_type": "image/webp",
+      "bytes": 502356,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/90255add-9b01-4e8c-9b3f-b23bf9d7b870/je/2000xxs.jpg",
+      "file": "img-94bea347ec43.webp",
+      "media_type": "image/webp",
+      "bytes": 365966,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2816%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2817%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2815%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/beach-haven-nj-usa",
+              "name": "Beach Haven"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/single-family-residence-in-long-beach-twp-17041768",
+              "name": "Single Family Residence in Long Beach Twp"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "An extraordinary opportunity to own a breathtaking gated bayfront estate on Long Beach Island (LBI) offering stunning panoramic bay views. This custom-built, 8,300 sq ft home is situated on a private property where the bay truly becomes your horizon. Spacious decks provide the perfect setting for evenings ending in rose-colored sunsets mirrored on the bay's surface. Inside, the home features expansive spaces ideal for gathering and reflection while intimate suites offer breathtaking water views, privacy and comfort. The home has been constructed with the latest techniques and products to allow for easy year-round maintenance and longevity. The main level includes grand living and dining areas with 13-ft ceilings, with floor-to-ceiling sliders, beautiful custom millwork, a gourmet kitchen with premium appliances and a hidden full butler's pantry. The coffered ceiling living room, complete with a custom-built bar and fireplace opens up to a space featuring a pool table and a tropical 13,000-gallon aquarium along with a custom built, temperature-controlled wine room. The infinity edged raised pool provides breathtaking exposure to the bay and sunsets. The east side of the main floor houses a lounge with a bar that leads into a professional grade golf simulator room, and a gym filled with state-of-the-art exercise equipment and a full steam shower bathroom. Take the four-stop elevator down to the three conditioned garages and dog washroom or up to the second level which features six en-suite bedrooms with walk-in closets, a double laundry room and a sitting room. Three of the en-suites lead out to an expansive deck with a fireplace and stunning water views. The primary suite is a true sanctuary with its own private stairwell, offering an office, two walk-in closets, a soaking tub, and a private deck along with a convenient stackable washer and dryer closet. The home was built by Mancini Custom Homes and decorated by highly regarded interior designer Mary O'Brien Cabaron Interior Design with high end furniture and fixtures. Ample storage for water toys, fishing gear, and outdoor furniture is available in the walkable expansive crawl space or in the fourth conditioned garage located on the northwest side of the home opening up to the backyard making it easy to store all your outdoor belongings. The home has radiant heat throughout (including garages), smart home technology including motorized and programming shades throughout, Lutron programmable lighting, Hikvision movable exterior cameras, high-tech security system, Generac whole-house generator, and Control 4/Sonos audio/video technology. The beautifully professionally landscaped exterior amenities include an outdoor kitchen, a firepit with seating, two outdoor showers, a putting green, a pickleball/basketball court, a roof-top hot tub, and high end motorized hurricane screens on the first floor decks designed to extend the seasons for outdoor living, and protection from the sun. Summer days can be enjoyed by the heated infinity gunite pool and spa overlooking the Bay, complete with deck lighting, a Sonos Sound system and SunBrite television. On cooler evenings, you can cozy up and relax in a lounge area by a gas fireplace located on either the first-floor patio or second floor deck. For boating enthusiasts, a dock with two high end hydraulic No-Profile platform boat lifts (40k and 20k lifting capacity) and a WayKleen Power Washer are already in place offering direct access to the water. This estate is more than a home; it is a rare retreat where elegance meets serenity.",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Long Beach Twp",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 12499000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Mancini Realty Co. Inc. - Beach Haven Gardens"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/single-family-residence-in-long-beach-twp-17041768"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/M00000452.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%285%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%286%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%287%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%288%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%289%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2816%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2817%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2815%29.jpg: HTTP 403 Forbidden"
+  ]
+}

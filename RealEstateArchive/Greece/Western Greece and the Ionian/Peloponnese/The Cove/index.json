@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "path": "Greece/Western Greece and the Ionian/Peloponnese/The Cove",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 41350
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 33489
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 4883
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 543024
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 107
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

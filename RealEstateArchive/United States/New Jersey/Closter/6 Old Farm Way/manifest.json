@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6-old-farm-way-alpine-nj-07620-17704815",
+    "canonical_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6-old-farm-way-alpine-nj-07620-17704815",
+    "site": "jamesedition",
+    "listing_id": "17704815",
+    "listing_reference": "34VMW3",
+    "first_listed": "Apr 17",
+    "last_updated": "April 17",
+    "retrieved_at": "2026-06-18T07:07:24.816887Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1419,
+      "sha256": "49b419cabf3334ec4d89fce32a23d22c5dd783766223d874cd9bff967f4171bd"
+    },
+    {
+      "path": "images/004-f0d3b858.webp",
+      "bytes": 1176496,
+      "sha256": "135245507225e38348aa1a619375d88813efd70c490fd354ad2f04f87f8af37f"
+    },
+    {
+      "path": "images/009-85c77043.webp",
+      "bytes": 218424,
+      "sha256": "de26a6a0a9241998cf082ee7576c592c6ae9e5fb73d045c32c4a231a4d8b6cb4"
+    },
+    {
+      "path": "images/014-ac232ff5.webp",
+      "bytes": 275940,
+      "sha256": "64197ac0d5535c418ef0bfc0456a4e32138a16d95d3e4df4afa142c9a17db22f"
+    },
+    {
+      "path": "images/019-e742060f.webp",
+      "bytes": 253298,
+      "sha256": "ce6c916d6255a26a95b0c232a62f39c360f77c2353eb11c7fb36230045e9289f"
+    },
+    {
+      "path": "images/024-0f3440ba.webp",
+      "bytes": 184582,
+      "sha256": "1e7d9b52395029349a90766de88d7517d39f91f0426c5cb79203f3f428ae7b9a"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 14045,
+      "sha256": "b0c4488251c3aadbbf9e0dab82d602ca894191e2ad6290b8198dbc50254e0bf6"
+    },
+    {
+      "path": "source.html",
+      "bytes": 319985,
+      "sha256": "ea1198ccc6ba84542f04dad382a7f3e031f5cb81e2617e1471f9f14c0dd96759"
+    },
+    {
+      "path": "source.url",
+      "bytes": 95,
+      "sha256": "2bc99e6846d0f13e908b29b07ff6aa24ac64ba3a068fcfc5f1a802b010e2f25d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/2ae737f6-f013-4275-8b1f-820deafe6b59/je/2200xxs.jpg",
+      "path": "images/004-f0d3b858.webp",
+      "media_type": "image/webp",
+      "bytes": 1176496,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/54c47c5b-40f5-4576-85a5-230f9bdcd1a2/je/2200xxs.jpg",
+      "path": "images/009-85c77043.webp",
+      "media_type": "image/webp",
+      "bytes": 218424,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/859cac59-ecc7-47e9-8b8c-5af298698c73/je/2200xxs.jpg",
+      "path": "images/014-ac232ff5.webp",
+      "media_type": "image/webp",
+      "bytes": 275940,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/aa56f134-b927-43c5-825c-c857c1b0f8aa/je/2200xxs.jpg",
+      "path": "images/019-e742060f.webp",
+      "media_type": "image/webp",
+      "bytes": 253298,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/f7ec2731-22b2-460b-9263-0afb002ae950/je/2200xxs.jpg",
+      "path": "images/024-0f3440ba.webp",
+      "media_type": "image/webp",
+      "bytes": 184582,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

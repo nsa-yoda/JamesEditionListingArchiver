@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "path": "Italy/Lombardy/Nesso/22020 Nesso CO",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 48655
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 49888
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3916
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 560481
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 130
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

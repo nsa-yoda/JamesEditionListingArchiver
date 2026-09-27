@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/Cayucos",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "5010 Cabrillo Highway",
+      "href": "5010%20Cabrillo%20Highway/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "path": "Canada/British Columbia",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Alert Bay",
+      "href": "Alert%20Bay/index.html"
+    },
+    {
+      "name": "Kitimat",
+      "href": "Kitimat/index.html"
+    },
+    {
+      "name": "North Vancouver",
+      "href": "North%20Vancouver/index.html"
+    },
+    {
+      "name": "Powell River",
+      "href": "Powell%20River/index.html"
+    },
+    {
+      "name": "Vernon",
+      "href": "Vernon/index.html"
+    },
+    {
+      "name": "West Vancouver",
+      "href": "West%20Vancouver/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

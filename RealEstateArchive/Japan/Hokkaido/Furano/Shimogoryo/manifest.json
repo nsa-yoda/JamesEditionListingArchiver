@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/furano-japan/yuki-jo-furano-luxury-ski-villa-15174379",
+    "canonical_url": "https://www.jamesedition.com/real_estate/furano-japan/yuki-jo-furano-luxury-ski-villa-15174379",
+    "site": "jamesedition",
+    "listing_id": "15174379",
+    "listing_reference": "4516137",
+    "first_listed": "Feb 5, 2025",
+    "last_updated": "February 9",
+    "retrieved_at": "2026-06-16T03:43:43.638069Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3398,
+      "sha256": "d332fc56dd5fb5fc70c4bc913b4cca1f4bebe854f75beb410f3bb39421a195e5"
+    },
+    {
+      "path": "images/004-b7eca5b3.webp",
+      "bytes": 558052,
+      "sha256": "6a9733986075300414d85745ad27510b52cee1e9e7a08d2de6ae9f91c9b0f71b"
+    },
+    {
+      "path": "images/009-93ec7e2f.webp",
+      "bytes": 226002,
+      "sha256": "7d133d17bccb5c1a1292f6c23a637b9ab8d079a0920820536f340ee893beb522"
+    },
+    {
+      "path": "images/014-e1e753f6.webp",
+      "bytes": 256580,
+      "sha256": "4519dc3c55f269e4fe24ed64e5baa1c17bd60cd584b388e9d690304ee5dee352"
+    },
+    {
+      "path": "images/019-8f2ef150.webp",
+      "bytes": 373412,
+      "sha256": "98df1c445242557442c1f3fcb67225ce6687069cc04322c2be7d41785b94334b"
+    },
+    {
+      "path": "images/024-5b3ee485.webp",
+      "bytes": 156862,
+      "sha256": "b97f2114fcdf5489aa61656e1bef9008418afa4321d14c35424412479be096a3"
+    },
+    {
+      "path": "images/029-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/030-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/031-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/032-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/033-5e31199e.webp",
+      "bytes": 258,
+      "sha256": "78c2b6a66570c08de5b985428aff328d07c6bfd2cb1aadcccfb643863f977552"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17718,
+      "sha256": "23a08a753a923a597004f635893edb2deeece7e0d4751c7ec4591b55aaca3e79"
+    },
+    {
+      "path": "source.html",
+      "bytes": 269984,
+      "sha256": "646913fb1fbe5b9cdb7083d6dc976eeaccd08de13ee786602b25825bc8a9ac16"
+    },
+    {
+      "path": "source.url",
+      "bytes": 95,
+      "sha256": "99b6394d82b67e035aa1fc724a3189a5e633123bf381442bd152b617d8e22339"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/cdca35b5-a55c-4f31-8a55-c581293ee617/je/2200xxs.jpg",
+      "path": "images/004-b7eca5b3.webp",
+      "media_type": "image/webp",
+      "bytes": 558052,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/1ad9a88c-18db-4245-946e-915d1260d93e/je/2200xxs.jpg",
+      "path": "images/009-93ec7e2f.webp",
+      "media_type": "image/webp",
+      "bytes": 226002,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/59170784-65cb-4d9c-8b66-c95f1b5d1835/je/2200xxs.jpg",
+      "path": "images/014-e1e753f6.webp",
+      "media_type": "image/webp",
+      "bytes": 256580,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/223d23d9-792a-480e-8f19-1b37c19374a8/je/2200xxs.jpg",
+      "path": "images/019-8f2ef150.webp",
+      "media_type": "image/webp",
+      "bytes": 373412,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/07/15/14/11/bf601110-0e70-4f50-86c6-3b3d0f30bee3/je/2200xxs.jpg",
+      "path": "images/024-5b3ee485.webp",
+      "media_type": "image/webp",
+      "bytes": 156862,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/23/08/44/59/c8ee863e-908b-4d5b-b613-4ee6562c5fbf/je/80x80xc.jpg",
+      "path": "images/033-5e31199e.webp",
+      "media_type": "image/webp",
+      "bytes": 258,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

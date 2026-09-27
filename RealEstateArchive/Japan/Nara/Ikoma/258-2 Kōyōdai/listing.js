@@ -1,0 +1,357 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/ikoma-japan/elegant-japanese-mansion-with-garden-cottage-in-scenic-ikoma-city-a-rare-retreat-near-osaka-15621311",
+    "canonical_url": "https://www.jamesedition.com/real_estate/ikoma-japan/elegant-japanese-mansion-with-garden-cottage-in-scenic-ikoma-city-a-rare-retreat-near-osaka-15621311",
+    "site": "jamesedition",
+    "listing_id": "15621311",
+    "first_listed": "May 13, 2025",
+    "last_updated": "May 26, 2025",
+    "retrieved_at": "2026-06-16T03:43:23.493365Z"
+  },
+  "location": {
+    "address": "258-2 Kōyōdai, Ikoma, Nara 630-0247, Japan",
+    "street": "258-2 Kōyōdai",
+    "municipality": "Ikoma",
+    "region": "Nara",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=34.6982783,135.6896702",
+    "latitude": 34.6982783,
+    "longitude": 135.6896702
+  },
+  "property": {
+    "title": "Elegant Japanese Mansion With Garden \u0026 Cottage In Scenic Ikoma City – A Rare Retreat Near Osaka",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 1585093.35,
+      "currency": "USD",
+      "display": "$1,585,093"
+    },
+    "price_per_area": {
+      "amount": 458,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$458"
+    },
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "floors": 2,
+    "interior_area": {
+      "value": 3460,
+      "unit": "sqft",
+      "display": "3,460 Sqft"
+    },
+    "lot_area": {
+      "value": 7002,
+      "unit": "sqft",
+      "display": "7,002 Sqft lot"
+    },
+    "year_built": 1999,
+    "photo_count": 33,
+    "description": "Property Overview\n\nDiscover timeless elegance and serene living in this stunning estate located in the quiet, upscale residential area of Koyo-dai, Ikoma City, Nara.\nThis architecturally distinctive property offers a unique blend of modern Western comfort and authentic Japanese artistry, just 30 minutes from downtown Osaka.\n\nSet on a generous 650.45 sqm lot, the estate includes a spacious 2-story main residence (approx. 260 sqm) and a beautifully designed traditional Japanese cottage – both nestled amidst a meticulously landscaped Japanese garden. Every element has been thoughtfully crafted to deliver a life of luxury, harmony, and refined taste.\n\nAn exceptional opportunity to own a rare blend of architectural beauty, natural tranquility, and city proximity\n\nMain Highlights\n\nMain House (Approx. 265 sqm):\n2-story reinforced structure with slate-shingle roofing\n1F: 159.19 sqm / 2F: 105.73 sqm\nExpansive balcony on the second floor with garden and mountain views\nBright, open interiors with aesthetic features throughout\n\nTraditional Japanese Cottage (56.44 sqm):\nElegant wooden single-story structure with clay tile roofing\nIdeal as a tea house, guest residence, or creative retreat\nRich in detail and traditional craftsmanship\n\nGarden \u0026amp; Exterior\nAn immaculate Japanese garden offers seasonal beauty year-round\nProperty faces a wide road (5.5m to 6.5m), enhancing accessibility and privacy\nLocated in a Type 1 low-rise residential zone within a nature preservation area (Type 4)\n\nParking \u0026amp; Facilities\nLarge cut-in garage for 4 cars, plus space for 2 additional vehicles\nGarage size: 75.75 sqm (plus additional 39.93 sqm area)\nFull utility services: city gas, electricity, water, and sewage systems\n\nLocation \u0026amp; Access\nAddress: 258-2 Koyo-dai, Ikoma City, Nara\nAccess:\n20-minute walk or 5-minute drive to Kintetsu Ikoma Station\nFrom Ikoma to Namba Station (Osaka): only 29 minutes by train\nEnjoy the peace of a countryside setting with seamless access to Osaka’s urban convenience, schools, shopping, and cultural attractions.\n\nProperty Details\nLand Area: 650.45 sqm (Freehold ownership)\nZoning: Urbanization promotion area / Type 1 Low-rise Residential\nBuilding Coverage Ratio: 40%\nFloor-Area Ratio: 60%\nMain House Built: May 1990\nCottage Built: December 1994\n\nAdditional Notes\nCurrently occupied – viewings available by appointment only",
+    "features": [
+      "2D Floor Plan",
+      "Air Conditioning",
+      "Balcony",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Gas Stovetop",
+      "Hilltop",
+      "Investment Property",
+      "Mansion",
+      "Open Kitchen",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Renovated",
+      "Terrace"
+    ]
+  },
+  "broker": {
+    "agent": "Core Eight Co.,Ltd.",
+    "agency": "Core Eight Co.,Ltd.",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/core-eight-co-ltd-109653",
+    "agency_address": "Kobe, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/2200xxs.jpg",
+      "file": "004-07b90d16.webp",
+      "media_type": "image/webp",
+      "bytes": 270424,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/bc10a44a-32cc-45aa-b91b-f51eb32a56a6/je/2200xxs.jpg",
+      "file": "009-2e60d611.webp",
+      "media_type": "image/webp",
+      "bytes": 202190,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/13/01/30/44/747dcf46-62cd-4a94-acff-af83a39f43f8/je/2200xxs.jpg",
+      "file": "014-ac1dadc4.webp",
+      "media_type": "image/webp",
+      "bytes": 319306,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/ebeca443-ef46-4f1c-a302-b60deed8252a/je/2200xxs.jpg",
+      "file": "019-111fa5a8.webp",
+      "media_type": "image/webp",
+      "bytes": 135152,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/19/16/54/57e42836-24d3-4807-ab57-82f247fcdf84/je/2200xxs.jpg",
+      "file": "024-b8917184.webp",
+      "media_type": "image/webp",
+      "bytes": 321920,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/380xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nara-japan",
+              "name": "Nara"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ikoma-japan",
+              "name": "Ikoma"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/koyodai-japan",
+              "name": "Koyodai"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ikoma-japan/elegant-japanese-mansion-with-garden-cottage-in-scenic-ikoma-city-a-rare-retreat-near-osaka-15621311",
+              "name": "Elegant Japanese Mansion with Garden \u0026amp; Cottage in Scenic Ikoma City – A Rare Retreat Near Osaka"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Property Overview\n\nDiscover timeless elegance and serene living in this stunning estate located in the quiet, upscale residential area of Koyo-dai, Ikoma City, Nara.\nThis architecturally distinctive property offers a unique blend of modern Western comfort and authentic Japanese artistry, just 30 minutes from downtown Osaka.\n\nSet on a generous 650.45 sqm lot, the estate includes a spacious 2-story main residence (approx. 260 sqm) and a beautifully designed traditional Japanese cottage – both nestled amidst a meticulously landscaped Japanese garden. Every element has been thoughtfully crafted to deliver a life of luxury, harmony, and refined taste.\n\nAn exceptional opportunity to own a rare blend of architectural beauty, natural tranquility, and city proximity\n\nMain Highlights\n\nMain House (Approx. 265 sqm):\n2-story reinforced structure with slate-shingle roofing\n1F: 159.19 sqm / 2F: 105.73 sqm\nExpansive balcony on the second floor with garden and mountain views\nBright, open interiors with aesthetic features throughout\n\nTraditional Japanese Cottage (56.44 sqm):\nElegant wooden single-story structure with clay tile roofing\nIdeal as a tea house, guest residence, or creative retreat\nRich in detail and traditional craftsmanship\n\nGarden \u0026amp; Exterior\nAn immaculate Japanese garden offers seasonal beauty year-round\nProperty faces a wide road (5.5m to 6.5m), enhancing accessibility and privacy\nLocated in a Type 1 low-rise residential zone within a nature preservation area (Type 4)\n\nParking \u0026amp; Facilities\nLarge cut-in garage for 4 cars, plus space for 2 additional vehicles\nGarage size: 75.75 sqm (plus additional 39.93 sqm area)\nFull utility services: city gas, electricity, water, and sewage systems\n\nLocation \u0026amp; Access\nAddress: 258-2 Koyo-dai, Ikoma City, Nara\nAccess:\n20-minute walk or 5-minute drive to Kintetsu Ikoma Station\nFrom Ikoma to Namba Station (Osaka): only 29 minutes by train\nEnjoy the peace of a countryside setting with seamless access to Osaka’s urban convenience, schools, shopping, and cultural attractions.\n\nProperty Details\nLand Area: 650.45 sqm (Freehold ownership)\nZoning: Urbanization promotion area / Type 1 Low-rise Residential\nBuilding Coverage Ratio: 40%\nFloor-Area Ratio: 60%\nMain House Built: May 1990\nCottage Built: December 1994\n\nAdditional Notes\nCurrently occupied – viewings available by appointment only",
+        "image": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/1040x620xc.jpg",
+        "name": "Elegant Japanese Mansion with Garden \u0026 Cottage in Scenic Ikoma City – A Rare Retreat Near Osaka",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 1585093.35,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Core Eight Co.,Ltd."
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/ikoma-japan/elegant-japanese-mansion-with-garden-cottage-in-scenic-ikoma-city-a-rare-retreat-near-osaka-15621311"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/380xxsxm.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden"
+  ]
+};

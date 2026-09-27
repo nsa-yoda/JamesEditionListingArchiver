@@ -1,0 +1,295 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6-old-farm-way-alpine-nj-07620-17704815",
+    "canonical_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6-old-farm-way-alpine-nj-07620-17704815",
+    "site": "jamesedition",
+    "listing_id": "17704815",
+    "listing_reference": "34VMW3",
+    "first_listed": "Apr 17",
+    "last_updated": "April 17",
+    "retrieved_at": "2026-06-18T07:07:24.816887Z"
+  },
+  "location": {
+    "address": "6 Old Farm Way, Alpine, NJ 07620, Closter, New Jersey, United States",
+    "street": "6 Old Farm Way",
+    "municipality": "Closter",
+    "region": "New Jersey",
+    "postal_code": "07620",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.99595,-73.916519",
+    "latitude": 40.99595,
+    "longitude": -73.916519
+  },
+  "property": {
+    "title": "6 Old Farm Way, Alpine, Nj, 07620",
+    "type": "Land",
+    "availability": "InStock",
+    "price": {
+      "amount": 20000000,
+      "currency": "USD",
+      "display": "$20,000,000"
+    },
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "photo_count": 12,
+    "description": "Don't miss this opportunity to own a gated 10 acre parcel of land with the road already completed. Build your dream house on the 10 acres or develop the 4 2+ acre lots. This parcel is already subdivided. Endless possibilities just 7 miles from New York City. See attached pictures and survey. Please call for additional information.",
+    "features": [
+      "Properties with Open Kitchen in Closter, NJ, United States",
+      "Properties with Pool in Closter, NJ, United States"
+    ]
+  },
+  "broker": {
+    "agent": "Rosemarie Campi",
+    "agency": "Prominent Properties Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/prominent-properties-sotheby-s-international-realty-10574",
+    "agency_address": "1022 Closter Dock Road, 07620, Alpine, New Jersey, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/2ae737f6-f013-4275-8b1f-820deafe6b59/je/2200xxs.jpg",
+      "file": "004-f0d3b858.webp",
+      "media_type": "image/webp",
+      "bytes": 1176496,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/54c47c5b-40f5-4576-85a5-230f9bdcd1a2/je/2200xxs.jpg",
+      "file": "009-85c77043.webp",
+      "media_type": "image/webp",
+      "bytes": 218424,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/859cac59-ecc7-47e9-8b8c-5af298698c73/je/2200xxs.jpg",
+      "file": "014-ac232ff5.webp",
+      "media_type": "image/webp",
+      "bytes": 275940,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/aa56f134-b927-43c5-825c-c857c1b0f8aa/je/2200xxs.jpg",
+      "file": "019-e742060f.webp",
+      "media_type": "image/webp",
+      "bytes": 253298,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/f7ec2731-22b2-460b-9263-0afb002ae950/je/2200xxs.jpg",
+      "file": "024-0f3440ba.webp",
+      "media_type": "image/webp",
+      "bytes": 184582,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/closter-nj-usa",
+              "name": "Closter"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6-old-farm-way-alpine-nj-07620-17704815",
+              "name": "6 Old Farm Way, Alpine, Nj, 07620"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Don't miss this opportunity to own a gated 10 acre parcel of land with the road already completed. Build your dream house on the 10 acres or develop the 4 2+ acre lots. This parcel is already subdivided. Endless possibilities just 7 miles from New York City. See attached pictures and survey. Please call for additional information.",
+        "image": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/2ae737f6-f013-4275-8b1f-820deafe6b59/je/1040x620xc.jpg",
+        "name": "6 Old Farm Way, Alpine, Nj, 07620",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 20000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Prominent Properties Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/6-old-farm-way-alpine-nj-07620-17704815"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/6%20Old%20Farm%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817704815%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

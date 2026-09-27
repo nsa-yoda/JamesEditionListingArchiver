@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "path": "United Kingdom/Wales/Haverfordwest/Cwm Mawr",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 22212
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 9718
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3998
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 294451
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 166
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

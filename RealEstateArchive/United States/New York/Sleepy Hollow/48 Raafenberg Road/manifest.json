@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/single-family-residence-in-sleepy-hollow-16978158",
+    "canonical_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/single-family-residence-in-sleepy-hollow-16978158",
+    "site": "jamesedition",
+    "listing_id": "16978158",
+    "listing_reference": "H6335041",
+    "first_listed": "Jan 22",
+    "last_updated": "March 30",
+    "retrieved_at": "2026-06-16T03:43:37.161583Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2188,
+      "sha256": "f7540c7facc7441bd80b40ba9888904da01244b8e1bc6bf277cc7e4531730d47"
+    },
+    {
+      "path": "images/004-e3e33e6e.webp",
+      "bytes": 643320,
+      "sha256": "84408a9daaea970cbddf562f7543aa1dd86f51c125f8d54f365527450034b5b3"
+    },
+    {
+      "path": "images/009-b2afcd11.webp",
+      "bytes": 792110,
+      "sha256": "3dccc4f2662479eb682a4438a7fe8ea0e462bf3399c5027c948fdad7048b7b89"
+    },
+    {
+      "path": "images/014-4a46ce32.webp",
+      "bytes": 546706,
+      "sha256": "e26a7065d260d714ff111060bf45a9a91e34e742fb68fcac811f15238a88d548"
+    },
+    {
+      "path": "images/019-968656bf.webp",
+      "bytes": 409482,
+      "sha256": "04cc797101a4684e6e27440f085607cac108c4684607c3937d41923e48e7e560"
+    },
+    {
+      "path": "images/024-99502b4c.webp",
+      "bytes": 140062,
+      "sha256": "f91bada9c9d169e9805057f97c961422de801724b8e604928bda68226b415a43"
+    },
+    {
+      "path": "images/031-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/032-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/033-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/034-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16517,
+      "sha256": "662f9597c59b843a16e20e512cbdf2603eeb460eebd7aa170ba0fcfb09236886"
+    },
+    {
+      "path": "source.html",
+      "bytes": 339128,
+      "sha256": "b7e2c65e05fe64cf4524964dea0305908e2451b035b728044b66b2aac03ff05e"
+    },
+    {
+      "path": "source.url",
+      "bytes": 112,
+      "sha256": "58bad319ed221daa03f15e447153ec67e93ae43a532874e66c9c388bcf5a0cf5"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/2200xxs.jpg",
+      "path": "images/004-e3e33e6e.webp",
+      "media_type": "image/webp",
+      "bytes": 643320,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/2200xxs.jpg",
+      "path": "images/009-b2afcd11.webp",
+      "media_type": "image/webp",
+      "bytes": 792110,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/2200xxs.jpg",
+      "path": "images/014-4a46ce32.webp",
+      "media_type": "image/webp",
+      "bytes": 546706,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/2200xxs.jpg",
+      "path": "images/019-968656bf.webp",
+      "media_type": "image/webp",
+      "bytes": 409482,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/2200xxs.jpg",
+      "path": "images/024-99502b4c.webp",
+      "media_type": "image/webp",
+      "bytes": 140062,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

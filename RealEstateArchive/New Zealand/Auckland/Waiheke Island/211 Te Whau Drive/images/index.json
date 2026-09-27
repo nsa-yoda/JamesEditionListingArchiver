@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "path": "New Zealand/Auckland/Waiheke Island/211 Te Whau Drive/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-5b3f7cf6.webp",
+      "href": "004-5b3f7cf6.webp",
+      "size": 638868
+    },
+    {
+      "name": "009-2af312af.webp",
+      "href": "009-2af312af.webp",
+      "size": 805322
+    },
+    {
+      "name": "014-a2c03bcd.webp",
+      "href": "014-a2c03bcd.webp",
+      "size": 686112
+    },
+    {
+      "name": "019-393503cd.webp",
+      "href": "019-393503cd.webp",
+      "size": 701288
+    },
+    {
+      "name": "024-6c858274.webp",
+      "href": "024-6c858274.webp",
+      "size": 649108
+    },
+    {
+      "name": "035-57242b8e.webp",
+      "href": "035-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "036-4055dfde.svg",
+      "href": "036-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "037-272e34fe.svg",
+      "href": "037-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "038-caf7633d.svg",
+      "href": "038-caf7633d.svg",
+      "size": 63710
+    },
+    {
+      "name": "039-0b85d34c.webp",
+      "href": "039-0b85d34c.webp",
+      "size": 1128
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

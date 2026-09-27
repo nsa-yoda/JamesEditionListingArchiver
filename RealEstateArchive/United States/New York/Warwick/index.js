@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Warwick",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "81 PINE ISLAND Turnpike",
+      "href": "81%20PINE%20ISLAND%20Turnpike/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

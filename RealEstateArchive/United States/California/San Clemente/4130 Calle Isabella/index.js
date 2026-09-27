@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/San Clemente/4130 Calle Isabella",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 19423
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 8548
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3837
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 384493
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 150
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

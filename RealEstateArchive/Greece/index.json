@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "Greece",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Western Greece and the Ionian",
+      "href": "Western%20Greece%20and%20the%20Ionian/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

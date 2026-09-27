@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/estate-malibu-united-states-17427502",
+    "canonical_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/estate-malibu-united-states-17427502",
+    "site": "jamesedition",
+    "listing_id": "17427502",
+    "listing_reference": "067552",
+    "first_listed": "Mar 17",
+    "last_updated": "March 17",
+    "retrieved_at": "2026-06-16T03:43:24.75106Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2669,
+      "sha256": "d464eeef81188d5d878a5ab636edb1291ae57aa2774f6ed171f060cbec535bd8"
+    },
+    {
+      "path": "images/004-10193a45.webp",
+      "bytes": 520304,
+      "sha256": "6296ed03c3c3b6e1569413a1afcd5b6b6b0ec0f6091b8cc348d845568f937788"
+    },
+    {
+      "path": "images/009-abb38723.webp",
+      "bytes": 435016,
+      "sha256": "dd3260ca6f887cb694a3395b5de23d20224d7d86613be2adfec4677768263e7d"
+    },
+    {
+      "path": "images/014-e7579711.webp",
+      "bytes": 318292,
+      "sha256": "d28fbd8eeb8a807c513d05ee06ffa92e505e4058110f7f0b3a2bc847e483280a"
+    },
+    {
+      "path": "images/019-3a6f49c0.webp",
+      "bytes": 431722,
+      "sha256": "aadb804338c5c6d0a181dccb49432231ca0243a4b4845ef2a4d7b9aef81c31ac"
+    },
+    {
+      "path": "images/024-6844aae3.webp",
+      "bytes": 620960,
+      "sha256": "5e32518f0d4b87294beb1e90720d45a0dd41ff60544abf15d48b3c51cab2ce7b"
+    },
+    {
+      "path": "images/035-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/036-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/037-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/038-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/039-460fc1c6.webp",
+      "bytes": 1274,
+      "sha256": "39954037b698d0056c4612d9a27c80ff922e0735935070f65a941c0284346f40"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 18969,
+      "sha256": "57d3bf936b1ff8150461d38f29a9e26d26c9d6db0d4a6fc5ce1415a207001598"
+    },
+    {
+      "path": "source.html",
+      "bytes": 362597,
+      "sha256": "d4e150b8e87839209613216c5bf32d6b1017695a08c6b95d1e9cf90396cc73f2"
+    },
+    {
+      "path": "source.url",
+      "bytes": 92,
+      "sha256": "dad6cf963df4672726464f44e64be05cac826178c369d8f66c4ce21a55dc4b79"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/2200xxs.jpg",
+      "path": "images/004-10193a45.webp",
+      "media_type": "image/webp",
+      "bytes": 520304,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/2200xxs.jpg",
+      "path": "images/009-abb38723.webp",
+      "media_type": "image/webp",
+      "bytes": 435016,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/2200xxs.jpg",
+      "path": "images/014-e7579711.webp",
+      "media_type": "image/webp",
+      "bytes": 318292,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/2200xxs.jpg",
+      "path": "images/019-3a6f49c0.webp",
+      "media_type": "image/webp",
+      "bytes": 431722,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/2200xxs.jpg",
+      "path": "images/024-6844aae3.webp",
+      "media_type": "image/webp",
+      "bytes": 620960,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/02/28/08/56/07/74863c12-9de3-41e6-9520-6c181a8c2468/je/80x80xc.jpg",
+      "path": "images/039-460fc1c6.webp",
+      "media_type": "image/webp",
+      "bytes": 1274,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 13,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "United States/California/Westport",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "39801 Highway 1",
+      "href": "39801%20Highway%201/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

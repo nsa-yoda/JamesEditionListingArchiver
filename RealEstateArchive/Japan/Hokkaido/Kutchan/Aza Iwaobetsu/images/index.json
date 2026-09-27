@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "path": "Japan/Hokkaido/Kutchan/Aza Iwaobetsu/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-6f0cf4da.webp",
+      "href": "004-6f0cf4da.webp",
+      "size": 298028
+    },
+    {
+      "name": "009-5b380c01.webp",
+      "href": "009-5b380c01.webp",
+      "size": 246896
+    },
+    {
+      "name": "014-d118c774.webp",
+      "href": "014-d118c774.webp",
+      "size": 243366
+    },
+    {
+      "name": "019-e8e322a6.webp",
+      "href": "019-e8e322a6.webp",
+      "size": 116830
+    },
+    {
+      "name": "024-6afc827c.webp",
+      "href": "024-6afc827c.webp",
+      "size": 404390
+    },
+    {
+      "name": "029-57242b8e.webp",
+      "href": "029-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "030-4055dfde.svg",
+      "href": "030-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "031-272e34fe.svg",
+      "href": "031-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "032-caf7633d.svg",
+      "href": "032-caf7633d.svg",
+      "size": 63710
+    },
+    {
+      "name": "033-5e31199e.webp",
+      "href": "033-5e31199e.webp",
+      "size": 258
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

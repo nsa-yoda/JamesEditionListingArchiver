@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Oregon/Gold Beach",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "000 Jerrys Flat Rd",
+      "href": "000%20Jerrys%20Flat%20Rd/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

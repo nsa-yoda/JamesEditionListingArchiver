@@ -1,0 +1,334 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Vermont/Barnard/Barnard/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-0193c1c5c304.webp",
+      "href": "img-0193c1c5c304.webp",
+      "size": 113802
+    },
+    {
+      "name": "img-05a36bc12b47.webp",
+      "href": "img-05a36bc12b47.webp",
+      "size": 66754
+    },
+    {
+      "name": "img-07055dc902c5.webp",
+      "href": "img-07055dc902c5.webp",
+      "size": 120322
+    },
+    {
+      "name": "img-08f998863095.webp",
+      "href": "img-08f998863095.webp",
+      "size": 91084
+    },
+    {
+      "name": "img-090ee73c6a2a.webp",
+      "href": "img-090ee73c6a2a.webp",
+      "size": 2088
+    },
+    {
+      "name": "img-119269aace18.webp",
+      "href": "img-119269aace18.webp",
+      "size": 37376
+    },
+    {
+      "name": "img-130e56bc1d95.webp",
+      "href": "img-130e56bc1d95.webp",
+      "size": 72552
+    },
+    {
+      "name": "img-159b10d9ee62.webp",
+      "href": "img-159b10d9ee62.webp",
+      "size": 86574
+    },
+    {
+      "name": "img-1665a74c37e0.webp",
+      "href": "img-1665a74c37e0.webp",
+      "size": 158458
+    },
+    {
+      "name": "img-1961d54cc961.webp",
+      "href": "img-1961d54cc961.webp",
+      "size": 48998
+    },
+    {
+      "name": "img-19a1a378fc74.webp",
+      "href": "img-19a1a378fc74.webp",
+      "size": 71176
+    },
+    {
+      "name": "img-1abc0435e768.webp",
+      "href": "img-1abc0435e768.webp",
+      "size": 147672
+    },
+    {
+      "name": "img-204aa7938d05.webp",
+      "href": "img-204aa7938d05.webp",
+      "size": 98596
+    },
+    {
+      "name": "img-20ade359e34f.webp",
+      "href": "img-20ade359e34f.webp",
+      "size": 117822
+    },
+    {
+      "name": "img-216702359cb4.webp",
+      "href": "img-216702359cb4.webp",
+      "size": 50912
+    },
+    {
+      "name": "img-305d1c39a398.webp",
+      "href": "img-305d1c39a398.webp",
+      "size": 141570
+    },
+    {
+      "name": "img-33f7c6cd0e5f.webp",
+      "href": "img-33f7c6cd0e5f.webp",
+      "size": 74166
+    },
+    {
+      "name": "img-349ad6ca41a5.webp",
+      "href": "img-349ad6ca41a5.webp",
+      "size": 531574
+    },
+    {
+      "name": "img-46c9f857e410.webp",
+      "href": "img-46c9f857e410.webp",
+      "size": 84244
+    },
+    {
+      "name": "img-51715d327655.webp",
+      "href": "img-51715d327655.webp",
+      "size": 94196
+    },
+    {
+      "name": "img-57242b8ef18d.webp",
+      "href": "img-57242b8ef18d.webp",
+      "size": 1004
+    },
+    {
+      "name": "img-5be9a779188e.webp",
+      "href": "img-5be9a779188e.webp",
+      "size": 91038
+    },
+    {
+      "name": "img-5db8b45d3c12.webp",
+      "href": "img-5db8b45d3c12.webp",
+      "size": 68500
+    },
+    {
+      "name": "img-6520bbbf5ba3.webp",
+      "href": "img-6520bbbf5ba3.webp",
+      "size": 92226
+    },
+    {
+      "name": "img-664eaac68577.webp",
+      "href": "img-664eaac68577.webp",
+      "size": 67236
+    },
+    {
+      "name": "img-68a34054b893.webp",
+      "href": "img-68a34054b893.webp",
+      "size": 110788
+    },
+    {
+      "name": "img-6a663e63977f.webp",
+      "href": "img-6a663e63977f.webp",
+      "size": 130540
+    },
+    {
+      "name": "img-70d1162415be.webp",
+      "href": "img-70d1162415be.webp",
+      "size": 51938
+    },
+    {
+      "name": "img-77c155a427b8.webp",
+      "href": "img-77c155a427b8.webp",
+      "size": 75010
+    },
+    {
+      "name": "img-7ca6c0c76b77.webp",
+      "href": "img-7ca6c0c76b77.webp",
+      "size": 128440
+    },
+    {
+      "name": "img-7f7372dc1b4a.webp",
+      "href": "img-7f7372dc1b4a.webp",
+      "size": 90038
+    },
+    {
+      "name": "img-80af7136a841.webp",
+      "href": "img-80af7136a841.webp",
+      "size": 70552
+    },
+    {
+      "name": "img-8230bd35a385.webp",
+      "href": "img-8230bd35a385.webp",
+      "size": 69438
+    },
+    {
+      "name": "img-84c5e132a801.webp",
+      "href": "img-84c5e132a801.webp",
+      "size": 76178
+    },
+    {
+      "name": "img-86e590c078a1.webp",
+      "href": "img-86e590c078a1.webp",
+      "size": 128440
+    },
+    {
+      "name": "img-89d5d057f151.webp",
+      "href": "img-89d5d057f151.webp",
+      "size": 118468
+    },
+    {
+      "name": "img-8feb8925b205.webp",
+      "href": "img-8feb8925b205.webp",
+      "size": 90262
+    },
+    {
+      "name": "img-945a592151fa.webp",
+      "href": "img-945a592151fa.webp",
+      "size": 100206
+    },
+    {
+      "name": "img-99a03046e50a.webp",
+      "href": "img-99a03046e50a.webp",
+      "size": 131936
+    },
+    {
+      "name": "img-a0b39b593dca.webp",
+      "href": "img-a0b39b593dca.webp",
+      "size": 67232
+    },
+    {
+      "name": "img-a2c3c343f8b5.webp",
+      "href": "img-a2c3c343f8b5.webp",
+      "size": 55134
+    },
+    {
+      "name": "img-a528377b2b88.webp",
+      "href": "img-a528377b2b88.webp",
+      "size": 89938
+    },
+    {
+      "name": "img-a8f5b4eac692.webp",
+      "href": "img-a8f5b4eac692.webp",
+      "size": 616562
+    },
+    {
+      "name": "img-ad70b763c390.webp",
+      "href": "img-ad70b763c390.webp",
+      "size": 83922
+    },
+    {
+      "name": "img-b3eaa6907a07.webp",
+      "href": "img-b3eaa6907a07.webp",
+      "size": 882108
+    },
+    {
+      "name": "img-b93b629978e0.webp",
+      "href": "img-b93b629978e0.webp",
+      "size": 81704
+    },
+    {
+      "name": "img-ba1e0fcdca6b.webp",
+      "href": "img-ba1e0fcdca6b.webp",
+      "size": 112296
+    },
+    {
+      "name": "img-beceb386ae4a.webp",
+      "href": "img-beceb386ae4a.webp",
+      "size": 126880
+    },
+    {
+      "name": "img-bef090cc5501.webp",
+      "href": "img-bef090cc5501.webp",
+      "size": 63076
+    },
+    {
+      "name": "img-c043bb56d0d6.webp",
+      "href": "img-c043bb56d0d6.webp",
+      "size": 54710
+    },
+    {
+      "name": "img-c071972720ee.webp",
+      "href": "img-c071972720ee.webp",
+      "size": 117398
+    },
+    {
+      "name": "img-c11b2f7cd81d.webp",
+      "href": "img-c11b2f7cd81d.webp",
+      "size": 102106
+    },
+    {
+      "name": "img-c6b763210b0a.webp",
+      "href": "img-c6b763210b0a.webp",
+      "size": 133326
+    },
+    {
+      "name": "img-c7eae491870c.webp",
+      "href": "img-c7eae491870c.webp",
+      "size": 96650
+    },
+    {
+      "name": "img-ce304b4991eb.webp",
+      "href": "img-ce304b4991eb.webp",
+      "size": 75980
+    },
+    {
+      "name": "img-cf9fc114aaea.webp",
+      "href": "img-cf9fc114aaea.webp",
+      "size": 40904
+    },
+    {
+      "name": "img-d5062a10cbba.webp",
+      "href": "img-d5062a10cbba.webp",
+      "size": 159516
+    },
+    {
+      "name": "img-d8aa47807537.webp",
+      "href": "img-d8aa47807537.webp",
+      "size": 113020
+    },
+    {
+      "name": "img-dd5f40d4e1e1.webp",
+      "href": "img-dd5f40d4e1e1.webp",
+      "size": 112228
+    },
+    {
+      "name": "img-e3c798f739c9.webp",
+      "href": "img-e3c798f739c9.webp",
+      "size": 81660
+    },
+    {
+      "name": "img-e4a3f3974f99.webp",
+      "href": "img-e4a3f3974f99.webp",
+      "size": 96160
+    },
+    {
+      "name": "img-ebe6e16cdf9f.webp",
+      "href": "img-ebe6e16cdf9f.webp",
+      "size": 72720
+    },
+    {
+      "name": "img-efe1cd36e846.webp",
+      "href": "img-efe1cd36e846.webp",
+      "size": 93226
+    },
+    {
+      "name": "img-f37907f99f95.webp",
+      "href": "img-f37907f99f95.webp",
+      "size": 58794
+    },
+    {
+      "name": "img-f73be248e2bc.webp",
+      "href": "img-f73be248e2bc.webp",
+      "size": 85928
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

@@ -1,0 +1,17 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Idaho",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Coeur d'Alene",
+      "href": "Coeur%20d%27Alene/index.html"
+    },
+    {
+      "name": "Hope",
+      "href": "Hope/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

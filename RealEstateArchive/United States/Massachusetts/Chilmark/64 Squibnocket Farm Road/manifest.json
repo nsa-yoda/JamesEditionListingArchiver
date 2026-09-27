@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/extraordinary-waterfront-estate-in-squibnocket-14540718",
+    "canonical_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/extraordinary-waterfront-estate-in-squibnocket-14540718",
+    "site": "jamesedition",
+    "listing_id": "14540718",
+    "listing_reference": "KTRCTX",
+    "first_listed": "Jul 30, 2024",
+    "last_updated": "May 22",
+    "retrieved_at": "2026-06-19T08:18:45.705283Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2157,
+      "sha256": "d090aaa6d2ef671adda5d294027e42fa13904647a31a4294c119b232f2bb7c20"
+    },
+    {
+      "path": "images/img-1ac0d92dccb0.webp",
+      "bytes": 391156,
+      "sha256": "663383ac7a03448e50cebeddf5b89f9837acd5110ad92b3df0a20c48f5a0ad70"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5ea02b0181e4.webp",
+      "bytes": 342854,
+      "sha256": "9581f8b9637310779c9c9f6e0c9dbae62b6bc1846a828631f7d44afb13c70fd3"
+    },
+    {
+      "path": "images/img-77029d4f3a7d.webp",
+      "bytes": 378658,
+      "sha256": "ed0ce65a1426f9a861490de9edb6f45242841c7206cdaf5fa4ed10856d48a381"
+    },
+    {
+      "path": "images/img-9d96a773ee51.webp",
+      "bytes": 347146,
+      "sha256": "08bf8013bf745dfa49c2cbc2ba5ee48aa2e70ccb26ebe884a405de12288bf771"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-e25df86ee592.webp",
+      "bytes": 421186,
+      "sha256": "bfe45123c316701518ed7145fcd9f00714b4ae0baf207d0c9d934d60e9c08a97"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15739,
+      "sha256": "b81969049ff886e29f402e935ea90073bb4cecdcf77b7748653f7221c2d03133"
+    },
+    {
+      "path": "source.html",
+      "bytes": 356017,
+      "sha256": "12219087e498b8168cd86058d8aba01ed2838489c9bbab1458813924d32ae912"
+    },
+    {
+      "path": "source.url",
+      "bytes": 113,
+      "sha256": "3208c1d751e78b9c885b06ea4e760d1b1a64f6799466ab0473a9170b93994865"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/30/14/01/52/84392ea7-ed54-4679-961e-9d65bbf1a092/je/2200xxs.jpg",
+      "path": "images/img-e25df86ee592.webp",
+      "media_type": "image/webp",
+      "bytes": 421186,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/Extraordinary%20Waterfront%20Estate%20In%20In%20Chilmark,%20Massachusetts,%20United%20States%20For%20Sale%20%2814540718%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/30/14/01/52/6183af9c-a467-46c9-a2d3-2ec1018e6b49/je/2200xxs.jpg",
+      "path": "images/img-77029d4f3a7d.webp",
+      "media_type": "image/webp",
+      "bytes": 378658,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/Extraordinary%20Waterfront%20Estate%20In%20In%20Chilmark,%20Massachusetts,%20United%20States%20For%20Sale%20%2814540718%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/30/14/01/52/610817f1-cd95-4997-81fe-293479ec08d4/je/2200xxs.jpg",
+      "path": "images/img-5ea02b0181e4.webp",
+      "media_type": "image/webp",
+      "bytes": 342854,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/Extraordinary%20Waterfront%20Estate%20In%20In%20Chilmark,%20Massachusetts,%20United%20States%20For%20Sale%20%2814540718%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/30/14/01/52/3afacd44-f3dc-4852-b4bb-de4bd3c474aa/je/2200xxs.jpg",
+      "path": "images/img-1ac0d92dccb0.webp",
+      "media_type": "image/webp",
+      "bytes": 391156,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/Extraordinary%20Waterfront%20Estate%20In%20In%20Chilmark,%20Massachusetts,%20United%20States%20For%20Sale%20%2814540718%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/30/14/01/52/1c5ba1c3-2695-4a7c-9bad-e9ac0891bfeb/je/2200xxs.jpg",
+      "path": "images/img-9d96a773ee51.webp",
+      "media_type": "image/webp",
+      "bytes": 347146,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/Extraordinary%20Waterfront%20Estate%20In%20In%20Chilmark,%20Massachusetts,%20United%20States%20For%20Sale%20%2814540718%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/Extraordinary%20Waterfront%20Estate%20In%20In%20Chilmark,%20Massachusetts,%20United%20States%20For%20Sale%20%2814540718%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/Extraordinary%20Waterfront%20Estate%20In%20In%20Chilmark,%20Massachusetts,%20United%20States%20For%20Sale%20%2814540718%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/chilmark-ma-usa/Extraordinary%20Waterfront%20Estate%20In%20In%20Chilmark,%20Massachusetts,%20United%20States%20For%20Sale%20%2814540718%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 0,
+    "images_failed": 8,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303",
+    "canonical_url": "https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303",
+    "site": "jamesedition",
+    "listing_id": "17467303",
+    "first_listed": "Mar 24",
+    "last_updated": "April 24",
+    "retrieved_at": "2026-06-16T03:43:40.168387Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 6156,
+      "sha256": "ea306560682070b594e9295ac4523fbd2eb4ef37fcbd83d8b6db831f83683d8c"
+    },
+    {
+      "path": "images/004-e074521c.webp",
+      "bytes": 152778,
+      "sha256": "832fdd8d6634545a5a2fecf2571c82eeb1a2ffe16483f4f840513b2959914a33"
+    },
+    {
+      "path": "images/009-ba187f9b.webp",
+      "bytes": 125972,
+      "sha256": "baa42a67c5236cf0ddd84e57d2987c0f4f69f8628232977952df1f596b12b88f"
+    },
+    {
+      "path": "images/014-b0ec6c12.webp",
+      "bytes": 249872,
+      "sha256": "dbf8cf64d2308c0071d768ef9ce8da34a2e0212bec5cd0d6ba766cd442a9e0d3"
+    },
+    {
+      "path": "images/019-27b3dea0.webp",
+      "bytes": 287918,
+      "sha256": "2123f37ee346d919ee075a46693cf11690345cb3747d0564510c0510693717c7"
+    },
+    {
+      "path": "images/024-b696ed26.webp",
+      "bytes": 226744,
+      "sha256": "5086a3919e1210bc6d38e663d0b9f7489aded418af1c1cfb2d7731f025df1234"
+    },
+    {
+      "path": "images/036-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/037-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/038-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/039-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/040-20ade833.webp",
+      "bytes": 1042,
+      "sha256": "77f37f341d2f0527a6c78049990325e7c46c70b4183a83568c0151e78e71a824"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 26571,
+      "sha256": "21418f26450472945536cb05e142078f2b27b4383e38459cb8112bd58d79e33e"
+    },
+    {
+      "path": "source.html",
+      "bytes": 313844,
+      "sha256": "31876955bc61e9e757b4b6436990dd3de5a85efd7f5e95bb3b9c02914690df27"
+    },
+    {
+      "path": "source.url",
+      "bytes": 102,
+      "sha256": "9d7271079427a1eb0cf91d606a312b0852f1311fb84b139ee5175ccfbcb74a81"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/2200xxs.jpg",
+      "path": "images/004-e074521c.webp",
+      "media_type": "image/webp",
+      "bytes": 152778,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/4e660354-077e-4c8a-928e-5b9992128b6f/je/2200xxs.jpg",
+      "path": "images/009-ba187f9b.webp",
+      "media_type": "image/webp",
+      "bytes": 125972,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/e9feb7b7-2bf1-48f7-af03-bbb8c24c0b87/je/2200xxs.jpg",
+      "path": "images/014-b0ec6c12.webp",
+      "media_type": "image/webp",
+      "bytes": 249872,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/07/40/33/986a93f9-fa58-4f87-8240-8d55905c00c7/je/2200xxs.jpg",
+      "path": "images/019-27b3dea0.webp",
+      "media_type": "image/webp",
+      "bytes": 287918,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/15/58/26/bff187bd-3520-4ee1-a94d-c14f9992ddd0/je/2200xxs.jpg",
+      "path": "images/024-b696ed26.webp",
+      "media_type": "image/webp",
+      "bytes": 226744,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
+      "path": "images/040-20ade833.webp",
+      "media_type": "image/webp",
+      "bytes": 1042,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 14,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

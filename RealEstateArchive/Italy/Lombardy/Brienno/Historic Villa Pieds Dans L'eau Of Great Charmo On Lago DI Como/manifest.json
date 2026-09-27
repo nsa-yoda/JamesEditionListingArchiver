@@ -1,0 +1,563 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/brienno-italy/historic-villa-pieds-dans-l-eau-of-great-charmo-on-lago-di-como-brienno-18348881",
+    "canonical_url": "https://www.jamesedition.com/real_estate/brienno-italy/historic-villa-pieds-dans-l-eau-of-great-charmo-on-lago-di-como-brienno-18348881",
+    "site": "jamesedition",
+    "listing_id": "18348881",
+    "first_listed": "Jul 6",
+    "last_updated": "Today",
+    "retrieved_at": "2026-08-28T00:28:40.922298Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 6251,
+      "sha256": "c681726b22d403ee10cb1e9034f5f2666e8a3d17c0126a80b52a6afc5a6590c2"
+    },
+    {
+      "path": "images/img-07fdc2ea8eee.webp",
+      "bytes": 412540,
+      "sha256": "66ccf0c1bb838072c06c1e42e373e97aab7e1ddb2fa715b18c1e3cc236634ceb"
+    },
+    {
+      "path": "images/img-08e7e3cd4ecd.webp",
+      "bytes": 290606,
+      "sha256": "855dbdc313fb6397ea59780fc1bd0af55e6d83ff3f4455b804b159c5fbc1c5dd"
+    },
+    {
+      "path": "images/img-090b638e36c6.webp",
+      "bytes": 537646,
+      "sha256": "897fd5f8ceffc0cd4c3ac79ef82a0bfd49f2fd527570e4431e7e5d17bee3eea0"
+    },
+    {
+      "path": "images/img-0a0f4005868d.webp",
+      "bytes": 243890,
+      "sha256": "89c5780ac82b8dce50169b45f63f3532642e517615118bcae4602cc876b850d3"
+    },
+    {
+      "path": "images/img-1e9c12ea834e.webp",
+      "bytes": 289472,
+      "sha256": "0630b85427bc2229636ed8386da3721436c14173e653061ee7889b6b0f5f6e20"
+    },
+    {
+      "path": "images/img-1f2a3ddc9b35.webp",
+      "bytes": 120510,
+      "sha256": "3db3bd63295ae2c5969adc07ec2ba0ed01504cfc22f34f12a44b6b5489ece938"
+    },
+    {
+      "path": "images/img-20e846134352.webp",
+      "bytes": 453624,
+      "sha256": "f98dea2779ae358d820e925f251f3d21aadf228a7a7414efc4686c9ba1eb1872"
+    },
+    {
+      "path": "images/img-22e5f0e6292f.webp",
+      "bytes": 412540,
+      "sha256": "66ccf0c1bb838072c06c1e42e373e97aab7e1ddb2fa715b18c1e3cc236634ceb"
+    },
+    {
+      "path": "images/img-24f58dad3343.webp",
+      "bytes": 370918,
+      "sha256": "fa0532584556f14ddc70f5e02769f397823f7113fa0e4e40fea07b0b2340da66"
+    },
+    {
+      "path": "images/img-42b0f4557185.webp",
+      "bytes": 560498,
+      "sha256": "3bd7b1341a1602bb4e5ac2eb6d3efaae61ec5475fba113ca0b265cea551621b8"
+    },
+    {
+      "path": "images/img-49ab27905308.webp",
+      "bytes": 681490,
+      "sha256": "8440ba0ceb3fd698820ed25e33f7571a00b54a3f84265727fa697658b89795be"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5b133924c335.webp",
+      "bytes": 493218,
+      "sha256": "0c55632a58e93f58de3fd731bbe09f0eb407439b864754b68eefa821c765e040"
+    },
+    {
+      "path": "images/img-608152795590.webp",
+      "bytes": 552654,
+      "sha256": "2f836427556e11ca2c9fe2e5d9cbafbed6cb35c88ee51150d7bf71c395e24583"
+    },
+    {
+      "path": "images/img-6a51f06336a5.webp",
+      "bytes": 619338,
+      "sha256": "5cca25ba69fbf645c09c2dfef3405602abf5a2930307bd0956fa389a4b1426ec"
+    },
+    {
+      "path": "images/img-6d14a31f4ea8.webp",
+      "bytes": 453624,
+      "sha256": "f98dea2779ae358d820e925f251f3d21aadf228a7a7414efc4686c9ba1eb1872"
+    },
+    {
+      "path": "images/img-6e67a9612a74.webp",
+      "bytes": 468130,
+      "sha256": "d98a4cf6fa527d5d1e09acb331265c46f935b1eb8a4b4fcc2ed7d310fdc33d26"
+    },
+    {
+      "path": "images/img-795c32afe6c6.webp",
+      "bytes": 205628,
+      "sha256": "ff4aed8e142232470a3a13b17d4afea5e0368a098b1e8c07fe6649481aea7790"
+    },
+    {
+      "path": "images/img-87fe846448ea.webp",
+      "bytes": 468130,
+      "sha256": "d98a4cf6fa527d5d1e09acb331265c46f935b1eb8a4b4fcc2ed7d310fdc33d26"
+    },
+    {
+      "path": "images/img-8afe179ab625.webp",
+      "bytes": 488354,
+      "sha256": "27ef1b2ecd950f7ea6d008426666ea27515149b818d2e04ad833e5f5f51be16a"
+    },
+    {
+      "path": "images/img-8fa92621efa9.webp",
+      "bytes": 199584,
+      "sha256": "ea46b117f8751329c718c222dc3fcd62b7912bab27a21007619ab676889de101"
+    },
+    {
+      "path": "images/img-95f7259238dd.webp",
+      "bytes": 243890,
+      "sha256": "89c5780ac82b8dce50169b45f63f3532642e517615118bcae4602cc876b850d3"
+    },
+    {
+      "path": "images/img-aaa6d316ccc4.webp",
+      "bytes": 668,
+      "sha256": "19ca57de0d8e24fe88d1d0e6f31f2167998489636feb1f04fc1a4457796d17f0"
+    },
+    {
+      "path": "images/img-ac73d9c2bb79.webp",
+      "bytes": 436346,
+      "sha256": "74d0f328dd33e4b1924a93148c6da4de07a3328fc2c91304f8e23eb77f6ff4ce"
+    },
+    {
+      "path": "images/img-b212712d6b88.webp",
+      "bytes": 521286,
+      "sha256": "7e58c3a2c6306367ed2583b3357e7248972890448c23096ca4e5d97e874f26c0"
+    },
+    {
+      "path": "images/img-bb5004070227.webp",
+      "bytes": 199584,
+      "sha256": "ea46b117f8751329c718c222dc3fcd62b7912bab27a21007619ab676889de101"
+    },
+    {
+      "path": "images/img-d12a0649dded.webp",
+      "bytes": 307810,
+      "sha256": "35e15b85383479560e31e854eaa1415c849e4f0daec7e0fa94d78657f075d2da"
+    },
+    {
+      "path": "images/img-e47a4b4f6d32.webp",
+      "bytes": 510860,
+      "sha256": "a3279a0d81ae58f89e7dabf0dab90d9c553dfe90bebdcdd42998bd7aa2ad6a81"
+    },
+    {
+      "path": "images/img-eddc5e7f9be7.webp",
+      "bytes": 864498,
+      "sha256": "dae26bb8764770f753713ba225f19e2cef9542bf9588e9adb09ed09853a73fbd"
+    },
+    {
+      "path": "images/img-f0e99b03051c.webp",
+      "bytes": 138030,
+      "sha256": "50dbf0f804e2e4c49512e3f3e15da3aea5ec5893335e9eed49348231c5fe6aab"
+    },
+    {
+      "path": "images/img-f1e6fb7e0865.webp",
+      "bytes": 406344,
+      "sha256": "daf10db23664558b8bc6fda57dabf032c784f96c1c82c3f137ead6be00b5414f"
+    },
+    {
+      "path": "images/img-ff7019252b3e.webp",
+      "bytes": 307810,
+      "sha256": "35e15b85383479560e31e854eaa1415c849e4f0daec7e0fa94d78657f075d2da"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 36754,
+      "sha256": "699909384f890df4d59ef149f766592d4b12476b204090404f042c83edcf715f"
+    },
+    {
+      "path": "source.html",
+      "bytes": 604942,
+      "sha256": "7b2fc5b619d569d2e4c581ec05bbab32b12334e3163c9b4a70b881b59114619e"
+    },
+    {
+      "path": "source.url",
+      "bytes": 136,
+      "sha256": "e41b0e7f1ecfb1d244aff8ed28fb1c27c9099ca53236ad2bb25eaf5b3ca79275"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/2200xxs.jpg",
+      "path": "images/img-e47a4b4f6d32.webp",
+      "media_type": "image/webp",
+      "bytes": 510860,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/2200xxs.jpg",
+      "path": "images/img-6a51f06336a5.webp",
+      "media_type": "image/webp",
+      "bytes": 619338,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/2200xxs.jpg",
+      "path": "images/img-ac73d9c2bb79.webp",
+      "media_type": "image/webp",
+      "bytes": 436346,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/2200xxs.jpg",
+      "path": "images/img-090b638e36c6.webp",
+      "media_type": "image/webp",
+      "bytes": 537646,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/2200xxs.jpg",
+      "path": "images/img-24f58dad3343.webp",
+      "media_type": "image/webp",
+      "bytes": 370918,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/1f2d7c7a-465d-49a6-9302-ccb9113bad24/je/2000xxs.jpg",
+      "path": "images/img-b212712d6b88.webp",
+      "media_type": "image/webp",
+      "bytes": 521286,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/c3e2bf61-d32b-48ee-910c-ef1383efa0af/je/2000xxs.jpg",
+      "path": "images/img-795c32afe6c6.webp",
+      "media_type": "image/webp",
+      "bytes": 205628,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/10cfb759-f657-4767-859d-f02520f851f5/je/2000xxs.jpg",
+      "path": "images/img-42b0f4557185.webp",
+      "media_type": "image/webp",
+      "bytes": 560498,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/8908826f-cdc5-4dfd-8d8b-924c8fb85600/je/2000xxs.jpg",
+      "path": "images/img-608152795590.webp",
+      "media_type": "image/webp",
+      "bytes": 552654,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/bf91ff92-e7aa-4612-9449-56396d80e5f5/je/2000xxs.jpg",
+      "path": "images/img-5b133924c335.webp",
+      "media_type": "image/webp",
+      "bytes": 493218,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/ee8e209a-001c-44a0-bc98-6f4e323e07d5/je/2000xxs.jpg",
+      "path": "images/img-1f2a3ddc9b35.webp",
+      "media_type": "image/webp",
+      "bytes": 120510,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/9747f061-9805-45fe-a876-8712bbd874a8/je/2000xxs.jpg",
+      "path": "images/img-49ab27905308.webp",
+      "media_type": "image/webp",
+      "bytes": 681490,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/97623ed1-d8b9-4d30-97a5-0930aa6bbe4e/je/2000xxs.jpg",
+      "path": "images/img-20e846134352.webp",
+      "media_type": "image/webp",
+      "bytes": 453624,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/5164b392-6df9-44f4-b994-748deedfe644/je/2000xxs.jpg",
+      "path": "images/img-07fdc2ea8eee.webp",
+      "media_type": "image/webp",
+      "bytes": 412540,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/79e3a0e7-58e0-493d-b57a-3abb21cd1f4e/je/2000xxs.jpg",
+      "path": "images/img-87fe846448ea.webp",
+      "media_type": "image/webp",
+      "bytes": 468130,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/2fe8935d-e186-424e-8554-90d650468e0a/je/2000xxs.jpg",
+      "path": "images/img-08e7e3cd4ecd.webp",
+      "media_type": "image/webp",
+      "bytes": 290606,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b4593d46-a617-450c-9255-083ca39a0ef2/je/2000xxs.jpg",
+      "path": "images/img-95f7259238dd.webp",
+      "media_type": "image/webp",
+      "bytes": 243890,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/b8eb099e-62e4-4998-a760-9cb76413c873/je/2000xxs.jpg",
+      "path": "images/img-8fa92621efa9.webp",
+      "media_type": "image/webp",
+      "bytes": 199584,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/ef3d4901-0aee-42f7-854c-70af21da9bd7/je/2000xxs.jpg",
+      "path": "images/img-d12a0649dded.webp",
+      "media_type": "image/webp",
+      "bytes": 307810,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/e75afeec-add6-4228-b4fa-4a827c5f6a74/je/2000xxs.jpg",
+      "path": "images/img-6d14a31f4ea8.webp",
+      "media_type": "image/webp",
+      "bytes": 453624,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ad42968e-8762-457e-a7e3-351c531330ce/je/2000xxs.jpg",
+      "path": "images/img-22e5f0e6292f.webp",
+      "media_type": "image/webp",
+      "bytes": 412540,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/7bf4d15f-e6d9-49cd-87b0-7f0ea5bc016f/je/2000xxs.jpg",
+      "path": "images/img-6e67a9612a74.webp",
+      "media_type": "image/webp",
+      "bytes": 468130,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/fadc625a-4fed-4c12-b570-4b7e1c20c951/je/2000xxs.jpg",
+      "path": "images/img-0a0f4005868d.webp",
+      "media_type": "image/webp",
+      "bytes": 243890,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/78557a8c-6951-4c55-a831-b0e284d341eb/je/2000xxs.jpg",
+      "path": "images/img-bb5004070227.webp",
+      "media_type": "image/webp",
+      "bytes": 199584,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/4009b6a1-2435-47d0-a7ce-d6be8f6bb111/je/2000xxs.jpg",
+      "path": "images/img-ff7019252b3e.webp",
+      "media_type": "image/webp",
+      "bytes": 307810,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/65d355ea-2a16-46af-a760-e5c1a09e2a0f/je/2000xxs.jpg",
+      "path": "images/img-f1e6fb7e0865.webp",
+      "media_type": "image/webp",
+      "bytes": 406344,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/9c533e43-2942-46db-99f9-aa75d192ff1b/je/2000xxs.jpg",
+      "path": "images/img-1e9c12ea834e.webp",
+      "media_type": "image/webp",
+      "bytes": 289472,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/0cbd58e2-5973-4a71-a409-d92a864e0ef5/je/2000xxs.jpg",
+      "path": "images/img-8afe179ab625.webp",
+      "media_type": "image/webp",
+      "bytes": 488354,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/0d258767-5325-4447-8976-19370634fbb9/je/2000xxs.jpg",
+      "path": "images/img-eddc5e7f9be7.webp",
+      "media_type": "image/webp",
+      "bytes": 864498,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/c17ee2b0-2b79-418a-ab1a-2c430fd830fd/je/2000xxs.jpg",
+      "path": "images/img-f0e99b03051c.webp",
+      "media_type": "image/webp",
+      "bytes": 138030,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/06/23/07/21/17/53fde871-f26e-42bc-ab60-e115df762e14/je/80x80xc.jpg",
+      "path": "images/img-aaa6d316ccc4.webp",
+      "media_type": "image/webp",
+      "bytes": 668,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 32,
+    "images_existing": 0,
+    "images_failed": 17,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

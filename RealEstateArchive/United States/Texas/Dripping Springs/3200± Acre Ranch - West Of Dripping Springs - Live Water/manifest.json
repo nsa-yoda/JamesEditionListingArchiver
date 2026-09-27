@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200-acre-ranch-west-of-dripping-springs-live-water-views-and-wildlife-16767520",
+    "canonical_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200-acre-ranch-west-of-dripping-springs-live-water-views-and-wildlife-16767520",
+    "site": "jamesedition",
+    "listing_id": "16767520",
+    "first_listed": "Dec 8, 2025",
+    "last_updated": "December 8, 2025",
+    "retrieved_at": "2026-06-16T03:43:17.119678Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3918,
+      "sha256": "35c65ab07ffd6ede4017f77a7acc45d927d3baa1d3c33b354b6d0bb321658b3d"
+    },
+    {
+      "path": "images/004-d9fc5642.webp",
+      "bytes": 260102,
+      "sha256": "02050ffcad975bf9f954a9b07f9c148a505e1f0607b68a66d56fdeffd7f85640"
+    },
+    {
+      "path": "images/009-b43abe6a.webp",
+      "bytes": 224826,
+      "sha256": "78f5d3b9d68a58f5dce33d718f687aec18c404d3ec2b9a6f4cc666f81ed0965e"
+    },
+    {
+      "path": "images/014-7d508603.webp",
+      "bytes": 350954,
+      "sha256": "57dbd45b58bb5f4ad79d3e1600f98620809a8af76a719fdc87b53691236e9d7c"
+    },
+    {
+      "path": "images/019-bf57f6d9.webp",
+      "bytes": 316596,
+      "sha256": "1b6fa17b754e6276552af0972e51b174c1aaa268070817b224d1b5c2512d944c"
+    },
+    {
+      "path": "images/024-eaa6632f.webp",
+      "bytes": 144490,
+      "sha256": "228b55058f6c1892b7911bc3d519583622443d202991c370fe58f812a5051f2c"
+    },
+    {
+      "path": "images/036-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/037-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/038-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/039-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/040-3e7e42e9.webp",
+      "bytes": 1272,
+      "sha256": "f9100611d37f409638e2d97519336fb5f545a9b2b731795e5ea479ad81c27212"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23327,
+      "sha256": "996d1c08b0855cc6cd1745530c801e02a84dee21a8024f99b63d2e8616b76342"
+    },
+    {
+      "path": "source.html",
+      "bytes": 373259,
+      "sha256": "0556b299cf39f37b142d717bad2b6bcc7c5fcece86606918fd41061b323da3f4"
+    },
+    {
+      "path": "source.url",
+      "bytes": 145,
+      "sha256": "6aad68514da546ab2f041919d6838c43d5ebd672f4badffa1db957e1935cf7b7"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/08/16/15/01/30fbddd7-9189-41e1-bc45-fb31573fd7db/je/2200xxs.jpg",
+      "path": "images/004-d9fc5642.webp",
+      "media_type": "image/webp",
+      "bytes": 260102,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/08/16/15/20/e8e6fed9-e738-4b27-8dc3-cf05fc28f140/je/2200xxs.jpg",
+      "path": "images/009-b43abe6a.webp",
+      "media_type": "image/webp",
+      "bytes": 224826,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/08/16/15/20/2c180ab2-c2e3-499a-9be4-cb59271ba2c1/je/2200xxs.jpg",
+      "path": "images/014-7d508603.webp",
+      "media_type": "image/webp",
+      "bytes": 350954,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/08/16/15/20/85ffcb34-adef-450e-9916-03bb112c59df/je/2200xxs.jpg",
+      "path": "images/019-bf57f6d9.webp",
+      "media_type": "image/webp",
+      "bytes": 316596,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/08/18/16/29/1be5b432-9348-45ef-be9d-0d63bba3412d/je/2200xxs.jpg",
+      "path": "images/024-eaa6632f.webp",
+      "media_type": "image/webp",
+      "bytes": 144490,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200%C2%B1%20Acre%20Ranch%20_%20West%20Of%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816767520%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/10/07/17/09/01/7f337839-1cad-4c33-9448-ef82ebfff1a6/je/80x80xc.jpg",
+      "path": "images/040-3e7e42e9.webp",
+      "media_type": "image/webp",
+      "bytes": 1272,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 14,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

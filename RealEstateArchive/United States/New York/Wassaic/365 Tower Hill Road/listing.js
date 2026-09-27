@@ -1,0 +1,487 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824",
+    "canonical_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824",
+    "site": "jamesedition",
+    "listing_id": "17981824",
+    "listing_reference": "1002180",
+    "first_listed": "May 22",
+    "last_updated": "May 22",
+    "retrieved_at": "2026-06-18T07:09:09.196914Z"
+  },
+  "location": {
+    "address": "365 Tower Hill Road, Wassaic, New York, United States",
+    "street": "365 Tower Hill Road",
+    "municipality": "Wassaic",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.787412,-73.590524",
+    "latitude": 41.787412,
+    "longitude": -73.590524
+  },
+  "property": {
+    "title": "Single Family Residence In Wassaic",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 16500000,
+      "currency": "USD",
+      "display": "$16,500,000"
+    },
+    "price_per_area": {
+      "amount": 2200,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$2,200"
+    },
+    "bedrooms": 4,
+    "bathrooms": 8,
+    "interior_area": {
+      "value": 7500,
+      "unit": "sqft",
+      "display": "7,500 Sqft"
+    },
+    "lot_area": {
+      "value": 165.42,
+      "display": "165.42 Ac lot"
+    },
+    "year_built": 2019,
+    "photo_count": 26,
+    "description": "Introducing Sky House.  This 7,500-square-foot modern estate atop 138 acres of meadows, woodland, and rolling hills in Millbrook’s storied hunt country is a study in serenity and design intelligence.  Conceived by the celebrated firm Resolution: 4 Architecture and completed in 2019, the residence rises from the landscape with a long, linear silhouette tempered by floor-to-ceiling glass that invites the outdoors into its interior vocabulary. Here, architecture does not compete with nature; it offers a refined frame through which the Hudson Valley unfolds.\n\nA long private drive reveals the home as a subtle, sculptural form set against a panorama of the valley. The approach is intentionally understated; a cinematic progression culminating in the soaring glass foyer at the center of the home.\n\nThe first floor unfolds as a sequence of generous, light-filled spaces, beginning with a great room defined by a dramatic blackened-steel fireplace surround and a monumental 20-foot retractable wall of glass that allows the room to open completely to the landscape beyond. Outside, an expansive covered terrace unfolds beneath a contemporary pergola, where shifting light and shadow animate the space throughout the day. Conceived as a true outdoor living room, the terrace offers multiple seating areas oriented toward panoramic views of the surrounding fields and distant mountains. Beyond lies a media room with its own fireplace, a handsome retreat for film, music, or winter nights. Just beyond, the office appears as a hushed sanctuary bathed in soft natural light. With views stretching across the landscape, it offers a beautiful connection to the world outside.\n\nThe home features a chef’s kitchen with contemporary millwork, discreet storage, and professional-grade appliances. Adjacent are a pantry, mudroom, powder room, and back-of-house spaces designed to support both intimate daily living and large-scale entertaining.\n\nA staircase of clean lines and floating geometry leads to the second level, though an elevator links all floors with ease. At the top, a spectacular outdoor terrace extends the living space into the sky. With lounge seating arranged around a sleek outdoor fireplace, it becomes a natural stage for twilight cocktails, summer dinners, and stargazing.\n\nThe primary suite occupies its own wing, conceived as a restorative retreat. The bedroom, wrapped in glass and soft morning light, is complemented by dual dressing rooms, a massage and treatment room with fireplace, and a spa-inspired bath anchored by a sculptural soaking tub positioned toward the horizon. Separate indoor and outdoor showers offer a choice between privacy and open-air immersion. Three additional en suite bedrooms provide comfort and independence for guests, each with its own view and sense of calm.\n\nThe outdoor amenities are equally sophisticated. A pool house with kitchen and lounge stands beside an infinity-edge pool and spa that appear to slip toward the valley below. A three-car garage, designed with the same architectural restraint as the main residence, adds practicality without compromising aesthetic integrity.\n\nBeyond the immediate grounds stretch acres of meadows, forested trails, and open fields suited for riding or walking. Though utterly private, the property is minutes from Millbrook’s charming village center, local farmstands, dining, and regional hiking and riding trails. Yet its true allure lies in the equilibrium it creates between monumental design and whisper-soft landscape, between contemporary precision and the timeless calm of country life.\n\nMore than a residence, Sky House is a living composition of light, terrain, and modern craft; a place for contemplative mornings, lively weekends, and the rare sensation of inhabiting a home that is simultaneously shelter, sculpture, and sanctuary.",
+    "features": [
+      "Bar",
+      "Elevator",
+      "Fireplace",
+      "Garage",
+      "High Ceiling",
+      "Kitchen island",
+      "Modern",
+      "Mountain View",
+      "New Builds",
+      "Office",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Pergola",
+      "Pool",
+      "Privacy",
+      "Terrace",
+      "Walk In Closet"
+    ]
+  },
+  "broker": {
+    "agent": "Compass Greater NY, LLC - MILLBROOK",
+    "agency": "Compass Greater NY, LLC - MILLBROOK",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/compass-greater-ny-llc-millbrook-558803",
+    "agency_address": "MILLBROOK, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/2200xxs.jpg",
+      "file": "004-4f7d86e8.webp",
+      "media_type": "image/webp",
+      "bytes": 291758,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/2200xxs.jpg",
+      "file": "009-0f772d68.webp",
+      "media_type": "image/webp",
+      "bytes": 216904,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/2200xxs.jpg",
+      "file": "014-9416fb14.webp",
+      "media_type": "image/webp",
+      "bytes": 319312,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/2200xxs.jpg",
+      "file": "019-39f646c2.webp",
+      "media_type": "image/webp",
+      "bytes": 287794,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/2200xxs.jpg",
+      "file": "024-3151f278.webp",
+      "media_type": "image/webp",
+      "bytes": 284350,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/2a9791c9-cbcd-4a69-ada7-8838740a05d4/je/2000xxs.jpg",
+      "file": "035-e9414a94.webp",
+      "media_type": "image/webp",
+      "bytes": 216076,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/afa308cf-1cc8-45fb-86ea-fa08827ff037/je/2000xxs.jpg",
+      "file": "036-ff4c3c1c.webp",
+      "media_type": "image/webp",
+      "bytes": 268574,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/102740d9-365c-4e0d-9554-022c8715c0ae/je/2000xxs.jpg",
+      "file": "037-b872789c.webp",
+      "media_type": "image/webp",
+      "bytes": 243308,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/d7ce6d39-a504-43c8-8d55-d6fda444084c/je/2000xxs.jpg",
+      "file": "038-6a2cd3cf.webp",
+      "media_type": "image/webp",
+      "bytes": 181714,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/8b367dde-4859-43b1-8aaa-8d5489f5ea04/je/2000xxs.jpg",
+      "file": "039-f9cebfa3.webp",
+      "media_type": "image/webp",
+      "bytes": 171132,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5b1d05b2-24e0-467e-9cc6-a856372e6ad2/je/2000xxs.jpg",
+      "file": "040-51e43351.webp",
+      "media_type": "image/webp",
+      "bytes": 191460,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/f17eea65-b6c0-42fa-8381-bae4464269b9/je/2000xxs.jpg",
+      "file": "041-08f3e017.webp",
+      "media_type": "image/webp",
+      "bytes": 122060,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/49126a32-d250-49af-83d0-c5896db4bba0/je/2000xxs.jpg",
+      "file": "042-c423cd2a.webp",
+      "media_type": "image/webp",
+      "bytes": 124376,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/e1398a55-e381-42b2-af19-dba51cc28147/je/2000xxs.jpg",
+      "file": "043-d46a9d5b.webp",
+      "media_type": "image/webp",
+      "bytes": 313618,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/072c2917-b5c7-499d-98bf-da241cbb15e0/je/2000xxs.jpg",
+      "file": "044-83de2e1e.webp",
+      "media_type": "image/webp",
+      "bytes": 138222,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/ac3a12cd-a361-4ed0-9183-5deee7bf538d/je/2000xxs.jpg",
+      "file": "045-7e012672.webp",
+      "media_type": "image/webp",
+      "bytes": 124848,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/65a286e7-b381-41da-a56c-73282b397ff0/je/2000xxs.jpg",
+      "file": "046-4dc29a5b.webp",
+      "media_type": "image/webp",
+      "bytes": 38460,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/d87f5e1f-6d8b-44ef-a0ae-0ac2782185e2/je/2000xxs.jpg",
+      "file": "047-8d606c58.webp",
+      "media_type": "image/webp",
+      "bytes": 92440,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b767c6c6-e2b3-4655-b446-d1b56a612bb7/je/2000xxs.jpg",
+      "file": "048-15f930b6.webp",
+      "media_type": "image/webp",
+      "bytes": 101642,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/9fe50380-f7de-4bb3-9cec-1c345d890219/je/2000xxs.jpg",
+      "file": "049-9ee4545a.webp",
+      "media_type": "image/webp",
+      "bytes": 71942,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/3e55ba75-01e7-43aa-9a3d-50b25d5faa00/je/2000xxs.jpg",
+      "file": "050-0a06e5eb.webp",
+      "media_type": "image/webp",
+      "bytes": 47898,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a1717263-a9cb-4cf5-a4a2-707a10c295f3/je/2000xxs.jpg",
+      "file": "051-025199ab.webp",
+      "media_type": "image/webp",
+      "bytes": 222608,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/83605ed2-d3c4-4b47-8d51-c5c1fd2e824d/je/2000xxs.jpg",
+      "file": "052-35b8ff33.webp",
+      "media_type": "image/webp",
+      "bytes": 52038,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/452cc1b7-21bc-431b-b1d3-31f298a8f6ac/je/2000xxs.jpg",
+      "file": "053-34ad7b96.webp",
+      "media_type": "image/webp",
+      "bytes": 180214,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/9d97879b-80f6-442e-b428-1a0f624e635e/je/2000xxs.jpg",
+      "file": "054-bc4205f0.webp",
+      "media_type": "image/webp",
+      "bytes": 40046,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/76ec2572-4968-47ae-b3ae-650c2ddbf764/je/2000xxs.jpg",
+      "file": "055-f40ca4f1.webp",
+      "media_type": "image/webp",
+      "bytes": 419480,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/2200xxs%2825%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/2200xxs%2824%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "059-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "060-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "061-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "062-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/wassaic-ny-usa",
+              "name": "Wassaic"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824",
+              "name": "Single Family Residence in Wassaic"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Introducing Sky House.  This 7,500-square-foot modern estate atop 138 acres of meadows, woodland, and rolling hills in Millbrook’s storied hunt country is a study in serenity and design intelligence.  Conceived by the celebrated firm Resolution: 4 Architecture and completed in 2019, the residence rises from the landscape with a long, linear silhouette tempered by floor-to-ceiling glass that invites the outdoors into its interior vocabulary. Here, architecture does not compete with nature; it offers a refined frame through which the Hudson Valley unfolds.\n\nA long private drive reveals the home as a subtle, sculptural form set against a panorama of the valley. The approach is intentionally understated; a cinematic progression culminating in the soaring glass foyer at the center of the home.\n\nThe first floor unfolds as a sequence of generous, light-filled spaces, beginning with a great room defined by a dramatic blackened-steel fireplace surround and a monumental 20-foot retractable wall of glass that allows the room to open completely to the landscape beyond. Outside, an expansive covered terrace unfolds beneath a contemporary pergola, where shifting light and shadow animate the space throughout the day. Conceived as a true outdoor living room, the terrace offers multiple seating areas oriented toward panoramic views of the surrounding fields and distant mountains. Beyond lies a media room with its own fireplace, a handsome retreat for film, music, or winter nights. Just beyond, the office appears as a hushed sanctuary bathed in soft natural light. With views stretching across the landscape, it offers a beautiful connection to the world outside.\n\nThe home features a chef’s kitchen with contemporary millwork, discreet storage, and professional-grade appliances. Adjacent are a pantry, mudroom, powder room, and back-of-house spaces designed to support both intimate daily living and large-scale entertaining.\n\nA staircase of clean lines and floating geometry leads to the second level, though an elevator links all floors with ease. At the top, a spectacular outdoor terrace extends the living space into the sky. With lounge seating arranged around a sleek outdoor fireplace, it becomes a natural stage for twilight cocktails, summer dinners, and stargazing.\n\nThe primary suite occupies its own wing, conceived as a restorative retreat. The bedroom, wrapped in glass and soft morning light, is complemented by dual dressing rooms, a massage and treatment room with fireplace, and a spa-inspired bath anchored by a sculptural soaking tub positioned toward the horizon. Separate indoor and outdoor showers offer a choice between privacy and open-air immersion. Three additional en suite bedrooms provide comfort and independence for guests, each with its own view and sense of calm.\n\nThe outdoor amenities are equally sophisticated. A pool house with kitchen and lounge stands beside an infinity-edge pool and spa that appear to slip toward the valley below. A three-car garage, designed with the same architectural restraint as the main residence, adds practicality without compromising aesthetic integrity.\n\nBeyond the immediate grounds stretch acres of meadows, forested trails, and open fields suited for riding or walking. Though utterly private, the property is minutes from Millbrook’s charming village center, local farmstands, dining, and regional hiking and riding trails. Yet its true allure lies in the equilibrium it creates between monumental design and whisper-soft landscape, between contemporary precision and the timeless calm of country life.\n\nMore than a residence, Sky House is a living composition of light, terrain, and modern craft; a place for contemplative mornings, lively weekends, and the rare sensation of inhabiting a home that is simultaneously shelter, sculpture, and sanctuary.",
+        "image": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Wassaic",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 16500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Compass Greater NY, LLC - MILLBROOK"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/M00000489.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/2200xxs%2825%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/2200xxs%2824%29.jpg: HTTP 403 Forbidden"
+  ]
+};

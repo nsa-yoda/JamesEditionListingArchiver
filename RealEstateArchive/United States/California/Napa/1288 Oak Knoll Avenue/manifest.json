@@ -1,0 +1,910 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288-oak-knoll-lane-16283745",
+    "canonical_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288-oak-knoll-lane-16283745",
+    "site": "jamesedition",
+    "listing_id": "16283745",
+    "listing_reference": "5GGGSF",
+    "first_listed": "Sep 30, 2025",
+    "last_updated": "April 14",
+    "retrieved_at": "2026-08-28T00:26:57.670286Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2663,
+      "sha256": "a5faf221f053322513472d65058e337e97d2864b5ff2f0e254ab6824c1358248"
+    },
+    {
+      "path": "images/img-00144b5e3893.webp",
+      "bytes": 62648,
+      "sha256": "cdc8a41166fd7d9c428ee4fcd5c374a4e28ea6ed91cee2496d5e3b2b1160ff03"
+    },
+    {
+      "path": "images/img-038e79845e19.webp",
+      "bytes": 374856,
+      "sha256": "c434788fc46e2a2eb647ad858d84193c782fd58a1ffec41cc4a8b170d845eeb4"
+    },
+    {
+      "path": "images/img-074c8b00c27b.webp",
+      "bytes": 193348,
+      "sha256": "da173cb00be9252143b53904bd5199a5a29d1b29a9cd26372272ca9362b44e38"
+    },
+    {
+      "path": "images/img-07e5c1469966.webp",
+      "bytes": 244122,
+      "sha256": "dc0d7b076e659e5bf70679816dc8c8528074b442921db3cd39aa91f3675e2acf"
+    },
+    {
+      "path": "images/img-0e7a20dd4ce7.webp",
+      "bytes": 149866,
+      "sha256": "e39eec7ae925f24242280d14151f1ecd0c36fc1fa48cd6b41e135fab84d27ac1"
+    },
+    {
+      "path": "images/img-16ccd65c2787.webp",
+      "bytes": 928782,
+      "sha256": "1e875c5cc7fb745b7b8fee132bbb118eb402a92b6259463955dbabf0d757c6f1"
+    },
+    {
+      "path": "images/img-1801cbba4a17.webp",
+      "bytes": 342564,
+      "sha256": "750acf1195d27cc88e8e0de31de34c4554266c3fd645be78abc4426057dfbdf2"
+    },
+    {
+      "path": "images/img-24b15df761ea.webp",
+      "bytes": 239460,
+      "sha256": "cc7d1b0ff70fdd7219879376f7f437e12cb10b30560b79d73dd6bcc809908d40"
+    },
+    {
+      "path": "images/img-27a29d2aebbf.webp",
+      "bytes": 140442,
+      "sha256": "b8d56ac69f23be51e3b77d7314e757e9246c44f82ea0ee463d8ba6f6a3fb0fc6"
+    },
+    {
+      "path": "images/img-2cc03c5d8417.webp",
+      "bytes": 304544,
+      "sha256": "4ebcdfdf56ef82725b944d79bea114723ce8394b63731288cd150bd650a696fd"
+    },
+    {
+      "path": "images/img-3a03118c6360.webp",
+      "bytes": 283940,
+      "sha256": "88efff7197aad63cea04192c07d9bb8a05d4d87c610bc97844bbbaf6e43e92e2"
+    },
+    {
+      "path": "images/img-3b35f894328d.webp",
+      "bytes": 383282,
+      "sha256": "838f9176dbf4ac79af10a1c9d0282b310d63efb87ec99f59007888de7ba9c10b"
+    },
+    {
+      "path": "images/img-3f61c42e7181.webp",
+      "bytes": 72592,
+      "sha256": "d07ca9f448f206fdfc629dee839ac71e1b2b5babeb099dc3ec0242f0e8305281"
+    },
+    {
+      "path": "images/img-410a43ec3dc9.webp",
+      "bytes": 454746,
+      "sha256": "b3e87022337c76e4a5ac9207234958b959fed3646d72f25407906a05d9d6ebd3"
+    },
+    {
+      "path": "images/img-438670def196.webp",
+      "bytes": 306772,
+      "sha256": "6230594ab85079f170589d63e9280a95567e548452018b44a02c78da8e7fa501"
+    },
+    {
+      "path": "images/img-53d22229de97.webp",
+      "bytes": 187428,
+      "sha256": "c234b5d7a06cd67363a3dbc52efb351ab229057e7759ba7280ac925545755ec0"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-572441773af2.webp",
+      "bytes": 555958,
+      "sha256": "038726783b5ab05d0e5fb59db1fc6926c253742bf8829f52369b343bddb0773a"
+    },
+    {
+      "path": "images/img-59feb1f8c729.webp",
+      "bytes": 300694,
+      "sha256": "a56ef4b7e5ede9ec0bded0acc4f0ca8c92270934cd6bb7e10abb10a2f3f9591a"
+    },
+    {
+      "path": "images/img-5ec13d6ac4e8.webp",
+      "bytes": 506210,
+      "sha256": "7a777bfe5f7b77390b303d7cfaa2ec0126fdac502715d7331d51223ea9976f6e"
+    },
+    {
+      "path": "images/img-621a562ee3b4.webp",
+      "bytes": 181936,
+      "sha256": "8a9187084b2e3c1f8c9df5848623ccd3fcc205acc532afc9f73306ead8e5efaf"
+    },
+    {
+      "path": "images/img-69f6ce3b1b74.webp",
+      "bytes": 119152,
+      "sha256": "74f6f262320003860a54faf6501500b05d272ed2c909a03606c167ad2b43f76a"
+    },
+    {
+      "path": "images/img-6d5be235f17c.webp",
+      "bytes": 202840,
+      "sha256": "d71fd42a9b640a92544d8b94e1a1370a2435d0f38d2d4739ed1805acbc26c530"
+    },
+    {
+      "path": "images/img-6fdcbeacb639.webp",
+      "bytes": 189618,
+      "sha256": "f850dc8707b6c5fdcef579da95c28d758e5f7bf1c96e89b0532a195354f354ed"
+    },
+    {
+      "path": "images/img-75ba4ed65826.webp",
+      "bytes": 188824,
+      "sha256": "8da2f2a37e53f94d33a017f937efd4e651d714a736de3e5772b3e3b5325d5b95"
+    },
+    {
+      "path": "images/img-775d6fc0f549.webp",
+      "bytes": 106298,
+      "sha256": "0d4816d77cc9bd663b8c0fee8cbc6dda5c398ed4cff423adc03f88277042dab3"
+    },
+    {
+      "path": "images/img-790d6608b7fe.webp",
+      "bytes": 244908,
+      "sha256": "21b4bbb9ac8d09fc10c4c31f946b4223aca788a9e74a78954d91e6fa06e8d966"
+    },
+    {
+      "path": "images/img-7b9032e766bd.webp",
+      "bytes": 157316,
+      "sha256": "ec3dab27fd651e3ca61190c2aec5c241d8fa74d1168f62563221f61bb011bc00"
+    },
+    {
+      "path": "images/img-7d2008f27042.webp",
+      "bytes": 731674,
+      "sha256": "ed0bf2f4baeb8456e2ca9f51109d7710c1abd8ea53ba8943110fb94c9dc2dfcc"
+    },
+    {
+      "path": "images/img-7eeff1126fd8.webp",
+      "bytes": 554674,
+      "sha256": "5b6bfdaf59607fb3da3c2fb3766f3a0b26e7a22f517f8039ed19158d7bf9837a"
+    },
+    {
+      "path": "images/img-7fd7f0557d9e.webp",
+      "bytes": 305030,
+      "sha256": "1a393623e07fd7864ce49a20a2dcd2f899423e9e7380231595cdaa806fa3db83"
+    },
+    {
+      "path": "images/img-844a530d7e66.webp",
+      "bytes": 172722,
+      "sha256": "8e5e57b7185757e115f26f9238ef75391231b0cdcea21b355a105f4c869e05ba"
+    },
+    {
+      "path": "images/img-884c8327e7ea.webp",
+      "bytes": 415828,
+      "sha256": "5cc73025988e47173b7abe4eade21dd8ac76f4d3da9439c9d3162a3965f25753"
+    },
+    {
+      "path": "images/img-8944e0e64bc3.webp",
+      "bytes": 315060,
+      "sha256": "448318d720af2c9b7cbbf44bdc41ddca07fa181edbb5e007d8cd1a1bc605794e"
+    },
+    {
+      "path": "images/img-8f00e4638886.webp",
+      "bytes": 350778,
+      "sha256": "d9b1cc0f5cd52a4c7441064701e05cc70f032ff63b849d537d9b2af5e6a899cc"
+    },
+    {
+      "path": "images/img-8f705bce9e66.webp",
+      "bytes": 402838,
+      "sha256": "4a223c7dd60147cbeacaaabb87853ced576ddbe4579bcd577a3621287e7acf86"
+    },
+    {
+      "path": "images/img-9454122da2a3.webp",
+      "bytes": 334526,
+      "sha256": "2488ec914e4e945f3758a1f50948ec9467f7003f17bcefd76d9cf2a6a5f39dfa"
+    },
+    {
+      "path": "images/img-97d114ff81f5.webp",
+      "bytes": 217380,
+      "sha256": "a3bd0cf0a13a31e62ce4bd2795d22414fe05c87c78af6eee28652033b26baa1d"
+    },
+    {
+      "path": "images/img-9cc3e185777e.webp",
+      "bytes": 102904,
+      "sha256": "a7ca7127d538fee9f382aead7d2ac1891fb6145c8e1fe4aef7a9d3803191c240"
+    },
+    {
+      "path": "images/img-a42c0873c0bc.webp",
+      "bytes": 168962,
+      "sha256": "ff0611c6785cde3fd8577b7cc2cec6c4493809fe7332b2011e77b5b297598ab9"
+    },
+    {
+      "path": "images/img-a56bb5d8daa2.webp",
+      "bytes": 131226,
+      "sha256": "8ed1e425397257488557308069c5f6c25ecfca86628cd82f07154781c347a2d1"
+    },
+    {
+      "path": "images/img-af6256b401f7.webp",
+      "bytes": 243952,
+      "sha256": "456eeec8268ad9d530ef215fd60b780137aa5028d91859bb8a58fb8fee4ab398"
+    },
+    {
+      "path": "images/img-b85c1878b962.webp",
+      "bytes": 194154,
+      "sha256": "7eb5a26014ea9a9b2ebeaf962d384e889be71292a50d062d07707d5df26e29b6"
+    },
+    {
+      "path": "images/img-b9812f787b03.webp",
+      "bytes": 71064,
+      "sha256": "dee14ca9a9cdfbefdea86a3333bdf7843f7dac5799d4af7964847e36359fbd6a"
+    },
+    {
+      "path": "images/img-b98a09158303.webp",
+      "bytes": 333632,
+      "sha256": "9326064bad14731bfbe76412805084d8ff30a0a93d42ec77853171261b59ce2c"
+    },
+    {
+      "path": "images/img-bc0f560a8e1f.webp",
+      "bytes": 636640,
+      "sha256": "773349868611645dc6d94d4e0f4397571e144fd853d882c00835d5f2ce8342f1"
+    },
+    {
+      "path": "images/img-bc2fd147961e.webp",
+      "bytes": 208076,
+      "sha256": "8fc160ac08f8d1d45f56c5b3cb99d5b334f4b68a07f9152833ecd056068a368a"
+    },
+    {
+      "path": "images/img-bd291cbd250b.webp",
+      "bytes": 897746,
+      "sha256": "240b1e158e995eeaba49d5730974ddce434c4e094e1a4e0a4173b642067f94aa"
+    },
+    {
+      "path": "images/img-c46e7cc568fe.webp",
+      "bytes": 350250,
+      "sha256": "f31baa891c1dcb2d29448ca29c34fc75da38c16f970fbb9adaaa062e488e7233"
+    },
+    {
+      "path": "images/img-c5b269545a96.webp",
+      "bytes": 111654,
+      "sha256": "22b85258bdb7903e78fd829f951471a5e823d85098071e302bee8db301a4f783"
+    },
+    {
+      "path": "images/img-c7b70deb18ae.webp",
+      "bytes": 118764,
+      "sha256": "a2213460aa3e8bd2506296967fbed548bc5fd967c81ab20136ad2dc3c9df13fc"
+    },
+    {
+      "path": "images/img-ca039651e216.webp",
+      "bytes": 348712,
+      "sha256": "2c94a9b7639c27bb429be7a87c3acd956dc18cdb22d8de7cbf442d9a80dae62f"
+    },
+    {
+      "path": "images/img-cbe38587616e.webp",
+      "bytes": 284828,
+      "sha256": "dd5ab56fc2ee2f2021cf6b7d37599ebc80164e0f43ffb7947bbec0d04b8fe079"
+    },
+    {
+      "path": "images/img-e036c3d773ac.webp",
+      "bytes": 240292,
+      "sha256": "d2442afd9d48e4964394e3ba7195d51baa5fb907ca12af8a4323d85c73e9ecde"
+    },
+    {
+      "path": "images/img-e159becd1220.webp",
+      "bytes": 98444,
+      "sha256": "f1b10b168b6cdedea05b79e39e1e67e99374af67a45e3a95ed6841e772e328c8"
+    },
+    {
+      "path": "images/img-ea25591af2e6.webp",
+      "bytes": 761930,
+      "sha256": "3dc54a82a1dfdafe1331af3dc9f6bf0da7fc43245b21bb66f947dd11c8791dc6"
+    },
+    {
+      "path": "images/img-f2783cd0904c.webp",
+      "bytes": 523644,
+      "sha256": "ff4716a8465743e9a1a6412a4c50688074ae6f819170e09c1111979829d8cb88"
+    },
+    {
+      "path": "images/img-f6353d96f97f.webp",
+      "bytes": 239130,
+      "sha256": "0d0b638c396e00159e35fa36656025fdcd458e54eb4df230e938341f69115f1e"
+    },
+    {
+      "path": "images/img-fadec0b5d390.webp",
+      "bytes": 175094,
+      "sha256": "1801d0340c17baddc0aa7e712af33f4ff61b5cec18eaa8e743f6ba84a664e889"
+    },
+    {
+      "path": "images/img-ffaac6068b68.webp",
+      "bytes": 233106,
+      "sha256": "68390dc0e5cef7a91c9065e3d141a51618905a21d58948c142b6b6d377499fb3"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 32574,
+      "sha256": "5f7641386f9566ff95463861e0c2ec370269b5b0f9d6a869914001f227d60023"
+    },
+    {
+      "path": "source.html",
+      "bytes": 500008,
+      "sha256": "1e49f9f86beea19f6bf4fd403b78a9b456edb501b407714db72a4333a7990d11"
+    },
+    {
+      "path": "source.url",
+      "bytes": 82,
+      "sha256": "711a35f35db669c48e4d6b11559e8c984f64ab2d48a0de7f21bdebabfbab7a3e"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/8786ba9b-564e-4ab6-9d34-9593b86d8888/je/2200xxs.jpg",
+      "path": "images/img-bd291cbd250b.webp",
+      "media_type": "image/webp",
+      "bytes": 897746,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/e15b2d32-f7a5-4ed3-93fe-3f9f947cca26/je/2200xxs.jpg",
+      "path": "images/img-16ccd65c2787.webp",
+      "media_type": "image/webp",
+      "bytes": 928782,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/6ba24f30-853e-4e14-90cb-ccad09507722/je/2200xxs.jpg",
+      "path": "images/img-8f705bce9e66.webp",
+      "media_type": "image/webp",
+      "bytes": 402838,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/c4b5f2f8-e0c0-49d0-8b67-c18e671ebd42/je/2200xxs.jpg",
+      "path": "images/img-3a03118c6360.webp",
+      "media_type": "image/webp",
+      "bytes": 283940,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/15037633-bad7-470d-895c-7cddf916c75a/je/2200xxs.jpg",
+      "path": "images/img-07e5c1469966.webp",
+      "media_type": "image/webp",
+      "bytes": 244122,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/751b6f43-13e2-4590-aea9-b151269b300a/je/2000xxs.jpg",
+      "path": "images/img-c46e7cc568fe.webp",
+      "media_type": "image/webp",
+      "bytes": 350250,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/703b501a-806e-4d57-9f3c-84014b3590b6/je/2000xxs.jpg",
+      "path": "images/img-b98a09158303.webp",
+      "media_type": "image/webp",
+      "bytes": 333632,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/76571892-27c9-4018-a415-98d7c80c3cd0/je/2000xxs.jpg",
+      "path": "images/img-bc2fd147961e.webp",
+      "media_type": "image/webp",
+      "bytes": 208076,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/8b8b9ccc-21e7-4944-8156-08ed93954cd6/je/2000xxs.jpg",
+      "path": "images/img-6fdcbeacb639.webp",
+      "media_type": "image/webp",
+      "bytes": 189618,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/556383a6-20bd-451f-a28c-641296031f8f/je/2000xxs.jpg",
+      "path": "images/img-53d22229de97.webp",
+      "media_type": "image/webp",
+      "bytes": 187428,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/f6ba69cc-e8c6-4cf2-b431-574ed258db4e/je/2000xxs.jpg",
+      "path": "images/img-97d114ff81f5.webp",
+      "media_type": "image/webp",
+      "bytes": 217380,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/625e3406-1c59-4019-a8dc-7f8f4f73b73c/je/2000xxs.jpg",
+      "path": "images/img-27a29d2aebbf.webp",
+      "media_type": "image/webp",
+      "bytes": 140442,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/6799c455-6eed-4699-882a-12e6b25054bb/je/2000xxs.jpg",
+      "path": "images/img-8f00e4638886.webp",
+      "media_type": "image/webp",
+      "bytes": 350778,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/361e9315-9d32-49d4-a151-1e9170e93a55/je/2000xxs.jpg",
+      "path": "images/img-790d6608b7fe.webp",
+      "media_type": "image/webp",
+      "bytes": 244908,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/be0a07f5-db54-4577-9091-d0780363ce58/je/2000xxs.jpg",
+      "path": "images/img-ca039651e216.webp",
+      "media_type": "image/webp",
+      "bytes": 348712,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/3d1d9c60-a3ee-4542-b899-d5009a433088/je/2000xxs.jpg",
+      "path": "images/img-f2783cd0904c.webp",
+      "media_type": "image/webp",
+      "bytes": 523644,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/b08dac36-b5cf-492f-8e2c-0e72b93a0343/je/2000xxs.jpg",
+      "path": "images/img-7b9032e766bd.webp",
+      "media_type": "image/webp",
+      "bytes": 157316,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/4b8aaf0c-b0a7-4962-bee9-0610d99720f7/je/2000xxs.jpg",
+      "path": "images/img-b85c1878b962.webp",
+      "media_type": "image/webp",
+      "bytes": 194154,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/f02a5a83-06b2-46b2-b68c-715fcbaed274/je/2000xxs.jpg",
+      "path": "images/img-ea25591af2e6.webp",
+      "media_type": "image/webp",
+      "bytes": 761930,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/52fa997c-1604-4be2-a191-8f2ede16b2df/je/2000xxs.jpg",
+      "path": "images/img-775d6fc0f549.webp",
+      "media_type": "image/webp",
+      "bytes": 106298,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/d055f6c3-ee0e-460a-a741-9b71d9342d40/je/2000xxs.jpg",
+      "path": "images/img-438670def196.webp",
+      "media_type": "image/webp",
+      "bytes": 306772,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/a81b1905-381c-41cf-bdb7-7cb0e7b0ee7c/je/2000xxs.jpg",
+      "path": "images/img-cbe38587616e.webp",
+      "media_type": "image/webp",
+      "bytes": 284828,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/50a6f8a7-9345-43d2-8aaa-02f417293a2c/je/2000xxs.jpg",
+      "path": "images/img-3f61c42e7181.webp",
+      "media_type": "image/webp",
+      "bytes": 72592,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/4ac693da-a320-4c9e-a3fc-c8ec3285deb0/je/2000xxs.jpg",
+      "path": "images/img-c7b70deb18ae.webp",
+      "media_type": "image/webp",
+      "bytes": 118764,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/d62999fc-7c36-44e8-9ab2-17a34ef4640a/je/2000xxs.jpg",
+      "path": "images/img-ffaac6068b68.webp",
+      "media_type": "image/webp",
+      "bytes": 233106,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/31a80d4d-fedb-4f3f-9710-28b2c03976f7/je/2000xxs.jpg",
+      "path": "images/img-844a530d7e66.webp",
+      "media_type": "image/webp",
+      "bytes": 172722,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/a04e6942-9c78-4293-b480-9bf2bcc73780/je/2000xxs.jpg",
+      "path": "images/img-b9812f787b03.webp",
+      "media_type": "image/webp",
+      "bytes": 71064,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/43cd90f5-5ba6-4239-9801-02935df0f990/je/2000xxs.jpg",
+      "path": "images/img-c5b269545a96.webp",
+      "media_type": "image/webp",
+      "bytes": 111654,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/81b47896-1003-4c90-9310-8d4f17dd586e/je/2000xxs.jpg",
+      "path": "images/img-0e7a20dd4ce7.webp",
+      "media_type": "image/webp",
+      "bytes": 149866,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/43b345d8-309d-445f-80ed-d1349d56d3ca/je/2000xxs.jpg",
+      "path": "images/img-6d5be235f17c.webp",
+      "media_type": "image/webp",
+      "bytes": 202840,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/5b78c58c-928c-482f-b724-a2aeb334a14c/je/2000xxs.jpg",
+      "path": "images/img-e036c3d773ac.webp",
+      "media_type": "image/webp",
+      "bytes": 240292,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/c1a58c0b-7d28-4ff9-b28c-5cb1ffeacfca/je/2000xxs.jpg",
+      "path": "images/img-621a562ee3b4.webp",
+      "media_type": "image/webp",
+      "bytes": 181936,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/f9533cc9-b3f7-4548-bb49-4e79e639e4f9/je/2000xxs.jpg",
+      "path": "images/img-af6256b401f7.webp",
+      "media_type": "image/webp",
+      "bytes": 243952,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/0e09bd40-de6a-4f59-8035-1bfd39745d90/je/2000xxs.jpg",
+      "path": "images/img-8944e0e64bc3.webp",
+      "media_type": "image/webp",
+      "bytes": 315060,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/e93ec7d3-ae89-447e-bfaf-915f949affbc/je/2000xxs.jpg",
+      "path": "images/img-75ba4ed65826.webp",
+      "media_type": "image/webp",
+      "bytes": 188824,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/0f982847-4c86-44ef-bb78-67156c95e5c2/je/2000xxs.jpg",
+      "path": "images/img-9cc3e185777e.webp",
+      "media_type": "image/webp",
+      "bytes": 102904,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/d460a9ae-db8f-40bb-a4ca-a27c5d13a3e1/je/2000xxs.jpg",
+      "path": "images/img-00144b5e3893.webp",
+      "media_type": "image/webp",
+      "bytes": 62648,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/82569cae-8f59-4654-9ce5-7381965285c6/je/2000xxs.jpg",
+      "path": "images/img-410a43ec3dc9.webp",
+      "media_type": "image/webp",
+      "bytes": 454746,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/40f22868-2ca9-4b91-b3f4-13d2c5c350de/je/2000xxs.jpg",
+      "path": "images/img-a42c0873c0bc.webp",
+      "media_type": "image/webp",
+      "bytes": 168962,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/58106cfa-fd52-48ef-abb5-5ef80d65c82f/je/2000xxs.jpg",
+      "path": "images/img-59feb1f8c729.webp",
+      "media_type": "image/webp",
+      "bytes": 300694,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/681ed856-10d4-459d-9369-dc405d7c1d26/je/2000xxs.jpg",
+      "path": "images/img-5ec13d6ac4e8.webp",
+      "media_type": "image/webp",
+      "bytes": 506210,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/e9e793f9-c185-4722-bd68-bd819398e9f2/je/2000xxs.jpg",
+      "path": "images/img-9454122da2a3.webp",
+      "media_type": "image/webp",
+      "bytes": 334526,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/91a8675a-b6aa-4b51-ab12-e912eb66296e/je/2000xxs.jpg",
+      "path": "images/img-7fd7f0557d9e.webp",
+      "media_type": "image/webp",
+      "bytes": 305030,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/d12528c5-bd36-42c9-a39d-11ae647e5667/je/2000xxs.jpg",
+      "path": "images/img-1801cbba4a17.webp",
+      "media_type": "image/webp",
+      "bytes": 342564,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/9102f360-79dd-48a0-9e59-60a4f98cfb15/je/2000xxs.jpg",
+      "path": "images/img-074c8b00c27b.webp",
+      "media_type": "image/webp",
+      "bytes": 193348,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/64d35320-f3c2-441c-bff9-4cd831be2389/je/2000xxs.jpg",
+      "path": "images/img-69f6ce3b1b74.webp",
+      "media_type": "image/webp",
+      "bytes": 119152,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/0382154e-cdbb-4d83-bc4c-a04884756635/je/2000xxs.jpg",
+      "path": "images/img-a56bb5d8daa2.webp",
+      "media_type": "image/webp",
+      "bytes": 131226,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/17dad7f5-fa40-4e4f-b5aa-06a98c91e75a/je/2000xxs.jpg",
+      "path": "images/img-e159becd1220.webp",
+      "media_type": "image/webp",
+      "bytes": 98444,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/bfca5f37-5b06-4520-b921-2536401bffad/je/2000xxs.jpg",
+      "path": "images/img-3b35f894328d.webp",
+      "media_type": "image/webp",
+      "bytes": 383282,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/25909261-b379-430d-8d76-c73af45d575c/je/2000xxs.jpg",
+      "path": "images/img-2cc03c5d8417.webp",
+      "media_type": "image/webp",
+      "bytes": 304544,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/444bddd8-10be-42b6-a1af-f1c18dc17ce7/je/2000xxs.jpg",
+      "path": "images/img-f6353d96f97f.webp",
+      "media_type": "image/webp",
+      "bytes": 239130,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/adce1838-4dbd-49f7-a01a-a77c7f8a5331/je/2000xxs.jpg",
+      "path": "images/img-24b15df761ea.webp",
+      "media_type": "image/webp",
+      "bytes": 239460,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/e75c570b-6df9-4169-9162-2e3d37fd60c3/je/2000xxs.jpg",
+      "path": "images/img-7d2008f27042.webp",
+      "media_type": "image/webp",
+      "bytes": 731674,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/316ae1f0-84f5-4e92-9dbd-df2b54252e22/je/2000xxs.jpg",
+      "path": "images/img-fadec0b5d390.webp",
+      "media_type": "image/webp",
+      "bytes": 175094,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/ee3fda1c-028f-4ed6-906b-6f5d7b4869ff/je/2000xxs.jpg",
+      "path": "images/img-884c8327e7ea.webp",
+      "media_type": "image/webp",
+      "bytes": 415828,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/b10e417e-ac0a-4740-ae94-7243aa194eee/je/2000xxs.jpg",
+      "path": "images/img-7eeff1126fd8.webp",
+      "media_type": "image/webp",
+      "bytes": 554674,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/4dae7e91-0644-456c-8c8e-834dc4834c69/je/2000xxs.jpg",
+      "path": "images/img-bc0f560a8e1f.webp",
+      "media_type": "image/webp",
+      "bytes": 636640,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/a5601a92-7557-4dd9-8431-841bd48cdcdf/je/2000xxs.jpg",
+      "path": "images/img-038e79845e19.webp",
+      "media_type": "image/webp",
+      "bytes": 374856,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/45/69ee253a-5adc-4c17-b0ba-4ab067e5dadb/je/2000xxs.jpg",
+      "path": "images/img-572441773af2.webp",
+      "media_type": "image/webp",
+      "bytes": 555958,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/2200xxsxm%2825%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/2200xxsxm%2826%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/1288%20Oak%20Knoll%20Lane%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816283745%29_files/2200xxsxm%2827%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 60,
+    "images_existing": 0,
+    "images_failed": 14,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

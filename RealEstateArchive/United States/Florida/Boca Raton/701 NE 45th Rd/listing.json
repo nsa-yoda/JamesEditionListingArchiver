@@ -1,0 +1,369 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/sanctuary-on-the-water-16731331",
+    "canonical_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/sanctuary-on-the-water-16731331",
+    "site": "jamesedition",
+    "listing_id": "16731331",
+    "first_listed": "Dec 2, 2025",
+    "retrieved_at": "2026-06-16T03:43:35.351127Z"
+  },
+  "location": {
+    "address": "701 NE 45th Rd, Boca Raton, FL 33431, Florida, United States",
+    "street": "701 NE 45th Rd",
+    "municipality": "Boca Raton",
+    "region": "Florida",
+    "postal_code": "33431",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=26.3907003,-80.0738192",
+    "latitude": 26.3907003,
+    "longitude": -80.0738192
+  },
+  "property": {
+    "title": "Sanctuary On The Water",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 16900000,
+      "currency": "USD",
+      "display": "$16,900,000"
+    },
+    "price_per_area": {
+      "amount": 2199661,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$2,199,661"
+    },
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "floors": 2,
+    "interior_area": {
+      "value": 8,
+      "unit": "sqft",
+      "display": "8 Sqft"
+    },
+    "lot_area": {
+      "value": 11,
+      "unit": "sqft",
+      "display": "11 Sqft lot"
+    },
+    "year_built": 2015,
+    "photo_count": 55,
+    "description": "Recognized by Forbes as one of the Top Ten Exclusive and Expensive Gated Communities in the United States, this is a rare chance to own a fully upgraded estate in one of Boca Raton's most coveted and secure waterfront enclaves.\n\nStunning waterfront estate located in Boca Raton's ultra-exclusive, guard-gated Sanctuary neighborhood - one of the safest and most prestigious deep-water communities in the nation. This newly updated residence showcases over $1,000,000 in recent upgrades, delivering a refined blend of architectural elegance, modern luxury, and seamless indoor-outdoor living.\n\nStep into a grand foyer with soaring 30'+ awe-inspiring ceilings, dramatic window walls, and expansive open living spaces filled with natural light. The home features a designer entertainment bar, billiards room, gym room, chef's kitchen with top-tier appliances, media room, private elevator, and multiple living and dining spaces ideal for both family life and sophisticated entertaining.\n\nThe luxury primary suite is a resort retreat of its own - featuring dual bathrooms, separate his \u0026amp; hers closets, private sitting areas, and serene water views. Guest suites are spacious and private, each offering its own upscale finishes.\n\nEnjoy the South Florida lifestyle from a resort-style pool, lush landscaping, and a private dock with deep-water access, perfect for yachting. Additional enhancements include updated flooring, custom lighting, refined millwork, elevated finishes throughout, and meticulous maintenance in every area of the home.\n\nLocated in The Sanctuary - an elite yachting community with 24/7 armed gate security, water patrol, and a private marina - this residence provides unmatched peace of mind and exclusivity. Just minutes from Boca Raton's private airport, I-95, Boca Country Club, Mizner Park, world-class dining, pristine beaches, and premier shopping.\n\nThe Sanctuary HOA covers:\n~ Security: 24/7 armed guard gated entry, roving patrols, monitored access for both land and waterfront.\n~ Exclusive Amenities: Private 20-slip marina, tennis/basketball court, playground, and a 27-acre bird/wildlife preserve.\n~ Common Area Maintenance: Care of all community landscaping, roads, and shared common spaces.\n~ Concierge Services: Additional personal assistance for residents is provided as part of HOA membership\n~ Privacy: High standards for resident safety and seclusion, contributing to the community's reputation as one of the most secure and exclusive in the area.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Bar",
+      "Coastal",
+      "Elevator",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Gas Stovetop",
+      "Gate",
+      "Gated Community",
+      "High Ceiling",
+      "Kitchen island",
+      "Laundry Room",
+      "Mansion",
+      "Modern",
+      "Office",
+      "Open Kitchen",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Pool",
+      "Privacy",
+      "Renovated",
+      "Walk In Closet",
+      "Washer Dryer",
+      "Water View",
+      "Waterfront",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Sara Katisch",
+    "agent_profile_url": "https://www.jamesedition.com/agents/sara-katisch-2038073",
+    "agent_license": "#3340691",
+    "agency": "Douglas Elliman",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/douglas-elliman-504573",
+    "agency_address": "707 N Ocean Blvd, 33483, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/14/12/20/a0ff7e4f-a61f-44fd-bcc6-3ac381b6649a/je/2200xxs.jpg",
+      "file": "004-a363efa2.webp",
+      "media_type": "image/webp",
+      "bytes": 420066,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/14/12/20/9361951a-320c-4bfd-99f1-2f9e1e07c2cc/je/2200xxs.jpg",
+      "file": "009-d334eb71.webp",
+      "media_type": "image/webp",
+      "bytes": 461264,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/14/12/20/71c177bf-1dc3-4ead-9857-bfe5feba70b4/je/2200xxs.jpg",
+      "file": "014-3805f19b.webp",
+      "media_type": "image/webp",
+      "bytes": 414536,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/14/12/24/0d509f4d-14a9-4f6b-882b-f8d3a2c362b2/je/2200xxs.jpg",
+      "file": "019-63acf375.webp",
+      "media_type": "image/webp",
+      "bytes": 306686,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/14/12/20/d4aa6585-05b9-4812-9651-b92ed8f2cc35/je/2200xxs.jpg",
+      "file": "024-33d1766f.webp",
+      "media_type": "image/webp",
+      "bytes": 526542,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/fl-united-states",
+              "name": "Florida"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa",
+              "name": "Boca Raton"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/sanctuary-on-the-water-16731331",
+              "name": "Sanctuary on the Water"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Recognized by Forbes as one of the Top Ten Exclusive and Expensive Gated Communities in the United States, this is a rare chance to own a fully upgraded estate in one of Boca Raton's most coveted and secure waterfront enclaves.\n\nStunning waterfront estate located in Boca Raton's ultra-exclusive, guard-gated Sanctuary neighborhood - one of the safest and most prestigious deep-water communities in the nation. This newly updated residence showcases over $1,000,000 in recent upgrades, delivering a refined blend of architectural elegance, modern luxury, and seamless indoor-outdoor living.\n\nStep into a grand foyer with soaring 30'+ awe-inspiring ceilings, dramatic window walls, and expansive open living spaces filled with natural light. The home features a designer entertainment bar, billiards room, gym room, chef's kitchen with top-tier appliances, media room, private elevator, and multiple living and dining spaces ideal for both family life and sophisticated entertaining.\n\nThe luxury primary suite is a resort retreat of its own - featuring dual bathrooms, separate his \u0026amp; hers closets, private sitting areas, and serene water views. Guest suites are spacious and private, each offering its own upscale finishes.\n\nEnjoy the South Florida lifestyle from a resort-style pool, lush landscaping, and a private dock with deep-water access, perfect for yachting. Additional enhancements include updated flooring, custom lighting, refined millwork, elevated finishes throughout, and meticulous maintenance in every area of the home.\n\nLocated in The Sanctuary - an elite yachting community with 24/7 armed gate security, water patrol, and a private marina - this residence provides unmatched peace of mind and exclusivity. Just minutes from Boca Raton's private airport, I-95, Boca Country Club, Mizner Park, world-class dining, pristine beaches, and premier shopping.\n\nThe Sanctuary HOA covers:\n~ Security: 24/7 armed guard gated entry, roving patrols, monitored access for both land and waterfront.\n~ Exclusive Amenities: Private 20-slip marina, tennis/basketball court, playground, and a 27-acre bird/wildlife preserve.\n~ Common Area Maintenance: Care of all community landscaping, roads, and shared common spaces.\n~ Concierge Services: Additional personal assistance for residents is provided as part of HOA membership\n~ Privacy: High standards for resident safety and seclusion, contributing to the community's reputation as one of the most secure and exclusive in the area.",
+        "image": "https://img.jamesedition.com/listing_images/2025/12/02/14/12/20/a0ff7e4f-a61f-44fd-bcc6-3ac381b6649a/je/1040x620xc.jpg",
+        "name": "Sanctuary on the Water",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 16900000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Douglas Elliman"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/boca-raton-fl-usa/sanctuary-on-the-water-16731331"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/boca-raton-fl-usa/Sanctuary%20On%20The%20Water%20In%20Boca%20Raton,%20Florida,%20United%20States%20For%20Sale%20%2816731331%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+  ]
+}

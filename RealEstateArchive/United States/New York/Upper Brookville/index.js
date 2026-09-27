@@ -1,0 +1,17 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Upper Brookville",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "4 Red Fox Lane",
+      "href": "4%20Red%20Fox%20Lane/index.html"
+    },
+    {
+      "name": "60 Piping Rock Road",
+      "href": "60%20Piping%20Rock%20Road/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

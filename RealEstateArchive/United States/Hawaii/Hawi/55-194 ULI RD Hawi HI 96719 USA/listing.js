@@ -1,0 +1,535 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/exceptional-oceanfront-estate-with-breathtaking-views-17343509",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/exceptional-oceanfront-estate-with-breathtaking-views-17343509",
+    "site": "jamesedition",
+    "listing_id": "17343509",
+    "listing_reference": "c4a61f14-74dc-4e3c-93bd-987318f73da4",
+    "first_listed": "Mar 5",
+    "last_updated": "June 19",
+    "retrieved_at": "2026-08-28T00:28:23.267032Z"
+  },
+  "location": {
+    "address": "55-194 ULI RD Hawi HI 96719 USA, Hawaii, United States",
+    "street": "55-194 ULI RD Hawi HI 96719 USA",
+    "municipality": "Hawi",
+    "region": "Hawaii",
+    "postal_code": "96719",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=20.25894,-155.82032",
+    "latitude": 20.25894,
+    "longitude": -155.82032
+  },
+  "property": {
+    "title": "Exceptional Oceanfront Estate With Breathtaking Views",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 7500000,
+      "currency": "USD",
+      "display": "$7,500,000"
+    },
+    "price_per_area": {
+      "amount": 764,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$764"
+    },
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "interior_area": {
+      "value": 9808,
+      "unit": "sqft",
+      "display": "9,808 Sqft"
+    },
+    "year_built": 2005,
+    "photo_count": 29,
+    "description": "There is oceanfront property - and there is exceptional oceanfront living. From this North Hawaii estate home on twenty plus acres overlooking a half-mile of dramatic coastline to the west and a gulch with a small stony beach on its eastern boundary, you can: \n? watch sunrise and sunset, moonrise and moonset, and frequent rainbows \n? enjoy over one hundred eighty degrees of ocean view, Maui rising across the channel, and the Kohala mountains and historic valleys sheltering from behind \n? watch whales breaching up close in season, cruise ships passing in the distance, 'iwa and koa'e kea soaring overhead \n? glimpse cows and horses grazing in nearby pastures \n? feel the serenity of the rural North Kohala location, with restaurants, boutiques, services and farm-to-table agriculture only a few miles away.\n\nThe gracious home of nearly ten thousand square feet was built in 2005 but has been almost completely renovated inside and out since 2018. Offering both warmth and privacy for extended family or visiting friends, its generous proportions and thoughtful floor plan with multiple living spaces are equally perfect for entertaining at scale. The owners have hosted magical musical evenings for dozens of guests from the community.\n\nThe kitchen, main living areas, and one guest bedroom are on the second floor. Ascend the grand spiral staircase from the foyer or bring groceries directly from garage to kitchen and butler's pantry via a commercial grade elevator.\n\nThe primary bedroom suite, three additional guest bedrooms, secondary living room and lanai are located on the ground floor. The primary bedroom features a seating area, an oversized walk-in closet with custom cabinetry, and a large en suite bathroom with ocean view tub and shower. The attached private lanai area features seating and punee (daybeds), an outdoor shower, and a hot tub to enjoy on starry nights.\n\nFurnishings and art were carefully selected to enhance the sense of place; most are available for sale.",
+    "features": [
+      "Elevator",
+      "Garage",
+      "Jacuzzi",
+      "Ocean View",
+      "Oceanfront",
+      "Privacy",
+      "Renovated",
+      "Walk In Closet",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Beth Thoma Robinson",
+    "agency": "Hawaii Life",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/hawaii-life-115484",
+    "agency_address": "PO Box 356, 96714, Hanalei, Hawaii, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/06/15/56/52/15c85e7e-692e-4782-8a35-371f0b02ad5e/je/2200xxs.jpg",
+      "file": "img-5ec9cbdbd81e.webp",
+      "media_type": "image/webp",
+      "bytes": 459422,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/a5b47e9f-c9d6-4d7d-8f5e-547e35f45431/je/2200xxs.jpg",
+      "file": "img-4468172c6782.webp",
+      "media_type": "image/webp",
+      "bytes": 414004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/941d333f-175f-4fc9-a941-15e652f1e6b6/je/2200xxs.jpg",
+      "file": "img-7d8263f970f1.webp",
+      "media_type": "image/webp",
+      "bytes": 494972,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/37a038bd-4e71-4245-b51f-c4a0e3a747fe/je/2200xxs.jpg",
+      "file": "img-1efe69c63ebd.webp",
+      "media_type": "image/webp",
+      "bytes": 485246,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/d9d0ff9f-5333-4e90-8060-5d7e49016838/je/2200xxs.jpg",
+      "file": "img-6f17f997ea28.webp",
+      "media_type": "image/webp",
+      "bytes": 372910,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/00665af2-4058-4f3f-bbc1-20c48eac8af7/je/2000xxs.jpg",
+      "file": "img-f4e7a57ad57f.webp",
+      "media_type": "image/webp",
+      "bytes": 174820,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/126f9bd8-b53a-4db1-ae36-bb4ce5fcfe41/je/2000xxs.jpg",
+      "file": "img-c6d6c440b4a5.webp",
+      "media_type": "image/webp",
+      "bytes": 283268,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/796050a1-16f6-4834-8b26-a9e1890b513a/je/2000xxs.jpg",
+      "file": "img-7837a77a6ac6.webp",
+      "media_type": "image/webp",
+      "bytes": 232600,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/f55600dd-56ff-4bc7-95a4-aec7c9406ecb/je/2000xxs.jpg",
+      "file": "img-a1c3023a3df5.webp",
+      "media_type": "image/webp",
+      "bytes": 338898,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/09d81dbf-f9c1-4520-bcbc-a865026f3cc4/je/2000xxs.jpg",
+      "file": "img-a9c451489958.webp",
+      "media_type": "image/webp",
+      "bytes": 301994,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/1c9fd25b-5fbe-49ed-97b8-62b19c888139/je/2000xxs.jpg",
+      "file": "img-3ff8c4f9c744.webp",
+      "media_type": "image/webp",
+      "bytes": 235366,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/85b1e42c-ff28-4fea-ae9e-e8dd8e086567/je/2000xxs.jpg",
+      "file": "img-239ac8de828a.webp",
+      "media_type": "image/webp",
+      "bytes": 417948,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/f120cb51-cf74-4555-a7d8-163bd57a5327/je/2000xxs.jpg",
+      "file": "img-e2d648030056.webp",
+      "media_type": "image/webp",
+      "bytes": 285960,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/1824a6b5-209a-4113-9c6d-917e67693b9a/je/2000xxs.jpg",
+      "file": "img-db4ed08bf6b9.webp",
+      "media_type": "image/webp",
+      "bytes": 252736,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/a0749487-3cac-4c40-95f7-4b345cc85ba5/je/2000xxs.jpg",
+      "file": "img-353147cfe093.webp",
+      "media_type": "image/webp",
+      "bytes": 64746,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/a5c99902-14af-4be5-b570-b9af5559af4a/je/2000xxs.jpg",
+      "file": "img-d6f5adc87d2b.webp",
+      "media_type": "image/webp",
+      "bytes": 296806,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/3ddaa71f-8d6d-4694-ab8d-94bc357c7eed/je/2000xxs.jpg",
+      "file": "img-f4709256e9cc.webp",
+      "media_type": "image/webp",
+      "bytes": 274274,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/59e9d4d9-9654-4995-99fc-e12515969079/je/2000xxs.jpg",
+      "file": "img-d2b51bd66e58.webp",
+      "media_type": "image/webp",
+      "bytes": 259570,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/26f71f84-83ad-4237-9664-1d3b61f899ea/je/2000xxs.jpg",
+      "file": "img-95c434d5d4a8.webp",
+      "media_type": "image/webp",
+      "bytes": 313118,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/127551d7-7f65-4b2a-b52d-aeb9a1e45eeb/je/2000xxs.jpg",
+      "file": "img-b86e1f26f30a.webp",
+      "media_type": "image/webp",
+      "bytes": 277548,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/99010826-ad9e-460a-859c-0f9dc106f0ec/je/2000xxs.jpg",
+      "file": "img-a7947399a9bc.webp",
+      "media_type": "image/webp",
+      "bytes": 344352,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/35cfdd50-da20-4e3d-9ed7-eac34ef90ac8/je/2000xxs.jpg",
+      "file": "img-ee0f368db643.webp",
+      "media_type": "image/webp",
+      "bytes": 367884,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/8bdb8f59-29f9-4487-bf14-76df018a0d53/je/2000xxs.jpg",
+      "file": "img-f7f26cfa4e73.webp",
+      "media_type": "image/webp",
+      "bytes": 298790,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/48541b06-eea2-43a7-9206-6681c7eb46e8/je/2000xxs.jpg",
+      "file": "img-14ebf9704ffc.webp",
+      "media_type": "image/webp",
+      "bytes": 330464,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/7f2170ca-bc1f-47ca-b4ea-7559b13ed1ee/je/2000xxs.jpg",
+      "file": "img-557472c6a95e.webp",
+      "media_type": "image/webp",
+      "bytes": 223556,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/238f5703-569a-4e9a-a1df-ec7cd8794e2f/je/2000xxs.jpg",
+      "file": "img-e93d4b998aea.webp",
+      "media_type": "image/webp",
+      "bytes": 224882,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/9dbadc23-f549-419b-a0ea-b6e820b73a1a/je/2000xxs.jpg",
+      "file": "img-37ba1217a905.webp",
+      "media_type": "image/webp",
+      "bytes": 329652,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/65d4d0fe-8c0e-4768-818b-558457e7579c/je/2000xxs.jpg",
+      "file": "img-fd1802f64055.webp",
+      "media_type": "image/webp",
+      "bytes": 750880,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/f0f86dbf-f8c6-4006-a867-4c1a7f65e037/je/2000xxs.jpg",
+      "file": "img-004603d3118d.webp",
+      "media_type": "image/webp",
+      "bytes": 453502,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2813%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2814%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2815%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hi-united-states",
+              "name": "Hawaii"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hawi-hi-usa",
+              "name": "Hawi"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hawi-hi-usa/exceptional-oceanfront-estate-with-breathtaking-views-17343509",
+              "name": "Exceptional oceanfront estate with breathtaking views"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "There is oceanfront property - and there is exceptional oceanfront living. From this North Hawaii estate home on twenty plus acres overlooking a half-mile of dramatic coastline to the west and a gulch with a small stony beach on its eastern boundary, you can: \n? watch sunrise and sunset, moonrise and moonset, and frequent rainbows \n? enjoy over one hundred eighty degrees of ocean view, Maui rising across the channel, and the Kohala mountains and historic valleys sheltering from behind \n? watch whales breaching up close in season, cruise ships passing in the distance, 'iwa and koa'e kea soaring overhead \n? glimpse cows and horses grazing in nearby pastures \n? feel the serenity of the rural North Kohala location, with restaurants, boutiques, services and farm-to-table agriculture only a few miles away.\n\nThe gracious home of nearly ten thousand square feet was built in 2005 but has been almost completely renovated inside and out since 2018. Offering both warmth and privacy for extended family or visiting friends, its generous proportions and thoughtful floor plan with multiple living spaces are equally perfect for entertaining at scale. The owners have hosted magical musical evenings for dozens of guests from the community.\n\nThe kitchen, main living areas, and one guest bedroom are on the second floor. Ascend the grand spiral staircase from the foyer or bring groceries directly from garage to kitchen and butler's pantry via a commercial grade elevator.\n\nThe primary bedroom suite, three additional guest bedrooms, secondary living room and lanai are located on the ground floor. The primary bedroom features a seating area, an oversized walk-in closet with custom cabinetry, and a large en suite bathroom with ocean view tub and shower. The attached private lanai area features seating and punee (daybeds), an outdoor shower, and a hot tub to enjoy on starry nights.\n\nFurnishings and art were carefully selected to enhance the sense of place; most are available for sale.",
+        "image": "https://img.jamesedition.com/listing_images/2026/03/06/15/56/52/15c85e7e-692e-4782-8a35-371f0b02ad5e/je/1040x620xc.jpg",
+        "name": "Exceptional oceanfront estate with breathtaking views",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 7500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Hawaii Life"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/exceptional-oceanfront-estate-with-breathtaking-views-17343509"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2813%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2814%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2815%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+};

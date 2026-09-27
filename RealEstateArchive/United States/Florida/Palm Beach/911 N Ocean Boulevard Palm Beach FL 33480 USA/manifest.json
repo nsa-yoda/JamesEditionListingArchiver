@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/unmatched-oceanfront-estate-with-exceptional-privacy-and-views-17306697",
+    "canonical_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/unmatched-oceanfront-estate-with-exceptional-privacy-and-views-17306697",
+    "site": "jamesedition",
+    "listing_id": "17306697",
+    "listing_reference": "7d8f38c9-738a-4db5-a325-80f9de9882b5",
+    "first_listed": "Feb 27",
+    "last_updated": "June 12",
+    "retrieved_at": "2026-06-16T03:43:41.57386Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1868,
+      "sha256": "d746348c09168cb1b10cb4ced779158ba06fa976fffeeec4a5e98c9a9a5ef514"
+    },
+    {
+      "path": "images/004-a360746c.webp",
+      "bytes": 341408,
+      "sha256": "76cd42e100b7927f72d1e4bbba9c859476692e670611e69617af93be8f185ae7"
+    },
+    {
+      "path": "images/009-884b3dfd.webp",
+      "bytes": 342418,
+      "sha256": "cfb7ede52e8668dac9bb3f9601044ec13c07651343028b112447fb0eb2c5f8ad"
+    },
+    {
+      "path": "images/014-763295f0.webp",
+      "bytes": 665096,
+      "sha256": "d8529041e6b44c51cf447361689b551a156c150ab692bf6b7ee7db87469441e8"
+    },
+    {
+      "path": "images/019-3782f0e4.webp",
+      "bytes": 715792,
+      "sha256": "dc6c58026b38c02ff8cc7a5d84bd5d23e89c6415613aa106a20fc5ac4f72189a"
+    },
+    {
+      "path": "images/024-81040129.webp",
+      "bytes": 349794,
+      "sha256": "7a2a98f4743ff0ea18589c0b984cef889032ee12e4c02c4a101f4f7748dc9aec"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15147,
+      "sha256": "a7b33747668709e75e21ff4af02b377fb4f6d888958e1687496637c62827edc9"
+    },
+    {
+      "path": "source.html",
+      "bytes": 245722,
+      "sha256": "8c77825f94c0c7a571c3dcd1bf94e6f7b7e63201f780c5cbb9b3978cc49eb869"
+    },
+    {
+      "path": "source.url",
+      "bytes": 131,
+      "sha256": "481ad5c0224dea81e54ac3c180569e197e010c30b889a714d567dfc887c8e636"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/2200xxs.jpg",
+      "path": "images/004-a360746c.webp",
+      "media_type": "image/webp",
+      "bytes": 341408,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/8dfdfb78-21f4-4775-8fe9-857cc934d3e4/je/2200xxs.jpg",
+      "path": "images/009-884b3dfd.webp",
+      "media_type": "image/webp",
+      "bytes": 342418,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/dc3baec5-b9d6-4c8d-8e41-a47662dd4b27/je/2200xxs.jpg",
+      "path": "images/014-763295f0.webp",
+      "media_type": "image/webp",
+      "bytes": 665096,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/eb421461-a734-45e2-b65b-47a3c33f8ca0/je/2200xxs.jpg",
+      "path": "images/019-3782f0e4.webp",
+      "media_type": "image/webp",
+      "bytes": 715792,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/b707290c-d8ba-46f7-a853-354e7ca413ea/je/2200xxs.jpg",
+      "path": "images/024-81040129.webp",
+      "media_type": "image/webp",
+      "bytes": 349794,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "Canada/Ontario/Oakville",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "2054 Lakeshore Rd E",
+      "href": "2054%20Lakeshore%20Rd%20E/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

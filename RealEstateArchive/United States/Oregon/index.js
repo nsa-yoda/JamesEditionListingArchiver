@@ -1,0 +1,29 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Oregon",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Burns",
+      "href": "Burns/index.html"
+    },
+    {
+      "name": "Cannon Beach",
+      "href": "Cannon%20Beach/index.html"
+    },
+    {
+      "name": "Gold Beach",
+      "href": "Gold%20Beach/index.html"
+    },
+    {
+      "name": "Neskowin",
+      "href": "Neskowin/index.html"
+    },
+    {
+      "name": "Port Orford",
+      "href": "Port%20Orford/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New Jersey/Closter/6 Old Farm Way/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-f0d3b858.webp",
+      "href": "004-f0d3b858.webp",
+      "size": 1176496
+    },
+    {
+      "name": "009-85c77043.webp",
+      "href": "009-85c77043.webp",
+      "size": 218424
+    },
+    {
+      "name": "014-ac232ff5.webp",
+      "href": "014-ac232ff5.webp",
+      "size": 275940
+    },
+    {
+      "name": "019-e742060f.webp",
+      "href": "019-e742060f.webp",
+      "size": 253298
+    },
+    {
+      "name": "024-0f3440ba.webp",
+      "href": "024-0f3440ba.webp",
+      "size": 184582
+    },
+    {
+      "name": "030-57242b8e.webp",
+      "href": "030-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "031-4055dfde.svg",
+      "href": "031-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "032-272e34fe.svg",
+      "href": "032-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "033-caf7633d.svg",
+      "href": "033-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

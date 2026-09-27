@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38-bridle-way-saddle-river-nj-07458-18650504",
+    "canonical_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38-bridle-way-saddle-river-nj-07458-18650504",
+    "site": "jamesedition",
+    "listing_id": "18650504",
+    "listing_reference": "QW573T",
+    "first_listed": "Aug 13",
+    "last_updated": "August 13",
+    "retrieved_at": "2026-08-28T00:27:36.605482Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2671,
+      "sha256": "ab9023d242ed61cc7c7f403e7754c72dd9a5b86680f50fdaad900a1f3eed5fd3"
+    },
+    {
+      "path": "images/img-0806806b1012.webp",
+      "bytes": 356440,
+      "sha256": "2dfdb7c92b2fb86782c48549c27a9a8a855cef1256d3ba9227b2042f7fd27a9c"
+    },
+    {
+      "path": "images/img-08ae040ecb3d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-194c24efc5ac.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-2d5cec139ac9.webp",
+      "bytes": 389584,
+      "sha256": "4827c15313ac5d2dcd72ecac6e8e4ad55c9b5e664cf98e8aeb9f31b775b86d13"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-a22f5f3637fe.webp",
+      "bytes": 320300,
+      "sha256": "fca9db11710708739bd3a6ea4f5eacedd6c1564f6f747c0cb4f7692c1549d75a"
+    },
+    {
+      "path": "images/img-dc90c501bd51.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-f06a8e2f3178.webp",
+      "bytes": 285386,
+      "sha256": "afcec2aad111b0a92b52caab50f8e0a2c160953164a308a374a9b873a5089d90"
+    },
+    {
+      "path": "images/img-f0ffb4f07f6b.webp",
+      "bytes": 329396,
+      "sha256": "5d1d8bd46b616911154601ccee053f1fdbbfc81b8abf731bef840b8f35a209b1"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 21585,
+      "sha256": "659731c82df3d1164d9cff94a598fa659c8e3ef844f8542da549e2d80215be11"
+    },
+    {
+      "path": "source.html",
+      "bytes": 346738,
+      "sha256": "79b4f7623f105cc212a153266fcba892992c9b08947ce7eb4a3d9a6c1c29c742"
+    },
+    {
+      "path": "source.url",
+      "bytes": 106,
+      "sha256": "ab2b4cae0b2012df25ce015e6de8096e3cc57b268f1012bf8b73eacdb8656366"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/13/14/13/02/9839ea10-ccae-4231-bd4a-c2cb3caabd29/je/2200xxs.jpg",
+      "path": "images/img-2d5cec139ac9.webp",
+      "media_type": "image/webp",
+      "bytes": 389584,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/13/14/13/02/bc770224-ef65-4756-81b3-2981e0f2e6cd/je/2200xxs.jpg",
+      "path": "images/img-f0ffb4f07f6b.webp",
+      "media_type": "image/webp",
+      "bytes": 329396,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/13/14/13/02/15c94f9b-76b2-41d8-925a-fc2e6190678b/je/2200xxs.jpg",
+      "path": "images/img-0806806b1012.webp",
+      "media_type": "image/webp",
+      "bytes": 356440,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/13/14/13/02/3714de79-f50e-4aa2-9a2d-952189b5ffbf/je/2200xxs.jpg",
+      "path": "images/img-a22f5f3637fe.webp",
+      "media_type": "image/webp",
+      "bytes": 320300,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/13/14/13/02/1e5ab9d2-0fcc-4e5e-99f5-dfb25f1a34df/je/2200xxs.jpg",
+      "path": "images/img-f06a8e2f3178.webp",
+      "media_type": "image/webp",
+      "bytes": 285386,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/request_plan_bg-33cc1401.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/street_view-b1ba588c.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38%20Bridle%20Way,%20Saddle%20River,%20Nj,%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818650504%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-d471af4d.svg",
+      "path": "images/img-dc90c501bd51.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-d7afb6cf.svg",
+      "path": "images/img-194c24efc5ac.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-74c4c5d9.svg",
+      "path": "images/img-08ae040ecb3d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 0,
+    "images_failed": 14,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

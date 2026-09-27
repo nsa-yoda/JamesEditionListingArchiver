@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/luxurious-villa-with-helipad-and-sea-views-in-porto-rotondo-17810342",
+    "canonical_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/luxurious-villa-with-helipad-and-sea-views-in-porto-rotondo-17810342",
+    "site": "jamesedition",
+    "listing_id": "17810342",
+    "listing_reference": "86050359",
+    "first_listed": "Apr 30",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-08-28T00:29:16.837709Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2513,
+      "sha256": "ef77387e5a604b37d97b48a6c47274a1ce98aa67881170774aa62f5d67cca7ab"
+    },
+    {
+      "path": "images/img-1a0a61b29f80.webp",
+      "bytes": 757438,
+      "sha256": "82e1fc4994cef034f563415710b1f1bfe725d975487d62ea2a9f5c46baad7824"
+    },
+    {
+      "path": "images/img-4b6612626cb4.webp",
+      "bytes": 532,
+      "sha256": "546fbd57cb5d61b8d83b481a9e948c3d4a4162a2eadc7db17d4a342cbffc266f"
+    },
+    {
+      "path": "images/img-4e753f0f710b.webp",
+      "bytes": 790874,
+      "sha256": "1c1fe20cee47631f789a923d584bd003bc81c477174dbb4d16382830531fcaa0"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-8f36a29dde4a.webp",
+      "bytes": 775244,
+      "sha256": "0346c5dcc009f4e3a3736961994cfe95d020f5acc00a1989cd90d839afaf0e8d"
+    },
+    {
+      "path": "images/img-d0d155fc4b32.webp",
+      "bytes": 658454,
+      "sha256": "1fb9a71be70b900d7c001b52dfe6d859c6da6fae030947949c5877f4b05f94f9"
+    },
+    {
+      "path": "images/img-d3173ac0196f.webp",
+      "bytes": 745130,
+      "sha256": "f8413ce67aa5da2075d55850f1b37cec41c78dda68226e9e98b06d1586933355"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16590,
+      "sha256": "9b41ee95fd0263106c04d628f2d840b6bd913c0e991c983b05579bb5adde008c"
+    },
+    {
+      "path": "source.html",
+      "bytes": 390160,
+      "sha256": "979f5d0f6df9c6b6c1621ad0a10eb7ef7a663b02356c7e602ccf19c3c91f622d"
+    },
+    {
+      "path": "source.url",
+      "bytes": 130,
+      "sha256": "586a08cd224d1e8b6a25243e8cbe3848084646660df4c42765c8141a90e7ff42"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/2200xxs.jpg",
+      "path": "images/img-1a0a61b29f80.webp",
+      "media_type": "image/webp",
+      "bytes": 757438,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/12/56/34/5d2492f0-f2d5-4451-8e8e-283aede28ecf/je/2200xxs.jpg",
+      "path": "images/img-d0d155fc4b32.webp",
+      "media_type": "image/webp",
+      "bytes": 658454,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/44/42/69d36024-008f-4f21-8bde-8d522b662bc2/je/2200xxs.jpg",
+      "path": "images/img-4e753f0f710b.webp",
+      "media_type": "image/webp",
+      "bytes": 790874,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/09/e6a0850e-fa24-487b-aa50-8eaa80caebdd/je/2200xxs.jpg",
+      "path": "images/img-8f36a29dde4a.webp",
+      "media_type": "image/webp",
+      "bytes": 775244,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/19/6032db41-28a9-40bb-8f10-1cbd8a09736d/je/2200xxs.jpg",
+      "path": "images/img-d3173ac0196f.webp",
+      "media_type": "image/webp",
+      "bytes": 745130,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/03/21/18/10/31/13268e51-5ef4-4050-9b0e-41901eeaca75/je/80x80xc.jpg",
+      "path": "images/img-4b6612626cb4.webp",
+      "media_type": "image/webp",
+      "bytes": 532,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 0,
+    "images_failed": 10,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

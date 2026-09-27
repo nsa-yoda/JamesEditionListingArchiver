@@ -1,0 +1,744 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/renamor-16052746",
+    "canonical_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/renamor-16052746",
+    "site": "jamesedition",
+    "listing_id": "16052746",
+    "listing_reference": "W9H9JK",
+    "first_listed": "Aug 14, 2025",
+    "last_updated": "April 25",
+    "retrieved_at": "2026-06-18T07:08:43.808346Z"
+  },
+  "location": {
+    "address": "120 Ridge Road, Tuxedo Park, NY 10987, New York, United States",
+    "street": "120 Ridge Road",
+    "municipality": "Tuxedo Park",
+    "region": "New York",
+    "postal_code": "10987",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.183748,-74.2062009",
+    "latitude": 41.183748,
+    "longitude": -74.2062009
+  },
+  "property": {
+    "title": "Renamor",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 27500000,
+      "currency": "USD",
+      "display": "$27,500,000"
+    },
+    "price_per_area": {
+      "amount": 1227,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,227"
+    },
+    "bedrooms": 16,
+    "bathrooms": 20,
+    "interior_area": {
+      "value": 22400,
+      "unit": "sqft",
+      "display": "22,400 Sqft"
+    },
+    "lot_area": {
+      "value": 151,
+      "display": "151.0 Ac lot"
+    },
+    "year_built": 1928,
+    "photo_count": 62,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6377041770112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "Renamor is a spectacular estate blending history, grandeur and modern sustainability in a truly unique way. It is situated on the largest piece of property ever to be sold in historic Tuxedo Park, 151 acres! The fact that it’s now on the market for the first time in over 30 years makes it even more enticing for a discerning buyer seeking a one-of-a-kind property. Built circa 1928 in the romantic French Provincial style, Renamor stands apart from other Gilded Age homes in the region for its timeless charm and rustic elegance popularized in post-World War I America architecture. With its distinct hip roof, classic clay tiles, dormer windows, stone and stucco facade and period ironwork inside and out, it evokes the spirit of Normandy, Provence and the French countryside brought to life in the rolling hills of New York’s Hudson Valley. Originally commissioned by George S. and M. Renee Carhart Amory whose blended names inspired the estate’s Renamor name, the property has been meticulously preserved. Most recently, it was lovingly restored and cared for by the late Robert S. Dow, a prominent asset manager and a committed philanthropist who believed deeply in giving back to the community. Renamor includes three distinct residences totaling over 22,000 square feet: a 14,000-sf main residence, featuring a dramatic great hall, grand salon, banquet-sized dining room, extraordinary library, former chapel, a ”fumoir,” where gentlemen smoked after dinner, a wine cellar, an expansive kitchen, and six bedroom suites; a completely renovated 3,700-sf guest house from the 1930s; and 4,500-sf carriage house with a luxurious private apartment. Beyond the residences, the estate includes a boathouse on Tuxedo Lake, a secluded one-room log cabin with a large stone fireplace, a spa/pool house, tea house, oversized five-car garage and multiple outdoor entertaining areas. With 16 bedrooms, 20 bathrooms and 19 fireplaces, the property is designed for both intimate living and large-scale entertainment, giving Renamor the versatility to be both a private retreat and entertainer’s paradise ideal for hosting gatherings of all sizes in a setting that feels both grand and comfortable. The fact that it has outdoor activities on the estate as well as multiple pools, lake access and golf course at nearby Tuxedo Club, makes it a true lifestyle property. Renamor is not just a historic treasure, it’s also a model of sustainability renewably powered by solar and geothermal energy, giving it a forward-thinking edge. A $1 million+ investment was made over a decade ago, allowing the property to operate entirely off the grid, independent of local utilities. Its net-zero energy integration includes a microgrid system and high-efficiency upgrades that ensure modern performance while preserving the estate’s historic character. Tuxedo Park itself adds another layer of distinction. As the first planned residential community in America-complete with a centralized sewer system-it carries deep historical relevance. Just 40 miles from Manhattan and close to private airports, the area offers rare access to nature and urban convenience all in one. Renamor is more than a home-it’s a legacy estate, ready to be passed to a new generation of stewardship. Whether as a weekend retreat or a full-time residence, this is a landmark property of remarkable depth, vision and beauty. Find your one of one. Renamor.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Gate",
+      "Investment Property",
+      "Lakefront",
+      "Library",
+      "Pool",
+      "Privacy",
+      "Renovated",
+      "Tennis Court",
+      "Terrace",
+      "Walk In Closet",
+      "Washer Dryer",
+      "Water View",
+      "Waterfront",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Richard Ellis",
+    "agency": "Ellis Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/ellis-sotheby-s-international-realty-10735",
+    "agency_address": "76 North Broadway, 10960, Nyack, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/2200xxs.jpg",
+      "file": "004-6a3d83c5.webp",
+      "media_type": "image/webp",
+      "bytes": 660888,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/2200xxs.jpg",
+      "file": "009-07447d15.webp",
+      "media_type": "image/webp",
+      "bytes": 657364,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/2200xxs.jpg",
+      "file": "014-ef79ae29.webp",
+      "media_type": "image/webp",
+      "bytes": 397294,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/2200xxs.jpg",
+      "file": "019-3e5b823c.webp",
+      "media_type": "image/webp",
+      "bytes": 489716,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/2200xxs.jpg",
+      "file": "024-3beb8126.webp",
+      "media_type": "image/webp",
+      "bytes": 479034,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/672501ed-abdc-40fa-aa2d-24e5bcbcae5d/je/2000xxs.jpg",
+      "file": "034-6a55977a.webp",
+      "media_type": "image/webp",
+      "bytes": 255978,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/cfbced37-931f-4bbc-ad23-a5963e7d847c/je/2000xxs.jpg",
+      "file": "035-ba246745.webp",
+      "media_type": "image/webp",
+      "bytes": 258316,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/8eec6c63-99f5-4709-bdb7-206302247898/je/2000xxs.jpg",
+      "file": "036-f29fcb71.webp",
+      "media_type": "image/webp",
+      "bytes": 452022,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6ac80dc3-6c95-40be-b1c7-e8ae84442d81/je/2000xxs.jpg",
+      "file": "037-53cfc028.webp",
+      "media_type": "image/webp",
+      "bytes": 326084,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/92080b16-9d66-49d1-a431-d0de7669c94e/je/2000xxs.jpg",
+      "file": "038-be761637.webp",
+      "media_type": "image/webp",
+      "bytes": 322742,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/053d373f-367d-413e-bc9b-67fd8a5f9238/je/2000xxs.jpg",
+      "file": "039-d1af6b44.webp",
+      "media_type": "image/webp",
+      "bytes": 148262,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1a40b005-4bfb-4bc4-bda0-86df0def0030/je/2000xxs.jpg",
+      "file": "040-c81627c4.webp",
+      "media_type": "image/webp",
+      "bytes": 347110,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/b41bbd29-b395-4808-bf0c-7d6045ca9e9f/je/2000xxs.jpg",
+      "file": "041-c7c5adab.webp",
+      "media_type": "image/webp",
+      "bytes": 426508,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/f8863297-0a6a-4171-be26-1254921b9fc8/je/2000xxs.jpg",
+      "file": "042-d3ac6c2b.webp",
+      "media_type": "image/webp",
+      "bytes": 233100,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/7771c82c-551c-4615-9e2e-cf45e5b748de/je/2000xxs.jpg",
+      "file": "043-254e640b.webp",
+      "media_type": "image/webp",
+      "bytes": 430234,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/35054710-3d9c-4f18-87d8-6ed448572802/je/2000xxs.jpg",
+      "file": "044-e3faa1e9.webp",
+      "media_type": "image/webp",
+      "bytes": 749906,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/ffd569bc-dc73-4b77-a613-f1f14225cc98/je/2000xxs.jpg",
+      "file": "045-8375a6dd.webp",
+      "media_type": "image/webp",
+      "bytes": 270032,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/d5328e8c-01af-4a20-939e-c2e33c327c9a/je/2000xxs.jpg",
+      "file": "046-8bb1cff0.webp",
+      "media_type": "image/webp",
+      "bytes": 190820,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/92aea798-24e2-4240-940d-8092e13058cb/je/2000xxs.jpg",
+      "file": "047-0084fa20.webp",
+      "media_type": "image/webp",
+      "bytes": 423516,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/4cbced7c-3379-421f-b0bd-a8f470cad62f/je/2000xxs.jpg",
+      "file": "048-7f78d77c.webp",
+      "media_type": "image/webp",
+      "bytes": 320622,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0ea3c2f0-df66-4ada-8487-8a1d90697373/je/2000xxs.jpg",
+      "file": "049-818ae408.webp",
+      "media_type": "image/webp",
+      "bytes": 215002,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/dea5ba08-757a-48f7-ae94-f0c1eeb036ff/je/2000xxs.jpg",
+      "file": "050-db2abc9c.webp",
+      "media_type": "image/webp",
+      "bytes": 257770,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/8630d559-4d34-4e14-92e9-779722d321af/je/2000xxs.jpg",
+      "file": "051-f787433e.webp",
+      "media_type": "image/webp",
+      "bytes": 183210,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/3cda14ea-76cd-4eac-9411-9181baf7b5f7/je/2000xxs.jpg",
+      "file": "052-f184a8cd.webp",
+      "media_type": "image/webp",
+      "bytes": 172038,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/24e25fe6-2b5d-4ab0-afcb-8dfaf4ff2c02/je/2000xxs.jpg",
+      "file": "053-94920950.webp",
+      "media_type": "image/webp",
+      "bytes": 325614,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/3a22a919-0841-44a2-ab1f-66678bd2bc27/je/2000xxs.jpg",
+      "file": "054-e43953c8.webp",
+      "media_type": "image/webp",
+      "bytes": 607850,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/45eece0d-83ee-41d8-8229-a861b9491202/je/2000xxs.jpg",
+      "file": "055-f11f0da2.webp",
+      "media_type": "image/webp",
+      "bytes": 260356,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/ea99b2de-457f-4802-aa53-df8daeb5e78f/je/2000xxs.jpg",
+      "file": "056-c3a22413.webp",
+      "media_type": "image/webp",
+      "bytes": 197020,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/ef8946e7-975e-4a4a-a07d-471fe4a55eb8/je/2000xxs.jpg",
+      "file": "057-d39b5e82.webp",
+      "media_type": "image/webp",
+      "bytes": 217988,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/eceec796-88d2-44a3-8a31-1bb2a027a016/je/2000xxs.jpg",
+      "file": "058-809c6940.webp",
+      "media_type": "image/webp",
+      "bytes": 356012,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/d1af54ea-fe96-4472-a401-faab9615237e/je/2000xxs.jpg",
+      "file": "059-57118681.webp",
+      "media_type": "image/webp",
+      "bytes": 88792,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/cb4edc13-fb4a-4aa5-be7c-10a36064e8a0/je/2000xxs.jpg",
+      "file": "060-f6bff76b.webp",
+      "media_type": "image/webp",
+      "bytes": 214740,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/3261cf43-31c5-42b8-83d8-f0c638b4f9ff/je/2000xxs.jpg",
+      "file": "061-cea2bd18.webp",
+      "media_type": "image/webp",
+      "bytes": 291882,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/ebb2d29f-4ca8-4a5d-8799-d14d4ded27ad/je/2000xxs.jpg",
+      "file": "062-b98f9b6f.webp",
+      "media_type": "image/webp",
+      "bytes": 223404,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/7648a30a-414d-4dea-a3af-1c47a65a3603/je/2000xxs.jpg",
+      "file": "063-befa55f5.webp",
+      "media_type": "image/webp",
+      "bytes": 284076,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/b19673ce-d50e-4c57-888f-b4bc18abc59b/je/2000xxs.jpg",
+      "file": "064-ab100eea.webp",
+      "media_type": "image/webp",
+      "bytes": 195566,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/d91c2811-93f8-40d0-ba0b-51a767ccd116/je/2000xxs.jpg",
+      "file": "065-a3f62569.webp",
+      "media_type": "image/webp",
+      "bytes": 165608,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/ad10e522-f56c-419c-8be2-12c435a56a2b/je/2000xxs.jpg",
+      "file": "066-75c99e00.webp",
+      "media_type": "image/webp",
+      "bytes": 133704,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/f46629a1-c3d9-45ca-b716-a1efec1f6523/je/2000xxs.jpg",
+      "file": "067-bdf4c3e3.webp",
+      "media_type": "image/webp",
+      "bytes": 157234,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/cfc9545e-9a16-4348-852d-09c9d6f1a337/je/2000xxs.jpg",
+      "file": "068-305883ba.webp",
+      "media_type": "image/webp",
+      "bytes": 159276,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/17bddb1d-ee7a-4af9-abf5-f1e55f3c57f7/je/2000xxs.jpg",
+      "file": "069-3feaba13.webp",
+      "media_type": "image/webp",
+      "bytes": 344470,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/308fa4de-be04-4159-81a8-ccdb63d461b7/je/2000xxs.jpg",
+      "file": "070-27d0684e.webp",
+      "media_type": "image/webp",
+      "bytes": 534450,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/2163b1e3-3fa1-4653-94d7-fc4a19c5fb2b/je/2000xxs.jpg",
+      "file": "071-f122b264.webp",
+      "media_type": "image/webp",
+      "bytes": 854724,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/ca920980-5ee3-475f-a6a7-ca3c08a6d7d0/je/2000xxs.jpg",
+      "file": "072-2bfa7dc1.webp",
+      "media_type": "image/webp",
+      "bytes": 373818,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0cb619a2-99cd-43be-8ac4-5753956748d8/je/2000xxs.jpg",
+      "file": "073-06c447f3.webp",
+      "media_type": "image/webp",
+      "bytes": 321024,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/a0b3ec12-2cb8-407a-baee-977e2a13c506/je/2000xxs.jpg",
+      "file": "074-921ae105.webp",
+      "media_type": "image/webp",
+      "bytes": 370900,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/f67e72c9-276d-4b45-8a1a-2a769992464f/je/2000xxs.jpg",
+      "file": "075-bf7202f5.webp",
+      "media_type": "image/webp",
+      "bytes": 368938,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/8feb5f0b-4197-4457-b9e1-c012b12c09f2/je/2000xxs.jpg",
+      "file": "076-73dcb011.webp",
+      "media_type": "image/webp",
+      "bytes": 745856,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/e653ad3a-0237-40d2-a09f-55d5616e921a/je/2000xxs.jpg",
+      "file": "077-2360b076.webp",
+      "media_type": "image/webp",
+      "bytes": 741900,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6eb1fb08-7a25-4020-bb8b-5c31c8d6b9ec/je/2000xxs.jpg",
+      "file": "078-fcb673a8.webp",
+      "media_type": "image/webp",
+      "bytes": 456202,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/93399318-792e-4076-bda8-00fe4f925923/je/2000xxs.jpg",
+      "file": "079-a5b61774.webp",
+      "media_type": "image/webp",
+      "bytes": 782748,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/177a37e1-9f3a-4f03-b3f9-1e3dcdaa35a0/je/2000xxs.jpg",
+      "file": "080-090b2e26.webp",
+      "media_type": "image/webp",
+      "bytes": 713324,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/9dc3df97-ba0c-40c9-8761-666af1cbe1aa/je/2000xxs.jpg",
+      "file": "081-901d632c.webp",
+      "media_type": "image/webp",
+      "bytes": 126122,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1a20d159-1b1a-41ce-8a96-2d25cea8dc43/je/2000xxs.jpg",
+      "file": "082-6b0618d9.webp",
+      "media_type": "image/webp",
+      "bytes": 294816,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/9cb1e9f1-6d06-40db-a91f-df5197428247/je/2000xxs.jpg",
+      "file": "083-3931d116.webp",
+      "media_type": "image/webp",
+      "bytes": 488520,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/ca2d1663-07c1-4e33-b656-8b60773af3fe/je/2000xxs.jpg",
+      "file": "084-b86bc924.webp",
+      "media_type": "image/webp",
+      "bytes": 213874,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/d4e26d30-7294-45c4-96d5-64417fa1a844/je/2000xxs.jpg",
+      "file": "085-639a981a.webp",
+      "media_type": "image/webp",
+      "bytes": 187724,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/a8a3d478-44de-4dd5-a5c2-3190db09889f/je/2000xxs.jpg",
+      "file": "086-3600e8aa.webp",
+      "media_type": "image/webp",
+      "bytes": 268392,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/65a5d745-8bbe-4be3-96ab-d8c0ced32ed5/je/2000xxs.jpg",
+      "file": "087-2dd0986a.webp",
+      "media_type": "image/webp",
+      "bytes": 176084,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/dd11907a-324b-4512-b5ad-e9c484f3bb2a/je/2000xxs.jpg",
+      "file": "088-2503378a.webp",
+      "media_type": "image/webp",
+      "bytes": 205232,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d101558-8b1b-443f-a616-cbf341adbfb0/je/2000xxs.jpg",
+      "file": "089-1c31808b.webp",
+      "media_type": "image/webp",
+      "bytes": 792126,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/d3d7aefb-a96d-45bf-8298-45fe63354f7a/je/2000xxs.jpg",
+      "file": "090-aecc94ee.webp",
+      "media_type": "image/webp",
+      "bytes": 954844,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2850%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2851%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2852%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "095-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "096-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "097-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "098-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa",
+              "name": "Tuxedo Park"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/renamor-16052746",
+              "name": "Renamor"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Renamor is a spectacular estate blending history, grandeur and modern sustainability in a truly unique way. It is situated on the largest piece of property ever to be sold in historic Tuxedo Park, 151 acres! The fact that it's now on the market for the first time in over 30 years makes it even more enticing for a discerning buyer seeking a one-of-a-kind property.Built circa 1928 in the romantic French Provincial style, Renamor stands apart from other Gilded Age homes in the region for its timeless charm and rustic elegance popularized in post-World War I America architecture. With its distinct hip roof, classic clay tiles, dormer windows, stone and stucco facade and period ironwork inside and out, it evokes the spirit of Normandy, Provence and the French countryside brought to life in the rolling hills of New York's Hudson Valley.Originally commissioned by George S. and M. Renee Carhart Amory whose blended names inspired the estate's Renamor name, the property has been meticulously preserved. Most recently, it was lovingly restored and cared for by the late Robert S. Dow, a prominent asset manager and a committed philanthropist who believed deeply in giving back to the community.Renamor includes three distinct residences totaling over 22,000 square feet: a 14,000-sf main residence, featuring a dramatic great hall, grand salon, banquet-sized dining room, extraordinary library, former chapel, a 'fumoir,' where gentlemen smoked after dinner, a wine cellar, an expansive kitchen, and six bedroom suites; a completely renovated 3,700-sf guest house from the 1930s; and 4,500-sf carriage house with a luxurious private apartment.Beyond the residences, the estate includes a boathouse on Tuxedo Lake, a secluded one-room log cabin with a large stone fireplace, a spa/pool house, tea house, oversized five-car garage and multiple outdoor entertaining areas.With 16 bedrooms, 20 bathrooms and 19 fireplaces, the property is designed for both intimate living and large-scale entertainment, giving Renamor the versatility to be both a private retreat and entertainer's paradise ideal for hosting gatherings of all sizes in a setting that feels both grand and comfortable. The fact that it has outdoor activities on the estate as well as multiple pools, lake access and golf course at nearby Tuxedo Club, makes it a true lifestyle property.Renamor is not just a historic treasure, it's also a model of sustainability renewably powered by solar and geothermal energy, giving it a forward-thinking edge. A $1 million+ investment was made over a decade ago, allowing the property to operate entirely off the grid, independent of local utilities. Its net-zero energy integration includes a microgrid system and high-efficiency upgrades that ensure modern performance while preserving the estate's historic character.Tuxedo Park itself adds another layer of distinction. As the first planned residential community in America-complete with a centralized sewer system-it carries deep historical relevance. Just 40 miles from Manhattan and close to private airports, the area offers rare access to nature and urban convenience all in one.Renamor is more than a home-it's a legacy estate, ready to be passed to a new generation of stewardship. Whether as a weekend retreat or a full-time residence, this is a landmark property of remarkable depth, vision and beauty.Find your one of one. Renamor.",
+        "image": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/1040x620xc.jpg",
+        "name": "Renamor",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 27500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Ellis Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/renamor-16052746"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2850%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2851%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2852%29.jpg: HTTP 403 Forbidden"
+  ]
+};

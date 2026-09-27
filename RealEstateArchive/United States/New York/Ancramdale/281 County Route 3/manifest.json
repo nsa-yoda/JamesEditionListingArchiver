@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/single-family-residence-in-ancramdale-16979115",
+    "canonical_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/single-family-residence-in-ancramdale-16979115",
+    "site": "jamesedition",
+    "listing_id": "16979115",
+    "listing_reference": "922447",
+    "first_listed": "Jan 22",
+    "last_updated": "March 30",
+    "retrieved_at": "2026-06-18T07:08:49.200411Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4338,
+      "sha256": "1bd0b126f4211a1198c100d25558731655284f4a427c33173cd9fbc5e9a533e4"
+    },
+    {
+      "path": "images/004-a57ca471.webp",
+      "bytes": 515708,
+      "sha256": "a1e49503c82314ea10090f0e3a3eadd6df12ead05769240057c5b8af5e8bfb67"
+    },
+    {
+      "path": "images/009-4ad5488c.webp",
+      "bytes": 211174,
+      "sha256": "ac10f8865884280cb189ba9d20958be28506e6948fa812951751c70fc39e2fcb"
+    },
+    {
+      "path": "images/014-cdd6f62e.webp",
+      "bytes": 232258,
+      "sha256": "fdc9ad3414f3b6939bde56af0e42bddb94eab2df7351bba004c2ab9766df1366"
+    },
+    {
+      "path": "images/019-28691d92.webp",
+      "bytes": 151362,
+      "sha256": "fd6d6da530aa436f8769ee40b5722d66b14b99d426443879ea207ee9c5b2fe49"
+    },
+    {
+      "path": "images/024-e374de0b.webp",
+      "bytes": 802540,
+      "sha256": "4cddbf20fbf53662c4d1a13331b5d8e818f2981336a5770664041718f6e3ea2d"
+    },
+    {
+      "path": "images/031-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/032-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/033-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/034-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 20732,
+      "sha256": "6e2e37636b8f56ee70639aeab6aacfe4fad3cde76b03da0e5c600e5fc7844704"
+    },
+    {
+      "path": "source.html",
+      "bytes": 293408,
+      "sha256": "fbdcbf83f54d6ca4cf31f7e8f514d1d9c143e09e80d4398fda7234049addb623"
+    },
+    {
+      "path": "source.url",
+      "bytes": 106,
+      "sha256": "dbbfc025339ffe2e156b119cda17355569ff9e4f8f8711984a82e3c44b69bc53"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/5401dec4-672a-493f-880b-c2ea91a7e8de/je/2200xxs.jpg",
+      "path": "images/004-a57ca471.webp",
+      "media_type": "image/webp",
+      "bytes": 515708,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/ad7b1768-6e33-41d4-9527-6ab263924535/je/2200xxs.jpg",
+      "path": "images/009-4ad5488c.webp",
+      "media_type": "image/webp",
+      "bytes": 211174,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/7032ed2a-f319-43b7-8de6-806d3d1e4a38/je/2200xxs.jpg",
+      "path": "images/014-cdd6f62e.webp",
+      "media_type": "image/webp",
+      "bytes": 232258,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/3724191a-f19c-4056-adf0-cff5c300e8b1/je/2200xxs.jpg",
+      "path": "images/019-28691d92.webp",
+      "media_type": "image/webp",
+      "bytes": 151362,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e62e1f1a-a598-45ba-9be6-4c1c9700980a/je/2200xxs.jpg",
+      "path": "images/024-e374de0b.webp",
+      "media_type": "image/webp",
+      "bytes": 802540,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

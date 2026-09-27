@@ -1,0 +1,372 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/the-dream-catcher-lodge-at-the-colony-at-white-pine-canyon-16740940",
+    "canonical_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/the-dream-catcher-lodge-at-the-colony-at-white-pine-canyon-16740940",
+    "site": "jamesedition",
+    "listing_id": "16740940",
+    "listing_reference": "K66YPK",
+    "first_listed": "Dec 3, 2025",
+    "last_updated": "June 11",
+    "retrieved_at": "2026-06-16T03:43:39.060482Z"
+  },
+  "location": {
+    "address": "125 White Pine Canyon Road, Park City, UT 84060, Utah, United States",
+    "street": "125 White Pine Canyon Road",
+    "municipality": "Park City",
+    "region": "Utah",
+    "postal_code": "84060",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.6490847,-111.5694045",
+    "latitude": 40.6490847,
+    "longitude": -111.5694045
+  },
+  "property": {
+    "title": "The Dream Catcher Lodge At The Colony At White Pine Canyon",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 8950000,
+      "currency": "USD",
+      "display": "$8,950,000"
+    },
+    "price_per_area": {
+      "amount": 1366,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,366"
+    },
+    "bedrooms": 5,
+    "bathrooms": 7,
+    "interior_area": {
+      "value": 6552,
+      "unit": "sqft",
+      "display": "6,552 Sqft"
+    },
+    "lot_area": {
+      "value": 10.23,
+      "display": "10.23 Ac lot"
+    },
+    "year_built": 2002,
+    "photo_count": 87,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6388998923112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "125 White Pine Canyon Road sits at the heart of The Colony at White Pine Canyon, Park City’s premier private ski-in/ski-out community. Positioned off the Panorama ski run at Park City Mountain Resort, this remarkable property offers unmatched seclusion with over 10 acres, sweeping views, and pine-filled valleys merging into world-class ski terrain.From arrival, a welcoming driveway and private ski bridge set the tone for a serene mountain escape. Designed by Otto-Walker and brought to life by Andrew Parker, the Dream Catcher Lodge blends timeless mountain elegance with the warmth of a family legacy estate. SLC International Airport is only 45 minutes away, making travel effortless.\u0026nbsp;This sanctuary of mountain luxury features a tranquil master suite, a thoughtfully arranged second-level bedroom wing, and a convenient guest suite on the lower level for privacy. The inviting mountain aesthetic creates a space for unforgettable gatherings and cherished memories.Experience ultimate convenience with a custom ski prep room just steps from the ski run, complete with a steam room to recharge for every adventure. After a thrilling day, unwind in the hot tub overlooking breathtaking mountain vistas.\u0026nbsp;Canyons Village is only 10 minutes away, with Park City’s lively Historic Main Street and Kimball Junction amenities within easy reach. Whether carving fresh tracks or enjoying local attractions, this location puts the best of Park City at your fingertips.\u0026nbsp;The Dream Catcher Lodge isn’t just a home, it’s a lifestyle of luxury, privacy, and access to the American West’s most spectacular scenery. Schedule a private tour and discover your next family legacy estate today!",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Basement",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Gate",
+      "Jacuzzi",
+      "Library",
+      "Outdoor Kitchen",
+      "Pool",
+      "Privacy",
+      "Ski-In / Ski-Out",
+      "Steam Room",
+      "Terrace",
+      "Walk In Closet",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Shannon Lee",
+    "agency": "Summit Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/summit-sotheby-s-international-realty-10651",
+    "agency_address": "1750 Park Avenue PO Box 2370, PO Box 2370, 84060, Park City, Utah, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/2200xxs.jpg",
+      "file": "004-abd37c31.webp",
+      "media_type": "image/webp",
+      "bytes": 699730,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/c79771b7-a8de-461c-980a-5f101aaeb7f0/je/2200xxs.jpg",
+      "file": "009-f988c424.webp",
+      "media_type": "image/webp",
+      "bytes": 449230,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/558a9615-5690-4eb9-b4dd-a0e8bbc1b968/je/2200xxs.jpg",
+      "file": "014-3a55e2b3.webp",
+      "media_type": "image/webp",
+      "bytes": 261258,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/fb9625ea-8737-4095-bbba-6451ebfcf689/je/2200xxs.jpg",
+      "file": "019-fee7b962.webp",
+      "media_type": "image/webp",
+      "bytes": 504908,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/f6a5151f-4d26-42d0-af7b-cb84bdac85fd/je/2200xxs.jpg",
+      "file": "024-098e5031.webp",
+      "media_type": "image/webp",
+      "bytes": 335014,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "039-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "040-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "041-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "042-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ut-united-states",
+              "name": "Utah"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/park-city-ut-usa",
+              "name": "Park City"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/park-city-ut-usa/the-dream-catcher-lodge-at-the-colony-at-white-pine-canyon-16740940",
+              "name": "The Dream Catcher Lodge At The Colony At White Pine Canyon"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "125 White Pine Canyon Road sits at the heart of The Colony at White Pine Canyon, Park City’s premier private ski-in/ski-out community. Positioned off the Panorama ski run at Park City Mountain Resort, this remarkable property offers unmatched seclusion with over 10 acres, sweeping views, and pine-filled valleys merging into world-class ski terrain.From arrival, a welcoming driveway and private ski bridge set the tone for a serene mountain escape. Designed by Otto-Walker and brought to life by Andrew Parker, the Dream Catcher Lodge blends timeless mountain elegance with the warmth of a family legacy estate. SLC International Airport is only 45 minutes away, making travel effortless.\u0026nbsp;This sanctuary of mountain luxury features a tranquil master suite, a thoughtfully arranged second-level bedroom wing, and a convenient guest suite on the lower level for privacy. The inviting mountain aesthetic creates a space for unforgettable gatherings and cherished memories.Experience ultimate convenience with a custom ski prep room just steps from the ski run, complete with a steam room to recharge for every adventure. After a thrilling day, unwind in the hot tub overlooking breathtaking mountain vistas.\u0026nbsp;Canyons Village is only 10 minutes away, with Park City’s lively Historic Main Street and Kimball Junction amenities within easy reach. Whether carving fresh tracks or enjoying local attractions, this location puts the best of Park City at your fingertips.\u0026nbsp;The Dream Catcher Lodge isn’t just a home, it’s a lifestyle of luxury, privacy, and access to the American West’s most spectacular scenery. Schedule a private tour and discover your next family legacy estate today!",
+        "image": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/1040x620xc.jpg",
+        "name": "The Dream Catcher Lodge At The Colony At White Pine Canyon",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 8950000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Summit Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/the-dream-catcher-lodge-at-the-colony-at-white-pine-canyon-16740940"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%285%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%286%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%287%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%288%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%289%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

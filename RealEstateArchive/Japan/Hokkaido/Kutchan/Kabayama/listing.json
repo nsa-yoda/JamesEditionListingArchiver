@@ -1,0 +1,380 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kutchan-japan/niseko-a-private-world-in-the-kingdom-of-powder-snow-17464003",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kutchan-japan/niseko-a-private-world-in-the-kingdom-of-powder-snow-17464003",
+    "site": "jamesedition",
+    "listing_id": "17464003",
+    "first_listed": "Mar 23",
+    "last_updated": "May 20",
+    "retrieved_at": "2026-06-16T03:43:31.27431Z"
+  },
+  "location": {
+    "address": "Kabayama, Kutchan, Abuta District, Hokkaido 044-0078, Japan",
+    "street": "Kabayama",
+    "municipality": "Kutchan",
+    "region": "Hokkaido",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=42.8453675,140.7067271",
+    "latitude": 42.8453675,
+    "longitude": 140.7067271
+  },
+  "property": {
+    "title": "Niseko — A Private World In The Kingdom Of Powder Snow",
+    "type": "Villa",
+    "availability": "InStock",
+    "price": {
+      "amount": 2808550.48,
+      "currency": "USD",
+      "display": "$2,808,550"
+    },
+    "price_per_area": {
+      "amount": 1005,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,005"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "floors": 2,
+    "interior_area": {
+      "value": 2793,
+      "unit": "sqft",
+      "display": "2,793 Sqft"
+    },
+    "lot_area": {
+      "value": 10764,
+      "unit": "sqft",
+      "display": "10,764 Sqft lot"
+    },
+    "year_built": 2025,
+    "photo_count": 17,
+    "description": "Among the world’s great alpine destinations, Niseko occupies a position that Aspen, Courchevel, and St. Moritz share a category with, but cannot replicate. Cold, dry air from Siberia collides with moisture from the Sea of Japan — producing snowfall of exceptional lightness and depth, averaging over 15 metres per season — at a consistency that no other resort destination on earth can reliably claim. For those who ski, this is not a matter of preference. It is a matter of physics. This estate sits quietly within a forest of silver birch, on approximately 1,000 sqm of freehold land, and it was conceived not as an object placed upon that land, but as an extension of it. Floor-to-ceiling glass dissolves the boundary between interior and forest. A natural material palette harmonises with the surrounding birch landscape. Low-profile geometry allows the architecture to recede into nature until, by night, the residence glows softly from within — like a lantern set inside the [hidden information] sqm across four private bedroom suites, a grand living salon, open dining and entertaining areas, lounge spaces for post-skiing relaxation, and seamless indoor-outdoor flow connecting directly to nature. By day, light filters through the trees, animating the interior with quiet movement. By season — powder skiing across Niseko United’s four interconnected resorts in winter, golf and hiking through expansive natural terrain in summer, forest foliage across the estate grounds in autumn — the residence performs without repetition, across every month of the year. Niseko is 90 minutes from Sapporo’s international airport, with direct flights to Hong Kong, Singapore, Seoul, and Shanghai. The community that has assembled here — quietly, over two decades — is among the most internationally discreet concentrations of UHNWI buyers in Asia. Private forest estates of this scale and quality are not frequently offered. When they are, they do not remain [hidden information] sqm. 4 suites. 1,000 sqm of freehold forest land. Niseko. To own here is not simply to visit Niseko. It is to belong to it.",
+    "features": [
+      "Air Conditioning",
+      "Duplex",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "High Altitude",
+      "High Ceiling",
+      "Hilltop",
+      "Investment Property",
+      "Jacuzzi",
+      "Kitchen island",
+      "Laundry Room",
+      "Modern",
+      "Mountain View",
+      "New Builds",
+      "Open Kitchen",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Privacy",
+      "Sauna",
+      "Ski-In / Ski-Out",
+      "Steam Room",
+      "Walk In Closet",
+      "Washer Dryer"
+    ]
+  },
+  "broker": {
+    "agent": "Mark Yamaguchi",
+    "agent_profile_url": "https://www.jamesedition.com/agents/mark-yamaguchi-2288341",
+    "agent_license": "# License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443 # License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443",
+    "agency": "TonTon Forbes GLOBAL PROPERTIES",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/tonton-forbes-global-properties-602649",
+    "agency_address": "〒153-0043 3F, KDX Nakameguro Building, 1-5-4 Higashiyama, Meguro Ward, Tokyo, 153-0043, Meguro City, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/2200xxs.jpg",
+      "file": "004-f6e27067.webp",
+      "media_type": "image/webp",
+      "bytes": 548132,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/20/59/20/d9afdb79-66f3-4bf4-99c5-950d92a4c8fd/je/2200xxs.jpg",
+      "file": "009-ca4be360.webp",
+      "media_type": "image/webp",
+      "bytes": 738010,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/805cadb6-9e7a-4072-9ac6-4eeb002100b2/je/2200xxs.jpg",
+      "file": "014-e8f8a82b.webp",
+      "media_type": "image/webp",
+      "bytes": 190566,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/4d52ec86-931b-4baf-96f8-0886d7e5803b/je/2200xxs.jpg",
+      "file": "019-975fe924.webp",
+      "media_type": "image/webp",
+      "bytes": 229320,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/11/21/08/375dae38-5467-4072-80af-9c00f8425b34/je/2200xxs.jpg",
+      "file": "024-385e0353.webp",
+      "media_type": "image/webp",
+      "bytes": 469424,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/59/38/a1c8e499-7ed6-4e45-8b02-5fd62fe7ba0e/je/80x80xc.jpg",
+      "file": "040-c96cbaf0.webp",
+      "media_type": "image/webp",
+      "bytes": 1790,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hokkaido-japan",
+              "name": "Hokkaido"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kutchan-japan",
+              "name": "Kutchan"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kabayama-japan",
+              "name": "Kabayama"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kutchan-japan/niseko-a-private-world-in-the-kingdom-of-powder-snow-17464003",
+              "name": "NISEKO — A PRIVATE WORLD IN THE KINGDOM OF POWDER SNOW"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Among the world's great alpine destinations, Niseko occupies a position that Aspen, Courchevel, and St. Moritz share a category with, but cannot replicate. Cold, dry air from Siberia collides with moisture from the Sea of Japan — producing snowfall of exceptional lightness and depth, averaging over 15 metres per season — at a consistency that no other resort destination on earth can reliably claim. For those who ski, this is not a matter of preference. It is a matter of physics. This estate sits quietly within a forest of silver birch, on approximately 1,000 sqm of freehold land, and it was conceived not as an object placed upon that land, but as an extension of it. Floor-to-ceiling glass dissolves the boundary between interior and forest. A natural material palette harmonises with the surrounding birch landscape. Low-profile geometry allows the architecture to recede into nature until, by night, the residence glows softly from within — like a lantern set inside the [hidden information] sqm across four private bedroom suites, a grand living salon, open dining and entertaining areas, lounge spaces for post-skiing relaxation, and seamless indoor-outdoor flow connecting directly to nature. By day, light filters through the trees, animating the interior with quiet movement. By season — powder skiing across Niseko United's four interconnected resorts in winter, golf and hiking through expansive natural terrain in summer, forest foliage across the estate grounds in autumn — the residence performs without repetition, across every month of the year. Niseko is 90 minutes from Sapporo's international airport, with direct flights to Hong Kong, Singapore, Seoul, and Shanghai. The community that has assembled here — quietly, over two decades — is among the most internationally discreet concentrations of UHNWI buyers in Asia. Private forest estates of this scale and quality are not frequently offered. When they are, they do not remain [hidden information] sqm. 4 suites. 1,000 sqm of freehold forest land. Niseko. To own here is not simply to visit Niseko. It is to belong to it.",
+        "image": "https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/1040x620xc.jpg",
+        "name": "NISEKO — A PRIVATE WORLD IN THE KINGDOM OF POWDER SNOW",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 2808550.48,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "TonTon Forbes GLOBAL PROPERTIES"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/kutchan-japan/niseko-a-private-world-in-the-kingdom-of-powder-snow-17464003"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+  ]
+}

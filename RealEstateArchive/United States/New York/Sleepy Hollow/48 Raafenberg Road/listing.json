@@ -1,0 +1,321 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/single-family-residence-in-sleepy-hollow-16978158",
+    "canonical_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/single-family-residence-in-sleepy-hollow-16978158",
+    "site": "jamesedition",
+    "listing_id": "16978158",
+    "listing_reference": "H6335041",
+    "first_listed": "Jan 22",
+    "last_updated": "March 30",
+    "retrieved_at": "2026-06-16T03:43:37.161583Z"
+  },
+  "location": {
+    "address": "48 Raafenberg Road, Sleepy Hollow, New York, United States",
+    "street": "48 Raafenberg Road",
+    "municipality": "Sleepy Hollow",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.099508,-73.834477",
+    "latitude": 41.099508,
+    "longitude": -73.834477
+  },
+  "property": {
+    "title": "Single Family Residence In Sleepy Hollow",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 12000000,
+      "currency": "USD",
+      "display": "$12,000,000"
+    },
+    "price_per_area": {
+      "amount": 1591,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,591"
+    },
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "interior_area": {
+      "value": 7538,
+      "unit": "sqft",
+      "display": "7,538 Sqft"
+    },
+    "lot_area": {
+      "value": 42.17,
+      "display": "42.17 Ac lot"
+    },
+    "year_built": 1973,
+    "photo_count": 37,
+    "description": "Historic Winterburn Farm is a spectacular 42 acre estate compound with sweeping views of the Hudson and Palisades beyond. Located in Westchester’s bucolic hamlet of Pocantico Hills, the property offers the beauty and serenity of the country within 30 miles of Manhattan. The main residence, designed for Rodman Rockefeller by Architect Richard P. Donahue, is mid century modern. The home’s central core is a great room with 20 foot ceilings and walls of glass facing the river. Equestrian facilities include a 14-stall stable, indoor and outdoor riding arenas, six fenced paddocks and two grooms’s apartments. A manager’s house, greenhouse, carriage barn and equipment garage are all well located to support the stable, main house and property. Direct trail access from the property is provided through north and south gates to the 55-mile carriage trail network of the 1,800 acre Rockefeller State Park. Winterburn Farm is an extremely rare opportunity offering a pristine architectural house amid a beautiful landscape of unparalleled privacy.",
+    "features": [
+      "Elevator",
+      "Equestrian",
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Kitchen island",
+      "Privacy",
+      "Walk In Closet"
+    ]
+  },
+  "broker": {
+    "agent": "Compass Greater NY, LLC - Armonk",
+    "agency": "Compass Greater NY, LLC - Armonk",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/compass-greater-ny-llc-armonk-558674",
+    "agency_address": "Armonk, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/2200xxs.jpg",
+      "file": "004-e3e33e6e.webp",
+      "media_type": "image/webp",
+      "bytes": 643320,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/2200xxs.jpg",
+      "file": "009-b2afcd11.webp",
+      "media_type": "image/webp",
+      "bytes": 792110,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/2200xxs.jpg",
+      "file": "014-4a46ce32.webp",
+      "media_type": "image/webp",
+      "bytes": 546706,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/2200xxs.jpg",
+      "file": "019-968656bf.webp",
+      "media_type": "image/webp",
+      "bytes": 409482,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/2200xxs.jpg",
+      "file": "024-99502b4c.webp",
+      "media_type": "image/webp",
+      "bytes": 140062,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa",
+              "name": "Sleepy Hollow"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/single-family-residence-in-sleepy-hollow-16978158",
+              "name": "Single Family Residence in Sleepy Hollow"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Historic Winterburn Farm is a spectacular 42 acre estate compound with sweeping views of the Hudson and Palisades beyond.  Located in Westchester's bucolic hamlet of Pocantico Hills, the property offers the beauty and serenity of the country within 30 miles of Manhattan.  The main residence, designed for Rodman Rockefeller by Architect Richard P. Donahue, is mid century modern.  The home's central core is a great room with 20 foot ceilings and walls of glass facing the river.  Equestrian facilities include a 14-stall stable, indoor and outdoor riding arenas, six fenced paddocks and two grooms's apartments. A manager's house, greenhouse, carriage barn and equipment garage are all well located to support the stable, main house and property.  Direct trail access from the property is provided through north and south gates to the 55-mile carriage trail network of the 1,800 acre Rockefeller State Park.  Winterburn Farm is an extremely rare opportunity offering a pristine architectural house amid a beautiful landscape of unparalleled privacy.",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Sleepy Hollow",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 12000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Compass Greater NY, LLC - Armonk"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/single-family-residence-in-sleepy-hollow-16978158"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/M00000489.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

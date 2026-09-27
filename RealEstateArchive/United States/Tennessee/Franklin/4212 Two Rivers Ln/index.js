@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Tennessee/Franklin/4212 Two Rivers Ln",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 40950
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 41863
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3024
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 502957
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 102
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

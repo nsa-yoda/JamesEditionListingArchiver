@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/lots-and-land-redstone-17006303",
+    "canonical_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/lots-and-land-redstone-17006303",
+    "site": "jamesedition",
+    "listing_id": "17006303",
+    "listing_reference": "2077271751678062",
+    "first_listed": "Jan 27",
+    "last_updated": "May 25",
+    "retrieved_at": "2026-06-19T08:34:00.462872Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1865,
+      "sha256": "e6631e245e22b2af12ae192b8f2d945bdfa95d134e602dfd5eb0b38545f895d4"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-51959d826561.webp",
+      "bytes": 311678,
+      "sha256": "27a768fce17676706726a66cf403b8a4d12efb6103f10e9fc3b2f1e53b3197e6"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5ec44e2fdabe.webp",
+      "bytes": 147544,
+      "sha256": "195607bcfdc17f49277698602b4dde47965edc80dfaf9669f9c0ae709fab45b1"
+    },
+    {
+      "path": "images/img-91b3b10d09a8.webp",
+      "bytes": 253596,
+      "sha256": "86d000dda2ff6f6e6be948ce666e80d68d1c76acd636a13015ffad03f43cdf08"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 14393,
+      "sha256": "636c19c7d57425b226088e4c118fe0eb2b7f06d2d4aa499a081f33ec0cf1e6eb"
+    },
+    {
+      "path": "source.html",
+      "bytes": 364493,
+      "sha256": "0259682e3997697a0e6dc2a5871f96680c0bf8d39c9c6d7c2e362d04f8d985e2"
+    },
+    {
+      "path": "source.url",
+      "bytes": 89,
+      "sha256": "827d553a350b181e760c6a7a605e77ae6ef22ebd3fd541c640d6bd0cdfb8db42"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/26/13/19/20/6df82d8b-8f09-4474-9f45-e5cf71b4fb23/je/2200xxs.jpg",
+      "path": "images/img-5ec44e2fdabe.webp",
+      "media_type": "image/webp",
+      "bytes": 147544,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/Lots%20And%20Land%20Redstone%20In%20Redstone,%20Montana,%20United%20States%20For%20Sale%20%2817006303%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/26/13/19/20/dbcd7b71-7c75-4482-bb43-9bfea88056fa/je/2200xxs.jpg",
+      "path": "images/img-91b3b10d09a8.webp",
+      "media_type": "image/webp",
+      "bytes": 253596,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/Lots%20And%20Land%20Redstone%20In%20Redstone,%20Montana,%20United%20States%20For%20Sale%20%2817006303%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/1901c9d0-77e7-40e9-9da7-2ba5643f35e7/je/2200xxs.jpg",
+      "path": "images/img-51959d826561.webp",
+      "media_type": "image/webp",
+      "bytes": 311678,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/Lots%20And%20Land%20Redstone%20In%20Redstone,%20Montana,%20United%20States%20For%20Sale%20%2817006303%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/Lots%20And%20Land%20Redstone%20In%20Redstone,%20Montana,%20United%20States%20For%20Sale%20%2817006303%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/Lots%20And%20Land%20Redstone%20In%20Redstone,%20Montana,%20United%20States%20For%20Sale%20%2817006303%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/Lots%20And%20Land%20Redstone%20In%20Redstone,%20Montana,%20United%20States%20For%20Sale%20%2817006303%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/Lots%20And%20Land%20Redstone%20In%20Redstone,%20Montana,%20United%20States%20For%20Sale%20%2817006303%29_files/2200xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/redstone-mt-usa/Lots%20And%20Land%20Redstone%20In%20Redstone,%20Montana,%20United%20States%20For%20Sale%20%2817006303%29_files/2200xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 0,
+    "images_failed": 8,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

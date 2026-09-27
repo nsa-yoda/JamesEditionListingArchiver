@@ -1,0 +1,691 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/elegance-meets-nature-at-stonecrest-on-the-hudson-16280122",
+    "canonical_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/elegance-meets-nature-at-stonecrest-on-the-hudson-16280122",
+    "site": "jamesedition",
+    "listing_id": "16280122",
+    "listing_reference": "e198eb40-c561-4a49-9e00-57818bd12724",
+    "first_listed": "Sep 30, 2025",
+    "last_updated": "June 12",
+    "retrieved_at": "2026-06-18T07:07:54.532354Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4703,
+      "sha256": "08bdf6af37308414642ed5260bc8e03bff29d6326cd14f599ec774b6ad123f36"
+    },
+    {
+      "path": "images/004-4e775197.webp",
+      "bytes": 795106,
+      "sha256": "0c85b1eb6f33f69044858d887102ae614c5125725e80ed353bf5ef330f841da6"
+    },
+    {
+      "path": "images/009-c46a64eb.webp",
+      "bytes": 581048,
+      "sha256": "a1d22bbaf184b5921835a3c62716b5f0e1d4ea2e0fb047fd82e116dfcf59193b"
+    },
+    {
+      "path": "images/014-f3b5c1cf.webp",
+      "bytes": 854242,
+      "sha256": "399a43c667e380e2635970e751e29831166cec2914d43b6a1a34ad9235c7c4a5"
+    },
+    {
+      "path": "images/019-63aa9b63.webp",
+      "bytes": 917790,
+      "sha256": "9138f3da708abdfd48bbec815d12d53702bc026132abae5863da97b5be92543b"
+    },
+    {
+      "path": "images/024-fc1a70c8.webp",
+      "bytes": 1937184,
+      "sha256": "bc5e6d547a64166bba4322e6148a06be51aeb9f35a80a0043ec9eb3f1721ccf8"
+    },
+    {
+      "path": "images/034-e5722371.webp",
+      "bytes": 540706,
+      "sha256": "6dbdcab271caf1b5da1a40dfe16b16f79829865d90d3679daf610d8c9f8dafe0"
+    },
+    {
+      "path": "images/035-f70cf75b.webp",
+      "bytes": 362604,
+      "sha256": "94660e777ede5ca0b1251e186d0185fa35e4f6df53a3e46214a5203597c11932"
+    },
+    {
+      "path": "images/036-e2de4e58.webp",
+      "bytes": 349180,
+      "sha256": "989f25ce3b7841acdf0799f7b53c6e0d541249e42cb80cd008c190da0ea72fd9"
+    },
+    {
+      "path": "images/037-a05d3982.webp",
+      "bytes": 612132,
+      "sha256": "153fcbc1e472912eb673978b45418a7f448e7a347fded453ae23200da39677c2"
+    },
+    {
+      "path": "images/038-478bb0bc.webp",
+      "bytes": 246378,
+      "sha256": "fb50494a8cce1c300fab4ba820f25682e504ecf1f4ce495898a77988aa8fb05d"
+    },
+    {
+      "path": "images/039-25202a74.webp",
+      "bytes": 290506,
+      "sha256": "978db9a3a1a4a4c2b5e523d946798ed436d07d88b6add756d3bf10bb9f317d0f"
+    },
+    {
+      "path": "images/040-440bdfac.webp",
+      "bytes": 438962,
+      "sha256": "d10aa3d817fc146120d13dcfbcf8d632063f6b4f07a7ec3ab77b66aef3a7e445"
+    },
+    {
+      "path": "images/041-511d2e65.webp",
+      "bytes": 427274,
+      "sha256": "6d2a1a6d46ea9a5a30e3f2452fa9e921e0c146913b835df6fdc55ec9fb7ccbbf"
+    },
+    {
+      "path": "images/042-17f43ffa.webp",
+      "bytes": 361172,
+      "sha256": "80842d89718bb7441e5824804d2e59a5124c0b3b431169075406473f22ce98c3"
+    },
+    {
+      "path": "images/043-6766d718.webp",
+      "bytes": 341368,
+      "sha256": "ecc47125c8cc34838fe10a77971070d76b44292e09dc3fcaa278036cc4f4bac5"
+    },
+    {
+      "path": "images/044-f0f42439.webp",
+      "bytes": 204850,
+      "sha256": "d8c71e7ac1fd14721d0fe13a10a394fd5a625f5be1a5ad8cf44058de12937660"
+    },
+    {
+      "path": "images/045-2569cbb1.webp",
+      "bytes": 541390,
+      "sha256": "251c33a8a16a6a6d4098d5a5c89a08fc5f1c23f50713315435c45348b3db6a0c"
+    },
+    {
+      "path": "images/046-6de5919b.webp",
+      "bytes": 433374,
+      "sha256": "852d46948407a6bbfcf690c10fe21d4a7f09fbc4ac06c9627ccf9b649a1703f5"
+    },
+    {
+      "path": "images/047-8c48e281.webp",
+      "bytes": 872284,
+      "sha256": "3c0a55151f88e6e8c1bbb04e4aed6a19a024b164e462e24de6dfbe6fac354e57"
+    },
+    {
+      "path": "images/048-e1f88346.webp",
+      "bytes": 723840,
+      "sha256": "653488cc1d27199bf3e720ff57fb96aef4feea77452180767b3237877da05068"
+    },
+    {
+      "path": "images/049-317e8131.webp",
+      "bytes": 427576,
+      "sha256": "b5bf7d9a079421350dace25ef11a2c7e893bbf1dd37796b7866c47afdbe47b9c"
+    },
+    {
+      "path": "images/050-e2c52f2c.webp",
+      "bytes": 599894,
+      "sha256": "52b56a6a150d0ca4097403c3bfc5241644e9888b5d542328a61db7d8761266eb"
+    },
+    {
+      "path": "images/051-f0ee873a.webp",
+      "bytes": 571764,
+      "sha256": "edfb60c9ca6a6075b49db91f2c0b586f9bd4d792463f067dea144df80e44e709"
+    },
+    {
+      "path": "images/052-24f722f5.webp",
+      "bytes": 357150,
+      "sha256": "4a424bb14c9e4cc5cc296bbdfa94eef4cb8529ba77eff6a52ded9792192bab6f"
+    },
+    {
+      "path": "images/053-f138d9bf.webp",
+      "bytes": 659502,
+      "sha256": "579ec2ce31610e78c7df478e8e5a3af530f27f1cf85806164969a98bdbc838d7"
+    },
+    {
+      "path": "images/054-ca3070eb.webp",
+      "bytes": 470584,
+      "sha256": "11e5349b9e99fc56f30a6601efa6d362cc95a28b17898aca86be1b044d06f27c"
+    },
+    {
+      "path": "images/055-a9f86bad.webp",
+      "bytes": 356444,
+      "sha256": "b32563196ee08f6e130df12c513398f3e91f6621b73b5050de683f6c79cd8e1a"
+    },
+    {
+      "path": "images/056-979e4b5c.webp",
+      "bytes": 351626,
+      "sha256": "586270e3804793c6c7e70284929dc80f693e8af562ed0360fb3db22006dbe74b"
+    },
+    {
+      "path": "images/057-1abe7bbd.webp",
+      "bytes": 264200,
+      "sha256": "1cb1b2bedb4e66b654a1e7996117ba13cd39276d4227f981b2e50064283cb9e5"
+    },
+    {
+      "path": "images/058-6c8293fd.webp",
+      "bytes": 198746,
+      "sha256": "fac3ace7b557f5b2541432f2c194447ab91232ae966400abbc84c4271f3d169e"
+    },
+    {
+      "path": "images/059-d0a0b855.webp",
+      "bytes": 212466,
+      "sha256": "3f0e66a20749afb8b653e730412925503e7a328573cea85715cf273a296cda0c"
+    },
+    {
+      "path": "images/060-465b15c9.webp",
+      "bytes": 225340,
+      "sha256": "255c61ed02ae0017fa25bf8ec67acbeeae7c8dc377d384ad61e5532d1ada56f2"
+    },
+    {
+      "path": "images/061-bcf92f23.webp",
+      "bytes": 503916,
+      "sha256": "3b1973681efcb797cbe93a23b4e8933344999db1575e7e670e40f111c9a8ec2f"
+    },
+    {
+      "path": "images/062-1f764ec6.webp",
+      "bytes": 376506,
+      "sha256": "d8112962187bd8b98a47ac479f4582e6c1419212117f60834f56d4ed76eefc8b"
+    },
+    {
+      "path": "images/063-ce0ac7eb.webp",
+      "bytes": 331588,
+      "sha256": "e1b09dfb618bfd7fdcddd1c4f0d1ab3d0bdf64eb54d1608fa1ae35819b7dfc0a"
+    },
+    {
+      "path": "images/064-8c46d8eb.webp",
+      "bytes": 320682,
+      "sha256": "e8cdb673b2e96426e3ac8bcf00b55d69c814296fd3f75d7a90947258afa142c1"
+    },
+    {
+      "path": "images/065-09ea42d1.webp",
+      "bytes": 195806,
+      "sha256": "7a902b97c0b6b96d387844889bfb9c16d347f294a3d90d0d69915456626d46f4"
+    },
+    {
+      "path": "images/066-0279b542.webp",
+      "bytes": 216036,
+      "sha256": "b9addb68d541a72b7501db4ae82e3af8d55d71adcdb79b77c80d40a4e4b7cf53"
+    },
+    {
+      "path": "images/067-8c3ae1aa.webp",
+      "bytes": 512552,
+      "sha256": "fe5a4f431a2780bcc5f2b73ee910418ee3c7be73990e81827aa2bfc72ffa23e4"
+    },
+    {
+      "path": "images/068-7a1c3c0c.webp",
+      "bytes": 233726,
+      "sha256": "9341de72686f9472e41b3e156891434732e1b025b4f24395612ac11f6c225201"
+    },
+    {
+      "path": "images/069-c403716f.webp",
+      "bytes": 247502,
+      "sha256": "c5f735349c1175955ad68162a64e797ce308e267c831c64901c098bf5df413e3"
+    },
+    {
+      "path": "images/074-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/075-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/076-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/077-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 33003,
+      "sha256": "43eba0939e934711a7e3d0d476dec2635447975ae13512610cb71074b28add74"
+    },
+    {
+      "path": "source.html",
+      "bytes": 435427,
+      "sha256": "5e833bbaa3ce5d0970fe22f9fc2fb035c8178c319a68d3eb7a1498ac94401ef6"
+    },
+    {
+      "path": "source.url",
+      "bytes": 117,
+      "sha256": "40867cfd83569bc5fb0af26a937cea05c4d180a3b6baaf0442fe576622c3f939"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2200xxs.jpg",
+      "path": "images/004-4e775197.webp",
+      "media_type": "image/webp",
+      "bytes": 795106,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2200xxs.jpg",
+      "path": "images/009-c46a64eb.webp",
+      "media_type": "image/webp",
+      "bytes": 581048,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2200xxs.jpg",
+      "path": "images/014-f3b5c1cf.webp",
+      "media_type": "image/webp",
+      "bytes": 854242,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2200xxs.jpg",
+      "path": "images/019-63aa9b63.webp",
+      "media_type": "image/webp",
+      "bytes": 917790,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2200xxs.jpg",
+      "path": "images/024-fc1a70c8.webp",
+      "media_type": "image/webp",
+      "bytes": 1937184,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/1d04c9b5-4f96-4334-8f88-aa4a8f73c16e/je/2000xxs.jpg",
+      "path": "images/034-e5722371.webp",
+      "media_type": "image/webp",
+      "bytes": 540706,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/f3c6d877-c4bf-488f-ad8b-b0dd3185b6d5/je/2000xxs.jpg",
+      "path": "images/035-f70cf75b.webp",
+      "media_type": "image/webp",
+      "bytes": 362604,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/df9ad8ae-e8a4-40b8-8baf-315404a890e9/je/2000xxs.jpg",
+      "path": "images/036-e2de4e58.webp",
+      "media_type": "image/webp",
+      "bytes": 349180,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/68195c49-8976-426c-920a-ecd2fe52fce8/je/2000xxs.jpg",
+      "path": "images/037-a05d3982.webp",
+      "media_type": "image/webp",
+      "bytes": 612132,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/3f66fde4-4017-472a-8bcf-c4870a620cd0/je/2000xxs.jpg",
+      "path": "images/038-478bb0bc.webp",
+      "media_type": "image/webp",
+      "bytes": 246378,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/4955e69d-6095-435c-8ca7-87c1357f95cb/je/2000xxs.jpg",
+      "path": "images/039-25202a74.webp",
+      "media_type": "image/webp",
+      "bytes": 290506,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/c206a7c7-5c24-4c80-89ab-c2dbce7cbf4f/je/2000xxs.jpg",
+      "path": "images/040-440bdfac.webp",
+      "media_type": "image/webp",
+      "bytes": 438962,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/bfb29e81-0314-426b-984a-bdc344bcf73e/je/2000xxs.jpg",
+      "path": "images/041-511d2e65.webp",
+      "media_type": "image/webp",
+      "bytes": 427274,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/b4c9ad9b-9137-4f6e-8d59-eeb8a4d44534/je/2000xxs.jpg",
+      "path": "images/042-17f43ffa.webp",
+      "media_type": "image/webp",
+      "bytes": 361172,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/33aa13c8-2453-494e-8613-9ae7d20b7f2e/je/2000xxs.jpg",
+      "path": "images/043-6766d718.webp",
+      "media_type": "image/webp",
+      "bytes": 341368,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/20192243-1fd5-406b-8e3e-a4a03f60850a/je/2000xxs.jpg",
+      "path": "images/044-f0f42439.webp",
+      "media_type": "image/webp",
+      "bytes": 204850,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/d5118c70-0d20-4115-a1a1-70326eaa3d92/je/2000xxs.jpg",
+      "path": "images/045-2569cbb1.webp",
+      "media_type": "image/webp",
+      "bytes": 541390,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/bbf067e7-4efd-47b2-924e-523a83f6a495/je/2000xxs.jpg",
+      "path": "images/046-6de5919b.webp",
+      "media_type": "image/webp",
+      "bytes": 433374,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/00639e73-013c-4ce5-8492-02d9329d295b/je/2000xxs.jpg",
+      "path": "images/047-8c48e281.webp",
+      "media_type": "image/webp",
+      "bytes": 872284,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/ea58f8dd-8c93-4819-b2fc-34cc7d0d1203/je/2000xxs.jpg",
+      "path": "images/048-e1f88346.webp",
+      "media_type": "image/webp",
+      "bytes": 723840,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/ba6a558e-ed3e-4f93-ae6c-42b117902fb1/je/2000xxs.jpg",
+      "path": "images/049-317e8131.webp",
+      "media_type": "image/webp",
+      "bytes": 427576,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/231a45f1-a54d-42e8-9308-79289f6edc8d/je/2000xxs.jpg",
+      "path": "images/050-e2c52f2c.webp",
+      "media_type": "image/webp",
+      "bytes": 599894,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/5e3bdb55-6854-41f6-a901-3d5e6b59aef3/je/2000xxs.jpg",
+      "path": "images/051-f0ee873a.webp",
+      "media_type": "image/webp",
+      "bytes": 571764,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/5d1f7372-a83d-46c7-9ade-6c915cf80c96/je/2000xxs.jpg",
+      "path": "images/052-24f722f5.webp",
+      "media_type": "image/webp",
+      "bytes": 357150,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/8c2c9876-67db-4f31-87ed-f2aa88a24bca/je/2000xxs.jpg",
+      "path": "images/053-f138d9bf.webp",
+      "media_type": "image/webp",
+      "bytes": 659502,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/d2f4b28a-9ba4-457b-843d-df37ce90db4b/je/2000xxs.jpg",
+      "path": "images/054-ca3070eb.webp",
+      "media_type": "image/webp",
+      "bytes": 470584,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/42638faf-9f2c-45c2-88c0-a0193a9d8b42/je/2000xxs.jpg",
+      "path": "images/055-a9f86bad.webp",
+      "media_type": "image/webp",
+      "bytes": 356444,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/6297f776-d204-48b9-a3f8-e8a45bd39e06/je/2000xxs.jpg",
+      "path": "images/056-979e4b5c.webp",
+      "media_type": "image/webp",
+      "bytes": 351626,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/4c3b98c9-66f4-4639-bde1-38b011d38e17/je/2000xxs.jpg",
+      "path": "images/057-1abe7bbd.webp",
+      "media_type": "image/webp",
+      "bytes": 264200,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/7911c508-e579-4303-a527-05eba7f5b338/je/2000xxs.jpg",
+      "path": "images/058-6c8293fd.webp",
+      "media_type": "image/webp",
+      "bytes": 198746,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/c2d7a23b-63f2-429c-8e8e-2e4cdea0f484/je/2000xxs.jpg",
+      "path": "images/059-d0a0b855.webp",
+      "media_type": "image/webp",
+      "bytes": 212466,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/614c4009-25ba-4b83-a59f-03de777c4041/je/2000xxs.jpg",
+      "path": "images/060-465b15c9.webp",
+      "media_type": "image/webp",
+      "bytes": 225340,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/7fef7d53-29f4-41a4-a88d-b8a7b173ef59/je/2000xxs.jpg",
+      "path": "images/061-bcf92f23.webp",
+      "media_type": "image/webp",
+      "bytes": 503916,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/0dc6d0a7-1850-4fa5-9efe-b702f465db0b/je/2000xxs.jpg",
+      "path": "images/062-1f764ec6.webp",
+      "media_type": "image/webp",
+      "bytes": 376506,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/09b2927a-0f38-424f-ad5f-423c7bdd51b6/je/2000xxs.jpg",
+      "path": "images/063-ce0ac7eb.webp",
+      "media_type": "image/webp",
+      "bytes": 331588,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/92ddbeea-2d19-4c3f-a8ed-45f9d14a11fc/je/2000xxs.jpg",
+      "path": "images/064-8c46d8eb.webp",
+      "media_type": "image/webp",
+      "bytes": 320682,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/d9fd4027-e557-47e4-9ac2-cd3284bc148a/je/2000xxs.jpg",
+      "path": "images/065-09ea42d1.webp",
+      "media_type": "image/webp",
+      "bytes": 195806,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/1d12ad6d-556c-47ad-95d3-a7a5d6bd8f8d/je/2000xxs.jpg",
+      "path": "images/066-0279b542.webp",
+      "media_type": "image/webp",
+      "bytes": 216036,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/95b04bcd-aac5-4e33-8b7d-5aca15e6a401/je/2000xxs.jpg",
+      "path": "images/067-8c3ae1aa.webp",
+      "media_type": "image/webp",
+      "bytes": 512552,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/954c442d-7b83-418a-9918-c7ff6c03a709/je/2000xxs.jpg",
+      "path": "images/068-7a1c3c0c.webp",
+      "media_type": "image/webp",
+      "bytes": 233726,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/c05fe7e5-dc41-45d3-9fab-758f552f3f80/je/2000xxs.jpg",
+      "path": "images/069-c403716f.webp",
+      "media_type": "image/webp",
+      "bytes": 247502,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2827%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2826%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2825%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/074-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/075-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/076-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/077-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 12,
+    "images_existing": 45,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

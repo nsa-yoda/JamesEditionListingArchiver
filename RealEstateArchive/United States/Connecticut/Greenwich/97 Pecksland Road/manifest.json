@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550",
+    "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550",
+    "site": "jamesedition",
+    "listing_id": "16746550",
+    "listing_reference": "2-123736",
+    "first_listed": "Dec 4, 2025",
+    "last_updated": "April 15",
+    "retrieved_at": "2026-06-19T08:34:08.800916Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3056,
+      "sha256": "a7434191d336dd169b4097f2bff2b64e72cd78aaa9b575b30ee7a9f4d6076349"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-81376897c263.webp",
+      "bytes": 532236,
+      "sha256": "a5a0ed5b7fab1a6c560af269c78846bd13ec820a9708d2478b684d6c097586b2"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 14614,
+      "sha256": "6a5b5c126f96615ef409bd948f915b00d15ace11f3e6e2b9b2d92e3a8e6ed5aa"
+    },
+    {
+      "path": "source.html",
+      "bytes": 635066,
+      "sha256": "700187a9c04dd9bc306cbea6ee8376f9214ea0de9b9a45e3328e0225ac9e9900"
+    },
+    {
+      "path": "source.url",
+      "bytes": 89,
+      "sha256": "9e9b8cbd798baf1b9cd903507f0c067d1f09df94ef41908b45067405c3aee2b2"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/2200xxs.jpg",
+      "path": "images/img-81376897c263.webp",
+      "media_type": "image/webp",
+      "bytes": 532236,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 5,
+    "images_existing": 0,
+    "images_failed": 5,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

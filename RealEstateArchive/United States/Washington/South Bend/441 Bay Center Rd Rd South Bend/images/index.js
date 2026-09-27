@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Washington/South Bend/441 Bay Center Rd Rd South Bend/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-2adca392.webp",
+      "href": "004-2adca392.webp",
+      "size": 480914
+    },
+    {
+      "name": "009-28a99fea.webp",
+      "href": "009-28a99fea.webp",
+      "size": 404562
+    },
+    {
+      "name": "014-efdae6d8.webp",
+      "href": "014-efdae6d8.webp",
+      "size": 366138
+    },
+    {
+      "name": "019-c2967937.webp",
+      "href": "019-c2967937.webp",
+      "size": 602146
+    },
+    {
+      "name": "024-ba2eea34.webp",
+      "href": "024-ba2eea34.webp",
+      "size": 588952
+    },
+    {
+      "name": "030-57242b8e.webp",
+      "href": "030-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "031-4055dfde.svg",
+      "href": "031-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "032-272e34fe.svg",
+      "href": "032-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "033-caf7633d.svg",
+      "href": "033-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

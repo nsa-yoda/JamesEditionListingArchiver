@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602",
+    "site": "jamesedition",
+    "listing_id": "18129602",
+    "listing_reference": "RMS295",
+    "first_listed": "Jun 10",
+    "last_updated": "June 10",
+    "retrieved_at": "2026-06-21T09:21:16.588469Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2378,
+      "sha256": "aefbdcd396506d8456bf07044a9f18db95495e85d844aa4ef4640b8f795698f8"
+    },
+    {
+      "path": "images/img-174751c43a1b.webp",
+      "bytes": 800628,
+      "sha256": "4ed48a25939a51f7b7737eb3e965bab3749e071c2993fbff3f4e9f6379f27e2f"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-625d5dc5fa01.webp",
+      "bytes": 1221452,
+      "sha256": "78c47964d71347b547db25ea98293e300117b7834d67740268a77a62c4806e63"
+    },
+    {
+      "path": "images/img-92caf6e934d4.webp",
+      "bytes": 917948,
+      "sha256": "35b58356a9291304779882175eb0c2f499b8d4c1b9b55d1eb70beba367f0371a"
+    },
+    {
+      "path": "images/img-ad88a162ea0b.webp",
+      "bytes": 1036164,
+      "sha256": "7ac424e685f0518cc3c0680261fe95f7b4fb09939c82c4d7d6b2d753592b8daa"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-d18f4ba0a623.webp",
+      "bytes": 644856,
+      "sha256": "e4e558fdfbbafa2ccaa347dc4677ef107b2d4bd7d608a241347ff675d8fc23e7"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16207,
+      "sha256": "6f7c4deb2d1dbb3299fcab28cdab7865a1c1b72e584e92335661ccad976cc444"
+    },
+    {
+      "path": "source.html",
+      "bytes": 351373,
+      "sha256": "275a094ec0d8059a604434e7ad15a81e407ff0fe90950432787421d0d4485999"
+    },
+    {
+      "path": "source.url",
+      "bytes": 102,
+      "sha256": "d56d346c397928310ae81afd34d09f983ca0dcb87c7b56d94a8554c102f081b8"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/2200xxs.jpg",
+      "path": "images/img-ad88a162ea0b.webp",
+      "media_type": "image/webp",
+      "bytes": 1036164,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/ab2f37d9-8083-4bf2-9380-8a1ffa2f7aab/je/2200xxs.jpg",
+      "path": "images/img-92caf6e934d4.webp",
+      "media_type": "image/webp",
+      "bytes": 917948,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/0269def3-4646-4d8b-b7c2-71e6fe9b9775/je/2200xxs.jpg",
+      "path": "images/img-625d5dc5fa01.webp",
+      "media_type": "image/webp",
+      "bytes": 1221452,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/01aaf48f-b4b8-453b-8236-073f31409e77/je/2200xxs.jpg",
+      "path": "images/img-d18f4ba0a623.webp",
+      "media_type": "image/webp",
+      "bytes": 644856,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/8ba181f9-487a-43db-a990-86828ab57e89/je/2200xxs.jpg",
+      "path": "images/img-174751c43a1b.webp",
+      "media_type": "image/webp",
+      "bytes": 800628,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 0,
+    "images_failed": 8,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

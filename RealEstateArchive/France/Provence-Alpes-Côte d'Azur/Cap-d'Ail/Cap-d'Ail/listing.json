@@ -1,0 +1,327 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/cap-d-ail-a-magnificent-waterfront-art-deco-villa-15390884",
+    "canonical_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/cap-d-ail-a-magnificent-waterfront-art-deco-villa-15390884",
+    "site": "jamesedition",
+    "listing_id": "15390884",
+    "listing_reference": "10771",
+    "first_listed": "Mar 24, 2025",
+    "last_updated": "March 26",
+    "retrieved_at": "2026-06-16T03:43:22.282999Z"
+  },
+  "location": {
+    "address": "Cap-d'Ail, 06320, France",
+    "street": "Cap-d'Ail",
+    "municipality": "Cap-d'Ail",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "postal_code": "06320",
+    "country": "France",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=43.72208,7.40584",
+    "latitude": 43.72208,
+    "longitude": 7.40584
+  },
+  "property": {
+    "title": "Cap D'ail A Magnificent Waterfront Art Deco Villa",
+    "type": "Villa",
+    "availability": "InStock",
+    "price": {
+      "amount": 28922498.12,
+      "currency": "USD",
+      "display": "$28,922,498"
+    },
+    "price_per_area": {
+      "amount": 4569,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$4,569"
+    },
+    "bedrooms": 7,
+    "bathrooms": 7,
+    "floors": 2,
+    "interior_area": {
+      "value": 6330,
+      "unit": "sqft",
+      "display": "6,330 Sqft"
+    },
+    "lot_area": {
+      "value": 1.16,
+      "display": "1.16 Ac lot"
+    },
+    "photo_count": 15,
+    "description": "This superbly renovated Art Deco style villa in Cap d’Ail offers the highest luxury finishes and a magical panoramic sea view. Located between Monaco and Cap Ferrat this is the ultimate French Riviera lifestyle villa. Access to the Plage Mala private beach and also easy access from your yacht adds to the unique features of this property. The villa offers– 7 bedrooms (4 guest bedrooms and 3 principal bedrooms with separate wardrobes, all with en suite bathrooms and terraces) – Lobby, living room, TV room – library, dining room, kitchen, cold and wine cellar – SPA, terrace bar and party terrace, 2 jacuzzi and swimming pool – garage 2 cars and parking 12 cars, security room – Mooring – direct sea access. A glass lift with panoramic views leads from the parking on the upper floor directly to the entertaining level. The interiors are extremely bright, with large double French doors offering panoramic sea views, the decor is elegant, with cream marble floors and neutral coloured suede designer furniture. The villa is equipped with the latest technology. It includes Plasma TV’s in each room, video and DVD system, Sky satellite, Crestron music system through the whole villa and garden, villa-wide internet access, Infra-red alarm system on each window plus security cameras, electric shutters and climate control throughout.There is a fully equipped gym, a hammam and a jet shower room. The ‘Boffi’ professional kitchen is equipped with a cold room (equivalent to 6 fridges!), a Japanese hob for tepanyaki cuisine, regular hob, plate warmers, covers for 24, two dishwashers, two ovens, microwave and coffee machine and Viking wine coolers for 200 bottles. There is also an oversized Viking gas BBQ off the kitchen. A 3-car garage and additional parking for at least 7 cars.Distances: Nice 18km, Cannes 54km, Monaco 3.5kmInformation on the risks to which this property is exposed is available on the Géorisques website : [hidden information]Information on the risks to which this property is exposed is available on the Géorisques website: https://www.georisques.gouv.fr/",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Elevator",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Gate",
+      "High Ceiling",
+      "Jacuzzi",
+      "Library",
+      "Mountain View",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Pool",
+      "Private Beach",
+      "Renovated",
+      "Sea View",
+      "Terrace",
+      "Water View",
+      "Waterfront",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Douglas Elliman Private Office",
+    "agency": "Douglas Elliman Private Office",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/douglas-elliman-private-office-107357",
+    "agency_address": "Cannes, France"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/2200xxs.jpg",
+      "file": "004-9151c745.webp",
+      "media_type": "image/webp",
+      "bytes": 755902,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/2200xxs.jpg",
+      "file": "009-f8850676.webp",
+      "media_type": "image/webp",
+      "bytes": 653016,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/2200xxs.jpg",
+      "file": "014-246d7ff9.webp",
+      "media_type": "image/webp",
+      "bytes": 479306,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/2200xxs.jpg",
+      "file": "019-21e8a7e1.webp",
+      "media_type": "image/webp",
+      "bytes": 602612,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/2200xxs.jpg",
+      "file": "024-92c0e7c5.webp",
+      "media_type": "image/webp",
+      "bytes": 678836,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/france",
+              "name": "France"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/provence-alpes-cote-d-azur-france",
+              "name": "Provence-Alpes-Côte d'Azur"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/cap-d-ail-france",
+              "name": "Cap-d'Ail"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/cap-d-ail-france/cap-d-ail-a-magnificent-waterfront-art-deco-villa-15390884",
+              "name": "CAP D'AIL - A Magnificent Waterfront Art Deco Villa"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "This superbly renovated Art Deco style villa in Cap d’Ail offers the highest luxury finishes and a magical panoramic sea view. Located between Monaco and Cap Ferrat this is the ultimate French Riviera lifestyle villa. \n\nAccess to the Plage Mala private beach and also easy access from your yacht adds to the unique features of this property. \n\nThe villa offers\n– 7 bedrooms (4 guest bedrooms and 3 principal bedrooms with separate wardrobes, all with en suite bathrooms and terraces) \n\n– Lobby, living room, TV room – library, dining room, kitchen, cold and wine cellar – SPA, terrace bar and party terrace, 2 jacuzzi and swimming pool – garage 2 cars and parking 12 cars, security room \n\n– Mooring – direct sea access. A glass lift with panoramic views leads from the parking on the upper floor directly to the entertaining level. \n\nThe interiors are extremely bright, with large double French doors offering panoramic sea views, the decor is elegant, with cream marble floors and neutral coloured suede designer furniture. \n\nThe villa is equipped with the latest technology. It includes Plasma TV’s in each room, video and DVD system, Sky satellite, Crestron music system through the whole villa and garden, villa-wide internet access, Infra-red alarm system on each window plus security cameras, electric shutters and climate control throughout.\n\nThere is a fully equipped gym, a hammam and a jet shower room. The ‘Boffi’ professional kitchen is equipped with a cold room (equivalent to 6 fridges!), a Japanese hob for tepanyaki cuisine, regular hob, plate warmers, covers for 24, two dishwashers, two ovens, microwave and coffee machine and Viking wine coolers for 200 bottles. There is also an oversized Viking gas BBQ off the kitchen. A 3-car garage and additional parking for at least 7 cars.\n\nDistances: Nice 18km, Cannes 54km, Monaco 3.5km\n\nInformation on the risks to which this property is exposed is available on the Géorisques website : [hidden information]",
+        "image": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg",
+        "name": "CAP D'AIL - A Magnificent Waterfront Art Deco Villa",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 28922498.12,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Douglas Elliman Private Office"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/cap-d-ail-a-magnificent-waterfront-art-deco-villa-15390884"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden"
+  ]
+}

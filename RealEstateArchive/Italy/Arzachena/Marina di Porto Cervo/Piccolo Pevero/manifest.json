@@ -1,0 +1,553 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/waterfront-villa-serenity-in-porto-cervo-16295932",
+    "canonical_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/waterfront-villa-serenity-in-porto-cervo-16295932",
+    "site": "jamesedition",
+    "listing_id": "16295932",
+    "listing_reference": "06607",
+    "first_listed": "Oct 2, 2025",
+    "last_updated": "November 8, 2025",
+    "retrieved_at": "2026-08-28T00:32:15.549502Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3615,
+      "sha256": "4ae002abe4a4d4b2a928b1ed8dd61292bba57d8b318a39f5b23c4f676b6ae78a"
+    },
+    {
+      "path": "images/img-12ae9f4632e2.webp",
+      "bytes": 393062,
+      "sha256": "958ab3741e78aebd541bc7f1a263058d0fa2b03de2a368a08a13834ea4b5562c"
+    },
+    {
+      "path": "images/img-13ebe4f38fc8.webp",
+      "bytes": 245128,
+      "sha256": "ea2eab2746eb9ececa76d6356f27ffc90a72ad5b710eeb141062ecced9d1eab8"
+    },
+    {
+      "path": "images/img-2085b1c7c597.webp",
+      "bytes": 405472,
+      "sha256": "c9c7a36852270452af6452055380453dc07008e25db1aa429141a88acf969dfd"
+    },
+    {
+      "path": "images/img-262fa6be5a1a.webp",
+      "bytes": 449848,
+      "sha256": "8d46533f3a57063cb84a2a67997b4bc5f3ce03a3419ebf99d5d558fac4ac2eed"
+    },
+    {
+      "path": "images/img-26813acb43ae.webp",
+      "bytes": 789550,
+      "sha256": "5e87f4a2c45f9d69d391bcff2fb375fb654406c51fb25ca6cbf2c9b73a29fa34"
+    },
+    {
+      "path": "images/img-310747c5216f.webp",
+      "bytes": 121694,
+      "sha256": "539891951119a88e768af8b1eb4da91917723de7c35f0331342c38a7fcde702a"
+    },
+    {
+      "path": "images/img-47a64baea439.webp",
+      "bytes": 330944,
+      "sha256": "351c3341a9916fbd5c14f939087a83419f6c8fbe3e523c424eb1f4fca05cbeda"
+    },
+    {
+      "path": "images/img-4d50c66f42c6.webp",
+      "bytes": 271490,
+      "sha256": "4e9c9fe04f43b823a3bff614383214efb4a694624b9f1a3df642ce3a5ff49df0"
+    },
+    {
+      "path": "images/img-4fdf2805f7d6.webp",
+      "bytes": 571260,
+      "sha256": "84e3591a9dfd7e71341a6e3af510e112745faccfd362d4c4a60bd4bd9be79a53"
+    },
+    {
+      "path": "images/img-5414ad4ca34f.webp",
+      "bytes": 193784,
+      "sha256": "f047a24d0e2ef85e1d5e7c1c519485485a3ad3d5d004cb071d850d2ed4c557c5"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5d2b54565c44.webp",
+      "bytes": 391584,
+      "sha256": "ec3575f2dcded9754cbf462ce49558d973918d925061b7603c9fd067c526c64b"
+    },
+    {
+      "path": "images/img-5d69d37e82ee.webp",
+      "bytes": 204820,
+      "sha256": "0c5af8af48b5cb93b73324664b019fcf2dfded317c1cebe3a8b452672a74c70c"
+    },
+    {
+      "path": "images/img-676579845eb6.webp",
+      "bytes": 119430,
+      "sha256": "09ac433877dfbabe46f421268df956fe660031cfb9e3da2a7eaa191c975e8843"
+    },
+    {
+      "path": "images/img-6ae776a31546.webp",
+      "bytes": 418490,
+      "sha256": "1e1f65ec8f289dbe27751848b07b8f005e09c7dc02290811f2115f8323009591"
+    },
+    {
+      "path": "images/img-6c36849de8fb.webp",
+      "bytes": 155316,
+      "sha256": "44c32cd6f29ec4d079bc193af8211b182139ab82f1750ed4b519a783946375f1"
+    },
+    {
+      "path": "images/img-6e57918c5688.webp",
+      "bytes": 245820,
+      "sha256": "adce80f167154e1953f4324021fcf98148a55d95889541c9f29f9d2eca5f6da4"
+    },
+    {
+      "path": "images/img-7b2a0ce98534.webp",
+      "bytes": 164314,
+      "sha256": "c6813585a74a815701511f8e856038a8fc6e2a668d587d25863ef6e122d27230"
+    },
+    {
+      "path": "images/img-7e2de99907bb.webp",
+      "bytes": 821896,
+      "sha256": "65862416d0f8f14226d70aaf7fd39074460d92d11c35ace1c1e8d6c8556d6705"
+    },
+    {
+      "path": "images/img-8732c4f5c294.webp",
+      "bytes": 285308,
+      "sha256": "a3bd1ef6e1a05730a8941d2be66e7ff43a2603d5a9c300cf28781fa093eceee2"
+    },
+    {
+      "path": "images/img-8e4cfa28f555.webp",
+      "bytes": 838454,
+      "sha256": "779df6709e359b17d56b5a210f3ad3ead36819819fe297340d2eb4e4124f8412"
+    },
+    {
+      "path": "images/img-8fae5aa20b36.webp",
+      "bytes": 442962,
+      "sha256": "1b152cb8e784d149ce54170b770bb7ec202c222a986249f8394e5fe5f0a2e250"
+    },
+    {
+      "path": "images/img-9d09545bfa3b.webp",
+      "bytes": 705190,
+      "sha256": "41cf2e45aadf2da7f97365346b1f30b8877de1f8a4e30001f29d068e61d7db9c"
+    },
+    {
+      "path": "images/img-a97cea00b41e.webp",
+      "bytes": 731062,
+      "sha256": "1f5371215716fcc6fb28694457496d43be948b6df0d0905fddb69b77bd937ac3"
+    },
+    {
+      "path": "images/img-ac73e0e7921f.webp",
+      "bytes": 220068,
+      "sha256": "e522808464891731f897d6cf8a161bd17e8815a3b8205211ed76304eb79c1e26"
+    },
+    {
+      "path": "images/img-aef49d722ab3.webp",
+      "bytes": 226520,
+      "sha256": "57e285fa3341186eb057466aa522641fbeaae7f530da766a83f0767cff75b2d4"
+    },
+    {
+      "path": "images/img-b4572a9414cd.webp",
+      "bytes": 666254,
+      "sha256": "cec8f2a68e439c574c520cc4e037db6dd125d496255a081cb3125a7885d5e58e"
+    },
+    {
+      "path": "images/img-bba28057da19.webp",
+      "bytes": 184438,
+      "sha256": "c558918cc43994a0a88d684b06ca6ace8e7a2d33756a61b6002c99ae35f4f22e"
+    },
+    {
+      "path": "images/img-d0992a797703.webp",
+      "bytes": 165986,
+      "sha256": "d128fe53062029ad971c98e53746162bc6adad88c503b176252a42759faea635"
+    },
+    {
+      "path": "images/img-d637acd04db2.webp",
+      "bytes": 426450,
+      "sha256": "64d0c194ed6eb11da8f3e0614c45b5bee83eaa0903e597bf563e5a88d548fae3"
+    },
+    {
+      "path": "images/img-de3d9b5d0801.webp",
+      "bytes": 416842,
+      "sha256": "ce7e7d53c97fa479fe52b31e2c608a292c0f7ca96859bf68dbd1afd03ea0daea"
+    },
+    {
+      "path": "images/img-f5244835a03e.webp",
+      "bytes": 250188,
+      "sha256": "7f24b31ff7108b883d498225cc437a76ca77bedc7e41c58132659555ca1fbb89"
+    },
+    {
+      "path": "images/img-fa2f1764970c.webp",
+      "bytes": 432060,
+      "sha256": "ae97f4796c65360e567adc11ccfd2161cefcf6520832b2b6bf1b34758cee4ddc"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 26547,
+      "sha256": "a2b112d1358fcaddaacb2995df12bb90f499ee164ba78b97a3e3d4c272f48ab7"
+    },
+    {
+      "path": "source.html",
+      "bytes": 492996,
+      "sha256": "f041c760f54aa7ae7f7848850918f2596e8036f49211536d56c43e5dc833f088"
+    },
+    {
+      "path": "source.url",
+      "bytes": 109,
+      "sha256": "dd1858575022c1aa58f1cd9b867f0fdf45c911b33ee5263a3ceba1c7b3e8e38d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2200xxs.jpg",
+      "path": "images/img-b4572a9414cd.webp",
+      "media_type": "image/webp",
+      "bytes": 666254,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2200xxs.jpg",
+      "path": "images/img-a97cea00b41e.webp",
+      "media_type": "image/webp",
+      "bytes": 731062,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2200xxs.jpg",
+      "path": "images/img-9d09545bfa3b.webp",
+      "media_type": "image/webp",
+      "bytes": 705190,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2200xxs.jpg",
+      "path": "images/img-7e2de99907bb.webp",
+      "media_type": "image/webp",
+      "bytes": 821896,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2200xxs.jpg",
+      "path": "images/img-26813acb43ae.webp",
+      "media_type": "image/webp",
+      "bytes": 789550,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f2ca572d-d94e-49ee-84ff-f965827bc92d/je/2000xxs.jpg",
+      "path": "images/img-8e4cfa28f555.webp",
+      "media_type": "image/webp",
+      "bytes": 838454,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c6016d1b-6b88-4fcd-90a3-64fd3389e31a/je/2000xxs.jpg",
+      "path": "images/img-4fdf2805f7d6.webp",
+      "media_type": "image/webp",
+      "bytes": 571260,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/476c6d9e-270f-4f44-aef5-f314c3859d12/je/2000xxs.jpg",
+      "path": "images/img-de3d9b5d0801.webp",
+      "media_type": "image/webp",
+      "bytes": 416842,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/94a6ff60-36a5-4924-88a8-b0b8b067c2a4/je/2000xxs.jpg",
+      "path": "images/img-aef49d722ab3.webp",
+      "media_type": "image/webp",
+      "bytes": 226520,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5d154073-d9da-494d-901e-9276766d8967/je/2000xxs.jpg",
+      "path": "images/img-6e57918c5688.webp",
+      "media_type": "image/webp",
+      "bytes": 245820,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/f4e0c0d8-cdca-454a-ba8b-25f81123bbf2/je/2000xxs.jpg",
+      "path": "images/img-ac73e0e7921f.webp",
+      "media_type": "image/webp",
+      "bytes": 220068,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/4b4d1cd8-7fa8-440e-96cf-389e0f1aad64/je/2000xxs.jpg",
+      "path": "images/img-d637acd04db2.webp",
+      "media_type": "image/webp",
+      "bytes": 426450,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/36a7edf3-ed9e-43e5-9079-1d05eaa864ef/je/2000xxs.jpg",
+      "path": "images/img-bba28057da19.webp",
+      "media_type": "image/webp",
+      "bytes": 184438,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/c2cdb3c2-3207-414c-9087-500c24666f72/je/2000xxs.jpg",
+      "path": "images/img-5d69d37e82ee.webp",
+      "media_type": "image/webp",
+      "bytes": 204820,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/b9450919-7113-4b44-a2b1-74b59a99fb87/je/2000xxs.jpg",
+      "path": "images/img-fa2f1764970c.webp",
+      "media_type": "image/webp",
+      "bytes": 432060,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/83e4f719-61df-4cb1-9e88-b347e3bf5ad0/je/2000xxs.jpg",
+      "path": "images/img-262fa6be5a1a.webp",
+      "media_type": "image/webp",
+      "bytes": 449848,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/25c92afa-2d4f-43d4-87fc-40bc35615ab9/je/2000xxs.jpg",
+      "path": "images/img-4d50c66f42c6.webp",
+      "media_type": "image/webp",
+      "bytes": 271490,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/dc4b48ba-b658-48ad-a343-f4bc5f88bc97/je/2000xxs.jpg",
+      "path": "images/img-8fae5aa20b36.webp",
+      "media_type": "image/webp",
+      "bytes": 442962,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/b3e2b412-5c18-4731-8820-fe1decff1f09/je/2000xxs.jpg",
+      "path": "images/img-47a64baea439.webp",
+      "media_type": "image/webp",
+      "bytes": 330944,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/01a4dab8-e036-4a08-ba6f-f67ab4950418/je/2000xxs.jpg",
+      "path": "images/img-5d2b54565c44.webp",
+      "media_type": "image/webp",
+      "bytes": 391584,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/943e2606-b5bf-462a-b804-14854619e317/je/2000xxs.jpg",
+      "path": "images/img-7b2a0ce98534.webp",
+      "media_type": "image/webp",
+      "bytes": 164314,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/7c244a19-5765-4f86-88a2-9b8b8c8483be/je/2000xxs.jpg",
+      "path": "images/img-f5244835a03e.webp",
+      "media_type": "image/webp",
+      "bytes": 250188,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/10f9c44f-6550-40fc-b8db-7e42319c7d13/je/2000xxs.jpg",
+      "path": "images/img-8732c4f5c294.webp",
+      "media_type": "image/webp",
+      "bytes": 285308,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/37beba51-f4c9-40b9-8bab-8ce77f94d929/je/2000xxs.jpg",
+      "path": "images/img-2085b1c7c597.webp",
+      "media_type": "image/webp",
+      "bytes": 405472,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/2f886419-1fc5-44fe-9d0f-b9b182f6b548/je/2000xxs.jpg",
+      "path": "images/img-12ae9f4632e2.webp",
+      "media_type": "image/webp",
+      "bytes": 393062,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f8f2e774-555e-470f-af3a-14bfba2945c3/je/2000xxs.jpg",
+      "path": "images/img-6ae776a31546.webp",
+      "media_type": "image/webp",
+      "bytes": 418490,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/71c50a3d-3648-4784-8a09-d786486b8beb/je/2000xxs.jpg",
+      "path": "images/img-310747c5216f.webp",
+      "media_type": "image/webp",
+      "bytes": 121694,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c6c32d7f-5510-4808-b243-20e7ee3ea9ea/je/2000xxs.jpg",
+      "path": "images/img-d0992a797703.webp",
+      "media_type": "image/webp",
+      "bytes": 165986,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/ba029f80-30fe-4fbe-9529-5263e32f8c5a/je/2000xxs.jpg",
+      "path": "images/img-5414ad4ca34f.webp",
+      "media_type": "image/webp",
+      "bytes": 193784,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/491a33b5-66a4-4e68-afd5-181f997d9cf2/je/2000xxs.jpg",
+      "path": "images/img-6c36849de8fb.webp",
+      "media_type": "image/webp",
+      "bytes": 155316,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c5cdfa9d-d831-4f38-95c5-488bff267a39/je/2000xxs.jpg",
+      "path": "images/img-13ebe4f38fc8.webp",
+      "media_type": "image/webp",
+      "bytes": 245128,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/ab7d8c82-46f7-4305-8852-0e012d5aa32a/je/2000xxs.jpg",
+      "path": "images/img-676579845eb6.webp",
+      "media_type": "image/webp",
+      "bytes": 119430,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2827%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2828%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2829%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 33,
+    "images_existing": 0,
+    "images_failed": 13,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

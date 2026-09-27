@@ -1,0 +1,625 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/single-family-residence-in-hyannis-port-16730117",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/single-family-residence-in-hyannis-port-16730117",
+    "site": "jamesedition",
+    "listing_id": "16730117",
+    "listing_reference": "22505725",
+    "first_listed": "Dec 2, 2025",
+    "last_updated": "May 5",
+    "retrieved_at": "2026-06-19T08:41:56.348808Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2919,
+      "sha256": "daee66b21ca97e21efabb35c993a411e6fd4f3d40d0a6fbc39904d25a8adffa7"
+    },
+    {
+      "path": "images/img-0696c08d1ba9.webp",
+      "bytes": 236344,
+      "sha256": "12b922af412845e5feeefa9854b9d6bcb41c6e4adcec6b0d1a03f71f6660e038"
+    },
+    {
+      "path": "images/img-082edd96d204.webp",
+      "bytes": 257568,
+      "sha256": "1b3c4c45a67dc9d2909e99a3fb12838e50e851bc793dcddb316482097b1246fc"
+    },
+    {
+      "path": "images/img-0bb2d1aa115a.webp",
+      "bytes": 272454,
+      "sha256": "825ed4e83693a35ac5058bfa7e8d64ae04f46083709f89ab0f5de2c86673b026"
+    },
+    {
+      "path": "images/img-13613c01ac63.webp",
+      "bytes": 289518,
+      "sha256": "06a6aed918e901e02bfca1a90537ef5057bb45a0ce2f8944a6a22beb88194ca0"
+    },
+    {
+      "path": "images/img-136515d876fb.webp",
+      "bytes": 717274,
+      "sha256": "609daf3cfe00fc9a47149e303ef2babc2a075b97702370eb89fc714d6dddbb53"
+    },
+    {
+      "path": "images/img-15b045891d3e.webp",
+      "bytes": 182000,
+      "sha256": "216ff9dfc348d88be9724ad93370fac16d25b5479058c8011c6945c362fd2846"
+    },
+    {
+      "path": "images/img-1ad093f7cf3c.webp",
+      "bytes": 490710,
+      "sha256": "1bea483d2f09e0febdf94d7ce522d1f63efdbbeacd0085425b0702be257604ed"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-381e58645d48.webp",
+      "bytes": 321254,
+      "sha256": "076632703f9040fa5c9b8f2677797c1a55a414df1f404fcd6f8d72ed4746ca6a"
+    },
+    {
+      "path": "images/img-38f1fedd7c56.webp",
+      "bytes": 435242,
+      "sha256": "013f38f61b89453e9307a1ac20aee2c77266415186e7eafae90b1dcd2eef66e4"
+    },
+    {
+      "path": "images/img-3fdd5adecabd.webp",
+      "bytes": 182710,
+      "sha256": "35c3b194b295392f17635f600a821ebec1e3abb4239f7e5836669638f585c326"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-47e681069c85.webp",
+      "bytes": 459266,
+      "sha256": "679ebd87a294d83f76847b13e6a68a5e0aea048e400eb6efcf80a65a97dd898c"
+    },
+    {
+      "path": "images/img-4f221a767263.webp",
+      "bytes": 363994,
+      "sha256": "eadd72b0cf298ec761a5f2dfda6167f913bf31ff009fa6cd66c7d49ca04bf02a"
+    },
+    {
+      "path": "images/img-555b25e917c0.webp",
+      "bytes": 412376,
+      "sha256": "10e4963f6fd8eb4c6c7c3ce967d5f04d2ac6fbef81c437a1a861a7a63d27d6b3"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-59b742753beb.webp",
+      "bytes": 568626,
+      "sha256": "391abbd6e8c368dec027eb4dba0dbb9a8e3f7e8f465e6699fc1f9aa286d9517c"
+    },
+    {
+      "path": "images/img-66004cc7f17a.webp",
+      "bytes": 599072,
+      "sha256": "a0b77251d042d66e6d88b59de8432fd7aadd6ba5e63a8242ffb7802ccc9547ee"
+    },
+    {
+      "path": "images/img-68d2045be9c6.webp",
+      "bytes": 525142,
+      "sha256": "45de68161522d7b40c9397bf4dfa9d6e916e04ae595c7416a2a60ff42764d5f3"
+    },
+    {
+      "path": "images/img-6b636d1a60ac.webp",
+      "bytes": 426960,
+      "sha256": "67268b392e8d3f9ee5eee44c3ed68d7615df094dd523e069e1c81d15e8133c16"
+    },
+    {
+      "path": "images/img-795d3f551faa.webp",
+      "bytes": 565538,
+      "sha256": "edf07c3be44e4a2990a440e452d2472a48054fb0e536313926a2984a75306a60"
+    },
+    {
+      "path": "images/img-821c5d02d5d1.webp",
+      "bytes": 300814,
+      "sha256": "b1926a92b00f2192e3f4bd65a546538c970a3764eaae07dde6688eb5b578d82e"
+    },
+    {
+      "path": "images/img-87d04a4c9d00.webp",
+      "bytes": 312340,
+      "sha256": "bed07abbe5b2a093b3ae72ab32a4ab6c70d0939a7959f1f42cb26e14a110038c"
+    },
+    {
+      "path": "images/img-8c30674427cf.webp",
+      "bytes": 445214,
+      "sha256": "27d7b7ade5bafb9fda16553f6ce4d07bcb5bde5df43a5ebae801b9c8d18256df"
+    },
+    {
+      "path": "images/img-965c2fa336d3.webp",
+      "bytes": 467048,
+      "sha256": "1edf507bafd0a11e0fca8066f66963b1ad326325bcc66599e76c4095c22470df"
+    },
+    {
+      "path": "images/img-9721a81ac4e1.webp",
+      "bytes": 548646,
+      "sha256": "735b585fc287d921f25f33d2f0e8ddaa4addf798b776b6a059484b80f08e9ea5"
+    },
+    {
+      "path": "images/img-9936044cabe0.webp",
+      "bytes": 592350,
+      "sha256": "7cf51d526a3d231111569de1f96f7da3a2722c14e795c19eba13470854bc3dde"
+    },
+    {
+      "path": "images/img-9e721ec5d5af.webp",
+      "bytes": 560856,
+      "sha256": "68aba90638b9451b108ea273158f8bdc357a2dcd6e4511ab76c86253f7963ee4"
+    },
+    {
+      "path": "images/img-a55d7971bcc0.webp",
+      "bytes": 271710,
+      "sha256": "e4388b3591f272f2d737e6fb7bdd642bc29e4db96fb7347e2499ea07e52ba648"
+    },
+    {
+      "path": "images/img-c84bb0f91f90.webp",
+      "bytes": 268974,
+      "sha256": "16af99b4038d61936e16c09cad105ce14a91687486f2488cbd3aff25e329d9b2"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-d1c272ea07a4.webp",
+      "bytes": 232696,
+      "sha256": "601d04a249c5ea293f3f32ad9e7a65888ec19b36b3017f8014ba104ebdc1fa5f"
+    },
+    {
+      "path": "images/img-d4df2d17d14b.webp",
+      "bytes": 605688,
+      "sha256": "3826af98e7e69276ad04cdfe7a581d41b935129e1eca648bf1ffba16464e10c0"
+    },
+    {
+      "path": "images/img-d4e8d4262cab.webp",
+      "bytes": 534228,
+      "sha256": "3c5e4e1511e67735224410de7558f1baa15e34935d8e07727d18ae025971b6b9"
+    },
+    {
+      "path": "images/img-d6a5047ab804.webp",
+      "bytes": 249632,
+      "sha256": "a9faf630f42dc0485ab8d4c950bb8346629789aeb20ee40220224f1cba039113"
+    },
+    {
+      "path": "images/img-e0778c967d7c.webp",
+      "bytes": 321108,
+      "sha256": "5553d5a3d6ec2ea364b88817e8879a637cee8c5f47303a4b2efc089bd05389dc"
+    },
+    {
+      "path": "images/img-ec6e76c7a82f.webp",
+      "bytes": 381996,
+      "sha256": "7a89ecf4629c9c1fd7860dc6a601802817d17cb1914c62b9ae2f967cffd33b89"
+    },
+    {
+      "path": "images/img-f20263ce772c.webp",
+      "bytes": 415164,
+      "sha256": "32d9fea77721f4ff36e82b42b3aab11a190c1be43017e85c29c68fa95bfa112d"
+    },
+    {
+      "path": "images/img-f33412fe4cef.webp",
+      "bytes": 448802,
+      "sha256": "bb86527bbe18ad2c51a81ed95971302ab94b9f907dcb8a0bb6cfdce5f37e88e9"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 27874,
+      "sha256": "c0875d9163b3ea946c373564f4e0d568f0cd46d7bed024a3dffb0f8cf99233f0"
+    },
+    {
+      "path": "source.html",
+      "bytes": 463835,
+      "sha256": "19489b653c89602980ab4f12af6d856fc49dfc7f0eab664118b65c70211f921b"
+    },
+    {
+      "path": "source.url",
+      "bytes": 110,
+      "sha256": "c37d8417a891c148a89b48563f841c262fc046c6d2796cefd9777a890298a063"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/406c3d38-1f72-487f-9a90-9a115cf75f1c/je/2200xxs.jpg",
+      "path": "images/img-795d3f551faa.webp",
+      "media_type": "image/webp",
+      "bytes": 565538,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/f5c93c39-e7b6-4693-984e-f8f18e59dca4/je/2200xxs.jpg",
+      "path": "images/img-9721a81ac4e1.webp",
+      "media_type": "image/webp",
+      "bytes": 548646,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/9d0997da-4c63-4a3e-ac85-a7a04fa62061/je/2200xxs.jpg",
+      "path": "images/img-9936044cabe0.webp",
+      "media_type": "image/webp",
+      "bytes": 592350,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/14/40/46/e96cfb4c-82ba-45a3-b13c-dd2bfbdb0a45/je/2200xxs.jpg",
+      "path": "images/img-136515d876fb.webp",
+      "media_type": "image/webp",
+      "bytes": 717274,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/871b6c27-065f-4103-835c-d04e8c699862/je/2200xxs.jpg",
+      "path": "images/img-f33412fe4cef.webp",
+      "media_type": "image/webp",
+      "bytes": 448802,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/M00000307.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/7792600e-bd9c-4415-bb44-cc93fdb70623/je/2000xxs.jpg",
+      "path": "images/img-c84bb0f91f90.webp",
+      "media_type": "image/webp",
+      "bytes": 268974,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/ac7809a8-a376-4f8c-adc2-fa9b22f4ccbf/je/2000xxs.jpg",
+      "path": "images/img-6b636d1a60ac.webp",
+      "media_type": "image/webp",
+      "bytes": 426960,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/655f50b4-4738-4619-be24-87cdf7383ad5/je/2000xxs.jpg",
+      "path": "images/img-965c2fa336d3.webp",
+      "media_type": "image/webp",
+      "bytes": 467048,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/70cbfe4b-ed2f-461b-b79a-4dfa7a981777/je/2000xxs.jpg",
+      "path": "images/img-1ad093f7cf3c.webp",
+      "media_type": "image/webp",
+      "bytes": 490710,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/c232f657-1ed6-4e6e-b020-047073a91740/je/2000xxs.jpg",
+      "path": "images/img-38f1fedd7c56.webp",
+      "media_type": "image/webp",
+      "bytes": 435242,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/f97f6311-a801-4d45-adeb-b7c50aee9c6f/je/2000xxs.jpg",
+      "path": "images/img-9e721ec5d5af.webp",
+      "media_type": "image/webp",
+      "bytes": 560856,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/c9f91711-7419-4e62-987a-6130dbd1ab99/je/2000xxs.jpg",
+      "path": "images/img-555b25e917c0.webp",
+      "media_type": "image/webp",
+      "bytes": 412376,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/8b30e54e-6d15-4935-9915-c3edbc71f203/je/2000xxs.jpg",
+      "path": "images/img-a55d7971bcc0.webp",
+      "media_type": "image/webp",
+      "bytes": 271710,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/b654e510-6979-4647-8bd5-97c67405883a/je/2000xxs.jpg",
+      "path": "images/img-821c5d02d5d1.webp",
+      "media_type": "image/webp",
+      "bytes": 300814,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/0b683fa6-c274-4efc-96c5-8c7cac94bd93/je/2000xxs.jpg",
+      "path": "images/img-381e58645d48.webp",
+      "media_type": "image/webp",
+      "bytes": 321254,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/30267760-2ac8-4bdc-b4dc-0ec50366b823/je/2000xxs.jpg",
+      "path": "images/img-e0778c967d7c.webp",
+      "media_type": "image/webp",
+      "bytes": 321108,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/b22e538c-d253-4756-91a9-a2653affac22/je/2000xxs.jpg",
+      "path": "images/img-87d04a4c9d00.webp",
+      "media_type": "image/webp",
+      "bytes": 312340,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/914f2dd1-ef07-4aff-874a-f7266247ae71/je/2000xxs.jpg",
+      "path": "images/img-082edd96d204.webp",
+      "media_type": "image/webp",
+      "bytes": 257568,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/d6123d43-9acd-4077-a2eb-5ddf9dff8264/je/2000xxs.jpg",
+      "path": "images/img-0bb2d1aa115a.webp",
+      "media_type": "image/webp",
+      "bytes": 272454,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/f06951a3-ef73-43a4-a1d1-d883fc6294aa/je/2000xxs.jpg",
+      "path": "images/img-4f221a767263.webp",
+      "media_type": "image/webp",
+      "bytes": 363994,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/8806a668-ace6-4988-89d5-764fc67ac5e3/je/2000xxs.jpg",
+      "path": "images/img-8c30674427cf.webp",
+      "media_type": "image/webp",
+      "bytes": 445214,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/3638eb25-3aaf-449e-bcb0-a172f5045831/je/2000xxs.jpg",
+      "path": "images/img-66004cc7f17a.webp",
+      "media_type": "image/webp",
+      "bytes": 599072,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/bdfce581-feb6-4357-9d29-bc99a58caf7d/je/2000xxs.jpg",
+      "path": "images/img-59b742753beb.webp",
+      "media_type": "image/webp",
+      "bytes": 568626,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/3fc45152-a8bd-4a74-a2dc-84dad9c8d946/je/2000xxs.jpg",
+      "path": "images/img-47e681069c85.webp",
+      "media_type": "image/webp",
+      "bytes": 459266,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/13514540-5a31-4dd2-abbb-db327e77bcc3/je/2000xxs.jpg",
+      "path": "images/img-d6a5047ab804.webp",
+      "media_type": "image/webp",
+      "bytes": 249632,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/d331e2da-7a19-4f83-9cac-9f629f3d171a/je/2000xxs.jpg",
+      "path": "images/img-15b045891d3e.webp",
+      "media_type": "image/webp",
+      "bytes": 182000,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/bd312841-cb8c-4639-bca1-0b11e0f6b61e/je/2000xxs.jpg",
+      "path": "images/img-3fdd5adecabd.webp",
+      "media_type": "image/webp",
+      "bytes": 182710,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/6cb1b8e7-17d1-42a7-9b34-a763ba2e1ce4/je/2000xxs.jpg",
+      "path": "images/img-d4e8d4262cab.webp",
+      "media_type": "image/webp",
+      "bytes": 534228,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/1b7e01f5-dff1-4309-9486-cb79d6a83112/je/2000xxs.jpg",
+      "path": "images/img-d1c272ea07a4.webp",
+      "media_type": "image/webp",
+      "bytes": 232696,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/0ae9963e-3952-4eaf-ac93-d5a78aab203d/je/2000xxs.jpg",
+      "path": "images/img-13613c01ac63.webp",
+      "media_type": "image/webp",
+      "bytes": 289518,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/5f27d00a-2215-4180-a800-8e198ec97d1a/je/2000xxs.jpg",
+      "path": "images/img-0696c08d1ba9.webp",
+      "media_type": "image/webp",
+      "bytes": 236344,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/249c7569-5791-492b-877a-f31e7576b3df/je/2000xxs.jpg",
+      "path": "images/img-f20263ce772c.webp",
+      "media_type": "image/webp",
+      "bytes": 415164,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/6d5e6d96-9d19-47aa-92ce-24cc01996c28/je/2000xxs.jpg",
+      "path": "images/img-ec6e76c7a82f.webp",
+      "media_type": "image/webp",
+      "bytes": 381996,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/2b5c7e40-7d64-43cd-98cf-b51c72445de3/je/2000xxs.jpg",
+      "path": "images/img-d4df2d17d14b.webp",
+      "media_type": "image/webp",
+      "bytes": 605688,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/15/09/20/fb426da6-30a4-4acc-9e69-a8211f2f9e1d/je/2000xxs.jpg",
+      "path": "images/img-68d2045be9c6.webp",
+      "media_type": "image/webp",
+      "bytes": 525142,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/2200xxs%2819%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/2200xxs%2818%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyannis-port-ma-usa/Single%20Family%20Residence%20In%20Hyannis%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816730117%29_files/2200xxs%2817%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 39,
+    "images_existing": 0,
+    "images_failed": 12,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

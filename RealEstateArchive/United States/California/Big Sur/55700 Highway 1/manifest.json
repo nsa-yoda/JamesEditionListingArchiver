@@ -1,0 +1,541 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/big-sur-usa/a-muennig-masterpiece-above-the-sea-18133306",
+    "canonical_url": "https://www.jamesedition.com/real_estate/big-sur-usa/a-muennig-masterpiece-above-the-sea-18133306",
+    "site": "jamesedition",
+    "listing_id": "18133306",
+    "listing_reference": "ML82023264",
+    "first_listed": "Jun 11",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-06-19T08:18:35.876652Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2375,
+      "sha256": "d9ff605b9632c6ca8f600b92ee128a2e4e8d9d8d49e085b75c903dc92a4a27aa"
+    },
+    {
+      "path": "images/img-10303b1fe546.webp",
+      "bytes": 10352,
+      "sha256": "2a05310ce150f87055d38d0a5ad5d1ae28134d015c6ab16cef3bfaeafb7aba7e"
+    },
+    {
+      "path": "images/img-143ae4d140c7.webp",
+      "bytes": 144210,
+      "sha256": "6bc2ed382f3dc18a9f9d73564e11503c0bb17a15ddcae585c0b552c66b0fe3b5"
+    },
+    {
+      "path": "images/img-17769cf0c0cb.webp",
+      "bytes": 131850,
+      "sha256": "2e1d8521207a9b979819654f29bad0264abff06a2dc1d733c79a2c1dde5596d4"
+    },
+    {
+      "path": "images/img-17bd24bf4ad2.webp",
+      "bytes": 220248,
+      "sha256": "c1e2415fe93a4d79ac3fac18f2e2aae5cb7394f77072f6819bbca02da0dd6484"
+    },
+    {
+      "path": "images/img-19d97a639e63.webp",
+      "bytes": 128414,
+      "sha256": "e3089a6f8c0fa96665e7fe7ea14a027985b4531ba58fa4bcd0aab30a8c15097b"
+    },
+    {
+      "path": "images/img-1b02e6f5461b.webp",
+      "bytes": 116632,
+      "sha256": "d560fce92d7500d6b8ea95d27a4f85336835613170598f5663775c52dbd8fc6d"
+    },
+    {
+      "path": "images/img-26f448250ff5.webp",
+      "bytes": 144140,
+      "sha256": "b52ddea95bea7ef8cc1891468dc8f802a2f8d8ecf7e530bb749764191de8bb9a"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-2a3ac0430e05.webp",
+      "bytes": 115430,
+      "sha256": "fa7e358a01170e861d191e19e22755b05952acfcb877ef63e6182d93b04c0d42"
+    },
+    {
+      "path": "images/img-2c7983feffad.webp",
+      "bytes": 280794,
+      "sha256": "1edf6ea2e87399290126aaa514c5ca6ee37c0c0dea79ea584f581472c02ebcee"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-4171fc26a3af.webp",
+      "bytes": 164546,
+      "sha256": "4434afaba174eea08e2dd0d9cd5a0d37018cf34a166b36b4de71272dd832ea17"
+    },
+    {
+      "path": "images/img-52ad36fe9e85.webp",
+      "bytes": 430532,
+      "sha256": "8549a573bbedb555cfe00435c9db2955a65f432d27a8135700337dbc26ae90de"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5b6b5ac106cb.webp",
+      "bytes": 202770,
+      "sha256": "9ae5bcaa0f2d18defdf8993efc845c5dbb8fd4367e082e3e8e56b1ef4d71f766"
+    },
+    {
+      "path": "images/img-6f1ec5700fcc.webp",
+      "bytes": 180484,
+      "sha256": "1f470c31347a3614d52e78f5309317ea8b7a8196313ee1d21ce2d31523f6bd82"
+    },
+    {
+      "path": "images/img-757e0296ecfd.webp",
+      "bytes": 249216,
+      "sha256": "d80ae2110ef70af6a2127dd3401bfe6d66e0d9c9feb7758c4e5c5da2ab9a2827"
+    },
+    {
+      "path": "images/img-7aa16f75a093.webp",
+      "bytes": 184100,
+      "sha256": "c75bc123e1db788ee45cc2012bf5c3d9fa26128ba29074596d621bc71e60b3fc"
+    },
+    {
+      "path": "images/img-7c559e9e0eeb.webp",
+      "bytes": 250046,
+      "sha256": "b653f6a30d8655695ee08a7500503611597c061e959fd61c7605f40e2272d764"
+    },
+    {
+      "path": "images/img-88f55284e920.webp",
+      "bytes": 122266,
+      "sha256": "176f92d94f2809aa7db4b773bfdfe17efbbd83253ce16379e4e4e84cb28aeaa3"
+    },
+    {
+      "path": "images/img-93e54141bb07.webp",
+      "bytes": 373436,
+      "sha256": "496bf64d434ad158efd6d08791884ac3ac476518bac6aecd456459ba015207b0"
+    },
+    {
+      "path": "images/img-99520b1f0483.webp",
+      "bytes": 428106,
+      "sha256": "b87f4fa8d9ce86e1967a2e72af3b5cc73b2dcd3431fbea779983627e154982e4"
+    },
+    {
+      "path": "images/img-a4c4ee790c59.webp",
+      "bytes": 87436,
+      "sha256": "7195e32a38c6da195c18e3cf55c320aceacbf5bd22ae9fb34331575c9eb73c7c"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-cb20949bcc7b.webp",
+      "bytes": 388686,
+      "sha256": "43a88f5441a8c97453e3b8be0feceb66d7b032377d945baefa47f226a9933fc3"
+    },
+    {
+      "path": "images/img-d2c7c4d0b34b.webp",
+      "bytes": 274708,
+      "sha256": "62a0811a87ffb44c2861329098cb6420d25f6a25592d4d01635fc660ab4d32b5"
+    },
+    {
+      "path": "images/img-db24d52cf5a0.webp",
+      "bytes": 176672,
+      "sha256": "e584ef87642e1474b0e006e89a61d6645f16a011770aec01098a3890641858ee"
+    },
+    {
+      "path": "images/img-e3d4206e6cc7.webp",
+      "bytes": 129990,
+      "sha256": "fbb848e585d8783e659adea33de1030004572fcf1a7d08ec795f9b6a517b3a64"
+    },
+    {
+      "path": "images/img-f290a3f39105.webp",
+      "bytes": 258624,
+      "sha256": "55c20c81995616767c53c272d7ddd6a402971830b9c2df16ac0a858d72cee080"
+    },
+    {
+      "path": "images/img-f2fd58b1dfa9.webp",
+      "bytes": 167732,
+      "sha256": "1e4632c3c91abc946d7329d935938d326115928dc03f08d3d32cd67e9eb50c42"
+    },
+    {
+      "path": "images/img-f6e3729dc179.webp",
+      "bytes": 395386,
+      "sha256": "025faefefb4de8a02b5a44acb6305c211e5f2644d4756a2b241c8f32f8c31bae"
+    },
+    {
+      "path": "images/img-fadd8f02bc14.webp",
+      "bytes": 164568,
+      "sha256": "776516a741a9fc5ca6828b685ed38260b2bd445640006ca64b806f9a9eb7d538"
+    },
+    {
+      "path": "images/img-fe1909678bb4.webp",
+      "bytes": 333826,
+      "sha256": "aee26754186df471ef7002b743f55bddbfa1022917e6d165ae497eb5ec518491"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 24517,
+      "sha256": "5064a4611f3880e4689f02e1b4b8a516b12003dee979364ed7ccab851f53bee3"
+    },
+    {
+      "path": "source.html",
+      "bytes": 433924,
+      "sha256": "c4f6a14329c6dc95b86a22e448e8bf1d1960e548765bd0045f9d3aff2dd6f000"
+    },
+    {
+      "path": "source.url",
+      "bytes": 98,
+      "sha256": "a792f63eac973e4ec76145ff3259330b93bf7f44ab350eed1da18beed14eb7c9"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/50b2e72a-192b-4e82-84f3-b6d8ecd3ea6f/je/2200xxs.jpg",
+      "path": "images/img-7aa16f75a093.webp",
+      "media_type": "image/webp",
+      "bytes": 184100,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/9b132107-5a29-46b9-9131-6e2b7c555e7a/je/2200xxs.jpg",
+      "path": "images/img-a4c4ee790c59.webp",
+      "media_type": "image/webp",
+      "bytes": 87436,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/be490c71-32b9-43cf-a46d-e61b47acd32c/je/2200xxs.jpg",
+      "path": "images/img-fe1909678bb4.webp",
+      "media_type": "image/webp",
+      "bytes": 333826,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/b8e3f3e7-1489-4d93-a1bc-58ce25357049/je/2200xxs.jpg",
+      "path": "images/img-26f448250ff5.webp",
+      "media_type": "image/webp",
+      "bytes": 144140,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/5263ab03-7179-4819-a7d6-8b9c35cfa5c2/je/2200xxs.jpg",
+      "path": "images/img-143ae4d140c7.webp",
+      "media_type": "image/webp",
+      "bytes": 144210,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/15a7642d-64ed-47b2-ae7a-21853c182dee/je/2000xxs.jpg",
+      "path": "images/img-4171fc26a3af.webp",
+      "media_type": "image/webp",
+      "bytes": 164546,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/d3ee18da-faf2-4816-b35a-300f1d5f9816/je/2000xxs.jpg",
+      "path": "images/img-cb20949bcc7b.webp",
+      "media_type": "image/webp",
+      "bytes": 388686,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/f2b05f39-3f3b-4213-8d48-866469700522/je/2000xxs.jpg",
+      "path": "images/img-99520b1f0483.webp",
+      "media_type": "image/webp",
+      "bytes": 428106,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/276ded12-9331-441e-9f5b-e39c90d6cbd9/je/2000xxs.jpg",
+      "path": "images/img-17bd24bf4ad2.webp",
+      "media_type": "image/webp",
+      "bytes": 220248,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/762f603d-7f9a-4097-9754-4499ef73da89/je/2000xxs.jpg",
+      "path": "images/img-d2c7c4d0b34b.webp",
+      "media_type": "image/webp",
+      "bytes": 274708,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/ada1420f-773b-4aec-a73a-4c70dddcc04b/je/2000xxs.jpg",
+      "path": "images/img-88f55284e920.webp",
+      "media_type": "image/webp",
+      "bytes": 122266,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a9b7275c-77ae-4de1-af41-589e83c0d286/je/2000xxs.jpg",
+      "path": "images/img-5b6b5ac106cb.webp",
+      "media_type": "image/webp",
+      "bytes": 202770,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/856bb5ed-c5a2-4f22-ad20-7276709b144b/je/2000xxs.jpg",
+      "path": "images/img-6f1ec5700fcc.webp",
+      "media_type": "image/webp",
+      "bytes": 180484,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/1b66facc-591b-45c1-a46b-cc944fa5a67e/je/2000xxs.jpg",
+      "path": "images/img-1b02e6f5461b.webp",
+      "media_type": "image/webp",
+      "bytes": 116632,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/70d93f3c-e6f5-42dc-8112-717f39b79ceb/je/2000xxs.jpg",
+      "path": "images/img-2a3ac0430e05.webp",
+      "media_type": "image/webp",
+      "bytes": 115430,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/1acfce7a-b503-420f-85b9-233ec86f5933/je/2000xxs.jpg",
+      "path": "images/img-db24d52cf5a0.webp",
+      "media_type": "image/webp",
+      "bytes": 176672,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/b9897bb3-1cc7-44af-96d1-1e917e489191/je/2000xxs.jpg",
+      "path": "images/img-f2fd58b1dfa9.webp",
+      "media_type": "image/webp",
+      "bytes": 167732,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2c7e1f0b-49f4-43ad-be69-6eb866bec2ff/je/2000xxs.jpg",
+      "path": "images/img-17769cf0c0cb.webp",
+      "media_type": "image/webp",
+      "bytes": 131850,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/0c6bdf0e-fa2e-448b-bf09-71f650fb48d8/je/2000xxs.jpg",
+      "path": "images/img-19d97a639e63.webp",
+      "media_type": "image/webp",
+      "bytes": 128414,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/36bd0362-afb0-46fc-8e0f-59db667584e1/je/2000xxs.jpg",
+      "path": "images/img-93e54141bb07.webp",
+      "media_type": "image/webp",
+      "bytes": 373436,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/47a9284e-1202-4ca3-9aef-5fa0bb78bae5/je/2000xxs.jpg",
+      "path": "images/img-f290a3f39105.webp",
+      "media_type": "image/webp",
+      "bytes": 258624,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/b74b2474-d845-4298-97ad-0b92e2fafd49/je/2000xxs.jpg",
+      "path": "images/img-2c7983feffad.webp",
+      "media_type": "image/webp",
+      "bytes": 280794,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8dae08e8-c52f-46b0-a888-a8d6a609a64e/je/2000xxs.jpg",
+      "path": "images/img-fadd8f02bc14.webp",
+      "media_type": "image/webp",
+      "bytes": 164568,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/0a1b1049-c8ee-469b-b71a-d13fe92e2e7e/je/2000xxs.jpg",
+      "path": "images/img-e3d4206e6cc7.webp",
+      "media_type": "image/webp",
+      "bytes": 129990,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8607751f-2d76-4e3e-8f15-96732f8e78bc/je/2000xxs.jpg",
+      "path": "images/img-f6e3729dc179.webp",
+      "media_type": "image/webp",
+      "bytes": 395386,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/e2959981-973d-47d4-9e22-e06568e2de6e/je/2000xxs.jpg",
+      "path": "images/img-52ad36fe9e85.webp",
+      "media_type": "image/webp",
+      "bytes": 430532,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a022bd11-4168-40ca-8e57-1311cce3664d/je/2000xxs.jpg",
+      "path": "images/img-757e0296ecfd.webp",
+      "media_type": "image/webp",
+      "bytes": 249216,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/36b5b683-ba89-4623-9947-5073b090b7f2/je/2000xxs.jpg",
+      "path": "images/img-7c559e9e0eeb.webp",
+      "media_type": "image/webp",
+      "bytes": 250046,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/5e926de4-98c4-4ff5-a145-e52b0e69c944/je/2000xxs.jpg",
+      "path": "images/img-10303b1fe546.webp",
+      "media_type": "image/webp",
+      "bytes": 10352,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/2200xxs%289%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/2200xxs%2810%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Muennig%20Masterpiece%20Above%20The%20Sea%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133306%29_files/2200xxs%2811%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 33,
+    "images_existing": 0,
+    "images_failed": 11,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

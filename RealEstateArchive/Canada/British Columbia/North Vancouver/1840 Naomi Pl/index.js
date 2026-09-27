@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Canada/British Columbia/North Vancouver/1840 Naomi Pl",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 33592
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 21984
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 4072
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 471249
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 123
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

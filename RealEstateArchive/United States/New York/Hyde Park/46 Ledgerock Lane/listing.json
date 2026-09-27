@@ -1,0 +1,387 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46-ledgerock-lane-hyde-park-ny-12538-15064503",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46-ledgerock-lane-hyde-park-ny-12538-15064503",
+    "site": "jamesedition",
+    "listing_id": "15064503",
+    "listing_reference": "2c2yzj",
+    "first_listed": "Jan 6, 2025",
+    "last_updated": "June 2",
+    "retrieved_at": "2026-06-16T03:43:18.472372Z"
+  },
+  "location": {
+    "address": "46 Ledgerock Lane, Hyde Park, NY 12538, New York, United States",
+    "street": "46 Ledgerock Lane",
+    "municipality": "Hyde Park",
+    "region": "New York",
+    "postal_code": "12538",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.8126,-73.94325",
+    "latitude": 41.8126,
+    "longitude": -73.94325
+  },
+  "property": {
+    "title": "46 Ledgerock Lane, Hyde Park, Ny 12538",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 11250000,
+      "currency": "USD",
+      "display": "$11,250,000"
+    },
+    "price_per_area": {
+      "amount": 760,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$760"
+    },
+    "bedrooms": 5,
+    "bathrooms": 8,
+    "interior_area": {
+      "value": 14800,
+      "unit": "sqft",
+      "display": "14,800 Sqft"
+    },
+    "lot_area": {
+      "value": 10.69,
+      "display": "10.69 Ac lot"
+    },
+    "year_built": 2009,
+    "photo_count": 71,
+    "video_url": "https://www.youtube.com/embed/-ss6NVMWy2g?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=-ss6NVMWy2g\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "Ledgerock is a modern masterpiece by modernist architect, Lee Ledbetter and the only estate in the Hudson Valley that lies DIRECTLY on a bluff overlooking the Hudson River.  Back on the market after undergoing significant infrastructure improvements and with significant price improvement, this one-of-a-kind estate on 9+ private acres offers the best Hudson River \u0026amp; Catskill Mountain views available.   Constructed from the finest woods and exotic stone available,  the French limestone \u0026amp; glass compound boasts a 15,000+/-SF main residence offering 5 bedrooms and 7.5 bathroom plus a similarly styled guest house offering 2 bedrooms and 2 baths.  No home can every be built on the wanter again as current set-back laws require new structures be built at least 100 ft from the water.  Ledgerock is designed to entertain both indoors and out.  Interior features include a breathtaking, glass-walled great room with a fireplace, a formal dining room, library, billiard room, gym and \u0026amp; massive dine-in kitchen with separate butler’s pantry.  The corner primary suite floats above the Hudson River like a houseboat and features an incomparable spa-like bathroom that includes two large dressing rooms and an office. \nOutside, there are two levels of travertine decks and terraces that extend from all major rooms offering jaw-dropping river and mountain views.  Outdoor features include an infinity-edge saltwater pool, an elevated hot tub, fire-pit, an outdoor kitchen and a covered open-air living room. \nOther features include Geothermal heating/cooling, radiant heated stone floors, state of the art security and ample indoor parking to satisfy a collector.  \nLedgerock is one of the most extraordinary homes available in the Hudson Valley and accessed by Metro North Trains, boats/yacht from the adjacent Poughkeepsie Yacht Club and 90 minute drive from Manhattan.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Bar",
+      "Basement",
+      "Elevator",
+      "Equestrian",
+      "Fire Pit",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Helipad",
+      "Jacuzzi",
+      "Library",
+      "Mountain View",
+      "Office",
+      "Outdoor Kitchen",
+      "Parking",
+      "Pool",
+      "Privacy",
+      "Riverfront",
+      "Steam Room",
+      "Terrace",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Jason Karadus",
+    "agent_profile_url": "https://www.jamesedition.com/agents/jason-karadus-1181386",
+    "agency": "Corcoran Country Living",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/corcoran-country-living-120364",
+    "agency_address": "51-3 East Market Street, 12572, Rhinebeck, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/06/10/11/51/5ae1b230-c845-455b-804b-3e0e97886286/je/2200xxs.jpg",
+      "file": "004-c617e031.webp",
+      "media_type": "image/webp",
+      "bytes": 797446,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/06/10/11/51/b371f7d1-5cc5-401f-8104-f506daf619e8/je/2200xxs.jpg",
+      "file": "009-f8b54239.webp",
+      "media_type": "image/webp",
+      "bytes": 443548,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/19/15/25/16/48752ac8-ed9c-49e3-91a2-b61523b4f93e/je/2200xxs.jpg",
+      "file": "014-9d05aa23.webp",
+      "media_type": "image/webp",
+      "bytes": 394684,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/18/16/42/49/7251bfcd-6576-425f-9ed4-fc411d7e28b8/je/2200xxs.jpg",
+      "file": "019-e4176f25.webp",
+      "media_type": "image/webp",
+      "bytes": 230356,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/18/16/42/49/734c104b-acdd-422c-84c3-88821caae5ec/je/2200xxs.jpg",
+      "file": "024-d08745a7.webp",
+      "media_type": "image/webp",
+      "bytes": 335254,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "039-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "040-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "041-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "042-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/06/09/18/03/31/cbf8a846-9225-40bf-95fb-130de623ae5d/je/80x80xc.jpg",
+      "file": "043-c9229294.webp",
+      "media_type": "image/webp",
+      "bytes": 1490,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa",
+              "name": "Hyde Park"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46-ledgerock-lane-hyde-park-ny-12538-15064503",
+              "name": "46 Ledgerock Lane, Hyde Park, Ny 12538"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Ledgerock is a modern masterpiece by modernist architect, Lee Ledbetter and the only estate in the Hudson Valley that lies DIRECTLY on a bluff overlooking the Hudson River.  Back on the market after undergoing significant infrastructure improvements and with significant price improvement, this one-of-a-kind estate on 9+ private acres offers the best Hudson River \u0026amp; Catskill Mountain views available.   Constructed from the finest woods and exotic stone available,  the French limestone \u0026amp; glass compound boasts a 15,000+/-SF main residence offering 5 bedrooms and 7.5 bathroom plus a similarly styled guest house offering 2 bedrooms and 2 baths.  No home can every be built on the wanter again as current set-back laws require new structures be built at least 100 ft from the water.  Ledgerock is designed to entertain both indoors and out.  Interior features include a breathtaking, glass-walled great room with a fireplace, a formal dining room, library, billiard room, gym and \u0026amp; massive dine-in kitchen with separate butler’s pantry.  The corner primary suite floats above the Hudson River like a houseboat and features an incomparable spa-like bathroom that includes two large dressing rooms and an office. \nOutside, there are two levels of travertine decks and terraces that extend from all major rooms offering jaw-dropping river and mountain views.  Outdoor features include an infinity-edge saltwater pool, an elevated hot tub, fire-pit, an outdoor kitchen and a covered open-air living room. \nOther features include Geothermal heating/cooling, radiant heated stone floors, state of the art security and ample indoor parking to satisfy a collector.  \nLedgerock is one of the most extraordinary homes available in the Hudson Valley and accessed by Metro North Trains, boats/yacht from the adjacent Poughkeepsie Yacht Club and 90 minute drive from Manhattan.",
+        "image": "https://img.jamesedition.com/listing_images/2025/01/06/10/11/51/5ae1b230-c845-455b-804b-3e0e97886286/je/1040x620xc.jpg",
+        "name": "46 Ledgerock Lane, Hyde Park, Ny 12538",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 11250000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Corcoran Country Living"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46-ledgerock-lane-hyde-park-ny-12538-15064503"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%285%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%286%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%287%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%288%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%289%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

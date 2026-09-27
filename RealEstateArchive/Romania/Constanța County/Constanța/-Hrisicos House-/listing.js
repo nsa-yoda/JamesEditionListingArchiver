@@ -1,0 +1,336 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/constanta-romania/hrisicos-house-architect-louis-givert-the-emblematic-seaside-landmark-16946093",
+    "canonical_url": "https://www.jamesedition.com/real_estate/constanta-romania/hrisicos-house-architect-louis-givert-the-emblematic-seaside-landmark-16946093",
+    "site": "jamesedition",
+    "listing_id": "16946093",
+    "listing_reference": "736ZL8",
+    "first_listed": "Jan 16",
+    "last_updated": "April 29",
+    "retrieved_at": "2026-06-16T03:43:20.008989Z"
+  },
+  "location": {
+    "address": "Str. Traian 1, Constanta, CT, Constanța, Constanța County, Romania",
+    "street": "\"Hrisicos House\"",
+    "municipality": "Constanța",
+    "region": "Constanța County",
+    "country": "Romania",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=44.1744210771085,28.6577697615131",
+    "latitude": 44.1744210771085,
+    "longitude": 28.6577697615131
+  },
+  "property": {
+    "title": "\"Hrisicos House\", Architect Louis Givért, The Emblematic Seaside Landmark",
+    "type": "Other",
+    "availability": "InStock",
+    "price": {
+      "amount": 4117971.17,
+      "currency": "USD",
+      "display": "$4,117,971"
+    },
+    "price_per_area": {
+      "amount": 209,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$209"
+    },
+    "bedrooms": 3,
+    "bathrooms": 27,
+    "interior_area": {
+      "value": 19612,
+      "unit": "sqft",
+      "display": "19,612 Sqft"
+    },
+    "year_built": 1900,
+    "photo_count": 53,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6379742802112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "“When Ioan N. Roman with master Caragiale and Barbu Delavrancea emptied jars of amber Samos and Tenedos wine, in the small corner room at Hrisicos they modestly devised not only Romanian Poetry and Prose - but Romania itself...” - Constantin N. SarryA landmark in the city’s history, Hrisicos House was built in 1900 to the plans of French architect Louis Givért. The building stands out through its eclectic style, dominated by neoclassical features with Art Nouveau details characteristic of the early 20th century. It served as a reference point for later developments in Ovidiu Square, designed mainly by architect Adolf Lintz in Viennese style. Hrisicos House is one of the oldest surviving buildings from the area’s original layout, marking the corner of Traian and Pescarilor Streets (the latter having since disappeared).Commissioned by Gheorghe Hrisicos, once a “simple shop boy” who quickly became a well-known wine merchant and central property owner, the house was inaugurated with great pomp in the autumn of 1903. Conceived as a luxury hotel, with a restaurant offering both seafood and international cuisine on the ground floor, it soon became a landmark of Constanța. Bucharest’s elites, accustomed to the “Carol” or “Regina” hotels, now flocked to “Hrisicos.” Yet the owner’s success was short-lived: sued by defrauded banks and merchants, he was branded by the press as “Constanța’s swindler banker.” Hrisicos fled to Russia, was extradited, and sentenced to two years in prison. The scandal and widely publicized trial gave Hrisicos House unmatched notoriety, while its restaurant and hotel were frequented by notable figures such as Ion Luca Caragiale, Barbu Ștefănescu Delavrancea, Alexandru Vlahuță, and Take Ionescu.The building was devastated during the First World War and reopened only in October 1924 as the headquarters of the Popular Bank Steagul Dobrogei. During the Second World War, it became the favored residence of German military commanders overseeing the city and coastal operations. Immediately after August 23, 1944, the balcony apartment was occupied by the Soviet military commander of Constanța. Under the communist regime, the property was nationalized, converted into a military barracks and command post, and, following major renovations in 1974, functioned as a restaurant, wine cellar, and guesthouse under the name “Pelican.”After the fall of communism, the building hosted various banks but suffered significant interior degradation. In 2006, it was purchased by its current owners, who initiated an extensive process of restoration and rehabilitation. It has since been converted into a modern high-end bistro and a four-star hotel with 23 rooms.Regaining the stature and function of its beginnings, Hrisicos House, which has retained its original name in collective memory despite all transformations, has once again become a vibrant symbol of Constanța, a silent witness to major secrets and political decisions of the turbulent 20th century.Sources:Doina Păuleanu, Constanţa: spectacolul modernității târzii: (1878–1928), Arcade Publishing, Bucharest, 2006Doina Păuleanu, Historical MemoirViorel Ovidiu Lipovan, Gabriel-Octavian Nicolae, Constanța Remember 1895–1945, Constanța: Ovidius University Press, 2010[hidden information][hidden information][hidden information]",
+    "features": [
+      "Balcony",
+      "Coastal",
+      "Outdoor Living Space",
+      "Terrace",
+      "Water View",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Constantin Prisecaru",
+    "agency": "Romania Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/romania-sotheby-s-international-realty-108769",
+    "agency_address": "Cesianu-Racovita Palace Strada C. A. Rosetti 5, 010281, Bucharest, Bucuresti, Romania"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/2200xxs.jpg",
+      "file": "004-1ba4ddfa.webp",
+      "media_type": "image/webp",
+      "bytes": 529610,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/0aa78278-dacb-4989-95ba-b38407e135ba/je/2200xxs.jpg",
+      "file": "009-b314a6fe.webp",
+      "media_type": "image/webp",
+      "bytes": 325278,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/ad1400ed-f4c5-4423-8b96-c496349c14de/je/2200xxs.jpg",
+      "file": "014-acf50e8f.webp",
+      "media_type": "image/webp",
+      "bytes": 371636,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/58e27f4a-0959-4e5f-be55-cdfb25a4917d/je/2200xxs.jpg",
+      "file": "019-6ab0bb01.webp",
+      "media_type": "image/webp",
+      "bytes": 286394,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/44966d25-0d89-482f-8092-ccfcb5fa69ac/je/2200xxs.jpg",
+      "file": "024-9ec98795.webp",
+      "media_type": "image/webp",
+      "bytes": 496604,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/romania",
+              "name": "Romania"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/constan-a-county-romania",
+              "name": "Constanța County"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/constant-romania",
+              "name": "Constanța"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/constanta-romania/hrisicos-house-architect-louis-givert-the-emblematic-seaside-landmark-16946093",
+              "name": "\"Hrisicos House\", Architect Louis Givért, The Emblematic Seaside Landmark"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "“When Ioan N. Roman with master Caragiale and Barbu Delavrancea emptied jars of amber Samos and Tenedos wine, in the small corner room at Hrisicos they modestly devised not only Romanian Poetry and Prose - but Romania itself...” - Constantin N. SarryA landmark in the city’s history, Hrisicos House was built in 1900 to the plans of French architect Louis Givért. The building stands out through its eclectic style, dominated by neoclassical features with Art Nouveau details characteristic of the early 20th century. It served as a reference point for later developments in Ovidiu Square, designed mainly by architect Adolf Lintz in Viennese style. Hrisicos House is one of the oldest surviving buildings from the area’s original layout, marking the corner of Traian and Pescarilor Streets (the latter having since disappeared).Commissioned by Gheorghe Hrisicos, once a “simple shop boy” who quickly became a well-known wine merchant and central property owner, the house was inaugurated with great pomp in the autumn of 1903. Conceived as a luxury hotel, with a restaurant offering both seafood and international cuisine on the ground floor, it soon became a landmark of Constanța. Bucharest’s elites, accustomed to the “Carol” or “Regina” hotels, now flocked to “Hrisicos.” Yet the owner’s success was short-lived: sued by defrauded banks and merchants, he was branded by the press as “Constanța’s swindler banker.” Hrisicos fled to Russia, was extradited, and sentenced to two years in prison. The scandal and widely publicized trial gave Hrisicos House unmatched notoriety, while its restaurant and hotel were frequented by notable figures such as Ion Luca Caragiale, Barbu Ștefănescu Delavrancea, Alexandru Vlahuță, and Take Ionescu.The building was devastated during the First World War and reopened only in October 1924 as the headquarters of the Popular Bank Steagul Dobrogei. During the Second World War, it became the favored residence of German military commanders overseeing the city and coastal operations. Immediately after August 23, 1944, the balcony apartment was occupied by the Soviet military commander of Constanța. Under the communist regime, the property was nationalized, converted into a military barracks and command post, and, following major renovations in 1974, functioned as a restaurant, wine cellar, and guesthouse under the name “Pelican.”After the fall of communism, the building hosted various banks but suffered significant interior degradation. In 2006, it was purchased by its current owners, who initiated an extensive process of restoration and rehabilitation. It has since been converted into a modern high-end bistro and a four-star hotel with 23 rooms.Regaining the stature and function of its beginnings, Hrisicos House, which has retained its original name in collective memory despite all transformations, has once again become a vibrant symbol of Constanța, a silent witness to major secrets and political decisions of the turbulent 20th century.Sources:Doina Păuleanu, Constanţa: spectacolul modernității târzii: (1878–1928), Arcade Publishing, Bucharest, 2006Doina Păuleanu, Historical MemoirViorel Ovidiu Lipovan, Gabriel-Octavian Nicolae, Constanța Remember 1895–1945, Constanța: Ovidius University Press, 2010[hidden information][hidden information][hidden information]",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/1040x620xc.jpg",
+        "name": "\"Hrisicos House\", Architect Louis Givért, The Emblematic Seaside Landmark",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 4117971.17,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Romania Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/constanta-romania/hrisicos-house-architect-louis-givert-the-emblematic-seaside-landmark-16946093"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden"
+  ]
+};

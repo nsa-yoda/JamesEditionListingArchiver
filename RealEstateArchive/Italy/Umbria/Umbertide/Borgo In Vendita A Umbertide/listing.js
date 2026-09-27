@@ -1,0 +1,364 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/umbertide-italy/borgo-in-vendita-a-umbertide-comunaglia-16323504",
+    "canonical_url": "https://www.jamesedition.com/real_estate/umbertide-italy/borgo-in-vendita-a-umbertide-comunaglia-16323504",
+    "site": "jamesedition",
+    "listing_id": "16323504",
+    "listing_reference": "CBI134-2230-197",
+    "first_listed": "Oct 7, 2025",
+    "last_updated": "April 6",
+    "retrieved_at": "2026-06-16T03:43:21.854068Z"
+  },
+  "location": {
+    "address": "Umbertide, Umbria, Italy",
+    "street": "Borgo In Vendita A Umbertide",
+    "municipality": "Umbertide",
+    "region": "Umbria",
+    "country": "Italy",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=43.3370095,12.235166",
+    "latitude": 43.3370095,
+    "longitude": 12.235166
+  },
+  "property": {
+    "title": "Borgo In Vendita A Umbertide, Comunaglia",
+    "type": "Castle",
+    "availability": "InStock",
+    "price": {
+      "amount": 14461868.1,
+      "currency": "USD",
+      "display": "$14,461,868"
+    },
+    "price_per_area": {
+      "amount": 298,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$298"
+    },
+    "bedrooms": 45,
+    "bathrooms": 50,
+    "interior_area": {
+      "value": 48438,
+      "unit": "sqft",
+      "display": "48,438 Sqft"
+    },
+    "photo_count": 55,
+    "video_url": "https://www.youtube.com/embed/Bb_PeZ_U34g?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=Bb_PeZ_U34g\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "PROPERTY DESCRIPTION\n Have you ever dreamed of owning an entire medieval village in the green heart of Italy between Umbria and Tuscany?\n Nestled in the rolling hills overlooking the Tiber Valley, this magnificent 9th-century medieval village enjoys a secluded location yet is just five minutes from the main amenities.\n The Borgo is nestled in seven hectares of fenced parkland, accessible by three independent entrances and surrounded by over thirty hectares of land consisting of ancient woods and cultivated fields: an olive grove with over 1,200 productive olive trees, approximately three hectares of vineyards, lush walnut groves, and a rich truffle ground that produces prized truffles.\n The presence of water is guaranteed by two artificial lakes and several wells that guarantee irrigation.\n The whole creates a natural and private setting, perfectly integrated into the surrounding landscape. \n Paved streets and stone squares harmoniously connect the nineteen residential units, distributed to preserve privacy and panoramic views. The total covered area of approximately 4,200 square meters is comprised of approximately 4,200 square meters of living space, all featuring private gardens that enhance their exclusivity.\n Seven of these homes were completed with great attention to detail: well-maintained, bright spaces with high-quality finishes. Some also boast private pools and exclusive garages. \n The others are instead offered in an advanced raw state, offering the opportunity to shape the interiors and finishes according to your needs in order to create your own style.\n \n \n STATE AND FINISHES\n The restoration of the village, of the highest quality, was carried out with extreme care to respect the medieval soul of the original architecture. \n The ancient stones and cladding recovered from historic buildings have been integrated with great sensitivity, while the foundations and walls have been consolidated using advanced anti-seismic techniques, thus ensuring solidity and safety.\n These interventions have transformed the ancient rural nucleus into a refined residential complex, enhanced by modern technological features, such as the central heating system powered by wood chips serving the already completed units and a 20kW photovoltaic system.\n Furthermore, features such as the historic church dating back to 1126 and the turret that stands in the center of the village recall its origins, give great character to the complex and testify to the charm of a distant era.\n \n \n OUTDOOR SPACES\n The hamlet's common areas are designed to offer a wide range of possibilities: the large shared infinity pool, along with the separate hot tub, overlook the landscape, offering an extraordinary glimpse of the surrounding hills. \n The tennis court, perfectly nestled in the heart of the landscape, adds a touch of liveliness and relaxation, while the paths that wind through nature, green meadows, and shaded areas intertwine in a silent embrace, creating an environment where balance and welcome reign.\n The vast expanse of agricultural and wooded land surrounding the village further enhances the exclusivity that characterizes this property.\n \n \n USE AND POTENTIAL\n Thanks to its multifaceted nature, the property could be converted into a multi-building hotel or a luxury countryside resort with an authentic and exclusive atmosphere, attracting a high-end international clientele. At the same time, the hamlet also lends itself to being a private residence of rare elegance and a secluded oasis immersed in greenery, far from the chaos of the city yet equipped with all contemporary comforts.",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Fire Pit",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Gas Stovetop",
+      "High Ceiling",
+      "Jacuzzi",
+      "Kitchen island",
+      "Modern",
+      "Mountain View",
+      "Panoramic / Scenic View",
+      "Pergola",
+      "Pool",
+      "Privacy",
+      "Stone Countertops",
+      "Tennis Court",
+      "Terrace"
+    ]
+  },
+  "broker": {
+    "agent": "Valentino Ronsisvalle",
+    "agent_profile_url": "https://www.jamesedition.com/agents/valentino-ronsisvalle-1577592",
+    "agency": "Coldwell Banker Best Properties",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/coldwell-banker-best-properties-175243",
+    "agency_address": "Piazzale Bellucci, 1, 06121, Perugia, Italy"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/2200xxs.jpg",
+      "file": "004-f6b6915f.webp",
+      "media_type": "image/webp",
+      "bytes": 423624,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/2200xxs.jpg",
+      "file": "009-c61eb4fe.webp",
+      "media_type": "image/webp",
+      "bytes": 416660,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/2200xxs.jpg",
+      "file": "014-39275cef.webp",
+      "media_type": "image/webp",
+      "bytes": 562592,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/2200xxs.jpg",
+      "file": "019-61cf75e2.webp",
+      "media_type": "image/webp",
+      "bytes": 474108,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/2200xxs.jpg",
+      "file": "024-0e30f352.webp",
+      "media_type": "image/webp",
+      "bytes": 453852,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2024/10/04/05/07/50/0cd1e026-8a33-4ee0-b922-fb9ccf57a1b3/je/80x80xc.jpg",
+      "file": "039-e7e6b8b3.webp",
+      "media_type": "image/webp",
+      "bytes": 1172,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/italy",
+              "name": "Italy"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/umbria-italy",
+              "name": "Umbria"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/perugia-umb-italy",
+              "name": "Province of Perugia"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/umbertide-italy",
+              "name": "Umbertide"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/umbertide-italy/borgo-in-vendita-a-umbertide-comunaglia-16323504",
+              "name": "Borgo in vendita a Umbertide, Comunaglia"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "PROPERTY DESCRIPTION\n Have you ever dreamed of owning an entire medieval village in the green heart of Italy between Umbria and Tuscany?\n Nestled in the rolling hills overlooking the Tiber Valley, this magnificent 9th-century medieval village enjoys a secluded location yet is just five minutes from the main amenities.\n The Borgo is nestled in seven hectares of fenced parkland, accessible by three independent entrances and surrounded by over thirty hectares of land consisting of ancient woods and cultivated fields: an olive grove with over 1,200 productive olive trees, approximately three hectares of vineyards, lush walnut groves, and a rich truffle ground that produces prized truffles.\n The presence of water is guaranteed by two artificial lakes and several wells that guarantee irrigation.\n The whole creates a natural and private setting, perfectly integrated into the surrounding landscape. \n Paved streets and stone squares harmoniously connect the nineteen residential units, distributed to preserve privacy and panoramic views. The total covered area of approximately 4,200 square meters is comprised of approximately 4,200 square meters of living space, all featuring private gardens that enhance their exclusivity.\n Seven of these homes were completed with great attention to detail: well-maintained, bright spaces with high-quality finishes. Some also boast private pools and exclusive garages. \n The others are instead offered in an advanced raw state, offering the opportunity to shape the interiors and finishes according to your needs in order to create your own style.\n \n \n STATE AND FINISHES\n The restoration of the village, of the highest quality, was carried out with extreme care to respect the medieval soul of the original architecture. \n The ancient stones and cladding recovered from historic buildings have been integrated with great sensitivity, while the foundations and walls have been consolidated using advanced anti-seismic techniques, thus ensuring solidity and safety.\n These interventions have transformed the ancient rural nucleus into a refined residential complex, enhanced by modern technological features, such as the central heating system powered by wood chips serving the already completed units and a 20kW photovoltaic system.\n Furthermore, features such as the historic church dating back to 1126 and the turret that stands in the center of the village recall its origins, give great character to the complex and testify to the charm of a distant era.\n \n \n OUTDOOR SPACES\n The hamlet's common areas are designed to offer a wide range of possibilities: the large shared infinity pool, along with the separate hot tub, overlook the landscape, offering an extraordinary glimpse of the surrounding hills. \n The tennis court, perfectly nestled in the heart of the landscape, adds a touch of liveliness and relaxation, while the paths that wind through nature, green meadows, and shaded areas intertwine in a silent embrace, creating an environment where balance and welcome reign.\n The vast expanse of agricultural and wooded land surrounding the village further enhances the exclusivity that characterizes this property.\n \n \n USE AND POTENTIAL\n Thanks to its multifaceted nature, the property could be converted into a multi-building hotel or a luxury countryside resort with an authentic and exclusive atmosphere, attracting a high-end international clientele. At the same time, the hamlet also lends itself to being a private residence of rare elegance and a secluded oasis immersed in greenery, far from the chaos of the city yet equipped with all contemporary comforts.",
+        "image": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg",
+        "name": "Borgo in vendita a Umbertide, Comunaglia",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 14461868.1,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Coldwell Banker Best Properties"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/umbertide-italy/borgo-in-vendita-a-umbertide-comunaglia-16323504"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+  ]
+};

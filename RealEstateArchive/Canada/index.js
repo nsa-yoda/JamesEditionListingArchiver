@@ -1,0 +1,17 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Canada",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "British Columbia",
+      "href": "British%20Columbia/index.html"
+    },
+    {
+      "name": "Ontario",
+      "href": "Ontario/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

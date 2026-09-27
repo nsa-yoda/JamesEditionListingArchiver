@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kalinowo-poland/luxury-manor-in-the-masurian-lake-district-masuria-arte-15077402",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/luxury-manor-in-the-masurian-lake-district-masuria-arte-15077402",
+    "site": "jamesedition",
+    "listing_id": "15077402",
+    "listing_reference": "R5CR4J",
+    "first_listed": "Jan 10, 2025",
+    "last_updated": "November 27, 2025",
+    "retrieved_at": "2026-06-16T03:43:29.590926Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4779,
+      "sha256": "503a301c91b35d265f0917e9cd325f0babedb58e99aac992b52bc17266e37285"
+    },
+    {
+      "path": "images/004-2507310d.webp",
+      "bytes": 634648,
+      "sha256": "19151da55082bdcd8fb2e3297a977ddcf42ec8df6bba23bad5aa0e287c84a80b"
+    },
+    {
+      "path": "images/009-21c40fab.webp",
+      "bytes": 612854,
+      "sha256": "243e9a6c1ebb4fb4d13b6eb3ad25004e891bf301a035baaa62a9127cd8c49c25"
+    },
+    {
+      "path": "images/014-dbe8be5c.webp",
+      "bytes": 478112,
+      "sha256": "e933366d80412df0fbbc2b00141666e3bc2cefa58426f2c00def7baea3721ff4"
+    },
+    {
+      "path": "images/019-0517479c.webp",
+      "bytes": 701430,
+      "sha256": "0360a5730fc558e8bdb21ac947752b88f3585c32dfdfd231356f25c0cdd4bc01"
+    },
+    {
+      "path": "images/024-9422a829.webp",
+      "bytes": 444676,
+      "sha256": "b3a5d8532326d272e93be0b198f02b0177e9c3ecf97db1563064ece1c7097306"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16754,
+      "sha256": "b7c207e55b7dba549961d247437bed1fe0ff6c1f008d0e3aa9df0028da4afd51"
+    },
+    {
+      "path": "source.html",
+      "bytes": 310788,
+      "sha256": "2937acfbe06a5cd16fb993482860b0dd201a7c0c7ff824e01494704c32bfb90d"
+    },
+    {
+      "path": "source.url",
+      "bytes": 122,
+      "sha256": "816f22a86ca8af8064a6df01f89aea13ebfb771a3a6edcba2ef55ae200e62a05"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/10/22/42/30/abb49866-537d-4f25-b6a4-9fb70dc01a3c/je/2200xxs.jpg",
+      "path": "images/004-2507310d.webp",
+      "media_type": "image/webp",
+      "bytes": 634648,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/Luxury%20Manor%20In%20The%20Masurian%20In%20Kalinowo,%20Warmian%20Masurian%20Voivodeship,%20Poland%20For%20Sale%20%2815077402%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/10/22/42/30/6c0246db-5395-458a-8039-1292b1198838/je/2200xxs.jpg",
+      "path": "images/009-21c40fab.webp",
+      "media_type": "image/webp",
+      "bytes": 612854,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/Luxury%20Manor%20In%20The%20Masurian%20In%20Kalinowo,%20Warmian%20Masurian%20Voivodeship,%20Poland%20For%20Sale%20%2815077402%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/10/22/42/30/32710ec6-dbd8-4c6a-b886-8369e20b7617/je/2200xxs.jpg",
+      "path": "images/014-dbe8be5c.webp",
+      "media_type": "image/webp",
+      "bytes": 478112,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/Luxury%20Manor%20In%20The%20Masurian%20In%20Kalinowo,%20Warmian%20Masurian%20Voivodeship,%20Poland%20For%20Sale%20%2815077402%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/10/22/42/30/cab1a186-2bd6-405c-ba04-4ea2c7ca7fc6/je/2200xxs.jpg",
+      "path": "images/019-0517479c.webp",
+      "media_type": "image/webp",
+      "bytes": 701430,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/Luxury%20Manor%20In%20The%20Masurian%20In%20Kalinowo,%20Warmian%20Masurian%20Voivodeship,%20Poland%20For%20Sale%20%2815077402%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/10/22/42/30/d439fd00-c49a-48d6-8ac1-53e313557c84/je/2200xxs.jpg",
+      "path": "images/024-9422a829.webp",
+      "media_type": "image/webp",
+      "bytes": 444676,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/Luxury%20Manor%20In%20The%20Masurian%20In%20Kalinowo,%20Warmian%20Masurian%20Voivodeship,%20Poland%20For%20Sale%20%2815077402%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/Luxury%20Manor%20In%20The%20Masurian%20In%20Kalinowo,%20Warmian%20Masurian%20Voivodeship,%20Poland%20For%20Sale%20%2815077402%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/Luxury%20Manor%20In%20The%20Masurian%20In%20Kalinowo,%20Warmian%20Masurian%20Voivodeship,%20Poland%20For%20Sale%20%2815077402%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kalinowo-poland/Luxury%20Manor%20In%20The%20Masurian%20In%20Kalinowo,%20Warmian%20Masurian%20Voivodeship,%20Poland%20For%20Sale%20%2815077402%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

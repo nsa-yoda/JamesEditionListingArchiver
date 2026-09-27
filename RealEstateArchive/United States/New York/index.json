@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "path": "United States/New York",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Ancramdale",
+      "href": "Ancramdale/index.html"
+    },
+    {
+      "name": "Au Sable Forks",
+      "href": "Au%20Sable%20Forks/index.html"
+    },
+    {
+      "name": "Binghamton",
+      "href": "Binghamton/index.html"
+    },
+    {
+      "name": "Briarcliff Manor",
+      "href": "Briarcliff%20Manor/index.html"
+    },
+    {
+      "name": "Canaan",
+      "href": "Canaan/index.html"
+    },
+    {
+      "name": "Hyde Park",
+      "href": "Hyde%20Park/index.html"
+    },
+    {
+      "name": "Larchmont",
+      "href": "Larchmont/index.html"
+    },
+    {
+      "name": "Lloyd Harbor",
+      "href": "Lloyd%20Harbor/index.html"
+    },
+    {
+      "name": "Long Lake",
+      "href": "Long%20Lake/index.html"
+    },
+    {
+      "name": "Monticello",
+      "href": "Monticello/index.html"
+    },
+    {
+      "name": "Mount Kisco",
+      "href": "Mount%20Kisco/index.html"
+    },
+    {
+      "name": "New York",
+      "href": "New%20York/index.html"
+    },
+    {
+      "name": "Old Brookville",
+      "href": "Old%20Brookville/index.html"
+    },
+    {
+      "name": "Pleasant Valley",
+      "href": "Pleasant%20Valley/index.html"
+    },
+    {
+      "name": "Pound Ridge",
+      "href": "Pound%20Ridge/index.html"
+    },
+    {
+      "name": "Rhinecliff",
+      "href": "Rhinecliff/index.html"
+    },
+    {
+      "name": "Sleepy Hollow",
+      "href": "Sleepy%20Hollow/index.html"
+    },
+    {
+      "name": "Stone Ridge",
+      "href": "Stone%20Ridge/index.html"
+    },
+    {
+      "name": "Tuxedo Park",
+      "href": "Tuxedo%20Park/index.html"
+    },
+    {
+      "name": "Upper Brookville",
+      "href": "Upper%20Brookville/index.html"
+    },
+    {
+      "name": "Warwick",
+      "href": "Warwick/index.html"
+    },
+    {
+      "name": "Wassaic",
+      "href": "Wassaic/index.html"
+    },
+    {
+      "name": "Windham",
+      "href": "Windham/index.html"
+    },
+    {
+      "name": "Woodstock",
+      "href": "Woodstock/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

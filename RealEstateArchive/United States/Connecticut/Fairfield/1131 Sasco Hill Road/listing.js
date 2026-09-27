@@ -1,0 +1,503 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/residential-fairfield-16746545",
+    "canonical_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/residential-fairfield-16746545",
+    "site": "jamesedition",
+    "listing_id": "16746545",
+    "listing_reference": "2-24084663",
+    "first_listed": "Dec 4, 2025",
+    "last_updated": "April 15",
+    "retrieved_at": "2026-06-19T08:34:04.854527Z"
+  },
+  "location": {
+    "address": "1131 Sasco Hill Road, Fairfield, Connecticut, United States",
+    "street": "1131 Sasco Hill Road",
+    "municipality": "Fairfield",
+    "region": "Connecticut",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.1226534,-73.27306639999999",
+    "latitude": 41.1226534,
+    "longitude": -73.27306639999999
+  },
+  "property": {
+    "title": "Residential Fairfield",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 25000000,
+      "currency": "USD",
+      "display": "$25,000,000"
+    },
+    "bedrooms": 6,
+    "bathrooms": 8,
+    "year_built": 2002,
+    "photo_count": 30,
+    "description": "Sasco Point- A Rare Waterfront Estate. Perched on over 11 acres with 450 feet directly on Long Island Sound, Sasco Point is an extraordinary coastal retreat. Nestled at the end of prestigious Sasco Hill Road, this architecturally stunning estate blends Swedish, Dutch, and Moorish influences, creating a residence that is as elegant as it is timeless. A discreet gated entrance leads to a winding drive, revealing a breathtaking landscape of curated gardens, rolling lawns, and panoramic water views. Designed for both grand entertaining and intimate gatherings, the estate features a newly built multi-car garage with a second-floor art studio and play space, a new pool, birch garden, and an expansive patio, all seamlessly integrated with the natural beauty of the surroundings. A private dock with stairs to the secluded beach provides direct waterfront access, while a newly added wine cellar and lower-level suite with a full bathroom enhance the home’s luxurious amenities. Recent upgrades, including advanced irrigation, outdoor lighting, new A/V system, ensure modern convenience without compromising the estate’s historic charm. Featured in Architectural Digest as a new house with an old soul, the interiors are a masterclass in refined elegance. Every space is thoughtfully curated with serene color palettes, exquisite craftsmanship, and breathtaking water views from nearly every room. Sasco Point is truly one of America’s most distinguished waterfront estates. Luxury Perfected!",
+    "features": [
+      "Coastal",
+      "Garage",
+      "Garden",
+      "Pool",
+      "Privacy",
+      "Water View",
+      "Waterfront",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Andrew Whiteley",
+    "agent_license": "#8005",
+    "agency": "Brown Harris Stevens - Southport",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/brown-harris-stevens-southport-513210",
+    "agency_address": "167 Old Post Road, 06890, Southport, Connecticut, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/2200xxs.jpg",
+      "file": "img-8c58bfec768d.webp",
+      "media_type": "image/webp",
+      "bytes": 651324,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/2200xxs.jpg",
+      "file": "img-c6c9e021f60b.webp",
+      "media_type": "image/webp",
+      "bytes": 547794,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/2200xxs.jpg",
+      "file": "img-033ffab6f997.webp",
+      "media_type": "image/webp",
+      "bytes": 561062,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/2200xxs.jpg",
+      "file": "img-57e2afd18adf.webp",
+      "media_type": "image/webp",
+      "bytes": 610362,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/2200xxs.jpg",
+      "file": "img-c1fb5695bb98.webp",
+      "media_type": "image/webp",
+      "bytes": 309982,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/9e548245-744f-48fc-a696-180293d7a070/je/2000xxs.jpg",
+      "file": "img-cc7e84105579.webp",
+      "media_type": "image/webp",
+      "bytes": 105240,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/fb77fd7b-5f10-401c-94a2-27ab06af43c7/je/2000xxs.jpg",
+      "file": "img-6cbf53c22cd0.webp",
+      "media_type": "image/webp",
+      "bytes": 71400,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a404aa5c-ef3d-430b-9a57-1f836fbd32f5/je/2000xxs.jpg",
+      "file": "img-cc43166f449d.webp",
+      "media_type": "image/webp",
+      "bytes": 394984,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/8055e902-deb9-4775-b500-52768129e3fa/je/2000xxs.jpg",
+      "file": "img-c5f6e42e8431.webp",
+      "media_type": "image/webp",
+      "bytes": 262510,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/97a135f1-bea9-429c-90f7-7eac91f8fad6/je/2000xxs.jpg",
+      "file": "img-1592b0db5afd.webp",
+      "media_type": "image/webp",
+      "bytes": 280064,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/95e58edf-bd76-4925-998b-aa68f34b652c/je/2000xxs.jpg",
+      "file": "img-56e35153179e.webp",
+      "media_type": "image/webp",
+      "bytes": 244906,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/1d85d010-8a8a-4cdb-90b9-55b8628dcd2b/je/2000xxs.jpg",
+      "file": "img-fbb3b759d090.webp",
+      "media_type": "image/webp",
+      "bytes": 285758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/aab85b5e-79c4-4e7f-9c79-5bef50649f26/je/2000xxs.jpg",
+      "file": "img-ae8a89b634c2.webp",
+      "media_type": "image/webp",
+      "bytes": 270152,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/dbe1e44e-6ae9-4256-a064-c4e87e17a70e/je/2000xxs.jpg",
+      "file": "img-e7e56db0eb6f.webp",
+      "media_type": "image/webp",
+      "bytes": 256298,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/12b37786-3f59-4891-83e1-40b33a8565cf/je/2000xxs.jpg",
+      "file": "img-74c51fcf2cd6.webp",
+      "media_type": "image/webp",
+      "bytes": 140490,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/686e4f4b-a90e-4076-ba77-2876380f8360/je/2000xxs.jpg",
+      "file": "img-e1324c87849d.webp",
+      "media_type": "image/webp",
+      "bytes": 166780,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/9ccfcd10-1193-4834-ab3f-6f1cdb266be6/je/2000xxs.jpg",
+      "file": "img-60a725f477c0.webp",
+      "media_type": "image/webp",
+      "bytes": 314666,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb67059b-fc90-470e-b915-ce330bf440c2/je/2000xxs.jpg",
+      "file": "img-00c0e9e9211e.webp",
+      "media_type": "image/webp",
+      "bytes": 166906,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/8114970d-759d-42cb-b2e7-1a911564f1f0/je/2000xxs.jpg",
+      "file": "img-d766b4fbe97d.webp",
+      "media_type": "image/webp",
+      "bytes": 400114,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a5a1aab8-77c4-4fae-b622-59d1fa4f0616/je/2000xxs.jpg",
+      "file": "img-4147f6700ed9.webp",
+      "media_type": "image/webp",
+      "bytes": 371030,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/ce8390db-53d4-4ca3-8bdd-23392049f788/je/2000xxs.jpg",
+      "file": "img-5b62d20f7af3.webp",
+      "media_type": "image/webp",
+      "bytes": 217038,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/eb413517-4624-4126-ac60-0c35cceeb2ca/je/2000xxs.jpg",
+      "file": "img-29e09fcde384.webp",
+      "media_type": "image/webp",
+      "bytes": 65520,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/9adbd509-a79a-45c4-8fdf-c28ab623b9cc/je/2000xxs.jpg",
+      "file": "img-55eb33c4edca.webp",
+      "media_type": "image/webp",
+      "bytes": 285206,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/2b7c3212-4f44-49a2-82bd-fe43eb71787f/je/2000xxs.jpg",
+      "file": "img-a48c04458fec.webp",
+      "media_type": "image/webp",
+      "bytes": 170784,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/0a61e340-9c04-410b-a587-7392ba0d2f87/je/2000xxs.jpg",
+      "file": "img-c152cf6d161d.webp",
+      "media_type": "image/webp",
+      "bytes": 281454,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/baf2fff8-a4b0-4dad-a0dd-072642bfbe25/je/2000xxs.jpg",
+      "file": "img-e562a7534eba.webp",
+      "media_type": "image/webp",
+      "bytes": 264772,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a3b33625-1895-4ef6-9b6c-fe47f5071143/je/2000xxs.jpg",
+      "file": "img-29e3bc522baf.webp",
+      "media_type": "image/webp",
+      "bytes": 183420,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b7400457-f857-4071-80c1-8f04254a70fa/je/2000xxs.jpg",
+      "file": "img-bca272d3ea7c.webp",
+      "media_type": "image/webp",
+      "bytes": 151720,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f8fc2ac3-29bd-4f10-bba7-210b681b1569/je/2000xxs.jpg",
+      "file": "img-623734ba33a8.webp",
+      "media_type": "image/webp",
+      "bytes": 129042,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/e276c9e0-c95f-4757-84e4-3f8c1308e564/je/2000xxs.jpg",
+      "file": "img-d529fa5f5cc1.webp",
+      "media_type": "image/webp",
+      "bytes": 169220,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ct-united-states",
+              "name": "Connecticut"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/fairfield-ct-usa",
+              "name": "Fairfield"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/residential-fairfield-16746545",
+              "name": "Residential Fairfield"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Sasco Point- A Rare Waterfront Estate. Perched on over 11 acres with 450 feet directly on Long Island Sound, Sasco Point is an extraordinary coastal retreat. Nestled at the end of prestigious Sasco Hill Road, this architecturally stunning estate blends Swedish, Dutch, and Moorish influences, creating a residence that is as elegant as it is timeless. A discreet gated entrance leads to a winding drive, revealing a breathtaking landscape of curated gardens, rolling lawns, and panoramic water views. Designed for both grand entertaining and intimate gatherings, the estate features a newly built multi-car garage with a second-floor art studio and play space, a new pool, birch garden, and an expansive patio, all seamlessly integrated with the natural beauty of the surroundings. A private dock with stairs to the secluded beach provides direct waterfront access, while a newly added wine cellar and lower-level suite with a full bathroom enhance the home's luxurious amenities. Recent upgrades, including advanced irrigation, outdoor lighting, new A/V system, ensure modern convenience without compromising the estate's historic charm. Featured in Architectural Digest as a new house with an old soul, the interiors are a masterclass in refined elegance. Every space is thoughtfully curated with serene color palettes, exquisite craftsmanship, and breathtaking water views from nearly every room. Sasco Point is truly one of America's most distinguished waterfront estates. Luxury Perfected!",
+        "image": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/1040x620xc.jpg",
+        "name": "Residential Fairfield",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 25000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Brown Harris Stevens - Southport"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/residential-fairfield-16746545"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs%282%29.jpg: HTTP 403 Forbidden"
+  ]
+};

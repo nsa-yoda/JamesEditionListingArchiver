@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Sleepy Hollow",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "48 Raafenberg Road",
+      "href": "48%20Raafenberg%20Road/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

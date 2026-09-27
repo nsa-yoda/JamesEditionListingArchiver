@@ -1,0 +1,154 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Japan/Tokyo/Setagaya City/Akatsutsumi 3 Chome Residence/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-044fbc6d7865.webp",
+      "href": "img-044fbc6d7865.webp",
+      "size": 252776
+    },
+    {
+      "name": "img-074d222e88ca.webp",
+      "href": "img-074d222e88ca.webp",
+      "size": 230836
+    },
+    {
+      "name": "img-0ad518e0360e.webp",
+      "href": "img-0ad518e0360e.webp",
+      "size": 207030
+    },
+    {
+      "name": "img-2619d30278b0.webp",
+      "href": "img-2619d30278b0.webp",
+      "size": 266124
+    },
+    {
+      "name": "img-27f35e8084d0.webp",
+      "href": "img-27f35e8084d0.webp",
+      "size": 234152
+    },
+    {
+      "name": "img-2cef7855cd16.webp",
+      "href": "img-2cef7855cd16.webp",
+      "size": 303960
+    },
+    {
+      "name": "img-32b3685c3f03.webp",
+      "href": "img-32b3685c3f03.webp",
+      "size": 238634
+    },
+    {
+      "name": "img-3323f32c621e.webp",
+      "href": "img-3323f32c621e.webp",
+      "size": 222158
+    },
+    {
+      "name": "img-3356b8914a4e.webp",
+      "href": "img-3356b8914a4e.webp",
+      "size": 232790
+    },
+    {
+      "name": "img-34bd0422e5ce.webp",
+      "href": "img-34bd0422e5ce.webp",
+      "size": 110278
+    },
+    {
+      "name": "img-45b1551230bf.webp",
+      "href": "img-45b1551230bf.webp",
+      "size": 238030
+    },
+    {
+      "name": "img-540c4eb272d1.webp",
+      "href": "img-540c4eb272d1.webp",
+      "size": 159380
+    },
+    {
+      "name": "img-54f8a141582a.webp",
+      "href": "img-54f8a141582a.webp",
+      "size": 330666
+    },
+    {
+      "name": "img-55954bb86f88.webp",
+      "href": "img-55954bb86f88.webp",
+      "size": 249924
+    },
+    {
+      "name": "img-57242b8ef18d.webp",
+      "href": "img-57242b8ef18d.webp",
+      "size": 1004
+    },
+    {
+      "name": "img-62e231b50667.webp",
+      "href": "img-62e231b50667.webp",
+      "size": 242746
+    },
+    {
+      "name": "img-780f1c2a3012.webp",
+      "href": "img-780f1c2a3012.webp",
+      "size": 293030
+    },
+    {
+      "name": "img-7b3bd8ddc6ad.webp",
+      "href": "img-7b3bd8ddc6ad.webp",
+      "size": 186516
+    },
+    {
+      "name": "img-7eb97a92764f.webp",
+      "href": "img-7eb97a92764f.webp",
+      "size": 153160
+    },
+    {
+      "name": "img-7efebf51ee41.webp",
+      "href": "img-7efebf51ee41.webp",
+      "size": 227240
+    },
+    {
+      "name": "img-7fb981b0e164.webp",
+      "href": "img-7fb981b0e164.webp",
+      "size": 323888
+    },
+    {
+      "name": "img-8be163bc242c.webp",
+      "href": "img-8be163bc242c.webp",
+      "size": 347682
+    },
+    {
+      "name": "img-a26e7aa6bd25.webp",
+      "href": "img-a26e7aa6bd25.webp",
+      "size": 211978
+    },
+    {
+      "name": "img-a332bd136d88.webp",
+      "href": "img-a332bd136d88.webp",
+      "size": 205336
+    },
+    {
+      "name": "img-bf460ff9e857.webp",
+      "href": "img-bf460ff9e857.webp",
+      "size": 213954
+    },
+    {
+      "name": "img-c5e2a5acfee4.webp",
+      "href": "img-c5e2a5acfee4.webp",
+      "size": 217254
+    },
+    {
+      "name": "img-d60b6e46d491.webp",
+      "href": "img-d60b6e46d491.webp",
+      "size": 146962
+    },
+    {
+      "name": "img-e2b6c4ad3255.webp",
+      "href": "img-e2b6c4ad3255.webp",
+      "size": 271640
+    },
+    {
+      "name": "img-e9af0720c8d6.webp",
+      "href": "img-e9af0720c8d6.webp",
+      "size": 274498
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

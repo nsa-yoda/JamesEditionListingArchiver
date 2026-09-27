@@ -1,0 +1,322 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-17813258",
+    "canonical_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-17813258",
+    "site": "jamesedition",
+    "listing_id": "17813258",
+    "listing_reference": "993197",
+    "first_listed": "May 1",
+    "last_updated": "May 16",
+    "retrieved_at": "2026-06-16T03:43:36.718761Z"
+  },
+  "location": {
+    "address": "235 Cantrell Road, Monticello, New York, United States",
+    "street": "235 Cantrell Road",
+    "municipality": "Monticello",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.621557,-74.684835",
+    "latitude": 41.621557,
+    "longitude": -74.684835
+  },
+  "property": {
+    "title": "Single Family Residence In Monticello",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 2500000,
+      "currency": "USD",
+      "display": "$2,500,000"
+    },
+    "price_per_area": {
+      "amount": 693,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$693"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "interior_area": {
+      "value": 3606,
+      "unit": "sqft",
+      "display": "3,606 Sqft"
+    },
+    "lot_area": {
+      "value": 43.49,
+      "display": "43.49 Ac lot"
+    },
+    "year_built": 2009,
+    "photo_count": 50,
+    "description": "A once-in-a-lifetime private stone garden estate has officially arrived on the market — an extraordinary hidden sanctuary in Monticello.\nEvoking the charm of a secluded fairytale retreat, this breathtaking property offers unparalleled privacy, natural beauty, and exceptional long-term investment potential. Encompassing approximately 43.48 acres of pristine land, the estate is surrounded by lush forests, expansive meadows, and a serene natural lake/pond spanning approximately 3.5 acres. The tranquil setting, crisp mountain air, and peaceful atmosphere provide a remarkable escape from city life, while still being conveniently located just approximately two hours from New York City.\nWhether envisioned as a private compound, luxury vacation estate, wellness retreat, wedding venue, boutique resort, farm stay, or future development opportunity, this property presents a rare blank canvas with limitless possibilities.\nThis exceptional estate is an incredibly rare offering in Monticello. Located only minutes from Resorts World Catskills, and within easy reach of Woodbury Common Premium Outlets, fine dining, shopping, entertainment, and year-round recreational attractions.\nThe residence itself is thoughtfully designed with oversized windows that flood the interiors with natural light, highlighting the warm estate-style ambiance and rich wood craftsmanship throughout. The first floor features multiple expansive living and entertainment spaces ideal for hosting gatherings, along with a spacious kitchen, formal dining area, storage room, full bathroom, and a practical mudroom complete with laundry and ample storage for coats and footwear. There is a French double door that separates the studying room and the dining room. The open-concept estate kitchen is equipped with an oven, dishwasher, and refrigerator.\nThe second floor offers an inviting additional living area, a luxurious primary suite with an adjoining full bathroom, a guest suite with its own private full bathroom, two additional bedrooms, and another separate full bathroom. There is also an attic.\nThe unfinished basement, complete with a separate entrance, offers tremendous potential for customization — ideal for a recreation lounge, home theater, fitness center, executive office, wine cellar, or expanded living quarters.\nAdditional highlights include central heating and cooling systems, spacious and functional layouts, exceptional privacy, and comfortable room configurations throughout the home.\nProperty Specifications: Approximately 3,606 sq ft of interior living space, built in 2009, situated on approximately 43.48 acres of land, featuring a Colonial-style single dwelling residence with an attached 1-car garage.\nRR2 Zoning — Potential for Multiple Luxury Homes\nThe true value of this extraordinary offering extends far beyond the residence itself — it lies within the land, the natural resources, the serenity, and the unmatched setting. A truly rare Upstate New York estate showcasing remarkable natural beauty, fresh mountain air, and exceptional feng shui qualities.",
+    "features": [
+      "Basement",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Investment Property",
+      "Laundry Room",
+      "Office",
+      "Privacy",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Winzone Realty Inc - Elmhurst",
+    "agency": "Winzone Realty Inc - Elmhurst",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/winzone-realty-inc-elmhurst-558650",
+    "agency_address": "Elmhurst, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/edd07a29-1624-4cde-9abc-82424c634005/je/2200xxs.jpg",
+      "file": "004-839a4655.webp",
+      "media_type": "image/webp",
+      "bytes": 680136,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/a48bf304-db84-4337-b3ea-8b3febbb8a76/je/2200xxs.jpg",
+      "file": "009-4ae23a63.webp",
+      "media_type": "image/webp",
+      "bytes": 517560,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/c53fbe59-fb2f-4c2b-843f-c0cc9aaaca71/je/2200xxs.jpg",
+      "file": "014-3efcee90.webp",
+      "media_type": "image/webp",
+      "bytes": 361074,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/5ce0eddc-750e-4149-94c4-54ae98d729e1/je/2200xxs.jpg",
+      "file": "019-b68666e7.webp",
+      "media_type": "image/webp",
+      "bytes": 608746,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/09/14/32/30/3f748a63-c8e9-463c-bc9f-c8e1ae92a991/je/2200xxs.jpg",
+      "file": "024-8c88acc1.webp",
+      "media_type": "image/webp",
+      "bytes": 707682,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/monticello-ny-usa",
+              "name": "Monticello"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-17813258",
+              "name": "Single Family Residence in Monticello"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "A once-in-a-lifetime private stone garden estate has officially arrived on the market — an extraordinary hidden sanctuary in Monticello.\nEvoking the charm of a secluded fairytale retreat, this breathtaking property offers unparalleled privacy, natural beauty, and exceptional long-term investment potential. Encompassing approximately 43.48 acres of pristine land, the estate is surrounded by lush forests, expansive meadows, and a serene natural lake/pond spanning approximately 3.5 acres. The tranquil setting, crisp mountain air, and peaceful atmosphere provide a remarkable escape from city life, while still being conveniently located just approximately two hours from New York City.\nWhether envisioned as a private compound, luxury vacation estate, wellness retreat, wedding venue, boutique resort, farm stay, or future development opportunity, this property presents a rare blank canvas with limitless possibilities.\nThis exceptional estate is an incredibly rare offering in Monticello. Located only minutes from Resorts World Catskills, and within easy reach of Woodbury Common Premium Outlets, fine dining, shopping, entertainment, and year-round recreational attractions.\nThe residence itself is thoughtfully designed with oversized windows that flood the interiors with natural light, highlighting the warm estate-style ambiance and rich wood craftsmanship throughout. The first floor features multiple expansive living and entertainment spaces ideal for hosting gatherings, along with a spacious kitchen, formal dining area, storage room, full bathroom, and a practical mudroom complete with laundry and ample storage for coats and footwear. There is a French double door that separates the studying room and the dining room. The open-concept estate kitchen is equipped with an oven, dishwasher, and refrigerator.\nThe second floor offers an inviting additional living area, a luxurious primary suite with an adjoining full bathroom, a guest suite with its own private full bathroom, two additional bedrooms, and another separate full bathroom. There is also an attic.\nThe unfinished basement, complete with a separate entrance, offers tremendous potential for customization — ideal for a recreation lounge, home theater, fitness center, executive office, wine cellar, or expanded living quarters.\nAdditional highlights include central heating and cooling systems, spacious and functional layouts, exceptional privacy, and comfortable room configurations throughout the home.\nProperty Specifications: Approximately 3,606 sq ft of interior living space, built in 2009, situated on approximately 43.48 acres of land, featuring a Colonial-style single dwelling residence with an attached 1-car garage.\nRR2 Zoning — Potential for Multiple Luxury Homes\nThe true value of this extraordinary offering extends far beyond the residence itself — it lies within the land, the natural resources, the serenity, and the unmatched setting. A truly rare Upstate New York estate showcasing remarkable natural beauty, fresh mountain air, and exceptional feng shui qualities.",
+        "image": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/edd07a29-1624-4cde-9abc-82424c634005/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Monticello",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 2500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Winzone Realty Inc - Elmhurst"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-17813258"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/M00000489.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

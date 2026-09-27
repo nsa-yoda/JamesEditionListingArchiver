@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Colorado/Vail/100 Vail Rd/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-700164c7.webp",
+      "href": "004-700164c7.webp",
+      "size": 985512
+    },
+    {
+      "name": "009-8af00785.webp",
+      "href": "009-8af00785.webp",
+      "size": 401668
+    },
+    {
+      "name": "014-0f030279.webp",
+      "href": "014-0f030279.webp",
+      "size": 633074
+    },
+    {
+      "name": "019-a090bf93.webp",
+      "href": "019-a090bf93.webp",
+      "size": 569052
+    },
+    {
+      "name": "024-cdf733ea.webp",
+      "href": "024-cdf733ea.webp",
+      "size": 572628
+    },
+    {
+      "name": "030-57242b8e.webp",
+      "href": "030-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "031-4055dfde.svg",
+      "href": "031-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "032-272e34fe.svg",
+      "href": "032-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "033-caf7633d.svg",
+      "href": "033-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

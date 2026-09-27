@@ -1,0 +1,550 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/fujisawa-japan/a-coastal-legacy-above-shonan-fujisawa-estate-17470271",
+    "canonical_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/a-coastal-legacy-above-shonan-fujisawa-estate-17470271",
+    "site": "jamesedition",
+    "listing_id": "17470271",
+    "first_listed": "Mar 24",
+    "last_updated": "July 10",
+    "retrieved_at": "2026-08-28T00:28:02.67211Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5087,
+      "sha256": "cab13fed2f5b31586fa332346fd2e97f97047ba6d20c10000494600e7ee14283"
+    },
+    {
+      "path": "images/img-08b9bf92290b.webp",
+      "bytes": 61136,
+      "sha256": "a0f08112bb1afb0f0691996dff4c856bbc9b18d3f42e37eca79868dac3e6fc83"
+    },
+    {
+      "path": "images/img-221e5da00364.webp",
+      "bytes": 139216,
+      "sha256": "750f916f0447608cf57f27b0a3bc7442a84749e7c66ebdbb730657109cec9832"
+    },
+    {
+      "path": "images/img-360ca8aa5aa2.webp",
+      "bytes": 95718,
+      "sha256": "8e2d40626744d882de335574b735d042d582a37981eea2bcf8b59538f9aa9eff"
+    },
+    {
+      "path": "images/img-3733e22a5bac.webp",
+      "bytes": 109558,
+      "sha256": "24d7b9f3da264642b5133d7a713c1a55c68fe0b9872b1729e9dfd49939875890"
+    },
+    {
+      "path": "images/img-3b37f1705a4f.webp",
+      "bytes": 120828,
+      "sha256": "a1f37991c73356ea8fb182c1bcbc9f9af92de76295eb89e23eb0899fb1654081"
+    },
+    {
+      "path": "images/img-4a04116f4491.webp",
+      "bytes": 118018,
+      "sha256": "b6417b5f0108f2e013ff5cf254b51c0007e4ce3d0c746754a93f673bedfd3c7e"
+    },
+    {
+      "path": "images/img-4cc9c58f5f28.webp",
+      "bytes": 166666,
+      "sha256": "b61af147789b9b06ed5fc3cdd4e20893b977ecfa2394ab175a2473d378ad389a"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-60a4474a0568.webp",
+      "bytes": 235250,
+      "sha256": "de5c4ae4d8627b3ca20e2b44c83704b714499a3c69a0b3e554425cb38e6f9f5a"
+    },
+    {
+      "path": "images/img-61780fb8d161.webp",
+      "bytes": 133048,
+      "sha256": "8acea5ba3075f98b282d12f0cf62e70a823d9d317e2a766d14a1333e99a47242"
+    },
+    {
+      "path": "images/img-63898d3268e5.webp",
+      "bytes": 121138,
+      "sha256": "1a1844dcb14701a41d695dde12a31c1d73f47f33f9c13b3c3e44436086666d24"
+    },
+    {
+      "path": "images/img-661a029b1948.webp",
+      "bytes": 123934,
+      "sha256": "0c5bf4182689a98223895deafd19f56670e3d0830fa00243e63d175ef9a700d5"
+    },
+    {
+      "path": "images/img-772aef91f630.webp",
+      "bytes": 224080,
+      "sha256": "361d924956696185bcc96d6c3cd1d1763fe195741ebc14fce7a5d587c9569bf7"
+    },
+    {
+      "path": "images/img-7a2ffe7dc991.webp",
+      "bytes": 182276,
+      "sha256": "ec34c8e4b74716857698148ebf1e87a5ee2ba9c53ac97de78fff0666fc05714a"
+    },
+    {
+      "path": "images/img-82f9967cef34.webp",
+      "bytes": 123750,
+      "sha256": "ec748a856d6a8a9556f4f3bf34fe7f89bc110cc61017fadc64477e17803b4608"
+    },
+    {
+      "path": "images/img-8b33173df39f.webp",
+      "bytes": 103006,
+      "sha256": "8a238317e20844ff9204c14012542bd22731e61a972cd8b0066bc88f0444bbd3"
+    },
+    {
+      "path": "images/img-8c714d888165.webp",
+      "bytes": 186328,
+      "sha256": "92d70e541c72a8968fab7b0cb29a4d2f36ef437c5a7b06cf0a057be59dacde26"
+    },
+    {
+      "path": "images/img-a78836d81618.webp",
+      "bytes": 177144,
+      "sha256": "aff86a9c913f52055c53e16197a14c880d34dc6c2eeb53cb0b9887a30298143a"
+    },
+    {
+      "path": "images/img-a8fbfcf58ad0.webp",
+      "bytes": 244516,
+      "sha256": "b07684ee873afafd64bce7ec8c4da248c52512a02488c4fc61f0ca72c976dd97"
+    },
+    {
+      "path": "images/img-b3489910e075.webp",
+      "bytes": 81758,
+      "sha256": "32c3ad674dd659cc8e6d45368923541cd0869c483fe322bacdc7fdd667ed5748"
+    },
+    {
+      "path": "images/img-b3c7b82ab1af.webp",
+      "bytes": 54624,
+      "sha256": "cad0d0a32c566889ff6ec5a82f409d4a441eaa3d58b32c65444297f3934c0f6f"
+    },
+    {
+      "path": "images/img-b7e3e032bd1f.webp",
+      "bytes": 109570,
+      "sha256": "ed92d8afb9e3496623be68bd9815eb1bb0b9e369f5a9bb72c8a3d3190f94dca4"
+    },
+    {
+      "path": "images/img-be2216c0ae89.webp",
+      "bytes": 105184,
+      "sha256": "64e0077f479097b0e61c52bb52d7aff5a71e787977ca5fc9b5a78534deffbeff"
+    },
+    {
+      "path": "images/img-c8000c8fc688.webp",
+      "bytes": 485928,
+      "sha256": "d0eee40527154175e02e512f30e868511fb9ddc7717cd6ee5ede9af27e6af2d0"
+    },
+    {
+      "path": "images/img-c96cbaf01e26.webp",
+      "bytes": 1790,
+      "sha256": "4a46bf3de73575b63fe7692e702e72cf3d32dd7996ab142ee9006472333c271b"
+    },
+    {
+      "path": "images/img-cae063408e3f.webp",
+      "bytes": 112768,
+      "sha256": "49c7232b0b6ae5e833d44a37c67ba6f3c657d94474a5e1f8903abd83196f7070"
+    },
+    {
+      "path": "images/img-d21c348ea1cf.webp",
+      "bytes": 182372,
+      "sha256": "ebc2a035f4bcbde9689b11296227e48e3739215775babd17f4bf03f6790009bb"
+    },
+    {
+      "path": "images/img-d77e4008254f.webp",
+      "bytes": 131428,
+      "sha256": "05034e08f56878142ef7a0fecf01884b903c579aeaaba54680cafb7872c23e80"
+    },
+    {
+      "path": "images/img-e01440601cda.webp",
+      "bytes": 93838,
+      "sha256": "ed57ca1c6976d107d8af08a6daa6c1680959379bf49ebc020c329a8c5f561057"
+    },
+    {
+      "path": "images/img-f602de8ce2ec.webp",
+      "bytes": 301644,
+      "sha256": "344d39b3f099c97d38b29d6c06db9e0f62e0092e15cbfe2b4238580b0cf1680d"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 34173,
+      "sha256": "d24663c3c32e03f718eaa9edd830a0c896f409b798674b29f1b8ab4340d61b09"
+    },
+    {
+      "path": "source.html",
+      "bytes": 580100,
+      "sha256": "16c712f205ef68ee0d6b58fb2e3f7e789498bf51704cc1c81d3e374bccf0e758"
+    },
+    {
+      "path": "source.url",
+      "bytes": 111,
+      "sha256": "2046c2d662549bad0e7f083244cfc2e1e7d6a8151c569e8155ef833db73d914e"
+    },
+    {
+      "path": "videos/img-46cfed71628d.webp",
+      "bytes": 122288,
+      "sha256": "e384a8fc75e3f2c8370fb781c53ebf0ec2e1fe60640e8c7ec67aa3a96dff02d7"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://player.vimeo.com/video/1164595163?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "status": "failed",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg",
+      "poster_path": "videos/img-46cfed71628d.webp",
+      "error": "response is not a recognized video"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/2200xxs.jpg",
+      "path": "images/img-c8000c8fc688.webp",
+      "media_type": "image/webp",
+      "bytes": 485928,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/2200xxs.jpg",
+      "path": "images/img-a8fbfcf58ad0.webp",
+      "media_type": "image/webp",
+      "bytes": 244516,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/2200xxs.jpg",
+      "path": "images/img-60a4474a0568.webp",
+      "media_type": "image/webp",
+      "bytes": 235250,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/2200xxs.jpg",
+      "path": "images/img-4cc9c58f5f28.webp",
+      "media_type": "image/webp",
+      "bytes": 166666,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/2200xxs.jpg",
+      "path": "images/img-8c714d888165.webp",
+      "media_type": "image/webp",
+      "bytes": 186328,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/e5bcb5d2-20da-4668-8fa4-41544234c0f3/je/2000xxs.jpg",
+      "path": "images/img-82f9967cef34.webp",
+      "media_type": "image/webp",
+      "bytes": 123750,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/f04c8b7c-c095-4a47-b8af-3bafe654ded2/je/2000xxs.jpg",
+      "path": "images/img-221e5da00364.webp",
+      "media_type": "image/webp",
+      "bytes": 139216,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/d68f8463-8fa0-4850-8b6b-71b5cb647db9/je/2000xxs.jpg",
+      "path": "images/img-f602de8ce2ec.webp",
+      "media_type": "image/webp",
+      "bytes": 301644,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/babead95-0102-44d6-934c-89daf5ab14de/je/2000xxs.jpg",
+      "path": "images/img-7a2ffe7dc991.webp",
+      "media_type": "image/webp",
+      "bytes": 182276,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/8bd30389-9cff-427d-b120-844685d586ec/je/2000xxs.jpg",
+      "path": "images/img-d21c348ea1cf.webp",
+      "media_type": "image/webp",
+      "bytes": 182372,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/543a5987-1561-4ce0-a4ef-7164951f88fb/je/2000xxs.jpg",
+      "path": "images/img-661a029b1948.webp",
+      "media_type": "image/webp",
+      "bytes": 123934,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/2b1d732d-b209-4fa0-be4c-437c62b2c279/je/2000xxs.jpg",
+      "path": "images/img-d77e4008254f.webp",
+      "media_type": "image/webp",
+      "bytes": 131428,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/1488c79b-d526-4be8-a07d-6737bfe10d1f/je/2000xxs.jpg",
+      "path": "images/img-b7e3e032bd1f.webp",
+      "media_type": "image/webp",
+      "bytes": 109570,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/c5470fda-d1c2-4f8c-8d0a-050323271917/je/2000xxs.jpg",
+      "path": "images/img-360ca8aa5aa2.webp",
+      "media_type": "image/webp",
+      "bytes": 95718,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/cf49e137-72b8-4fd2-aa2c-e324f832203d/je/2000xxs.jpg",
+      "path": "images/img-e01440601cda.webp",
+      "media_type": "image/webp",
+      "bytes": 93838,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/fa0150cd-8271-4738-9752-f68d626b2970/je/2000xxs.jpg",
+      "path": "images/img-b3489910e075.webp",
+      "media_type": "image/webp",
+      "bytes": 81758,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/f7424a88-accb-4483-8a74-0689d48c270a/je/2000xxs.jpg",
+      "path": "images/img-3733e22a5bac.webp",
+      "media_type": "image/webp",
+      "bytes": 109558,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/3ba5478c-9b08-467a-8d84-3c16011059bb/je/2000xxs.jpg",
+      "path": "images/img-a78836d81618.webp",
+      "media_type": "image/webp",
+      "bytes": 177144,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/59/06b71082-3062-4ac6-bfa5-ade14b3c93f4/je/2000xxs.jpg",
+      "path": "images/img-b3c7b82ab1af.webp",
+      "media_type": "image/webp",
+      "bytes": 54624,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/59/b50d04ff-e243-4909-a3e8-00d907463a62/je/2000xxs.jpg",
+      "path": "images/img-63898d3268e5.webp",
+      "media_type": "image/webp",
+      "bytes": 121138,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/f77516e0-652d-47b7-a617-ab72cf60a618/je/2000xxs.jpg",
+      "path": "images/img-3b37f1705a4f.webp",
+      "media_type": "image/webp",
+      "bytes": 120828,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/2ef99ef8-e4ee-47d6-a234-28ed41ef3a14/je/2000xxs.jpg",
+      "path": "images/img-be2216c0ae89.webp",
+      "media_type": "image/webp",
+      "bytes": 105184,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/cd2c0761-1232-4f12-88e4-c53d66e7451f/je/2000xxs.jpg",
+      "path": "images/img-08b9bf92290b.webp",
+      "media_type": "image/webp",
+      "bytes": 61136,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/59/95c8f5cc-9761-4833-94fd-02ed269c967a/je/2000xxs.jpg",
+      "path": "images/img-8b33173df39f.webp",
+      "media_type": "image/webp",
+      "bytes": 103006,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/59/cc1aa61d-0290-4ed1-82f9-de10354d3eb9/je/2000xxs.jpg",
+      "path": "images/img-cae063408e3f.webp",
+      "media_type": "image/webp",
+      "bytes": 112768,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0e363448-7d9d-45f0-b399-093c38f5e171/je/2000xxs.jpg",
+      "path": "images/img-4a04116f4491.webp",
+      "media_type": "image/webp",
+      "bytes": 118018,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/14/16/41/27a4e82d-27de-4c50-b251-d66f92762a6f/je/2000xxs.jpg",
+      "path": "images/img-61780fb8d161.webp",
+      "media_type": "image/webp",
+      "bytes": 133048,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/14/16/41/f88a71b7-2137-4c7b-b2eb-60113071715c/je/2000xxs.jpg",
+      "path": "images/img-772aef91f630.webp",
+      "media_type": "image/webp",
+      "bytes": 224080,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2200xxs%2827%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/59/38/a1c8e499-7ed6-4e45-8b02-5fd62fe7ba0e/je/80x80xc.jpg",
+      "path": "images/img-c96cbaf01e26.webp",
+      "media_type": "image/webp",
+      "bytes": 1790,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 30,
+    "images_existing": 0,
+    "images_failed": 17,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 1
+  }
+}

@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Pleasant Valley",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "104 N Garden Drive",
+      "href": "104%20N%20Garden%20Drive/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

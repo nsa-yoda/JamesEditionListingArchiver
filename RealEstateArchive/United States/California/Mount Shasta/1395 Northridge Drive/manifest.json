@@ -1,0 +1,709 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395-northridge-drive-mount-shasta-ca-96067-18017274",
+    "canonical_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395-northridge-drive-mount-shasta-ca-96067-18017274",
+    "site": "jamesedition",
+    "listing_id": "18017274",
+    "listing_reference": "57J79X",
+    "first_listed": "May 27",
+    "last_updated": "May 29",
+    "retrieved_at": "2026-08-28T00:27:06.286296Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2355,
+      "sha256": "9079416be9c54b9975a0c8b628aade12110c0085b9708ad9ed47b9706f7581d3"
+    },
+    {
+      "path": "images/img-036659aa44a5.webp",
+      "bytes": 102330,
+      "sha256": "3a17b602141d8830ae74afd76c66ae40c567dfd6f9cbd2f0f76f55acb9d45d6d"
+    },
+    {
+      "path": "images/img-06806b2e05e1.webp",
+      "bytes": 88528,
+      "sha256": "99409382ce9599e55e91b100012551886b7513ce77344d5f41452baf903ec027"
+    },
+    {
+      "path": "images/img-17290e6016d5.webp",
+      "bytes": 282434,
+      "sha256": "7d6b6d74d07c7787505b1754b2029b2101871d298c4a7f8c0bf4dbd750476b3a"
+    },
+    {
+      "path": "images/img-203222c4cc02.webp",
+      "bytes": 137546,
+      "sha256": "99048d48bcc4754480e44eaf016ca612d9d7944050108bae956bdb157f8d6f31"
+    },
+    {
+      "path": "images/img-20c6725b90b2.webp",
+      "bytes": 206672,
+      "sha256": "5b23d1f361e4a75deee28c1040433b0972801334bc1e246e38cbf085287ff848"
+    },
+    {
+      "path": "images/img-258dd6d75554.webp",
+      "bytes": 1021410,
+      "sha256": "400c0d92245dd2706b6d71e3f1ca3289049727def0172075faa7c9c4697d0a3f"
+    },
+    {
+      "path": "images/img-2741887dbe67.webp",
+      "bytes": 731708,
+      "sha256": "f2ad3e2dcecdc14cb62c62f0c76d482d61f8e1cc0d4901d05a1ac3970a8a0718"
+    },
+    {
+      "path": "images/img-32f1fe30af10.webp",
+      "bytes": 147808,
+      "sha256": "e928e915821d4ce9e096b2304bb30ece7350e97b0c2fedb9e3c43caa235e4db2"
+    },
+    {
+      "path": "images/img-3bd8ac3507ed.webp",
+      "bytes": 506124,
+      "sha256": "a68f69fc1606609957da21d0748501c10f72241d6dd17657e63218937e5c9b22"
+    },
+    {
+      "path": "images/img-3c130e7fda5c.webp",
+      "bytes": 994628,
+      "sha256": "31d0072a59dabb677fd695fe17763bab9abcbcbf84b5694ecafd14a8441f83f3"
+    },
+    {
+      "path": "images/img-44410b12c3de.webp",
+      "bytes": 100448,
+      "sha256": "96ce726b405f0e8529ad18c9d823e89794200638c8ec529f575c4e3ca83c5b48"
+    },
+    {
+      "path": "images/img-4521575e8ccb.webp",
+      "bytes": 802456,
+      "sha256": "bd4ee1fd0e5a0f2d4d7dae86818ee1f7afb94746cbd77f1e7419cb394f642ead"
+    },
+    {
+      "path": "images/img-4b109ea7c471.webp",
+      "bytes": 482402,
+      "sha256": "6c5861e72e55d526ea31dc39114e9d6667e148f0c797d09004a0e50c8da2df0c"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-574931fd1f3c.webp",
+      "bytes": 218520,
+      "sha256": "606aedb21645add50cf29f59e91790bf2895ab604255614604972624ff25c9e5"
+    },
+    {
+      "path": "images/img-57ada6971a95.webp",
+      "bytes": 136764,
+      "sha256": "c6f15cc7a9af7a51c77e31fa59d931473ec0cc3972abe8521a8ac10b25faea04"
+    },
+    {
+      "path": "images/img-5a6c1e2de740.webp",
+      "bytes": 315704,
+      "sha256": "6ff6262ddc23cb4f165a2b1cc4254c83f36060defe924663fde31bb9f59d4c1b"
+    },
+    {
+      "path": "images/img-5da9f7a177bf.webp",
+      "bytes": 168330,
+      "sha256": "0359c3a2982931d9623300763cde308b11f2da43a1fdc4af7840b91a0ca34e6c"
+    },
+    {
+      "path": "images/img-5f94f1c5037b.webp",
+      "bytes": 193038,
+      "sha256": "42e8df04bfff8af9570e4ad565f992d7e9228445b5a89f80c2e9beb70eb85f23"
+    },
+    {
+      "path": "images/img-63842ce26c19.webp",
+      "bytes": 642030,
+      "sha256": "8027ac2698acc1d4d835469eb62d946086ed46dd545a1defa8123c44c4cf6cb2"
+    },
+    {
+      "path": "images/img-72c0db0e1a90.webp",
+      "bytes": 161304,
+      "sha256": "324570c0e1607ccf4f49524c67f337beed31a7076c8d89a37c7e6d0b6441dba0"
+    },
+    {
+      "path": "images/img-74e43066c94e.webp",
+      "bytes": 104394,
+      "sha256": "99355b0ab145d193d1f4f7b52a4fea0b01f42bc9976f5c57a8675b683c3a260b"
+    },
+    {
+      "path": "images/img-7c370c7f7a86.webp",
+      "bytes": 920794,
+      "sha256": "f1316ab56a699542182cd3204519458eec634c9ff0ef6c3e73feedfecd6dcbef"
+    },
+    {
+      "path": "images/img-847f4f973e4b.webp",
+      "bytes": 1056540,
+      "sha256": "6cdc1f19c9815d25342b946c9ac68517a0f929457a6e46d953fede4d5a6fe7cc"
+    },
+    {
+      "path": "images/img-8c47e37460a7.webp",
+      "bytes": 283060,
+      "sha256": "dc1d26843c80de7062eff5e908299e845b31221432160d89ed8352a87cd7809e"
+    },
+    {
+      "path": "images/img-96dd06f73b75.webp",
+      "bytes": 130480,
+      "sha256": "482867015b71995df2671949b9d3a6a3095694843914a60ae536653c2c7a6975"
+    },
+    {
+      "path": "images/img-a482d7bc4f0a.webp",
+      "bytes": 132094,
+      "sha256": "a43594425ef62ad933bce32b13cc3becf060ca922ede31959474539adc7ea022"
+    },
+    {
+      "path": "images/img-a8466f6dc81a.webp",
+      "bytes": 973688,
+      "sha256": "029a4e854d0bb27bb968c25fc88495f9e809d7e5a88dee025991715ea064ce80"
+    },
+    {
+      "path": "images/img-aa2fbfc0f2fb.webp",
+      "bytes": 99292,
+      "sha256": "d7ad47e484128b58818bd9765cf90d5db7fe56dcce5a2cdbd2b0787212106db9"
+    },
+    {
+      "path": "images/img-abb41e967684.webp",
+      "bytes": 112042,
+      "sha256": "0971261892dacaef09280760a574bcb565fabf8c61b1c505ec3609a30b3dde04"
+    },
+    {
+      "path": "images/img-b0593f27b126.webp",
+      "bytes": 1192672,
+      "sha256": "6d7a9ec2387709b467aaefa3b38749e07880a130d01dc7447258f3f2f4af4f1f"
+    },
+    {
+      "path": "images/img-b074c3a4802e.webp",
+      "bytes": 768214,
+      "sha256": "d9edb02b3e0b718f274af5a6204d816b445e05aa76129d16a4ab4646173684a9"
+    },
+    {
+      "path": "images/img-be78562fb8bc.webp",
+      "bytes": 221984,
+      "sha256": "d9f6d9ce4839edfb250385316bfc750bda1404e5a5d00f54a6a1eb63de079744"
+    },
+    {
+      "path": "images/img-bf2f4880ba20.webp",
+      "bytes": 529986,
+      "sha256": "6faba5921d4b4a99a61d3e0dda174e700510ce894666daaa52109aff096ed61b"
+    },
+    {
+      "path": "images/img-c2fabb8e0b16.webp",
+      "bytes": 1113042,
+      "sha256": "f143ab53f60aa8407eb89eb292b7be562f563b40d7af2495985464b02aa1d463"
+    },
+    {
+      "path": "images/img-c4f19dc4a80b.webp",
+      "bytes": 366432,
+      "sha256": "c288c2d081f2be320c94cbd42adeeb38a50a304836707fb82ee77389a12ba3a2"
+    },
+    {
+      "path": "images/img-d4c937ab06ab.webp",
+      "bytes": 224016,
+      "sha256": "762c6d806f157488815362aea61d4533bcaade5609b1f0ff472a57c7b8264226"
+    },
+    {
+      "path": "images/img-d845b0534f67.webp",
+      "bytes": 100996,
+      "sha256": "2059c7e45be5abda3b3cbe821ee1b2ec34c7c4ee4291cc0a540addd778f23d9c"
+    },
+    {
+      "path": "images/img-da6dddbbb102.webp",
+      "bytes": 876600,
+      "sha256": "429b5bd69914ee184f53c0babf356d15e8f17bd21238c096ca967fbd354563e7"
+    },
+    {
+      "path": "images/img-dbe8a92a93b2.webp",
+      "bytes": 184388,
+      "sha256": "011801cfde07d62b44456672689856ba7fa3aa08874f0b09db29b3e24741a57b"
+    },
+    {
+      "path": "images/img-dd5c8aeafdf4.webp",
+      "bytes": 326234,
+      "sha256": "9de8ff44040573a6ff8711e9f2f6c65f43f74666c7bfd423e5d87b4703cd2c89"
+    },
+    {
+      "path": "images/img-dd94e403f6fd.webp",
+      "bytes": 671104,
+      "sha256": "af8a75c8d82b961afcb3548dc6de2e2cc203dd503891bd8cb8b1e970f4dc1949"
+    },
+    {
+      "path": "images/img-ea107cdd9a06.webp",
+      "bytes": 150020,
+      "sha256": "cfe5e1806e53e10f536aec664ee01938e459132aaa88db178c9201341b6b511b"
+    },
+    {
+      "path": "images/img-ef5242352f0f.webp",
+      "bytes": 117238,
+      "sha256": "0acd3529968613b123bdc4e4ccd499038f610ee4a5b370b71f01a14042c99db2"
+    },
+    {
+      "path": "images/img-ff2192c7783c.webp",
+      "bytes": 140462,
+      "sha256": "be67b62dc4e1465855e6bf0f4c5c234edf22c6df8f7f13391daa9307c877adb7"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 28523,
+      "sha256": "471c0a8c9e2bdfdf962981aafac650b87e949b79dbdbb733df7aaa343c36a4bd"
+    },
+    {
+      "path": "source.html",
+      "bytes": 439806,
+      "sha256": "1c96101e8d1c6e46ab84cae2ffe3e4b280c1d096200d7d8946a0fe7d6c3af3fb"
+    },
+    {
+      "path": "source.url",
+      "bytes": 114,
+      "sha256": "d346177c8d63cfe3cb6b7388fd4ba7be3a513dd7eb600aed9985c53e08ae82dd"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/8c3285e3-a756-450d-b6a6-39d0363758ea/je/2200xxs.jpg",
+      "path": "images/img-dd5c8aeafdf4.webp",
+      "media_type": "image/webp",
+      "bytes": 326234,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/69b02525-661d-47f0-b66f-193e25bc0f88/je/2200xxs.jpg",
+      "path": "images/img-4b109ea7c471.webp",
+      "media_type": "image/webp",
+      "bytes": 482402,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/5e6e1e3e-389f-40c7-b3f6-dcd1942d6b4c/je/2200xxs.jpg",
+      "path": "images/img-63842ce26c19.webp",
+      "media_type": "image/webp",
+      "bytes": 642030,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/68bf05a8-9e50-4e70-af8d-77d0d31bb1e7/je/2200xxs.jpg",
+      "path": "images/img-dd94e403f6fd.webp",
+      "media_type": "image/webp",
+      "bytes": 671104,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/b0630d89-7145-4b22-8607-254e37baf385/je/2200xxs.jpg",
+      "path": "images/img-7c370c7f7a86.webp",
+      "media_type": "image/webp",
+      "bytes": 920794,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/55f12768-5fe6-47f8-8625-b6dc800846af/je/2000xxs.jpg",
+      "path": "images/img-a8466f6dc81a.webp",
+      "media_type": "image/webp",
+      "bytes": 973688,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/53800f30-f322-4117-9dd5-5ecb3986a12b/je/2000xxs.jpg",
+      "path": "images/img-da6dddbbb102.webp",
+      "media_type": "image/webp",
+      "bytes": 876600,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/8c785294-0978-454a-9899-14c8b836fa8d/je/2000xxs.jpg",
+      "path": "images/img-3bd8ac3507ed.webp",
+      "media_type": "image/webp",
+      "bytes": 506124,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/f69231e3-5cae-4a3b-bef5-6de431dd6741/je/2000xxs.jpg",
+      "path": "images/img-c4f19dc4a80b.webp",
+      "media_type": "image/webp",
+      "bytes": 366432,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/b0c468fd-17f6-44e4-a6eb-a68393eb3523/je/2000xxs.jpg",
+      "path": "images/img-8c47e37460a7.webp",
+      "media_type": "image/webp",
+      "bytes": 283060,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/a6f841e3-cd46-425c-921b-fbcf584e856e/je/2000xxs.jpg",
+      "path": "images/img-57ada6971a95.webp",
+      "media_type": "image/webp",
+      "bytes": 136764,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/286d0f5d-e0f2-4518-937d-fe405bacfb52/je/2000xxs.jpg",
+      "path": "images/img-32f1fe30af10.webp",
+      "media_type": "image/webp",
+      "bytes": 147808,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/c46bcc22-432b-474e-88d5-ea6b272dd3b2/je/2000xxs.jpg",
+      "path": "images/img-5f94f1c5037b.webp",
+      "media_type": "image/webp",
+      "bytes": 193038,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/3a6730f7-ca0e-4dee-a132-e0f03a18864b/je/2000xxs.jpg",
+      "path": "images/img-574931fd1f3c.webp",
+      "media_type": "image/webp",
+      "bytes": 218520,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/c05a8e63-69a9-45da-8392-f17e780d4970/je/2000xxs.jpg",
+      "path": "images/img-dbe8a92a93b2.webp",
+      "media_type": "image/webp",
+      "bytes": 184388,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/c13162c9-8948-45c2-93eb-6847c3cc94fa/je/2000xxs.jpg",
+      "path": "images/img-ef5242352f0f.webp",
+      "media_type": "image/webp",
+      "bytes": 117238,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/fc5b03e3-3767-445f-a8ad-f2dbe5a1743c/je/2000xxs.jpg",
+      "path": "images/img-17290e6016d5.webp",
+      "media_type": "image/webp",
+      "bytes": 282434,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/419acd9e-bea2-4d0f-b4e2-0452020cf854/je/2000xxs.jpg",
+      "path": "images/img-06806b2e05e1.webp",
+      "media_type": "image/webp",
+      "bytes": 88528,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/e27e6e9b-62e8-4ade-9e37-b849885af0f6/je/2000xxs.jpg",
+      "path": "images/img-d845b0534f67.webp",
+      "media_type": "image/webp",
+      "bytes": 100996,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/c106c89d-a0e9-426e-969e-ddbd552906c0/je/2000xxs.jpg",
+      "path": "images/img-5da9f7a177bf.webp",
+      "media_type": "image/webp",
+      "bytes": 168330,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/4fac5a9d-24e4-4614-ac7c-00597d522fdd/je/2000xxs.jpg",
+      "path": "images/img-aa2fbfc0f2fb.webp",
+      "media_type": "image/webp",
+      "bytes": 99292,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/4e7304c7-6128-4644-be56-d6c129906d6b/je/2000xxs.jpg",
+      "path": "images/img-44410b12c3de.webp",
+      "media_type": "image/webp",
+      "bytes": 100448,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/0674596e-c5db-43ca-9c75-16a71217f79a/je/2000xxs.jpg",
+      "path": "images/img-20c6725b90b2.webp",
+      "media_type": "image/webp",
+      "bytes": 206672,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/ca692f20-5d53-4076-926c-716c6c44e3a9/je/2000xxs.jpg",
+      "path": "images/img-ff2192c7783c.webp",
+      "media_type": "image/webp",
+      "bytes": 140462,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/bcc50769-f2d3-440f-8087-80c99a886ed1/je/2000xxs.jpg",
+      "path": "images/img-a482d7bc4f0a.webp",
+      "media_type": "image/webp",
+      "bytes": 132094,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/8cb83f0b-24c6-4dab-84ae-40c5bb705ff2/je/2000xxs.jpg",
+      "path": "images/img-036659aa44a5.webp",
+      "media_type": "image/webp",
+      "bytes": 102330,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/1a3e57c7-d26b-47fa-8580-802ed6960723/je/2000xxs.jpg",
+      "path": "images/img-72c0db0e1a90.webp",
+      "media_type": "image/webp",
+      "bytes": 161304,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/defea1a9-876d-4cda-aa14-8b182b10be1d/je/2000xxs.jpg",
+      "path": "images/img-203222c4cc02.webp",
+      "media_type": "image/webp",
+      "bytes": 137546,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/cf1d7a8d-d0c2-4da7-a3a5-07c0d834eed6/je/2000xxs.jpg",
+      "path": "images/img-ea107cdd9a06.webp",
+      "media_type": "image/webp",
+      "bytes": 150020,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/2fdc8d5c-3c07-46ee-96d0-af0be5f81ba5/je/2000xxs.jpg",
+      "path": "images/img-be78562fb8bc.webp",
+      "media_type": "image/webp",
+      "bytes": 221984,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/435ac913-9489-45c1-8098-6acebe8d623f/je/2000xxs.jpg",
+      "path": "images/img-74e43066c94e.webp",
+      "media_type": "image/webp",
+      "bytes": 104394,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/ecae071d-67a8-44e8-b834-4392613d195d/je/2000xxs.jpg",
+      "path": "images/img-d4c937ab06ab.webp",
+      "media_type": "image/webp",
+      "bytes": 224016,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/a5c2b297-bf3a-4e0d-9047-0340e8e13bcf/je/2000xxs.jpg",
+      "path": "images/img-5a6c1e2de740.webp",
+      "media_type": "image/webp",
+      "bytes": 315704,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/5019f713-8b92-4c77-8bfe-a30a156507b7/je/2000xxs.jpg",
+      "path": "images/img-bf2f4880ba20.webp",
+      "media_type": "image/webp",
+      "bytes": 529986,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/88cfc700-bc6c-447d-a895-cd644bb00176/je/2000xxs.jpg",
+      "path": "images/img-3c130e7fda5c.webp",
+      "media_type": "image/webp",
+      "bytes": 994628,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/28c0693d-63d9-4b53-aa11-ff796e653600/je/2000xxs.jpg",
+      "path": "images/img-4521575e8ccb.webp",
+      "media_type": "image/webp",
+      "bytes": 802456,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/06aedc16-4e7c-4b47-9754-7751b2cd0331/je/2000xxs.jpg",
+      "path": "images/img-258dd6d75554.webp",
+      "media_type": "image/webp",
+      "bytes": 1021410,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/2f046485-b9b5-4c16-8a48-024d1c23799f/je/2000xxs.jpg",
+      "path": "images/img-847f4f973e4b.webp",
+      "media_type": "image/webp",
+      "bytes": 1056540,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/5be5ed1f-bed7-40cc-bf4d-3984d67a4e0b/je/2000xxs.jpg",
+      "path": "images/img-b074c3a4802e.webp",
+      "media_type": "image/webp",
+      "bytes": 768214,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/0a1b177b-52dd-4150-a99b-08ac496205e4/je/2000xxs.jpg",
+      "path": "images/img-2741887dbe67.webp",
+      "media_type": "image/webp",
+      "bytes": 731708,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/fc5743b7-0c4f-4573-8b26-e665902af3b9/je/2000xxs.jpg",
+      "path": "images/img-c2fabb8e0b16.webp",
+      "media_type": "image/webp",
+      "bytes": 1113042,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/8c1fa4e1-2c74-4e67-bae5-004cd305413f/je/2000xxs.jpg",
+      "path": "images/img-b0593f27b126.webp",
+      "media_type": "image/webp",
+      "bytes": 1192672,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/61bedb1a-cad4-40d4-b622-7e96d2afeb45/je/2000xxs.jpg",
+      "path": "images/img-abb41e967684.webp",
+      "media_type": "image/webp",
+      "bytes": 112042,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/14/31/37/52faad5b-852c-4314-8305-18e710323b29/je/2000xxs.jpg",
+      "path": "images/img-96dd06f73b75.webp",
+      "media_type": "image/webp",
+      "bytes": 130480,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/2200xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395%20Northridge%20Drive,%20Mount%20Shasta,%20In%20Mount%20Shasta,%20California,%20United%20States%20For%20Sale%20%2818017274%29_files/2200xxsxm%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 45,
+    "images_existing": 0,
+    "images_failed": 13,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

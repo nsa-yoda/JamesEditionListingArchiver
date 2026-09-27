@@ -1,0 +1,199 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Portugal/Almancil/Quinta do Lago/Exceptional Newly Built Luxury Villa With Breathtaking Views Of The Lake/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-00fd67a97bee.webp",
+      "href": "img-00fd67a97bee.webp",
+      "size": 155984
+    },
+    {
+      "name": "img-20ed082f5855.webp",
+      "href": "img-20ed082f5855.webp",
+      "size": 132490
+    },
+    {
+      "name": "img-234331c08ca5.webp",
+      "href": "img-234331c08ca5.webp",
+      "size": 80608
+    },
+    {
+      "name": "img-268917e0a3e3.webp",
+      "href": "img-268917e0a3e3.webp",
+      "size": 155580
+    },
+    {
+      "name": "img-29f9fc473b6b.webp",
+      "href": "img-29f9fc473b6b.webp",
+      "size": 413026
+    },
+    {
+      "name": "img-2b820bf405ed.webp",
+      "href": "img-2b820bf405ed.webp",
+      "size": 76974
+    },
+    {
+      "name": "img-2f703e43a819.webp",
+      "href": "img-2f703e43a819.webp",
+      "size": 391470
+    },
+    {
+      "name": "img-372b4e1a3b81.webp",
+      "href": "img-372b4e1a3b81.webp",
+      "size": 58282
+    },
+    {
+      "name": "img-3eddab5d0cd8.webp",
+      "href": "img-3eddab5d0cd8.webp",
+      "size": 145222
+    },
+    {
+      "name": "img-3f06d05dc5f3.webp",
+      "href": "img-3f06d05dc5f3.webp",
+      "size": 330290
+    },
+    {
+      "name": "img-46587c8068d9.webp",
+      "href": "img-46587c8068d9.webp",
+      "size": 168606
+    },
+    {
+      "name": "img-491fb0374402.webp",
+      "href": "img-491fb0374402.webp",
+      "size": 81142
+    },
+    {
+      "name": "img-49b6e83f66c6.webp",
+      "href": "img-49b6e83f66c6.webp",
+      "size": 145544
+    },
+    {
+      "name": "img-571f6c56f1c1.webp",
+      "href": "img-571f6c56f1c1.webp",
+      "size": 42896
+    },
+    {
+      "name": "img-57242b8ef18d.webp",
+      "href": "img-57242b8ef18d.webp",
+      "size": 1004
+    },
+    {
+      "name": "img-575355f38e83.webp",
+      "href": "img-575355f38e83.webp",
+      "size": 170764
+    },
+    {
+      "name": "img-5edf5ef2002f.webp",
+      "href": "img-5edf5ef2002f.webp",
+      "size": 63606
+    },
+    {
+      "name": "img-682deaf612ea.webp",
+      "href": "img-682deaf612ea.webp",
+      "size": 451870
+    },
+    {
+      "name": "img-6d04c2962470.webp",
+      "href": "img-6d04c2962470.webp",
+      "size": 68198
+    },
+    {
+      "name": "img-6ecc4669b58d.webp",
+      "href": "img-6ecc4669b58d.webp",
+      "size": 221218
+    },
+    {
+      "name": "img-7451edec38f4.webp",
+      "href": "img-7451edec38f4.webp",
+      "size": 216352
+    },
+    {
+      "name": "img-745f46d4ee89.webp",
+      "href": "img-745f46d4ee89.webp",
+      "size": 89074
+    },
+    {
+      "name": "img-7b3d888f1417.webp",
+      "href": "img-7b3d888f1417.webp",
+      "size": 76158
+    },
+    {
+      "name": "img-82e7baab5987.webp",
+      "href": "img-82e7baab5987.webp",
+      "size": 84892
+    },
+    {
+      "name": "img-8d701df0b434.webp",
+      "href": "img-8d701df0b434.webp",
+      "size": 35156
+    },
+    {
+      "name": "img-93e41d76bbee.webp",
+      "href": "img-93e41d76bbee.webp",
+      "size": 276100
+    },
+    {
+      "name": "img-98e2be2ec45a.webp",
+      "href": "img-98e2be2ec45a.webp",
+      "size": 130108
+    },
+    {
+      "name": "img-9e31f8109d9e.webp",
+      "href": "img-9e31f8109d9e.webp",
+      "size": 196800
+    },
+    {
+      "name": "img-a20d2018084c.webp",
+      "href": "img-a20d2018084c.webp",
+      "size": 82226
+    },
+    {
+      "name": "img-a726cc4a405b.webp",
+      "href": "img-a726cc4a405b.webp",
+      "size": 61076
+    },
+    {
+      "name": "img-af41571d6e85.webp",
+      "href": "img-af41571d6e85.webp",
+      "size": 1690
+    },
+    {
+      "name": "img-c1ea5decc1b6.webp",
+      "href": "img-c1ea5decc1b6.webp",
+      "size": 65406
+    },
+    {
+      "name": "img-c65b718149f9.webp",
+      "href": "img-c65b718149f9.webp",
+      "size": 74466
+    },
+    {
+      "name": "img-c717a64e7694.webp",
+      "href": "img-c717a64e7694.webp",
+      "size": 64092
+    },
+    {
+      "name": "img-d1fe05eb2aac.webp",
+      "href": "img-d1fe05eb2aac.webp",
+      "size": 229760
+    },
+    {
+      "name": "img-e102b47ef3be.webp",
+      "href": "img-e102b47ef3be.webp",
+      "size": 82338
+    },
+    {
+      "name": "img-e14e13b97e8a.webp",
+      "href": "img-e14e13b97e8a.webp",
+      "size": 333934
+    },
+    {
+      "name": "img-fe3c90bf2371.webp",
+      "href": "img-fe3c90bf2371.webp",
+      "size": 265500
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

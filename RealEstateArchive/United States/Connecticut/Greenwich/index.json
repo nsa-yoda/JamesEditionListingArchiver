@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "path": "United States/Connecticut/Greenwich",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "25 Field Point Circle",
+      "href": "25%20Field%20Point%20Circle/index.html"
+    },
+    {
+      "name": "7 Loch Lane",
+      "href": "7%20Loch%20Lane/index.html"
+    },
+    {
+      "name": "8 Fox Run Lane Greenwich",
+      "href": "8%20Fox%20Run%20Lane%20Greenwich/index.html"
+    },
+    {
+      "name": "97 Pecksland Road",
+      "href": "97%20Pecksland%20Road/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

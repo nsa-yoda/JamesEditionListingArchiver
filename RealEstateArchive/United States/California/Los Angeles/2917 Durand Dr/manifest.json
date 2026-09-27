@@ -1,0 +1,291 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917-durand-dr-17993520",
+    "canonical_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917-durand-dr-17993520",
+    "site": "jamesedition",
+    "listing_id": "17993520",
+    "listing_reference": "215586439.0",
+    "first_listed": "May 23",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-06-16T03:43:16.804375Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3709,
+      "sha256": "c04f80e6465aaa1fc3cea9949ba8c78a26a194830ff3dd617dd1d0932e88c5d1"
+    },
+    {
+      "path": "images/004-6c12089b.webp",
+      "bytes": 400920,
+      "sha256": "eb9200b2b58e867b0119f5f91e8d5970e34a30e0c7f92bb71cbe1862717eb9a8"
+    },
+    {
+      "path": "images/009-2c96142d.webp",
+      "bytes": 235260,
+      "sha256": "56933a949ec85d282db069bcd13d23198d7c48c131d5a418f0fdf1d1d8a54d7f"
+    },
+    {
+      "path": "images/014-ad624114.webp",
+      "bytes": 197316,
+      "sha256": "cc13d1e0c1cda73b59c6f7a05211b683c27d523364b8334ed79feeaa302b2e55"
+    },
+    {
+      "path": "images/019-865e1295.webp",
+      "bytes": 266972,
+      "sha256": "44836a26dc5c3785659d22cb8ce5df256bbb0941968cc55beafc52edde9dc874"
+    },
+    {
+      "path": "images/024-c232b666.webp",
+      "bytes": 233034,
+      "sha256": "4ded1383b2f9ba376433835739a6d24a4acc846b408b40dcc0e91cea4bdbb2a5"
+    },
+    {
+      "path": "images/045-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/046-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/047-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/048-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/049-ab5a9f76.webp",
+      "bytes": 1468,
+      "sha256": "4edb6ca107295cb6539e4a37f8e66fe64465dbb5461b4b9180f55ec976a9cdcf"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 25752,
+      "sha256": "11fbce19360c4ab675c3773387580e683ff2066395797bf6ed0e10d269ab3653"
+    },
+    {
+      "path": "source.html",
+      "bytes": 375398,
+      "sha256": "6064706cd6035f5c964218ec30e53c0f8caf81e4f3c4b2a6a76928e752ff611f"
+    },
+    {
+      "path": "source.url",
+      "bytes": 84,
+      "sha256": "46681f06b2a99a507d7bb7457c203c6cfb4d1c2f5a754776839bd1bebb64c86a"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/2200xxs.jpg",
+      "path": "images/004-6c12089b.webp",
+      "media_type": "image/webp",
+      "bytes": 400920,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/2200xxs.jpg",
+      "path": "images/009-2c96142d.webp",
+      "media_type": "image/webp",
+      "bytes": 235260,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/2200xxs.jpg",
+      "path": "images/014-ad624114.webp",
+      "media_type": "image/webp",
+      "bytes": 197316,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/2200xxs.jpg",
+      "path": "images/019-865e1295.webp",
+      "media_type": "image/webp",
+      "bytes": 266972,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/2200xxs.jpg",
+      "path": "images/024-c232b666.webp",
+      "media_type": "image/webp",
+      "bytes": 233034,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/045-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/046-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/047-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/048-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/20/03/08/10/3cb04af9-96f8-43a0-b5e5-64085cfdbd70/je/80x80xc.jpg",
+      "path": "images/049-ab5a9f76.webp",
+      "media_type": "image/webp",
+      "bytes": 1468,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 23,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

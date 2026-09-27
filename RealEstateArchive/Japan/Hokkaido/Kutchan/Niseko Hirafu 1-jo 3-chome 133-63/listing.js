@@ -1,0 +1,331 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kutchan-japan/yukikage-the-annex-award-winning-dual-residence-masterpiece-in-hirafu-with-panoramic-views-15500085",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kutchan-japan/yukikage-the-annex-award-winning-dual-residence-masterpiece-in-hirafu-with-panoramic-views-15500085",
+    "site": "jamesedition",
+    "listing_id": "15500085",
+    "listing_reference": "4520884",
+    "first_listed": "Apr 17, 2025",
+    "last_updated": "March 11",
+    "retrieved_at": "2026-06-16T03:43:43.939035Z"
+  },
+  "location": {
+    "address": "Niseko Hirafu 1-jo 3-chome 133-63, Kutchan, Hokkaido, Japan",
+    "street": "Niseko Hirafu 1-jo 3-chome 133-63",
+    "municipality": "Kutchan",
+    "region": "Hokkaido",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=42.8639717,140.7071051",
+    "latitude": 42.8639717,
+    "longitude": 140.7071051
+  },
+  "property": {
+    "title": "Yukikage \u0026 The Annex Award Winning Dual Residence Masterpiece In Hirafu With Panoramic Views",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 19550421.48,
+      "currency": "USD",
+      "display": "$19,550,421"
+    },
+    "price_per_area": {
+      "amount": 2615,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$2,615"
+    },
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "interior_area": {
+      "value": 7476,
+      "unit": "sqft",
+      "display": "7,476 Sqft"
+    },
+    "lot_area": {
+      "value": 25522,
+      "unit": "sqft",
+      "display": "25,522 Sqft lot"
+    },
+    "photo_count": 35,
+    "video_url": "https://player.vimeo.com/video/1152877637?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0\u0026h=ff8845e717",
+    "description": "Discover\u0026nbsp;Yukikage \u0026amp; The Annex, a rare dual-residence masterpiece offering contemporary alpine luxury in the prestigious Elevation Hirafu community. Set on a generous 2,371 sqm site, this 694.5 sqm estate features a four-bedroom main residence and a standalone Annex, ideal for buyers seeking premium\u0026nbsp;Niseko or Hirafu real estate.\u0026nbsp;The Main Residence -\u0026nbsp;Three Levels of Thoughtful DesignThe main residence opens with a refined, softly illuminated foyer leading to a private garage, sleek sauna, powder room, and elegant mudroom with laundry. The second floor hosts four bedrooms, including two master suites with private bathrooms, plus a stylish media lounge. A soaring top-floor living area flows into a designer kitchen and dining space framed by floor-to-ceiling glass, opening to panoramic views over Hirafu VillageThe Annex -\u0026nbsp;A Private Wellness RetreatThe Annex, completed in 2021, offers a private wellness retreat with a yoga room, gym, cinema, and Japanese ofuro bath. Crafted by SAAD Architects and SUDO Construction, the property showcases award-winning architecture, including distinctions such as the\u0026nbsp;World Architecture Award and Outstanding Property Award London (Platinum). Interiors feature Minotti, Baxter, Poltrona Frau, and Riva 1920 furnishings.\u0026nbsp;With covenants by Kengo Kuma \u0026amp; Associates and a design-led setting by Zekkei Properties, this is one of the most exceptional luxury homes for sale in Niseko.Secure exclusive access to this billion-dollar home—available only through our agency and experience one of Niseko's most prestigious homes firsthand. For qualified buyers please get in contact with our sales team directly to find out more on what makes this property so special and would be an ideal asset for multi-generation ski family looking for a place to call home.\u0026nbsp;",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Cinema",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Gas Stovetop",
+      "High Ceiling",
+      "Kitchen island",
+      "Laundry Room",
+      "Modern",
+      "Panoramic / Scenic View",
+      "Sauna",
+      "Walk In Closet"
+    ]
+  },
+  "broker": {
+    "agent": "H2 Sales",
+    "agent_profile_url": "https://www.jamesedition.com/agents/h2-sales-1680745",
+    "agency": "H2 Christie's International Real Estate - Niseko",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/h2-christie-s-international-real-estate-niseko-314231",
+    "agency_address": "11-1 Niseko Hirafu, 5-jo 3 chome Kutchan-cho, Abuta-gun, 044-0086, Niseko, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/2200xxs.jpg",
+      "file": "004-70047a17.webp",
+      "media_type": "image/webp",
+      "bytes": 330478,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/2200xxs.jpg",
+      "file": "009-be170d80.webp",
+      "media_type": "image/webp",
+      "bytes": 279842,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/2200xxs.jpg",
+      "file": "014-7197bff6.webp",
+      "media_type": "image/webp",
+      "bytes": 308514,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/2200xxs.jpg",
+      "file": "019-02c0d84c.webp",
+      "media_type": "image/webp",
+      "bytes": 417264,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/2200xxs.jpg",
+      "file": "024-3517776b.webp",
+      "media_type": "image/webp",
+      "bytes": 203058,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/23/08/44/59/c8ee863e-908b-4d5b-b613-4ee6562c5fbf/je/80x80xc.jpg",
+      "file": "034-5e31199e.webp",
+      "media_type": "image/webp",
+      "bytes": 258,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tokyo-japan",
+              "name": "Tokyo"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/5-japan",
+              "name": "5"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kutchan-japan/yukikage-the-annex-award-winning-dual-residence-masterpiece-in-hirafu-with-panoramic-views-15500085",
+              "name": "Yukikage \u0026amp; The Annex - Award-Winning Dual-Residence Masterpiece in Hirafu with Panoramic Views"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Discover\u0026nbsp;Yukikage \u0026amp; The Annex, a rare dual-residence masterpiece offering contemporary alpine luxury in the prestigious Elevation Hirafu community. Set on a generous 2,371 sqm site, this 694.5 sqm estate features a four-bedroom main residence and a standalone Annex, ideal for buyers seeking premium\u0026nbsp;Niseko or Hirafu real estate.\u0026nbsp;The Main Residence -\u0026nbsp;Three Levels of Thoughtful DesignThe main residence opens with a refined, softly illuminated foyer leading to a private garage, sleek sauna, powder room, and elegant mudroom with laundry. The second floor hosts four bedrooms, including two master suites with private bathrooms, plus a stylish media lounge. A soaring top-floor living area flows into a designer kitchen and dining space framed by floor-to-ceiling glass, opening to panoramic views over Hirafu VillageThe Annex -\u0026nbsp;A Private Wellness RetreatThe Annex, completed in 2021, offers a private wellness retreat with a yoga room, gym, cinema, and Japanese ofuro bath. Crafted by SAAD Architects and SUDO Construction, the property showcases award-winning architecture, including distinctions such as the\u0026nbsp;World Architecture Award and Outstanding Property Award London (Platinum). Interiors feature Minotti, Baxter, Poltrona Frau, and Riva 1920 furnishings.\u0026nbsp;With covenants by Kengo Kuma \u0026amp; Associates and a design-led setting by Zekkei Properties, this is one of the most exceptional luxury homes for sale in Niseko.Secure exclusive access to this billion-dollar home—available only through our agency and experience one of Niseko's most prestigious homes firsthand. For qualified buyers please get in contact with our sales team directly to find out more on what makes this property so special and would be an ideal asset for multi-generation ski family looking for a place to call home.\u0026nbsp;",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg",
+        "name": "Yukikage \u0026 The Annex - Award-Winning Dual-Residence Masterpiece in Hirafu with Panoramic Views",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 19550421.48,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "H2 Christie's International Real Estate - Niseko"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/kutchan-japan/yukikage-the-annex-award-winning-dual-residence-masterpiece-in-hirafu-with-panoramic-views-15500085"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

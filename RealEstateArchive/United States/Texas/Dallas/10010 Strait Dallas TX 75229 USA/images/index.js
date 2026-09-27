@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Texas/Dallas/10010 Strait Dallas TX 75229 USA/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-d3218bdd.webp",
+      "href": "004-d3218bdd.webp",
+      "size": 518412
+    },
+    {
+      "name": "009-57c8234a.webp",
+      "href": "009-57c8234a.webp",
+      "size": 168468
+    },
+    {
+      "name": "014-03c4cdd9.webp",
+      "href": "014-03c4cdd9.webp",
+      "size": 112608
+    },
+    {
+      "name": "019-1a16e7e1.webp",
+      "href": "019-1a16e7e1.webp",
+      "size": 244890
+    },
+    {
+      "name": "024-78c52a8c.webp",
+      "href": "024-78c52a8c.webp",
+      "size": 530390
+    },
+    {
+      "name": "032-57242b8e.webp",
+      "href": "032-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "033-4055dfde.svg",
+      "href": "033-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "034-272e34fe.svg",
+      "href": "034-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "035-caf7633d.svg",
+      "href": "035-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

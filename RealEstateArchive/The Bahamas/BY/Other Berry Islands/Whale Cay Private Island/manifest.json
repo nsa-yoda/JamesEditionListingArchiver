@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/whale-cay-private-island-berry-islands-13773453",
+    "canonical_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/whale-cay-private-island-berry-islands-13773453",
+    "site": "jamesedition",
+    "listing_id": "13773453",
+    "listing_reference": "TY46Z4",
+    "first_listed": "Feb 1, 2024",
+    "last_updated": "February 23",
+    "retrieved_at": "2026-06-16T03:43:42.91775Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5005,
+      "sha256": "64bcc3a4b5c57304ea81e9052de1ca69b1704a1d5200cc1b12c889ced471bea9"
+    },
+    {
+      "path": "images/004-1901a947.webp",
+      "bytes": 184044,
+      "sha256": "27992be986b926cb59eb09223179f2f6bd1e9d5db40ef00d1aeb25138ffb1feb"
+    },
+    {
+      "path": "images/009-6a0ae55d.webp",
+      "bytes": 149900,
+      "sha256": "cc257f5dbef95dac5e080a561cbbba7b86410ee08c0aef2486d57e76c3016688"
+    },
+    {
+      "path": "images/014-5eca7550.webp",
+      "bytes": 513114,
+      "sha256": "347a85875b84c0ac23575e321c5797cca1823f16ac0ccdb3dbace31dae85ca74"
+    },
+    {
+      "path": "images/019-ab33da6e.webp",
+      "bytes": 392862,
+      "sha256": "186de6d2b85a453cc65a668a11481e4e49ab77c6ac5fbca7cdcbfed49eb184e5"
+    },
+    {
+      "path": "images/024-56db08b3.webp",
+      "bytes": 395820,
+      "sha256": "ca931efd1e39114a17b534ac60879c3a76807672563975cbd197ee56efc757b4"
+    },
+    {
+      "path": "images/029-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/030-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/031-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/032-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 20436,
+      "sha256": "01530387f461bcc24762902b292db1192550d1799eea754ea64a5a02f3a5e8f9"
+    },
+    {
+      "path": "source.html",
+      "bytes": 327575,
+      "sha256": "9cec3b3281ee13ee21c5d317e7330ede8e96a0ab5220f54ac57eacce48355455"
+    },
+    {
+      "path": "source.url",
+      "bytes": 117,
+      "sha256": "39a53e8d35b2139fd9ab170b26be45bc3b8719583dbed3eaec42153b971357ce"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/05/12/03/45/94a46e93-c48a-4fdf-bbbc-b476ae3c36cf/je/2200xxs.jpg",
+      "path": "images/004-1901a947.webp",
+      "media_type": "image/webp",
+      "bytes": 184044,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/01/31/16/14/11/6bce7aae-48d4-4113-91ed-a418e526c0a0/je/2200xxs.jpg",
+      "path": "images/009-6a0ae55d.webp",
+      "media_type": "image/webp",
+      "bytes": 149900,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/d71233f6-9860-4b9f-b82a-46bee262fd72/je/2200xxs.jpg",
+      "path": "images/014-5eca7550.webp",
+      "media_type": "image/webp",
+      "bytes": 513114,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/62936320-00de-4ce2-a79a-bc4dff232d54/je/2200xxs.jpg",
+      "path": "images/019-ab33da6e.webp",
+      "media_type": "image/webp",
+      "bytes": 392862,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/9a2a9175-d99a-4f5f-9b34-f2922ade620e/je/2200xxs.jpg",
+      "path": "images/024-56db08b3.webp",
+      "media_type": "image/webp",
+      "bytes": 395820,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24-country-club-lane-15453268",
+    "canonical_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24-country-club-lane-15453268",
+    "site": "jamesedition",
+    "listing_id": "15453268",
+    "listing_reference": "SQC98K",
+    "first_listed": "Apr 7, 2025",
+    "last_updated": "April 7, 2025",
+    "retrieved_at": "2026-06-16T03:43:16.168971Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3753,
+      "sha256": "298f6300a7f9f650f991214ed1ec03440aaaa316c8381f94d423386a9fdb5d4a"
+    },
+    {
+      "path": "images/004-105d9348.webp",
+      "bytes": 331810,
+      "sha256": "59e9974d45708e6ba15b62e93279d1350326ec6124e60723725ac6dd4c79768d"
+    },
+    {
+      "path": "images/009-10cd524b.webp",
+      "bytes": 792524,
+      "sha256": "8926702df0ac7e7dc102180f9041f41f2ac4a83fa9a69a0bf7d0f639242cdabf"
+    },
+    {
+      "path": "images/014-9aa8e2db.webp",
+      "bytes": 713972,
+      "sha256": "869f5eee7b78c03ea9f8946802ebacb7e2d086bbca17fa02115b0d068acf3dff"
+    },
+    {
+      "path": "images/019-4055bf77.webp",
+      "bytes": 278798,
+      "sha256": "4669228da09e5c36100f188ed7e1600628a23697e8dbe8754e170cb25ecd815f"
+    },
+    {
+      "path": "images/024-5b8f7ede.webp",
+      "bytes": 281054,
+      "sha256": "1197ece41d738ef0df93c982fa432bceaffb90dc90329b3dbd9599c0d05ebc2c"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 18887,
+      "sha256": "b61e93f6bf1def22f2f4c203b94fc5bc597825295a59765c09bf759f78288bcc"
+    },
+    {
+      "path": "source.html",
+      "bytes": 349626,
+      "sha256": "9c47e7f461ba05fc4ae32c7542e958fd9adbf141b2cde12d8ac53a2afe4117f1"
+    },
+    {
+      "path": "source.url",
+      "bytes": 95,
+      "sha256": "5f953db80470974f33f806d6bca6ed9e52def68aca1494d6d44adcbf570a911b"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/07/09/46/58/fd8af3e0-d649-47ea-81ae-cf0821e60f5d/je/2200xxs.jpg",
+      "path": "images/004-105d9348.webp",
+      "media_type": "image/webp",
+      "bytes": 331810,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24%20Country%20Club%20Lane%20In%20Briarcliff%20Manor,%20New%20York,%20United%20States%20For%20Sale%20%2815453268%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/07/09/46/58/0d168654-9f67-4fc3-b224-c9527ea5f2fc/je/2200xxs.jpg",
+      "path": "images/009-10cd524b.webp",
+      "media_type": "image/webp",
+      "bytes": 792524,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24%20Country%20Club%20Lane%20In%20Briarcliff%20Manor,%20New%20York,%20United%20States%20For%20Sale%20%2815453268%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/07/09/46/58/52f345a1-89dc-4861-b17a-73371d479553/je/2200xxs.jpg",
+      "path": "images/014-9aa8e2db.webp",
+      "media_type": "image/webp",
+      "bytes": 713972,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24%20Country%20Club%20Lane%20In%20Briarcliff%20Manor,%20New%20York,%20United%20States%20For%20Sale%20%2815453268%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/07/09/46/58/3b40a990-d097-42e3-b11d-f62751184bb2/je/2200xxs.jpg",
+      "path": "images/019-4055bf77.webp",
+      "media_type": "image/webp",
+      "bytes": 278798,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24%20Country%20Club%20Lane%20In%20Briarcliff%20Manor,%20New%20York,%20United%20States%20For%20Sale%20%2815453268%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/07/09/46/58/c44697da-609f-4d51-9392-0bf857eb76e0/je/2200xxs.jpg",
+      "path": "images/024-5b8f7ede.webp",
+      "media_type": "image/webp",
+      "bytes": 281054,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24%20Country%20Club%20Lane%20In%20Briarcliff%20Manor,%20New%20York,%20United%20States%20For%20Sale%20%2815453268%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24%20Country%20Club%20Lane%20In%20Briarcliff%20Manor,%20New%20York,%20United%20States%20For%20Sale%20%2815453268%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24%20Country%20Club%20Lane%20In%20Briarcliff%20Manor,%20New%20York,%20United%20States%20For%20Sale%20%2815453268%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24%20Country%20Club%20Lane%20In%20Briarcliff%20Manor,%20New%20York,%20United%20States%20For%20Sale%20%2815453268%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/austin-tx-usa/the-river-garden-crown-jewel-estate-16898015",
+    "canonical_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/the-river-garden-crown-jewel-estate-16898015",
+    "site": "jamesedition",
+    "listing_id": "16898015",
+    "listing_reference": "NW4VFJ",
+    "first_listed": "Jan 8",
+    "last_updated": "April 6",
+    "retrieved_at": "2026-06-16T03:43:39.758745Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3922,
+      "sha256": "883c6faf3fa403407e7169596af9c8ab8999be5d36f0a7b1c8e2c21a6327b4ac"
+    },
+    {
+      "path": "images/004-a7a6d66c.webp",
+      "bytes": 210776,
+      "sha256": "1cbdb05c05257dcda8e7dbda51154ea77b35f5bf9e4e2697042a2e7eb2dc9be5"
+    },
+    {
+      "path": "images/009-f60959e5.webp",
+      "bytes": 541898,
+      "sha256": "bb8e41f175d9d0c2c7540220f28de36be9d9ca8ac2f8a631336495649d594e7a"
+    },
+    {
+      "path": "images/014-14ed3d88.webp",
+      "bytes": 300022,
+      "sha256": "294e33f88748dd0f0d9b4126fe1e35350ca73beec4312a058bb1a50b8bd57586"
+    },
+    {
+      "path": "images/019-5fcc6e2c.webp",
+      "bytes": 408240,
+      "sha256": "b6525cd91e172f67d0fa1b6d3033843c49bdb459d23f06848fb4964603c84ff3"
+    },
+    {
+      "path": "images/024-5fe9908c.webp",
+      "bytes": 236262,
+      "sha256": "25d169b592cc40dd544b53344f77918d7b14e3a7b3e76beb3a9131dd068f966c"
+    },
+    {
+      "path": "images/036-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/037-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/038-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/039-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 18413,
+      "sha256": "d2b05cc45899ff0fa5e15b132bffe28e3236d832a1cf9f557ad0a3cec3d26f26"
+    },
+    {
+      "path": "source.html",
+      "bytes": 368182,
+      "sha256": "ef55e2a8a899ef64165726ff4f4fe40e89280b8474824dd24209a7d424ff063b"
+    },
+    {
+      "path": "source.url",
+      "bytes": 100,
+      "sha256": "cb015491ed0a1abe4ee5a448a0436186c1395706aa770782006976a17ff12ce7"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/2200xxs.jpg",
+      "path": "images/004-a7a6d66c.webp",
+      "media_type": "image/webp",
+      "bytes": 210776,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/2200xxs.jpg",
+      "path": "images/009-f60959e5.webp",
+      "media_type": "image/webp",
+      "bytes": 541898,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/2200xxs.jpg",
+      "path": "images/014-14ed3d88.webp",
+      "media_type": "image/webp",
+      "bytes": 300022,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/2200xxs.jpg",
+      "path": "images/019-5fcc6e2c.webp",
+      "media_type": "image/webp",
+      "bytes": 408240,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/2200xxs.jpg",
+      "path": "images/024-5fe9908c.webp",
+      "media_type": "image/webp",
+      "bytes": 236262,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/380xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 14,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

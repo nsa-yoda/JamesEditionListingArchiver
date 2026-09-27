@@ -1,0 +1,296 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/whale-cay-private-island-berry-islands-13773453",
+    "canonical_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/whale-cay-private-island-berry-islands-13773453",
+    "site": "jamesedition",
+    "listing_id": "13773453",
+    "listing_reference": "TY46Z4",
+    "first_listed": "Feb 1, 2024",
+    "last_updated": "February 23",
+    "retrieved_at": "2026-06-16T03:43:42.91775Z"
+  },
+  "location": {
+    "address": "Whale Cay Whale Cay, Other Berry Islands, BY, The Bahamas",
+    "street": "Whale Cay Private Island",
+    "municipality": "Other Berry Islands",
+    "region": "BY",
+    "country": "The Bahamas",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=25.401152,-77.790279",
+    "latitude": 25.401152,
+    "longitude": -77.790279
+  },
+  "property": {
+    "title": "Whale Cay Private Island, Berry Islands",
+    "type": "Private Island",
+    "availability": "InStock",
+    "price": {
+      "amount": 19995000,
+      "currency": "USD",
+      "display": "$19,995,000"
+    },
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "lot_area": {
+      "value": 565,
+      "display": "565.0 Ac lot"
+    },
+    "year_built": 1940,
+    "photo_count": 21,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6346353681112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "Now offered at a reduced asking price of over 30%, Whale Cay presents an extraordinary and rare offering, encompassing 565 acres and representing the largest private island acreage currently available in the closest proximity to Florida. With a remarkable 4,000 foot runway, the longest currently on the market, this exceptional holding offers limitless potential for visionary development within one of The Bahamas’ most sought after island chains.Signature Features•\t565 acre private island in the Berry Islands•\tOver 30% price reduction, exceptional value opportunity•\t4,000 foot private runway, the longest currently available•\tApproximately 30 miles north of Nassau•\tNatural 2.5 mile waterway with marina development potential•\tHistoric estate structures dating from the 1930s to 1970s•\tBuilt and owned by Marion Carstairs•\tProximity to Chub Cay with full services•\tExisting infrastructure, including generators and water systems•\tPrime location for fishing, boating, and luxury resort developmentIsland OverviewSet between the Bahama Banks and the Tongue of the Ocean, Whale Cay occupies a highly coveted position within the northern Bahamas. Renowned for world-class fishing and exceptional boating waters, the island offers both seclusion and accessibility, a rare combination for a private island of this scale.At approximately 30 miles north of Nassau and within close reach of Florida, Whale Cay is easily accessed by boat, seaplane, or via its expansive 4,000 foot private airstrip, a defining feature that significantly enhances both convenience and development potential.Natural Waterway \u0026amp; Marina PotentialAlong the northern side of the island lies a remarkable two and a half mile natural waterway, approximately 25 feet wide. With depths ranging from one and a half to four feet at mean tide, this channel presents a compelling opportunity for expansion into a full-service marina.Its open-ended design allows for continuous water flow, creating an ideal foundation for a future yachting hub that could anchor a world-class residential resort or private enclave.Historic Estate \u0026amp; Architectural HeritageWhale Cay carries a rich and storied past, having been developed between the 1930s and 1970s by the distinguished English writer Marion Carstairs. The island is dotted with historic structures, including the Great House, guest cottage, music room, staff dormitory, museum, chapel, lighthouse, and additional ancillary buildings.While many of these structures require restoration, they offer a rare opportunity to preserve and reimagine a unique architectural legacy, blending heritage with modern luxury design.Infrastructure \u0026amp; UtilitiesThe island is equipped with foundational infrastructure to support redevelopment. Private diesel generators supply electricity to the Great House and surrounding buildings, while each structure is supported by rainwater catchment systems, totaling approximately 800,000 gallons across 42 tanks.Well water is available, and sewerage is managed through private septic systems. Communication is facilitated via satellite or cellular services. While much of the infrastructure would benefit from modernization, the existing systems provide a valuable base for future enhancements.Location \u0026amp; AccessibilityNearby Chub Cay, located just six and a half miles to the west, serves as the primary port of entry, offering customs and immigration services, a full-service marina, fuel, dining, and essential supplies.This strategic proximity ensures that Whale Cay remains both private and practical, allowing seamless access for owners, guests, and future development operations.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Beachfront",
+      "Fire Pit",
+      "Garage",
+      "Oceanfront",
+      "Privacy",
+      "Private Airport",
+      "Terrace",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Christopher Ansell",
+    "agency": "Bahamas Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/bahamas-sotheby-s-international-realty-10624",
+    "agency_address": "Windsor Business Park, Windsor Field Road, Bahamas"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/05/12/03/45/94a46e93-c48a-4fdf-bbbc-b476ae3c36cf/je/2200xxs.jpg",
+      "file": "004-1901a947.webp",
+      "media_type": "image/webp",
+      "bytes": 184044,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/01/31/16/14/11/6bce7aae-48d4-4113-91ed-a418e526c0a0/je/2200xxs.jpg",
+      "file": "009-6a0ae55d.webp",
+      "media_type": "image/webp",
+      "bytes": 149900,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/d71233f6-9860-4b9f-b82a-46bee262fd72/je/2200xxs.jpg",
+      "file": "014-5eca7550.webp",
+      "media_type": "image/webp",
+      "bytes": 513114,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/62936320-00de-4ce2-a79a-bc4dff232d54/je/2200xxs.jpg",
+      "file": "019-ab33da6e.webp",
+      "media_type": "image/webp",
+      "bytes": 392862,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/9a2a9175-d99a-4f5f-9b34-f2922ade620e/je/2200xxs.jpg",
+      "file": "024-56db08b3.webp",
+      "media_type": "image/webp",
+      "bytes": 395820,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/bahamas",
+              "name": "The Bahamas"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/berry-islands-bahamas",
+              "name": "Berry Islands"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/whale-cay-private-island-berry-islands-13773453",
+              "name": "Whale Cay Private Island, Berry Islands"
+            },
+            "position": 5
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Now offered at a reduced asking price of over 30%, Whale Cay presents an extraordinary and rare offering, encompassing 565 acres and representing the largest private island acreage currently available in the closest proximity to Florida. With a remarkable 4,000 foot runway, the longest currently on the market, this exceptional holding offers limitless potential for visionary development within one of The Bahamas’ most sought after island chains.Signature Features•\t565 acre private island in the Berry Islands•\tOver 30% price reduction, exceptional value opportunity•\t4,000 foot private runway, the longest currently available•\tApproximately 30 miles north of Nassau•\tNatural 2.5 mile waterway with marina development potential•\tHistoric estate structures dating from the 1930s to 1970s•\tBuilt and owned by Marion Carstairs•\tProximity to Chub Cay with full services•\tExisting infrastructure, including generators and water systems•\tPrime location for fishing, boating, and luxury resort developmentIsland OverviewSet between the Bahama Banks and the Tongue of the Ocean, Whale Cay occupies a highly coveted position within the northern Bahamas. Renowned for world-class fishing and exceptional boating waters, the island offers both seclusion and accessibility, a rare combination for a private island of this scale.At approximately 30 miles north of Nassau and within close reach of Florida, Whale Cay is easily accessed by boat, seaplane, or via its expansive 4,000 foot private airstrip, a defining feature that significantly enhances both convenience and development potential.Natural Waterway \u0026amp; Marina PotentialAlong the northern side of the island lies a remarkable two and a half mile natural waterway, approximately 25 feet wide. With depths ranging from one and a half to four feet at mean tide, this channel presents a compelling opportunity for expansion into a full-service marina.Its open-ended design allows for continuous water flow, creating an ideal foundation for a future yachting hub that could anchor a world-class residential resort or private enclave.Historic Estate \u0026amp; Architectural HeritageWhale Cay carries a rich and storied past, having been developed between the 1930s and 1970s by the distinguished English writer Marion Carstairs. The island is dotted with historic structures, including the Great House, guest cottage, music room, staff dormitory, museum, chapel, lighthouse, and additional ancillary buildings.While many of these structures require restoration, they offer a rare opportunity to preserve and reimagine a unique architectural legacy, blending heritage with modern luxury design.Infrastructure \u0026amp; UtilitiesThe island is equipped with foundational infrastructure to support redevelopment. Private diesel generators supply electricity to the Great House and surrounding buildings, while each structure is supported by rainwater catchment systems, totaling approximately 800,000 gallons across 42 tanks.Well water is available, and sewerage is managed through private septic systems. Communication is facilitated via satellite or cellular services. While much of the infrastructure would benefit from modernization, the existing systems provide a valuable base for future enhancements.Location \u0026amp; AccessibilityNearby Chub Cay, located just six and a half miles to the west, serves as the primary port of entry, offering customs and immigration services, a full-service marina, fuel, dining, and essential supplies.This strategic proximity ensures that Whale Cay remains both private and practical, allowing seamless access for owners, guests, and future development operations.",
+        "image": "https://img.jamesedition.com/listing_images/2024/02/05/12/03/45/94a46e93-c48a-4fdf-bbbc-b476ae3c36cf/je/1040x620xc.jpg",
+        "name": "Whale Cay Private Island, Berry Islands",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 19995000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Bahamas Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/whale-cay-private-island-berry-islands-13773453"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/Whale%20Cay%20Private%20Island,%20Berry%20Islands%20In%20Berry%20Islands,%20The%20Bahamas%20For%20Sale%20%2813773453%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden"
+  ]
+};

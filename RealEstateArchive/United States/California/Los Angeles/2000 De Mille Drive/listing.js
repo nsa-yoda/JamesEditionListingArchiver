@@ -1,0 +1,337 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000-de-mille-dr-17836208",
+    "canonical_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000-de-mille-dr-17836208",
+    "site": "jamesedition",
+    "listing_id": "17836208",
+    "listing_reference": "YEP7DN",
+    "first_listed": "May 4",
+    "last_updated": "May 15",
+    "retrieved_at": "2026-06-16T03:43:15.735819Z"
+  },
+  "location": {
+    "address": "2000 De Mille Drive , Los Angeles, CA 90027, California, United States",
+    "street": "2000 De Mille Drive",
+    "municipality": "Los Angeles",
+    "region": "California",
+    "postal_code": "90027",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=34.107657,-118.302937",
+    "latitude": 34.107657,
+    "longitude": -118.302937
+  },
+  "property": {
+    "title": "2000 De Mille Dr",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 29850000,
+      "currency": "USD",
+      "display": "$29,850,000"
+    },
+    "price_per_area": {
+      "amount": 2713,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$2,713"
+    },
+    "bedrooms": 6,
+    "bathrooms": 10,
+    "interior_area": {
+      "value": 11000,
+      "unit": "sqft",
+      "display": "11,000 Sqft"
+    },
+    "lot_area": {
+      "value": 1.96,
+      "display": "1.96 Ac lot"
+    },
+    "year_built": 1920,
+    "photo_count": 19,
+    "video_url": "https://players.brightcove.net/5782886755001/rJlOfaQNgQ_default/index.html?videoId=ref:sir_listings_02bdf9ff-a362-48bf-b0b4-28f574bace81\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "The legendary Cecil B. DeMille estate is now discretely being offered, marking a once-in-a-generation opportunity to own a piece of Hollywood history - an iconic compound from which Hollywood’s future was shaped, and where Mr. DeMille helped define the industry as the entertainment capital of the world. Originally conceived in 1913 by architect B. Cooper Corbett, the high-walled estate stands as a cornerstone of Hollywood’s architectural and cultural legacy. Acquired by Cecil B. DeMille in 1916, it quickly evolved into a sanctuary of cinematic innovation and social grandeur. In 1920, DeMille expanded his domain with the neighboring Dodd residence - once home to Charlie Chaplin - and is believed to have collaborated with Julia Morgan to unite the two homes by way of a graceful glass corridor. This union of artistry and vision transformed the property into a singular masterpiece, embodying the glamour and creative force of Hollywood’s Golden Age. Set across 2.1 lush acres, the estate offers a rare glimpse into Hollywood’s founding era - preserved in full glory and serving today’s lifestyle without apology. Towering century-old trees, rolling lawns, and complete privacy frame a distinguished collection of structures, including a stately Beaux-Arts style mansion, guest house studio with living room fireplace and private gated entry, pool house and fitness studio, tea house, and a separate garage with security station. Perched at the highest point within the prestigious Laughlin Park enclave, the grounds command sweeping views of the Hollywood Hills and Griffith Observatory - adding further romance to this timeless legacy Estate. Lovingly maintained by the DeMille family into the late 1980s, the estate has changed hands just once per generation. Opportunities of this significance are exceedingly rare. What was once unattainable is now available to a qualified purchaser. Own and live the legend.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Gate",
+      "Library",
+      "Mansion",
+      "Outdoor Living Space",
+      "Pergola",
+      "Pool",
+      "Privacy",
+      "Terrace",
+      "Washer Dryer",
+      "Waterfront",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Ernie Carswell",
+    "agency": "Sotheby's International Realty - Beverly Hills Brokerage",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/sotheby-s-international-realty-beverly-hills-brokerage-10820",
+    "agency_address": "9665 Wilshire Blvd Ste 400, Ste 400, 90212, Beverly Hills, California, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/2200xxs.jpg",
+      "file": "004-590a9b89.webp",
+      "media_type": "image/webp",
+      "bytes": 510788,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/2142d75f-64eb-4c68-b47a-9c76780c638d/je/2200xxs.jpg",
+      "file": "009-8c62bddc.webp",
+      "media_type": "image/webp",
+      "bytes": 719278,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/56dd0055-b22e-4b7b-b0dc-06543c502393/je/2200xxs.jpg",
+      "file": "014-a99eb672.webp",
+      "media_type": "image/webp",
+      "bytes": 685686,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/38dc74f2-8286-4d48-8312-f48d09326e86/je/2200xxs.jpg",
+      "file": "019-f2605d9b.webp",
+      "media_type": "image/webp",
+      "bytes": 681208,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/2857bab8-e81a-4a19-953a-cc70026f0231/je/2200xxs.jpg",
+      "file": "024-83f05957.webp",
+      "media_type": "image/webp",
+      "bytes": 897462,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "032-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "033-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "034-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "035-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ca-united-states",
+              "name": "California"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa",
+              "name": "Los Angeles"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000-de-mille-dr-17836208",
+              "name": "2000 De Mille Dr"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "The legendary Cecil B. DeMille estate is now discretely being offered, marking a once-in-a-generation opportunity to own a piece of Hollywood history - an iconic compound from which Hollywood's future was shaped, and where Mr. DeMille helped define the industry as the entertainment capital of the world. Originally conceived in 1913 by architect B. Cooper Corbett, the high-walled estate stands as a cornerstone of Hollywood's architectural and cultural legacy. Acquired by Cecil B. DeMille in 1916, it quickly evolved into a sanctuary of cinematic innovation and social grandeur. In 1920, DeMille expanded his domain with the neighboring Dodd residence - once home to Charlie Chaplin - and is believed to have collaborated with Julia Morgan to unite the two homes by way of a graceful glass corridor. This union of artistry and vision transformed the property into a singular masterpiece, embodying the glamour and creative force of Hollywood's Golden Age. Set across 2.1 lush acres, the estate offers a rare glimpse into Hollywood's founding era - preserved in full glory and serving today's lifestyle without apology. Towering century-old trees, rolling lawns, and complete privacy frame a distinguished collection of structures, including a stately Beaux-Arts style mansion, guest house studio with living room fireplace and private gated entry, pool house and fitness studio, tea house, and a separate garage with security station. Perched at the highest point within the prestigious Laughlin Park enclave, the grounds command sweeping views of the Hollywood Hills and Griffith Observatory - adding further romance to this timeless legacy Estate. Lovingly maintained by the DeMille family into the late 1980s, the estate has changed hands just once per generation. Opportunities of this significance are exceedingly rare. What was once unattainable is now available to a qualified purchaser. Own and live the legend.",
+        "image": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/1040x620xc.jpg",
+        "name": "2000 De Mille Dr",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 29850000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Sotheby's International Realty - Beverly Hills Brokerage"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000-de-mille-dr-17836208"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden"
+  ]
+};

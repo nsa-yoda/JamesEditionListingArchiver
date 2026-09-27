@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/madison-va-usa/quaker-run-road-madison-va-22727-14003924",
+    "canonical_url": "https://www.jamesedition.com/real_estate/madison-va-usa/quaker-run-road-madison-va-22727-14003924",
+    "site": "jamesedition",
+    "listing_id": "14003924",
+    "listing_reference": "9F1D0724-B50A-49E8-97AE-AB612BADBADB",
+    "first_listed": "Mar 25, 2024",
+    "last_updated": "December 15, 2025",
+    "retrieved_at": "2026-06-16T03:43:34.715962Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1634,
+      "sha256": "6b96727c7f4fd7b063eb94297979acf4db219cc3b95fb18f41e494bfbe9635d2"
+    },
+    {
+      "path": "images/004-58914ffe.webp",
+      "bytes": 108806,
+      "sha256": "cbd62243ba362ad591008f3004ac4f3ce0f0a40decf5ea9ceed1bd154012d0e5"
+    },
+    {
+      "path": "images/009-cf592c63.webp",
+      "bytes": 167976,
+      "sha256": "5e46e8fe1ececc4eb5c92c4ea27f447e9be3c39c8b074eaefb2444e3cb9a1d6a"
+    },
+    {
+      "path": "images/014-82012e26.webp",
+      "bytes": 65860,
+      "sha256": "33f8fda839e0f6e3ef4aa93f765e7c4c9952081a45e9d4c2c4429e42d45cc157"
+    },
+    {
+      "path": "images/019-fe713054.webp",
+      "bytes": 128144,
+      "sha256": "d32173a87972431fd52bdc46b53ce2f93291ccc4d3900eb5dd2d9094fc59f319"
+    },
+    {
+      "path": "images/024-5ee30cc1.webp",
+      "bytes": 176530,
+      "sha256": "e7169bfea2dffd0eefced0e3e8d1d2679d7ca22dca4cbf41fa686f803fc352c3"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 14655,
+      "sha256": "e5fa8b8cb7e0dcbf141b97237d8574b758b161e2fa27a41a5c3ea10193bb26da"
+    },
+    {
+      "path": "source.html",
+      "bytes": 262956,
+      "sha256": "64454f3d1f5906a709d1b26745fe25228f0a0305dd8826314e14b9fa1e2fa4b0"
+    },
+    {
+      "path": "source.url",
+      "bytes": 98,
+      "sha256": "9c064cc164cc962c3e8dde7c3813fc093799f33b26a18a032b9916bd9ea0f7f2"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/2200xxs.jpg",
+      "path": "images/004-58914ffe.webp",
+      "media_type": "image/webp",
+      "bytes": 108806,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/d1ec8994-c911-47a2-bcde-4c37fe2c4963/je/2200xxs.jpg",
+      "path": "images/009-cf592c63.webp",
+      "media_type": "image/webp",
+      "bytes": 167976,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/9710bb80-83cf-4aa9-bb36-5937c0ca9f64/je/2200xxs.jpg",
+      "path": "images/014-82012e26.webp",
+      "media_type": "image/webp",
+      "bytes": 65860,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/4fdee0e2-3413-4d77-b2fe-2bcdefa9e9ff/je/2200xxs.jpg",
+      "path": "images/019-fe713054.webp",
+      "media_type": "image/webp",
+      "bytes": 128144,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/f8338582-c605-4ee4-b87b-c7fca43e4166/je/2200xxs.jpg",
+      "path": "images/024-5ee30cc1.webp",
+      "media_type": "image/webp",
+      "bytes": 176530,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

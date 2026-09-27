@@ -1,0 +1,491 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824",
+    "canonical_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824",
+    "site": "jamesedition",
+    "listing_id": "17981824",
+    "listing_reference": "1002180",
+    "first_listed": "May 22",
+    "last_updated": "May 22",
+    "retrieved_at": "2026-06-18T07:09:09.196914Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5086,
+      "sha256": "e1117a93e2006c36d55b10c15f67cc41fa4339b1f5a644e68644402471fc3269"
+    },
+    {
+      "path": "images/004-4f7d86e8.webp",
+      "bytes": 291758,
+      "sha256": "558488386a6d5b40ce2a546eda3e8cd7f6ca39cc3668c76f5f02cb1e840545c6"
+    },
+    {
+      "path": "images/009-0f772d68.webp",
+      "bytes": 216904,
+      "sha256": "76af13963d03074a539431f32af6317125eedfb5a23a4b60e693de875cb4a806"
+    },
+    {
+      "path": "images/014-9416fb14.webp",
+      "bytes": 319312,
+      "sha256": "b4d789f45540f37268e0b4ffd12ced9ee3915ef02e73ccb6a9c090811cbec1d8"
+    },
+    {
+      "path": "images/019-39f646c2.webp",
+      "bytes": 287794,
+      "sha256": "4dcc4e659a6063fe4a0d85063f9687f8fff35c084520aead6e1b3e02f881f8e2"
+    },
+    {
+      "path": "images/024-3151f278.webp",
+      "bytes": 284350,
+      "sha256": "274af722663bbf6e194b2bba1a82aed5a29bc691da49af1e0fe5e7e7a669fe47"
+    },
+    {
+      "path": "images/035-e9414a94.webp",
+      "bytes": 216076,
+      "sha256": "8a3a4de5c3ae376c8b1aeae1447f58ac81a9f6b47fc8cdf038ef865674c4b77b"
+    },
+    {
+      "path": "images/036-ff4c3c1c.webp",
+      "bytes": 268574,
+      "sha256": "7ebaeda63baa0aa35b318ce8d08721921657eb49960d0ff72853a34e99da1b3a"
+    },
+    {
+      "path": "images/037-b872789c.webp",
+      "bytes": 243308,
+      "sha256": "752f20c65566d724417ccb6b0d88eb938dfb8d0035327f71dc91992c4c72d380"
+    },
+    {
+      "path": "images/038-6a2cd3cf.webp",
+      "bytes": 181714,
+      "sha256": "f4aa513b826eeac609b1500c60b67f578efbcb0554c02ffb68317566946ce439"
+    },
+    {
+      "path": "images/039-f9cebfa3.webp",
+      "bytes": 171132,
+      "sha256": "0616cd1b5ea96140938ea6dac73ea3b5dddda7b45706d7ef69bac8f5e3764dba"
+    },
+    {
+      "path": "images/040-51e43351.webp",
+      "bytes": 191460,
+      "sha256": "d3e6cf6575532c79f3434929a992cc92629fa735bd883b78b9431a3e2c2676a3"
+    },
+    {
+      "path": "images/041-08f3e017.webp",
+      "bytes": 122060,
+      "sha256": "1f73a08fd70d044dc4f47a527c8cb1498ed32739edc6fd7cbf1b243405e9401a"
+    },
+    {
+      "path": "images/042-c423cd2a.webp",
+      "bytes": 124376,
+      "sha256": "426c71230c87aab9728b17efa5378bc582408c54dbc802ded5c16d9158f563df"
+    },
+    {
+      "path": "images/043-d46a9d5b.webp",
+      "bytes": 313618,
+      "sha256": "ae9d26ef8d64e5c2d2830a7f662781806da4c9026f3c875d35f8b2fc30d6f1c5"
+    },
+    {
+      "path": "images/044-83de2e1e.webp",
+      "bytes": 138222,
+      "sha256": "e8b7720b496c5ada863afb1b5015528bbd4344e87a92e14c0a7cd8bd8802f623"
+    },
+    {
+      "path": "images/045-7e012672.webp",
+      "bytes": 124848,
+      "sha256": "a1b3cad24c06c1eb1d259911b2bef31f983dd95f8f24f44e09c501e133e19f4e"
+    },
+    {
+      "path": "images/046-4dc29a5b.webp",
+      "bytes": 38460,
+      "sha256": "e92c3277a17c3149b789cf975402f581b5b3ec439700ee2fdef5387896d819e1"
+    },
+    {
+      "path": "images/047-8d606c58.webp",
+      "bytes": 92440,
+      "sha256": "8da9bf321171ab6990c72bb104caeab0988682921bee75c58c618367d4cac8c2"
+    },
+    {
+      "path": "images/048-15f930b6.webp",
+      "bytes": 101642,
+      "sha256": "9fee1679edc2a8a10a4a3370f22fcc701b42f1dcb73d92ec6b109fda98550cc5"
+    },
+    {
+      "path": "images/049-9ee4545a.webp",
+      "bytes": 71942,
+      "sha256": "772136b996a60601e67e5d33387a1b7c5f329e97ba126176f033d834f60d36d2"
+    },
+    {
+      "path": "images/050-0a06e5eb.webp",
+      "bytes": 47898,
+      "sha256": "f27ff26c5f2e565fb5a89664ea7e6c3e162d00d4b14c8fd61e412220629ae5b0"
+    },
+    {
+      "path": "images/051-025199ab.webp",
+      "bytes": 222608,
+      "sha256": "649021ee3215a9067b0aef98647ff091a1ba090726a510749ca9afb51e04138e"
+    },
+    {
+      "path": "images/052-35b8ff33.webp",
+      "bytes": 52038,
+      "sha256": "39a427df1563f0836229f8426dc8912a08a2f7154897964c7c1bcc8ed20d0e56"
+    },
+    {
+      "path": "images/053-34ad7b96.webp",
+      "bytes": 180214,
+      "sha256": "25363e47609dff26cad3d1a77b74bbf1b2c3321996167a4c6364d68cbe74a1d4"
+    },
+    {
+      "path": "images/054-bc4205f0.webp",
+      "bytes": 40046,
+      "sha256": "245d41a1f49c46b9bfec2dde3aea04d881a9f58122c4b0c7e3b75a64ec5df15a"
+    },
+    {
+      "path": "images/055-f40ca4f1.webp",
+      "bytes": 419480,
+      "sha256": "c451ee3659f355d49a02149b4db92302bdf58b9991d0ae687b2b6652c0f3c43d"
+    },
+    {
+      "path": "images/059-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/060-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/061-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/062-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 28712,
+      "sha256": "000a74d0dd09070c1cf287a98f0c0f89707ab29b9c5b5a5d1c1f141198fe1fa0"
+    },
+    {
+      "path": "source.html",
+      "bytes": 494492,
+      "sha256": "64cb7a426b0f17726435ef548117afda449c3ad3f321fa2c094ab117209efec8"
+    },
+    {
+      "path": "source.url",
+      "bytes": 100,
+      "sha256": "9c7a2234cc76dcc89fab9903c759bc26de16f80c40676de6ee63651c966bf07c"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/2200xxs.jpg",
+      "path": "images/004-4f7d86e8.webp",
+      "media_type": "image/webp",
+      "bytes": 291758,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/2200xxs.jpg",
+      "path": "images/009-0f772d68.webp",
+      "media_type": "image/webp",
+      "bytes": 216904,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/2200xxs.jpg",
+      "path": "images/014-9416fb14.webp",
+      "media_type": "image/webp",
+      "bytes": 319312,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/2200xxs.jpg",
+      "path": "images/019-39f646c2.webp",
+      "media_type": "image/webp",
+      "bytes": 287794,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/2200xxs.jpg",
+      "path": "images/024-3151f278.webp",
+      "media_type": "image/webp",
+      "bytes": 284350,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/2a9791c9-cbcd-4a69-ada7-8838740a05d4/je/2000xxs.jpg",
+      "path": "images/035-e9414a94.webp",
+      "media_type": "image/webp",
+      "bytes": 216076,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/afa308cf-1cc8-45fb-86ea-fa08827ff037/je/2000xxs.jpg",
+      "path": "images/036-ff4c3c1c.webp",
+      "media_type": "image/webp",
+      "bytes": 268574,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/102740d9-365c-4e0d-9554-022c8715c0ae/je/2000xxs.jpg",
+      "path": "images/037-b872789c.webp",
+      "media_type": "image/webp",
+      "bytes": 243308,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/d7ce6d39-a504-43c8-8d55-d6fda444084c/je/2000xxs.jpg",
+      "path": "images/038-6a2cd3cf.webp",
+      "media_type": "image/webp",
+      "bytes": 181714,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/8b367dde-4859-43b1-8aaa-8d5489f5ea04/je/2000xxs.jpg",
+      "path": "images/039-f9cebfa3.webp",
+      "media_type": "image/webp",
+      "bytes": 171132,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5b1d05b2-24e0-467e-9cc6-a856372e6ad2/je/2000xxs.jpg",
+      "path": "images/040-51e43351.webp",
+      "media_type": "image/webp",
+      "bytes": 191460,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/f17eea65-b6c0-42fa-8381-bae4464269b9/je/2000xxs.jpg",
+      "path": "images/041-08f3e017.webp",
+      "media_type": "image/webp",
+      "bytes": 122060,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/49126a32-d250-49af-83d0-c5896db4bba0/je/2000xxs.jpg",
+      "path": "images/042-c423cd2a.webp",
+      "media_type": "image/webp",
+      "bytes": 124376,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/e1398a55-e381-42b2-af19-dba51cc28147/je/2000xxs.jpg",
+      "path": "images/043-d46a9d5b.webp",
+      "media_type": "image/webp",
+      "bytes": 313618,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/072c2917-b5c7-499d-98bf-da241cbb15e0/je/2000xxs.jpg",
+      "path": "images/044-83de2e1e.webp",
+      "media_type": "image/webp",
+      "bytes": 138222,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/ac3a12cd-a361-4ed0-9183-5deee7bf538d/je/2000xxs.jpg",
+      "path": "images/045-7e012672.webp",
+      "media_type": "image/webp",
+      "bytes": 124848,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/65a286e7-b381-41da-a56c-73282b397ff0/je/2000xxs.jpg",
+      "path": "images/046-4dc29a5b.webp",
+      "media_type": "image/webp",
+      "bytes": 38460,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/d87f5e1f-6d8b-44ef-a0ae-0ac2782185e2/je/2000xxs.jpg",
+      "path": "images/047-8d606c58.webp",
+      "media_type": "image/webp",
+      "bytes": 92440,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b767c6c6-e2b3-4655-b446-d1b56a612bb7/je/2000xxs.jpg",
+      "path": "images/048-15f930b6.webp",
+      "media_type": "image/webp",
+      "bytes": 101642,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/9fe50380-f7de-4bb3-9cec-1c345d890219/je/2000xxs.jpg",
+      "path": "images/049-9ee4545a.webp",
+      "media_type": "image/webp",
+      "bytes": 71942,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/3e55ba75-01e7-43aa-9a3d-50b25d5faa00/je/2000xxs.jpg",
+      "path": "images/050-0a06e5eb.webp",
+      "media_type": "image/webp",
+      "bytes": 47898,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a1717263-a9cb-4cf5-a4a2-707a10c295f3/je/2000xxs.jpg",
+      "path": "images/051-025199ab.webp",
+      "media_type": "image/webp",
+      "bytes": 222608,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/83605ed2-d3c4-4b47-8d51-c5c1fd2e824d/je/2000xxs.jpg",
+      "path": "images/052-35b8ff33.webp",
+      "media_type": "image/webp",
+      "bytes": 52038,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/452cc1b7-21bc-431b-b1d3-31f298a8f6ac/je/2000xxs.jpg",
+      "path": "images/053-34ad7b96.webp",
+      "media_type": "image/webp",
+      "bytes": 180214,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/17/26/44/9d97879b-80f6-442e-b428-1a0f624e635e/je/2000xxs.jpg",
+      "path": "images/054-bc4205f0.webp",
+      "media_type": "image/webp",
+      "bytes": 40046,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/76ec2572-4968-47ae-b3ae-650c2ddbf764/je/2000xxs.jpg",
+      "path": "images/055-f40ca4f1.webp",
+      "media_type": "image/webp",
+      "bytes": 419480,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/2200xxs%2825%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/2200xxs%2824%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/059-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/060-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/061-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/062-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 11,
+    "images_existing": 30,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

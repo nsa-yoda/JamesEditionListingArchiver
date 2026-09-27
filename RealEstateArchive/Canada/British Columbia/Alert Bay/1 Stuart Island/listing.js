@@ -1,0 +1,995 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/stuart-island-canada/extraordinary-120-acre-oceanfront-property-on-stuart-island-16758562",
+    "canonical_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/extraordinary-120-acre-oceanfront-property-on-stuart-island-16758562",
+    "site": "jamesedition",
+    "listing_id": "16758562",
+    "listing_reference": "1021346",
+    "first_listed": "Dec 6, 2025",
+    "last_updated": "June 19",
+    "retrieved_at": "2026-08-28T00:28:36.95898Z"
+  },
+  "location": {
+    "address": "1 Stuart Island, Alert Bay, British Columbia, Canada",
+    "street": "1 Stuart Island",
+    "municipality": "Alert Bay",
+    "region": "British Columbia",
+    "country": "Canada",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=50.07171329,-126.02573549",
+    "latitude": 50.07171329,
+    "longitude": -126.02573549
+  },
+  "property": {
+    "title": "Extraordinary 120 Acre Oceanfront Property On Stuart Island!",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 10911022.47,
+      "currency": "USD",
+      "display": "$10,911,022"
+    },
+    "price_per_area": {
+      "amount": 1192,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,192"
+    },
+    "bedrooms": 12,
+    "bathrooms": 10,
+    "interior_area": {
+      "value": 9152,
+      "unit": "sqft",
+      "display": "9,152 Sqft"
+    },
+    "lot_area": {
+      "value": 120.28,
+      "display": "120.28 Ac lot"
+    },
+    "year_built": 2008,
+    "photo_count": 92,
+    "video_url": "https://www.youtube.com/embed/adyGrilnxwc?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=adyGrilnxwc\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "Goose Landing, rests gracefully on the ocean’s edge, perfectly positioned so that every room captures uncompromising, panoramic views of the sea. Designed with an open plan ideal for sophisticated entertaining, the residence showcases soaring vaulted ceilings paired with exquisite stone and wood craftsmanship that lend a sense of coastal grandeur. The chef’s kitchen is bright and modern, appointed with stainless steel appliances, gleaming granite surfaces, and generous workspace, effortlessly flowing into the adjacent dining room. From here, the great room invites gatherings beside a striking stone-encased, dual-sided fireplace shared with the opposing family room—an architectural centrepiece that creates warmth and connection throughout the home.\n\nThe primary suite offers a serene retreat, complete with a walk-in closet and a lavish ensuite crafted for indulgent comfort. Two additional bedrooms, including one with its own ensuite, complete the main residence. Outdoors, a wrap-around deck with covered sections allows for year-round enjoyment of the breathtaking setting, whether for quiet morning coffees or evening celebrations.\n\nA completely separate, three-bedroom guest house spans three impressive levels totalling 3,287 sq. ft., providing luxurious accommodations for visitors. Additional estate structures include a caretaker’s cottage, staff quarters, greenhouses, and multiple outbuildings, each thoughtfully positioned throughout the property’s most desirable locations.\n\nEmbodying true resort-style living, this extraordinary 120-acre parcel is entirely self-sustaining, fully off-grid, situated outside the Foreign Buyers ban and offers unparalleled privacy and independence. The surrounding waters are renowned for world-class fishing, adding to the property’s rare appeal. Access is effortless and exclusive—arrive via the private 94-ft dock with boathouse or glide in by way of your own helipad, ensuring Goose Landing remains a sanctuary reachable entirely on your terms.\n* Contact Jim LeBlanc directly for the property feature sheet *",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Coastal",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Gas Stovetop",
+      "Gate",
+      "Helipad",
+      "High Ceiling",
+      "Kitchen island",
+      "Mountain View",
+      "Oceanfront",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Privacy",
+      "Stone Countertops",
+      "Terrace",
+      "Walk In Closet",
+      "Washer Dryer",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Jim LeBlanc",
+    "agent_license": "#16044039616332",
+    "agency": "Engel \u0026 Völkers Victoria",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/engel-volkers-victoria-227420",
+    "agency_address": "V8W 1B1, Victoria, Canada"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/2200xxs.jpg",
+      "file": "img-f17b8bf80609.webp",
+      "media_type": "image/webp",
+      "bytes": 241894,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ec807fbd-ff49-491c-9db7-3167b1653456/je/2200xxs.jpg",
+      "file": "img-27c17e0bbcd7.webp",
+      "media_type": "image/webp",
+      "bytes": 414778,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aecf688a-c768-4ba1-9264-3db368328426/je/2200xxs.jpg",
+      "file": "img-188eef8651ae.webp",
+      "media_type": "image/webp",
+      "bytes": 227392,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ca78cee1-3853-4c95-8ca1-5934cb22b878/je/2200xxs.jpg",
+      "file": "img-12df44fcb8d5.webp",
+      "media_type": "image/webp",
+      "bytes": 252582,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e9bbfd87-6a4c-4e43-9a73-8dc1df2bd81f/je/2200xxs.jpg",
+      "file": "img-55d783f2d2ac.webp",
+      "media_type": "image/webp",
+      "bytes": 281260,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e0e49fc4-d54d-4986-a5ed-7ab635380f76/je/2000xxs.jpg",
+      "file": "img-77821cd7ab50.webp",
+      "media_type": "image/webp",
+      "bytes": 248658,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/f8d8480a-331d-491e-a78e-8d46e62a6b41/je/2000xxs.jpg",
+      "file": "img-ccf5781417d9.webp",
+      "media_type": "image/webp",
+      "bytes": 217676,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/9b8fc7e4-d076-4188-b51f-e6f9eb29f92b/je/2000xxs.jpg",
+      "file": "img-3698f37afed3.webp",
+      "media_type": "image/webp",
+      "bytes": 156212,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/614a7460-7e5a-485f-81aa-982c0afe7669/je/2000xxs.jpg",
+      "file": "img-8497f00bf619.webp",
+      "media_type": "image/webp",
+      "bytes": 92088,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/2bddae56-9363-4383-9269-f1eda3fe4e6b/je/2000xxs.jpg",
+      "file": "img-cf19b0fdfca4.webp",
+      "media_type": "image/webp",
+      "bytes": 142930,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/5cc07279-3e7c-4a49-8f51-47183db4d060/je/2000xxs.jpg",
+      "file": "img-dc5d74306dda.webp",
+      "media_type": "image/webp",
+      "bytes": 281920,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/8150f1c8-890b-4876-a550-9d1dab54a8c1/je/2000xxs.jpg",
+      "file": "img-b86b4fd0560f.webp",
+      "media_type": "image/webp",
+      "bytes": 401922,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/d18a08bf-f604-43b2-89ca-41cd42b19785/je/2000xxs.jpg",
+      "file": "img-3e6f6ea4f8a5.webp",
+      "media_type": "image/webp",
+      "bytes": 377150,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/f8d43fff-8635-40c2-8087-fa0703a58c8c/je/2000xxs.jpg",
+      "file": "img-438ce1c32c1c.webp",
+      "media_type": "image/webp",
+      "bytes": 353536,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/43a3d738-98e5-41e5-addd-458a0e7cdd13/je/2000xxs.jpg",
+      "file": "img-8055591afc68.webp",
+      "media_type": "image/webp",
+      "bytes": 421488,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aedc23d8-26e3-43e1-8d23-e9bb4ce2b7db/je/2000xxs.jpg",
+      "file": "img-fb3bc04f13e0.webp",
+      "media_type": "image/webp",
+      "bytes": 238324,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/c350b86e-24cf-4ffb-9d42-d0c94d2c12d9/je/2000xxs.jpg",
+      "file": "img-cdb964fc42a5.webp",
+      "media_type": "image/webp",
+      "bytes": 285134,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/b6770d9e-f9e8-4cfb-9672-7cb35798463e/je/2000xxs.jpg",
+      "file": "img-047bbf602717.webp",
+      "media_type": "image/webp",
+      "bytes": 489604,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ee3bc4b7-4dbb-4a26-ae3f-c36bfcfcac05/je/2000xxs.jpg",
+      "file": "img-d67394914415.webp",
+      "media_type": "image/webp",
+      "bytes": 135266,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ec93cca7-c90e-44fa-b550-f9ab494c5b14/je/2000xxs.jpg",
+      "file": "img-2aa2ca6f9d06.webp",
+      "media_type": "image/webp",
+      "bytes": 277808,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/8c66dfc1-ff94-412c-9eeb-95e3733d0bca/je/2000xxs.jpg",
+      "file": "img-c69ca07324c9.webp",
+      "media_type": "image/webp",
+      "bytes": 331006,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/2dcd595c-2f1d-4268-bd6c-e304c5090bf8/je/2000xxs.jpg",
+      "file": "img-db7558e71658.webp",
+      "media_type": "image/webp",
+      "bytes": 437708,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e1822ec5-2df6-49e0-a9dc-ba2305a02486/je/2000xxs.jpg",
+      "file": "img-e841029b7b47.webp",
+      "media_type": "image/webp",
+      "bytes": 488782,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/179a8610-25db-4ce4-8a61-98c919b63ad2/je/2000xxs.jpg",
+      "file": "img-868f7ffdb3d3.webp",
+      "media_type": "image/webp",
+      "bytes": 501376,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/1910e0b4-65f4-468c-b749-e8f9772d4e08/je/2000xxs.jpg",
+      "file": "img-aa7950e57eb8.webp",
+      "media_type": "image/webp",
+      "bytes": 414826,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/26674c31-5ca0-4b98-8ba0-9209638265f8/je/2000xxs.jpg",
+      "file": "img-e094db9db791.webp",
+      "media_type": "image/webp",
+      "bytes": 175508,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/c5d036a5-33e2-41c9-a948-6e30044bb8ce/je/2000xxs.jpg",
+      "file": "img-eab98602f1b1.webp",
+      "media_type": "image/webp",
+      "bytes": 171714,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/57dfed46-b988-4132-b284-3e106bbb9eff/je/2000xxs.jpg",
+      "file": "img-19c60ad4341a.webp",
+      "media_type": "image/webp",
+      "bytes": 396784,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/f70bfac6-92af-408e-98cf-bbf0e4787fb7/je/2000xxs.jpg",
+      "file": "img-2947b9207fe3.webp",
+      "media_type": "image/webp",
+      "bytes": 467368,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/fa38f5b6-2393-4871-8f9c-d1d1ff712180/je/2000xxs.jpg",
+      "file": "img-3b46fb16195c.webp",
+      "media_type": "image/webp",
+      "bytes": 348104,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/441fa9d4-a228-4925-9fa3-6d42a0f7a9c8/je/2000xxs.jpg",
+      "file": "img-dee233a04ea2.webp",
+      "media_type": "image/webp",
+      "bytes": 364202,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/5fe54d1b-f252-4e7e-a09d-57c9bb953a14/je/2000xxs.jpg",
+      "file": "img-0c1d6f86123c.webp",
+      "media_type": "image/webp",
+      "bytes": 504432,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/0906cbed-36e4-4421-8705-6ff53420370b/je/2000xxs.jpg",
+      "file": "img-a156852e247f.webp",
+      "media_type": "image/webp",
+      "bytes": 499938,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/18cfbffd-b9de-44d3-ba4a-fc3634e9c0d0/je/2000xxs.jpg",
+      "file": "img-5e5a5f8243db.webp",
+      "media_type": "image/webp",
+      "bytes": 404672,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/7e3a9c85-32e1-4e53-abe3-eeec3b989ed0/je/2000xxs.jpg",
+      "file": "img-6367c1ccacef.webp",
+      "media_type": "image/webp",
+      "bytes": 237100,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/8ddbf6b0-0973-406b-8dd7-86710b48caff/je/2000xxs.jpg",
+      "file": "img-2ae4e0417d21.webp",
+      "media_type": "image/webp",
+      "bytes": 223760,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/4f0fe0e5-eb48-4c96-9ed2-2a7bacd44fc3/je/2000xxs.jpg",
+      "file": "img-c341ba2f8102.webp",
+      "media_type": "image/webp",
+      "bytes": 279032,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/727fb7ed-bb83-46fc-8ed1-c585e06ec075/je/2000xxs.jpg",
+      "file": "img-dfe43b7d9889.webp",
+      "media_type": "image/webp",
+      "bytes": 217516,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/51d9292d-620a-4a0c-ad71-bf4478acfef8/je/2000xxs.jpg",
+      "file": "img-39c167951f6f.webp",
+      "media_type": "image/webp",
+      "bytes": 214812,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/91e1531c-2afc-4b03-b88b-4ce2267da18c/je/2000xxs.jpg",
+      "file": "img-3fb328d58370.webp",
+      "media_type": "image/webp",
+      "bytes": 175962,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/94e5ebb0-c844-4ba7-9985-901f65789683/je/2000xxs.jpg",
+      "file": "img-f2717ef6f600.webp",
+      "media_type": "image/webp",
+      "bytes": 161510,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/bcc174ee-a314-47cc-8d5a-b95ede6e24d7/je/2000xxs.jpg",
+      "file": "img-9ce4679989c1.webp",
+      "media_type": "image/webp",
+      "bytes": 173452,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/bbabe684-890f-4700-837b-64cf7f67580a/je/2000xxs.jpg",
+      "file": "img-1519e40dea97.webp",
+      "media_type": "image/webp",
+      "bytes": 193750,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/52d83035-0686-49e1-acc6-4ffe2b6f4cf5/je/2000xxs.jpg",
+      "file": "img-a0a9cceb2ac8.webp",
+      "media_type": "image/webp",
+      "bytes": 185220,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/f766208f-11eb-476a-90bc-e06804031f0d/je/2000xxs.jpg",
+      "file": "img-ddbe0746d5f0.webp",
+      "media_type": "image/webp",
+      "bytes": 135142,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/7d41a1e1-5b5a-40ae-8432-66e0238ba502/je/2000xxs.jpg",
+      "file": "img-9721b8f44eb7.webp",
+      "media_type": "image/webp",
+      "bytes": 147360,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/7dd9ef73-48e1-4f53-bd0f-42b475304ea6/je/2000xxs.jpg",
+      "file": "img-42dd7417b461.webp",
+      "media_type": "image/webp",
+      "bytes": 153180,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/8154511c-6c06-44ab-b356-e987b87854c4/je/2000xxs.jpg",
+      "file": "img-b064dc2ad11f.webp",
+      "media_type": "image/webp",
+      "bytes": 188230,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/940d0152-53b1-42c6-85b8-74d0adebf682/je/2000xxs.jpg",
+      "file": "img-e94ec17791b2.webp",
+      "media_type": "image/webp",
+      "bytes": 177348,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ef7c2872-4253-4d26-87e5-9fb1fca3ad95/je/2000xxs.jpg",
+      "file": "img-f4cacf8b64d1.webp",
+      "media_type": "image/webp",
+      "bytes": 134976,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/1f39a66e-ac0d-4b2c-9ce5-5d5bdebe04f8/je/2000xxs.jpg",
+      "file": "img-4541671bcf8a.webp",
+      "media_type": "image/webp",
+      "bytes": 118300,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/deefa4ec-eabd-45a8-af3a-0db98179ce10/je/2000xxs.jpg",
+      "file": "img-17788525f1e8.webp",
+      "media_type": "image/webp",
+      "bytes": 86602,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/7fed6768-f260-4729-af1f-8a7e096bdaa1/je/2000xxs.jpg",
+      "file": "img-669024032d15.webp",
+      "media_type": "image/webp",
+      "bytes": 294580,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/faefbc9f-4e93-4de3-ab1f-15148ef86ef4/je/2000xxs.jpg",
+      "file": "img-8fad1fd05ad7.webp",
+      "media_type": "image/webp",
+      "bytes": 187048,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/350263b5-46f9-485d-a778-7b10d2e823be/je/2000xxs.jpg",
+      "file": "img-78e254253b38.webp",
+      "media_type": "image/webp",
+      "bytes": 125468,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/9ec9013f-1f2a-4c91-9a02-7ac63f29e76b/je/2000xxs.jpg",
+      "file": "img-c0a335a329a2.webp",
+      "media_type": "image/webp",
+      "bytes": 172980,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/97d7f39e-ebae-4be0-9541-bdd698079692/je/2000xxs.jpg",
+      "file": "img-df6a4e27e3b3.webp",
+      "media_type": "image/webp",
+      "bytes": 136628,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/009a1575-f337-4387-b6e4-becdae1eee53/je/2000xxs.jpg",
+      "file": "img-30182b29da5b.webp",
+      "media_type": "image/webp",
+      "bytes": 185322,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e37551e0-6cd5-4006-b2cd-02eb6ce09f9d/je/2000xxs.jpg",
+      "file": "img-c13da1aa9f20.webp",
+      "media_type": "image/webp",
+      "bytes": 250586,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/a49e1087-cc0e-4da6-8649-7ec5a2a1d387/je/2000xxs.jpg",
+      "file": "img-e72487b80f92.webp",
+      "media_type": "image/webp",
+      "bytes": 210174,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/c602738b-55c3-46a5-a4b5-b9101db7c42f/je/2000xxs.jpg",
+      "file": "img-d5f9b7d74b74.webp",
+      "media_type": "image/webp",
+      "bytes": 178698,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/8f819c77-20b2-4b67-8972-d6ac17027114/je/2000xxs.jpg",
+      "file": "img-05de7ca887a8.webp",
+      "media_type": "image/webp",
+      "bytes": 297652,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea419fe8-97c9-41bb-b8a0-3463f0233c68/je/2000xxs.jpg",
+      "file": "img-75160a699694.webp",
+      "media_type": "image/webp",
+      "bytes": 463164,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aabb34c3-2904-458c-a720-48f4f2279d6b/je/2000xxs.jpg",
+      "file": "img-361d7117af3f.webp",
+      "media_type": "image/webp",
+      "bytes": 303992,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/f025891d-06aa-41c3-9da3-674dc665ef58/je/2000xxs.jpg",
+      "file": "img-d508d24810cc.webp",
+      "media_type": "image/webp",
+      "bytes": 359264,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/54ffe538-eab3-4428-a907-88a3ac0a3be6/je/2000xxs.jpg",
+      "file": "img-3ec9c40f74e7.webp",
+      "media_type": "image/webp",
+      "bytes": 485878,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/8eb090b3-9eea-4b3a-942d-32fdc628d5f4/je/2000xxs.jpg",
+      "file": "img-659b8f1fb703.webp",
+      "media_type": "image/webp",
+      "bytes": 284902,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/1cd7181e-3c8b-4441-9552-0c29fe0cee2c/je/2000xxs.jpg",
+      "file": "img-5ef2af4ed438.webp",
+      "media_type": "image/webp",
+      "bytes": 424950,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/8b4de40e-50e3-4a58-8b68-b5ffaaf951a2/je/2000xxs.jpg",
+      "file": "img-0af06d5248d8.webp",
+      "media_type": "image/webp",
+      "bytes": 438234,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/1e921811-75af-47d1-b11e-6a9838e437cc/je/2000xxs.jpg",
+      "file": "img-ca70b5591a0e.webp",
+      "media_type": "image/webp",
+      "bytes": 227002,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/87b94b96-eb3f-4d0e-8f3e-d550e801a06a/je/2000xxs.jpg",
+      "file": "img-fd5bedc994cd.webp",
+      "media_type": "image/webp",
+      "bytes": 314084,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/0282c59e-f477-45cd-b67a-cb2513ae8753/je/2000xxs.jpg",
+      "file": "img-97830eaf7d62.webp",
+      "media_type": "image/webp",
+      "bytes": 333222,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/68a72ccf-bebb-4ab4-9dc0-190265c6c27c/je/2000xxs.jpg",
+      "file": "img-a00650625651.webp",
+      "media_type": "image/webp",
+      "bytes": 359944,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/fa4b303c-904d-4ea0-8a32-59f4fb664b0c/je/2000xxs.jpg",
+      "file": "img-3cd992248a56.webp",
+      "media_type": "image/webp",
+      "bytes": 190644,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/28bdd37b-7e43-4985-83a2-560aafc24627/je/2000xxs.jpg",
+      "file": "img-089579bdd8ec.webp",
+      "media_type": "image/webp",
+      "bytes": 355882,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/2b82c5e6-8ecb-4c25-974c-54a17b6e879b/je/2000xxs.jpg",
+      "file": "img-fa99ac31cdaa.webp",
+      "media_type": "image/webp",
+      "bytes": 401840,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/1af8fad9-0145-470d-a680-d37c5693a275/je/2000xxs.jpg",
+      "file": "img-4af94cc87add.webp",
+      "media_type": "image/webp",
+      "bytes": 290462,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/829afe40-7d03-4a9c-a8ae-7a6dadfe8c3a/je/2000xxs.jpg",
+      "file": "img-76e9f4471679.webp",
+      "media_type": "image/webp",
+      "bytes": 387258,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/69fb9640-3747-4d34-8d09-709ea0776de1/je/2000xxs.jpg",
+      "file": "img-7102f0e663f8.webp",
+      "media_type": "image/webp",
+      "bytes": 357732,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/19e6cf5a-2ffe-4f08-a43d-49b63637747e/je/2000xxs.jpg",
+      "file": "img-d6496abbe13c.webp",
+      "media_type": "image/webp",
+      "bytes": 405750,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/45d89bfd-4af0-4b64-b96b-3f7292d443b6/je/2000xxs.jpg",
+      "file": "img-62e11150ce8f.webp",
+      "media_type": "image/webp",
+      "bytes": 405866,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/92f12512-f8cf-4ea3-a3a8-97383748f4f8/je/2000xxs.jpg",
+      "file": "img-0e18769466c5.webp",
+      "media_type": "image/webp",
+      "bytes": 340342,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/5dbb82a2-b777-49bb-9c6b-5ce7178838e9/je/2000xxs.jpg",
+      "file": "img-b04083cae3dd.webp",
+      "media_type": "image/webp",
+      "bytes": 347014,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/258762f4-468b-43a8-81cb-33ea6afea3bd/je/2000xxs.jpg",
+      "file": "img-3644040e46a9.webp",
+      "media_type": "image/webp",
+      "bytes": 319626,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/d70e02be-006e-4186-bd6f-ca295760a256/je/2000xxs.jpg",
+      "file": "img-d6eabc058b44.webp",
+      "media_type": "image/webp",
+      "bytes": 275156,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/a25b656c-4ee8-4280-9161-47ef83060588/je/2000xxs.jpg",
+      "file": "img-fb6f9a67789f.webp",
+      "media_type": "image/webp",
+      "bytes": 313566,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/0b5460d4-84f1-47b1-a062-7fb72cc131e6/je/2000xxs.jpg",
+      "file": "img-3c9fa2a4c501.webp",
+      "media_type": "image/webp",
+      "bytes": 245550,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/b19e4433-95cd-4f71-874d-41ab62727532/je/2000xxs.jpg",
+      "file": "img-0fc2ec62fe9c.webp",
+      "media_type": "image/webp",
+      "bytes": 323956,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/9c4eac5f-95cb-4f37-a30c-a37583b05446/je/2000xxs.jpg",
+      "file": "img-79a8d07fb4a0.webp",
+      "media_type": "image/webp",
+      "bytes": 263456,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/c4adfc73-8afa-4a39-b091-eba16ec90102/je/2000xxs.jpg",
+      "file": "img-989e4ba4ced2.webp",
+      "media_type": "image/webp",
+      "bytes": 328994,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/4f544322-0164-4f01-9cd9-d85f16eec96b/je/2000xxs.jpg",
+      "file": "img-9d7b91ab8bcf.webp",
+      "media_type": "image/webp",
+      "bytes": 223938,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/280cb53b-abc2-48c5-8119-918e4079c536/je/2000xxs.jpg",
+      "file": "img-69cc289359a7.webp",
+      "media_type": "image/webp",
+      "bytes": 263674,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2200xxs%2891%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/05/14/13/29/32/97728ab4-8d2c-4b15-85bc-8390711527a4/je/80x80xc.jpg",
+      "file": "img-7b876bc3303c.webp",
+      "media_type": "image/webp",
+      "bytes": 1154,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/canada",
+              "name": "Canada"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/british-columbia-canada",
+              "name": "British Columbia"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/alert-bay-canada",
+              "name": "Alert Bay"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/stuart-island-canada/extraordinary-120-acre-oceanfront-property-on-stuart-island-16758562",
+              "name": "Extraordinary 120 Acre Oceanfront Property on Stuart Island!"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Goose Landing, rests gracefully on the ocean’s edge, perfectly positioned so that every room captures uncompromising, panoramic views of the sea. Designed with an open plan ideal for sophisticated entertaining, the residence showcases soaring vaulted ceilings paired with exquisite stone and wood craftsmanship that lend a sense of coastal grandeur. The chef’s kitchen is bright and modern, appointed with stainless steel appliances, gleaming granite surfaces, and generous workspace, effortlessly flowing into the adjacent dining room. From here, the great room invites gatherings beside a striking stone-encased, dual-sided fireplace shared with the opposing family room—an architectural centrepiece that creates warmth and connection throughout the home.\n\nThe primary suite offers a serene retreat, complete with a walk-in closet and a lavish ensuite crafted for indulgent comfort. Two additional bedrooms, including one with its own ensuite, complete the main residence. Outdoors, a wrap-around deck with covered sections allows for year-round enjoyment of the breathtaking setting, whether for quiet morning coffees or evening celebrations.\n\nA completely separate, three-bedroom guest house spans three impressive levels totalling 3,287 sq. ft., providing luxurious accommodations for visitors. Additional estate structures include a caretaker’s cottage, staff quarters, greenhouses, and multiple outbuildings, each thoughtfully positioned throughout the property’s most desirable locations.\n\nEmbodying true resort-style living, this extraordinary 120-acre parcel is entirely self-sustaining, fully off-grid, situated outside the Foreign Buyers ban and offers unparalleled privacy and independence. The surrounding waters are renowned for world-class fishing, adding to the property’s rare appeal. Access is effortless and exclusive—arrive via the private 94-ft dock with boathouse or glide in by way of your own helipad, ensuring Goose Landing remains a sanctuary reachable entirely on your terms.\n* Contact Jim LeBlanc directly for the property feature sheet *",
+        "image": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/1040x620xc.jpg",
+        "name": "Extraordinary 120 Acre Oceanfront Property on Stuart Island!",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 10911022.47,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Engel \u0026 Völkers Victoria"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/stuart-island-canada/extraordinary-120-acre-oceanfront-property-on-stuart-island-16758562"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%285%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2200xxs%2891%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+};

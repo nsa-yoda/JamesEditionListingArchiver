@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Romania/Cluj County/Valea Ierii/Guesthouse Near Cluj/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-5f0e9590.webp",
+      "href": "004-5f0e9590.webp",
+      "size": 940206
+    },
+    {
+      "name": "009-90372015.webp",
+      "href": "009-90372015.webp",
+      "size": 628462
+    },
+    {
+      "name": "014-47655376.webp",
+      "href": "014-47655376.webp",
+      "size": 889938
+    },
+    {
+      "name": "019-4ba5445a.webp",
+      "href": "019-4ba5445a.webp",
+      "size": 575790
+    },
+    {
+      "name": "024-90b08580.webp",
+      "href": "024-90b08580.webp",
+      "size": 945978
+    },
+    {
+      "name": "035-57242b8e.webp",
+      "href": "035-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "036-4055dfde.svg",
+      "href": "036-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "037-272e34fe.svg",
+      "href": "037-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "038-caf7633d.svg",
+      "href": "038-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

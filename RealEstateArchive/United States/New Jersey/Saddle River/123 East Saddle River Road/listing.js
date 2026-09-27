@@ -1,0 +1,324 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123-east-saddle-river-road-saddle-river-nj-07458-16398262",
+    "canonical_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123-east-saddle-river-road-saddle-river-nj-07458-16398262",
+    "site": "jamesedition",
+    "listing_id": "16398262",
+    "listing_reference": "5TQS8M",
+    "first_listed": "Oct 14, 2025",
+    "last_updated": "October 14, 2025",
+    "retrieved_at": "2026-06-16T03:43:12.379536Z"
+  },
+  "location": {
+    "address": "123 East Saddle River Road , Saddle River, NJ 07458, New Jersey, United States",
+    "street": "123 East Saddle River Road",
+    "municipality": "Saddle River",
+    "region": "New Jersey",
+    "postal_code": "07458",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.024462,-74.098374",
+    "latitude": 41.024462,
+    "longitude": -74.098374
+  },
+  "property": {
+    "title": "123 East Saddle River Road, Saddle River, Nj 07458",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 14999888,
+      "currency": "USD",
+      "display": "$14,999,888"
+    },
+    "price_per_area": {
+      "amount": 1636,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,636"
+    },
+    "bedrooms": 6,
+    "bathrooms": 9,
+    "interior_area": {
+      "value": 9165,
+      "unit": "sqft",
+      "display": "9,165 Sqft"
+    },
+    "lot_area": {
+      "value": 4.41,
+      "display": "4.41 Ac lot"
+    },
+    "year_built": 2017,
+    "photo_count": 100,
+    "description": "An Architectural Masterpiece on 4.4 Gated AcresIntroducing a truly extraordinary French château-inspired estate, masterfully designed by renowned architect James Paragano. Nestled on 4.4 gated and meticulously landscaped acres, this breathtaking residence offers over 12,000 square feet of refined living space across three expansive levels, seamlessly connected by two sweeping staircases and a full-service elevator.From the moment you arrive, this architectural work of art captivates with timeless elegance and the finest craftsmanship. Beyond the stately portico and 4 car garage, the grand entrance opens into a soaring two story foyer that sets the tone for the home’s magnificent scale and detail. Rich mahogany paneled office with fireplace and patio access, a formal oval salon, and an exquisite dining room with a fully appointed butler’s pantry offer the ideal setting for both grand entertaining and intimate gatherings.The heart of the home is an expansive kitchen featuring top of the line appliances, thick marble countertops, oversized pendant lighting, and a sun-drenched rotunda breakfast room. The adjacent family room opens onto an expansive terrace that spans the entire rear of the home, offering a covered outdoor lounge with fireplace and TV, as well as sweeping views of the formal gardens, pool, and down to the horse pastures and stables. The second floor is anchored by an opulent primary suite with a private vestibule entrance, fireplace, personal terrace, dual walk-in closets, and a luxurious Carrara marble bath featuring a soaking tub, oversized steam shower, and bespoke finishes. Four additional ensuite bedrooms provide comfort and privacy for family and guests alike. The second-floor laundry center is thoughtfully designed with dual washers and dryers, abundant cabinetry, and space for pressing, folding, and storage.Descending to the ground-level entertainment wing, you’ll find a sophisticated media lounge, billiards room, and a full secondary kitchen designed for seamless indoor-outdoor entertaining. A climate-controlled wine cellar with capacity for several hundred bottles, and a two-room fitness and wellness center complete with massage room and sauna, elevate the experience of luxury living.Step outside to discover resort like grounds with tiered patios, covered verandas, a sparkling pool and spa, a shaded pergola framed by lush hydrangeas, and expansive lawns that roll down to the serene banks of the Saddle River. The equestrian amenities include a professionally designed stable and manicured pasture, creating a rare opportunity for refined country living just minutes from city access.This one-of-a-kind estate combines architectural significance, lavish amenities, and natural beauty in a way few properties can. Truly worthy of the most discerning buyer—and the cover of Architectural Digest.",
+    "features": [
+      "Bar",
+      "Elevator",
+      "Equestrian",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Laundry Room",
+      "Office",
+      "Pergola",
+      "Pool",
+      "Privacy",
+      "Sauna",
+      "Terrace",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Christian Di Stasio",
+    "agency": "Prominent Properties Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/prominent-properties-sotheby-s-international-realty-10769",
+    "agency_address": "90 County Road, 07670, Tenafly, New Jersey, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/34d6aaa1-216b-4153-a815-594db95bf536/je/2200xxs.jpg",
+      "file": "004-03a2a7a2.webp",
+      "media_type": "image/webp",
+      "bytes": 621692,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/256ea9a8-f09f-46ff-a22a-bfaa0adcfab4/je/2200xxs.jpg",
+      "file": "009-71633f2b.webp",
+      "media_type": "image/webp",
+      "bytes": 537604,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/10fd48d7-a7b1-4f25-82d5-42d2c98f744f/je/2200xxs.jpg",
+      "file": "014-71430381.webp",
+      "media_type": "image/webp",
+      "bytes": 649066,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/9e8f176d-0c5d-44d8-b260-3bfbb2b96639/je/2200xxs.jpg",
+      "file": "019-793438dc.webp",
+      "media_type": "image/webp",
+      "bytes": 820560,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/dd259199-cd0d-4dae-b967-d472cd59ee35/je/2200xxs.jpg",
+      "file": "024-6be1abb1.webp",
+      "media_type": "image/webp",
+      "bytes": 530212,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa",
+              "name": "Saddle River"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123-east-saddle-river-road-saddle-river-nj-07458-16398262",
+              "name": "123 East Saddle River Road, Saddle River, Nj 07458"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "An Architectural Masterpiece on 4.4 Gated AcresIntroducing a truly extraordinary French château-inspired estate, masterfully designed by renowned architect James Paragano. Nestled on 4.4 gated and meticulously landscaped acres, this breathtaking residence offers over 12,000 square feet of refined living space across three expansive levels, seamlessly connected by two sweeping staircases and a full-service elevator.From the moment you arrive, this architectural work of art captivates with timeless elegance and the finest craftsmanship. Beyond the stately portico and 4 car garage, the grand entrance opens into a soaring two story foyer that sets the tone for the home's magnificent scale and detail. Rich mahogany paneled office with fireplace and patio access, a formal oval salon, and an exquisite dining room with a fully appointed butler’s pantry offer the ideal setting for both grand entertaining and intimate gatherings.The heart of the home is an expansive kitchen featuring top of the line appliances, thick marble countertops, oversized pendant lighting, and a sun-drenched rotunda breakfast room. The adjacent family room opens onto an expansive terrace that spans the entire rear of the home, offering a covered outdoor lounge with fireplace and TV, as well as sweeping views of the formal gardens, pool, and down to the horse pastures and stables. The second floor is anchored by an opulent primary suite with a private vestibule entrance, fireplace, personal terrace, dual walk-in closets, and a luxurious Carrara marble bath featuring a soaking tub, oversized steam shower, and bespoke finishes. Four additional ensuite bedrooms provide comfort and privacy for family and guests alike. The second-floor laundry center is thoughtfully designed with dual washers and dryers, abundant cabinetry, and space for pressing, folding, and storage.Descending to the ground-level entertainment wing, you’ll find a sophisticated media lounge, billiards room, and a full secondary kitchen designed for seamless indoor-outdoor entertaining. A climate-controlled wine cellar with capacity for several hundred bottles, and a two-room fitness and wellness center complete with massage room and sauna, elevate the experience of luxury living.Step outside to discover resort like grounds with tiered patios, covered verandas, a sparkling pool and spa, a shaded pergola framed by lush hydrangeas, and expansive lawns that roll down to the serene banks of the Saddle River. The equestrian amenities include a professionally designed stable and manicured pasture, creating a rare opportunity for refined country living just minutes from city access.This one-of-a-kind estate combines architectural significance, lavish amenities, and natural beauty in a way few properties can. Truly worthy of the most discerning buyer—and the cover of Architectural Digest.",
+        "image": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/34d6aaa1-216b-4153-a815-594db95bf536/je/1040x620xc.jpg",
+        "name": "123 East Saddle River Road, Saddle River, Nj 07458",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 14999888,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Prominent Properties Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123-east-saddle-river-road-saddle-river-nj-07458-16398262"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

@@ -1,0 +1,426 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/son-font-villa-valldemossa-mallorca-spain-14802153",
+    "canonical_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/son-font-villa-valldemossa-mallorca-spain-14802153",
+    "site": "jamesedition",
+    "listing_id": "14802153",
+    "listing_reference": "VRPREN",
+    "first_listed": "Oct 12, 2024",
+    "last_updated": "October 15, 2024",
+    "retrieved_at": "2026-06-18T07:09:13.286528Z"
+  },
+  "location": {
+    "address": "Son Font Villa Valldemossa, Mallorca, Spain , Valldemossa, NJ 07170, Crosswicks, New Jersey, United States",
+    "street": "Son Font Villa",
+    "municipality": "Crosswicks",
+    "region": "New Jersey",
+    "postal_code": "07170",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.13909531,-74.6785202",
+    "latitude": 40.13909531,
+    "longitude": -74.6785202
+  },
+  "property": {
+    "title": "Son Font Villa, Valldemossa, Mallorca, Spain",
+    "type": "Land",
+    "price": {
+      "amount": null,
+      "display": "Price On Request"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "photo_count": 24,
+    "description": "The Son Font Villa + Vineyard encompasses approximately eighteen extraordinary acres of land. The Villa itself is approximately 7,500 sq. ft. with an incredible professional country kitchen that any chef would love to call his own. The Villa has nice high ceilings, loads of windows letting in plenty of natural light and offering expansive views of the lush surroundings. There is a spacious living room with ample room for entertaining that includes a fireplace to warm the room when the weather turns cool. It also boasts four bedroom suites each with its own bathrooms. The Villa itself sits on approximately six acres with a Mediterranean garden, multiple terraces for alfresco dining and a large glistening pool, all with views of the sea as you dine and swim. The Villa also has a full basement and attached six-car garage. The Vineyard is spectacular and sprawls over approximately twelve acres of land and includes an approximately 3,700 sq. ft. agricultural building/ processing facility. Valldemossa is a very exclusive area, only nine miles to the beach and only twenty minutes to the city of Palma and the airport. This formidable area attracts many celebrities and VIPs. The bucolic town of Valldemossa is where Chopin lived and composed 24 preludes from 1836 to 1839 before he decided to move on. The Chopin Festival has been held in Valldemossa every year in August since 1930.",
+    "features": [
+      "Basement",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Pool",
+      "Terrace",
+      "Vineyard / Winery"
+    ]
+  },
+  "broker": {
+    "agent": "Sheila Myers",
+    "agency": "Prominent Properties Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/prominent-properties-sotheby-s-international-realty-10574",
+    "agency_address": "1022 Closter Dock Road, 07620, Alpine, New Jersey, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/2200xxs.jpg",
+      "file": "004-ce269586.webp",
+      "media_type": "image/webp",
+      "bytes": 392940,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/2200xxs.jpg",
+      "file": "009-e4b974af.webp",
+      "media_type": "image/webp",
+      "bytes": 573064,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/2200xxs.jpg",
+      "file": "014-74c8b2f5.webp",
+      "media_type": "image/webp",
+      "bytes": 565080,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/2200xxs.jpg",
+      "file": "019-ef763c80.webp",
+      "media_type": "image/webp",
+      "bytes": 334048,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/2200xxs.jpg",
+      "file": "024-dbc902da.webp",
+      "media_type": "image/webp",
+      "bytes": 258418,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/6db9f5f5-8772-449b-8800-78f4654d95d8/je/2000xxs.jpg",
+      "file": "034-d7171c0a.webp",
+      "media_type": "image/webp",
+      "bytes": 341330,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a45e8a99-8062-49dc-ba41-f91335b3ed2a/je/2000xxs.jpg",
+      "file": "035-221be1f1.webp",
+      "media_type": "image/webp",
+      "bytes": 366262,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e5fef7c1-b91e-4826-bc1c-b0a32bef96a9/je/2000xxs.jpg",
+      "file": "036-c92209c4.webp",
+      "media_type": "image/webp",
+      "bytes": 388704,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/69b15ccb-6a14-4015-9749-8df0637f4b01/je/2000xxs.jpg",
+      "file": "037-9a6200f1.webp",
+      "media_type": "image/webp",
+      "bytes": 349156,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/aab7650e-2b62-492f-ae3c-28485e9865fd/je/2000xxs.jpg",
+      "file": "038-87b2d3ca.webp",
+      "media_type": "image/webp",
+      "bytes": 458292,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/6ca249d4-7c7a-4a03-a373-3d4cdef8ec1b/je/2000xxs.jpg",
+      "file": "039-da1f16f1.webp",
+      "media_type": "image/webp",
+      "bytes": 132496,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/584f08b7-7504-42df-9459-3e24fbc10873/je/2000xxs.jpg",
+      "file": "040-5554721d.webp",
+      "media_type": "image/webp",
+      "bytes": 134158,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/4c2ed9cb-79f9-449d-8097-f26935f26607/je/2000xxs.jpg",
+      "file": "041-2b0c5688.webp",
+      "media_type": "image/webp",
+      "bytes": 115714,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/2d49f09c-102c-481c-a8c0-2246f481050b/je/2000xxs.jpg",
+      "file": "042-e18daedb.webp",
+      "media_type": "image/webp",
+      "bytes": 79870,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/7a956590-61a4-41d4-8e18-1cb7f78ca86d/je/2000xxs.jpg",
+      "file": "043-ec5f681f.webp",
+      "media_type": "image/webp",
+      "bytes": 93704,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/eb85001b-929a-4c8e-8732-7f01add8cf59/je/2000xxs.jpg",
+      "file": "044-b3e6d6ec.webp",
+      "media_type": "image/webp",
+      "bytes": 106176,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/0f174741-a474-43e7-941a-9e2de8409be6/je/2000xxs.jpg",
+      "file": "045-2902100c.webp",
+      "media_type": "image/webp",
+      "bytes": 128606,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/bee995b9-7388-4390-8711-3151899dd8a8/je/2000xxs.jpg",
+      "file": "046-7b646b3a.webp",
+      "media_type": "image/webp",
+      "bytes": 151974,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e19fec12-2ab3-44e0-b037-713c2525c4b3/je/2000xxs.jpg",
+      "file": "047-111355de.webp",
+      "media_type": "image/webp",
+      "bytes": 145952,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/b751a860-5ecf-4497-878b-939d1ab97b04/je/2000xxs.jpg",
+      "file": "048-484d6506.webp",
+      "media_type": "image/webp",
+      "bytes": 353606,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/667d2a41-047d-4ece-88c0-05b4f5052e84/je/2000xxs.jpg",
+      "file": "049-0c4be035.webp",
+      "media_type": "image/webp",
+      "bytes": 389940,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/41f4dd7e-1b6b-4fa2-a498-cf58550bf190/je/2000xxs.jpg",
+      "file": "050-200111d0.webp",
+      "media_type": "image/webp",
+      "bytes": 293222,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a193d7a2-fba5-4076-8eb8-a51340a22abf/je/2000xxs.jpg",
+      "file": "051-748e3d47.webp",
+      "media_type": "image/webp",
+      "bytes": 487706,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/1e1cb7d8-b23a-482e-ad85-b7b43911c7e9/je/2000xxs.jpg",
+      "file": "052-cc7f2e2e.webp",
+      "media_type": "image/webp",
+      "bytes": 658222,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/2200xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "055-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "056-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "057-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "058-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/trenton-nj-usa",
+              "name": "Trenton"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/crosswicks-nj-usa",
+              "name": "Crosswicks"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/son-font-villa-valldemossa-mallorca-spain-14802153",
+              "name": "Son Font Villa, Valldemossa, Mallorca, Spain"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {},
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/2200xxsxm.jpg: HTTP 403 Forbidden"
+  ]
+};

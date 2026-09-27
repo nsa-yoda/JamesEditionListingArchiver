@@ -1,0 +1,1087 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/single-family-residence-in-windermere-17683369",
+    "canonical_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/single-family-residence-in-windermere-17683369",
+    "site": "jamesedition",
+    "listing_id": "17683369",
+    "listing_reference": "O6395291",
+    "first_listed": "Apr 15",
+    "last_updated": "May 11",
+    "retrieved_at": "2026-08-28T00:31:47.629246Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3674,
+      "sha256": "dda555630be5a10c195f352fbfb2095dbcf693295d1251dc637ff27b88653356"
+    },
+    {
+      "path": "images/img-06437df26210.webp",
+      "bytes": 386768,
+      "sha256": "6aa46fda082bc185bbd63150df597f68b9203a08d7f0e44701d4e8508534182e"
+    },
+    {
+      "path": "images/img-09cf5affbce3.webp",
+      "bytes": 413166,
+      "sha256": "498bd6327e295c4356dd14d2272b74a76ea0b70dfc110347e36222aaa95d568f"
+    },
+    {
+      "path": "images/img-0a246ceb5bb5.webp",
+      "bytes": 384364,
+      "sha256": "e713d4aeda43b84cf36d7039a7c76377c060176b9e7b5ccf0f1d984f18d8e7a2"
+    },
+    {
+      "path": "images/img-12a984319af6.webp",
+      "bytes": 108698,
+      "sha256": "2b4a75aecf6e0ef76b1b603522fa8c0183a7f2f1abe53f04b3b3c1bff78d1410"
+    },
+    {
+      "path": "images/img-13649414b792.webp",
+      "bytes": 92866,
+      "sha256": "8a2a1b3a663918ef935877dd4773520f3905a1d14368baa14e58def8f1898bb6"
+    },
+    {
+      "path": "images/img-178f0a83c3b6.webp",
+      "bytes": 358158,
+      "sha256": "a165c9a07c27888efc7028d06d024c696b606cbd93662be70732523e7e5e43ed"
+    },
+    {
+      "path": "images/img-1b9f4a8aa7de.webp",
+      "bytes": 350644,
+      "sha256": "08e2add396304ab42e10f9f6659ae7b9188fa6aaa1bb75868a152caab58fbae2"
+    },
+    {
+      "path": "images/img-1f961560b47f.webp",
+      "bytes": 71780,
+      "sha256": "b8a3663c4d4bfe528dd69643142782b9f9a54cbfdcb7910598227d51cdd900a3"
+    },
+    {
+      "path": "images/img-2580e0bc8e40.webp",
+      "bytes": 83728,
+      "sha256": "079a26228f8fe41112b77c5ddaf375d862d85b9540d621e83d3773eb498dcea1"
+    },
+    {
+      "path": "images/img-2fcd70acc1c8.webp",
+      "bytes": 117298,
+      "sha256": "c1b4e97f016393c75dd1314728c32fae2e04834f8b9767e9df65884e9fcfc976"
+    },
+    {
+      "path": "images/img-328f6cb17cae.webp",
+      "bytes": 235028,
+      "sha256": "5cc3b032bcf38a8356267f6d1b319b69522e8cecc4c4e040d9a700a503859376"
+    },
+    {
+      "path": "images/img-345bf081611f.webp",
+      "bytes": 515556,
+      "sha256": "3988f0c2a9cc1b3d1714f19b039742b96a3df93f96ade16dfa49f77e6fb6974f"
+    },
+    {
+      "path": "images/img-3462fcf15299.webp",
+      "bytes": 259068,
+      "sha256": "5aee0b822b9273c8931ba8148ad748bee44ffb1c786ba6ce8178cb9396a92099"
+    },
+    {
+      "path": "images/img-3826014c3696.webp",
+      "bytes": 135194,
+      "sha256": "20cc90158ceede75deea0cfeb810070989e8b88df38b10d24e8992fb94a29178"
+    },
+    {
+      "path": "images/img-3a14458c5d55.webp",
+      "bytes": 84122,
+      "sha256": "37c51e4efd1c373617e1f841bc0970353b0753dc17f7655b43cdeda1c746cbcc"
+    },
+    {
+      "path": "images/img-3b0a1c71e1cc.webp",
+      "bytes": 159264,
+      "sha256": "d72b78a2915c34e54038cd3857b020a6d5d5425ca4bbc2c3ed478ac3c99a2adb"
+    },
+    {
+      "path": "images/img-3c3413cff329.webp",
+      "bytes": 505132,
+      "sha256": "433c645bda7a58e1b3a3477a365dcba5c3f87d2a0f2aeba7980f5a34d6a8e5c0"
+    },
+    {
+      "path": "images/img-3cafb46f68a2.webp",
+      "bytes": 105982,
+      "sha256": "0553228e351451908a55756690719f2d2d5b6330d6ae8907ef318357345781da"
+    },
+    {
+      "path": "images/img-3fab21ccaf4c.webp",
+      "bytes": 410454,
+      "sha256": "85d3d4c10a2bc4c4bdf250694c860cc194bad0d0c8d2f336cd06828013184915"
+    },
+    {
+      "path": "images/img-4382a73f46ee.webp",
+      "bytes": 111076,
+      "sha256": "393d16ec09d33f07207ad4aeee66ae07c9ba6ca929534e7122ac53e90d64589a"
+    },
+    {
+      "path": "images/img-445b774f0b15.webp",
+      "bytes": 340474,
+      "sha256": "4a4e0bf71c51492bbdc2ff6699a990e4595019ddc7f64c921f449428f44f3779"
+    },
+    {
+      "path": "images/img-460bc0f48e28.webp",
+      "bytes": 84518,
+      "sha256": "91792817e042c33459ba69df8708e1719928a547ae6dd05f46549e1f8418a40e"
+    },
+    {
+      "path": "images/img-4a0819e2eea4.webp",
+      "bytes": 531366,
+      "sha256": "ff6aba9c7ce3b4e030e11cd17f26002604e1b73f25213b4b147c83b9d9cb09e8"
+    },
+    {
+      "path": "images/img-50df4fa52c49.webp",
+      "bytes": 108636,
+      "sha256": "e55661b63bc69205c8b68555a694b160bf82b484cee8bc9aaabf9715a9dfe288"
+    },
+    {
+      "path": "images/img-515972cca673.webp",
+      "bytes": 202610,
+      "sha256": "620baddce5118a16c13175f720216e76252cce97e2ffcc723d6af15fe158f38d"
+    },
+    {
+      "path": "images/img-5578c935d97e.webp",
+      "bytes": 167310,
+      "sha256": "4b75a3571138dc761a728aa92db29a32b86125a177461d75997ecc9c2bc987ad"
+    },
+    {
+      "path": "images/img-55d131de6ea2.webp",
+      "bytes": 602892,
+      "sha256": "577c663a86aec09173633d267e1aa3319fc444f1bbb4a87e3ba31fa32cc52553"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5ef61c1c12b7.webp",
+      "bytes": 66752,
+      "sha256": "23b3ff45eec1989cc7059af2512948726d6ca051abe255f38dafc0ca2b7c21f1"
+    },
+    {
+      "path": "images/img-60764c14063f.webp",
+      "bytes": 114970,
+      "sha256": "6ac95a4b8f86bf639dfd86e6914d2a83964862c05afa8f23c3e9e3888d425a3d"
+    },
+    {
+      "path": "images/img-617d41a91e81.webp",
+      "bytes": 98610,
+      "sha256": "bb57f7057e69dcc71ed8cfbdd6e903fb373d7755d2bcc0b70d80142692c67417"
+    },
+    {
+      "path": "images/img-61e86e2622aa.webp",
+      "bytes": 101306,
+      "sha256": "62dd70728fbbb97c347ed18a23a9adae60e37c4e7c55c1d57fd8a009a9def908"
+    },
+    {
+      "path": "images/img-62aa48e37b29.webp",
+      "bytes": 256478,
+      "sha256": "823e140ed05a4740a59ced877686f9a9edde44f9188fd9b58d256ed47503d94d"
+    },
+    {
+      "path": "images/img-63ce714f4d91.webp",
+      "bytes": 102012,
+      "sha256": "b1dc2441f4f240e2123782ae9eb978f486f2da0a3b7d77220782ded5b151b53b"
+    },
+    {
+      "path": "images/img-63dfd9cbe8ca.webp",
+      "bytes": 598094,
+      "sha256": "e761d80448dd98861b2874baa9a437fae91b33e82c1c54f95129ff029c355408"
+    },
+    {
+      "path": "images/img-641b941eb2ce.webp",
+      "bytes": 236658,
+      "sha256": "19a40ba30174befd23310d33901afd506e262212005b1c7763087492b496cb85"
+    },
+    {
+      "path": "images/img-7767304abb05.webp",
+      "bytes": 325634,
+      "sha256": "cd48e44fb598afae69b5a46f9e04acf06648c43768ab0ca03c8450b199e36212"
+    },
+    {
+      "path": "images/img-7d3706d00190.webp",
+      "bytes": 111752,
+      "sha256": "4aabaeafcdd0c0743da3c41e90c9dbe3e401d8b6b4094f394f74450523bc24f5"
+    },
+    {
+      "path": "images/img-81fde5b6a18d.webp",
+      "bytes": 199368,
+      "sha256": "acbf6489bf2ee398543435c290ed42ff76c182701fad11a5e285b9a32a8e5436"
+    },
+    {
+      "path": "images/img-929e73ef8d81.webp",
+      "bytes": 83896,
+      "sha256": "0dea35ad4a886a3a19563d62c124c544727d98d7c4ccee93465060e919d0577d"
+    },
+    {
+      "path": "images/img-92a915413106.webp",
+      "bytes": 185766,
+      "sha256": "a6e2bfff390ceb8995ae605196cb66c73bade4c56c411e98643460d45a2b4532"
+    },
+    {
+      "path": "images/img-943501e5bf57.webp",
+      "bytes": 97558,
+      "sha256": "74066ca72f4a26cbb60a7b1bd73401aebd90d4eec836119751dbcd3028b9e9e0"
+    },
+    {
+      "path": "images/img-9c5bc01112bb.webp",
+      "bytes": 323882,
+      "sha256": "90b5f784bb62c380b8317c5815f441224ff42ab1e72b01b84d971f649b21ce50"
+    },
+    {
+      "path": "images/img-9d1bdb1bc9b6.webp",
+      "bytes": 121698,
+      "sha256": "d80416ff57ba480910e561abc85d297559bf3f22cde245f5820ca0e91e892312"
+    },
+    {
+      "path": "images/img-a1f68ae3612c.webp",
+      "bytes": 102904,
+      "sha256": "f5a98416253999addf824e8ec79c18a8d35f8335962c45dbf4c2b40398f625b4"
+    },
+    {
+      "path": "images/img-a822510e4fbc.webp",
+      "bytes": 104382,
+      "sha256": "5b0eac9a9e3853a41d66ed252c72fe918f184b0dc6c6b83cf7b4f2a3a1aa0de5"
+    },
+    {
+      "path": "images/img-b71dfd556921.webp",
+      "bytes": 367098,
+      "sha256": "57b4ae7e75323c0d446d4b066ddff33f47a1023c68a20c62af5f3f8c879910dc"
+    },
+    {
+      "path": "images/img-b8aa7176a7c8.webp",
+      "bytes": 70240,
+      "sha256": "216f9ed3e5cb673005fc46618b3a349dfc574b9ecdaaf806712d752532da2da9"
+    },
+    {
+      "path": "images/img-b97d966ec098.webp",
+      "bytes": 421152,
+      "sha256": "3ab1e2adcecf2118f0533873d373d32a4bf6acdf508983440be1e1958cc3fe4f"
+    },
+    {
+      "path": "images/img-bdadb0498138.webp",
+      "bytes": 509606,
+      "sha256": "a1dcb6d1aea56993dea25846f04dff79bf442da452288d28b79a96ed303b11c0"
+    },
+    {
+      "path": "images/img-bdc5864466cd.webp",
+      "bytes": 262608,
+      "sha256": "5cb3a910bc27c50758567d30dfde91670a3f05afb1213723280e3f13ad2f2d32"
+    },
+    {
+      "path": "images/img-bdd0bf72ada4.webp",
+      "bytes": 133468,
+      "sha256": "8120a680d6daf5bc46550623355b8212adcaf3629ec009eb41d9497ce42dd437"
+    },
+    {
+      "path": "images/img-c4234248d562.webp",
+      "bytes": 373322,
+      "sha256": "d89adf8465278aa472603a55253b604d2ed46685c43d1af66967c4041667088d"
+    },
+    {
+      "path": "images/img-c4bacc7ff5c5.webp",
+      "bytes": 98670,
+      "sha256": "d8ab9f23c39f18e6032da38f9fb8502c6170b2ae2a0b4330a82c9b4d2b571f6d"
+    },
+    {
+      "path": "images/img-c4c95123e32a.webp",
+      "bytes": 291554,
+      "sha256": "2e04ef8201f33bfe06c897102b50d073a00c6febd5c931f058d8406ea8447c0d"
+    },
+    {
+      "path": "images/img-c8351fc2b4e4.webp",
+      "bytes": 91128,
+      "sha256": "279d2f92ad43b021aa97987535f2550d24829b86cbf94b2cef11bfbcb9cafb85"
+    },
+    {
+      "path": "images/img-c914ab6372c4.webp",
+      "bytes": 147212,
+      "sha256": "1b0fc24963a612af18cf37ff6da02f62ce921300298b68eed31fb8f53a3da6d3"
+    },
+    {
+      "path": "images/img-d0848423131d.webp",
+      "bytes": 86778,
+      "sha256": "78fd10cbf39859ab4a419d3f89b143102f6694fc1783af14e37d60121d4e1758"
+    },
+    {
+      "path": "images/img-d1ba5f3758ae.webp",
+      "bytes": 364862,
+      "sha256": "e06def45976d1aa255e45a335df86e037d5eb923fb535dcff8800d7dfc9f313b"
+    },
+    {
+      "path": "images/img-d4b493a30a08.webp",
+      "bytes": 108666,
+      "sha256": "736eca272c7a9a43c14752ed995e9bf5e67d21c63cec5ce998f42690d2980108"
+    },
+    {
+      "path": "images/img-d5cc1702d4cd.webp",
+      "bytes": 101456,
+      "sha256": "7ecec92aca6235089b80320f49423bf0306a08c68a792a838ea99b9c880252f1"
+    },
+    {
+      "path": "images/img-d86867c7cafc.webp",
+      "bytes": 286212,
+      "sha256": "04679b57c2af9f92dc4cc7c379ebb6fc36a39a59716313c5dcb2fa1e77772f43"
+    },
+    {
+      "path": "images/img-eeed770e39b9.webp",
+      "bytes": 279148,
+      "sha256": "5ae12f7ae19a72b1ca7584d19d11a119366be40ef67d558f5bb498bf01ef634a"
+    },
+    {
+      "path": "images/img-ef33552ab59e.webp",
+      "bytes": 333788,
+      "sha256": "f6bb74f5649357af0fddcb35d09751518baa6a144545b529afe4e7910227c24d"
+    },
+    {
+      "path": "images/img-efc44bcb0fa1.webp",
+      "bytes": 320558,
+      "sha256": "af89ffc18a3eced9fb6c8ae948e2cd4e48dd68c6a54c6cec22730cc6fbff5cc8"
+    },
+    {
+      "path": "images/img-f10a28c7ac70.webp",
+      "bytes": 411312,
+      "sha256": "c027d3fa3437382da63bfce0b3a0126b0cbbc7f17d0f33ba92852394fb9cc6e5"
+    },
+    {
+      "path": "images/img-f5acf474fca3.webp",
+      "bytes": 83140,
+      "sha256": "80fdc52b3bca2e257dd9162cf9569a813a0a7b737f1bd5c017ace7c896e5665c"
+    },
+    {
+      "path": "images/img-f7d5ebee3214.webp",
+      "bytes": 73152,
+      "sha256": "c7bff763de159ec26f9c7664c1e930d6e40ec37bf4fd953d605bcc9e9e351c31"
+    },
+    {
+      "path": "images/img-ff635224f6d1.webp",
+      "bytes": 66454,
+      "sha256": "dde83148155f6e00f57c40a7f78001c27718708f2da2505f6c0fde9cfe652f7a"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 43809,
+      "sha256": "5be5b56d053fe7bf8bfde2228a7808fce8ebadc4dacf3c35ee34655f50fb3947"
+    },
+    {
+      "path": "source.html",
+      "bytes": 528256,
+      "sha256": "656ee874fc318eae5148ce1187fc5602aa340102bd11f626268e712905d2034b"
+    },
+    {
+      "path": "source.url",
+      "bytes": 106,
+      "sha256": "ad1c548821ec19d12fa22f84481bfea5962a62f92cc7057559769c6e1255412b"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/2200xxs.jpg",
+      "path": "images/img-5578c935d97e.webp",
+      "media_type": "image/webp",
+      "bytes": 167310,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/2200xxs.jpg",
+      "path": "images/img-9c5bc01112bb.webp",
+      "media_type": "image/webp",
+      "bytes": 323882,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/2200xxs.jpg",
+      "path": "images/img-63dfd9cbe8ca.webp",
+      "media_type": "image/webp",
+      "bytes": 598094,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/2200xxs.jpg",
+      "path": "images/img-3fab21ccaf4c.webp",
+      "media_type": "image/webp",
+      "bytes": 410454,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/2200xxs.jpg",
+      "path": "images/img-9d1bdb1bc9b6.webp",
+      "media_type": "image/webp",
+      "bytes": 121698,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/M00000146.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%287%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%288%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%289%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e6a2e338-0dc6-4848-9b92-5413dccbf29e/je/2000xxs.jpg",
+      "path": "images/img-3cafb46f68a2.webp",
+      "media_type": "image/webp",
+      "bytes": 105982,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/03750b91-7a20-4b23-ad40-93d59a8ab823/je/2000xxs.jpg",
+      "path": "images/img-d4b493a30a08.webp",
+      "media_type": "image/webp",
+      "bytes": 108666,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/348eef5a-2651-4c10-b8ca-592349c64e79/je/2000xxs.jpg",
+      "path": "images/img-c8351fc2b4e4.webp",
+      "media_type": "image/webp",
+      "bytes": 91128,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/59050e31-4df5-4d2d-92ff-0509d7334cc6/je/2000xxs.jpg",
+      "path": "images/img-ff635224f6d1.webp",
+      "media_type": "image/webp",
+      "bytes": 66454,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3ef21bad-7637-4a50-816d-5fdfb2167946/je/2000xxs.jpg",
+      "path": "images/img-460bc0f48e28.webp",
+      "media_type": "image/webp",
+      "bytes": 84518,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/ae632420-42c3-4781-a67b-8e9b01363cc7/je/2000xxs.jpg",
+      "path": "images/img-d0848423131d.webp",
+      "media_type": "image/webp",
+      "bytes": 86778,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/4e65ffe8-7614-44e7-afbc-56ef90a21f5e/je/2000xxs.jpg",
+      "path": "images/img-3a14458c5d55.webp",
+      "media_type": "image/webp",
+      "bytes": 84122,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/52890444-19be-4600-8c08-82562e238264/je/2000xxs.jpg",
+      "path": "images/img-c4bacc7ff5c5.webp",
+      "media_type": "image/webp",
+      "bytes": 98670,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/d761d870-2f5d-40db-9050-2b9ebbcf60c3/je/2000xxs.jpg",
+      "path": "images/img-2580e0bc8e40.webp",
+      "media_type": "image/webp",
+      "bytes": 83728,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/dc3316a0-50e4-4291-aa47-ec8015aabbb1/je/2000xxs.jpg",
+      "path": "images/img-a822510e4fbc.webp",
+      "media_type": "image/webp",
+      "bytes": 104382,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/5c870a99-d441-4e01-a928-bb80909c2827/je/2000xxs.jpg",
+      "path": "images/img-617d41a91e81.webp",
+      "media_type": "image/webp",
+      "bytes": 98610,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/2bea1338-9b37-429c-ad80-ad7b09a59fe1/je/2000xxs.jpg",
+      "path": "images/img-a1f68ae3612c.webp",
+      "media_type": "image/webp",
+      "bytes": 102904,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/718007d0-e9f6-447d-a664-6920f6fcfb5f/je/2000xxs.jpg",
+      "path": "images/img-b8aa7176a7c8.webp",
+      "media_type": "image/webp",
+      "bytes": 70240,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/a4f8c57f-5542-4b12-8eaa-716949ab98ff/je/2000xxs.jpg",
+      "path": "images/img-929e73ef8d81.webp",
+      "media_type": "image/webp",
+      "bytes": 83896,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/829732fa-b0d1-4300-9dda-cdfe45dba480/je/2000xxs.jpg",
+      "path": "images/img-c914ab6372c4.webp",
+      "media_type": "image/webp",
+      "bytes": 147212,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fc6e138d-b61b-4649-9170-bf1e2e5842fe/je/2000xxs.jpg",
+      "path": "images/img-50df4fa52c49.webp",
+      "media_type": "image/webp",
+      "bytes": 108636,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/d6111bee-f654-4a3a-8a60-3fe6bef410a6/je/2000xxs.jpg",
+      "path": "images/img-60764c14063f.webp",
+      "media_type": "image/webp",
+      "bytes": 114970,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1cb2deae-6517-4822-9cdc-a89c3aeca682/je/2000xxs.jpg",
+      "path": "images/img-d5cc1702d4cd.webp",
+      "media_type": "image/webp",
+      "bytes": 101456,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/c39fe16b-d5bc-4e33-98a2-e23512efaf14/je/2000xxs.jpg",
+      "path": "images/img-f7d5ebee3214.webp",
+      "media_type": "image/webp",
+      "bytes": 73152,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/d5136550-c150-43e9-aba7-239a59ac111c/je/2000xxs.jpg",
+      "path": "images/img-7d3706d00190.webp",
+      "media_type": "image/webp",
+      "bytes": 111752,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/02c42486-2b94-46a2-8f41-db30cc0b8479/je/2000xxs.jpg",
+      "path": "images/img-4382a73f46ee.webp",
+      "media_type": "image/webp",
+      "bytes": 111076,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8e7c53d1-ba35-49bd-83c4-2c13420a7679/je/2000xxs.jpg",
+      "path": "images/img-12a984319af6.webp",
+      "media_type": "image/webp",
+      "bytes": 108698,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/ea8f6e19-6a2d-471f-b7ab-886505fd5de8/je/2000xxs.jpg",
+      "path": "images/img-1f961560b47f.webp",
+      "media_type": "image/webp",
+      "bytes": 71780,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/b662f6e4-b119-46c0-b156-895956030cf3/je/2000xxs.jpg",
+      "path": "images/img-63ce714f4d91.webp",
+      "media_type": "image/webp",
+      "bytes": 102012,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/30c199a9-150a-436f-9b4a-267d12af022c/je/2000xxs.jpg",
+      "path": "images/img-3826014c3696.webp",
+      "media_type": "image/webp",
+      "bytes": 135194,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/33b2f701-07c5-420b-82bb-48ee14f8e7dd/je/2000xxs.jpg",
+      "path": "images/img-5ef61c1c12b7.webp",
+      "media_type": "image/webp",
+      "bytes": 66752,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/356b5f71-f358-415c-b47d-69334d60de02/je/2000xxs.jpg",
+      "path": "images/img-2fcd70acc1c8.webp",
+      "media_type": "image/webp",
+      "bytes": 117298,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/0f522e43-126c-4532-bdbe-97c126117045/je/2000xxs.jpg",
+      "path": "images/img-328f6cb17cae.webp",
+      "media_type": "image/webp",
+      "bytes": 235028,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/a363c3b7-ca24-4c70-9470-67e54fd4582f/je/2000xxs.jpg",
+      "path": "images/img-92a915413106.webp",
+      "media_type": "image/webp",
+      "bytes": 185766,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/56cf07c5-56c0-4f60-bea8-a13baf208b79/je/2000xxs.jpg",
+      "path": "images/img-d1ba5f3758ae.webp",
+      "media_type": "image/webp",
+      "bytes": 364862,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/78edfccd-6510-4d63-be15-b19ea4fc96e2/je/2000xxs.jpg",
+      "path": "images/img-943501e5bf57.webp",
+      "media_type": "image/webp",
+      "bytes": 97558,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/0473a3c2-7d58-4014-8677-5ff98aaccc9f/je/2000xxs.jpg",
+      "path": "images/img-f5acf474fca3.webp",
+      "media_type": "image/webp",
+      "bytes": 83140,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/4f38ea29-ff59-4496-8ab8-b84b9861c5db/je/2000xxs.jpg",
+      "path": "images/img-13649414b792.webp",
+      "media_type": "image/webp",
+      "bytes": 92866,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3679cd4a-8b12-4c68-992e-3fe47e4c3fef/je/2000xxs.jpg",
+      "path": "images/img-3462fcf15299.webp",
+      "media_type": "image/webp",
+      "bytes": 259068,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/be3b2807-277e-4a75-a4db-e6ed73a1b041/je/2000xxs.jpg",
+      "path": "images/img-62aa48e37b29.webp",
+      "media_type": "image/webp",
+      "bytes": 256478,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/7061f792-84e5-49e6-9b78-7d0684b5f204/je/2000xxs.jpg",
+      "path": "images/img-61e86e2622aa.webp",
+      "media_type": "image/webp",
+      "bytes": 101306,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/652b8d44-8566-44df-8942-d2984943a54a/je/2000xxs.jpg",
+      "path": "images/img-641b941eb2ce.webp",
+      "media_type": "image/webp",
+      "bytes": 236658,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/23bc08ce-a47d-4378-90d8-e451bc0f73d8/je/2000xxs.jpg",
+      "path": "images/img-ef33552ab59e.webp",
+      "media_type": "image/webp",
+      "bytes": 333788,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/751b4743-0900-4496-bcd2-b89555147b8c/je/2000xxs.jpg",
+      "path": "images/img-b97d966ec098.webp",
+      "media_type": "image/webp",
+      "bytes": 421152,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/27820c81-fe24-4126-80d0-a194ae2bd108/je/2000xxs.jpg",
+      "path": "images/img-09cf5affbce3.webp",
+      "media_type": "image/webp",
+      "bytes": 413166,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/ace59b24-8755-4c9e-b872-4ef69fafde10/je/2000xxs.jpg",
+      "path": "images/img-c4c95123e32a.webp",
+      "media_type": "image/webp",
+      "bytes": 291554,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/d8113347-43d7-4e9b-ae1b-062acb019876/je/2000xxs.jpg",
+      "path": "images/img-d86867c7cafc.webp",
+      "media_type": "image/webp",
+      "bytes": 286212,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/51a832a9-9a76-4497-9d67-05caf4cc27f0/je/2000xxs.jpg",
+      "path": "images/img-bdd0bf72ada4.webp",
+      "media_type": "image/webp",
+      "bytes": 133468,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/4fb030e2-6144-415c-ac18-2c432d337258/je/2000xxs.jpg",
+      "path": "images/img-06437df26210.webp",
+      "media_type": "image/webp",
+      "bytes": 386768,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/afb6b392-0e8e-43a9-9a4f-b6f053d241db/je/2000xxs.jpg",
+      "path": "images/img-bdadb0498138.webp",
+      "media_type": "image/webp",
+      "bytes": 509606,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/dcda1914-6319-4d56-9836-97d8e7adc404/je/2000xxs.jpg",
+      "path": "images/img-345bf081611f.webp",
+      "media_type": "image/webp",
+      "bytes": 515556,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/aaa41680-aab1-470d-9a45-51104e50ebb2/je/2000xxs.jpg",
+      "path": "images/img-445b774f0b15.webp",
+      "media_type": "image/webp",
+      "bytes": 340474,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/219a280d-9760-4329-b9f4-8f7f3e9f85b0/je/2000xxs.jpg",
+      "path": "images/img-eeed770e39b9.webp",
+      "media_type": "image/webp",
+      "bytes": 279148,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/b1a7d664-ecfd-4495-a650-7ebce95f727d/je/2000xxs.jpg",
+      "path": "images/img-7767304abb05.webp",
+      "media_type": "image/webp",
+      "bytes": 325634,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/eb26ab3a-bf53-48f5-bb65-ab17f8ec44f5/je/2000xxs.jpg",
+      "path": "images/img-81fde5b6a18d.webp",
+      "media_type": "image/webp",
+      "bytes": 199368,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/6bcd8e23-1f4e-4ea4-8ce8-7468f3405dc9/je/2000xxs.jpg",
+      "path": "images/img-178f0a83c3b6.webp",
+      "media_type": "image/webp",
+      "bytes": 358158,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/f8bc8f57-f37b-45f9-b0ae-07cb20e2a4a0/je/2000xxs.jpg",
+      "path": "images/img-3b0a1c71e1cc.webp",
+      "media_type": "image/webp",
+      "bytes": 159264,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/b4a4c4e6-f7c1-45f3-a3a6-e103f05c56e7/je/2000xxs.jpg",
+      "path": "images/img-b71dfd556921.webp",
+      "media_type": "image/webp",
+      "bytes": 367098,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aeb995b-29d1-4f8b-a3ab-99f8d9e709f9/je/2000xxs.jpg",
+      "path": "images/img-c4234248d562.webp",
+      "media_type": "image/webp",
+      "bytes": 373322,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/95ab1ed5-f701-4f83-861c-a304c48a0f0f/je/2000xxs.jpg",
+      "path": "images/img-3c3413cff329.webp",
+      "media_type": "image/webp",
+      "bytes": 505132,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/146164e4-b1b0-4205-b221-3c6e20c48717/je/2000xxs.jpg",
+      "path": "images/img-4a0819e2eea4.webp",
+      "media_type": "image/webp",
+      "bytes": 531366,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/9d09e53a-9ec7-419c-9402-80d66f94c48d/je/2000xxs.jpg",
+      "path": "images/img-bdc5864466cd.webp",
+      "media_type": "image/webp",
+      "bytes": 262608,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/a741511f-0a66-4fc8-85e7-856a47b7e824/je/2000xxs.jpg",
+      "path": "images/img-0a246ceb5bb5.webp",
+      "media_type": "image/webp",
+      "bytes": 384364,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1083e230-b4a0-4161-8b55-83d0214b3214/je/2000xxs.jpg",
+      "path": "images/img-55d131de6ea2.webp",
+      "media_type": "image/webp",
+      "bytes": 602892,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/b6727cea-de27-4c85-b9cd-f9e7deecf7d9/je/2000xxs.jpg",
+      "path": "images/img-f10a28c7ac70.webp",
+      "media_type": "image/webp",
+      "bytes": 411312,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/760a5697-f8b8-49e6-9233-0622b2a8cfd0/je/2000xxs.jpg",
+      "path": "images/img-1b9f4a8aa7de.webp",
+      "media_type": "image/webp",
+      "bytes": 350644,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/7e1790d7-c2c6-4ba5-ae8d-9841e4b96a05/je/2000xxs.jpg",
+      "path": "images/img-515972cca673.webp",
+      "media_type": "image/webp",
+      "bytes": 202610,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/0c7513a3-9143-4716-a080-33fc8449d3f3/je/2000xxs.jpg",
+      "path": "images/img-efc44bcb0fa1.webp",
+      "media_type": "image/webp",
+      "bytes": 320558,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/2200xxs%2832%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/2200xxs%2833%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/2200xxs%2834%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 69,
+    "images_existing": 0,
+    "images_failed": 24,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

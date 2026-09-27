@@ -1,0 +1,339 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Canaan/241 Cunningham Hill Road/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-c3613be2.webp",
+      "href": "004-c3613be2.webp",
+      "size": 535386
+    },
+    {
+      "name": "009-bea4e475.webp",
+      "href": "009-bea4e475.webp",
+      "size": 452596
+    },
+    {
+      "name": "014-da7a6887.webp",
+      "href": "014-da7a6887.webp",
+      "size": 548936
+    },
+    {
+      "name": "019-1dd9f5df.webp",
+      "href": "019-1dd9f5df.webp",
+      "size": 416618
+    },
+    {
+      "name": "024-82498243.webp",
+      "href": "024-82498243.webp",
+      "size": 648870
+    },
+    {
+      "name": "034-398e3272.webp",
+      "href": "034-398e3272.webp",
+      "size": 790858
+    },
+    {
+      "name": "035-5f6b8be6.webp",
+      "href": "035-5f6b8be6.webp",
+      "size": 444366
+    },
+    {
+      "name": "036-7bb06db0.webp",
+      "href": "036-7bb06db0.webp",
+      "size": 512154
+    },
+    {
+      "name": "037-60eb9cad.webp",
+      "href": "037-60eb9cad.webp",
+      "size": 506636
+    },
+    {
+      "name": "038-16ab88f1.webp",
+      "href": "038-16ab88f1.webp",
+      "size": 438344
+    },
+    {
+      "name": "039-1e2bc285.webp",
+      "href": "039-1e2bc285.webp",
+      "size": 355862
+    },
+    {
+      "name": "040-18709214.webp",
+      "href": "040-18709214.webp",
+      "size": 456046
+    },
+    {
+      "name": "041-b8d110c0.webp",
+      "href": "041-b8d110c0.webp",
+      "size": 457320
+    },
+    {
+      "name": "042-e1f5f8fc.webp",
+      "href": "042-e1f5f8fc.webp",
+      "size": 420858
+    },
+    {
+      "name": "043-2d1034a5.webp",
+      "href": "043-2d1034a5.webp",
+      "size": 299138
+    },
+    {
+      "name": "044-3d89312c.webp",
+      "href": "044-3d89312c.webp",
+      "size": 155504
+    },
+    {
+      "name": "045-a869f962.webp",
+      "href": "045-a869f962.webp",
+      "size": 383886
+    },
+    {
+      "name": "046-874e3f3a.webp",
+      "href": "046-874e3f3a.webp",
+      "size": 207180
+    },
+    {
+      "name": "047-d6a8d55a.webp",
+      "href": "047-d6a8d55a.webp",
+      "size": 294046
+    },
+    {
+      "name": "048-9b2e0bf0.webp",
+      "href": "048-9b2e0bf0.webp",
+      "size": 318384
+    },
+    {
+      "name": "049-6e6a9e58.webp",
+      "href": "049-6e6a9e58.webp",
+      "size": 200450
+    },
+    {
+      "name": "050-eb879a14.webp",
+      "href": "050-eb879a14.webp",
+      "size": 199506
+    },
+    {
+      "name": "051-80c84ec6.webp",
+      "href": "051-80c84ec6.webp",
+      "size": 355546
+    },
+    {
+      "name": "052-8ae311c3.webp",
+      "href": "052-8ae311c3.webp",
+      "size": 269012
+    },
+    {
+      "name": "053-00ab1cfc.webp",
+      "href": "053-00ab1cfc.webp",
+      "size": 405914
+    },
+    {
+      "name": "054-970dad6c.webp",
+      "href": "054-970dad6c.webp",
+      "size": 547638
+    },
+    {
+      "name": "055-f3aa2586.webp",
+      "href": "055-f3aa2586.webp",
+      "size": 589968
+    },
+    {
+      "name": "056-3bf60b80.webp",
+      "href": "056-3bf60b80.webp",
+      "size": 585592
+    },
+    {
+      "name": "057-beb37e40.webp",
+      "href": "057-beb37e40.webp",
+      "size": 236354
+    },
+    {
+      "name": "058-1bd66b0e.webp",
+      "href": "058-1bd66b0e.webp",
+      "size": 113530
+    },
+    {
+      "name": "059-6ff58583.webp",
+      "href": "059-6ff58583.webp",
+      "size": 151112
+    },
+    {
+      "name": "060-1ea66419.webp",
+      "href": "060-1ea66419.webp",
+      "size": 324990
+    },
+    {
+      "name": "061-5ee84082.webp",
+      "href": "061-5ee84082.webp",
+      "size": 152160
+    },
+    {
+      "name": "062-05664185.webp",
+      "href": "062-05664185.webp",
+      "size": 276432
+    },
+    {
+      "name": "063-31b3d0ab.webp",
+      "href": "063-31b3d0ab.webp",
+      "size": 233556
+    },
+    {
+      "name": "064-f17df647.webp",
+      "href": "064-f17df647.webp",
+      "size": 157772
+    },
+    {
+      "name": "065-0bae9325.webp",
+      "href": "065-0bae9325.webp",
+      "size": 213760
+    },
+    {
+      "name": "066-78724ac5.webp",
+      "href": "066-78724ac5.webp",
+      "size": 129258
+    },
+    {
+      "name": "067-3652ff6d.webp",
+      "href": "067-3652ff6d.webp",
+      "size": 161146
+    },
+    {
+      "name": "068-4a1c2c07.webp",
+      "href": "068-4a1c2c07.webp",
+      "size": 95526
+    },
+    {
+      "name": "069-357f9e57.webp",
+      "href": "069-357f9e57.webp",
+      "size": 182560
+    },
+    {
+      "name": "070-5aedb9f6.webp",
+      "href": "070-5aedb9f6.webp",
+      "size": 294376
+    },
+    {
+      "name": "071-32a4888c.webp",
+      "href": "071-32a4888c.webp",
+      "size": 235468
+    },
+    {
+      "name": "072-e4bc185b.webp",
+      "href": "072-e4bc185b.webp",
+      "size": 229470
+    },
+    {
+      "name": "073-d608e468.webp",
+      "href": "073-d608e468.webp",
+      "size": 141054
+    },
+    {
+      "name": "074-dd6b8214.webp",
+      "href": "074-dd6b8214.webp",
+      "size": 116748
+    },
+    {
+      "name": "075-80824798.webp",
+      "href": "075-80824798.webp",
+      "size": 134776
+    },
+    {
+      "name": "076-c39fb7fc.webp",
+      "href": "076-c39fb7fc.webp",
+      "size": 179574
+    },
+    {
+      "name": "077-84be0cc6.webp",
+      "href": "077-84be0cc6.webp",
+      "size": 220238
+    },
+    {
+      "name": "078-6d23fde1.webp",
+      "href": "078-6d23fde1.webp",
+      "size": 76550
+    },
+    {
+      "name": "079-89e0a7ea.webp",
+      "href": "079-89e0a7ea.webp",
+      "size": 430780
+    },
+    {
+      "name": "080-7c7d758f.webp",
+      "href": "080-7c7d758f.webp",
+      "size": 474610
+    },
+    {
+      "name": "081-d2475b53.webp",
+      "href": "081-d2475b53.webp",
+      "size": 227344
+    },
+    {
+      "name": "082-ad3feff0.webp",
+      "href": "082-ad3feff0.webp",
+      "size": 252502
+    },
+    {
+      "name": "083-13343be0.webp",
+      "href": "083-13343be0.webp",
+      "size": 196386
+    },
+    {
+      "name": "084-d992343e.webp",
+      "href": "084-d992343e.webp",
+      "size": 166020
+    },
+    {
+      "name": "085-a61267c9.webp",
+      "href": "085-a61267c9.webp",
+      "size": 220194
+    },
+    {
+      "name": "086-c7739293.webp",
+      "href": "086-c7739293.webp",
+      "size": 633598
+    },
+    {
+      "name": "087-9c1abc02.webp",
+      "href": "087-9c1abc02.webp",
+      "size": 679654
+    },
+    {
+      "name": "088-b3224f0a.webp",
+      "href": "088-b3224f0a.webp",
+      "size": 470502
+    },
+    {
+      "name": "089-d287b4b8.webp",
+      "href": "089-d287b4b8.webp",
+      "size": 96780
+    },
+    {
+      "name": "090-27de288b.webp",
+      "href": "090-27de288b.webp",
+      "size": 80384
+    },
+    {
+      "name": "095-57242b8e.webp",
+      "href": "095-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "096-4055dfde.svg",
+      "href": "096-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "097-272e34fe.svg",
+      "href": "097-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "098-caf7633d.svg",
+      "href": "098-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

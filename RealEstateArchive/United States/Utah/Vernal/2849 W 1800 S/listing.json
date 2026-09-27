@@ -1,0 +1,330 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/single-family-residence-in-vernal-17276710",
+    "canonical_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/single-family-residence-in-vernal-17276710",
+    "site": "jamesedition",
+    "listing_id": "17276710",
+    "listing_reference": "2138717",
+    "first_listed": "Feb 22",
+    "last_updated": "April 29",
+    "retrieved_at": "2026-06-19T08:42:12.292223Z"
+  },
+  "location": {
+    "address": "2849 W 1800 S, Vernal, Utah, United States",
+    "street": "2849 W 1800 S",
+    "municipality": "Vernal",
+    "region": "Utah",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.42886198,-109.58283899",
+    "latitude": 40.42886198,
+    "longitude": -109.58283899
+  },
+  "property": {
+    "title": "Single Family Residence In Vernal",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 1249900,
+      "currency": "USD",
+      "display": "$1,249,900"
+    },
+    "price_per_area": {
+      "amount": 156,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$156"
+    },
+    "bedrooms": 5,
+    "bathrooms": 7,
+    "floors": 3,
+    "interior_area": {
+      "value": 7962,
+      "unit": "sqft",
+      "display": "7,962 Sqft"
+    },
+    "lot_area": {
+      "value": 2.8,
+      "display": "2.8 Ac lot"
+    },
+    "year_built": 2006,
+    "photo_count": 43,
+    "description": "Nestled on 2.8 private acres with beautiful surrounding views, this exceptional 7,962 square foot estate offers luxury living at its finest. With 5 spacious bedrooms and 7 bathrooms, the home is thoughtfully designed for both elegant entertaining and comfortable everyday living. The heart of the home is a commercial-grade kitchen featuring granite countertops, abundant cabinetry, and generous workspaceperfect for hosting gatherings large or small. Quality craftsmanship is evident throughout with solid wood doors and trim, travertine and tile flooring, plush carpeted areas, and refined architectural details that add warmth and character. Multiple living areas provide flexibility and comfort, including a private theater room for movie nights and a dedicated exercise space for convenient in-home fitness. The expansive layout offers privacy for family and guests alike. The exterior showcases timeless real stone and stucco construction, complemented by a grand porte-cochre for covered access and added curb appeal. Outdoor living is elevated with a wood-fired oven ideal for entertaining, while a cozy wood-burning stove inside creates a welcoming ambiance during cooler months. A water softener system enhances daily comfort and efficiency. With nearly 8,000 square feet of living space and 2.8 acres of privacy, this remarkable property combines space, craftsmanship, and premium amenities in one impressive estate.",
+    "features": [
+      "Balcony",
+      "Fitness Center / Gym",
+      "Garage",
+      "Parking",
+      "Privacy",
+      "Walk In Closet",
+      "Washer Dryer"
+    ]
+  },
+  "broker": {
+    "agent": "Signature Group Real Estate (Vernal) - Vernal",
+    "agency": "Signature Group Real Estate (Vernal) - Vernal",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/signature-group-real-estate-vernal-vernal-483617",
+    "agency_address": "Vernal, Utah, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/2200xxs.jpg",
+      "file": "img-e5e1f9d33c05.webp",
+      "media_type": "image/webp",
+      "bytes": 150152,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/2200xxs.jpg",
+      "file": "img-87b2ca95077f.webp",
+      "media_type": "image/webp",
+      "bytes": 120662,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/2200xxs.jpg",
+      "file": "img-24404e5a2258.webp",
+      "media_type": "image/webp",
+      "bytes": 127988,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/2200xxs.jpg",
+      "file": "img-9506d8aeeccb.webp",
+      "media_type": "image/webp",
+      "bytes": 127402,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/2200xxs.jpg",
+      "file": "img-7441c52029cb.webp",
+      "media_type": "image/webp",
+      "bytes": 217926,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/M00000628.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ut-united-states",
+              "name": "Utah"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/vernal-ut-usa",
+              "name": "Vernal"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/vernal-ut-usa/single-family-residence-in-vernal-17276710",
+              "name": "Single Family Residence in Vernal"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Nestled on 2.8 private acres with beautiful surrounding views, this exceptional 7,962 square foot estate offers luxury living at its finest. With 5 spacious bedrooms and 7 bathrooms, the home is thoughtfully designed for both elegant entertaining and comfortable everyday living. The heart of the home is a commercial-grade kitchen featuring granite countertops, abundant cabinetry, and generous workspaceperfect for hosting gatherings large or small. Quality craftsmanship is evident throughout with solid wood doors and trim, travertine and tile flooring, plush carpeted areas, and refined architectural details that add warmth and character. Multiple living areas provide flexibility and comfort, including a private theater room for movie nights and a dedicated exercise space for convenient in-home fitness. The expansive layout offers privacy for family and guests alike. The exterior showcases timeless real stone and stucco construction, complemented by a grand porte-cochre for covered access and added curb appeal. Outdoor living is elevated with a wood-fired oven ideal for entertaining, while a cozy wood-burning stove inside creates a welcoming ambiance during cooler months. A water softener system enhances daily comfort and efficiency. With nearly 8,000 square feet of living space and 2.8 acres of privacy, this remarkable property combines space, craftsmanship, and premium amenities in one impressive estate.",
+        "image": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Vernal",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 1249900,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Signature Group Real Estate (Vernal) - Vernal"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/single-family-residence-in-vernal-17276710"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/M00000628.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

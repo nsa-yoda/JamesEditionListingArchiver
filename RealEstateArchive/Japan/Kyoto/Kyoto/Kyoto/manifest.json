@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kyoto-japan/suiran-residence-15604801",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kyoto-japan/suiran-residence-15604801",
+    "site": "jamesedition",
+    "listing_id": "15604801",
+    "listing_reference": "RWD8JR",
+    "first_listed": "May 9, 2025",
+    "last_updated": "November 27, 2025",
+    "retrieved_at": "2026-06-16T03:43:37.88088Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1536,
+      "sha256": "9e313e25bc8cc023ccf76f37af681db7f3c9689b0074f29c01bf0b5fadbb0f62"
+    },
+    {
+      "path": "images/004-3e76e02c.webp",
+      "bytes": 382372,
+      "sha256": "c14b66da713b221b3cb3e0c959e1a8b0d77ac1e65b7f34b52a4d32e0cb5c6977"
+    },
+    {
+      "path": "images/009-7a3d765e.webp",
+      "bytes": 438592,
+      "sha256": "850f104b711853c4ca86e5c13731fccb06408e72e213700d03f30bc1c8e75379"
+    },
+    {
+      "path": "images/014-f3c5f42e.webp",
+      "bytes": 317382,
+      "sha256": "b1cc638d99a0a6fb8060c570d50026114b4cac039be1a80ea86e923da5b4707d"
+    },
+    {
+      "path": "images/019-15cd188e.webp",
+      "bytes": 94104,
+      "sha256": "8e01e94ec10b70c7b2acc117c20e5e98caed03cf79044dbd3227dc1d2915ba93"
+    },
+    {
+      "path": "images/024-db689641.webp",
+      "bytes": 53586,
+      "sha256": "92d7b2a42cfb817607d2118b1364e14a6d7169862679275ffc11486fc1d83d6c"
+    },
+    {
+      "path": "images/035-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/036-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/037-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/038-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15546,
+      "sha256": "07fb3def4ff2798314539ff2b8258a3fe3c63b5b467cf10e1ac6231dc03963a4"
+    },
+    {
+      "path": "source.html",
+      "bytes": 266114,
+      "sha256": "c0c89eedfc8813a82891e73c3beafb637c6e40cec7a4bf4e740a5b5404d46623"
+    },
+    {
+      "path": "source.url",
+      "bytes": 79,
+      "sha256": "42d1050a759afbb326c0f693ee7a74fdb5aa3004d0ab1e82e1daa417a80b8c1d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/2200xxs.jpg",
+      "path": "images/004-3e76e02c.webp",
+      "media_type": "image/webp",
+      "bytes": 382372,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/2200xxs.jpg",
+      "path": "images/009-7a3d765e.webp",
+      "media_type": "image/webp",
+      "bytes": 438592,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/2200xxs.jpg",
+      "path": "images/014-f3c5f42e.webp",
+      "media_type": "image/webp",
+      "bytes": 317382,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/2200xxs.jpg",
+      "path": "images/019-15cd188e.webp",
+      "media_type": "image/webp",
+      "bytes": 94104,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/2200xxs.jpg",
+      "path": "images/024-db689641.webp",
+      "media_type": "image/webp",
+      "bytes": 53586,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/380xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 13,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

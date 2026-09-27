@@ -1,0 +1,591 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/brienno-italy/historic-villa-pieds-dans-l-eau-of-great-charmo-on-lago-di-como-brienno-18348881",
+    "canonical_url": "https://www.jamesedition.com/real_estate/brienno-italy/historic-villa-pieds-dans-l-eau-of-great-charmo-on-lago-di-como-brienno-18348881",
+    "site": "jamesedition",
+    "listing_id": "18348881",
+    "first_listed": "Jul 6",
+    "last_updated": "Today",
+    "retrieved_at": "2026-08-28T00:28:40.922298Z"
+  },
+  "location": {
+    "address": "Via Regina, 60, 22010 Brienno CO, Lombardy, Italy",
+    "street": "Historic Villa Pieds Dans L'eau Of Great Charmo On Lago DI Como",
+    "municipality": "Brienno",
+    "region": "Lombardy",
+    "postal_code": "22010",
+    "country": "Italy",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=45.9107501188302,9.1312784737565",
+    "latitude": 45.9107501188302,
+    "longitude": 9.1312784737565
+  },
+  "property": {
+    "title": "Historic Villa Pieds Dans L'eau Of Great Charmo On Lago DI Como, Brienno",
+    "type": "Villa",
+    "availability": "InStock",
+    "price": {
+      "amount": 7421862.07,
+      "currency": "USD",
+      "display": "$7,421,862"
+    },
+    "price_per_area": {
+      "amount": 985,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$985"
+    },
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "floors": 3,
+    "interior_area": {
+      "value": 7535,
+      "unit": "sqft",
+      "display": "7,535 Sqft"
+    },
+    "lot_area": {
+      "value": 7535,
+      "unit": "sqft",
+      "display": "7,535 Sqft lot"
+    },
+    "year_built": 1700,
+    "photo_count": 30,
+    "video_url": "https://www.youtube.com/embed/mOrzjLf0uJQ?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=mOrzjLf0uJQ\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "John Taylor Exclusive - In the heart of Brienno, overlooking directly the western shore of Lake Como, this period of residence represents a real estate asset unique to history, position and identity. With origins documented at the end of the 17th century, already recorded in maps of 1720, and architectural development between 1847 and 1860, the property was born as an ancient silk mill, converted in the 1960s into a private villa and today object of a complete redevelopment. From a construction point of view, the property preserves authentic elements of great value: load-bearing walls in local stone of notable thickness, floors with original wooden beams, wide spans of industrial matrix and scenic internal heights up to 9 meters. The historic chimney asserts itself as an iconic architectural sign on Lake Como, while stone porticoes and covered loggias amplify the direct dialogue with the water. A distinctive element is the private pier, today privileged access via lake, once an operational infrastructure for the transport of goods toward Como. The villa, served by elevator and connected to the 19th-century dependance, also entirely renovated, develops over approximately 700 sqm with representative rooms, double living room, dining room, kitchen, tavern with large fireplace, bedrooms with en suite bathroom and service rooms, all with direct view onto the lake. A characteristic stone portico and a private garden of 200 sqm with swimming pool, all at water level, allow to live Lake Como in all its essence. Completing the property is a convenient double garage, directly connected to the dwelling, which guarantees maximum practicality and privacy. An iconic residence that integrates historical identity, architectural strength and lakeside lifestyle in a simply unique context.\n\n\nNostra Esclusiva - Nel cuore di Brienno, affacciata direttamente sulla sponda occidentale del Lago di Como, questa residenza d’epoca rappresenta un asset immobiliare unico per storia, posizione e identità. Con origini documentate alla fine del XVII secolo, già censite in cartografie del 1720, e sviluppo architettonico tra il 1847 e il 1860, la proprietà nasce come antico setificio, riconvertito negli anni ’60 in villa privata e oggi oggetto di una riqualificazione completa. Dal punto di vista costruttivo, l’immobile preserva elementi autentici di grande valore: murature portanti in pietra locale di notevole spessore, solai con travi lignee originali, ampie campate di matrice industriale e altezze interne scenografiche fino a 9 metri. La ciminiera storica si afferma come segno architettonico iconico sul Lago di Como, mentre porticati in pietra e logge coperte amplificano il dialogo diretto con l’acqua. Elemento distintivo è il pontile privato, oggi accesso privilegiato via lago, un tempo infrastruttura operativa per il trasporto merci verso Como. La villa, servita da ascensore e collegata alla dépendance ottocentesca, anch’essa integralmente ristrutturata, si sviluppa su circa 700 mq con ambienti di rappresentanza, soggiorno doppio, sala da pranzo, cucina, taverna con grande camino, camere da letto con bagno en suite e locali di servizio, tutti con affaccio diretto sul lago. Un caratteristico portico in pietra e un giardino privato di 200 mq con piscina, il tutto a filo d'acqua, permettono di vivere il Lago di Como in tutta la sua essenza.  Completa la proprietà un comodo garage doppio, direttamente collegato all’abitazione, che garantisce massima praticità e riservatezza. Una residenza iconica che integra identità storica, forza architettonica e lifestyle lacustre in un contesto semplicemente unico.\n\n\nJohn Taylor Luxury Real Estate since 1864 Milan Branches: Via Aurelio Saffi, 26 Via Senato, 45 \nJohn Taylor Agencies: ANDORRA • AIX-EN-PROVENCE • BOEDEAUX •CANNES • CAP D’ANTIBES • EYGALIÈRE • LUBERON \u0026amp; ALPILLES • LYON • MEGÈVE • MOUGINS • PARIS • PORTO-VECCHIO • ST JEAN CAP FERRAT• ST PAUL DE VENCE • ST TROPEZ • VALBONNE • BANGALORE • MILAN • TUSCANY • COMPORTA • LISBON • MONACO • IBIZO • MADRID • MALLORCA • MENORCA • CRANS-MONTANA • GENEVA • GSTAAD • LAUSANNE • MONTREUX • SION • VERBIER • DUBAI •\nJOHN TAYLOR – SAFFI: \nThe John Taylor Milan agency, located near Corso Magenta and the renowned Basilica of Santa Maria delle Grazie, is pleased to welcome its clients to its offices on the second floor of an elegant historic building on Via Saffi. Our perfectly restored offices stand out for their refinement, charm, and discretion. A unique setting and atmosphere where a competent and specialized team is always available to provide professional consultancy services.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Basement",
+      "Elevator",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Lake View",
+      "Lakefront",
+      "Mountain View",
+      "Panoramic / Scenic View",
+      "Pool",
+      "Privacy",
+      "Renovated",
+      "Stone Countertops",
+      "Terrace",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Agence Milan",
+    "agent_profile_url": "https://www.jamesedition.com/agents/agence-milan-1596134",
+    "agency": "John Taylor Milan",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/john-taylor-milan-105152",
+    "agency_address": "26, Via A. Saffi, 20123, Milano, Italy"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/2200xxs.jpg",
+      "file": "img-e47a4b4f6d32.webp",
+      "media_type": "image/webp",
+      "bytes": 510860,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/2200xxs.jpg",
+      "file": "img-6a51f06336a5.webp",
+      "media_type": "image/webp",
+      "bytes": 619338,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/2200xxs.jpg",
+      "file": "img-ac73d9c2bb79.webp",
+      "media_type": "image/webp",
+      "bytes": 436346,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/2200xxs.jpg",
+      "file": "img-090b638e36c6.webp",
+      "media_type": "image/webp",
+      "bytes": 537646,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/2200xxs.jpg",
+      "file": "img-24f58dad3343.webp",
+      "media_type": "image/webp",
+      "bytes": 370918,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/1f2d7c7a-465d-49a6-9302-ccb9113bad24/je/2000xxs.jpg",
+      "file": "img-b212712d6b88.webp",
+      "media_type": "image/webp",
+      "bytes": 521286,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/c3e2bf61-d32b-48ee-910c-ef1383efa0af/je/2000xxs.jpg",
+      "file": "img-795c32afe6c6.webp",
+      "media_type": "image/webp",
+      "bytes": 205628,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/10cfb759-f657-4767-859d-f02520f851f5/je/2000xxs.jpg",
+      "file": "img-42b0f4557185.webp",
+      "media_type": "image/webp",
+      "bytes": 560498,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/8908826f-cdc5-4dfd-8d8b-924c8fb85600/je/2000xxs.jpg",
+      "file": "img-608152795590.webp",
+      "media_type": "image/webp",
+      "bytes": 552654,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/bf91ff92-e7aa-4612-9449-56396d80e5f5/je/2000xxs.jpg",
+      "file": "img-5b133924c335.webp",
+      "media_type": "image/webp",
+      "bytes": 493218,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/ee8e209a-001c-44a0-bc98-6f4e323e07d5/je/2000xxs.jpg",
+      "file": "img-1f2a3ddc9b35.webp",
+      "media_type": "image/webp",
+      "bytes": 120510,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/9747f061-9805-45fe-a876-8712bbd874a8/je/2000xxs.jpg",
+      "file": "img-49ab27905308.webp",
+      "media_type": "image/webp",
+      "bytes": 681490,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/97623ed1-d8b9-4d30-97a5-0930aa6bbe4e/je/2000xxs.jpg",
+      "file": "img-20e846134352.webp",
+      "media_type": "image/webp",
+      "bytes": 453624,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/5164b392-6df9-44f4-b994-748deedfe644/je/2000xxs.jpg",
+      "file": "img-07fdc2ea8eee.webp",
+      "media_type": "image/webp",
+      "bytes": 412540,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/79e3a0e7-58e0-493d-b57a-3abb21cd1f4e/je/2000xxs.jpg",
+      "file": "img-87fe846448ea.webp",
+      "media_type": "image/webp",
+      "bytes": 468130,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/2fe8935d-e186-424e-8554-90d650468e0a/je/2000xxs.jpg",
+      "file": "img-08e7e3cd4ecd.webp",
+      "media_type": "image/webp",
+      "bytes": 290606,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b4593d46-a617-450c-9255-083ca39a0ef2/je/2000xxs.jpg",
+      "file": "img-95f7259238dd.webp",
+      "media_type": "image/webp",
+      "bytes": 243890,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/b8eb099e-62e4-4998-a760-9cb76413c873/je/2000xxs.jpg",
+      "file": "img-8fa92621efa9.webp",
+      "media_type": "image/webp",
+      "bytes": 199584,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/ef3d4901-0aee-42f7-854c-70af21da9bd7/je/2000xxs.jpg",
+      "file": "img-d12a0649dded.webp",
+      "media_type": "image/webp",
+      "bytes": 307810,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/e75afeec-add6-4228-b4fa-4a827c5f6a74/je/2000xxs.jpg",
+      "file": "img-6d14a31f4ea8.webp",
+      "media_type": "image/webp",
+      "bytes": 453624,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ad42968e-8762-457e-a7e3-351c531330ce/je/2000xxs.jpg",
+      "file": "img-22e5f0e6292f.webp",
+      "media_type": "image/webp",
+      "bytes": 412540,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/7bf4d15f-e6d9-49cd-87b0-7f0ea5bc016f/je/2000xxs.jpg",
+      "file": "img-6e67a9612a74.webp",
+      "media_type": "image/webp",
+      "bytes": 468130,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/fadc625a-4fed-4c12-b570-4b7e1c20c951/je/2000xxs.jpg",
+      "file": "img-0a0f4005868d.webp",
+      "media_type": "image/webp",
+      "bytes": 243890,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/78557a8c-6951-4c55-a831-b0e284d341eb/je/2000xxs.jpg",
+      "file": "img-bb5004070227.webp",
+      "media_type": "image/webp",
+      "bytes": 199584,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/4009b6a1-2435-47d0-a7ce-d6be8f6bb111/je/2000xxs.jpg",
+      "file": "img-ff7019252b3e.webp",
+      "media_type": "image/webp",
+      "bytes": 307810,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/65d355ea-2a16-46af-a760-e5c1a09e2a0f/je/2000xxs.jpg",
+      "file": "img-f1e6fb7e0865.webp",
+      "media_type": "image/webp",
+      "bytes": 406344,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/9c533e43-2942-46db-99f9-aa75d192ff1b/je/2000xxs.jpg",
+      "file": "img-1e9c12ea834e.webp",
+      "media_type": "image/webp",
+      "bytes": 289472,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/0cbd58e2-5973-4a71-a409-d92a864e0ef5/je/2000xxs.jpg",
+      "file": "img-8afe179ab625.webp",
+      "media_type": "image/webp",
+      "bytes": 488354,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/0d258767-5325-4447-8976-19370634fbb9/je/2000xxs.jpg",
+      "file": "img-eddc5e7f9be7.webp",
+      "media_type": "image/webp",
+      "bytes": 864498,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/c17ee2b0-2b79-418a-ab1a-2c430fd830fd/je/2000xxs.jpg",
+      "file": "img-f0e99b03051c.webp",
+      "media_type": "image/webp",
+      "bytes": 138030,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/06/23/07/21/17/53fde871-f26e-42bc-ab60-e115df762e14/je/80x80xc.jpg",
+      "file": "img-aaa6d316ccc4.webp",
+      "media_type": "image/webp",
+      "bytes": 668,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/italy",
+              "name": "Italy"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/lombardy-italy",
+              "name": "Lombardy"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/como-lmb-italy",
+              "name": "Province of Como"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/brienno-italy",
+              "name": "Brienno"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/brienno-italy/historic-villa-pieds-dans-l-eau-of-great-charmo-on-lago-di-como-brienno-18348881",
+              "name": "HISTORIC VILLA PIEDS DANS L'EAU OF GREAT CHARMO ON LAGO DI COMO, BRIENNO"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "John Taylor Exclusive - In the heart of Brienno, overlooking directly the western shore of Lake Como, this period of residence represents a real estate asset unique to history, position and identity. With origins documented at the end of the 17th century, already recorded in maps of 1720, and architectural development between 1847 and 1860, the property was born as an ancient silk mill, converted in the 1960s into a private villa and today object of a complete redevelopment. From a construction point of view, the property preserves authentic elements of great value: load-bearing walls in local stone of notable thickness, floors with original wooden beams, wide spans of industrial matrix and scenic internal heights up to 9 meters. The historic chimney asserts itself as an iconic architectural sign on Lake Como, while stone porticoes and covered loggias amplify the direct dialogue with the water. A distinctive element is the private pier, today privileged access via lake, once an operational infrastructure for the transport of goods toward Como. The villa, served by elevator and connected to the 19th-century dependance, also entirely renovated, develops over approximately 700 sqm with representative rooms, double living room, dining room, kitchen, tavern with large fireplace, bedrooms with en suite bathroom and service rooms, all with direct view onto the lake. A characteristic stone portico and a private garden of 200 sqm with swimming pool, all at water level, allow to live Lake Como in all its essence. Completing the property is a convenient double garage, directly connected to the dwelling, which guarantees maximum practicality and privacy. An iconic residence that integrates historical identity, architectural strength and lakeside lifestyle in a simply unique context.\n\n\nNostra Esclusiva - Nel cuore di Brienno, affacciata direttamente sulla sponda occidentale del Lago di Como, questa residenza d’epoca rappresenta un asset immobiliare unico per storia, posizione e identità. Con origini documentate alla fine del XVII secolo, già censite in cartografie del 1720, e sviluppo architettonico tra il 1847 e il 1860, la proprietà nasce come antico setificio, riconvertito negli anni ’60 in villa privata e oggi oggetto di una riqualificazione completa. Dal punto di vista costruttivo, l’immobile preserva elementi autentici di grande valore: murature portanti in pietra locale di notevole spessore, solai con travi lignee originali, ampie campate di matrice industriale e altezze interne scenografiche fino a 9 metri. La ciminiera storica si afferma come segno architettonico iconico sul Lago di Como, mentre porticati in pietra e logge coperte amplificano il dialogo diretto con l’acqua. Elemento distintivo è il pontile privato, oggi accesso privilegiato via lago, un tempo infrastruttura operativa per il trasporto merci verso Como. La villa, servita da ascensore e collegata alla dépendance ottocentesca, anch’essa integralmente ristrutturata, si sviluppa su circa 700 mq con ambienti di rappresentanza, soggiorno doppio, sala da pranzo, cucina, taverna con grande camino, camere da letto con bagno en suite e locali di servizio, tutti con affaccio diretto sul lago. Un caratteristico portico in pietra e un giardino privato di 200 mq con piscina, il tutto a filo d'acqua, permettono di vivere il Lago di Como in tutta la sua essenza.  Completa la proprietà un comodo garage doppio, direttamente collegato all’abitazione, che garantisce massima praticità e riservatezza. Una residenza iconica che integra identità storica, forza architettonica e lifestyle lacustre in un contesto semplicemente unico.\n\n\nJohn Taylor Luxury Real Estate since 1864 Milan Branches: Via Aurelio Saffi, 26 Via Senato, 45 \nJohn Taylor Agencies: ANDORRA • AIX-EN-PROVENCE • BOEDEAUX •CANNES • CAP D’ANTIBES • EYGALIÈRE • LUBERON \u0026amp; ALPILLES • LYON • MEGÈVE • MOUGINS • PARIS • PORTO-VECCHIO • ST JEAN CAP FERRAT• ST PAUL DE VENCE • ST TROPEZ • VALBONNE • BANGALORE • MILAN • TUSCANY • COMPORTA • LISBON • MONACO • IBIZO • MADRID • MALLORCA • MENORCA • CRANS-MONTANA • GENEVA • GSTAAD • LAUSANNE • MONTREUX • SION • VERBIER • DUBAI •\nJOHN TAYLOR – SAFFI: \nThe John Taylor Milan agency, located near Corso Magenta and the renowned Basilica of Santa Maria delle Grazie, is pleased to welcome its clients to its offices on the second floor of an elegant historic building on Via Saffi. Our perfectly restored offices stand out for their refinement, charm, and discretion. A unique setting and atmosphere where a competent and specialized team is always available to provide professional consultancy services.",
+        "image": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg",
+        "name": "HISTORIC VILLA PIEDS DANS L'EAU OF GREAT CHARMO ON LAGO DI COMO, BRIENNO",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 7421862.07,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "John Taylor Milan"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/brienno-italy/historic-villa-pieds-dans-l-eau-of-great-charmo-on-lago-di-como-brienno-18348881"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2200xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+};

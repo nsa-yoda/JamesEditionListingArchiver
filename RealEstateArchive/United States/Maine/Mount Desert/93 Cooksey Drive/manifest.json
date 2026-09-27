@@ -1,0 +1,868 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93-cooksey-drive-17497343",
+    "canonical_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93-cooksey-drive-17497343",
+    "site": "jamesedition",
+    "listing_id": "17497343",
+    "listing_reference": "MES3MM",
+    "first_listed": "Mar 27",
+    "last_updated": "May 29",
+    "retrieved_at": "2026-06-19T08:18:23.43808Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3147,
+      "sha256": "53c35def4cae237ec52e8bbe04654884f5b3a460061b736831c09a7ffbdab011"
+    },
+    {
+      "path": "images/img-0d10a862d235.webp",
+      "bytes": 269438,
+      "sha256": "67e7f2019775b7bddf4657b1eba8ca089112b3e74725979925c3639cfa8d0b37"
+    },
+    {
+      "path": "images/img-133bec462da3.webp",
+      "bytes": 326560,
+      "sha256": "a8e9ba17e2ec68541cf2a9e6bbd1e9fa31f0a2c9e0972a95788cf6167907a9fc"
+    },
+    {
+      "path": "images/img-1ab198ee7231.webp",
+      "bytes": 401032,
+      "sha256": "f96ba9764f3ce91bd5f6cadf6a81544f8321771c80ed6bb6dbcfe4164a1a0a72"
+    },
+    {
+      "path": "images/img-1ad3915b6c00.webp",
+      "bytes": 143636,
+      "sha256": "322c4c72eef338dde306d90d03e8ffc2d537d0611b3e27e3ecd42583e52f77e4"
+    },
+    {
+      "path": "images/img-1ad4944940b4.webp",
+      "bytes": 807624,
+      "sha256": "5239393f84dd6de238953f426755720b555184d08f1e9fc02b65a00843ba00dd"
+    },
+    {
+      "path": "images/img-1e45cd0d12f4.webp",
+      "bytes": 474724,
+      "sha256": "9f1ee4b9127c9f279cf9a16f1cc728e389ccac7831279b452ddb4cbb7904d806"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-2bf674d2ab1f.webp",
+      "bytes": 361870,
+      "sha256": "5e947ef1fb96dd57124bd92c01e19cfaafab126a80394dbb59e1062cdc7cfeb9"
+    },
+    {
+      "path": "images/img-309cc1de651b.webp",
+      "bytes": 495754,
+      "sha256": "c6459a4708c156f0d69eeace9bfd46a3c1eed428ec4fefe9b5612e72db28d663"
+    },
+    {
+      "path": "images/img-353478a9864e.webp",
+      "bytes": 525562,
+      "sha256": "f0b90c2c12bf731ab3d34bb22f97e660efb614b4f106812f062b510c60020659"
+    },
+    {
+      "path": "images/img-3875950797a5.webp",
+      "bytes": 359558,
+      "sha256": "e57da530c30d2341e8dbafc02ca9e7d67ad171cf1d5ba1f1611d9f08a298da39"
+    },
+    {
+      "path": "images/img-3aa0b2fe245d.webp",
+      "bytes": 468456,
+      "sha256": "156ef652b5a1335810bec752a7c48505e31ed452bc5fc6c4662ba816daf05551"
+    },
+    {
+      "path": "images/img-3ff56421f3d6.webp",
+      "bytes": 218380,
+      "sha256": "0ccc551e0fbd238f624a20c8dc419046748dfb54a0a1f4275b81c8095e051d28"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-52e5dbd0679e.webp",
+      "bytes": 263922,
+      "sha256": "0dc9321b7f9526564aec98b3bf18cf194c5fc1a53e0bf7fbbd151414834e0aa0"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5bfcd03746ec.webp",
+      "bytes": 312498,
+      "sha256": "0cdf5defc7213123e60314e3c8d02057acca68186a4e1021831c207acd4bc65e"
+    },
+    {
+      "path": "images/img-5f5caee053bf.webp",
+      "bytes": 659572,
+      "sha256": "c0027a1be774df30d677fa25ffaaacc074595d976cf68666b0f7e77cbe6d9b01"
+    },
+    {
+      "path": "images/img-64fad4a966fe.webp",
+      "bytes": 226596,
+      "sha256": "51db66f5170d76e0d542251a9d384213d559194d010dc2f0b2ed1d999e110602"
+    },
+    {
+      "path": "images/img-6bd0b812b938.webp",
+      "bytes": 764232,
+      "sha256": "3d7a8d312e712e4999c83567fbf3cdd9990a78129d3af9e1652750ef5d8a558d"
+    },
+    {
+      "path": "images/img-6d9052b10686.webp",
+      "bytes": 225460,
+      "sha256": "085afe464b7f30a3921fe6e8cb060d771993b4323710b3ba11cfa392ee282fef"
+    },
+    {
+      "path": "images/img-72be054c8be0.webp",
+      "bytes": 592052,
+      "sha256": "a3a653f63693c838b87c6b6123aa184ab7a7bd43746c47d1639b5532ea42407b"
+    },
+    {
+      "path": "images/img-72fcfb933937.webp",
+      "bytes": 685528,
+      "sha256": "ca2cd19903e2cd98ce361a9273ead6a7cc4edbbd9e10c2bdc5bf5b1e6b2253c8"
+    },
+    {
+      "path": "images/img-755fba11c710.webp",
+      "bytes": 298526,
+      "sha256": "fc15d9b82467f636d152d04f96b9111a0ed77ddbb9d32503f500b25d0fd866b6"
+    },
+    {
+      "path": "images/img-7a2e7abd0027.webp",
+      "bytes": 954158,
+      "sha256": "3988d85c4f8db0b6453f53d2ddf53443be86a900a7dfcf3236867be35a5a924b"
+    },
+    {
+      "path": "images/img-7c52dc77ea41.webp",
+      "bytes": 772848,
+      "sha256": "d6bbe3db3df913833e3ffcbd2265036def6782d48486b505b39c80f28562766d"
+    },
+    {
+      "path": "images/img-7c6a8652e8bf.webp",
+      "bytes": 574168,
+      "sha256": "1fc9cedb7e4234464810aeb28d926f75625f9004702a3446c883e7ffff21e80c"
+    },
+    {
+      "path": "images/img-7e5752c32835.webp",
+      "bytes": 434392,
+      "sha256": "82c1f1b0f5305006f3829fdd03c1b9792f9c9eca19f7cb6c8ceec3e91ebb3b50"
+    },
+    {
+      "path": "images/img-a10f1346ae43.webp",
+      "bytes": 568360,
+      "sha256": "9199b25f8ca567ea806a556c726e3e8e442b991603af8743618d7d295ffd0a86"
+    },
+    {
+      "path": "images/img-b114a427db48.webp",
+      "bytes": 224826,
+      "sha256": "6f1c3bbf28ffde47680ccff047d7ec1fc616c51980ad365fceebf563e533cccb"
+    },
+    {
+      "path": "images/img-b2bbf7a1dc8b.webp",
+      "bytes": 761798,
+      "sha256": "35d1fc57154e6c36666b42ff3788dade3b6405228f60c4f03ce456ce2e1cf9a1"
+    },
+    {
+      "path": "images/img-bb311cd2f8e5.webp",
+      "bytes": 212186,
+      "sha256": "797fd8991dfc1281d689c528e181af40fcdbd0b22d71584493ced59bc5afb574"
+    },
+    {
+      "path": "images/img-bbffb6d00e2e.webp",
+      "bytes": 437070,
+      "sha256": "9e98efeb83327ff52732f19ea644e3593ab37992c617638a463887b16953def3"
+    },
+    {
+      "path": "images/img-c1e70285b096.webp",
+      "bytes": 293414,
+      "sha256": "ed796f4bf9a24d987db400dca328dc9080fee4701a7e66947a2c340df0fef841"
+    },
+    {
+      "path": "images/img-c9618d010de3.webp",
+      "bytes": 710494,
+      "sha256": "daf6c0076f85454ff7e5bd0fcc018446d0d6175e590089da1a43d1d21e0b588d"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-ce859d8a4670.webp",
+      "bytes": 261740,
+      "sha256": "66d29b140ce9705aee3122b5d4cbc88ec821bfaadfe81e5293e22eabf3f05621"
+    },
+    {
+      "path": "images/img-d6ea2f92a119.webp",
+      "bytes": 276106,
+      "sha256": "c15074fcde0ed2d35ea9a445a996c72438c25a123a28b29a6083feb9ed55b331"
+    },
+    {
+      "path": "images/img-dbfc5eb0494e.webp",
+      "bytes": 389198,
+      "sha256": "65df596790d59bdee86014877f202e2726c3e71b6cc03b0603ad9fcf70bd97b0"
+    },
+    {
+      "path": "images/img-e50a4993b273.webp",
+      "bytes": 816556,
+      "sha256": "c73fd4241d439ac5f53ded8a1b6eb27f711639ffa0e28fcad17c340e12103afb"
+    },
+    {
+      "path": "images/img-e5a1ced448ad.webp",
+      "bytes": 741992,
+      "sha256": "5a8046909165982ea769265887395640a1120b29a0004a92e338b2dd93f87dba"
+    },
+    {
+      "path": "images/img-e632dd7a5d19.webp",
+      "bytes": 350032,
+      "sha256": "2a17e7f6bb835e22f3a473be7b120f26750e3450c85873e528a0f1f6cbff9b40"
+    },
+    {
+      "path": "images/img-e8beebfbaeda.webp",
+      "bytes": 894704,
+      "sha256": "e6ef70cec096f86399f0aef9f7f1834e328172b8418bdecac8898618482b960c"
+    },
+    {
+      "path": "images/img-e9d75a03c277.webp",
+      "bytes": 925646,
+      "sha256": "545a012b2825d9f592031332d02b158de60dc2f840c173704fda2c14ff0979f7"
+    },
+    {
+      "path": "images/img-ee47daae3384.webp",
+      "bytes": 301920,
+      "sha256": "f45268a8e4f6492abd12c1862c085d2dc4172569c222879cb72430317bc747ca"
+    },
+    {
+      "path": "images/img-f1204cd2c118.webp",
+      "bytes": 248878,
+      "sha256": "20730a714633364d0a45cad7402010638693b3bc4e2f53a60de70f5e867cc85f"
+    },
+    {
+      "path": "images/img-f1c51e3b7265.webp",
+      "bytes": 244950,
+      "sha256": "ce3f7b32033fee07834646709b01279c52c74699f8d4ca5932ed5a9c75dc45c0"
+    },
+    {
+      "path": "images/img-f26b709454f2.webp",
+      "bytes": 282340,
+      "sha256": "2a1f4c281b01cdfdb3976733833968c78431809d8a37c5bd8b3d9180e453d823"
+    },
+    {
+      "path": "images/img-f4f7fbdff0d0.webp",
+      "bytes": 835442,
+      "sha256": "3e8dd1ec82d027d3de15fcb92713c094758e9d66f8c6e16e3c46951110fa09ec"
+    },
+    {
+      "path": "images/img-f5b9e29c8766.webp",
+      "bytes": 414692,
+      "sha256": "fbfa870c3393d7613f63b5da6a8615a13a2fde087197911adc6a63401fe8424d"
+    },
+    {
+      "path": "images/img-f68aba436074.webp",
+      "bytes": 361512,
+      "sha256": "a94b2abdd6267255176cb643e1ab8b7d38e13d3b8ad07d8e17160d4a6d28e14a"
+    },
+    {
+      "path": "images/img-f7f2d1d88c24.webp",
+      "bytes": 250134,
+      "sha256": "d026bf543569561c272429223a804eb100decb59d5aa89900d654edcdee9240d"
+    },
+    {
+      "path": "images/img-fc919e4bd90c.webp",
+      "bytes": 212276,
+      "sha256": "2f06e36c3863226fc6f8511224c9432119b63d085ee6ca1ee475bfd57ad3c971"
+    },
+    {
+      "path": "images/img-ff450fc7551f.webp",
+      "bytes": 805664,
+      "sha256": "4d2a4020bd81ad5f129f01dd1a1758ebfca6ee9ce14a263db10b3fc4f58e97e0"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 35781,
+      "sha256": "528e5b21435248441333fcd68f3f338186a04e31d4687e7e2bcaa2e8c4f7295b"
+    },
+    {
+      "path": "source.html",
+      "bytes": 494763,
+      "sha256": "ee291a58defa0a9b31706299870ffb601bda35f704bc29dcee360427602f8812"
+    },
+    {
+      "path": "source.url",
+      "bytes": 87,
+      "sha256": "00e65907f2c604bff882f42fec4e05c694ab2d476e365fd633eee50f5c07c104"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/75b616cd-4ace-4710-8c8e-7b62e9bcb682/je/2200xxs.jpg",
+      "path": "images/img-f5b9e29c8766.webp",
+      "media_type": "image/webp",
+      "bytes": 414692,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/281b88c4-5b58-4bc6-8789-0854b0ea2599/je/2200xxs.jpg",
+      "path": "images/img-72be054c8be0.webp",
+      "media_type": "image/webp",
+      "bytes": 592052,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/ac695606-f2b7-41e7-9b8e-6a11ff95f4e6/je/2200xxs.jpg",
+      "path": "images/img-7a2e7abd0027.webp",
+      "media_type": "image/webp",
+      "bytes": 954158,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/5ef61806-5b88-4dfc-bfb0-3acc050f1741/je/2200xxs.jpg",
+      "path": "images/img-f4f7fbdff0d0.webp",
+      "media_type": "image/webp",
+      "bytes": 835442,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/315ca93e-7011-4324-842c-4137592e0e72/je/2200xxs.jpg",
+      "path": "images/img-ff450fc7551f.webp",
+      "media_type": "image/webp",
+      "bytes": 805664,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%287%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%288%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%289%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/6d2fad95-bcee-4025-b075-f771b2601f62/je/2000xxs.jpg",
+      "path": "images/img-72fcfb933937.webp",
+      "media_type": "image/webp",
+      "bytes": 685528,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/1f5cf1ee-89a4-42e8-95bc-2b2e589a1b63/je/2000xxs.jpg",
+      "path": "images/img-e50a4993b273.webp",
+      "media_type": "image/webp",
+      "bytes": 816556,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/0741f74b-a87c-4118-b70e-f54a511930c6/je/2000xxs.jpg",
+      "path": "images/img-e8beebfbaeda.webp",
+      "media_type": "image/webp",
+      "bytes": 894704,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/b8572db7-5617-4b0b-98ec-ecef307eb91c/je/2000xxs.jpg",
+      "path": "images/img-6bd0b812b938.webp",
+      "media_type": "image/webp",
+      "bytes": 764232,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/522234c8-f8b0-4515-b722-f2b1619745ad/je/2000xxs.jpg",
+      "path": "images/img-e9d75a03c277.webp",
+      "media_type": "image/webp",
+      "bytes": 925646,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/1bdafe4c-7cbf-4dae-80ce-8c95a907b8e3/je/2000xxs.jpg",
+      "path": "images/img-bbffb6d00e2e.webp",
+      "media_type": "image/webp",
+      "bytes": 437070,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/0e0be89e-0c0d-4f71-9004-ebf51eb42a3d/je/2000xxs.jpg",
+      "path": "images/img-5f5caee053bf.webp",
+      "media_type": "image/webp",
+      "bytes": 659572,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/e1832935-f31a-4d96-995a-174eecf293c1/je/2000xxs.jpg",
+      "path": "images/img-c9618d010de3.webp",
+      "media_type": "image/webp",
+      "bytes": 710494,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/bacce778-aaec-4a9a-930a-981a177317d4/je/2000xxs.jpg",
+      "path": "images/img-b2bbf7a1dc8b.webp",
+      "media_type": "image/webp",
+      "bytes": 761798,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/2c576e0d-3e39-4671-a574-4ba8ea96dba0/je/2000xxs.jpg",
+      "path": "images/img-1ad4944940b4.webp",
+      "media_type": "image/webp",
+      "bytes": 807624,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/8bb72461-c398-4f12-a795-f82575a3b041/je/2000xxs.jpg",
+      "path": "images/img-2bf674d2ab1f.webp",
+      "media_type": "image/webp",
+      "bytes": 361870,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/33ab4b4d-007a-4de1-aace-d025c9ec3956/je/2000xxs.jpg",
+      "path": "images/img-dbfc5eb0494e.webp",
+      "media_type": "image/webp",
+      "bytes": 389198,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/b7f15dc0-09fc-4b9c-a933-bf3437b0347a/je/2000xxs.jpg",
+      "path": "images/img-e632dd7a5d19.webp",
+      "media_type": "image/webp",
+      "bytes": 350032,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/3ba1e657-2e1b-4fa8-8fa8-7446f70b3793/je/2000xxs.jpg",
+      "path": "images/img-ce859d8a4670.webp",
+      "media_type": "image/webp",
+      "bytes": 261740,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/d2b9f82b-8e4f-44fa-9ad5-ef19495e83cd/je/2000xxs.jpg",
+      "path": "images/img-a10f1346ae43.webp",
+      "media_type": "image/webp",
+      "bytes": 568360,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/597330a2-ee66-4d13-a516-817a3a4f47f2/je/2000xxs.jpg",
+      "path": "images/img-309cc1de651b.webp",
+      "media_type": "image/webp",
+      "bytes": 495754,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/e50708ea-03e3-4c95-b2a9-8e0f0f7b029a/je/2000xxs.jpg",
+      "path": "images/img-6d9052b10686.webp",
+      "media_type": "image/webp",
+      "bytes": 225460,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/294001ee-5e19-4022-b13a-8a293aa2deda/je/2000xxs.jpg",
+      "path": "images/img-f68aba436074.webp",
+      "media_type": "image/webp",
+      "bytes": 361512,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/989655e8-6e26-402b-b6bf-420894b83949/je/2000xxs.jpg",
+      "path": "images/img-7e5752c32835.webp",
+      "media_type": "image/webp",
+      "bytes": 434392,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/b603ab98-625a-4bd3-837c-ef887711bb99/je/2000xxs.jpg",
+      "path": "images/img-3aa0b2fe245d.webp",
+      "media_type": "image/webp",
+      "bytes": 468456,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/65b06e62-d4b9-4723-99f4-080edc17dd76/je/2000xxs.jpg",
+      "path": "images/img-64fad4a966fe.webp",
+      "media_type": "image/webp",
+      "bytes": 226596,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/4e4ad5a0-04e9-4033-8b59-ed0ea30a2b87/je/2000xxs.jpg",
+      "path": "images/img-3875950797a5.webp",
+      "media_type": "image/webp",
+      "bytes": 359558,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/2acfe97b-5325-47d3-bf86-114cc4afbb9f/je/2000xxs.jpg",
+      "path": "images/img-c1e70285b096.webp",
+      "media_type": "image/webp",
+      "bytes": 293414,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/d02c64f8-2030-40f2-beae-75b538587b6b/je/2000xxs.jpg",
+      "path": "images/img-755fba11c710.webp",
+      "media_type": "image/webp",
+      "bytes": 298526,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/51617df4-fe3f-4628-96ad-114408ec543a/je/2000xxs.jpg",
+      "path": "images/img-ee47daae3384.webp",
+      "media_type": "image/webp",
+      "bytes": 301920,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/5e4f1ede-e3fa-42e6-a78f-d68fe837a51e/je/2000xxs.jpg",
+      "path": "images/img-0d10a862d235.webp",
+      "media_type": "image/webp",
+      "bytes": 269438,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/936742fc-bffc-4290-8d57-6daebbd230b8/je/2000xxs.jpg",
+      "path": "images/img-f1204cd2c118.webp",
+      "media_type": "image/webp",
+      "bytes": 248878,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/fbab1fc7-88ac-41ca-8c95-8e3badbc89a0/je/2000xxs.jpg",
+      "path": "images/img-5bfcd03746ec.webp",
+      "media_type": "image/webp",
+      "bytes": 312498,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/e1172c23-a6ed-43d3-8cf0-50a8a294e95c/je/2000xxs.jpg",
+      "path": "images/img-f1c51e3b7265.webp",
+      "media_type": "image/webp",
+      "bytes": 244950,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/b858c487-8fa8-4632-855b-23c6ff36236b/je/2000xxs.jpg",
+      "path": "images/img-353478a9864e.webp",
+      "media_type": "image/webp",
+      "bytes": 525562,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/c654602f-3b20-4dd9-a3ec-c8446e4249ee/je/2000xxs.jpg",
+      "path": "images/img-1ab198ee7231.webp",
+      "media_type": "image/webp",
+      "bytes": 401032,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/e1880e82-0b79-4016-892a-7629c973bda8/je/2000xxs.jpg",
+      "path": "images/img-d6ea2f92a119.webp",
+      "media_type": "image/webp",
+      "bytes": 276106,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/c8874ee7-d9d9-4378-ba7e-7f4535cad30b/je/2000xxs.jpg",
+      "path": "images/img-133bec462da3.webp",
+      "media_type": "image/webp",
+      "bytes": 326560,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/5d91b85a-79c9-4397-9349-aeab478e0208/je/2000xxs.jpg",
+      "path": "images/img-3ff56421f3d6.webp",
+      "media_type": "image/webp",
+      "bytes": 218380,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/719e605e-c068-4044-8950-ff03ecf5bdc1/je/2000xxs.jpg",
+      "path": "images/img-f7f2d1d88c24.webp",
+      "media_type": "image/webp",
+      "bytes": 250134,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/c19ed288-6536-4cd5-b6fa-a6a0fcc65556/je/2000xxs.jpg",
+      "path": "images/img-fc919e4bd90c.webp",
+      "media_type": "image/webp",
+      "bytes": 212276,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/faa280e6-d909-49aa-996b-cdd4516928b0/je/2000xxs.jpg",
+      "path": "images/img-f26b709454f2.webp",
+      "media_type": "image/webp",
+      "bytes": 282340,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/dd0bd1cf-ef8d-4a9f-bad8-86dc4e908762/je/2000xxs.jpg",
+      "path": "images/img-b114a427db48.webp",
+      "media_type": "image/webp",
+      "bytes": 224826,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/ccf28ece-48f5-4cb4-ad3b-d2d8c0633108/je/2000xxs.jpg",
+      "path": "images/img-52e5dbd0679e.webp",
+      "media_type": "image/webp",
+      "bytes": 263922,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/a8ce42d5-59a5-4600-9255-c3da062ff91a/je/2000xxs.jpg",
+      "path": "images/img-bb311cd2f8e5.webp",
+      "media_type": "image/webp",
+      "bytes": 212186,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/3f5f5e58-f1a2-4086-ae48-0730b4337741/je/2000xxs.jpg",
+      "path": "images/img-1ad3915b6c00.webp",
+      "media_type": "image/webp",
+      "bytes": 143636,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/40a7e978-2ae5-4120-9617-718694a71664/je/2000xxs.jpg",
+      "path": "images/img-7c52dc77ea41.webp",
+      "media_type": "image/webp",
+      "bytes": 772848,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/1854d7cd-dbf5-4058-8a52-e05fa462d2d3/je/2000xxs.jpg",
+      "path": "images/img-e5a1ced448ad.webp",
+      "media_type": "image/webp",
+      "bytes": 741992,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/2eaa74c3-1311-4cd1-ab8b-3cc4a4001175/je/2000xxs.jpg",
+      "path": "images/img-7c6a8652e8bf.webp",
+      "media_type": "image/webp",
+      "bytes": 574168,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/6abdc4ef-90ef-4b73-9e14-c42573efc3fc/je/2000xxs.jpg",
+      "path": "images/img-1e45cd0d12f4.webp",
+      "media_type": "image/webp",
+      "bytes": 474724,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2838%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2839%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2840%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 54,
+    "images_existing": 0,
+    "images_failed": 20,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

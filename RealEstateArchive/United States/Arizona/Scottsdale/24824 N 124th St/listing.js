@@ -1,0 +1,378 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824-n-124th-st-17564409",
+    "canonical_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824-n-124th-st-17564409",
+    "site": "jamesedition",
+    "listing_id": "17564409",
+    "listing_reference": "213518741.0",
+    "first_listed": "Apr 4",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-06-16T03:43:16.534203Z"
+  },
+  "location": {
+    "address": "24824 N 124th St, AZ, Scottsdale, Arizona, United States",
+    "street": "24824 N 124th St",
+    "municipality": "Scottsdale",
+    "region": "Arizona",
+    "postal_code": "24824",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=33.710495,-111.8162368",
+    "latitude": 33.710495,
+    "longitude": -111.8162368
+  },
+  "property": {
+    "title": "24824 N 124th St",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 5750000,
+      "currency": "USD",
+      "display": "$5,750,000"
+    },
+    "price_per_area": {
+      "amount": 904,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$904"
+    },
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "interior_area": {
+      "value": 6354,
+      "unit": "sqft",
+      "display": "6,354 Sqft"
+    },
+    "lot_area": {
+      "value": 2.74,
+      "display": "2.74 Ac lot"
+    },
+    "year_built": 2021,
+    "photo_count": 40,
+    "video_url": "https://www.youtube.com/embed/LxfPlAPlv8w?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=LxfPlAPlv8w\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "Set behind the gates of the prestigious Sereno Canyon, this exceptional Toll Brothers Estate Collection residence is a masterclass in elevated desert living--where architecture, privacy, and panoramic mountain views converge on nearly three acres of one of the most coveted homesites in the entire community. Meticulously maintained and presenting like new, this sprawling five-bedroom, five-and-a-half-bath estate offers a seamless blend of sophistication and comfort with a thoughtfully designed split floorplan and an abundance of refined living spaces. From the moment you arrive, the sense of exclusivity is undeniable. A separate casita with a wet bar provides a private retreat for guests, while the expansive main residence is curated with designer finishes and intentional detail throughout. The chef’s kitchen is nothing short of spectacular, anchored by dual islands, granite surfaces, premium appliances, a built-in espresso system, reverse osmosis, and custom pull-out storage--crafted for both grand entertaining and everyday ease. The primary suite is a true sanctuary, featuring a dramatic 16-foot stacking slider that opens to the outdoors, complemented by electric blinds and roller screens for effortless indoor-outdoor living. An additional bonus/media room with surround sound enhances the home’s versatility, while a five-car garage with epoxy flooring and additional driveway parking ensures both function and flexibility. Step outside and experience a private resort unlike any other, featuring a 1,400 sq ft pool, 5,000 sq ft of vein-cut travertine, a 360-degree view deck, a ramada, fire features, an outdoor sound system, and a putting green designed for ultimate outdoor living. The backyard is an entertainer’s dream, showcasing a heated pool and spa, swim-up bar, striking water features, a full outdoor kitchen, lush turf, multiple lounge and game areas, and breathtaking desert vistas in every direction. A private courtyard entry with a tranquil water feature, along with wrought iron and pest fencing and added gutters, reflects the level of care and investment poured into this extraordinary property. Residents enjoy access to the exclusive Mountain House Lodge, offering a state-of-the-art fitness center, resort-style pools and spa, café, firepit, and inviting gathering spaces--all designed to complement the lifestyle this remarkable home delivers. This is a rare opportunity to own one of the finest homes in Sereno Canyon--an extraordinary residence where luxury, privacy, and unforgettable views come together in perfect harmony.",
+    "features": [
+      "Bar",
+      "Cinema",
+      "Fire Pit",
+      "Fitness Center / Gym",
+      "Garage",
+      "Gated Community",
+      "Kitchen island",
+      "Mountain View",
+      "Outdoor Kitchen",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Pool",
+      "Privacy",
+      "Stone Countertops"
+    ]
+  },
+  "broker": {
+    "agent": "Kimberley Doering",
+    "agent_profile_url": "https://www.jamesedition.com/agents/kimberley-doering-1677723",
+    "agency": "Premier by Redfin",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/premier-by-redfin-113151",
+    "agency_address": "Seattle, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/2200xxs.jpg",
+      "file": "004-29402c4a.webp",
+      "media_type": "image/webp",
+      "bytes": 407950,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/2200xxs.jpg",
+      "file": "009-9bba6515.webp",
+      "media_type": "image/webp",
+      "bytes": 318214,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/2200xxs.jpg",
+      "file": "014-0276a946.webp",
+      "media_type": "image/webp",
+      "bytes": 371912,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/2200xxs.jpg",
+      "file": "019-8aeded98.webp",
+      "media_type": "image/webp",
+      "bytes": 370366,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/2200xxs.jpg",
+      "file": "024-07a22a85.webp",
+      "media_type": "image/webp",
+      "bytes": 309580,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "039-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "040-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "041-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "042-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/20/03/07/44/09bfdfcb-9704-4abc-affa-e641ad522381/je/80x80xc.jpg",
+      "file": "043-f8dcee28.webp",
+      "media_type": "image/webp",
+      "bytes": 2196,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/az-united-states",
+              "name": "Arizona"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/scottsdale-az-usa",
+              "name": "Scottsdale"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824-n-124th-st-17564409",
+              "name": "24824 N 124th St"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Set behind the gates of the prestigious Sereno Canyon, this exceptional Toll Brothers Estate Collection residence is a masterclass in elevated desert living--where architecture, privacy, and panoramic mountain views converge on nearly three acres of one of the most coveted homesites in the entire community. Meticulously maintained and presenting like new, this sprawling five-bedroom, five-and-a-half-bath estate offers a seamless blend of sophistication and comfort with a thoughtfully designed split floorplan and an abundance of refined living spaces. From the moment you arrive, the sense of exclusivity is undeniable. A separate casita with a wet bar provides a private retreat for guests, while the expansive main residence is curated with designer finishes and intentional detail throughout. The chef's kitchen is nothing short of spectacular, anchored by dual islands, granite surfaces, premium appliances, a built-in espresso system, reverse osmosis, and custom pull-out storage--crafted for both grand entertaining and everyday ease. The primary suite is a true sanctuary, featuring a dramatic 16-foot stacking slider that opens to the outdoors, complemented by electric blinds and roller screens for effortless indoor-outdoor living. An additional bonus/media room with surround sound enhances the home's versatility, while a five-car garage with epoxy flooring and additional driveway parking ensures both function and flexibility. Step outside and experience a private resort unlike any other, featuring a 1,400 sq ft pool, 5,000 sq ft of vein-cut travertine, a 360-degree view deck, a ramada, fire features, an outdoor sound system, and a putting green designed for ultimate outdoor living. The backyard is an entertainer's dream, showcasing a heated pool and spa, swim-up bar, striking water features, a full outdoor kitchen, lush turf, multiple lounge and game areas, and breathtaking desert vistas in every direction. A private courtyard entry with a tranquil water feature, along with wrought iron and pest fencing and added gutters, reflects the level of care and investment poured into this extraordinary property. Residents enjoy access to the exclusive Mountain House Lodge, offering a state-of-the-art fitness center, resort-style pools and spa, café, firepit, and inviting gathering spaces--all designed to complement the lifestyle this remarkable home delivers. This is a rare opportunity to own one of the finest homes in Sereno Canyon--an extraordinary residence where luxury, privacy, and unforgettable views come together in perfect harmony.",
+        "image": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg",
+        "name": "24824 N 124th St",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 5750000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Premier by Redfin"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824-n-124th-st-17564409"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%285%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%286%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%287%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%288%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%289%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Italy/Arzachena/Marina di Porto Cervo",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Piccolo Pevero",
+      "href": "Piccolo%20Pevero/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

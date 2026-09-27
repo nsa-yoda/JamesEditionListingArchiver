@@ -1,0 +1,43 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Vermont/Barnard/Barnard",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    },
+    {
+      "name": "videos",
+      "href": "videos/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 36958
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 35959
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3237
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 553981
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 124
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

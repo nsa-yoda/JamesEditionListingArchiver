@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/cap-d-ail-a-magnificent-waterfront-art-deco-villa-15390884",
+    "canonical_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/cap-d-ail-a-magnificent-waterfront-art-deco-villa-15390884",
+    "site": "jamesedition",
+    "listing_id": "15390884",
+    "listing_reference": "10771",
+    "first_listed": "Mar 24, 2025",
+    "last_updated": "March 26",
+    "retrieved_at": "2026-06-16T03:43:22.282999Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3382,
+      "sha256": "024039cc379a8e0f379ac05942463d682590e4378b2ea700a888ad58597119e8"
+    },
+    {
+      "path": "images/004-9151c745.webp",
+      "bytes": 755902,
+      "sha256": "cbd1ba10869c914acacebe4dae731787f29f31567ca6263719b09a9f9f598136"
+    },
+    {
+      "path": "images/009-f8850676.webp",
+      "bytes": 653016,
+      "sha256": "629085783fd2b553ad461fde914f1d2ec7f746f54046ee4c169b66ef11cb9237"
+    },
+    {
+      "path": "images/014-246d7ff9.webp",
+      "bytes": 479306,
+      "sha256": "33347cd0863c60dc2904da2a362bb5e38483be1cfe886fcb8ef032214722b58b"
+    },
+    {
+      "path": "images/019-21e8a7e1.webp",
+      "bytes": 602612,
+      "sha256": "10f9fb5940f80118500209c753fb13650568e0ab596e97502985813bd0f3fb88"
+    },
+    {
+      "path": "images/024-92c0e7c5.webp",
+      "bytes": 678836,
+      "sha256": "aa94d30292497fa26c6ac264fa17c35466b1ec041e19f9e90c015577457084cc"
+    },
+    {
+      "path": "images/029-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/030-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/031-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/032-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17741,
+      "sha256": "48fe28d070dfc9a7653545c9dbfc1bdf6d38c45cdc31c955e4f42b6a4322054e"
+    },
+    {
+      "path": "source.html",
+      "bytes": 382472,
+      "sha256": "aa0130edf4bf0927a7602e2d7d73c5e860de4d3b62f1ea9006960eae3cabc280"
+    },
+    {
+      "path": "source.url",
+      "bytes": 117,
+      "sha256": "d629ebb12fa6d70593e05cb0ecd096ce61e50be0249bf1a412e8a0d1a58a32d6"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/2200xxs.jpg",
+      "path": "images/004-9151c745.webp",
+      "media_type": "image/webp",
+      "bytes": 755902,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/2200xxs.jpg",
+      "path": "images/009-f8850676.webp",
+      "media_type": "image/webp",
+      "bytes": 653016,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/2200xxs.jpg",
+      "path": "images/014-246d7ff9.webp",
+      "media_type": "image/webp",
+      "bytes": 479306,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/2200xxs.jpg",
+      "path": "images/019-21e8a7e1.webp",
+      "media_type": "image/webp",
+      "bytes": 602612,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/2200xxs.jpg",
+      "path": "images/024-92c0e7c5.webp",
+      "media_type": "image/webp",
+      "bytes": 678836,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

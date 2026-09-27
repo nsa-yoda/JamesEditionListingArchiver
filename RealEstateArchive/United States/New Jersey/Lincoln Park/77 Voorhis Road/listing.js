@@ -1,0 +1,295 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/lots-and-land-kinnelon-borough-17075854",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/lots-and-land-kinnelon-borough-17075854",
+    "site": "jamesedition",
+    "listing_id": "17075854",
+    "listing_reference": "2080424730408472",
+    "first_listed": "Feb 4",
+    "last_updated": "February 4",
+    "retrieved_at": "2026-06-16T03:43:29.178524Z"
+  },
+  "location": {
+    "address": "77 Voorhis Road, Kinnelon Borough, NJ 07035, Lincoln Park, New Jersey, United States",
+    "street": "77 Voorhis Road",
+    "municipality": "Lincoln Park",
+    "region": "New Jersey",
+    "postal_code": "07035",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.955872,-74.335592",
+    "latitude": 40.955872,
+    "longitude": -74.335592
+  },
+  "property": {
+    "title": "Lots And Land Kinnelon Borough",
+    "type": "Land",
+    "availability": "InStock",
+    "price": {
+      "amount": 899000,
+      "currency": "USD",
+      "display": "$899,000"
+    },
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "photo_count": 21,
+    "description": "Endless Potential on Just Over 10 Acres \u0026amp; Private Cul-de-Sac Setting! Rare opportunity to own 10 acres of beautiful, wooded land tucked away in the prestigious community of Kinnelon! Whether you're looking to build your dream home or invest in future development, this property offers flexibility, privacy and income potential. Currently improved with a rentable apartment, you'll enjoy steady rental income that can help offset property taxes while you plan your next steps. With generous acreage, thereâ€™s strong potential to subdivide into 2, possibly 3 building lots â€“ or possibly more with a variance â€“ making this an ideal choice for builders, investors, or multigenerational living. All of this is dependent on township approvals. Enjoy peace and seclusion just minutes from local amenities such as a local hospital, a county golf course \u0026amp; TOP RATED SCHOOLS. Create your private retreat, develop, or do both â€“ the possibilities here are limited only by your vision.",
+    "features": [
+      "Investment Property",
+      "Privacy"
+    ]
+  },
+  "broker": {
+    "agent": "Wayne",
+    "agency": "Wayne",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/wayne-123629",
+    "agency_address": "1700 Route 23 North, Floor 3, 07470, Wayne, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/52d3ade3-32a6-47f1-be10-1a157d489117/je/2200xxs.jpg",
+      "file": "004-7c78a7e0.webp",
+      "media_type": "image/webp",
+      "bytes": 193160,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/e1172d42-2860-48c2-aed6-3a750251af82/je/2200xxs.jpg",
+      "file": "009-5140438d.webp",
+      "media_type": "image/webp",
+      "bytes": 224398,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/0c020ff1-c699-450e-951b-7cd13d83a9d4/je/2200xxs.jpg",
+      "file": "014-54fcd4e2.webp",
+      "media_type": "image/webp",
+      "bytes": 236454,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/0bc2bf47-94b8-47cd-be32-5f2960333c04/je/2200xxs.jpg",
+      "file": "019-493ea955.webp",
+      "media_type": "image/webp",
+      "bytes": 227980,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/2c95c7b6-a98e-4792-8d9b-4ad7a79dcf94/je/2200xxs.jpg",
+      "file": "024-5c51bc59.webp",
+      "media_type": "image/webp",
+      "bytes": 221492,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/lincoln-park-nj-usa",
+              "name": "Lincoln Park"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/lots-and-land-kinnelon-borough-17075854",
+              "name": "Lots And Land Kinnelon Borough"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Endless Potential on Just Over 10 Acres \u0026amp; Private Cul-de-Sac Setting! Rare opportunity to own 10 acres of beautiful, wooded land tucked away in the prestigious community of Kinnelon! Whether you're looking to build your dream home or invest in future development, this property offers flexibility, privacy and income potential. Currently improved with a rentable apartment, you'll enjoy steady rental income that can help offset property taxes while you plan your next steps. With generous acreage, thereâ€™s strong potential to subdivide into 2, possibly 3 building lots â€“ or possibly more with a variance â€“ making this an ideal choice for builders, investors, or multigenerational living. All of this is dependent on township approvals. Enjoy peace and seclusion just minutes from local amenities such as a local hospital, a county golf course \u0026amp; TOP RATED SCHOOLS. Create your private retreat, develop, or do both â€“ the possibilities here are limited only by your vision.",
+        "image": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/52d3ade3-32a6-47f1-be10-1a157d489117/je/1040x620xc.jpg",
+        "name": "Lots And Land Kinnelon Borough",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 899000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Wayne"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/lots-and-land-kinnelon-borough-17075854"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

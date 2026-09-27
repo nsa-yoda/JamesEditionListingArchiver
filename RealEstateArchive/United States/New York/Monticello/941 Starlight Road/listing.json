@@ -1,0 +1,513 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380",
+    "canonical_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380",
+    "site": "jamesedition",
+    "listing_id": "16980380",
+    "listing_reference": "H6311954",
+    "first_listed": "Jan 22",
+    "last_updated": "March 30",
+    "retrieved_at": "2026-06-18T07:08:58.957651Z"
+  },
+  "location": {
+    "address": "941 Starlight Road, Monticello, New York, United States",
+    "street": "941 Starlight Road",
+    "municipality": "Monticello",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.661839,-74.783333",
+    "latitude": 41.661839,
+    "longitude": -74.783333
+  },
+  "property": {
+    "title": "Single Family Residence In Monticello",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 9999999,
+      "currency": "USD",
+      "display": "$9,999,999"
+    },
+    "price_per_area": {
+      "amount": 734,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$734"
+    },
+    "bedrooms": 12,
+    "bathrooms": 11,
+    "interior_area": {
+      "value": 13618,
+      "unit": "sqft",
+      "display": "13,618 Sqft"
+    },
+    "lot_area": {
+      "value": 30,
+      "display": "30.0 Ac lot"
+    },
+    "year_built": 1998,
+    "photo_count": 30,
+    "description": "Welcome to the most spectacular home in Sullivan County. Located on a 30-acre hill overlooking the Swinging Bridge reservoir the largest lake in Sullivan County. This estate is built with the finest of everything. All top-quality materials built and crafted with amazing details. This mansion comes with a four-bedroom guest house, and a caretaker’s apartment over the barn. The grounds are spectacular and have paved roads leading to the house, guest house, barn, and the Tennis \u0026amp; Basketball courts as well as the the concrete boat [hidden information] the lake. Floor-plans have been uploaded to the MLS. Additional Information:  Amenities:Guest Quarters,HeatingFuel:Oil Below Ground,ParkingFeatures:3 Car Attached,",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Elevator",
+      "Garage",
+      "High Ceiling",
+      "Kitchen island",
+      "Lakefront",
+      "Mansion",
+      "Walk In Closet",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Rhulen Realty Group LLC - Monticello",
+    "agency": "Rhulen Realty Group LLC - Monticello",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/rhulen-realty-group-llc-monticello-559133",
+    "agency_address": "Monticello, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/2200xxs.jpg",
+      "file": "004-b1a6d3dc.webp",
+      "media_type": "image/webp",
+      "bytes": 663784,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/2200xxs.jpg",
+      "file": "009-ce328129.webp",
+      "media_type": "image/webp",
+      "bytes": 219850,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/2200xxs.jpg",
+      "file": "014-c0bcdaf3.webp",
+      "media_type": "image/webp",
+      "bytes": 223108,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/2200xxs.jpg",
+      "file": "019-b48e8330.webp",
+      "media_type": "image/webp",
+      "bytes": 121186,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/2200xxs.jpg",
+      "file": "024-fdcd6995.webp",
+      "media_type": "image/webp",
+      "bytes": 126202,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/cb04b0cb-fce4-4bac-b527-54a58f07071f/je/2000xxs.jpg",
+      "file": "035-49982f5e.webp",
+      "media_type": "image/webp",
+      "bytes": 155614,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/edb58e37-b6c5-48e2-9c25-15e050ab6197/je/2000xxs.jpg",
+      "file": "036-2fad0b83.webp",
+      "media_type": "image/webp",
+      "bytes": 125984,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/c8bf3f86-b896-4eef-a5a4-26fa0997f500/je/2000xxs.jpg",
+      "file": "037-76dd103c.webp",
+      "media_type": "image/webp",
+      "bytes": 93144,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/de3380cb-4a57-4aa2-a500-ae3fc49b33ea/je/2000xxs.jpg",
+      "file": "038-b8864b4d.webp",
+      "media_type": "image/webp",
+      "bytes": 81414,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5c9872e6-ed3c-4939-a3d9-32a81b7a1c77/je/2000xxs.jpg",
+      "file": "039-031ad4d1.webp",
+      "media_type": "image/webp",
+      "bytes": 100620,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/91efd480-387c-4647-8590-952805f199dd/je/2000xxs.jpg",
+      "file": "040-b4a97568.webp",
+      "media_type": "image/webp",
+      "bytes": 89944,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f6100213-87d7-4d83-a58d-92f4e3f457b4/je/2000xxs.jpg",
+      "file": "041-0a091b70.webp",
+      "media_type": "image/webp",
+      "bytes": 124004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/a5ce1fd6-2e89-4e95-90be-a4afd1fb5439/je/2000xxs.jpg",
+      "file": "042-feb2f561.webp",
+      "media_type": "image/webp",
+      "bytes": 113138,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/c815328b-5d4b-46f3-9fca-a1a1afa4085b/je/2000xxs.jpg",
+      "file": "043-96923e7f.webp",
+      "media_type": "image/webp",
+      "bytes": 88092,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/e8acc85e-b09d-4eea-a7c7-38ba85ac3f8e/je/2000xxs.jpg",
+      "file": "044-edd5a023.webp",
+      "media_type": "image/webp",
+      "bytes": 105898,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/b515b53f-447b-4493-909e-971c93e30273/je/2000xxs.jpg",
+      "file": "045-a79c14e8.webp",
+      "media_type": "image/webp",
+      "bytes": 125822,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/cd662f0f-6fc8-4bc5-8ac0-2d6b7f60a466/je/2000xxs.jpg",
+      "file": "046-ed2cb293.webp",
+      "media_type": "image/webp",
+      "bytes": 72364,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/52ac3c2a-7bdf-421a-8f4a-b5143f55eab2/je/2000xxs.jpg",
+      "file": "047-8b63415f.webp",
+      "media_type": "image/webp",
+      "bytes": 83344,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5cdd53d6-b3dc-4444-9364-36d89b4e87e7/je/2000xxs.jpg",
+      "file": "048-0c1bc1d4.webp",
+      "media_type": "image/webp",
+      "bytes": 105432,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/c7548ce0-4728-4371-898f-f5f147c442a4/je/2000xxs.jpg",
+      "file": "049-333ef2ee.webp",
+      "media_type": "image/webp",
+      "bytes": 116602,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/ed2d54d2-d2f8-4ac3-aa16-2be49191e393/je/2000xxs.jpg",
+      "file": "050-e6d4ee82.webp",
+      "media_type": "image/webp",
+      "bytes": 87818,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/19b4dc76-a6c1-4218-a553-78c18db12c1a/je/2000xxs.jpg",
+      "file": "051-11f75c61.webp",
+      "media_type": "image/webp",
+      "bytes": 116780,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/9393e333-4622-4a97-8b11-b2fc8b6f14f0/je/2000xxs.jpg",
+      "file": "052-41de31e6.webp",
+      "media_type": "image/webp",
+      "bytes": 95232,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/37cfffdc-3e1a-466f-9589-8a07d3064079/je/2000xxs.jpg",
+      "file": "053-c64ad86f.webp",
+      "media_type": "image/webp",
+      "bytes": 94562,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/791f82a6-f49e-4f2b-b844-f645f78efb5b/je/2000xxs.jpg",
+      "file": "054-663f8b16.webp",
+      "media_type": "image/webp",
+      "bytes": 68192,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/59ad6085-4ce6-400f-805a-ee3fee251ce1/je/2000xxs.jpg",
+      "file": "055-04349921.webp",
+      "media_type": "image/webp",
+      "bytes": 62432,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/245dc731-3c1d-4368-ad67-f5ccffbe3df2/je/2000xxs.jpg",
+      "file": "056-b25c302d.webp",
+      "media_type": "image/webp",
+      "bytes": 82136,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/c9761b7f-711c-43e3-a9ac-68ed441f729f/je/2000xxs.jpg",
+      "file": "057-e5a9cee6.webp",
+      "media_type": "image/webp",
+      "bytes": 107820,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/3f9dd0bc-e6c3-498f-8977-8f884b4e07b7/je/2000xxs.jpg",
+      "file": "058-c31c977a.webp",
+      "media_type": "image/webp",
+      "bytes": 220342,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/dca04cf7-5927-44e8-8903-c67cc95ca780/je/2000xxs.jpg",
+      "file": "059-281452ad.webp",
+      "media_type": "image/webp",
+      "bytes": 121630,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2827%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2828%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2829%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "064-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "065-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "066-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "067-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/monticello-ny-usa",
+              "name": "Monticello"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380",
+              "name": "Single Family Residence in Monticello"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Welcome to the most spectacular home in Sullivan County. Located on a 30-acre hill overlooking the Swinging Bridge reservoir the largest lake in Sullivan County. This estate is built with the finest of everything. All top-quality materials built and crafted with amazing details. This mansion comes with a four-bedroom guest house, and a caretaker’s apartment over the barn. The grounds are spectacular and have paved roads leading to the house, guest house, barn, and the Tennis \u0026amp; Basketball courts as well as the the concrete boat [hidden information] the lake. Floor-plans have been uploaded to the MLS. Additional Information:  Amenities:Guest Quarters,HeatingFuel:Oil Below Ground,ParkingFeatures:3 Car Attached,",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Monticello",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 9999999,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Rhulen Realty Group LLC - Monticello"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/M00000489.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2827%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2828%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2829%29.jpg: HTTP 403 Forbidden"
+  ]
+}

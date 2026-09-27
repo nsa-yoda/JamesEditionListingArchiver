@@ -1,0 +1,59 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Japan/Hokkaido/Kutchan/Kabayama/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-f6e27067.webp",
+      "href": "004-f6e27067.webp",
+      "size": 548132
+    },
+    {
+      "name": "009-ca4be360.webp",
+      "href": "009-ca4be360.webp",
+      "size": 738010
+    },
+    {
+      "name": "014-e8f8a82b.webp",
+      "href": "014-e8f8a82b.webp",
+      "size": 190566
+    },
+    {
+      "name": "019-975fe924.webp",
+      "href": "019-975fe924.webp",
+      "size": 229320
+    },
+    {
+      "name": "024-385e0353.webp",
+      "href": "024-385e0353.webp",
+      "size": 469424
+    },
+    {
+      "name": "036-57242b8e.webp",
+      "href": "036-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "037-4055dfde.svg",
+      "href": "037-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "038-272e34fe.svg",
+      "href": "038-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "039-caf7633d.svg",
+      "href": "039-caf7633d.svg",
+      "size": 63710
+    },
+    {
+      "name": "040-c96cbaf0.webp",
+      "href": "040-c96cbaf0.webp",
+      "size": 1790
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

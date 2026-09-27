@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/single-family-residence-in-vernal-17276710",
+    "canonical_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/single-family-residence-in-vernal-17276710",
+    "site": "jamesedition",
+    "listing_id": "17276710",
+    "listing_reference": "2138717",
+    "first_listed": "Feb 22",
+    "last_updated": "April 29",
+    "retrieved_at": "2026-06-19T08:42:12.292223Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2565,
+      "sha256": "4d4393a97a59ccf9f0130d5137b6d310fb620fd3e392d72067499b29a464e43e"
+    },
+    {
+      "path": "images/img-24404e5a2258.webp",
+      "bytes": 127988,
+      "sha256": "61c174f7455b067dd4fd09e85d0acabea305504ddffc052c42055cebdc7751ec"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-7441c52029cb.webp",
+      "bytes": 217926,
+      "sha256": "2eac1f8daabdfa0b1493432dc6f06963337af5f3fcbf2a8f3ac3ce9382a798a3"
+    },
+    {
+      "path": "images/img-87b2ca95077f.webp",
+      "bytes": 120662,
+      "sha256": "1533dabfd20f5550b420db134805025b1e99a6206a58af1d0642930e679e54cd"
+    },
+    {
+      "path": "images/img-9506d8aeeccb.webp",
+      "bytes": 127402,
+      "sha256": "30395ff0f9ae2990925700929773d3845545fa70a5dc4f95a8cef1b1a9915aed"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-e5e1f9d33c05.webp",
+      "bytes": 150152,
+      "sha256": "bf7caa39219d2def8e23126b52e8a59895819978807685cf33fd6af9bb1e40af"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17018,
+      "sha256": "32352af0b16beaad9b292681f390525a555b413f72f28367d49247ed3742ed29"
+    },
+    {
+      "path": "source.html",
+      "bytes": 326943,
+      "sha256": "05165e6a0944f1aff5745f73f37b9990ac0f850c50ba1618873df7b695838f8b"
+    },
+    {
+      "path": "source.url",
+      "bytes": 98,
+      "sha256": "48457560cadf43dd448e1dd9493ba992abbced098395d9689303d01802521e44"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/2200xxs.jpg",
+      "path": "images/img-e5e1f9d33c05.webp",
+      "media_type": "image/webp",
+      "bytes": 150152,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/2200xxs.jpg",
+      "path": "images/img-87b2ca95077f.webp",
+      "media_type": "image/webp",
+      "bytes": 120662,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/2200xxs.jpg",
+      "path": "images/img-24404e5a2258.webp",
+      "media_type": "image/webp",
+      "bytes": 127988,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/2200xxs.jpg",
+      "path": "images/img-9506d8aeeccb.webp",
+      "media_type": "image/webp",
+      "bytes": 127402,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/2200xxs.jpg",
+      "path": "images/img-7441c52029cb.webp",
+      "media_type": "image/webp",
+      "bytes": 217926,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/M00000628.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 0,
+    "images_failed": 9,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

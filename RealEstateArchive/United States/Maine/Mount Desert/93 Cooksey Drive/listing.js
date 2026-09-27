@@ -1,0 +1,710 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93-cooksey-drive-17497343",
+    "canonical_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93-cooksey-drive-17497343",
+    "site": "jamesedition",
+    "listing_id": "17497343",
+    "listing_reference": "MES3MM",
+    "first_listed": "Mar 27",
+    "last_updated": "May 29",
+    "retrieved_at": "2026-06-19T08:18:23.43808Z"
+  },
+  "location": {
+    "address": "93 Cooksey Drive, Mount Desert, ME 04660, Maine, United States",
+    "street": "93 Cooksey Drive",
+    "municipality": "Mount Desert",
+    "region": "Maine",
+    "postal_code": "04660",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=44.29294616,-68.22719125",
+    "latitude": 44.29294616,
+    "longitude": -68.22719125
+  },
+  "property": {
+    "title": "93 Cooksey Drive",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 13500000,
+      "currency": "USD",
+      "display": "$13,500,000"
+    },
+    "price_per_area": {
+      "amount": 1323,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,323"
+    },
+    "bedrooms": 10,
+    "bathrooms": 11,
+    "interior_area": {
+      "value": 10198,
+      "unit": "sqft",
+      "display": "10,198 Sqft"
+    },
+    "year_built": 1988,
+    "photo_count": 50,
+    "description": "Just imagine spending Summers in the magical village of Seal Harbor on Mount Desert Island. The current residents named this extraordinary place Wanakiwin. Which means ’’ harmony, peace and tranquility.’’ This enchanting estate by the sea transports you with its secluded driveway that winds through a pristine woodland of mosses and lichen-covered boulders as the majestic residence comes into view. You have arrived at this architectural tour-de-force. Distinctly drawn in the highest order of shingle-style the home is dramatically anchored to what is perhaps the most magnificent parcel along the entire Maine coastline. Upon entering, the three-story fir-paneled hall is flanked by a massive staircase fashioned from white oak. Two steps down into the grand living room reveal a pleasing fireplace to the left and a pair of French doors leading out to the sprawling covered porch. Take in the sweeping panoramic views of 780’ glittering ocean frontage that merges with the rugged pink granite bluff known as Ingraham Point. All while perched high and dry above the bold Atlantic. Welcome multiple generations to partake in all of the captivating ocean view bedrooms. Here, the Owners’ suite boasts cathedral ceilings and its very own waterside balcony. A charming country kitchen with a gas-fired range adjoins a soaring breakfast space. The dining room features a boxed-beamed ceiling and offers yet another cozy fireplace. A library with built-ins is paired next to the den which is trimmed in mahogany and beadboard reminiscent of the captains’ quarters aboard a ship. There is an arts \u0026 crafts space, a lower-level gym, and an extensive wine cellar. Explore the epic grandeur of nearby Acadia, including Sand Beach, nature hikes, popovers at the Jordan Pond House and amazing sunsets atop Cadillac Mountain. Invite company over for a Gatsby era soiree’ in the gardens while overlooking the majestic surf below. Embrace it all and make it yours. Three room staff quarters.",
+    "features": [
+      "Balcony",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Library",
+      "Ocean View",
+      "Panoramic / Scenic View",
+      "Privacy",
+      "Water View",
+      "Waterfront",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "William Gaynor",
+    "agency": "Legacy Properties Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/legacy-properties-sotheby-s-international-realty-10749",
+    "agency_address": "150 Port Road, 04043, Kennebunk, Maine, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/75b616cd-4ace-4710-8c8e-7b62e9bcb682/je/2200xxs.jpg",
+      "file": "img-f5b9e29c8766.webp",
+      "media_type": "image/webp",
+      "bytes": 414692,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/281b88c4-5b58-4bc6-8789-0854b0ea2599/je/2200xxs.jpg",
+      "file": "img-72be054c8be0.webp",
+      "media_type": "image/webp",
+      "bytes": 592052,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/ac695606-f2b7-41e7-9b8e-6a11ff95f4e6/je/2200xxs.jpg",
+      "file": "img-7a2e7abd0027.webp",
+      "media_type": "image/webp",
+      "bytes": 954158,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/5ef61806-5b88-4dfc-bfb0-3acc050f1741/je/2200xxs.jpg",
+      "file": "img-f4f7fbdff0d0.webp",
+      "media_type": "image/webp",
+      "bytes": 835442,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/315ca93e-7011-4324-842c-4137592e0e72/je/2200xxs.jpg",
+      "file": "img-ff450fc7551f.webp",
+      "media_type": "image/webp",
+      "bytes": 805664,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%287%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%288%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%289%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/6d2fad95-bcee-4025-b075-f771b2601f62/je/2000xxs.jpg",
+      "file": "img-72fcfb933937.webp",
+      "media_type": "image/webp",
+      "bytes": 685528,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/1f5cf1ee-89a4-42e8-95bc-2b2e589a1b63/je/2000xxs.jpg",
+      "file": "img-e50a4993b273.webp",
+      "media_type": "image/webp",
+      "bytes": 816556,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/0741f74b-a87c-4118-b70e-f54a511930c6/je/2000xxs.jpg",
+      "file": "img-e8beebfbaeda.webp",
+      "media_type": "image/webp",
+      "bytes": 894704,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/b8572db7-5617-4b0b-98ec-ecef307eb91c/je/2000xxs.jpg",
+      "file": "img-6bd0b812b938.webp",
+      "media_type": "image/webp",
+      "bytes": 764232,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/522234c8-f8b0-4515-b722-f2b1619745ad/je/2000xxs.jpg",
+      "file": "img-e9d75a03c277.webp",
+      "media_type": "image/webp",
+      "bytes": 925646,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/1bdafe4c-7cbf-4dae-80ce-8c95a907b8e3/je/2000xxs.jpg",
+      "file": "img-bbffb6d00e2e.webp",
+      "media_type": "image/webp",
+      "bytes": 437070,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/0e0be89e-0c0d-4f71-9004-ebf51eb42a3d/je/2000xxs.jpg",
+      "file": "img-5f5caee053bf.webp",
+      "media_type": "image/webp",
+      "bytes": 659572,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/e1832935-f31a-4d96-995a-174eecf293c1/je/2000xxs.jpg",
+      "file": "img-c9618d010de3.webp",
+      "media_type": "image/webp",
+      "bytes": 710494,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/bacce778-aaec-4a9a-930a-981a177317d4/je/2000xxs.jpg",
+      "file": "img-b2bbf7a1dc8b.webp",
+      "media_type": "image/webp",
+      "bytes": 761798,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/2c576e0d-3e39-4671-a574-4ba8ea96dba0/je/2000xxs.jpg",
+      "file": "img-1ad4944940b4.webp",
+      "media_type": "image/webp",
+      "bytes": 807624,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/8bb72461-c398-4f12-a795-f82575a3b041/je/2000xxs.jpg",
+      "file": "img-2bf674d2ab1f.webp",
+      "media_type": "image/webp",
+      "bytes": 361870,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/33ab4b4d-007a-4de1-aace-d025c9ec3956/je/2000xxs.jpg",
+      "file": "img-dbfc5eb0494e.webp",
+      "media_type": "image/webp",
+      "bytes": 389198,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/b7f15dc0-09fc-4b9c-a933-bf3437b0347a/je/2000xxs.jpg",
+      "file": "img-e632dd7a5d19.webp",
+      "media_type": "image/webp",
+      "bytes": 350032,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/3ba1e657-2e1b-4fa8-8fa8-7446f70b3793/je/2000xxs.jpg",
+      "file": "img-ce859d8a4670.webp",
+      "media_type": "image/webp",
+      "bytes": 261740,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/d2b9f82b-8e4f-44fa-9ad5-ef19495e83cd/je/2000xxs.jpg",
+      "file": "img-a10f1346ae43.webp",
+      "media_type": "image/webp",
+      "bytes": 568360,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/597330a2-ee66-4d13-a516-817a3a4f47f2/je/2000xxs.jpg",
+      "file": "img-309cc1de651b.webp",
+      "media_type": "image/webp",
+      "bytes": 495754,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/e50708ea-03e3-4c95-b2a9-8e0f0f7b029a/je/2000xxs.jpg",
+      "file": "img-6d9052b10686.webp",
+      "media_type": "image/webp",
+      "bytes": 225460,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/294001ee-5e19-4022-b13a-8a293aa2deda/je/2000xxs.jpg",
+      "file": "img-f68aba436074.webp",
+      "media_type": "image/webp",
+      "bytes": 361512,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/989655e8-6e26-402b-b6bf-420894b83949/je/2000xxs.jpg",
+      "file": "img-7e5752c32835.webp",
+      "media_type": "image/webp",
+      "bytes": 434392,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/b603ab98-625a-4bd3-837c-ef887711bb99/je/2000xxs.jpg",
+      "file": "img-3aa0b2fe245d.webp",
+      "media_type": "image/webp",
+      "bytes": 468456,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/65b06e62-d4b9-4723-99f4-080edc17dd76/je/2000xxs.jpg",
+      "file": "img-64fad4a966fe.webp",
+      "media_type": "image/webp",
+      "bytes": 226596,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/4e4ad5a0-04e9-4033-8b59-ed0ea30a2b87/je/2000xxs.jpg",
+      "file": "img-3875950797a5.webp",
+      "media_type": "image/webp",
+      "bytes": 359558,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/2acfe97b-5325-47d3-bf86-114cc4afbb9f/je/2000xxs.jpg",
+      "file": "img-c1e70285b096.webp",
+      "media_type": "image/webp",
+      "bytes": 293414,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/d02c64f8-2030-40f2-beae-75b538587b6b/je/2000xxs.jpg",
+      "file": "img-755fba11c710.webp",
+      "media_type": "image/webp",
+      "bytes": 298526,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/51617df4-fe3f-4628-96ad-114408ec543a/je/2000xxs.jpg",
+      "file": "img-ee47daae3384.webp",
+      "media_type": "image/webp",
+      "bytes": 301920,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/5e4f1ede-e3fa-42e6-a78f-d68fe837a51e/je/2000xxs.jpg",
+      "file": "img-0d10a862d235.webp",
+      "media_type": "image/webp",
+      "bytes": 269438,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/936742fc-bffc-4290-8d57-6daebbd230b8/je/2000xxs.jpg",
+      "file": "img-f1204cd2c118.webp",
+      "media_type": "image/webp",
+      "bytes": 248878,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/fbab1fc7-88ac-41ca-8c95-8e3badbc89a0/je/2000xxs.jpg",
+      "file": "img-5bfcd03746ec.webp",
+      "media_type": "image/webp",
+      "bytes": 312498,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/e1172c23-a6ed-43d3-8cf0-50a8a294e95c/je/2000xxs.jpg",
+      "file": "img-f1c51e3b7265.webp",
+      "media_type": "image/webp",
+      "bytes": 244950,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/b858c487-8fa8-4632-855b-23c6ff36236b/je/2000xxs.jpg",
+      "file": "img-353478a9864e.webp",
+      "media_type": "image/webp",
+      "bytes": 525562,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/c654602f-3b20-4dd9-a3ec-c8446e4249ee/je/2000xxs.jpg",
+      "file": "img-1ab198ee7231.webp",
+      "media_type": "image/webp",
+      "bytes": 401032,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/e1880e82-0b79-4016-892a-7629c973bda8/je/2000xxs.jpg",
+      "file": "img-d6ea2f92a119.webp",
+      "media_type": "image/webp",
+      "bytes": 276106,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/c8874ee7-d9d9-4378-ba7e-7f4535cad30b/je/2000xxs.jpg",
+      "file": "img-133bec462da3.webp",
+      "media_type": "image/webp",
+      "bytes": 326560,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/5d91b85a-79c9-4397-9349-aeab478e0208/je/2000xxs.jpg",
+      "file": "img-3ff56421f3d6.webp",
+      "media_type": "image/webp",
+      "bytes": 218380,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/719e605e-c068-4044-8950-ff03ecf5bdc1/je/2000xxs.jpg",
+      "file": "img-f7f2d1d88c24.webp",
+      "media_type": "image/webp",
+      "bytes": 250134,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/c19ed288-6536-4cd5-b6fa-a6a0fcc65556/je/2000xxs.jpg",
+      "file": "img-fc919e4bd90c.webp",
+      "media_type": "image/webp",
+      "bytes": 212276,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/faa280e6-d909-49aa-996b-cdd4516928b0/je/2000xxs.jpg",
+      "file": "img-f26b709454f2.webp",
+      "media_type": "image/webp",
+      "bytes": 282340,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/dd0bd1cf-ef8d-4a9f-bad8-86dc4e908762/je/2000xxs.jpg",
+      "file": "img-b114a427db48.webp",
+      "media_type": "image/webp",
+      "bytes": 224826,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/ccf28ece-48f5-4cb4-ad3b-d2d8c0633108/je/2000xxs.jpg",
+      "file": "img-52e5dbd0679e.webp",
+      "media_type": "image/webp",
+      "bytes": 263922,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/a8ce42d5-59a5-4600-9255-c3da062ff91a/je/2000xxs.jpg",
+      "file": "img-bb311cd2f8e5.webp",
+      "media_type": "image/webp",
+      "bytes": 212186,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/3f5f5e58-f1a2-4086-ae48-0730b4337741/je/2000xxs.jpg",
+      "file": "img-1ad3915b6c00.webp",
+      "media_type": "image/webp",
+      "bytes": 143636,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/40a7e978-2ae5-4120-9617-718694a71664/je/2000xxs.jpg",
+      "file": "img-7c52dc77ea41.webp",
+      "media_type": "image/webp",
+      "bytes": 772848,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/1854d7cd-dbf5-4058-8a52-e05fa462d2d3/je/2000xxs.jpg",
+      "file": "img-e5a1ced448ad.webp",
+      "media_type": "image/webp",
+      "bytes": 741992,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/2eaa74c3-1311-4cd1-ab8b-3cc4a4001175/je/2000xxs.jpg",
+      "file": "img-7c6a8652e8bf.webp",
+      "media_type": "image/webp",
+      "bytes": 574168,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/6abdc4ef-90ef-4b73-9e14-c42573efc3fc/je/2000xxs.jpg",
+      "file": "img-1e45cd0d12f4.webp",
+      "media_type": "image/webp",
+      "bytes": 474724,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2838%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2839%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2840%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/me-united-states",
+              "name": "Maine"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/mount-desert-me-usa",
+              "name": "Mount Desert"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93-cooksey-drive-17497343",
+              "name": "93 Cooksey Drive"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Just imagine spending Summers in the magical village of Seal Harbor on Mount Desert Island. The current residents named this extraordinary place Wanakiwin. Which means '' harmony, peace and tranquility.'' This enchanting estate by the sea transports you with its secluded driveway that winds through a pristine woodland of mosses and lichen-covered boulders as the majestic residence comes into view. You have arrived at this architectural tour-de-force. Distinctly drawn in the highest order of shingle-style the home is dramatically anchored to what is perhaps the most magnificent parcel along the entire Maine coastline. Upon entering, the three-story fir-paneled hall is flanked by a massive staircase fashioned from white oak. Two steps down into the grand living room reveal a pleasing fireplace to the left and a pair of French doors leading out to the sprawling covered porch. Take in the sweeping panoramic views of 780' glittering ocean frontage that merges with the rugged pink granite bluff known as Ingraham Point. All while perched high and dry above the bold Atlantic. Welcome multiple generations to partake in all of the captivating ocean view bedrooms. Here, the Owners' suite boasts cathedral ceilings and its very own waterside balcony. A charming country kitchen with a gas-fired range adjoins a soaring breakfast space. The dining room features a boxed-beamed ceiling and offers yet another cozy fireplace. A library with built-ins is paired next to the den which is trimmed in mahogany and beadboard reminiscent of the captains' quarters aboard a ship. There is an arts \u0026amp; crafts space, a lower-level gym, and an extensive wine cellar. Explore the epic grandeur of nearby Acadia, including Sand Beach, nature hikes, popovers at the Jordan Pond House and amazing sunsets atop Cadillac Mountain. Invite company over for a Gatsby era soiree' in the gardens while overlooking the majestic surf below. Embrace it all and make it yours. Three room staff quarters.",
+        "image": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/32/75b616cd-4ace-4710-8c8e-7b62e9bcb682/je/1040x620xc.jpg",
+        "name": "93 Cooksey Drive",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 13500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Legacy Properties Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/mount-desert-me-usa/93-cooksey-drive-17497343"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%285%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%286%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%287%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%288%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/160x120xc%289%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2838%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2839%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mount-desert-me-usa/93%20Cooksey%20Drive%20In%20Mount%20Desert,%20Maine,%20United%20States%20For%20Sale%20%2817497343%29_files/2200xxsxm%2840%29.jpg: HTTP 403 Forbidden"
+  ]
+};

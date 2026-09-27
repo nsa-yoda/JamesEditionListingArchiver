@@ -1,0 +1,749 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380",
+    "canonical_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380",
+    "site": "jamesedition",
+    "listing_id": "15022380",
+    "listing_reference": "47J8NR",
+    "first_listed": "Dec 16, 2024",
+    "last_updated": "January 16",
+    "retrieved_at": "2026-06-19T08:18:12.413368Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2015,
+      "sha256": "32469f410086b205a0beeabe5a1098680b75b75951363a5baf2664726e692d81"
+    },
+    {
+      "path": "images/img-012c8b8a21ba.webp",
+      "bytes": 453732,
+      "sha256": "28f4805ac29bb5632bf210e7e1cd8fe3fba759a1830ba14279b91c54e7df6063"
+    },
+    {
+      "path": "images/img-141f950634da.webp",
+      "bytes": 118204,
+      "sha256": "a9304aa47e4b955d4f4c20975325e6b878e368483c25ca479fa8ee6d6d419b13"
+    },
+    {
+      "path": "images/img-1d23918eb016.webp",
+      "bytes": 204174,
+      "sha256": "853aed61c861c7218fb769a40577be7d18a3b1ed5553b4fd7c2611a2d31abc28"
+    },
+    {
+      "path": "images/img-1d6e03983842.webp",
+      "bytes": 196528,
+      "sha256": "51719a3198a04614f65b4d23a60a635782520988e1664a0ecb177a993d690ae9"
+    },
+    {
+      "path": "images/img-25369a7cc405.webp",
+      "bytes": 441260,
+      "sha256": "dc05d01f304a342e729471b7e08374f706a486b63719178675909e7046876e9c"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-28f932be786e.webp",
+      "bytes": 344276,
+      "sha256": "46334ce8fe6d14b40966314f5220851a867c8503397bcf92994e2f43493d26cd"
+    },
+    {
+      "path": "images/img-29059930a3f3.webp",
+      "bytes": 154790,
+      "sha256": "268dbfeb2e7e34789278e952a13313f99f8439df76557725a58f159c3ae3215f"
+    },
+    {
+      "path": "images/img-35f9f8c1185a.webp",
+      "bytes": 228090,
+      "sha256": "7889a780d9e344b0f1118e19872e3f9282519595362519a1404495abca8d1050"
+    },
+    {
+      "path": "images/img-397087ea179e.webp",
+      "bytes": 172160,
+      "sha256": "ef258b3a4bd368e8008bca2dfec0d51a4f0cb262e984cc05e42488a80904b6d6"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-455de970f96d.webp",
+      "bytes": 374142,
+      "sha256": "2c24c1fa0a7f82408b35e843ad809cd35a37b78b0129b8ba8283369458d9b00d"
+    },
+    {
+      "path": "images/img-49b7948bf05b.webp",
+      "bytes": 129934,
+      "sha256": "5f02b5e5443f27fee587882c75281534f81338cf8ebff05abf2df8ac455d5222"
+    },
+    {
+      "path": "images/img-4e9fd97cce67.webp",
+      "bytes": 239624,
+      "sha256": "040d08368f751208bdd291ad99700ff70068850a4d4f994211097333f5fb7dcf"
+    },
+    {
+      "path": "images/img-50084c20ba83.webp",
+      "bytes": 184468,
+      "sha256": "4c8ee1f7a81ffc42eda117b1285727246464c88744d2eac8f965f1e31ebbd8db"
+    },
+    {
+      "path": "images/img-51426fc0ae62.webp",
+      "bytes": 125812,
+      "sha256": "c84f3142a8abf3a1fdc9036317e432e7eef8fac44259c7b1b81525e575c1206b"
+    },
+    {
+      "path": "images/img-5681e0f7341d.webp",
+      "bytes": 83394,
+      "sha256": "ebda198647fe601fd4f115360e7d1cfbe417ef85eb4470249c7ff614fd6d11a3"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5b28d0c143c1.webp",
+      "bytes": 237328,
+      "sha256": "84a5204da3baa5f11a02e3aca9acf217ac4a7f62cf818fd30f61259cb3321b66"
+    },
+    {
+      "path": "images/img-5def6d16001c.webp",
+      "bytes": 199362,
+      "sha256": "8c940294749d7388bebb71671ef4747ddcbcbd3e9bfdfe551d4ab996757130e1"
+    },
+    {
+      "path": "images/img-5e46d5519830.webp",
+      "bytes": 187948,
+      "sha256": "266a398ea4c7ded16aa6b23d8d1c9b867674dfb1f4f3bd839c19a68ef5a0137c"
+    },
+    {
+      "path": "images/img-6257e58501dd.webp",
+      "bytes": 189758,
+      "sha256": "501142d0d14fc05267a398f797af517419ca1f656aec5b8a5c6606841110b6b4"
+    },
+    {
+      "path": "images/img-745ae5c88d21.webp",
+      "bytes": 106796,
+      "sha256": "bdf653b3d847f070dd7ab2b019f29a39e53607b5ccaebb5b937f5f5cecff1bf6"
+    },
+    {
+      "path": "images/img-7479b3e14873.webp",
+      "bytes": 107582,
+      "sha256": "ceb4e291b7e74b97d58cf9be9f9fd8284b44ff250a0e35d0623f3c95edc13849"
+    },
+    {
+      "path": "images/img-7b62a61008b5.webp",
+      "bytes": 218016,
+      "sha256": "232637ed90cf94d64ec079571cc4c9f30611d9d3bd8fa35d8d4b056c125eb165"
+    },
+    {
+      "path": "images/img-7e0ffa99c1a2.webp",
+      "bytes": 135802,
+      "sha256": "1087c33bae5998defe1ee58bed0758d6b2efd02305ce75cf5c72dccf58d0472c"
+    },
+    {
+      "path": "images/img-83eb0c505ce5.webp",
+      "bytes": 126232,
+      "sha256": "846bf77128c17f6dcf35eb686970b6705dfd80aa612f4d1037b252594a0f4ec8"
+    },
+    {
+      "path": "images/img-9a4b01313fce.webp",
+      "bytes": 158552,
+      "sha256": "d7ec14cd26e373e8f29f827d39178cf1510be77f36e8c54585074fc74871625b"
+    },
+    {
+      "path": "images/img-9f694c66ffa2.webp",
+      "bytes": 161316,
+      "sha256": "9e647e097286fe22364b49b670d2f99bd2ca05e0ddc80dff64923351225c60c3"
+    },
+    {
+      "path": "images/img-a1df900c51c7.webp",
+      "bytes": 101506,
+      "sha256": "7ed306d78762fad2227e02c8350d311779b9507a2cb4ba361780c1a4c4ea2595"
+    },
+    {
+      "path": "images/img-a53644b21041.webp",
+      "bytes": 223928,
+      "sha256": "0bb6092ee29a4332d3be467ea5487047976b1248911027f59a61c803a3e41ac1"
+    },
+    {
+      "path": "images/img-aa059a7496e3.webp",
+      "bytes": 136584,
+      "sha256": "1c7db92706dea8f332bc851acc73eb94440a8b01677efe2eaf1f6927cca7d4fc"
+    },
+    {
+      "path": "images/img-aff073a6470c.webp",
+      "bytes": 175184,
+      "sha256": "a828a953a6e570f273aaf0daecad011e9dd8a7a3172017daba19e8cbfa092e8a"
+    },
+    {
+      "path": "images/img-b30e0a02f3ed.webp",
+      "bytes": 484360,
+      "sha256": "504fb80eafcfd8ad5694e15843c5e69b2a3515994becab2f7a5e6a56a4e90528"
+    },
+    {
+      "path": "images/img-bac7e9e88e64.webp",
+      "bytes": 130436,
+      "sha256": "01a89420fd353d4c9388fdd623a1d38b6a538783a8804765fa91e096a9ee3e2a"
+    },
+    {
+      "path": "images/img-bc1e36b93acb.webp",
+      "bytes": 171472,
+      "sha256": "a1dbbd24d65327beb6d324319c3fdde099310e5513d4888d4a4347d0e69cc526"
+    },
+    {
+      "path": "images/img-c211ee636f3a.webp",
+      "bytes": 142968,
+      "sha256": "b330da5169af776114b96a8e82c93f3352b7cc7e6a9a51f039b724e9c598afcc"
+    },
+    {
+      "path": "images/img-c991e10f02df.webp",
+      "bytes": 254268,
+      "sha256": "2e4fef152e607cf9b6104e8210134b8ef171e4b2a36d679c8e2fc54607665b07"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-d3ebdd454375.webp",
+      "bytes": 126998,
+      "sha256": "0e82f0213a148b2f02f1afcf866366e2bc285afcf854160a5eaa8d3b52dbef9c"
+    },
+    {
+      "path": "images/img-d8a13a1caa87.webp",
+      "bytes": 185662,
+      "sha256": "81f7123a92b03d9bda72cf9899d336368801b3d045e845522e176fd3dad12530"
+    },
+    {
+      "path": "images/img-db066d772696.webp",
+      "bytes": 257960,
+      "sha256": "ecbe9d6fe090487f133278260fbe3297e61014aa400f227d7c88efda2dce946c"
+    },
+    {
+      "path": "images/img-dba31c6b3544.webp",
+      "bytes": 147652,
+      "sha256": "9c12da5f1b8297f9713e2cbbc15f212f244cf8b4b6c93ac64413e63e21c16a90"
+    },
+    {
+      "path": "images/img-dedc073e2af1.webp",
+      "bytes": 189042,
+      "sha256": "c8a866d7522289094b5c9d1c85841daa4ad631ddeb3eda768359330e7423aca4"
+    },
+    {
+      "path": "images/img-dfde40d86925.webp",
+      "bytes": 143980,
+      "sha256": "e757d86ef889b12200fe9b35d0bcb754bc3a363d5b76e7cdd81756d6fbc5ea5c"
+    },
+    {
+      "path": "images/img-e488271ccd53.webp",
+      "bytes": 231428,
+      "sha256": "91c747b2990e0cfc6868324aa289ddd6e49c678990345e9e9a301b6ca3ba007e"
+    },
+    {
+      "path": "images/img-f12c30a5e876.webp",
+      "bytes": 112728,
+      "sha256": "7783469cef351f84556f175e406d9f530350a9851ad2a0da18ba251404bb9abc"
+    },
+    {
+      "path": "images/img-f2355d8bedeb.webp",
+      "bytes": 322698,
+      "sha256": "d4f6af3a3125da910583f78db6ad55106aa650173e1945d46e514001c76d63c3"
+    },
+    {
+      "path": "images/img-f8987aa7b0a0.webp",
+      "bytes": 143332,
+      "sha256": "ada5dc0e314ef14bc8df801fad32169add06f375d85ee2c2440cb2b27cfd0ee9"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 28335,
+      "sha256": "73ad626a485393efd416e20978792ff745cd5e8756e0b8144f0691aa8de0abed"
+    },
+    {
+      "path": "source.html",
+      "bytes": 476080,
+      "sha256": "6a4430f98419e8b8c71be97b4c35ad3942b1ce863a06de831c4290a6119694bf"
+    },
+    {
+      "path": "source.url",
+      "bytes": 105,
+      "sha256": "15921ec41fec69d8eb99aa1645d7d26bc4884e378fbcbfc5d962ac355f50df8b"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/2200xxs.jpg",
+      "path": "images/img-28f932be786e.webp",
+      "media_type": "image/webp",
+      "bytes": 344276,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/2200xxs.jpg",
+      "path": "images/img-4e9fd97cce67.webp",
+      "media_type": "image/webp",
+      "bytes": 239624,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/2200xxs.jpg",
+      "path": "images/img-b30e0a02f3ed.webp",
+      "media_type": "image/webp",
+      "bytes": 484360,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/2200xxs.jpg",
+      "path": "images/img-455de970f96d.webp",
+      "media_type": "image/webp",
+      "bytes": 374142,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/2200xxs.jpg",
+      "path": "images/img-35f9f8c1185a.webp",
+      "media_type": "image/webp",
+      "bytes": 228090,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/250b6bf1-4126-4e80-a5c5-a375f396eecf/je/2000xxs.jpg",
+      "path": "images/img-1d6e03983842.webp",
+      "media_type": "image/webp",
+      "bytes": 196528,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/a6fcce19-9e05-486a-a44d-0fba0cf7c35d/je/2000xxs.jpg",
+      "path": "images/img-7b62a61008b5.webp",
+      "media_type": "image/webp",
+      "bytes": 218016,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/82c1492e-68e9-4d67-b0b0-fbb41d573380/je/2000xxs.jpg",
+      "path": "images/img-1d23918eb016.webp",
+      "media_type": "image/webp",
+      "bytes": 204174,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/a6bf8a2f-9a7c-4218-8f1a-c06e61af7c5f/je/2000xxs.jpg",
+      "path": "images/img-6257e58501dd.webp",
+      "media_type": "image/webp",
+      "bytes": 189758,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/a9bc0b0c-5c91-4253-a520-741fb6b516d1/je/2000xxs.jpg",
+      "path": "images/img-f12c30a5e876.webp",
+      "media_type": "image/webp",
+      "bytes": 112728,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/98ab2881-12d6-4c48-a98b-1dab4b5eda93/je/2000xxs.jpg",
+      "path": "images/img-a53644b21041.webp",
+      "media_type": "image/webp",
+      "bytes": 223928,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/367126c0-a9c0-4977-99a5-731c4ad247ad/je/2000xxs.jpg",
+      "path": "images/img-745ae5c88d21.webp",
+      "media_type": "image/webp",
+      "bytes": 106796,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/b03effb1-d10d-4089-a9e1-257077b1bd18/je/2000xxs.jpg",
+      "path": "images/img-5def6d16001c.webp",
+      "media_type": "image/webp",
+      "bytes": 199362,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/39109db7-3b91-4ad5-bd29-df858bd07290/je/2000xxs.jpg",
+      "path": "images/img-397087ea179e.webp",
+      "media_type": "image/webp",
+      "bytes": 172160,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/fd50d171-39be-43f0-a0e1-0edd7426cb29/je/2000xxs.jpg",
+      "path": "images/img-db066d772696.webp",
+      "media_type": "image/webp",
+      "bytes": 257960,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/1428e095-34b4-4136-af11-4d6676f16ad1/je/2000xxs.jpg",
+      "path": "images/img-5b28d0c143c1.webp",
+      "media_type": "image/webp",
+      "bytes": 237328,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/20049d85-a135-4670-a1c7-3b14d2d4c47f/je/2000xxs.jpg",
+      "path": "images/img-7479b3e14873.webp",
+      "media_type": "image/webp",
+      "bytes": 107582,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/4cb4d7f6-51e6-4ec2-96e0-fe455bca5d2e/je/2000xxs.jpg",
+      "path": "images/img-50084c20ba83.webp",
+      "media_type": "image/webp",
+      "bytes": 184468,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/2cded04c-bd69-4824-8d9f-0cca580a9a7c/je/2000xxs.jpg",
+      "path": "images/img-d8a13a1caa87.webp",
+      "media_type": "image/webp",
+      "bytes": 185662,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/2fe42d09-cc57-4de5-9deb-d1a3c317be43/je/2000xxs.jpg",
+      "path": "images/img-e488271ccd53.webp",
+      "media_type": "image/webp",
+      "bytes": 231428,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/f8b64842-38aa-4da0-bc36-a172d292614e/je/2000xxs.jpg",
+      "path": "images/img-29059930a3f3.webp",
+      "media_type": "image/webp",
+      "bytes": 154790,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/ca325d64-8638-4bbe-acc8-3e4a0c91a211/je/2000xxs.jpg",
+      "path": "images/img-aa059a7496e3.webp",
+      "media_type": "image/webp",
+      "bytes": 136584,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/a13b1f79-6dbf-4103-a567-487744f89242/je/2000xxs.jpg",
+      "path": "images/img-83eb0c505ce5.webp",
+      "media_type": "image/webp",
+      "bytes": 126232,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/92008c76-4c9c-4a81-9517-f14eb159d540/je/2000xxs.jpg",
+      "path": "images/img-bac7e9e88e64.webp",
+      "media_type": "image/webp",
+      "bytes": 130436,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/c785d219-01ec-474b-8757-dad8cbbad724/je/2000xxs.jpg",
+      "path": "images/img-51426fc0ae62.webp",
+      "media_type": "image/webp",
+      "bytes": 125812,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/6182b68e-6c12-4224-b8d8-87d9abbd6324/je/2000xxs.jpg",
+      "path": "images/img-d3ebdd454375.webp",
+      "media_type": "image/webp",
+      "bytes": 126998,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/7a7dd0c0-1405-4c61-9548-e7315561b84c/je/2000xxs.jpg",
+      "path": "images/img-49b7948bf05b.webp",
+      "media_type": "image/webp",
+      "bytes": 129934,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/148a148d-e201-4929-a577-f9dacaf7d0b8/je/2000xxs.jpg",
+      "path": "images/img-f8987aa7b0a0.webp",
+      "media_type": "image/webp",
+      "bytes": 143332,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/34fef3fb-bf8d-493c-a456-62bebc592289/je/2000xxs.jpg",
+      "path": "images/img-7e0ffa99c1a2.webp",
+      "media_type": "image/webp",
+      "bytes": 135802,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/66e9bc80-476c-4c0e-bc75-e49b81a74c4b/je/2000xxs.jpg",
+      "path": "images/img-a1df900c51c7.webp",
+      "media_type": "image/webp",
+      "bytes": 101506,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/3824f6b5-98e1-4675-b0d6-03735e894f9a/je/2000xxs.jpg",
+      "path": "images/img-9a4b01313fce.webp",
+      "media_type": "image/webp",
+      "bytes": 158552,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/34ca8f36-4aa6-4fd5-b6c6-581d6f3793a6/je/2000xxs.jpg",
+      "path": "images/img-aff073a6470c.webp",
+      "media_type": "image/webp",
+      "bytes": 175184,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/138ee55e-2454-451c-87c1-13ec42dc25aa/je/2000xxs.jpg",
+      "path": "images/img-dfde40d86925.webp",
+      "media_type": "image/webp",
+      "bytes": 143980,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/d01c6460-baf5-4b27-9799-60b58182e014/je/2000xxs.jpg",
+      "path": "images/img-141f950634da.webp",
+      "media_type": "image/webp",
+      "bytes": 118204,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/be76cdd6-0a0d-4486-a377-a53851deba0e/je/2000xxs.jpg",
+      "path": "images/img-5681e0f7341d.webp",
+      "media_type": "image/webp",
+      "bytes": 83394,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/ef3aedfc-6f18-4bba-8cfd-97799669c14c/je/2000xxs.jpg",
+      "path": "images/img-dba31c6b3544.webp",
+      "media_type": "image/webp",
+      "bytes": 147652,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/f36780c9-6ffc-4337-9302-ba3a4206e25e/je/2000xxs.jpg",
+      "path": "images/img-25369a7cc405.webp",
+      "media_type": "image/webp",
+      "bytes": 441260,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/4e0c70e4-2af5-4104-97d7-aaaa5d8be700/je/2000xxs.jpg",
+      "path": "images/img-c991e10f02df.webp",
+      "media_type": "image/webp",
+      "bytes": 254268,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/906ad596-bc40-4a88-8ffb-e2c84890912b/je/2000xxs.jpg",
+      "path": "images/img-dedc073e2af1.webp",
+      "media_type": "image/webp",
+      "bytes": 189042,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/89f971a1-81e1-4df1-989d-ce204d32b35d/je/2000xxs.jpg",
+      "path": "images/img-bc1e36b93acb.webp",
+      "media_type": "image/webp",
+      "bytes": 171472,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/cd1f7a2f-1496-42cd-ba0d-ec62bd921731/je/2000xxs.jpg",
+      "path": "images/img-c211ee636f3a.webp",
+      "media_type": "image/webp",
+      "bytes": 142968,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/bb371712-3c4e-4bf1-a18a-4ef3cf128bc4/je/2000xxs.jpg",
+      "path": "images/img-012c8b8a21ba.webp",
+      "media_type": "image/webp",
+      "bytes": 453732,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/0f1986d0-7d11-4162-92ac-ba2d50a65185/je/2000xxs.jpg",
+      "path": "images/img-f2355d8bedeb.webp",
+      "media_type": "image/webp",
+      "bytes": 322698,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/69fd3106-cbfb-4bec-9ebd-f1c07a50d6a3/je/2000xxs.jpg",
+      "path": "images/img-9f694c66ffa2.webp",
+      "media_type": "image/webp",
+      "bytes": 161316,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/4f28df0b-023d-4d5e-b26e-1a096da952ab/je/2000xxs.jpg",
+      "path": "images/img-5e46d5519830.webp",
+      "media_type": "image/webp",
+      "bytes": 187948,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2824%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2825%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2826%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 49,
+    "images_existing": 0,
+    "images_failed": 11,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

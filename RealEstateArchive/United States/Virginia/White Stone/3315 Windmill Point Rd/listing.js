@@ -1,0 +1,341 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/extraordinary-waterfront-estate-15814055",
+    "canonical_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/extraordinary-waterfront-estate-15814055",
+    "site": "jamesedition",
+    "listing_id": "15814055",
+    "first_listed": "Jun 20, 2025",
+    "last_updated": "June 20, 2025",
+    "retrieved_at": "2026-06-16T03:43:25.375492Z"
+  },
+  "location": {
+    "address": "3315 Windmill Point Rd, White Stone, VA 22578, Virginia, United States",
+    "street": "3315 Windmill Point Rd",
+    "municipality": "White Stone",
+    "region": "Virginia",
+    "postal_code": "22578",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=37.6260227,-76.3301864",
+    "latitude": 37.6260227,
+    "longitude": -76.3301864
+  },
+  "property": {
+    "title": "Extraordinary Waterfront Estate",
+    "type": "Estate",
+    "availability": "InStock",
+    "price": {
+      "amount": 4200000,
+      "currency": "USD",
+      "display": "$4,200,000"
+    },
+    "price_per_area": {
+      "amount": 334,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$334"
+    },
+    "bedrooms": 6,
+    "bathrooms": 8,
+    "floors": 2,
+    "interior_area": {
+      "value": 12556,
+      "unit": "sqft",
+      "display": "12,556 Sqft"
+    },
+    "lot_area": {
+      "value": 7.88,
+      "display": "7.88 Ac lot"
+    },
+    "year_built": 2005,
+    "photo_count": 62,
+    "video_url": "https://www.youtube.com/embed/FC1BBfTNLb8?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=FC1BBfTNLb8\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "3315 Windmill Point Road, White Stone, VA, An extraordinary waterfront estate offering endless possibilities! Whether you're seeking a luxurious multi-generational family retreat, a stunning business escape, or an exceptional investment property with income potential, this home delivers. Perfectly positioned on Little Bay, just off the Chesapeake Bay, you'll enjoy expansive water views, premier boating, fabulous fishing, and beach days from your own backyard. This grand residence seamlessly blends elegance and comfort with soaring vaulted ceilings, oversized rooms, and walls of glass showcasing breathtaking water views. Featuring 11 true bedrooms, 4 additional flexible rooms for guest accommodations, 8 full bathrooms, and 3 fully equipped kitchens, the home is thoughtfully designed for entertaining on a large scale. (6 bedroom septic) Enjoy multiple lounging areas, fireplaces, two saunas, and a newly added screen porch for enjoying the waterfront breeze. Recent upgrades include all new flooring, fresh paint throughout, updated lighting, expanded decking, and renovated/all new kitchens, creating a turn-key, modern coastal retreat. The home is currently divided into three self-contained living spaces, ideal for privacy, rental potential, or large gatherings, but easily flows as one grand estate. A rare offering with room to breathe, space to entertain, and views to inspire, this is waterfront living redefined. *See featured sheet \u0026amp; floor plans* Appointment only. Gorgeous Sunrises await!",
+    "features": [
+      "Balcony",
+      "Beachfront",
+      "Coastal",
+      "Fire Pit",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Game Room",
+      "Garage",
+      "High Ceiling",
+      "Kitchen island",
+      "Laundry Room",
+      "Mansion",
+      "Open Kitchen",
+      "Private Beach",
+      "Renovated",
+      "River View",
+      "Riverfront",
+      "Sauna",
+      "Stone Countertops",
+      "Walk In Closet",
+      "Washer Dryer",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Katie Horsley Dew",
+    "agent_profile_url": "https://www.jamesedition.com/agents/katie-horsley-dew-1590622",
+    "agency": "IsaBell K. Horsley Real Estate",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/isabell-k-horsley-real-estate-291063",
+    "agency_address": "P.O. Box 299, 23175, Urbanna, Virginia, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/2200xxs.jpg",
+      "file": "004-966b2872.webp",
+      "media_type": "image/webp",
+      "bytes": 161470,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/2200xxs.jpg",
+      "file": "009-7e304e7a.webp",
+      "media_type": "image/webp",
+      "bytes": 173412,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/2200xxs.jpg",
+      "file": "014-65e2d890.webp",
+      "media_type": "image/webp",
+      "bytes": 161470,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/2200xxs.jpg",
+      "file": "019-e8228bd2.webp",
+      "media_type": "image/webp",
+      "bytes": 173412,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/2200xxs.jpg",
+      "file": "024-db1cbb26.webp",
+      "media_type": "image/webp",
+      "bytes": 185792,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2024/11/12/20/27/48/32ed4634-f7a1-4386-9518-82d1a3827618/je/80x80xc.jpg",
+      "file": "034-19655d78.webp",
+      "media_type": "image/webp",
+      "bytes": 1798,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/va-united-states",
+              "name": "Virginia"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/white-stone-va-usa",
+              "name": "White Stone"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/white-stone-va-usa/extraordinary-waterfront-estate-15814055",
+              "name": "Extraordinary Waterfront Estate"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "3315 Windmill Point Road, White Stone, VA, An extraordinary waterfront estate offering endless possibilities! Whether you're seeking a luxurious multi-generational family retreat, a stunning business escape, or an exceptional investment property with income potential, this home delivers. Perfectly positioned on Little Bay, just off the Chesapeake Bay, you'll enjoy expansive water views, premier boating, fabulous fishing, and beach days from your own backyard. This grand residence seamlessly blends elegance and comfort with soaring vaulted ceilings, oversized rooms, and walls of glass showcasing breathtaking water views. Featuring 11 true bedrooms, 4 additional flexible rooms for guest accommodations, 8 full bathrooms, and 3 fully equipped kitchens, the home is thoughtfully designed for entertaining on a large scale. (6 bedroom septic) Enjoy multiple lounging areas, fireplaces, two saunas, and a newly added screen porch for enjoying the waterfront breeze. Recent upgrades include all new flooring, fresh paint throughout, updated lighting, expanded decking, and renovated/all new kitchens, creating a turn-key, modern coastal retreat. The home is currently divided into three self-contained living spaces, ideal for privacy, rental potential, or large gatherings, but easily flows as one grand estate. A rare offering with room to breathe, space to entertain, and views to inspire, this is waterfront living redefined. *See featured sheet \u0026amp; floor plans* Appointment only. Gorgeous Sunrises await!",
+        "image": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg",
+        "name": "Extraordinary Waterfront Estate",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 4200000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "IsaBell K. Horsley Real Estate"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/extraordinary-waterfront-estate-15814055"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

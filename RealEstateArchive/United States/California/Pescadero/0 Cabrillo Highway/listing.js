@@ -1,0 +1,399 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/exceptional-oceanfront-property-14723586",
+    "canonical_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/exceptional-oceanfront-property-14723586",
+    "site": "jamesedition",
+    "listing_id": "14723586",
+    "listing_reference": "SLMSNE",
+    "first_listed": "Sep 20, 2024",
+    "last_updated": "April 8",
+    "retrieved_at": "2026-06-19T08:18:39.202374Z"
+  },
+  "location": {
+    "address": "0 Cabrillo Highway , Pescadero, CA 94060, California, United States",
+    "street": "0 Cabrillo Highway",
+    "municipality": "Pescadero",
+    "region": "California",
+    "postal_code": "94060",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=37.2099954,-122.404381",
+    "latitude": 37.2099954,
+    "longitude": -122.404381
+  },
+  "property": {
+    "title": "Exceptional Oceanfront Property",
+    "type": "Land",
+    "availability": "InStock",
+    "price": {
+      "amount": 7000000,
+      "currency": "USD",
+      "display": "$7,000,000"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "lot_area": {
+      "value": 6.85,
+      "display": "6.85 Ac lot"
+    },
+    "photo_count": 15,
+    "description": "Discover an unparalleled offering at 0 Cabrillo Highway— an exceptional ~6.85-acre oceanfront property that seamlessly combines breathtaking natural beauty with immense potential. Situated on one of the most striking stretches of California’s coastline, this exclusive parcel comprises three combined lots, providing expansive, uninterrupted views of the Pacific Ocean. With the potential for direct beach access, this land offers the rare chance to craft a private sanctuary that embraces both luxury and the rugged beauty of the surrounding landscape.Whether your vision includes a custom estate, a sustainable retreat, or a preservation haven, the possibilities here are endless. The gentle topography of the land provides flexibility for a range of development options, while its secluded setting guarantees unmatched privacy. Imagine waking to the sound of waves breaking along the shore, enjoying stunning sunsets, and exploring untouched wilderness— all within the comfort of your own coastal haven.Conveniently located near some of California’s most desirable destinations, this property sits just six miles from the charming town of Pescadero and approximately 17 miles from the larger coastal city of Half Moon Bay. For those seeking a balance of privacy and accessibility, San Francisco International Airport is only 40 miles away, offering ease of travel while maintaining the serenity of a secluded retreat. Additionally, the property is situated 30 miles from Stanford University, making it an ideal option for those who value proximity to academic and cultural hubs, and 40 miles from Google Headquarters, placing you near Silicon Valley’s innovation centers.Nearby attractions include Bean Hollow State Beach, Pigeon Point Lighthouse and Ano Nuevo immersing you in the rugged beauty of the Pacific Coast. This is more than just a piece of land; it’s an opportunity to secure a once-in-a-lifetime connection to California’s coast. Zoned for residential development, this property presents an exclusive chance for those looking to design a bespoke estate, where every detail can reflect the stunning environment. Surrounded by natural beauty and close to California’s top coastal communities, this property offers the ultimate combination of luxury, serenity, and adventure.",
+    "features": [
+      "Beachfront",
+      "Coastal",
+      "Oceanfront",
+      "Privacy",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Jakki Harlan",
+    "agency": "Golden Gate Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/golden-gate-sotheby-s-international-realty-100470",
+    "agency_address": "1010 El Camino Real Suite 360, 94025, Menlo Park, California, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/2200xxs.jpg",
+      "file": "img-23e027b8f6d3.webp",
+      "media_type": "image/webp",
+      "bytes": 488132,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/2200xxs.jpg",
+      "file": "img-9e2472cfd9d0.webp",
+      "media_type": "image/webp",
+      "bytes": 535448,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/2200xxs.jpg",
+      "file": "img-80e1849d8668.webp",
+      "media_type": "image/webp",
+      "bytes": 438334,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/2200xxs.jpg",
+      "file": "img-58bd6f39ed2e.webp",
+      "media_type": "image/webp",
+      "bytes": 507804,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/2200xxs.jpg",
+      "file": "img-9a85edb24382.webp",
+      "media_type": "image/webp",
+      "bytes": 420082,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/d797b71c-2651-46b3-830f-40fb279084cc/je/2000xxs.jpg",
+      "file": "img-4ad61da44427.webp",
+      "media_type": "image/webp",
+      "bytes": 456404,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/57439068-99ea-42df-a251-caecd3345b14/je/2000xxs.jpg",
+      "file": "img-06ee0805ad49.webp",
+      "media_type": "image/webp",
+      "bytes": 413368,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/6b0cf725-8cc4-4292-9913-8ad4e5ad055c/je/2000xxs.jpg",
+      "file": "img-ea5324c3c8d5.webp",
+      "media_type": "image/webp",
+      "bytes": 467272,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/65e0f11e-3ffa-4c4a-b0fe-f69974648b91/je/2000xxs.jpg",
+      "file": "img-0185f75cadda.webp",
+      "media_type": "image/webp",
+      "bytes": 455856,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/8ce0e9c3-c097-418d-a35e-6f606cfc92ee/je/2000xxs.jpg",
+      "file": "img-74ab1a84a7d4.webp",
+      "media_type": "image/webp",
+      "bytes": 401180,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/6c67c1fb-47a4-445b-9d6c-a532621c1cf9/je/2000xxs.jpg",
+      "file": "img-e9ff1c5a561a.webp",
+      "media_type": "image/webp",
+      "bytes": 479234,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/fd1d097b-7075-4061-93b6-4d0276b14a0e/je/2000xxs.jpg",
+      "file": "img-6addadd09762.webp",
+      "media_type": "image/webp",
+      "bytes": 539762,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/a90e6cd2-d6ef-406a-9a5d-cfc8a80a3b56/je/2000xxs.jpg",
+      "file": "img-0e7b57671a7c.webp",
+      "media_type": "image/webp",
+      "bytes": 559926,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/acce4b9d-ffd1-44b7-b25e-b823cd69ac08/je/2000xxs.jpg",
+      "file": "img-1f02d8edc84d.webp",
+      "media_type": "image/webp",
+      "bytes": 392358,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/09/20/09/50/34/520fd5f3-9a2b-47a6-88fb-01d95b1c738b/je/2000xxs.jpg",
+      "file": "img-b67930615dae.webp",
+      "media_type": "image/webp",
+      "bytes": 359474,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%287%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%288%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ca-united-states",
+              "name": "California"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/pescadero-ca-usa",
+              "name": "Pescadero"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/exceptional-oceanfront-property-14723586",
+              "name": "Exceptional Oceanfront Property"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Discover an unparalleled offering at 0 Cabrillo Highway— an exceptional ~6.85-acre oceanfront property that seamlessly combines breathtaking natural beauty with immense potential. Situated on one of the most striking stretches of California’s coastline, this exclusive parcel comprises three combined lots, providing expansive, uninterrupted views of the Pacific Ocean. With the potential for direct beach access, this land offers the rare chance to craft a private sanctuary that embraces both luxury and the rugged beauty of the surrounding landscape.Whether your vision includes a custom estate, a sustainable retreat, or a preservation haven, the possibilities here are endless. The gentle topography of the land provides flexibility for a range of development options, while its secluded setting guarantees unmatched privacy. Imagine waking to the sound of waves breaking along the shore, enjoying stunning sunsets, and exploring untouched wilderness— all within the comfort of your own coastal haven.Conveniently located near some of California’s most desirable destinations, this property sits just six miles from the charming town of Pescadero and approximately 17 miles from the larger coastal city of Half Moon Bay. For those seeking a balance of privacy and accessibility, San Francisco International Airport is only 40 miles away, offering ease of travel while maintaining the serenity of a secluded retreat. Additionally, the property is situated 30 miles from Stanford University, making it an ideal option for those who value proximity to academic and cultural hubs, and 40 miles from Google Headquarters, placing you near Silicon Valley’s innovation centers.Nearby attractions include Bean Hollow State Beach, Pigeon Point Lighthouse and Ano Nuevo immersing you in the rugged beauty of the Pacific Coast. This is more than just a piece of land; it’s an opportunity to secure a once-in-a-lifetime connection to California’s coast. Zoned for residential development, this property presents an exclusive chance for those looking to design a bespoke estate, where every detail can reflect the stunning environment. Surrounded by natural beauty and close to California’s top coastal communities, this property offers the ultimate combination of luxury, serenity, and adventure.",
+        "image": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/1040x620xc.jpg",
+        "name": "Exceptional Oceanfront Property",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 7000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Golden Gate Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/exceptional-oceanfront-property-14723586"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%286%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%287%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%288%29.jpg: HTTP 403 Forbidden"
+  ]
+};

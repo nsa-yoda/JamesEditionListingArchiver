@@ -1,0 +1,267 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550",
+    "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550",
+    "site": "jamesedition",
+    "listing_id": "16746550",
+    "listing_reference": "2-123736",
+    "first_listed": "Dec 4, 2025",
+    "last_updated": "April 15",
+    "retrieved_at": "2026-06-19T08:34:08.800916Z"
+  },
+  "location": {
+    "address": "97 Pecksland Road, Greenwich, Connecticut, United States",
+    "street": "97 Pecksland Road",
+    "municipality": "Greenwich",
+    "region": "Connecticut",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.0509895,-73.656011",
+    "latitude": 41.0509895,
+    "longitude": -73.656011
+  },
+  "property": {
+    "title": "Residential Greenwich",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 24950000,
+      "currency": "USD",
+      "display": "$24,950,000"
+    },
+    "bedrooms": 10,
+    "bathrooms": 15,
+    "year_built": 2009,
+    "photo_count": 1,
+    "description": "Truly unique 19 Acre estate in the heart of mid country! Prepared to be captivated by this custom built masterpiece of design and craftsmanship. Completed in 2009, and offered to the market for the first time since completion, 97 Pecksland has an unrivaled combination of lot size, quality and privacy. Enter through the grand gated entrance and dramatic driveway to the elevated main house on the primary lot of 8.71 acres, with 2 further sep parcels of 5.3 and 5.13 acres for a total of 19.14 acres in the 2 acre zone. A substantial amount of mature trees balance wide open park like spaces with lawns to the front and rear of the main home. Classically designed to show a high degree of architectural integrity and balance. The Grand entry foyer with double staircase set the tone for the living spaces within. Large informal and formal spaces blend for an ideal venue for large scale entertaining, both inside and out. First floor features an oversized living room / bar area, multiple office spaces, guest suite, dining room, kitchen / fam room and kennel room for 3 large dogs. 3 car garage off the mudroom along with 3 car port cochere for day to day parking. A car collectors dream awaits in the lower level with further parking for over 30 cars. Lower level also features a generous wine cellar, tasting room and golf sim. A huge primary suite with terrace overlooking the rear yard, primary sitting room and multiple bathrooms and walk in closets. 6 further fam / guest suites and large laundry on the 2nd floor. High ceilings on the finished third floor that include gym / play space with full bath. Sep pool house with 2 ensuite bedrooms, changing area, and entertaining space. Multiple pools / spa perfect for all ages. Further original structure used for staff housing. Unparalleled privacy and serene surroundings make this exceptional estate a must see for the most discerning of buyers searching for architectural grandeur, and exceptional amenities.",
+    "features": [
+      "Bar",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Laundry Room",
+      "Office",
+      "Parking",
+      "Pool",
+      "Privacy",
+      "Terrace",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Rob Johnson",
+    "agent_license": "#19830",
+    "agency": "Brown Harris Stevens - Greenwich Mason",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/brown-harris-stevens-greenwich-mason-513209",
+    "agency_address": "125 Mason Street, 06830, Greenwich, Connecticut, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/2200xxs.jpg",
+      "file": "img-81376897c263.webp",
+      "media_type": "image/webp",
+      "bytes": 532236,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ct-united-states",
+              "name": "Connecticut"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/greenwich-ct-usa",
+              "name": "Greenwich"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550",
+              "name": "Residential Greenwich"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Truly unique 19 Acre estate in the heart of mid country! Prepared to be captivated by this custom built masterpiece of design and craftsmanship. Completed in 2009, and offered to the market for the first time since completion, 97 Pecksland has an unrivaled combination of lot size, quality and privacy. Enter through the grand gated entrance and dramatic driveway to the elevated main house on the primary lot of 8.71 acres, with 2 further sep parcels of 5.3 and 5.13 acres for a total of 19.14 acres in the 2 acre zone. A substantial amount of mature trees balance wide open park like spaces with lawns to the front and rear of the main home. Classically designed to show a high degree of architectural integrity and balance. The Grand entry foyer with double staircase set the tone for the living spaces within. Large informal and formal spaces blend for an ideal venue for large scale entertaining, both inside and out. First floor features an oversized living room / bar area, multiple office spaces, guest suite, dining room, kitchen / fam room and kennel room for 3 large dogs. 3 car garage off the mudroom along with 3 car port cochere for day to day parking. A car collectors dream awaits in the lower level with further parking for over 30 cars. Lower level also features a generous wine cellar, tasting room and golf sim. A huge primary suite with terrace overlooking the rear yard, primary sitting room and multiple bathrooms and walk in closets. 6 further fam / guest suites and large laundry on the 2nd floor. High ceilings on the finished third floor that include gym / play space with full bath. Sep pool house with 2 ensuite bedrooms, changing area, and entertaining space. Multiple pools / spa perfect for all ages. Further original structure used for staff housing. Unparalleled privacy and serene surroundings make this exceptional estate a must see for the most discerning of buyers searching for architectural grandeur, and exceptional amenities.",
+        "image": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/1040x620xc.jpg",
+        "name": "Residential Greenwich",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 24950000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Brown Harris Stevens - Greenwich Mason"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/2200xxs.jpg: HTTP 403 Forbidden"
+  ]
+}

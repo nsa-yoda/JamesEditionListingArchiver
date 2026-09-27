@@ -1,0 +1,381 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kyoto-japan/the-silence-furnished-by-armani-casa-owning-the-living-art-of-kyoto-17328170",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kyoto-japan/the-silence-furnished-by-armani-casa-owning-the-living-art-of-kyoto-17328170",
+    "site": "jamesedition",
+    "listing_id": "17328170",
+    "first_listed": "Mar 3",
+    "last_updated": "May 20",
+    "retrieved_at": "2026-08-28T00:31:58.834876Z"
+  },
+  "location": {
+    "address": "698 Shinseichō, Kamigyo Ward, Kyoto, 602-8381, Japan",
+    "street": "698 Shinseichō",
+    "municipality": "Kyoto",
+    "region": "Kyoto",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=35.0307978,135.7369082",
+    "latitude": 35.0307978,
+    "longitude": 135.7369082
+  },
+  "property": {
+    "title": "The Silence — Furnished By Armani/Casa : Owning The Living Art Of Kyoto",
+    "type": "Villa",
+    "availability": "InStock",
+    "price": {
+      "amount": 37229520.88,
+      "currency": "USD",
+      "display": "$37,229,520"
+    },
+    "price_per_area": {
+      "amount": 12167,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$12,167"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floors": 2,
+    "interior_area": {
+      "value": 3060,
+      "unit": "sqft",
+      "display": "3,060 Sqft"
+    },
+    "lot_area": {
+      "value": 2766,
+      "unit": "sqft",
+      "display": "2,766 Sqft lot"
+    },
+    "year_built": 1828,
+    "photo_count": 24,
+    "video_url": "https://player.vimeo.com/video/1175127782?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0\u0026h=dcb7076b69",
+    "description": "A Cultural Masterpiece for the Ultimate Custodian- In a world where luxury is increasingly mass-produced, true rarity remains elusive. THE SILENCE is not simply a residence — it is a profound convergence of two centuries of history, Japanese philosophy, and contemporary mastery. Located in the heart of Kyoto's most sacred and historically preserved district, the Former Hasegawa Residence offers a once-in-a-generation opportunity to assume guardianship of a living heritage. To hold this property is to move beyond the role of owner and become the steward of Kyoto's eternal narrative.\n\nSpatial Composition- The estate encompasses a site area of 256.95 square metres, with a gross floor area of 284.26 square metres currently under plan. The building itself occupies 155.00 square metres, complemented by a 66.55 square metre private garden. The programme includes two bedrooms, a grand reception hall capable of accommodating a private banquet for several distinguished guests, a Sukiya tea room, a historic kura sauna and spa, and a designer water garden. The property is designated for use as a villa and hotel condominium — a premier venue for cultural diplomacy and private hospitality, seamlessly blending 200 years of heritage with the refinements of modern global elegance.\n\nThe Sacred Boundary: Kitano Tenmangu- THE SILENCE shares its boundary with Kitano Tenmangu Shrine, the head of approximately 12,000 shrines across Japan. Established around 947 AD, this millennium-old sanctuary serves as the spiritual anchor of the entire neighbourhood. From within the deep stillness of the residence, the powerful resonance of Japanese festivals and the rhythmic chanting of those carrying the divine mikoshi — portable shrines — can be felt rather than merely heard. It is a rare environment where the boundary between private sanctuary and ancient spiritual tradition dissolves entirely into one living experience.\n\nKamishichiken: The Cradle of Wabi-Sabi and Living Art- The residence sits within Kamishichiken, Kyoto's oldest and most prestigious geisha district — a neighbourhood whose very character embodies THE SILENCE, understood not as an absence of sound, but as a presence of profound peace. It was here, in the sixteenth century, that Kabuki dance was first performed, giving birth to the enduring world of Geiko and Maiko culture. That tradition remains vividly alive today; the ethereal sight of Geiko and Maiko moving gracefully past the frontage of this estate is a daily reality for its occupant. Founded around 1400 AD using salvaged timber from the adjacent shrine, the district also holds the distinction of representing the world's earliest spirit of sustainable urban living — a legacy of resourcefulness and reverence that predates the modern concept by centuries.\n\nThe 200-Year Narrative- Originally rebuilt in 1828 during the late Edo period — as confirmed by the discovery of an original ridgepole plaque, or munafuda — this residence is a miraculous survivor of two centuries of Kyoto history. Formerly the celebrated teahouse Hasegawa, it served as a high-status social salon for the cultural elite, among them the distinguished author Tsutomu Mizukami. Local lore further ties the house to the poignant romance between Shinsengumi commander Hijikata Toshizo and the geisha Kimikiku. Boasting the largest site and widest frontage in all of Kamishichiken, the architecture is rendered in the playful yet deeply refined Sukiya style — a tradition synonymous with the highest expression of Japanese spatial sensibility.\n\nA Convergence of Masters- This project represents a rare synchronisation of Japan's foremost contemporary minds and most revered traditional artisans, united to create what can only be described as a liveable work of art. Kengo Kuma provided architectural supervision, dissolving the boundaries between the 200-year-old timber structure and the natural world to create a spatial clarity in which light and shadow perform in quiet dialogue. The construction was entrusted to Kongo Gumi — the world's oldest company, established in 578 AD — whose 1,400 years of temple-building expertise ensured the structural integrity of the entire enterprise. Nakamura Sotoji Komuten, the legendary masters of Sukiya architecture, infused the heart of the home with the profound spirit of authentic Japanese hospitality. The garden was conceived by Oniwa Ueji, heirs to the lineage of the great landscape master Ogawa Jihei, where a private waterfall and carefully placed stones create a space designed for contemplation. Completing the artistic vision, sculptural works by Buddhist artist Koukei Eri and gold foil paintings by Hiroto Rakusho anchor the residence with both spiritual depth and artistic distinction.\n\nGlobal Sophistication: ARMANI / CASA- In a compelling fusion of East and West, the interiors have been furnished by ARMANI / CASA. Drawing inspiration from the serene bamboo groves of Kyoto, the design employs natural materials and a philosophy of understated luxury to create a refined interior where Italian elegance meets Kyoto's quiet simplicity. The result is the ultimate private salon — one in which the owner may host Geiko and Maiko for an exclusive ozashiki experience within their own home, a privilege that no hotel in the world can replicate.\n\nThe Living Asset- Comprising a main residence, a detached guest wing, and a traditional storehouse — the kura — the estate offers approximately 284 square metres of considered living space across a 256 square metre site. Every element of the property is a tribute to the richness of life, designed to be inhabited with intention, cherished across generations, and passed down as a supreme and irreplaceable treasure.\n\nA Place in History\nThis is not simply a residence. THE SILENCE is a sanctuary where time slows and the soul finds resonance with something far older than itself. To own this property is to hold a poem written in timber and light — to possess a work of art that cannot be recreated, and that will continue to tell its story for the next thousand years.\nOpportunities of this nature are not found. They are bestowed. We invite you to step into the silence, and to become the next guardian of Kyoto's eternal narrative.",
+    "features": [
+      "2D Floor Plan",
+      "Garden",
+      "Investment Property",
+      "Jacuzzi",
+      "Modern",
+      "Open Kitchen",
+      "Privacy",
+      "Renovated",
+      "Sauna",
+      "Steam Room",
+      "Water View"
+    ]
+  },
+  "broker": {
+    "agent": "Abhinav Sharma",
+    "agent_profile_url": "https://www.jamesedition.com/agents/abhinav-sharma-2282106",
+    "agent_license": "# License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443 # License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443",
+    "agency": "TonTon Forbes GLOBAL PROPERTIES",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/tonton-forbes-global-properties-602649",
+    "agency_address": "〒153-0043 3F, KDX Nakameguro Building, 1-5-4 Higashiyama, Meguro Ward, Tokyo, 153-0043, Meguro City, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/22/13/10/20/80af013d-636a-4e19-9dd1-d12b8cc47254/je/2200xxs.jpg",
+      "file": "img-2d33f831b9fa.webp",
+      "media_type": "image/webp",
+      "bytes": 597308,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/11/17/23/56e05f87-3633-454f-8184-5f572ea8f714/je/2200xxs.jpg",
+      "file": "img-2a55f687d443.webp",
+      "media_type": "image/webp",
+      "bytes": 527812,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/11/55/47/296e3e35-81c8-4d21-a92e-a7e626e97cb8/je/2200xxs.jpg",
+      "file": "img-7692472e4db7.webp",
+      "media_type": "image/webp",
+      "bytes": 119720,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/11/17/22/2f7ab212-2cd6-466a-abbc-03a2d2a2bdd5/je/2200xxs.jpg",
+      "file": "img-9f5bb646dd7c.webp",
+      "media_type": "image/webp",
+      "bytes": 440990,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/11/17/22/8c119160-143c-4377-ba8a-d19eb659eb64/je/2200xxs.jpg",
+      "file": "img-e53808c2e008.webp",
+      "media_type": "image/webp",
+      "bytes": 646468,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
+      "file": "img-20ade8335c8f.webp",
+      "media_type": "image/webp",
+      "bytes": 1042,
+      "status": "new"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://player.vimeo.com/video/1175127782?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0\u0026amp;h=dcb7076b69",
+      "status": "failed",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2026/04/22/13/10/20/80af013d-636a-4e19-9dd1-d12b8cc47254/je/1040x620xc.jpg",
+      "poster_file": "img-4e928c994008.webp",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kyoto-japan",
+              "name": "Kyoto"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/shakenagayacho-japan",
+              "name": "Shakenagayacho"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kyoto-japan/the-silence-furnished-by-armani-casa-owning-the-living-art-of-kyoto-17328170",
+              "name": "THE SILENCE — Furnished by ARMANI/CASA : Owning the Living Art of Kyoto"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "A Cultural Masterpiece for the Ultimate Custodian- In a world where luxury is increasingly mass-produced, true rarity remains elusive. THE SILENCE is not simply a residence — it is a profound convergence of two centuries of history, Japanese philosophy, and contemporary mastery. Located in the heart of Kyoto's most sacred and historically preserved district, the Former Hasegawa Residence offers a once-in-a-generation opportunity to assume guardianship of a living heritage. To hold this property is to move beyond the role of owner and become the steward of Kyoto's eternal narrative.\n\nSpatial Composition- The estate encompasses a site area of 256.95 square metres, with a gross floor area of 284.26 square metres currently under plan. The building itself occupies 155.00 square metres, complemented by a 66.55 square metre private garden. The programme includes two bedrooms, a grand reception hall capable of accommodating a private banquet for several distinguished guests, a Sukiya tea room, a historic kura sauna and spa, and a designer water garden. The property is designated for use as a villa and hotel condominium — a premier venue for cultural diplomacy and private hospitality, seamlessly blending 200 years of heritage with the refinements of modern global elegance.\n\nThe Sacred Boundary: Kitano Tenmangu- THE SILENCE shares its boundary with Kitano Tenmangu Shrine, the head of approximately 12,000 shrines across Japan. Established around 947 AD, this millennium-old sanctuary serves as the spiritual anchor of the entire neighbourhood. From within the deep stillness of the residence, the powerful resonance of Japanese festivals and the rhythmic chanting of those carrying the divine mikoshi — portable shrines — can be felt rather than merely heard. It is a rare environment where the boundary between private sanctuary and ancient spiritual tradition dissolves entirely into one living experience.\n\nKamishichiken: The Cradle of Wabi-Sabi and Living Art- The residence sits within Kamishichiken, Kyoto's oldest and most prestigious geisha district — a neighbourhood whose very character embodies THE SILENCE, understood not as an absence of sound, but as a presence of profound peace. It was here, in the sixteenth century, that Kabuki dance was first performed, giving birth to the enduring world of Geiko and Maiko culture. That tradition remains vividly alive today; the ethereal sight of Geiko and Maiko moving gracefully past the frontage of this estate is a daily reality for its occupant. Founded around 1400 AD using salvaged timber from the adjacent shrine, the district also holds the distinction of representing the world's earliest spirit of sustainable urban living — a legacy of resourcefulness and reverence that predates the modern concept by centuries.\n\nThe 200-Year Narrative- Originally rebuilt in 1828 during the late Edo period — as confirmed by the discovery of an original ridgepole plaque, or munafuda — this residence is a miraculous survivor of two centuries of Kyoto history. Formerly the celebrated teahouse Hasegawa, it served as a high-status social salon for the cultural elite, among them the distinguished author Tsutomu Mizukami. Local lore further ties the house to the poignant romance between Shinsengumi commander Hijikata Toshizo and the geisha Kimikiku. Boasting the largest site and widest frontage in all of Kamishichiken, the architecture is rendered in the playful yet deeply refined Sukiya style — a tradition synonymous with the highest expression of Japanese spatial sensibility.\n\nA Convergence of Masters- This project represents a rare synchronisation of Japan's foremost contemporary minds and most revered traditional artisans, united to create what can only be described as a liveable work of art. Kengo Kuma provided architectural supervision, dissolving the boundaries between the 200-year-old timber structure and the natural world to create a spatial clarity in which light and shadow perform in quiet dialogue. The construction was entrusted to Kongo Gumi — the world's oldest company, established in 578 AD — whose 1,400 years of temple-building expertise ensured the structural integrity of the entire enterprise. Nakamura Sotoji Komuten, the legendary masters of Sukiya architecture, infused the heart of the home with the profound spirit of authentic Japanese hospitality. The garden was conceived by Oniwa Ueji, heirs to the lineage of the great landscape master Ogawa Jihei, where a private waterfall and carefully placed stones create a space designed for contemplation. Completing the artistic vision, sculptural works by Buddhist artist Koukei Eri and gold foil paintings by Hiroto Rakusho anchor the residence with both spiritual depth and artistic distinction.\n\nGlobal Sophistication: ARMANI / CASA- In a compelling fusion of East and West, the interiors have been furnished by ARMANI / CASA. Drawing inspiration from the serene bamboo groves of Kyoto, the design employs natural materials and a philosophy of understated luxury to create a refined interior where Italian elegance meets Kyoto's quiet simplicity. The result is the ultimate private salon — one in which the owner may host Geiko and Maiko for an exclusive ozashiki experience within their own home, a privilege that no hotel in the world can replicate.\n\nThe Living Asset- Comprising a main residence, a detached guest wing, and a traditional storehouse — the kura — the estate offers approximately 284 square metres of considered living space across a 256 square metre site. Every element of the property is a tribute to the richness of life, designed to be inhabited with intention, cherished across generations, and passed down as a supreme and irreplaceable treasure.\n\nA Place in History\nThis is not simply a residence. THE SILENCE is a sanctuary where time slows and the soul finds resonance with something far older than itself. To own this property is to hold a poem written in timber and light — to possess a work of art that cannot be recreated, and that will continue to tell its story for the next thousand years.\nOpportunities of this nature are not found. They are bestowed. We invite you to step into the silence, and to become the next guardian of Kyoto's eternal narrative.",
+        "image": "https://img.jamesedition.com/listing_images/2026/04/22/13/10/20/80af013d-636a-4e19-9dd1-d12b8cc47254/je/1040x620xc.jpg",
+        "name": "THE SILENCE — Furnished by ARMANI/CASA : Owning the Living Art of Kyoto",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 37229520.88,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "TonTon Forbes GLOBAL PROPERTIES"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/kyoto-japan/the-silence-furnished-by-armani-casa-owning-the-living-art-of-kyoto-17328170"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/380xxsxm.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%285%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "video https://player.vimeo.com/video/1175127782?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0\u0026amp;h=dcb7076b69: HTTP 403 Forbidden"
+  ]
+};

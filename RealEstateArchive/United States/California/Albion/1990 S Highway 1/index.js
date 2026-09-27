@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/Albion/1990 S Highway 1",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 34176
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 33786
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3315
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 443195
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 106
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

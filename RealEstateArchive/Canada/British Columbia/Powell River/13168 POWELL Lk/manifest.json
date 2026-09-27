@@ -1,0 +1,610 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/private-pristine-waterfront-estate-bc-canada-16257490",
+    "canonical_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/private-pristine-waterfront-estate-bc-canada-16257490",
+    "site": "jamesedition",
+    "listing_id": "16257490",
+    "first_listed": "Sep 25, 2025",
+    "last_updated": "November 18, 2025",
+    "retrieved_at": "2026-08-28T00:29:50.026037Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2562,
+      "sha256": "4fe96d9721c1704e1f1d83a1b34ce4a63d233015ebde891b25cf2ba99ceeeefe"
+    },
+    {
+      "path": "images/img-1473f25d325f.webp",
+      "bytes": 631828,
+      "sha256": "8d1de0e8932366cf2bb18100cdbf02e4ced7c9796a9222a1e4a4c70a02d63e62"
+    },
+    {
+      "path": "images/img-1af598fe4dd5.webp",
+      "bytes": 535076,
+      "sha256": "dfe7b2c82bf3c156439fce635fe382e99b0c4a44c731a32da818f205242c28f9"
+    },
+    {
+      "path": "images/img-1cca77fbeaba.webp",
+      "bytes": 547888,
+      "sha256": "a8c9abf3f4dc154dfca2f3e9b8072ee24fe57f5e33cb326da0bb4d2cdb040a49"
+    },
+    {
+      "path": "images/img-1d5506ff5842.webp",
+      "bytes": 709572,
+      "sha256": "ec11037bb331f7b18b5c07a068b0edde486dbff55ab68e2254c87281990818c5"
+    },
+    {
+      "path": "images/img-31e06b08ea32.webp",
+      "bytes": 313494,
+      "sha256": "74d3782c76d4999eb5a16eac1c76cbcebb097ef9b6b2e988166c591e3b604009"
+    },
+    {
+      "path": "images/img-396761ebf9de.webp",
+      "bytes": 258458,
+      "sha256": "6e8072e7edd45740da6af31e5f0e15984b3e7d76de9cea17612e72088c9587d9"
+    },
+    {
+      "path": "images/img-3e4efd8a555e.webp",
+      "bytes": 313712,
+      "sha256": "540ddf2ee5685afa661d57e4f9b842555c55e59ad5962aa127c7f49833830286"
+    },
+    {
+      "path": "images/img-4085edba764e.webp",
+      "bytes": 620754,
+      "sha256": "7a9a140b0ec102ac0ab0c46cf7b6bacef31b689192c9c7e46d4f1423ebff7561"
+    },
+    {
+      "path": "images/img-4b279df72216.webp",
+      "bytes": 213288,
+      "sha256": "8037871169b46b14be0aa581007aa4ed4f6d552caa0551e37b29efde3c51b858"
+    },
+    {
+      "path": "images/img-4da4cd6474eb.webp",
+      "bytes": 252762,
+      "sha256": "ce04f331970d233ce8dcf0982a36618ae01c9b0ac66db9330022a3b3813bd352"
+    },
+    {
+      "path": "images/img-52a7abd30951.webp",
+      "bytes": 303054,
+      "sha256": "081895b7d06c24977c7d361552d7b9293be06f7947349349272fc8ea6c08b73c"
+    },
+    {
+      "path": "images/img-55e5cc776adc.webp",
+      "bytes": 320390,
+      "sha256": "f0050207fb874cb3dda12a294ede961762353ea5216a24a79c3a1526fec560c4"
+    },
+    {
+      "path": "images/img-569c9feb84b5.webp",
+      "bytes": 142844,
+      "sha256": "eef574970f3da3418d624aa463332b43742beb1851cf5d04d08109387d6a9d94"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-590b3a7fbcb5.webp",
+      "bytes": 260330,
+      "sha256": "ea63b719050a52a838c696ca8906387bf1e085d51edb81bc0ee4d070746a3808"
+    },
+    {
+      "path": "images/img-5b7d418155a6.webp",
+      "bytes": 267502,
+      "sha256": "799c170f0872a42a4d2932f9d232649cbdb72cf54a997f1efa6b815646413290"
+    },
+    {
+      "path": "images/img-5fd4a86227cc.webp",
+      "bytes": 190338,
+      "sha256": "d20813f9beb91b0dad54432fb6cc9b63342f3bc5a05d9a57613586d8a9cef9e0"
+    },
+    {
+      "path": "images/img-61b92b6e1363.webp",
+      "bytes": 696232,
+      "sha256": "688db12cff935db1f494d505afd9e6ef7e5e4bbb85df2dc0165668206e116e24"
+    },
+    {
+      "path": "images/img-68d630101587.webp",
+      "bytes": 326742,
+      "sha256": "e25aa0c9406315b8ef96b6322837aa827225e8bd067174a88735d56d5bda49ea"
+    },
+    {
+      "path": "images/img-8abb68f5816f.webp",
+      "bytes": 654204,
+      "sha256": "ee330896b2ba3f8c105771def2055a19b1022287d5f2dbe34b5cdb5552572f90"
+    },
+    {
+      "path": "images/img-95ccc81193e1.webp",
+      "bytes": 211824,
+      "sha256": "29c356e80fe827e9285a141ae438d45d26da72668c126818e3317659886382dc"
+    },
+    {
+      "path": "images/img-9b068bf38c7e.webp",
+      "bytes": 210972,
+      "sha256": "b20bd0accd7fe0de64289080fb5baa63cb90babea71501a2fb8bcc56bfff0d21"
+    },
+    {
+      "path": "images/img-9b340f72fbdb.webp",
+      "bytes": 610406,
+      "sha256": "4564d80e07c72a3f7870d6d7cf9462ed8ffb89d296ff38fe6c199ab4f0d1305b"
+    },
+    {
+      "path": "images/img-a458a32ba6d4.webp",
+      "bytes": 297054,
+      "sha256": "583a3d415978bcb9a7ba2d63dffa7e0cb61ca0f372cc5176f6de2c2575feec4b"
+    },
+    {
+      "path": "images/img-b0c95fa2fdf5.webp",
+      "bytes": 604996,
+      "sha256": "ddd1961bc3b0f063689efd13eebbbb8df39100625920506fdad9f74f528863a0"
+    },
+    {
+      "path": "images/img-b87eb66580d9.webp",
+      "bytes": 601266,
+      "sha256": "ba1f2700ffade7c1483a7b1e80cb78bc5f3287f53e007c180d002afa39f35ecc"
+    },
+    {
+      "path": "images/img-bd0395374920.webp",
+      "bytes": 233972,
+      "sha256": "e8e8118f77adc02db88be36d8e44a2270df273c695869929be56840f21ec7103"
+    },
+    {
+      "path": "images/img-be82b7448757.webp",
+      "bytes": 531182,
+      "sha256": "99c30a4f7cf2b71103a92250c0d83005d71d9aae88169d0c23daa56c00fc7a7e"
+    },
+    {
+      "path": "images/img-bf7c241b2a8a.webp",
+      "bytes": 236866,
+      "sha256": "9822d8d49bd24df2f88224a9c0d2374dcf71b118c1f465eda223de9b57b32a5a"
+    },
+    {
+      "path": "images/img-cd77abfb516b.webp",
+      "bytes": 236316,
+      "sha256": "f15f05218a81dd8c85bff2c9ec169ee807f271eb4cd8d2a6e2a5dc5824d046f7"
+    },
+    {
+      "path": "images/img-d6abe11e995e.webp",
+      "bytes": 333378,
+      "sha256": "b4fcef65bb3b3661387ef681742990c6573964b7b2681d654c2ba1601b9c569f"
+    },
+    {
+      "path": "images/img-db7ede20ec13.webp",
+      "bytes": 420870,
+      "sha256": "8b83a5c08b3bc0808bf4b1c175ed8e0a11a8270a51514cb56c4afbd42e66503c"
+    },
+    {
+      "path": "images/img-ddbeff0ece09.webp",
+      "bytes": 302704,
+      "sha256": "e1901263db25f6d03cba771205226af89104658c79f8170f5503f3cb00fbdc4f"
+    },
+    {
+      "path": "images/img-e32511659611.webp",
+      "bytes": 212866,
+      "sha256": "324e8fb7587c2bf3ecdefbb8162ad12559416e791d7d0e9305ee3a76ece4209d"
+    },
+    {
+      "path": "images/img-e37082639c2b.webp",
+      "bytes": 518010,
+      "sha256": "81d421dbc74da3be7ae46a45eb484166c7500f6435c5756199278fe3d43fb122"
+    },
+    {
+      "path": "images/img-f4bc67142ecf.webp",
+      "bytes": 642710,
+      "sha256": "cb26c763e3375693ca73de7d1dd3107fe5245e3c4997285267282ea8b6f26ddd"
+    },
+    {
+      "path": "images/img-fca0737b10be.webp",
+      "bytes": 289600,
+      "sha256": "75e45a13b28ead16ce39e2ff34c1954645f73bb0efefe82e95b14b48502c24e6"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 27349,
+      "sha256": "c38f8137e456d27b73b92025ad87112a01f69d8a3d0d4eb127717aeb9315102d"
+    },
+    {
+      "path": "source.html",
+      "bytes": 467667,
+      "sha256": "fae8cd3cd2bdb7bb6c98cc6a182d1791753c1c969fae9619d2f14ca097bc8356"
+    },
+    {
+      "path": "source.url",
+      "bytes": 117,
+      "sha256": "4fa273a217ab2b4d76d82cf4ca24dc015426f6404c2042a20788f361ca9d5cf5"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/2200xxs.jpg",
+      "path": "images/img-be82b7448757.webp",
+      "media_type": "image/webp",
+      "bytes": 531182,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/2200xxs.jpg",
+      "path": "images/img-4b279df72216.webp",
+      "media_type": "image/webp",
+      "bytes": 213288,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/2200xxs.jpg",
+      "path": "images/img-1473f25d325f.webp",
+      "media_type": "image/webp",
+      "bytes": 631828,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/2200xxs.jpg",
+      "path": "images/img-d6abe11e995e.webp",
+      "media_type": "image/webp",
+      "bytes": 333378,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/2200xxs.jpg",
+      "path": "images/img-b87eb66580d9.webp",
+      "media_type": "image/webp",
+      "bytes": 601266,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/01e801fb-a775-47f7-946e-183715615186/je/2000xxs.jpg",
+      "path": "images/img-1cca77fbeaba.webp",
+      "media_type": "image/webp",
+      "bytes": 547888,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/d70f0222-4127-4331-9369-b6c1e2f69c73/je/2000xxs.jpg",
+      "path": "images/img-1af598fe4dd5.webp",
+      "media_type": "image/webp",
+      "bytes": 535076,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/8a41e8e1-a2b2-4489-a759-9fab4f054d04/je/2000xxs.jpg",
+      "path": "images/img-e37082639c2b.webp",
+      "media_type": "image/webp",
+      "bytes": 518010,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c5def8fa-47f6-400d-abc6-5dbeed7fd92c/je/2000xxs.jpg",
+      "path": "images/img-31e06b08ea32.webp",
+      "media_type": "image/webp",
+      "bytes": 313494,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7b769c5d-d3b8-44fd-8b57-dd5a95f9f45a/je/2000xxs.jpg",
+      "path": "images/img-1d5506ff5842.webp",
+      "media_type": "image/webp",
+      "bytes": 709572,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/60e1911f-0fbd-484d-93bf-86b87aaf6995/je/2000xxs.jpg",
+      "path": "images/img-3e4efd8a555e.webp",
+      "media_type": "image/webp",
+      "bytes": 313712,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/a7440f78-c11d-4287-8c42-cf1ec2ff209b/je/2000xxs.jpg",
+      "path": "images/img-9b340f72fbdb.webp",
+      "media_type": "image/webp",
+      "bytes": 610406,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/136c3e7c-d639-4031-95fa-786ef4f85893/je/2000xxs.jpg",
+      "path": "images/img-396761ebf9de.webp",
+      "media_type": "image/webp",
+      "bytes": 258458,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/072b9749-e4b2-45cf-8237-75f9872f4fdd/je/2000xxs.jpg",
+      "path": "images/img-fca0737b10be.webp",
+      "media_type": "image/webp",
+      "bytes": 289600,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/665e6b25-a3ef-4ab7-9af4-da7cc86105d3/je/2000xxs.jpg",
+      "path": "images/img-a458a32ba6d4.webp",
+      "media_type": "image/webp",
+      "bytes": 297054,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/9b1ff91e-69a1-48ba-825e-374457e3541d/je/2000xxs.jpg",
+      "path": "images/img-52a7abd30951.webp",
+      "media_type": "image/webp",
+      "bytes": 303054,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/2f3a5fd1-5449-49c4-a021-32e62e727cd9/je/2000xxs.jpg",
+      "path": "images/img-bd0395374920.webp",
+      "media_type": "image/webp",
+      "bytes": 233972,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/a916d8fe-d291-42fa-86d0-72de75b7983c/je/2000xxs.jpg",
+      "path": "images/img-5b7d418155a6.webp",
+      "media_type": "image/webp",
+      "bytes": 267502,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/95572769-bad0-43d1-8bea-ba1d513e3796/je/2000xxs.jpg",
+      "path": "images/img-5fd4a86227cc.webp",
+      "media_type": "image/webp",
+      "bytes": 190338,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/b7b19619-3b23-495e-9eba-e71baf90cc39/je/2000xxs.jpg",
+      "path": "images/img-e32511659611.webp",
+      "media_type": "image/webp",
+      "bytes": 212866,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/0272ce35-88fc-4cf3-9a79-eaf035ff3812/je/2000xxs.jpg",
+      "path": "images/img-9b068bf38c7e.webp",
+      "media_type": "image/webp",
+      "bytes": 210972,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/f1c29bdd-e095-47ae-b780-809b3d73072d/je/2000xxs.jpg",
+      "path": "images/img-569c9feb84b5.webp",
+      "media_type": "image/webp",
+      "bytes": 142844,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/ee0e9322-08f9-4067-aa6b-be6e62e06fee/je/2000xxs.jpg",
+      "path": "images/img-db7ede20ec13.webp",
+      "media_type": "image/webp",
+      "bytes": 420870,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/f167a8c0-9596-47f9-a62e-732d418abb9a/je/2000xxs.jpg",
+      "path": "images/img-68d630101587.webp",
+      "media_type": "image/webp",
+      "bytes": 326742,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c2bbe1d-3a78-4547-bc5a-47e5ec74fa06/je/2000xxs.jpg",
+      "path": "images/img-bf7c241b2a8a.webp",
+      "media_type": "image/webp",
+      "bytes": 236866,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/5dfeff1b-eae1-44d7-9ec6-2357961ec2b3/je/2000xxs.jpg",
+      "path": "images/img-4085edba764e.webp",
+      "media_type": "image/webp",
+      "bytes": 620754,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/6a6e5457-d782-4716-aec7-c0cac24d0369/je/2000xxs.jpg",
+      "path": "images/img-95ccc81193e1.webp",
+      "media_type": "image/webp",
+      "bytes": 211824,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/b141f9d1-3ca9-4c0d-b7b9-d94a7ae38a13/je/2000xxs.jpg",
+      "path": "images/img-4da4cd6474eb.webp",
+      "media_type": "image/webp",
+      "bytes": 252762,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/620cc270-1b14-422f-b046-2c4f73a74725/je/2000xxs.jpg",
+      "path": "images/img-f4bc67142ecf.webp",
+      "media_type": "image/webp",
+      "bytes": 642710,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c251bf3c-054a-43e5-9e56-abc7cee6b02d/je/2000xxs.jpg",
+      "path": "images/img-cd77abfb516b.webp",
+      "media_type": "image/webp",
+      "bytes": 236316,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/31d9b72b-db48-4ee5-af6a-e7548afd4465/je/2000xxs.jpg",
+      "path": "images/img-b0c95fa2fdf5.webp",
+      "media_type": "image/webp",
+      "bytes": 604996,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/8b05b161-2a48-4a80-b6c4-a48a7549a7a1/je/2000xxs.jpg",
+      "path": "images/img-ddbeff0ece09.webp",
+      "media_type": "image/webp",
+      "bytes": 302704,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/f34d3447-8143-4268-9d81-75f97803f0e0/je/2000xxs.jpg",
+      "path": "images/img-590b3a7fbcb5.webp",
+      "media_type": "image/webp",
+      "bytes": 260330,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/d359c59d-8728-4d05-8c06-4ac81bb950e2/je/2000xxs.jpg",
+      "path": "images/img-61b92b6e1363.webp",
+      "media_type": "image/webp",
+      "bytes": 696232,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/db0e5649-2bd9-42ce-b804-1b24a93fa669/je/2000xxs.jpg",
+      "path": "images/img-8abb68f5816f.webp",
+      "media_type": "image/webp",
+      "bytes": 654204,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/76736112-bc3f-49ac-8e70-7ea045faab0b/je/2000xxs.jpg",
+      "path": "images/img-55e5cc776adc.webp",
+      "media_type": "image/webp",
+      "bytes": 320390,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/2200xxs%2832%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/2200xxs%2831%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/2200xxs%2833%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 37,
+    "images_existing": 0,
+    "images_failed": 14,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

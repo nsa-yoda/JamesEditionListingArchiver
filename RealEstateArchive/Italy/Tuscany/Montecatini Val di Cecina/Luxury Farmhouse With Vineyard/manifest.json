@@ -1,0 +1,634 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/luxury-farmhouse-with-vineyard-montecatini-val-di-cecina-pisa-tuscany-18148317",
+    "canonical_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/luxury-farmhouse-with-vineyard-montecatini-val-di-cecina-pisa-tuscany-18148317",
+    "site": "jamesedition",
+    "listing_id": "18148317",
+    "listing_reference": "PIS3704",
+    "first_listed": "Jun 12",
+    "last_updated": "June 12",
+    "retrieved_at": "2026-08-28T00:29:17.697013Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4432,
+      "sha256": "4deffd30ecbd94d16b128bb5436c9756d0d7c4c1230ed2b2b095bac0633cdd43"
+    },
+    {
+      "path": "images/img-02b733b5f1b0.webp",
+      "bytes": 224970,
+      "sha256": "c24cd81d1ed1cb79dc6e4e596fd2480ed459651bdb2f9923cf22e674f24881fc"
+    },
+    {
+      "path": "images/img-0d82065ed5e7.webp",
+      "bytes": 329854,
+      "sha256": "0600fb49400c679e54d1291009c94c527375bc0ef1455e531907a24c83d6c14e"
+    },
+    {
+      "path": "images/img-0e0c8b7eb0b8.webp",
+      "bytes": 273176,
+      "sha256": "5820dfdef9a0c0cab5c2db94e8fa38ad6037b5b71c5093f233584d53804b06a3"
+    },
+    {
+      "path": "images/img-19a0131df661.webp",
+      "bytes": 280108,
+      "sha256": "6c6d51c6ef88b75225ca6f57e0d279bbec20726f9082bf54b97f4c0b36c75cc9"
+    },
+    {
+      "path": "images/img-1d886c830e88.webp",
+      "bytes": 9316,
+      "sha256": "fece5b51d0d704766306b5adbeda39277e358108f59709388ba669baf979cd45"
+    },
+    {
+      "path": "images/img-3059baed5acd.webp",
+      "bytes": 278534,
+      "sha256": "e285d9c90d4b279caf266d15b08ecffea87d2ff47ce4ce8f36cca1412e797569"
+    },
+    {
+      "path": "images/img-40ac6aedabbb.webp",
+      "bytes": 431654,
+      "sha256": "d09dffe16ff9d4a4c77a0716618ca32abeab4c580ffd85066d5966f4a9f25917"
+    },
+    {
+      "path": "images/img-47568b9a34ae.webp",
+      "bytes": 258552,
+      "sha256": "1c91eef17b8118c898308c84831f8622f10c5ff3d1ecc9f267942445d840c881"
+    },
+    {
+      "path": "images/img-49f31a88cb02.webp",
+      "bytes": 260096,
+      "sha256": "ad26527116da20ecd373fc71a5311ef8b76365ff5a0d10bc3c9b18be6178f3a7"
+    },
+    {
+      "path": "images/img-524f641150de.webp",
+      "bytes": 252008,
+      "sha256": "3f42c62fa0e0e3bc962ddccafc0d70fd50feec3f3952ef5b8904b9f318fd6d18"
+    },
+    {
+      "path": "images/img-53137f2ac341.webp",
+      "bytes": 724432,
+      "sha256": "21ccb6392c084ee61ca4ee6f5a6329714839915cd96c918e001fd76678f2792e"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-589c9d37e742.webp",
+      "bytes": 343960,
+      "sha256": "fca7ed5164608c1ee3215c16c30085625256707673a687609d6efaac3d9c9ee6"
+    },
+    {
+      "path": "images/img-5a88c5e0a106.webp",
+      "bytes": 233072,
+      "sha256": "ad19e57f2d9ce303fb619d99c2ac4d4368a13ad12fb216516ee2cf24ad15df34"
+    },
+    {
+      "path": "images/img-648a4404b4a5.webp",
+      "bytes": 433572,
+      "sha256": "a05f105df6a4d55b48e1ce2e11eaf7bd28b6e694b2033e344274a99a6d2fed78"
+    },
+    {
+      "path": "images/img-64bc879daab4.webp",
+      "bytes": 255658,
+      "sha256": "ca9118ddc927c95cc2d41c2bb952c9fb8923707479ec4957628dc78749c10815"
+    },
+    {
+      "path": "images/img-6cbc258e8274.webp",
+      "bytes": 428102,
+      "sha256": "ccdf726ef786e1c0f837c1f8912e007e0b7bf6b50b97341b8ef470e5ca83e910"
+    },
+    {
+      "path": "images/img-7d9b0bd23e3c.webp",
+      "bytes": 782478,
+      "sha256": "d626e65fa360057bc28d3daa4d727d60e88e9a97e3fd9d7a9bdba6021bf171f4"
+    },
+    {
+      "path": "images/img-7f2cdf4ccf4c.webp",
+      "bytes": 177696,
+      "sha256": "62a511d909e9a250aeaacdb923ed897dded0fd624ec2e221732989d435f04089"
+    },
+    {
+      "path": "images/img-8f81c30a304a.webp",
+      "bytes": 350836,
+      "sha256": "78aad6dcce5f70faeb60e8be90e203593af1f3e25068e03d5bb7c689528650bf"
+    },
+    {
+      "path": "images/img-98dd30c902a2.webp",
+      "bytes": 410166,
+      "sha256": "a1c9e501c7e453aa2b1f2c1b018d20f81cdbc10bafe954428479bd9dcd34301c"
+    },
+    {
+      "path": "images/img-a83d3671228e.webp",
+      "bytes": 349628,
+      "sha256": "040b60a35202ccb830e4eeb1003fc7cd452d79957d0ea93b92c4f1df87c9c19d"
+    },
+    {
+      "path": "images/img-c58d52a6fbcc.webp",
+      "bytes": 197548,
+      "sha256": "df6d8cbd7cad0938a9a89aa7ea70277b60aebf5465105dc38f7ceb1a39a0a92b"
+    },
+    {
+      "path": "images/img-c86dfb21775c.webp",
+      "bytes": 699522,
+      "sha256": "665cd10ca3fda495dcbc4d6002fd779b6f6a930146a61d37594b044c3eab29d4"
+    },
+    {
+      "path": "images/img-cab86cfcf158.webp",
+      "bytes": 506934,
+      "sha256": "1132be9d72df963d63646acdfe7b83f892fe57e1d027e5c81fb55255dabff56e"
+    },
+    {
+      "path": "images/img-cd1a906409c4.webp",
+      "bytes": 178424,
+      "sha256": "ba1d95fd9d83fa5c680f1b134eeb8297201fbbedef0c37e5aef887b3935208d4"
+    },
+    {
+      "path": "images/img-cdefc84382ba.webp",
+      "bytes": 692560,
+      "sha256": "47d9f96282d6b8bab4a009028ebf86bbe98caf8438c9a10a46016d64f83008da"
+    },
+    {
+      "path": "images/img-d0572e7db07b.webp",
+      "bytes": 543846,
+      "sha256": "3cb320eac7abe653a73d43024459e53a984baee81b41333cdd87a48bcd70df73"
+    },
+    {
+      "path": "images/img-dd62d64b0084.webp",
+      "bytes": 808868,
+      "sha256": "ce3f69f5bb83cd321953663ef54592c741a89c1083e580bda878e95b27186628"
+    },
+    {
+      "path": "images/img-eb6bd693bcdf.webp",
+      "bytes": 144570,
+      "sha256": "5d41d6d0df21100c65e9285831faba7daadf04d572308e0234e2a21f37567475"
+    },
+    {
+      "path": "images/img-ed70bef72ee1.webp",
+      "bytes": 338544,
+      "sha256": "65e6e54f92686a161c10534057fe25b38caab418cf1c68c90a912a0bbca921db"
+    },
+    {
+      "path": "images/img-ee1b3de43674.webp",
+      "bytes": 307288,
+      "sha256": "4f29c51408e7ed4d465685186cf2ed0cc43707c413af7844b1c0f8395402b5b5"
+    },
+    {
+      "path": "images/img-f56987d7165b.webp",
+      "bytes": 297026,
+      "sha256": "2218234fe2d96a294950d0a53e747072018386a96590abbea3be86d9e999f4da"
+    },
+    {
+      "path": "images/img-fa29f4afc191.webp",
+      "bytes": 146110,
+      "sha256": "0da32d9ed10cd8a868ab0d75a36b29ea7335aafadcdfc5bec71165b05466aee2"
+    },
+    {
+      "path": "images/img-fb38271a4453.webp",
+      "bytes": 165698,
+      "sha256": "67f2697c8b519ac53899c5c1b8bd34df23a578c64db0af620f4129abc451b0d1"
+    },
+    {
+      "path": "images/img-fcf5b2ab39ab.webp",
+      "bytes": 158632,
+      "sha256": "1db2ea5b1b0f789e4eeafd56e192f622041e09eea4a5d4c335fcfc25792a03a8"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 34782,
+      "sha256": "366e12c3a1df109444a0500345175634cc29f9802830ca52eafd3a1c760708d9"
+    },
+    {
+      "path": "source.html",
+      "bytes": 526393,
+      "sha256": "95d30d407ccc7f527a94df2dbf9f2827a027e4dc430d5ef53001a4960b049fdb"
+    },
+    {
+      "path": "source.url",
+      "bytes": 152,
+      "sha256": "9f78e3d17fe3c1d0d024504bcb221a468c6d968a9411f459baa3ea2c80a8bc74"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/2200xxs.jpg",
+      "path": "images/img-648a4404b4a5.webp",
+      "media_type": "image/webp",
+      "bytes": 433572,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/611c7f0c-c56a-4d52-8ad2-268e495c272b/je/2200xxs.jpg",
+      "path": "images/img-d0572e7db07b.webp",
+      "media_type": "image/webp",
+      "bytes": 543846,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/d326c8dd-13bf-45a0-8c5a-e58eb473ea06/je/2200xxs.jpg",
+      "path": "images/img-cdefc84382ba.webp",
+      "media_type": "image/webp",
+      "bytes": 692560,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/4df39d74-43a0-4d8c-a1f9-c5ba4d389e45/je/2200xxs.jpg",
+      "path": "images/img-7d9b0bd23e3c.webp",
+      "media_type": "image/webp",
+      "bytes": 782478,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b971c313-8f75-41d3-af6b-ac6b00724eca/je/2200xxs.jpg",
+      "path": "images/img-49f31a88cb02.webp",
+      "media_type": "image/webp",
+      "bytes": 260096,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/fb4a0e20-11bb-46c6-ba38-9b15f4861d66/je/2000xxs.jpg",
+      "path": "images/img-7f2cdf4ccf4c.webp",
+      "media_type": "image/webp",
+      "bytes": 177696,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/65ddb362-bb94-45fd-882c-3ecd6fc8bc4a/je/2000xxs.jpg",
+      "path": "images/img-ed70bef72ee1.webp",
+      "media_type": "image/webp",
+      "bytes": 338544,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b5ee95f1-9315-4e98-8b19-5af8734d8062/je/2000xxs.jpg",
+      "path": "images/img-f56987d7165b.webp",
+      "media_type": "image/webp",
+      "bytes": 297026,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/858628ef-e9cb-45c3-8a9e-f50d1391e78d/je/2000xxs.jpg",
+      "path": "images/img-c58d52a6fbcc.webp",
+      "media_type": "image/webp",
+      "bytes": 197548,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/c0ffd4e8-eb23-402f-9425-a472f141ef85/je/2000xxs.jpg",
+      "path": "images/img-dd62d64b0084.webp",
+      "media_type": "image/webp",
+      "bytes": 808868,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/2dcabef7-9529-46d0-8227-b6861b5879a5/je/2000xxs.jpg",
+      "path": "images/img-589c9d37e742.webp",
+      "media_type": "image/webp",
+      "bytes": 343960,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/ea031c57-a48c-4308-84b7-9d942b4e87fe/je/2000xxs.jpg",
+      "path": "images/img-a83d3671228e.webp",
+      "media_type": "image/webp",
+      "bytes": 349628,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/764c0028-dd15-455b-a3d3-18f7793a6354/je/2000xxs.jpg",
+      "path": "images/img-fb38271a4453.webp",
+      "media_type": "image/webp",
+      "bytes": 165698,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/64b8fd89-0e9d-435c-b14b-7f4123f1bce8/je/2000xxs.jpg",
+      "path": "images/img-fa29f4afc191.webp",
+      "media_type": "image/webp",
+      "bytes": 146110,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/bd6803a0-b10c-4a3b-8456-5379bfdca1ba/je/2000xxs.jpg",
+      "path": "images/img-47568b9a34ae.webp",
+      "media_type": "image/webp",
+      "bytes": 258552,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/d5279a60-8c12-4a1b-8f16-34a87e69b4f1/je/2000xxs.jpg",
+      "path": "images/img-0e0c8b7eb0b8.webp",
+      "media_type": "image/webp",
+      "bytes": 273176,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/500ea2c2-5558-4ceb-b2e3-48e061199896/je/2000xxs.jpg",
+      "path": "images/img-19a0131df661.webp",
+      "media_type": "image/webp",
+      "bytes": 280108,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/71e3bf87-9274-43f0-b3aa-aae182e26485/je/2000xxs.jpg",
+      "path": "images/img-eb6bd693bcdf.webp",
+      "media_type": "image/webp",
+      "bytes": 144570,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b2e3e64a-2499-403d-a1b0-b3ebe1301cbf/je/2000xxs.jpg",
+      "path": "images/img-cd1a906409c4.webp",
+      "media_type": "image/webp",
+      "bytes": 178424,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/6da1f9cf-91e3-4263-a895-b4a9c730864b/je/2000xxs.jpg",
+      "path": "images/img-5a88c5e0a106.webp",
+      "media_type": "image/webp",
+      "bytes": 233072,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/c3fd8519-0400-409f-b74c-993662a1f38b/je/2000xxs.jpg",
+      "path": "images/img-64bc879daab4.webp",
+      "media_type": "image/webp",
+      "bytes": 255658,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/7cbfe477-bac2-4d66-907b-db6cf4bbeb0b/je/2000xxs.jpg",
+      "path": "images/img-3059baed5acd.webp",
+      "media_type": "image/webp",
+      "bytes": 278534,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/cccfcf54-c96b-45fc-9466-eb9f6b540249/je/2000xxs.jpg",
+      "path": "images/img-524f641150de.webp",
+      "media_type": "image/webp",
+      "bytes": 252008,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/42207307-d132-4973-a846-a99ee4e8c54d/je/2000xxs.jpg",
+      "path": "images/img-ee1b3de43674.webp",
+      "media_type": "image/webp",
+      "bytes": 307288,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/20a7b5fd-cad6-430c-9dee-2f601a1b3634/je/2000xxs.jpg",
+      "path": "images/img-c86dfb21775c.webp",
+      "media_type": "image/webp",
+      "bytes": 699522,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/e763be86-70ef-41cd-b520-ea019fb6a936/je/2000xxs.jpg",
+      "path": "images/img-98dd30c902a2.webp",
+      "media_type": "image/webp",
+      "bytes": 410166,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/4af88930-1b6c-4151-ab8e-621e3b4d2189/je/2000xxs.jpg",
+      "path": "images/img-fcf5b2ab39ab.webp",
+      "media_type": "image/webp",
+      "bytes": 158632,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/2f8787ce-05f5-474a-9041-9b00a91977b5/je/2000xxs.jpg",
+      "path": "images/img-02b733b5f1b0.webp",
+      "media_type": "image/webp",
+      "bytes": 224970,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/47039ea5-74a9-42fa-8f9b-6096713e014a/je/2000xxs.jpg",
+      "path": "images/img-40ac6aedabbb.webp",
+      "media_type": "image/webp",
+      "bytes": 431654,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/157a41a0-a5f7-4017-b0f6-720e05a086d0/je/2000xxs.jpg",
+      "path": "images/img-53137f2ac341.webp",
+      "media_type": "image/webp",
+      "bytes": 724432,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/d911d285-6b3d-4797-adfc-7a0646045eb1/je/2000xxs.jpg",
+      "path": "images/img-0d82065ed5e7.webp",
+      "media_type": "image/webp",
+      "bytes": 329854,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/7143a8cf-d034-42a7-bfb7-73667b4d4af9/je/2000xxs.jpg",
+      "path": "images/img-8f81c30a304a.webp",
+      "media_type": "image/webp",
+      "bytes": 350836,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/f33f7eec-9f01-4f87-9069-af8caf3652af/je/2000xxs.jpg",
+      "path": "images/img-6cbc258e8274.webp",
+      "media_type": "image/webp",
+      "bytes": 428102,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/6a6a16e5-f877-4a81-904c-b769e6d31c15/je/2000xxs.jpg",
+      "path": "images/img-cab86cfcf158.webp",
+      "media_type": "image/webp",
+      "bytes": 506934,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/8745d985-8ead-482a-92b5-1ac8e086d54b/je/2000xxs.jpg",
+      "path": "images/img-1d886c830e88.webp",
+      "media_type": "image/webp",
+      "bytes": 9316,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2200xxs%2819%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2200xxs%2820%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2200xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 36,
+    "images_existing": 0,
+    "images_failed": 20,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

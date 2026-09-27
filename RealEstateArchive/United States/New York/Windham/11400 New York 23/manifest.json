@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400-new-york-23-ashland-ny-12407-16853353",
+    "canonical_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400-new-york-23-ashland-ny-12407-16853353",
+    "site": "jamesedition",
+    "listing_id": "16853353",
+    "listing_reference": "4xw489",
+    "first_listed": "Dec 26, 2025",
+    "last_updated": "December 26, 2025",
+    "retrieved_at": "2026-06-16T03:43:11.987146Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2831,
+      "sha256": "d109922466d1245c3d81e2373d05ae4f0c33db92c2ce79993218569f287ee28b"
+    },
+    {
+      "path": "images/004-8c88663b.webp",
+      "bytes": 538516,
+      "sha256": "5ad68be92d6a6e036754ac09388cc2fb4baf19cfce1ebfb30312abde8cf53693"
+    },
+    {
+      "path": "images/009-1746b299.webp",
+      "bytes": 116624,
+      "sha256": "51a74f10bed2b2efc82bced43c5194e8d364c08df201886a985d8a3f95cefe01"
+    },
+    {
+      "path": "images/014-24f267a9.webp",
+      "bytes": 66180,
+      "sha256": "326661cd7a97b70b85e963c658165b402bdc203420ff3bb708b29f66ff29472c"
+    },
+    {
+      "path": "images/019-c3da98d4.webp",
+      "bytes": 106446,
+      "sha256": "b6de495c268eac71ea076bc24e9e5ac43594c793e752410e9d172db064babc15"
+    },
+    {
+      "path": "images/024-72871ab8.webp",
+      "bytes": 103728,
+      "sha256": "0dc15519fbdf991b1027640fbef9f90e4d5a4951dcbee66eaf009b98d0e82838"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17046,
+      "sha256": "75df467201e9aa66cc8998c2a075402d15fe488011138251461383514e9ff158"
+    },
+    {
+      "path": "source.html",
+      "bytes": 324936,
+      "sha256": "452548f50093176777018742c955f53694f638fe807f6212abe7c6504520e88f"
+    },
+    {
+      "path": "source.url",
+      "bytes": 100,
+      "sha256": "69f33d6e68dc5d1b1c013a517418857bd49c9aca4e29bea5d026e9b46f6ecfa4"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/2200xxs.jpg",
+      "path": "images/004-8c88663b.webp",
+      "media_type": "image/webp",
+      "bytes": 538516,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/2200xxs.jpg",
+      "path": "images/009-1746b299.webp",
+      "media_type": "image/webp",
+      "bytes": 116624,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/2200xxs.jpg",
+      "path": "images/014-24f267a9.webp",
+      "media_type": "image/webp",
+      "bytes": 66180,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/2200xxs.jpg",
+      "path": "images/019-c3da98d4.webp",
+      "media_type": "image/webp",
+      "bytes": 106446,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/2200xxs.jpg",
+      "path": "images/024-72871ab8.webp",
+      "media_type": "image/webp",
+      "bytes": 103728,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

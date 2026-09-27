@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/colorado-river-ranch-13798848",
+    "canonical_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/colorado-river-ranch-13798848",
+    "site": "jamesedition",
+    "listing_id": "13798848",
+    "listing_reference": "6VNVG3",
+    "first_listed": "Feb 7, 2024",
+    "last_updated": "March 31",
+    "retrieved_at": "2026-06-18T07:07:53.785789Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5087,
+      "sha256": "8bba68177c2e15847587b019742f4713a3ed91eb432674b0fec620dcfdfc639f"
+    },
+    {
+      "path": "images/004-a3a06606.webp",
+      "bytes": 337418,
+      "sha256": "dfaee48c3953c484529881c5a1e3695f9edf0390627b0256576d45962abced23"
+    },
+    {
+      "path": "images/009-07b74636.webp",
+      "bytes": 520052,
+      "sha256": "37b1678c1cc0ea283d4d13445038c9b36f3105a1db1a9188bc9c1eca45f512e5"
+    },
+    {
+      "path": "images/014-a8aa3ef8.webp",
+      "bytes": 643414,
+      "sha256": "bacb6c7e562ef02d009a89e8ee3dff092419f4c2d10d8f92346508a21268bc9d"
+    },
+    {
+      "path": "images/019-fc12ca95.webp",
+      "bytes": 710026,
+      "sha256": "d9bdcd88cf98bfc09fbd876de1355e547b1e18520d621a40f738f8cc72dab94d"
+    },
+    {
+      "path": "images/024-6f453ac2.webp",
+      "bytes": 655076,
+      "sha256": "6a5a332396995ecbb662131f5eb39dc1bc35e017de8fdaa808faca9abf02a2b0"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 20743,
+      "sha256": "cb92db7d1ee4c9f29346d3b6519eebf9066fc1ea325b25bfcf29c2f621402895"
+    },
+    {
+      "path": "source.html",
+      "bytes": 334731,
+      "sha256": "7a7e75025c544981ddb99d13a93c10a1c5979396961dc1b9cbf3d29743e37358"
+    },
+    {
+      "path": "source.url",
+      "bytes": 85,
+      "sha256": "6a2f205d8b35b5878204290fe7c26a9efae16d8aa1497db78147244348c6807f"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/2200xxs.jpg",
+      "path": "images/004-a3a06606.webp",
+      "media_type": "image/webp",
+      "bytes": 337418,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/2200xxs.jpg",
+      "path": "images/009-07b74636.webp",
+      "media_type": "image/webp",
+      "bytes": 520052,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/2200xxs.jpg",
+      "path": "images/014-a8aa3ef8.webp",
+      "media_type": "image/webp",
+      "bytes": 643414,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/2200xxs.jpg",
+      "path": "images/019-fc12ca95.webp",
+      "media_type": "image/webp",
+      "bytes": 710026,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/2200xxs.jpg",
+      "path": "images/024-6f453ac2.webp",
+      "media_type": "image/webp",
+      "bytes": 655076,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

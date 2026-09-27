@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "path": "Japan/Nara/Ikoma/258-2 Kōyōdai/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-07b90d16.webp",
+      "href": "004-07b90d16.webp",
+      "size": 270424
+    },
+    {
+      "name": "009-2e60d611.webp",
+      "href": "009-2e60d611.webp",
+      "size": 202190
+    },
+    {
+      "name": "014-ac1dadc4.webp",
+      "href": "014-ac1dadc4.webp",
+      "size": 319306
+    },
+    {
+      "name": "019-111fa5a8.webp",
+      "href": "019-111fa5a8.webp",
+      "size": 135152
+    },
+    {
+      "name": "024-b8917184.webp",
+      "href": "024-b8917184.webp",
+      "size": 321920
+    },
+    {
+      "name": "035-57242b8e.webp",
+      "href": "035-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "036-4055dfde.svg",
+      "href": "036-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "037-272e34fe.svg",
+      "href": "037-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "038-caf7633d.svg",
+      "href": "038-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

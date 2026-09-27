@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Spain/Andalusia/Setenil de las Bodegas/Setenil/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-6d571c37.webp",
+      "href": "004-6d571c37.webp",
+      "size": 288582
+    },
+    {
+      "name": "009-9f26776b.webp",
+      "href": "009-9f26776b.webp",
+      "size": 351158
+    },
+    {
+      "name": "014-8698b89a.webp",
+      "href": "014-8698b89a.webp",
+      "size": 325466
+    },
+    {
+      "name": "019-42338c44.webp",
+      "href": "019-42338c44.webp",
+      "size": 332448
+    },
+    {
+      "name": "024-68d6373e.webp",
+      "href": "024-68d6373e.webp",
+      "size": 269424
+    },
+    {
+      "name": "036-57242b8e.webp",
+      "href": "036-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "037-4055dfde.svg",
+      "href": "037-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "038-272e34fe.svg",
+      "href": "038-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "039-caf7633d.svg",
+      "href": "039-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

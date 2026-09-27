@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/estate-beverly-hills-united-states-17427404",
+    "canonical_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/estate-beverly-hills-united-states-17427404",
+    "site": "jamesedition",
+    "listing_id": "17427404",
+    "listing_reference": "067520",
+    "first_listed": "Mar 17",
+    "last_updated": "March 17",
+    "retrieved_at": "2026-06-16T03:43:23.880146Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3553,
+      "sha256": "b87e190228a19e03558cc9dc2dfe7a2002097eb5be54e769c7641fdec38d5dd5"
+    },
+    {
+      "path": "images/004-90abb0c3.webp",
+      "bytes": 836576,
+      "sha256": "df1e2ccceb51632acbc18c48db09318b87b045b70799f50ac06c51bdd68b1917"
+    },
+    {
+      "path": "images/009-93061e63.webp",
+      "bytes": 330312,
+      "sha256": "eb935ab6d5c660912b726691fa18d08c1a252b289cfd632057765c0f1bd79f6c"
+    },
+    {
+      "path": "images/014-c2338d71.webp",
+      "bytes": 576326,
+      "sha256": "7b584dde352bfb5a1d8500c630d59f7a9c2ea3706515af58d5ea137d5b272496"
+    },
+    {
+      "path": "images/019-3500984e.webp",
+      "bytes": 416130,
+      "sha256": "b2ac6c6d665c69ee81f398c6311031ae09e70d0bad906862f02e049253f070dc"
+    },
+    {
+      "path": "images/024-b36bd541.webp",
+      "bytes": 233600,
+      "sha256": "83489f90d6a8a70f1e37ff2c4a2e916eeaf7e4480184d5c4ba3c5e98fca68c49"
+    },
+    {
+      "path": "images/036-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/037-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/038-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/039-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/040-460fc1c6.webp",
+      "bytes": 1274,
+      "sha256": "39954037b698d0056c4612d9a27c80ff922e0735935070f65a941c0284346f40"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 21703,
+      "sha256": "400074459f73d11bc9e9d6426d1225d5b1a90a50dc7acc15da890da55cb10c97"
+    },
+    {
+      "path": "source.html",
+      "bytes": 370755,
+      "sha256": "87eeb88c5cc5b1dc6956608736adf49ab241f380950285b4e25665b3cae825d5"
+    },
+    {
+      "path": "source.url",
+      "bytes": 106,
+      "sha256": "a2cefce37c4d0d2ee314fcf0a0d1c6396ed3196295ce441e3d67884345cfcebf"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/2200xxs.jpg",
+      "path": "images/004-90abb0c3.webp",
+      "media_type": "image/webp",
+      "bytes": 836576,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/2200xxs.jpg",
+      "path": "images/009-93061e63.webp",
+      "media_type": "image/webp",
+      "bytes": 330312,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/2200xxs.jpg",
+      "path": "images/014-c2338d71.webp",
+      "media_type": "image/webp",
+      "bytes": 576326,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/2200xxs.jpg",
+      "path": "images/019-3500984e.webp",
+      "media_type": "image/webp",
+      "bytes": 416130,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/2200xxs.jpg",
+      "path": "images/024-b36bd541.webp",
+      "media_type": "image/webp",
+      "bytes": 233600,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/02/28/08/56/07/74863c12-9de3-41e6-9520-6c181a8c2468/je/80x80xc.jpg",
+      "path": "images/040-460fc1c6.webp",
+      "media_type": "image/webp",
+      "bytes": 1274,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 14,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

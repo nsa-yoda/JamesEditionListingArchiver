@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "path": "United States/Connecticut/Stamford/1233 Rock Rimmon Road/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-5e5656eb.webp",
+      "href": "004-5e5656eb.webp",
+      "size": 1271428
+    },
+    {
+      "name": "009-28fe223b.webp",
+      "href": "009-28fe223b.webp",
+      "size": 680512
+    },
+    {
+      "name": "014-eae11a8c.webp",
+      "href": "014-eae11a8c.webp",
+      "size": 330188
+    },
+    {
+      "name": "019-9737a4fc.webp",
+      "href": "019-9737a4fc.webp",
+      "size": 281152
+    },
+    {
+      "name": "024-1674f84c.webp",
+      "href": "024-1674f84c.webp",
+      "size": 223142
+    },
+    {
+      "name": "030-57242b8e.webp",
+      "href": "030-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "031-4055dfde.svg",
+      "href": "031-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "032-272e34fe.svg",
+      "href": "032-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "033-caf7633d.svg",
+      "href": "033-caf7633d.svg",
+      "size": 63710
+    },
+    {
+      "name": "034-dd94e60c.webp",
+      "href": "034-dd94e60c.webp",
+      "size": 1122
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

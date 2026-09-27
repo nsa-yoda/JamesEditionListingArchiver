@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Italy/Tuscany/Montepulciano/Montepulciano/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-d25caf24.webp",
+      "href": "004-d25caf24.webp",
+      "size": 174298
+    },
+    {
+      "name": "009-9f61ea93.webp",
+      "href": "009-9f61ea93.webp",
+      "size": 493984
+    },
+    {
+      "name": "014-1e6a5cd2.webp",
+      "href": "014-1e6a5cd2.webp",
+      "size": 260850
+    },
+    {
+      "name": "019-f932d67b.webp",
+      "href": "019-f932d67b.webp",
+      "size": 239188
+    },
+    {
+      "name": "024-c754a42e.webp",
+      "href": "024-c754a42e.webp",
+      "size": 486848
+    },
+    {
+      "name": "029-57242b8e.webp",
+      "href": "029-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "030-4055dfde.svg",
+      "href": "030-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "031-272e34fe.svg",
+      "href": "031-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "032-caf7633d.svg",
+      "href": "032-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

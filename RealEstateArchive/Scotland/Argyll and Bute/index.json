@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "Scotland/Argyll and Bute",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Crinan",
+      "href": "Crinan/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

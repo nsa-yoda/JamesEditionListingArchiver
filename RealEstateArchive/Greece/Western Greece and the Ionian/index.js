@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Greece/Western Greece and the Ionian",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Peloponnese",
+      "href": "Peloponnese/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

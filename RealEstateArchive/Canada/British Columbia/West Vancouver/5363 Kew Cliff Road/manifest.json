@@ -1,0 +1,1037 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/the-finest-waterfront-estate-13864264",
+    "canonical_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/the-finest-waterfront-estate-13864264",
+    "site": "jamesedition",
+    "listing_id": "13864264",
+    "listing_reference": "NG453R",
+    "first_listed": "Feb 22, 2024",
+    "last_updated": "June 19",
+    "retrieved_at": "2026-08-28T00:31:56.747548Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3473,
+      "sha256": "230ca9f418ef18680f245d5947843de1343a9d6ba24b2a74da665472d01447b0"
+    },
+    {
+      "path": "images/img-00a83dbb238a.webp",
+      "bytes": 545374,
+      "sha256": "30b8c54099e9a98b8f4f59a5bee6f8998e26a5b33227f42480cd475ba9a233e6"
+    },
+    {
+      "path": "images/img-046ea1b5ba38.webp",
+      "bytes": 901756,
+      "sha256": "4590a0c018064cd45112c3c7cf8868a3eb88a03b87f158abb111631c48af2df3"
+    },
+    {
+      "path": "images/img-048183bd611f.webp",
+      "bytes": 468208,
+      "sha256": "bb20b45a3a65472e6c961860a476356a502c6694fa195a791fdd731b4431a3a8"
+    },
+    {
+      "path": "images/img-098e42c6619f.webp",
+      "bytes": 293552,
+      "sha256": "68c21ed03989c9832f302fb7d28b6c3e2bb99cbc1b90010b0102a39618ca7a04"
+    },
+    {
+      "path": "images/img-0b15467f7af2.webp",
+      "bytes": 334310,
+      "sha256": "1ce245454830bc4cd8b06ad235d5cd56b9d097f89af7b6353316b8e87b3978dd"
+    },
+    {
+      "path": "images/img-14cbda7a2078.webp",
+      "bytes": 258398,
+      "sha256": "d90cf89e85f2564fb128ee1669bc58dbf3223bf2e97827a0c4a7e51d2b0f1a65"
+    },
+    {
+      "path": "images/img-15db326b6544.webp",
+      "bytes": 350528,
+      "sha256": "0a8e4528ecaa6d026fb2895a11e9b10429671c1f38b7b6bc6c9b50a7cc211f66"
+    },
+    {
+      "path": "images/img-17338a98151d.webp",
+      "bytes": 486124,
+      "sha256": "0e4d557b0d96783efdef3aed1d64e50fefb8a8c7076bfcb25989ed3043bfd83c"
+    },
+    {
+      "path": "images/img-1b8e13904caf.webp",
+      "bytes": 176400,
+      "sha256": "1f5a0237a197165e0a8440cf1c3e766d7ecfb6aac8c385b82027fb0b6433e112"
+    },
+    {
+      "path": "images/img-1d6aeb40d9d0.webp",
+      "bytes": 315368,
+      "sha256": "93a0dc3c2e63689ef857afeadeccf881b0eeeccf6b16b68eb0632f51e25c0769"
+    },
+    {
+      "path": "images/img-23511e28edd1.webp",
+      "bytes": 204786,
+      "sha256": "2e7dfb3d8fda5f46eea58b97630c93f320db3e829932391fff134d560a38ab75"
+    },
+    {
+      "path": "images/img-2f0f6d7e666b.webp",
+      "bytes": 326564,
+      "sha256": "c4138fedfc1117641d8f5fe61e5cbeca0ad9243a07f96466be3f7a14a8b02dca"
+    },
+    {
+      "path": "images/img-33edf3c160e1.webp",
+      "bytes": 518186,
+      "sha256": "b4c8d899d88755c1da6a569358818ae589cf949fb02eda5d27b12d3e628a5409"
+    },
+    {
+      "path": "images/img-35758e0b968a.webp",
+      "bytes": 200276,
+      "sha256": "16f8763f9185aab4d0a89971a0a7314da6012ff2c446435f86b4de9026dba811"
+    },
+    {
+      "path": "images/img-384231caee69.webp",
+      "bytes": 324914,
+      "sha256": "ac2bd8ba0f3d0dba5a67dda46b152d4b1e5c49cbcd287b75bacb9325a857431e"
+    },
+    {
+      "path": "images/img-38ce8c731d5a.webp",
+      "bytes": 612376,
+      "sha256": "6995ef4e7a492fd942e45a3e9ba75fb683aa44af1c2e04c110885690dd261a0e"
+    },
+    {
+      "path": "images/img-3e4781fad959.webp",
+      "bytes": 291694,
+      "sha256": "7eb9ab22e23bb455327630b437992689a32b8e7f9cafdcf121dadc6fb2244e34"
+    },
+    {
+      "path": "images/img-3ef377edd01f.webp",
+      "bytes": 478360,
+      "sha256": "9fc5095a534eb8dd18de54effe36c624311c6329331e8d6822cb1a12bb64ff33"
+    },
+    {
+      "path": "images/img-49a9c0dea6f7.webp",
+      "bytes": 367934,
+      "sha256": "2a88ab34c826b0168dcd45ec690db387796ac80f7c245ef94eb150ffde13972e"
+    },
+    {
+      "path": "images/img-4f87bc919b31.webp",
+      "bytes": 590594,
+      "sha256": "f6bcdd9af732d279a87c4c12266d522c282bc20d44acd1c097b912e6099aafe7"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-626267390565.webp",
+      "bytes": 399542,
+      "sha256": "ba97ed612f226daaffada66e6fb49a032deaae718003788590b5b70702d57d0a"
+    },
+    {
+      "path": "images/img-682040e7c07a.webp",
+      "bytes": 244474,
+      "sha256": "5200593c47ab692873ef73f04b557b06437af14699c77265b7cf5bdc6220ea39"
+    },
+    {
+      "path": "images/img-68c58b7a252b.webp",
+      "bytes": 478026,
+      "sha256": "b646663c4ee0cda9bec735b4ef494131004879b24bc05b11c25ea34e1fa8c771"
+    },
+    {
+      "path": "images/img-6b2f3766955b.webp",
+      "bytes": 414440,
+      "sha256": "6cc2cb58c88024668dacf9972a3ce7d4618a74fd4bdd3858c3632e81e618addd"
+    },
+    {
+      "path": "images/img-6e80ad8fbdfc.webp",
+      "bytes": 312814,
+      "sha256": "1dbf5f11e75bdd53eb982686df3336557fc96b339295819dcc75442741d0f869"
+    },
+    {
+      "path": "images/img-72a10d9dbcc6.webp",
+      "bytes": 184286,
+      "sha256": "c5a5908039dc26192668775c1770c3861a931d49c61f99d798c194a4b6ea303e"
+    },
+    {
+      "path": "images/img-74c75270936b.webp",
+      "bytes": 307278,
+      "sha256": "7d94564019e2c11b7f0f14b07e7ca43a8643e1d1ae0b0621495d7db874957d29"
+    },
+    {
+      "path": "images/img-77b900aa4c11.webp",
+      "bytes": 256850,
+      "sha256": "b95b042629e68d35729479e8961124ecd48c57e38e81d0d13c55b6d9c840db11"
+    },
+    {
+      "path": "images/img-7b337b4266ba.webp",
+      "bytes": 425510,
+      "sha256": "6adac89124b43df34a6ce229602693c18eed43564b9c8a48b7e086b5a0526ce6"
+    },
+    {
+      "path": "images/img-7ec0cf96b1ee.webp",
+      "bytes": 155744,
+      "sha256": "a22c0ab5b2e719d5eeb5788494d73217f9390f8833dc300b38ae914694def1ca"
+    },
+    {
+      "path": "images/img-806d641ef72c.webp",
+      "bytes": 292176,
+      "sha256": "70815243774777071ee76e2a95e922873754d66cae6a3f222a369b78b301d0b4"
+    },
+    {
+      "path": "images/img-80abc9f17a9d.webp",
+      "bytes": 370044,
+      "sha256": "bec5388e5dba22cc4d2c1db068ed2815c1fc5896fa095bc23e9d887a58a7bc36"
+    },
+    {
+      "path": "images/img-84ac55fe7314.webp",
+      "bytes": 857702,
+      "sha256": "5486352affd107345f4e1dad7d72441cdec34d5a670ca7618c027c085fa6ff2c"
+    },
+    {
+      "path": "images/img-8547cb40fa8f.webp",
+      "bytes": 342274,
+      "sha256": "4979653f1a4fadc77d89b03794a9546688e4a25527bc74173cd375636bf9eb03"
+    },
+    {
+      "path": "images/img-85dc39a422ec.webp",
+      "bytes": 400976,
+      "sha256": "77afa0049c97004d034d5305939f3d5a08c7fbb71605b6c02b7c826c7bfc75b9"
+    },
+    {
+      "path": "images/img-8b632d2138ba.webp",
+      "bytes": 324068,
+      "sha256": "c54bce3f067360eace80aa63956c303a225bf6136957374c3069f076e59beb4a"
+    },
+    {
+      "path": "images/img-8c579322bfcb.webp",
+      "bytes": 310096,
+      "sha256": "f0f244973bc46f9e4ccf5909394e433251aa6e27b723efc0cefee5bcca1d8718"
+    },
+    {
+      "path": "images/img-8eaee391af2f.webp",
+      "bytes": 428324,
+      "sha256": "80c79d1abefd15f4558cca3ab3f10d1daebe64a4ad1d93fb675b9c6898c373c8"
+    },
+    {
+      "path": "images/img-8efecb54ae9b.webp",
+      "bytes": 426092,
+      "sha256": "de682d288457ff32d27798f206426722fcfff8a323a60b7c939fa778560bf7f6"
+    },
+    {
+      "path": "images/img-904b153daeb2.webp",
+      "bytes": 369542,
+      "sha256": "66d6a248bb9951390df935c9e41464e2b863c1d3e621c77a126bbb76d1131222"
+    },
+    {
+      "path": "images/img-9a13a492fbc6.webp",
+      "bytes": 571956,
+      "sha256": "be1251a1cd4bd36d25a51aa394c585ff97949a6e7ac6f630726ba38a15d10ef1"
+    },
+    {
+      "path": "images/img-a2e389b58b08.webp",
+      "bytes": 375472,
+      "sha256": "7e1d4b0df749675b275749f1009ffddbd2c415cee8c9de69cb6364baeefa6040"
+    },
+    {
+      "path": "images/img-aaeaf3b9c745.webp",
+      "bytes": 539948,
+      "sha256": "736293628689ab1d7fb465f2d0fb062fa7942af7fefe109b17d51e7b0c0dc527"
+    },
+    {
+      "path": "images/img-ad34bdaeda2a.webp",
+      "bytes": 479234,
+      "sha256": "0364a13b1af9c81d22861caca946171d11eda0b65016a1bd0615819ea0ca1d72"
+    },
+    {
+      "path": "images/img-ad4b0e036a49.webp",
+      "bytes": 533568,
+      "sha256": "fa8aa37715d9dc1fdff5e8589da5b1fc2e6ebda074a0708e3f1263dde2ce43d6"
+    },
+    {
+      "path": "images/img-b235bbeca30f.webp",
+      "bytes": 610816,
+      "sha256": "bfa429fc19beb056829651d4f37591d1e72f2441176582968f49b5f533b35746"
+    },
+    {
+      "path": "images/img-b8f2bb9b5e5b.webp",
+      "bytes": 431638,
+      "sha256": "376d3dc9976c3a4b54c0c589b0b26134fa3ac852771f22a763b500adfaa77ad7"
+    },
+    {
+      "path": "images/img-bdac9dc58d22.webp",
+      "bytes": 337346,
+      "sha256": "f3a7b82b7c741934260bb015a7fc9a2f9d347b256f997c58452959abde5752b0"
+    },
+    {
+      "path": "images/img-c276fd6d8750.webp",
+      "bytes": 346932,
+      "sha256": "311ed749b0bbbc66dc1310027269b16b74378714f7e3b7c48e78bdcdb3654d83"
+    },
+    {
+      "path": "images/img-c33a318ad5f9.webp",
+      "bytes": 250186,
+      "sha256": "eec67831fb52a035194cb0b5b7f0a3e6b26623b87a7a60acde10e35bcb5a392b"
+    },
+    {
+      "path": "images/img-c4d48e9e19e7.webp",
+      "bytes": 437864,
+      "sha256": "004c226f02aa63f477033c79dd4dd8e788c8d024deba929d9ec60ce1d2704a19"
+    },
+    {
+      "path": "images/img-c6902e84acdb.webp",
+      "bytes": 320714,
+      "sha256": "6e0f41cbb101fedf53b241bb5f02c2881f6147aa94b0630940149a9e31d39907"
+    },
+    {
+      "path": "images/img-cbcc7ec8d8d6.webp",
+      "bytes": 586644,
+      "sha256": "368ee627b032879a8e042603d3d70c247b9edfdb4dc36f7546ee5e68e2acee61"
+    },
+    {
+      "path": "images/img-cdba92ea1016.webp",
+      "bytes": 435132,
+      "sha256": "eeb8aec1404a2c1cf4a0ccd4dc18784f6ef5a21470f071cb24800c1c9aea5c57"
+    },
+    {
+      "path": "images/img-d436cd537691.webp",
+      "bytes": 604938,
+      "sha256": "245fcc6d7502c321f38723ebf97cc9de1488f8bec75a329d5cee3ac012c354c8"
+    },
+    {
+      "path": "images/img-d6c159840c68.webp",
+      "bytes": 471800,
+      "sha256": "e81a08feeebe630ac7d74a36a745cbfec9fbccf2637d77d84c8e53d10df39bc9"
+    },
+    {
+      "path": "images/img-d874dfa4ac01.webp",
+      "bytes": 203778,
+      "sha256": "9048ef4cf09e34fa9179a7b0c4b31db97c48c5f3035a9c2c52c385a6de0fe417"
+    },
+    {
+      "path": "images/img-e2a2fd0eab79.webp",
+      "bytes": 557770,
+      "sha256": "8fbefc75db5b7ec5861bdb9ab85528a9fe05bd623402a5cb38c9f89301112f23"
+    },
+    {
+      "path": "images/img-e886f987cd93.webp",
+      "bytes": 168050,
+      "sha256": "777e4277f5247e4140ab149d1cd141d0d4c98c9455c69bea38547ac638515124"
+    },
+    {
+      "path": "images/img-eea263ad1c60.webp",
+      "bytes": 765372,
+      "sha256": "47bc9534badca347aea72521eb35cb15eef6177c0266c565249c0cd986dc6d09"
+    },
+    {
+      "path": "images/img-f00d8af3a68b.webp",
+      "bytes": 771756,
+      "sha256": "fbec96c35b256525c6c8e23a8af681233a2e46a365bd7a6cd6f74ef07d82353c"
+    },
+    {
+      "path": "images/img-f2ceed285e99.webp",
+      "bytes": 362842,
+      "sha256": "9a971b5c1841e682b9a75ec0da94a0102f158a0cb3b90d70e3c34bfc007ebfa9"
+    },
+    {
+      "path": "images/img-f60366471ff2.webp",
+      "bytes": 599774,
+      "sha256": "37eb4f9318d9fdd6fbe5ab1cd2ba2eda7505034bd9d7b8d46610cd82ded1db41"
+    },
+    {
+      "path": "images/img-f8b583533d49.webp",
+      "bytes": 342002,
+      "sha256": "9e35877c30081f40a22889dd47279a1f6c0f1894e3dd2b7e805b56b34e407ed8"
+    },
+    {
+      "path": "images/img-fbf877c0cbed.webp",
+      "bytes": 365934,
+      "sha256": "86986ed2fc7f91950248d7d3092385959fd0fa735570710b55a60d2708c7ac29"
+    },
+    {
+      "path": "images/img-ff9833e99f90.webp",
+      "bytes": 263014,
+      "sha256": "c62efbcfacaa7ae4b300f29f2dc36e0d3e24a4cd5812b59c8b461f8957a3764a"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 41817,
+      "sha256": "b44ba132a068fabbac2e1d3552e2e0dd247c1e68d4a55898cdc4327823deaa60"
+    },
+    {
+      "path": "source.html",
+      "bytes": 517930,
+      "sha256": "3f0fa9449cc75ca6771369fc54474a5f0d3ec99374d81091390334a0f7c29e63"
+    },
+    {
+      "path": "source.url",
+      "bytes": 101,
+      "sha256": "9e14472125f4b5687150912a6903c72c0e63e76a17d5e4cf9e17584e51e3ce8f"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/2200xxs.jpg",
+      "path": "images/img-eea263ad1c60.webp",
+      "media_type": "image/webp",
+      "bytes": 765372,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/34b6f558-d677-4f9c-9836-5463a3745b1a/je/2200xxs.jpg",
+      "path": "images/img-4f87bc919b31.webp",
+      "media_type": "image/webp",
+      "bytes": 590594,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/978448fe-2e54-4e74-a0e7-48b93cec339b/je/2200xxs.jpg",
+      "path": "images/img-aaeaf3b9c745.webp",
+      "media_type": "image/webp",
+      "bytes": 539948,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/0053950d-f738-4c46-a6cb-a41052b84691/je/2200xxs.jpg",
+      "path": "images/img-b235bbeca30f.webp",
+      "media_type": "image/webp",
+      "bytes": 610816,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/01983147-8ce8-4d38-b787-6de211202177/je/2200xxs.jpg",
+      "path": "images/img-ad34bdaeda2a.webp",
+      "media_type": "image/webp",
+      "bytes": 479234,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/28/17/44/36/91776db7-68c0-45ff-b13f-8d5689871034/je/2000xxs.jpg",
+      "path": "images/img-f2ceed285e99.webp",
+      "media_type": "image/webp",
+      "bytes": 362842,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/20/14/37/04/9398bf92-a31e-439c-b611-4397dc101b01/je/2000xxs.jpg",
+      "path": "images/img-fbf877c0cbed.webp",
+      "media_type": "image/webp",
+      "bytes": 365934,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/03/07/53/5c90d8ed-a098-477e-84f8-40080990d6e1/je/2000xxs.jpg",
+      "path": "images/img-098e42c6619f.webp",
+      "media_type": "image/webp",
+      "bytes": 293552,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/52/2db6ee11-eca0-4ca3-9c5f-83626ea8be97/je/2000xxs.jpg",
+      "path": "images/img-682040e7c07a.webp",
+      "media_type": "image/webp",
+      "bytes": 244474,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/22/14/40/11/81273b0c-49ca-47cd-8f6b-627bd2d0da6d/je/2000xxs.jpg",
+      "path": "images/img-38ce8c731d5a.webp",
+      "media_type": "image/webp",
+      "bytes": 612376,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/16/13/32/44/7afd08e4-b7b9-4a98-917f-dd612b155133/je/2000xxs.jpg",
+      "path": "images/img-77b900aa4c11.webp",
+      "media_type": "image/webp",
+      "bytes": 256850,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/11/16/12/23/09e0fb43-efec-47dc-ab43-1121d73085d1/je/2000xxs.jpg",
+      "path": "images/img-7b337b4266ba.webp",
+      "media_type": "image/webp",
+      "bytes": 425510,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/5887232d-0f6a-46ae-bbf7-48cfee8716a0/je/2000xxs.jpg",
+      "path": "images/img-8547cb40fa8f.webp",
+      "media_type": "image/webp",
+      "bytes": 342274,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/13/06/34/42/e63389d1-e016-43f2-8ea3-afbcda9bd0ef/je/2000xxs.jpg",
+      "path": "images/img-f60366471ff2.webp",
+      "media_type": "image/webp",
+      "bytes": 599774,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/0e68482d-5f3f-4440-bdbd-01d35fdb2eaf/je/2000xxs.jpg",
+      "path": "images/img-d6c159840c68.webp",
+      "media_type": "image/webp",
+      "bytes": 471800,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/39a76a88-9aa4-4ce0-867d-99478f77609d/je/2000xxs.jpg",
+      "path": "images/img-3ef377edd01f.webp",
+      "media_type": "image/webp",
+      "bytes": 478360,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/e6189fbf-675c-47fe-bf46-9b64df98ec15/je/2000xxs.jpg",
+      "path": "images/img-00a83dbb238a.webp",
+      "media_type": "image/webp",
+      "bytes": 545374,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/896caf21-a471-4bc5-b622-7a39cce51983/je/2000xxs.jpg",
+      "path": "images/img-8efecb54ae9b.webp",
+      "media_type": "image/webp",
+      "bytes": 426092,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/7c4c4d1f-5c8b-474b-a5ee-3dc1d6eebf33/je/2000xxs.jpg",
+      "path": "images/img-6b2f3766955b.webp",
+      "media_type": "image/webp",
+      "bytes": 414440,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/c1114e85-89b0-4993-9042-dbf9f30d261b/je/2000xxs.jpg",
+      "path": "images/img-f8b583533d49.webp",
+      "media_type": "image/webp",
+      "bytes": 342002,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/24/08/10/22/58174fea-a17f-4bf8-b7af-94be88619b2e/je/2000xxs.jpg",
+      "path": "images/img-626267390565.webp",
+      "media_type": "image/webp",
+      "bytes": 399542,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/a3f1cfbd-7563-4843-9075-dac6835ef568/je/2000xxs.jpg",
+      "path": "images/img-c4d48e9e19e7.webp",
+      "media_type": "image/webp",
+      "bytes": 437864,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/a71e8be3-29f4-40fe-a905-81dd88ad53be/je/2000xxs.jpg",
+      "path": "images/img-49a9c0dea6f7.webp",
+      "media_type": "image/webp",
+      "bytes": 367934,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/30d02a42-4108-4715-951d-acb5b9e74c87/je/2000xxs.jpg",
+      "path": "images/img-0b15467f7af2.webp",
+      "media_type": "image/webp",
+      "bytes": 334310,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/1fc815af-8702-410f-98ed-aae571f6c1cb/je/2000xxs.jpg",
+      "path": "images/img-384231caee69.webp",
+      "media_type": "image/webp",
+      "bytes": 324914,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/e2a9d8aa-3cac-4cc6-8351-f6ea941dfa9c/je/2000xxs.jpg",
+      "path": "images/img-80abc9f17a9d.webp",
+      "media_type": "image/webp",
+      "bytes": 370044,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/82803b16-bf5c-42eb-9f22-236ee9e1f08a/je/2000xxs.jpg",
+      "path": "images/img-17338a98151d.webp",
+      "media_type": "image/webp",
+      "bytes": 486124,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/67822e0b-2858-488f-b1a1-ed2e8146094c/je/2000xxs.jpg",
+      "path": "images/img-7ec0cf96b1ee.webp",
+      "media_type": "image/webp",
+      "bytes": 155744,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/abd4175e-8ef0-435b-b61a-ab001c4dad4e/je/2000xxs.jpg",
+      "path": "images/img-cdba92ea1016.webp",
+      "media_type": "image/webp",
+      "bytes": 435132,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/b942fdd7-2a41-467f-af27-3379e4b7f890/je/2000xxs.jpg",
+      "path": "images/img-8eaee391af2f.webp",
+      "media_type": "image/webp",
+      "bytes": 428324,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/61a2db7f-4276-46d9-9cea-c5416b19c0a2/je/2000xxs.jpg",
+      "path": "images/img-b8f2bb9b5e5b.webp",
+      "media_type": "image/webp",
+      "bytes": 431638,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/c7442703-af61-494b-ac3d-5483ad85aeae/je/2000xxs.jpg",
+      "path": "images/img-33edf3c160e1.webp",
+      "media_type": "image/webp",
+      "bytes": 518186,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/df46c73e-54b8-4e60-bf2b-9820e4442a29/je/2000xxs.jpg",
+      "path": "images/img-68c58b7a252b.webp",
+      "media_type": "image/webp",
+      "bytes": 478026,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/7d79f3fe-79f6-4d15-8b3d-bd32f3387b21/je/2000xxs.jpg",
+      "path": "images/img-74c75270936b.webp",
+      "media_type": "image/webp",
+      "bytes": 307278,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/71ad2d9b-c720-488d-946a-97b0a97dfa27/je/2000xxs.jpg",
+      "path": "images/img-806d641ef72c.webp",
+      "media_type": "image/webp",
+      "bytes": 292176,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/3a266a0b-63a2-42bd-a79d-79139cc5625b/je/2000xxs.jpg",
+      "path": "images/img-c33a318ad5f9.webp",
+      "media_type": "image/webp",
+      "bytes": 250186,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/b1be5e7f-ced1-4570-b31f-2fa2849d0390/je/2000xxs.jpg",
+      "path": "images/img-14cbda7a2078.webp",
+      "media_type": "image/webp",
+      "bytes": 258398,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/e590cc76-256b-432e-a3ea-d66254a8c475/je/2000xxs.jpg",
+      "path": "images/img-1b8e13904caf.webp",
+      "media_type": "image/webp",
+      "bytes": 176400,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/40fc1c4b-b9af-49cd-8872-9e9a8faff96b/je/2000xxs.jpg",
+      "path": "images/img-c276fd6d8750.webp",
+      "media_type": "image/webp",
+      "bytes": 346932,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/5fb87bb3-ad49-47b2-ace1-40cb4cbab8d0/je/2000xxs.jpg",
+      "path": "images/img-6e80ad8fbdfc.webp",
+      "media_type": "image/webp",
+      "bytes": 312814,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/4770875b-0930-4896-8b6b-7a36f3d374f6/je/2000xxs.jpg",
+      "path": "images/img-e886f987cd93.webp",
+      "media_type": "image/webp",
+      "bytes": 168050,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/4d99fb23-a921-4966-9b27-3e083e42b60e/je/2000xxs.jpg",
+      "path": "images/img-2f0f6d7e666b.webp",
+      "media_type": "image/webp",
+      "bytes": 326564,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/2732a138-a574-4d62-8dbc-d9a0494f1d52/je/2000xxs.jpg",
+      "path": "images/img-8c579322bfcb.webp",
+      "media_type": "image/webp",
+      "bytes": 310096,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/fc237ad2-b2fe-476f-9719-e3662e89eab2/je/2000xxs.jpg",
+      "path": "images/img-8b632d2138ba.webp",
+      "media_type": "image/webp",
+      "bytes": 324068,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/2265dd7b-bd11-4d35-91f3-c3925e8fa8ce/je/2000xxs.jpg",
+      "path": "images/img-bdac9dc58d22.webp",
+      "media_type": "image/webp",
+      "bytes": 337346,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/aec8e208-8463-4ffd-9288-7fd9fba7b456/je/2000xxs.jpg",
+      "path": "images/img-72a10d9dbcc6.webp",
+      "media_type": "image/webp",
+      "bytes": 184286,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/792ec2f3-a551-456b-bd1f-aa6fef4f9114/je/2000xxs.jpg",
+      "path": "images/img-904b153daeb2.webp",
+      "media_type": "image/webp",
+      "bytes": 369542,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/ddb1f88e-af85-4e6f-9e5e-4b91e232ff22/je/2000xxs.jpg",
+      "path": "images/img-3e4781fad959.webp",
+      "media_type": "image/webp",
+      "bytes": 291694,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/29d9b49b-a114-4481-9cf4-cfcff95c90d9/je/2000xxs.jpg",
+      "path": "images/img-35758e0b968a.webp",
+      "media_type": "image/webp",
+      "bytes": 200276,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/70f2edb6-89a6-4af9-89b1-cd41995f99be/je/2000xxs.jpg",
+      "path": "images/img-a2e389b58b08.webp",
+      "media_type": "image/webp",
+      "bytes": 375472,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/868c2fe2-c856-437d-9261-3e38a9f128ab/je/2000xxs.jpg",
+      "path": "images/img-1d6aeb40d9d0.webp",
+      "media_type": "image/webp",
+      "bytes": 315368,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/15feeb87-340a-4d3b-866e-fb18ba3ae204/je/2000xxs.jpg",
+      "path": "images/img-048183bd611f.webp",
+      "media_type": "image/webp",
+      "bytes": 468208,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/8631feb7-57b2-4bee-b3b3-781beb4d2640/je/2000xxs.jpg",
+      "path": "images/img-15db326b6544.webp",
+      "media_type": "image/webp",
+      "bytes": 350528,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/40ed741a-938c-4e22-9b2b-cef8f6f645fe/je/2000xxs.jpg",
+      "path": "images/img-85dc39a422ec.webp",
+      "media_type": "image/webp",
+      "bytes": 400976,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/b81ee8a4-584c-49a2-a420-32a7ff632243/je/2000xxs.jpg",
+      "path": "images/img-cbcc7ec8d8d6.webp",
+      "media_type": "image/webp",
+      "bytes": 586644,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/ae320e95-2d56-4306-85c3-6109bcad4a7e/je/2000xxs.jpg",
+      "path": "images/img-e2a2fd0eab79.webp",
+      "media_type": "image/webp",
+      "bytes": 557770,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/dcf5a67f-1085-48ea-8376-be6686467afd/je/2000xxs.jpg",
+      "path": "images/img-ad4b0e036a49.webp",
+      "media_type": "image/webp",
+      "bytes": 533568,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/b5e99960-4bd1-45a6-b94b-cafcf4a1c234/je/2000xxs.jpg",
+      "path": "images/img-23511e28edd1.webp",
+      "media_type": "image/webp",
+      "bytes": 204786,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/4045c043-d6b4-4390-8e5d-84f5d6fe9d1d/je/2000xxs.jpg",
+      "path": "images/img-d874dfa4ac01.webp",
+      "media_type": "image/webp",
+      "bytes": 203778,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/cfb74015-0fe5-4856-9d7f-75978a598ca4/je/2000xxs.jpg",
+      "path": "images/img-ff9833e99f90.webp",
+      "media_type": "image/webp",
+      "bytes": 263014,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/25/17/19/01/df2ccd0b-ace1-460e-87db-594e7da3536e/je/2000xxs.jpg",
+      "path": "images/img-046ea1b5ba38.webp",
+      "media_type": "image/webp",
+      "bytes": 901756,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/873d3c83-feb8-4d79-8096-2e7e4f08438d/je/2000xxs.jpg",
+      "path": "images/img-84ac55fe7314.webp",
+      "media_type": "image/webp",
+      "bytes": 857702,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/dc64ffad-aaa9-4bbd-8ab7-7a8a785584b6/je/2000xxs.jpg",
+      "path": "images/img-c6902e84acdb.webp",
+      "media_type": "image/webp",
+      "bytes": 320714,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/9439c198-b726-4365-b1ec-32f9742adfe4/je/2000xxs.jpg",
+      "path": "images/img-9a13a492fbc6.webp",
+      "media_type": "image/webp",
+      "bytes": 571956,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/9e25d332-9419-41b9-acba-428214df20e0/je/2000xxs.jpg",
+      "path": "images/img-f00d8af3a68b.webp",
+      "media_type": "image/webp",
+      "bytes": 771756,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/12/19/12/11/34/8c24a947-1a41-4ae6-a95e-bb73085a6422/je/2000xxs.jpg",
+      "path": "images/img-d436cd537691.webp",
+      "media_type": "image/webp",
+      "bytes": 604938,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2200xxsxm%2853%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2200xxsxm%2852%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2200xxsxm%2851%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 67,
+    "images_existing": 0,
+    "images_failed": 20,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

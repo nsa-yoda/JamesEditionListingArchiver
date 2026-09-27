@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/almancil-portugal/the-most-exclusive-private-estate-in-the-golden-triangle-almancil-17815850",
+    "canonical_url": "https://www.jamesedition.com/real_estate/almancil-portugal/the-most-exclusive-private-estate-in-the-golden-triangle-almancil-17815850",
+    "site": "jamesedition",
+    "listing_id": "17815850",
+    "listing_reference": "0105",
+    "first_listed": "May 1",
+    "last_updated": "May 20",
+    "retrieved_at": "2026-06-16T03:43:39.410485Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5997,
+      "sha256": "78b78471f566b7a5191aa261af03703e5eafa1095c451df65b974f7f727acf7b"
+    },
+    {
+      "path": "images/004-167979c6.webp",
+      "bytes": 502470,
+      "sha256": "b671ce639a18e601e82a8ca620f9ee7196aa68858b394e0126b3bb9b381b1355"
+    },
+    {
+      "path": "images/009-6e623540.webp",
+      "bytes": 250542,
+      "sha256": "4c39f8d09ca39d4ddd6c07b8f74f0eab04b01a7a8368ce5a0902848ca32e0550"
+    },
+    {
+      "path": "images/014-25f50543.webp",
+      "bytes": 300782,
+      "sha256": "a80401af605013d397e8da6e519dfeddda4b6a1a0b4145de2d91739d61339799"
+    },
+    {
+      "path": "images/019-3d8a3d13.webp",
+      "bytes": 454734,
+      "sha256": "5c2c5e029056287ec26775a7bc348d6a6ef8fb1b761b4b8c291cae535b55ffad"
+    },
+    {
+      "path": "images/024-06d04554.webp",
+      "bytes": 274618,
+      "sha256": "7efe7c2cb0649296a4256b73440c8531aece8621f800a418c5c28ca8a731fd77"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23748,
+      "sha256": "f6bc48f9f53f50fe2af66c8af43d508968aa7e845444e3d55d7c73e3cea28bd8"
+    },
+    {
+      "path": "source.html",
+      "bytes": 281366,
+      "sha256": "4f7e255bb67ba7642fea1668260f71966927d7fc5f898587cb353e735239406e"
+    },
+    {
+      "path": "source.url",
+      "bytes": 134,
+      "sha256": "b7c4e8f560b5f3f47b085cd52b9adff6feaed4b6ecae10b86e4184809362f904"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/2200xxs.jpg",
+      "path": "images/004-167979c6.webp",
+      "media_type": "image/webp",
+      "bytes": 502470,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/2200xxs.jpg",
+      "path": "images/009-6e623540.webp",
+      "media_type": "image/webp",
+      "bytes": 250542,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/2200xxs.jpg",
+      "path": "images/014-25f50543.webp",
+      "media_type": "image/webp",
+      "bytes": 300782,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/2200xxs.jpg",
+      "path": "images/019-3d8a3d13.webp",
+      "media_type": "image/webp",
+      "bytes": 454734,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/2200xxs.jpg",
+      "path": "images/024-06d04554.webp",
+      "media_type": "image/webp",
+      "bytes": 274618,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/single-family-home-house-park-city-united-states-16207035",
+    "canonical_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/single-family-home-house-park-city-united-states-16207035",
+    "site": "jamesedition",
+    "listing_id": "16207035",
+    "listing_reference": "ParkCity12504165",
+    "first_listed": "Sep 19, 2025",
+    "last_updated": "May 1",
+    "retrieved_at": "2026-06-16T03:43:36.065085Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2408,
+      "sha256": "494096b203668a81428f3a833dd82f8251ddc3869619912e40b8a7faefd75dc6"
+    },
+    {
+      "path": "images/004-f89e8f2d.webp",
+      "bytes": 457324,
+      "sha256": "7e2db774b740480dc873ab6b221d1619a918903d712100bdae3a5b002cb8b2f8"
+    },
+    {
+      "path": "images/009-5c31f2fe.webp",
+      "bytes": 396540,
+      "sha256": "8f5ca2d5c2776dadfdeb38c79e9b5308799ec0680b2eefc13472c2181a8cc877"
+    },
+    {
+      "path": "images/014-ca02caf9.webp",
+      "bytes": 329072,
+      "sha256": "b65a670b3da97b8a6a60be03da69705ee0adc2d7b040d9ea83eb6fed2ee23225"
+    },
+    {
+      "path": "images/019-646aff70.webp",
+      "bytes": 305410,
+      "sha256": "7bcd6a18088d55730f008a74bb8afe5c934cbcc042b7c4660b8d5079ee323626"
+    },
+    {
+      "path": "images/024-9ff91239.webp",
+      "bytes": 271130,
+      "sha256": "51cfaf3c93a0b16a7b2029b53e29048ffe76c773befd996bab3fcfd0265aeb5a"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/034-5c84f1db.webp",
+      "bytes": 1026,
+      "sha256": "1f1d1677f4dc11e2c7c9d429658083201a3aaf32747fa56b6bbb7bcc206c7f00"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16517,
+      "sha256": "b5e4ff88b5ffc00ca26b662818b5758fc72c43db05acfac71703238d75e490f1"
+    },
+    {
+      "path": "source.html",
+      "bytes": 335543,
+      "sha256": "fb72f827549b248756f8bc6e220f05afd9261ebfaa6b1fe4becc68cbe5e51ca5"
+    },
+    {
+      "path": "source.url",
+      "bytes": 116,
+      "sha256": "06795575eae645f2fa60a785d23ec92e58ed6c21681fc21fe878d70c31551504"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/2200xxs.jpg",
+      "path": "images/004-f89e8f2d.webp",
+      "media_type": "image/webp",
+      "bytes": 457324,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/b784ecb7-357e-4bf0-8494-31bcf85d5772/je/2200xxs.jpg",
+      "path": "images/009-5c31f2fe.webp",
+      "media_type": "image/webp",
+      "bytes": 396540,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/29bcba62-a452-4b31-8d65-47864d2273eb/je/2200xxs.jpg",
+      "path": "images/014-ca02caf9.webp",
+      "media_type": "image/webp",
+      "bytes": 329072,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/9b8a6687-309e-4d56-be48-8a37fe7bf59a/je/2200xxs.jpg",
+      "path": "images/019-646aff70.webp",
+      "media_type": "image/webp",
+      "bytes": 305410,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/103dbecd-d420-4583-8868-67344c869308/je/2200xxs.jpg",
+      "path": "images/024-9ff91239.webp",
+      "media_type": "image/webp",
+      "bytes": 271130,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/11/25/10/31/19/6e7b1125-9a8d-4b81-92c7-8c40165ebd7f/je/80x80xc.jpg",
+      "path": "images/034-5c84f1db.webp",
+      "media_type": "image/webp",
+      "bytes": 1026,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,189 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/St. Helena/1535 Sage Canyon Road/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-01d016815ee3.webp",
+      "href": "img-01d016815ee3.webp",
+      "size": 314706
+    },
+    {
+      "name": "img-08ae040ecb3d.svg",
+      "href": "img-08ae040ecb3d.svg",
+      "size": 63710
+    },
+    {
+      "name": "img-08afb896f51d.webp",
+      "href": "img-08afb896f51d.webp",
+      "size": 180958
+    },
+    {
+      "name": "img-0f3d172e7a7c.webp",
+      "href": "img-0f3d172e7a7c.webp",
+      "size": 265374
+    },
+    {
+      "name": "img-194c24efc5ac.svg",
+      "href": "img-194c24efc5ac.svg",
+      "size": 63675
+    },
+    {
+      "name": "img-1abdb99f9ca7.webp",
+      "href": "img-1abdb99f9ca7.webp",
+      "size": 497956
+    },
+    {
+      "name": "img-253cd6b2f386.webp",
+      "href": "img-253cd6b2f386.webp",
+      "size": 218064
+    },
+    {
+      "name": "img-308f9b775a10.webp",
+      "href": "img-308f9b775a10.webp",
+      "size": 392752
+    },
+    {
+      "name": "img-37abe195a222.webp",
+      "href": "img-37abe195a222.webp",
+      "size": 395794
+    },
+    {
+      "name": "img-39507f83e512.webp",
+      "href": "img-39507f83e512.webp",
+      "size": 85276
+    },
+    {
+      "name": "img-3ce061825db5.webp",
+      "href": "img-3ce061825db5.webp",
+      "size": 163858
+    },
+    {
+      "name": "img-4038917b032f.webp",
+      "href": "img-4038917b032f.webp",
+      "size": 569334
+    },
+    {
+      "name": "img-4754eb601fb0.webp",
+      "href": "img-4754eb601fb0.webp",
+      "size": 467622
+    },
+    {
+      "name": "img-4f6d5e142605.webp",
+      "href": "img-4f6d5e142605.webp",
+      "size": 160550
+    },
+    {
+      "name": "img-57242b8ef18d.webp",
+      "href": "img-57242b8ef18d.webp",
+      "size": 1004
+    },
+    {
+      "name": "img-6598e53f6685.webp",
+      "href": "img-6598e53f6685.webp",
+      "size": 242822
+    },
+    {
+      "name": "img-66c3787dcd19.webp",
+      "href": "img-66c3787dcd19.webp",
+      "size": 119504
+    },
+    {
+      "name": "img-6957af9e93bc.webp",
+      "href": "img-6957af9e93bc.webp",
+      "size": 421754
+    },
+    {
+      "name": "img-7d68fdf7e0f2.webp",
+      "href": "img-7d68fdf7e0f2.webp",
+      "size": 151910
+    },
+    {
+      "name": "img-84a7e314910b.webp",
+      "href": "img-84a7e314910b.webp",
+      "size": 364892
+    },
+    {
+      "name": "img-85d928de6483.webp",
+      "href": "img-85d928de6483.webp",
+      "size": 265376
+    },
+    {
+      "name": "img-9db727e26733.webp",
+      "href": "img-9db727e26733.webp",
+      "size": 333324
+    },
+    {
+      "name": "img-a666bcac0234.webp",
+      "href": "img-a666bcac0234.webp",
+      "size": 7360
+    },
+    {
+      "name": "img-a7c150ce3a2f.webp",
+      "href": "img-a7c150ce3a2f.webp",
+      "size": 332148
+    },
+    {
+      "name": "img-ac2435f2547f.webp",
+      "href": "img-ac2435f2547f.webp",
+      "size": 419428
+    },
+    {
+      "name": "img-bd9ebedff72a.webp",
+      "href": "img-bd9ebedff72a.webp",
+      "size": 210790
+    },
+    {
+      "name": "img-c557f1e28001.webp",
+      "href": "img-c557f1e28001.webp",
+      "size": 288446
+    },
+    {
+      "name": "img-c65b7021b47f.webp",
+      "href": "img-c65b7021b47f.webp",
+      "size": 184394
+    },
+    {
+      "name": "img-ce2446d6c0cc.webp",
+      "href": "img-ce2446d6c0cc.webp",
+      "size": 84450
+    },
+    {
+      "name": "img-d039c539eea7.webp",
+      "href": "img-d039c539eea7.webp",
+      "size": 251008
+    },
+    {
+      "name": "img-dc11e0cd800b.webp",
+      "href": "img-dc11e0cd800b.webp",
+      "size": 489632
+    },
+    {
+      "name": "img-dc90c501bd51.svg",
+      "href": "img-dc90c501bd51.svg",
+      "size": 63657
+    },
+    {
+      "name": "img-de32c2253405.webp",
+      "href": "img-de32c2253405.webp",
+      "size": 274418
+    },
+    {
+      "name": "img-e93595b940de.webp",
+      "href": "img-e93595b940de.webp",
+      "size": 150566
+    },
+    {
+      "name": "img-f12b38516ca0.webp",
+      "href": "img-f12b38516ca0.webp",
+      "size": 170642
+    },
+    {
+      "name": "img-f96907889552.webp",
+      "href": "img-f96907889552.webp",
+      "size": 590000
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

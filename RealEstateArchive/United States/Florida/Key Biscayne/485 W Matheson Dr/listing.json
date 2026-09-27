@@ -1,0 +1,878 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5-bedrooms-single-family-detached-17843171",
+    "canonical_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5-bedrooms-single-family-detached-17843171",
+    "site": "jamesedition",
+    "listing_id": "17843171",
+    "listing_reference": "4w3ryw",
+    "first_listed": "May 5",
+    "last_updated": "May 6",
+    "retrieved_at": "2026-06-19T08:17:55.271981Z"
+  },
+  "location": {
+    "address": "485 W Matheson Dr, Key Biscayne, FL 33149, Florida, United States",
+    "street": "485 W Matheson Dr",
+    "municipality": "Key Biscayne",
+    "region": "Florida",
+    "postal_code": "33149",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=25.6917951,-80.1742109",
+    "latitude": 25.6917951,
+    "longitude": -80.1742109
+  },
+  "property": {
+    "title": "5 Bedrooms Single Family Detached",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 237000000,
+      "currency": "USD",
+      "display": "$237,000,000"
+    },
+    "price_per_area": {
+      "amount": 20558,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$20,558"
+    },
+    "bedrooms": 5,
+    "bathrooms": 9,
+    "interior_area": {
+      "value": 11528,
+      "unit": "sqft",
+      "display": "11,528 Sqft"
+    },
+    "year_built": 1981,
+    "photo_count": 82,
+    "video_url": "https://player.vimeo.com/video/1189064799?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
+    "description": "485 W Matheson Drive is one of America’s most iconic waterfront estates, representing a rare convergence of presidential history, cinematic legacy, and unparalleled waterfront scale. Set on approximately 2.38 acres with an extraordinary 862’ of direct Biscayne Bay frontage, the property captures sweeping, unobstructed views of the Miami skyline and open bay, offering a level of presence and exclusivity rarely found in South Florida. Once the ”Winter White House” of, the estate also achieved cinematic fame as the Frank Lopez residence in Scarface, with original architectural elements still preserved, including the iconic glass elevator. Offers 5BR + gym (can be converted to 6th BR) 7+2BA, and approximately 13,500 SF (per owner) across three levels, featuring soaring 24’+ ceilings, marble floors, and walls of glass framing breathtaking bay views. Expansive living, dining, and kitchen areas open to large terraces, creating seamless indoor-outdoor living ideal for both everyday comfort and grand-scale entertaining. Resort-style grounds include a piano-shaped saltwater pool, cabana bath, lush tropical landscaping, and expansive lawn areas with artfully integrated lighting extending the estate’s experience well beyond sunset. A private marina, formerly a presidential helipad-features rare 3-phase power and dockage for yachts up to 200’, plus over 34,000 SF of submerged land, making this one of Miami’s most significant and irreplaceable waterfront holdings in the world.",
+    "features": [
+      "Air Conditioning",
+      "Elevator",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Helipad",
+      "Pool",
+      "Terrace",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Jill Eber",
+    "agency": "Coldwell Banker Realty - Miami Beach",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/coldwell-banker-realty-miami-beach-111984",
+    "agency_address": "1682 Jefferson Ave Ste 103, 33139, Miami Beach, Florida, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2200xxs.jpg",
+      "file": "img-64d5aa2edf7d.webp",
+      "media_type": "image/webp",
+      "bytes": 141554,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2200xxs.jpg",
+      "file": "img-9172f15e0f22.webp",
+      "media_type": "image/webp",
+      "bytes": 153892,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2200xxs.jpg",
+      "file": "img-0bc015f521c0.webp",
+      "media_type": "image/webp",
+      "bytes": 132006,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2200xxs.jpg",
+      "file": "img-fb68a7d543b0.webp",
+      "media_type": "image/webp",
+      "bytes": 179784,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2200xxs.jpg",
+      "file": "img-be44923b459e.webp",
+      "media_type": "image/webp",
+      "bytes": 133412,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e08db11c-e176-4fe8-9179-6464c375a721/je/2000xxs.jpg",
+      "file": "img-043bcb600e4e.webp",
+      "media_type": "image/webp",
+      "bytes": 154260,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2bb2ee4b-d3f7-48da-b43d-9a398d13c1ab/je/2000xxs.jpg",
+      "file": "img-65c25101c7df.webp",
+      "media_type": "image/webp",
+      "bytes": 71802,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8aaa6c29-6610-45db-b496-252fa943e1ce/je/2000xxs.jpg",
+      "file": "img-05ba4bb5db5e.webp",
+      "media_type": "image/webp",
+      "bytes": 216366,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4866b423-6393-48b5-9e77-30b4e7bfe73c/je/2000xxs.jpg",
+      "file": "img-4d0198fe31d8.webp",
+      "media_type": "image/webp",
+      "bytes": 203834,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/33845d22-81ac-4e39-bcbe-8029942ade19/je/2000xxs.jpg",
+      "file": "img-6a17a91276b4.webp",
+      "media_type": "image/webp",
+      "bytes": 286374,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/79c06e91-22ee-4dc2-976e-8e65ed16b06f/je/2000xxs.jpg",
+      "file": "img-a7bf0f25678c.webp",
+      "media_type": "image/webp",
+      "bytes": 238416,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/87a07eac-a89d-41fa-8c61-b28b6d9152ce/je/2000xxs.jpg",
+      "file": "img-0ef256791294.webp",
+      "media_type": "image/webp",
+      "bytes": 212088,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/1af036a3-1188-46d9-8fd5-4baadb14c03a/je/2000xxs.jpg",
+      "file": "img-72ffa807918b.webp",
+      "media_type": "image/webp",
+      "bytes": 244356,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ffbd8f70-5658-4d9d-b077-4832e435401d/je/2000xxs.jpg",
+      "file": "img-0e72321c6e32.webp",
+      "media_type": "image/webp",
+      "bytes": 187116,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/24a707b7-978b-48d4-8b65-52bbac35343c/je/2000xxs.jpg",
+      "file": "img-77eb801e3645.webp",
+      "media_type": "image/webp",
+      "bytes": 219870,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/fe2d203e-9129-401a-ac47-acb56fa6c264/je/2000xxs.jpg",
+      "file": "img-9df8f1248e98.webp",
+      "media_type": "image/webp",
+      "bytes": 187614,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/910c086d-4e4e-46d7-9ec1-8109059a6539/je/2000xxs.jpg",
+      "file": "img-4c8e1ec295f8.webp",
+      "media_type": "image/webp",
+      "bytes": 230480,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d2f49ee1-239c-407b-bb53-f32213403f69/je/2000xxs.jpg",
+      "file": "img-134990d92e68.webp",
+      "media_type": "image/webp",
+      "bytes": 313298,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/81bf82ca-3f9d-4658-ab86-44068081d107/je/2000xxs.jpg",
+      "file": "img-bc36755ff707.webp",
+      "media_type": "image/webp",
+      "bytes": 192022,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8a3e9e9f-0bd0-4a52-a0ba-c2becef0bbfb/je/2000xxs.jpg",
+      "file": "img-78da09fac71a.webp",
+      "media_type": "image/webp",
+      "bytes": 267624,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2becc8c7-fec2-4cac-8768-f8ea7afe1a92/je/2000xxs.jpg",
+      "file": "img-8f1ff97c2423.webp",
+      "media_type": "image/webp",
+      "bytes": 257088,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4d34319b-c7d6-4186-bb40-c01117002c71/je/2000xxs.jpg",
+      "file": "img-2f1cd22b53c2.webp",
+      "media_type": "image/webp",
+      "bytes": 150308,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0a15ecf8-3598-4380-bbb5-f9687fa81af5/je/2000xxs.jpg",
+      "file": "img-ffced9cf916d.webp",
+      "media_type": "image/webp",
+      "bytes": 119028,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/52d5e1c3-f6f9-4668-933b-45da83da1a6b/je/2000xxs.jpg",
+      "file": "img-18c1f292025f.webp",
+      "media_type": "image/webp",
+      "bytes": 275046,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3b5f2bd0-b573-4a54-b665-0308577a90ab/je/2000xxs.jpg",
+      "file": "img-c4a7774abc1c.webp",
+      "media_type": "image/webp",
+      "bytes": 322620,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0c9e33aa-91af-43ea-8c26-f454e1f15519/je/2000xxs.jpg",
+      "file": "img-2a844d7d9ece.webp",
+      "media_type": "image/webp",
+      "bytes": 207204,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/1919390e-ffd9-4c33-baf1-31d7a1a16615/je/2000xxs.jpg",
+      "file": "img-eb3109a329d6.webp",
+      "media_type": "image/webp",
+      "bytes": 237964,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ef608ec3-15c1-4940-8eec-e39344179ce2/je/2000xxs.jpg",
+      "file": "img-9ba39e3b9a9e.webp",
+      "media_type": "image/webp",
+      "bytes": 209702,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d22937ab-7181-4892-8156-9ec3d5690f7d/je/2000xxs.jpg",
+      "file": "img-04dd1f440074.webp",
+      "media_type": "image/webp",
+      "bytes": 258128,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/01d40e81-0216-45d8-94fe-f7d2d00c5454/je/2000xxs.jpg",
+      "file": "img-964bfb9eda10.webp",
+      "media_type": "image/webp",
+      "bytes": 200446,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/687cf5cc-ebb6-4450-8874-a0feab5dfd37/je/2000xxs.jpg",
+      "file": "img-106487a8001d.webp",
+      "media_type": "image/webp",
+      "bytes": 196882,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/44997c6b-4ba1-4e50-84c1-5252753d922f/je/2000xxs.jpg",
+      "file": "img-0db2fa7c1c90.webp",
+      "media_type": "image/webp",
+      "bytes": 299258,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d110d1fd-be4a-4774-a897-4ee921fda8b7/je/2000xxs.jpg",
+      "file": "img-a20c221cdd6e.webp",
+      "media_type": "image/webp",
+      "bytes": 201032,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/9269dcbd-a384-459f-b75e-fa70b8a9e919/je/2000xxs.jpg",
+      "file": "img-b92108a4cb3a.webp",
+      "media_type": "image/webp",
+      "bytes": 269772,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/19c4572a-3146-40e7-beba-4c903ac6fc72/je/2000xxs.jpg",
+      "file": "img-d8c4e856d538.webp",
+      "media_type": "image/webp",
+      "bytes": 250510,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5c8d786d-7cc0-4850-8541-b6ec3192d5d6/je/2000xxs.jpg",
+      "file": "img-ef950e926ee0.webp",
+      "media_type": "image/webp",
+      "bytes": 320934,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/abfd5d9a-bff3-47e1-b2b7-f0bbbecef057/je/2000xxs.jpg",
+      "file": "img-62391d9ba297.webp",
+      "media_type": "image/webp",
+      "bytes": 118108,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0f482b6f-cb8f-42a5-8bf2-2fccfcd403bc/je/2000xxs.jpg",
+      "file": "img-693c4b824d36.webp",
+      "media_type": "image/webp",
+      "bytes": 136886,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dd5ba4e1-0302-4139-b103-123b45fab131/je/2000xxs.jpg",
+      "file": "img-4465d1a9a5dc.webp",
+      "media_type": "image/webp",
+      "bytes": 160460,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/92c041e0-0483-4770-a13f-678b50abcc5b/je/2000xxs.jpg",
+      "file": "img-9c90643f3dbb.webp",
+      "media_type": "image/webp",
+      "bytes": 173972,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ae24f922-2dd7-4c61-9f7d-eb7fe2fffb3a/je/2000xxs.jpg",
+      "file": "img-fdb880b48ade.webp",
+      "media_type": "image/webp",
+      "bytes": 112722,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ccc34f8e-75b2-4caa-ade9-86b5afd0b8cb/je/2000xxs.jpg",
+      "file": "img-523fde90d7b2.webp",
+      "media_type": "image/webp",
+      "bytes": 170200,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2aa9ee4b-da09-49b1-9b06-b37381560cde/je/2000xxs.jpg",
+      "file": "img-945f7b7d8ff5.webp",
+      "media_type": "image/webp",
+      "bytes": 139180,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e4308aee-4d64-4458-971c-89b10efdaa48/je/2000xxs.jpg",
+      "file": "img-94a2a52b31bf.webp",
+      "media_type": "image/webp",
+      "bytes": 197444,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/41216afe-3cb5-409a-9edf-d2ec489826ae/je/2000xxs.jpg",
+      "file": "img-28fc1853a183.webp",
+      "media_type": "image/webp",
+      "bytes": 403390,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/37f58a86-569a-4e21-a480-8cc865f09d86/je/2000xxs.jpg",
+      "file": "img-1526001a836c.webp",
+      "media_type": "image/webp",
+      "bytes": 364054,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/886da4cd-c463-4884-9d6e-be23909b4b49/je/2000xxs.jpg",
+      "file": "img-c7320b1414fa.webp",
+      "media_type": "image/webp",
+      "bytes": 375916,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/17e8e18f-d6a0-4798-bcd6-1e07735326e3/je/2000xxs.jpg",
+      "file": "img-0233ddcb8fa6.webp",
+      "media_type": "image/webp",
+      "bytes": 356036,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/240863e2-88b8-4550-9964-17723dc4f57a/je/2000xxs.jpg",
+      "file": "img-2397ae30fa2c.webp",
+      "media_type": "image/webp",
+      "bytes": 171990,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/79b337e7-72ed-4c01-9217-cb9f20fb3355/je/2000xxs.jpg",
+      "file": "img-76ad43913ee8.webp",
+      "media_type": "image/webp",
+      "bytes": 113924,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5116d673-bb26-4b6c-815a-3278c2671e8f/je/2000xxs.jpg",
+      "file": "img-ac4c62cc385e.webp",
+      "media_type": "image/webp",
+      "bytes": 123800,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/97b54554-193b-4adf-b45c-aa7799b1cf5a/je/2000xxs.jpg",
+      "file": "img-078c42bb1721.webp",
+      "media_type": "image/webp",
+      "bytes": 141526,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/9f8ab973-d001-47b7-a8c3-e402544f9d0e/je/2000xxs.jpg",
+      "file": "img-9b9dc2e947cb.webp",
+      "media_type": "image/webp",
+      "bytes": 137906,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/bea51157-4378-4650-9aa3-ace45f14fa76/je/2000xxs.jpg",
+      "file": "img-0d00784418ca.webp",
+      "media_type": "image/webp",
+      "bytes": 252688,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e608c178-4f79-47a3-b8fc-a7fd7ce0a4c8/je/2000xxs.jpg",
+      "file": "img-ea88a1b601e1.webp",
+      "media_type": "image/webp",
+      "bytes": 157424,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3dc59ec8-2646-405d-ab40-91616ab29ddc/je/2000xxs.jpg",
+      "file": "img-ea3665e6f2f2.webp",
+      "media_type": "image/webp",
+      "bytes": 178134,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/b48178bc-e251-4857-9e90-81f7ca46f3a3/je/2000xxs.jpg",
+      "file": "img-776a96ca6eef.webp",
+      "media_type": "image/webp",
+      "bytes": 156106,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/199fa9fa-94ad-43e3-92b3-e8da8be7759f/je/2000xxs.jpg",
+      "file": "img-dbf00b645215.webp",
+      "media_type": "image/webp",
+      "bytes": 186962,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/956ff09a-fefb-45b9-b38f-9871bfbc1bef/je/2000xxs.jpg",
+      "file": "img-d5dce4dc5e6a.webp",
+      "media_type": "image/webp",
+      "bytes": 276190,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7d44904c-6c93-43d4-9994-b4c8c59ea4d5/je/2000xxs.jpg",
+      "file": "img-6813d2891bdf.webp",
+      "media_type": "image/webp",
+      "bytes": 162926,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/61a0cad3-6697-4a5b-aa67-8f7bc515a8bb/je/2000xxs.jpg",
+      "file": "img-6913269be1d0.webp",
+      "media_type": "image/webp",
+      "bytes": 143278,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/20aea0de-6ab3-4130-9d50-d82ee07c6d94/je/2000xxs.jpg",
+      "file": "img-d87aca3532f0.webp",
+      "media_type": "image/webp",
+      "bytes": 150230,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e0d6d7fa-8021-4d35-a1b3-5f6de0d175e8/je/2000xxs.jpg",
+      "file": "img-9fabd8b759f1.webp",
+      "media_type": "image/webp",
+      "bytes": 271028,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dae47ef0-6e50-4607-b97a-230214203ada/je/2000xxs.jpg",
+      "file": "img-e732e150bcd1.webp",
+      "media_type": "image/webp",
+      "bytes": 115472,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dcc8e109-0875-4483-89a8-8d3745fa9909/je/2000xxs.jpg",
+      "file": "img-eac19d2d3227.webp",
+      "media_type": "image/webp",
+      "bytes": 141480,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/038e0094-21c3-4222-a525-6b4a36e30190/je/2000xxs.jpg",
+      "file": "img-c44ef272dca5.webp",
+      "media_type": "image/webp",
+      "bytes": 315648,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ce5bb44f-8a0c-4a15-a246-2cd95e25a723/je/2000xxs.jpg",
+      "file": "img-4073c693bde7.webp",
+      "media_type": "image/webp",
+      "bytes": 276448,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/015d64c7-6026-42a9-8857-10a399e686da/je/2000xxs.jpg",
+      "file": "img-763cf71a888b.webp",
+      "media_type": "image/webp",
+      "bytes": 313216,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/47e7ab71-140f-42ed-8081-427d048a2940/je/2000xxs.jpg",
+      "file": "img-5546320aaa5a.webp",
+      "media_type": "image/webp",
+      "bytes": 339220,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/20449147-c7e9-4463-8cf4-2dd7a6c68a49/je/2000xxs.jpg",
+      "file": "img-7c3f9742ef53.webp",
+      "media_type": "image/webp",
+      "bytes": 192474,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/a6b0de44-372a-4b9e-b768-1836a1e5a424/je/2000xxs.jpg",
+      "file": "img-b047a7a8565e.webp",
+      "media_type": "image/webp",
+      "bytes": 123336,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/cb3c6147-6209-4e9c-a2b9-493291e83ae5/je/2000xxs.jpg",
+      "file": "img-8e235ef71452.webp",
+      "media_type": "image/webp",
+      "bytes": 170784,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2ca4e41a-5f66-476e-baba-da3dd2e14725/je/2000xxs.jpg",
+      "file": "img-81275322ce3d.webp",
+      "media_type": "image/webp",
+      "bytes": 170146,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ee6bfe9d-ca4c-4260-8c3c-a2b284dc6990/je/2000xxs.jpg",
+      "file": "img-e40b1c629502.webp",
+      "media_type": "image/webp",
+      "bytes": 128506,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/cd895de0-e6c4-49f7-8bcf-62aec132222b/je/2000xxs.jpg",
+      "file": "img-e9f99c927898.webp",
+      "media_type": "image/webp",
+      "bytes": 148118,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ed778872-1b27-4a50-bbb2-0e65ebf509fc/je/2000xxs.jpg",
+      "file": "img-cc2e88060631.webp",
+      "media_type": "image/webp",
+      "bytes": 176034,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4adf556f-4615-47f1-88af-e95ba3939713/je/2000xxs.jpg",
+      "file": "img-4ef3a395cf6b.webp",
+      "media_type": "image/webp",
+      "bytes": 273630,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/34514dc3-a1b2-418d-8423-203abda07303/je/2000xxs.jpg",
+      "file": "img-e08be91929c8.webp",
+      "media_type": "image/webp",
+      "bytes": 136098,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8bb4c1e4-56eb-4bd4-aebd-3359271f7f37/je/2000xxs.jpg",
+      "file": "img-0757163e06f0.webp",
+      "media_type": "image/webp",
+      "bytes": 137610,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7a13459e-bb24-47d8-ae01-9499cd9f593b/je/2000xxs.jpg",
+      "file": "img-afb1c3d99fd4.webp",
+      "media_type": "image/webp",
+      "bytes": 103302,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5d213906-2ac7-4cfd-9fdf-9d6411ac181b/je/2000xxs.jpg",
+      "file": "img-e09e0f25822c.webp",
+      "media_type": "image/webp",
+      "bytes": 101270,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/57be8894-e982-4442-a27d-66395c3b3149/je/2000xxs.jpg",
+      "file": "img-65fdbc97c424.webp",
+      "media_type": "image/webp",
+      "bytes": 112262,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/2200xxs%2881%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "status": "failed",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg",
+      "poster_file": "img-53d32165933a.webp",
+      "error": "HTTP 401 Unauthorized"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/fl-united-states",
+              "name": "Florida"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa",
+              "name": "Key Biscayne"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5-bedrooms-single-family-detached-17843171",
+              "name": "5 Bedrooms Single Family Detached"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "485 W Matheson Drive is one of America's most iconic waterfront estates, representing a rare convergence of presidential history, cinematic legacy, and unparalleled waterfront scale. Set on approximately 2.38 acres with an extraordinary 862' of direct Biscayne Bay frontage, the property captures sweeping, unobstructed views of the Miami skyline and open bay, offering a level of presence and exclusivity rarely found in South Florida. Once the 'Winter White House' of, the estate also achieved cinematic fame as the Frank Lopez residence in Scarface, with original architectural elements still preserved, including the iconic glass elevator. Offers 5BR + gym (can be converted to 6th BR) 7+2BA, and approximately 13,500 SF (per owner) across three levels, featuring soaring 24'+ ceilings, marble floors, and walls of glass framing breathtaking bay views. Expansive living, dining, and kitchen areas open to large terraces, creating seamless indoor-outdoor living ideal for both everyday comfort and grand-scale entertaining. Resort-style grounds include a piano-shaped saltwater pool, cabana bath, lush tropical landscaping, and expansive lawn areas with artfully integrated lighting extending the estate's experience well beyond sunset. A private marina, formerly a presidential helipad-features rare 3-phase power and dockage for yachts up to 200', plus over 34,000 SF of submerged land, making this one of Miami's most significant and irreplaceable waterfront holdings in the world.",
+        "image": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg",
+        "name": "5 Bedrooms Single Family Detached",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 237000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Coldwell Banker Realty - Miami Beach"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5-bedrooms-single-family-detached-17843171"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/2200xxs%2881%29.jpg: HTTP 403 Forbidden",
+    "video https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: HTTP 401 Unauthorized"
+  ]
+}

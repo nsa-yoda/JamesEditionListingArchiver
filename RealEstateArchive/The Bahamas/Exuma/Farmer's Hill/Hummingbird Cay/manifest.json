@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/hummingbird-cay-a-private-island-sanctuary-in-the-exumas-mls-63652-16009246",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/hummingbird-cay-a-private-island-sanctuary-in-the-exumas-mls-63652-16009246",
+    "site": "jamesedition",
+    "listing_id": "16009246",
+    "listing_reference": "XS11730",
+    "first_listed": "Aug 3, 2025",
+    "last_updated": "December 19, 2025",
+    "retrieved_at": "2026-06-16T03:43:27.244518Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3899,
+      "sha256": "71fe98edc26d1264a1901f6c2ed9e741ba9d8597a0eeb6dc196c375de2e162e2"
+    },
+    {
+      "path": "images/004-db7fab46.webp",
+      "bytes": 273790,
+      "sha256": "a5a104d77644d51edfa6d1f8606f42b7edabc329056cff112919a3126e07c2d5"
+    },
+    {
+      "path": "images/009-e65fccdb.webp",
+      "bytes": 775612,
+      "sha256": "dee3831c9f1693aa0c74bd8c3814874dfade5eeca23607eb39d7b0d02ecd32c2"
+    },
+    {
+      "path": "images/014-5f768e68.webp",
+      "bytes": 123008,
+      "sha256": "b417dc11c4d6f5eeeb97efa37245fb380f3cf750c19190572f318054caafbe4d"
+    },
+    {
+      "path": "images/019-fb065b3a.webp",
+      "bytes": 587286,
+      "sha256": "36b6806f8459abb2a39ceee94bb5ea74902d6d1e98113264201499d4bc8fcaeb"
+    },
+    {
+      "path": "images/024-4839960e.webp",
+      "bytes": 870876,
+      "sha256": "845d35a52302820a5f6eeddb17c4ee46636c0380bb0ff393f98379c2568b3002"
+    },
+    {
+      "path": "images/034-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/035-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/036-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/037-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/038-0e9e415b.webp",
+      "bytes": 1092,
+      "sha256": "7cf9b425efc49d2abce58369ad9e6fd78f0be405aec174e88105788100ac42c1"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17997,
+      "sha256": "967ec5c09a818bf78c3990ee6305684b4c1268795e26b108ca15c43840780046"
+    },
+    {
+      "path": "source.html",
+      "bytes": 333723,
+      "sha256": "692bb02918bf0c0022056131d820abb24c440d2cb4741f4ea50f4569a72795ef"
+    },
+    {
+      "path": "source.url",
+      "bytes": 141,
+      "sha256": "fe9974ebfc32ea1e76bfc04b7c0aee3c25dc929256e4f7524100ae331dc1c008"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/06/15/05/03/70e9665d-1ed3-4af8-8414-4883f4e62242/je/2200xxs.jpg",
+      "path": "images/004-db7fab46.webp",
+      "media_type": "image/webp",
+      "bytes": 273790,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/06/15/05/03/e702907f-3d3c-457e-800e-5b0f6aa5d1a2/je/2200xxs.jpg",
+      "path": "images/009-e65fccdb.webp",
+      "media_type": "image/webp",
+      "bytes": 775612,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/06/15/05/03/87818a16-b152-48e9-9e85-b9e09c67b753/je/2200xxs.jpg",
+      "path": "images/014-5f768e68.webp",
+      "media_type": "image/webp",
+      "bytes": 123008,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/06/15/05/03/a802c228-bed6-473f-a088-a9420f2e7dc9/je/2200xxs.jpg",
+      "path": "images/019-fb065b3a.webp",
+      "media_type": "image/webp",
+      "bytes": 587286,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/06/15/05/03/67293787-8280-48ac-9260-4fa370239514/je/2200xxs.jpg",
+      "path": "images/024-4839960e.webp",
+      "media_type": "image/webp",
+      "bytes": 870876,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/Hummingbird%20Cay_%20A%20Private%20Island%20In%20Farmer%27s%20Hill,%20Exuma,%20The%20Bahamas%20For%20Sale%20%2816009246%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/034-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/035-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/036-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/037-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/08/26/15/45/41/3409aabc-9794-4532-9d25-36137585c137/je/80x80xc.jpg",
+      "path": "images/038-0e9e415b.webp",
+      "media_type": "image/webp",
+      "bytes": 1092,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 12,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

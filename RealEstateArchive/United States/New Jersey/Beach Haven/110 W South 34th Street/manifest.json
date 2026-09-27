@@ -1,0 +1,1225 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/single-family-residence-in-long-beach-twp-17041768",
+    "canonical_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/single-family-residence-in-long-beach-twp-17041768",
+    "site": "jamesedition",
+    "listing_id": "17041768",
+    "listing_reference": "22602612",
+    "first_listed": "Jan 30",
+    "last_updated": "June 15",
+    "retrieved_at": "2026-06-19T08:42:01.239294Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4868,
+      "sha256": "66f07393bfef63a2b993669cb368a7a56be8ae07cf9fca4913f71153c4b683dc"
+    },
+    {
+      "path": "images/img-069230844ae5.webp",
+      "bytes": 375090,
+      "sha256": "694b517f6b18cd1e4786d5e583968a9cc35782b5375b6fc0ecbba2e8e89bd0a6"
+    },
+    {
+      "path": "images/img-07746f9b2257.webp",
+      "bytes": 160398,
+      "sha256": "8fdda155437f9589ab84280282f0169d700f9f8a8ccbc9398ee1d634d0d1e7fc"
+    },
+    {
+      "path": "images/img-0f51d0d69510.webp",
+      "bytes": 82670,
+      "sha256": "394bee861498be47225078b185bebd3cc8825e8796d1eb021b774f95d73cb463"
+    },
+    {
+      "path": "images/img-260105d14e5c.webp",
+      "bytes": 241580,
+      "sha256": "1a042e521b30b7dc49fb9f104318cff746cf22b88cac8cfef5f03b72d23340b0"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-27320cdb4073.webp",
+      "bytes": 106566,
+      "sha256": "c38de5a65811523aa7af9cf6968c626a3532943215012956f71a252cc3f7f123"
+    },
+    {
+      "path": "images/img-2ead99589eb1.webp",
+      "bytes": 358188,
+      "sha256": "8928e9aed4aa7e084544618fc5eccc01c2829ecdd325a87e128ca121f5cf0344"
+    },
+    {
+      "path": "images/img-30501adc3b72.webp",
+      "bytes": 200300,
+      "sha256": "690da1c0f38357ed83a6c1549aa317bdddf5b3365307abe0c6e4c0d97abe98dc"
+    },
+    {
+      "path": "images/img-33cf3cc3d8e9.webp",
+      "bytes": 135498,
+      "sha256": "58c8bd43e9e0905691a0e977587e27412ce1046e34c805a6a43bae90d94bdb56"
+    },
+    {
+      "path": "images/img-3bff395ae8e7.webp",
+      "bytes": 138096,
+      "sha256": "e70d7e456725f1e3db93643bb68925169657ecf3bcec1cb30d1418e73f296ca9"
+    },
+    {
+      "path": "images/img-3e3b5168c4ce.webp",
+      "bytes": 122156,
+      "sha256": "251343737e1a13844dd52b1fd375b71d3348f901e292fedd74c0acb40274efd8"
+    },
+    {
+      "path": "images/img-3e46d7c6a60f.webp",
+      "bytes": 285934,
+      "sha256": "9e42af8666fc5eee8c9e55afeab253ad8c83e4035244c3d8099987069b08f67d"
+    },
+    {
+      "path": "images/img-3f06ff965b71.webp",
+      "bytes": 209642,
+      "sha256": "e3516458b4852c9e8d806f7ead873c2ee2a0fa8ec42f7819b7800a068d5fc51a"
+    },
+    {
+      "path": "images/img-3f0f5ad369b0.webp",
+      "bytes": 164856,
+      "sha256": "9c51704d8f070f3439dfe1a346d18866c4f23fb5141258512755afd1018c9a2e"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-41174f2bb3c4.webp",
+      "bytes": 123670,
+      "sha256": "5342bdf5c8e336fd9767d00ee412cff1f56392a45198073f657088d631556237"
+    },
+    {
+      "path": "images/img-420d4a57bfc5.webp",
+      "bytes": 132008,
+      "sha256": "c46feb0795ff64592bd4034e7d19d4284b4eda49c9204faa8935e8452da54da3"
+    },
+    {
+      "path": "images/img-45639317dda3.webp",
+      "bytes": 269650,
+      "sha256": "d55f6cc190773066a908634d6cec1f4304c738430eaa20776fe5be20b1657168"
+    },
+    {
+      "path": "images/img-460b32a758f9.webp",
+      "bytes": 307552,
+      "sha256": "e2ae57ab614ef5447c653a94e11e8af4e0894235ff93992c566299fd1d6be80f"
+    },
+    {
+      "path": "images/img-4c4f66e74d2e.webp",
+      "bytes": 86064,
+      "sha256": "483b4e61f4ccd1b6476064472f58cb72d8f2161ddf692a010a693c89fb01b983"
+    },
+    {
+      "path": "images/img-4d66afaef664.webp",
+      "bytes": 490336,
+      "sha256": "eab301d17f3d26bb79d0c5292cf82fc45bbf4ce379a6779b967a99f0907a4d14"
+    },
+    {
+      "path": "images/img-4f334d3ab034.webp",
+      "bytes": 152166,
+      "sha256": "bb4dff24052f9c5379b5551c48cbfe8a76a80765901e75858d303842b3359ae3"
+    },
+    {
+      "path": "images/img-4f453d7132f7.webp",
+      "bytes": 114408,
+      "sha256": "518c653f3b2640e3d236b9e6e4996abd9932d5aec3b7b967eed0342f4517637a"
+    },
+    {
+      "path": "images/img-52a5d21f88b1.webp",
+      "bytes": 135284,
+      "sha256": "75302637d5a1e9ced4630b1ce7bb173051d8ffac4440dfd45e26fd1262800a84"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5d73f0da1a51.webp",
+      "bytes": 97480,
+      "sha256": "167083a8268b164e3d2d034cfbe7cf564cf164554c8081d70e8da44b9ea36f50"
+    },
+    {
+      "path": "images/img-60d3f919bbc6.webp",
+      "bytes": 88608,
+      "sha256": "af858516c3ce535d8b45bedddb85c5ede33e0df4b0875922c821a276210afb8c"
+    },
+    {
+      "path": "images/img-63c18f4bd8a0.webp",
+      "bytes": 117046,
+      "sha256": "897d0dcde0a6bc58300bf5f2a260b0ef329e4e17a5b18ac61502c90bc4ab4b03"
+    },
+    {
+      "path": "images/img-647233ec76e2.webp",
+      "bytes": 214110,
+      "sha256": "10629f41829b06df2db89fc8b9faff3e9310ec81d0628383b4d4ef483d8736fe"
+    },
+    {
+      "path": "images/img-6c78db405942.webp",
+      "bytes": 179010,
+      "sha256": "17c7bf6c084f7f44a3b49375b1ead01ac57fdff378bcbac002275e0cf1963841"
+    },
+    {
+      "path": "images/img-6f45cfc02d6e.webp",
+      "bytes": 188906,
+      "sha256": "cebd8995a4e1050edf2b0b35541c5e47caff6b20e4738b48e80f1140d7e8c2ee"
+    },
+    {
+      "path": "images/img-6f9b72121bf1.webp",
+      "bytes": 63864,
+      "sha256": "c918c83283edb00dca7b86909cbacf203fc0eda6b1ca7dd8f0a7e8b50d40689e"
+    },
+    {
+      "path": "images/img-7121c9d6f634.webp",
+      "bytes": 116526,
+      "sha256": "1bcb464eb7a6559094fe19df9422912dd18f7880f114774e8d7ff7c542bc2221"
+    },
+    {
+      "path": "images/img-74bbb2796a83.webp",
+      "bytes": 149052,
+      "sha256": "076e072979d411ec1353bbd62a5c41ea267e32f13f7f0bc36c72f37c94292b89"
+    },
+    {
+      "path": "images/img-769ece90d888.webp",
+      "bytes": 106400,
+      "sha256": "88dfa48042b736454228fdfbb7a141e4a965e57af47b513ba4b2eb9c919b05f5"
+    },
+    {
+      "path": "images/img-78f764f88c28.webp",
+      "bytes": 162030,
+      "sha256": "a220d968ff9e455eb6e5579f7e2c6e66ccb330311d38dedcfe014d63eb5bee08"
+    },
+    {
+      "path": "images/img-7b13fe62a0db.webp",
+      "bytes": 95566,
+      "sha256": "1f3e1008aa57980461d4b686669a7c1e50c145a908ac0baa93b7024225d5cbd6"
+    },
+    {
+      "path": "images/img-816d7e5881e7.webp",
+      "bytes": 74982,
+      "sha256": "19505fb9b3575bfa6e160ccdcbc8fecdf516c8ca13900203abd967d0e3f0526f"
+    },
+    {
+      "path": "images/img-82694a1f8edb.webp",
+      "bytes": 189674,
+      "sha256": "fa7d24a126f3fd85d13560dc9013929ed60e6b079a814627ab6fb6f2359fee9f"
+    },
+    {
+      "path": "images/img-8529d25cf5d7.webp",
+      "bytes": 130296,
+      "sha256": "4501026e24214b93c4487f501c61dddc7c3b28f460d001d64137024cc9a733fa"
+    },
+    {
+      "path": "images/img-85b728d1c537.webp",
+      "bytes": 60050,
+      "sha256": "f132e858243f8c12f0a74ff57286bebbdc967cfcc9758bb6dcafcdf4204d9b4b"
+    },
+    {
+      "path": "images/img-886787b92b1f.webp",
+      "bytes": 312336,
+      "sha256": "99ea14e7bc72423fae11bfd9c8ba1f9c94283ac723ed4e6a1e44eb479771208f"
+    },
+    {
+      "path": "images/img-8e7f838dec70.webp",
+      "bytes": 152950,
+      "sha256": "dfd657e6556b6e7b6a57b5a41da4afb98a21ce1839944887c39ded99fedd1f81"
+    },
+    {
+      "path": "images/img-8ed5069dcbb3.webp",
+      "bytes": 325540,
+      "sha256": "cebade81d4e5b6deb6b4c13d00d3847b554ebd4de879e316e0a4f6f1dae6f905"
+    },
+    {
+      "path": "images/img-914c5b274e29.webp",
+      "bytes": 163758,
+      "sha256": "c9aa7f0343223422b321a75b2f1e2bbab5b5b105a11edcc45847069d40660059"
+    },
+    {
+      "path": "images/img-9283d5efd9a7.webp",
+      "bytes": 195554,
+      "sha256": "3ee52b05ffd803a3818d97f1376d141c6a4d42a5540cdca70789ec882ce26e6f"
+    },
+    {
+      "path": "images/img-94bea347ec43.webp",
+      "bytes": 365966,
+      "sha256": "9c48776791d4b0a3fb0f06a0281a2d6ff450b19e7038301a4bd91104773499cf"
+    },
+    {
+      "path": "images/img-9733c0112b53.webp",
+      "bytes": 128084,
+      "sha256": "2b6c6a2bbfe825068fe5f10b498f060fe08123ff5166a613245a674b2d7f46d6"
+    },
+    {
+      "path": "images/img-9765a6d3b22c.webp",
+      "bytes": 317640,
+      "sha256": "a023a386a3ed965fd79791b93a5d5be7b0049f92d3636533822aa4f4c4e39a66"
+    },
+    {
+      "path": "images/img-9a3154412793.webp",
+      "bytes": 49856,
+      "sha256": "0ead014a5dc7249f01b7cd6cfd90ed13a5191af9847f2c6926bd839a9d942e6e"
+    },
+    {
+      "path": "images/img-a42508490179.webp",
+      "bytes": 136792,
+      "sha256": "9eff20a38bb7aa932ff5e21bc77754f08ff9acc5c2a4a3a669e96314fda7a382"
+    },
+    {
+      "path": "images/img-a595bc9c91d4.webp",
+      "bytes": 199898,
+      "sha256": "ee413422f94758be3d0f9e56498b8f9d736d6bbf6e37162cad7d9f3423145854"
+    },
+    {
+      "path": "images/img-a8b845603aa1.webp",
+      "bytes": 108928,
+      "sha256": "f9f7af784b18d8e4690ffdcd01ced884d056577c7ae4bb171fde3ee07491855c"
+    },
+    {
+      "path": "images/img-ad127d8eed39.webp",
+      "bytes": 194716,
+      "sha256": "47a01eab2c15f3e48929f3ea9292a6c1c8602b54a6b9f969037c15f3755964f7"
+    },
+    {
+      "path": "images/img-ae46d9962496.webp",
+      "bytes": 193002,
+      "sha256": "8372dc321a6b3df8ff383aa851c776c0c29b83b4680bda353e620c137f00a8a4"
+    },
+    {
+      "path": "images/img-aece335450da.webp",
+      "bytes": 502356,
+      "sha256": "ffe0858a37d69fc35965814facb865be03de7a599dba4e3d0f45b3685d4e8e8c"
+    },
+    {
+      "path": "images/img-b1bc69638748.webp",
+      "bytes": 111944,
+      "sha256": "e0f746ceb90536b67772eff3002b5854aec5dcac4d4a2324a565f9f096c3809d"
+    },
+    {
+      "path": "images/img-bafe052aebaa.webp",
+      "bytes": 129826,
+      "sha256": "2b0ee71453ed9c7af9f0ecc037b0e5189bfee8f66c8ff33c103d5d0d08fb56ad"
+    },
+    {
+      "path": "images/img-bc4ae069c000.webp",
+      "bytes": 129316,
+      "sha256": "88a06c5534f292462951db62aa025b2a78cf34edbbd89cb0435b653e4e328198"
+    },
+    {
+      "path": "images/img-c24a8a60495c.webp",
+      "bytes": 73748,
+      "sha256": "7c0f29fda16fd6faaf42ec1a85a9a460e368751ccec14de9609497c0f55a6eaa"
+    },
+    {
+      "path": "images/img-c844156dcbbb.webp",
+      "bytes": 93522,
+      "sha256": "275735f51b49fef937f3270574785e36dfad32734d1eb932d17434aaef5c0cd7"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-cb5811950561.webp",
+      "bytes": 156218,
+      "sha256": "128c356446be68e229859f954b1c49b8c8b64d33d80dfdf2e269709dec60dce4"
+    },
+    {
+      "path": "images/img-cde8fb42bdcf.webp",
+      "bytes": 180282,
+      "sha256": "86e35ca60779e209afe05e704ac4bbf3a1404b96d25c3e848be599f5be5b5b0e"
+    },
+    {
+      "path": "images/img-ce5059211792.webp",
+      "bytes": 49552,
+      "sha256": "f4386670f4c1a924e5320c86329d0d389799304dcf48a71b228ce09ee9d33bcc"
+    },
+    {
+      "path": "images/img-d08b1e4d940d.webp",
+      "bytes": 105726,
+      "sha256": "12055c68bdae7b66ccb776d3b92a94184d19ae796bec2e29dba96456eb425c5a"
+    },
+    {
+      "path": "images/img-d2a0ea9bf817.webp",
+      "bytes": 184970,
+      "sha256": "fe52392b969069f924da98b381f5d426cc80f9592d92b701415b316caf56892c"
+    },
+    {
+      "path": "images/img-d7149a2532b2.webp",
+      "bytes": 125788,
+      "sha256": "7e440c448b4b05baf015afba0f7a6582fb21761ce56b1d671d33d5fea311f5d9"
+    },
+    {
+      "path": "images/img-d74d8b145238.webp",
+      "bytes": 131280,
+      "sha256": "f342caea521bef114265cf7ea41a6cbfbe31f3f9328df65c819a251a55dea6ee"
+    },
+    {
+      "path": "images/img-d79ea258bdb5.webp",
+      "bytes": 278504,
+      "sha256": "98fbca745c57f4be6b41adb076f3d981aaed010c1772df05fea8b8135eb12c60"
+    },
+    {
+      "path": "images/img-dc90f139aa72.webp",
+      "bytes": 171014,
+      "sha256": "d193296dad0bf88721e134628f42522a8f861b1f6cabd87453a59f6535aefbf9"
+    },
+    {
+      "path": "images/img-e0ade33de270.webp",
+      "bytes": 139282,
+      "sha256": "bf440860da82163f0552026bcc831b3b8c53e61a6be5b2dbb2730a7e75c75468"
+    },
+    {
+      "path": "images/img-e1dfa8b3cca0.webp",
+      "bytes": 272758,
+      "sha256": "6027020896384ac2ad813711a3173cf2ef9131a4569560e223d6d58ce70c2bea"
+    },
+    {
+      "path": "images/img-e9b077e0a49d.webp",
+      "bytes": 160078,
+      "sha256": "f7c2a6f9a3465618c3a23bf86de153ec41d48897e14c24e74544a00b3e26a692"
+    },
+    {
+      "path": "images/img-ea45de559296.webp",
+      "bytes": 30274,
+      "sha256": "82e16f54d6ed0f4d29adb9567d470472aafafc5adb3a6d8a30be6bc630776de6"
+    },
+    {
+      "path": "images/img-ec0706875812.webp",
+      "bytes": 116458,
+      "sha256": "95a31c902cc23fdd725c1107818011f44a1f4b6c12d09d6cc2bdb3a66e5c4903"
+    },
+    {
+      "path": "images/img-ecda1c31b964.webp",
+      "bytes": 181186,
+      "sha256": "1f7eb7f1a82c2a5e3d7d67e5f88f85b27cfcbb2cf91ac454881262b2e21a4093"
+    },
+    {
+      "path": "images/img-ee9e5dfab4ec.webp",
+      "bytes": 64696,
+      "sha256": "666f7dfdf28202851341b880f7b795dab0aa1d7eec122c6298949e5af258acde"
+    },
+    {
+      "path": "images/img-f2c602635597.webp",
+      "bytes": 68296,
+      "sha256": "99b19f64fe5028234bffd793d6d7cd60e83c2581b8d1988a6c2042db699841cc"
+    },
+    {
+      "path": "images/img-f9abea13f600.webp",
+      "bytes": 183820,
+      "sha256": "1f6f338438468660e0225958fadb0f9a5bb34e92191760cfeb3f44825ed05d2d"
+    },
+    {
+      "path": "images/img-ff758fc8b75c.webp",
+      "bytes": 194960,
+      "sha256": "60d769e4690fcf389cd370595e5955e5b9eb44f19d9327efab6676a01c2b58f9"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 48478,
+      "sha256": "f9547bea4823df908c581db7a7a6d0f5cbf6f071d6611fc015f0220b5d88fdcb"
+    },
+    {
+      "path": "source.html",
+      "bytes": 527386,
+      "sha256": "5ef2b4a483a6e70ba00bc843a9363a7e2a29d5bf00c09853e99e3915159d090b"
+    },
+    {
+      "path": "source.url",
+      "bytes": 114,
+      "sha256": "6964ba63ba7bd26b187a9c510af44c530300c7b7373414aff0823ed3ca377e80"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/2200xxs.jpg",
+      "path": "images/img-886787b92b1f.webp",
+      "media_type": "image/webp",
+      "bytes": 312336,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/2200xxs.jpg",
+      "path": "images/img-069230844ae5.webp",
+      "media_type": "image/webp",
+      "bytes": 375090,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/2200xxs.jpg",
+      "path": "images/img-4d66afaef664.webp",
+      "media_type": "image/webp",
+      "bytes": 490336,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/2200xxs.jpg",
+      "path": "images/img-2ead99589eb1.webp",
+      "media_type": "image/webp",
+      "bytes": 358188,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/2200xxs.jpg",
+      "path": "images/img-647233ec76e2.webp",
+      "media_type": "image/webp",
+      "bytes": 214110,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/M00000452.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%287%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%288%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%289%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e60dc67e-a47c-4336-ada0-01c1b0659c7a/je/2000xxs.jpg",
+      "path": "images/img-ff758fc8b75c.webp",
+      "media_type": "image/webp",
+      "bytes": 194960,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/cb676e27-9885-4010-9f04-63625ebbc5b5/je/2000xxs.jpg",
+      "path": "images/img-45639317dda3.webp",
+      "media_type": "image/webp",
+      "bytes": 269650,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e7f8dccd-b819-456d-8f80-45d55ef370b7/je/2000xxs.jpg",
+      "path": "images/img-3f06ff965b71.webp",
+      "media_type": "image/webp",
+      "bytes": 209642,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/bc756ec1-11c8-46a0-b8d4-eaf8ea210573/je/2000xxs.jpg",
+      "path": "images/img-3f0f5ad369b0.webp",
+      "media_type": "image/webp",
+      "bytes": 164856,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/02e28800-1bb9-4032-9dc8-3b5c0f19722b/je/2000xxs.jpg",
+      "path": "images/img-bc4ae069c000.webp",
+      "media_type": "image/webp",
+      "bytes": 129316,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/49c658f7-12fb-477d-a796-31f481440a33/je/2000xxs.jpg",
+      "path": "images/img-460b32a758f9.webp",
+      "media_type": "image/webp",
+      "bytes": 307552,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/829207cd-c63f-4838-ab22-87568c409a8a/je/2000xxs.jpg",
+      "path": "images/img-e1dfa8b3cca0.webp",
+      "media_type": "image/webp",
+      "bytes": 272758,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/53fdd9c5-c432-4649-ba3e-7060a7e249c6/je/2000xxs.jpg",
+      "path": "images/img-ae46d9962496.webp",
+      "media_type": "image/webp",
+      "bytes": 193002,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/a1a4fcf7-f893-4b59-a99c-80dcb03424ab/je/2000xxs.jpg",
+      "path": "images/img-d74d8b145238.webp",
+      "media_type": "image/webp",
+      "bytes": 131280,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/a36105ae-7557-469d-91c1-34acdc7f0ea8/je/2000xxs.jpg",
+      "path": "images/img-6c78db405942.webp",
+      "media_type": "image/webp",
+      "bytes": 179010,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/392a3158-6572-46ac-9e36-8ae557b52f19/je/2000xxs.jpg",
+      "path": "images/img-8ed5069dcbb3.webp",
+      "media_type": "image/webp",
+      "bytes": 325540,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/7b4af10b-8247-4c22-9de3-c5cf0b11e3ca/je/2000xxs.jpg",
+      "path": "images/img-d08b1e4d940d.webp",
+      "media_type": "image/webp",
+      "bytes": 105726,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/944118b4-4fc6-4a1a-a7e8-49c70034df0a/je/2000xxs.jpg",
+      "path": "images/img-9765a6d3b22c.webp",
+      "media_type": "image/webp",
+      "bytes": 317640,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/cd611ab4-2e52-474e-be30-bde28dc53fe2/je/2000xxs.jpg",
+      "path": "images/img-41174f2bb3c4.webp",
+      "media_type": "image/webp",
+      "bytes": 123670,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8fa6aafc-9aef-4fb5-948b-719818a252cb/je/2000xxs.jpg",
+      "path": "images/img-d7149a2532b2.webp",
+      "media_type": "image/webp",
+      "bytes": 125788,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/6b7dfda4-fe69-49d3-9df2-b4e7a902f629/je/2000xxs.jpg",
+      "path": "images/img-cde8fb42bdcf.webp",
+      "media_type": "image/webp",
+      "bytes": 180282,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/2f1ae74c-d3d8-44e1-a29b-eb08e986f488/je/2000xxs.jpg",
+      "path": "images/img-82694a1f8edb.webp",
+      "media_type": "image/webp",
+      "bytes": 189674,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8bc41e2f-c7e2-41f2-ab29-104aca270482/je/2000xxs.jpg",
+      "path": "images/img-6f45cfc02d6e.webp",
+      "media_type": "image/webp",
+      "bytes": 188906,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/19b9f2eb-cb45-4138-b867-47adff31bffc/je/2000xxs.jpg",
+      "path": "images/img-ad127d8eed39.webp",
+      "media_type": "image/webp",
+      "bytes": 194716,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/0a79a6b2-121a-4982-8115-008cf3f0fb27/je/2000xxs.jpg",
+      "path": "images/img-30501adc3b72.webp",
+      "media_type": "image/webp",
+      "bytes": 200300,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/701de9e6-1c85-4e77-99e7-6669462639cf/je/2000xxs.jpg",
+      "path": "images/img-5d73f0da1a51.webp",
+      "media_type": "image/webp",
+      "bytes": 97480,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/cb335640-87e6-46dd-a703-5c22478f747a/je/2000xxs.jpg",
+      "path": "images/img-f2c602635597.webp",
+      "media_type": "image/webp",
+      "bytes": 68296,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/ce4e0ac5-8fc3-42a9-91db-74e8595f36d4/je/2000xxs.jpg",
+      "path": "images/img-cb5811950561.webp",
+      "media_type": "image/webp",
+      "bytes": 156218,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/83b5f914-f5e7-4fab-be6e-88310c3e0dba/je/2000xxs.jpg",
+      "path": "images/img-07746f9b2257.webp",
+      "media_type": "image/webp",
+      "bytes": 160398,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/395c5851-9136-4a64-bfb4-7a13152d7369/je/2000xxs.jpg",
+      "path": "images/img-c844156dcbbb.webp",
+      "media_type": "image/webp",
+      "bytes": 93522,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/f7abbb63-431a-4005-96c1-14d44e28813e/je/2000xxs.jpg",
+      "path": "images/img-3e3b5168c4ce.webp",
+      "media_type": "image/webp",
+      "bytes": 122156,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/961813f1-e70e-4a4d-9697-58d67d9d9db0/je/2000xxs.jpg",
+      "path": "images/img-7b13fe62a0db.webp",
+      "media_type": "image/webp",
+      "bytes": 95566,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/1fcdca0b-fe74-4e12-bcfa-13902f1b97dc/je/2000xxs.jpg",
+      "path": "images/img-74bbb2796a83.webp",
+      "media_type": "image/webp",
+      "bytes": 149052,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/69624465-9bcf-4604-b969-a83c533e9f40/je/2000xxs.jpg",
+      "path": "images/img-ce5059211792.webp",
+      "media_type": "image/webp",
+      "bytes": 49552,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8c1d7c0e-0daa-485d-b62b-b7b6bdc1cb4d/je/2000xxs.jpg",
+      "path": "images/img-260105d14e5c.webp",
+      "media_type": "image/webp",
+      "bytes": 241580,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/5e662844-9e3b-41f2-a6bd-e807d7f9b398/je/2000xxs.jpg",
+      "path": "images/img-e0ade33de270.webp",
+      "media_type": "image/webp",
+      "bytes": 139282,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e3cd5901-ca60-4823-835b-ee3db81aad5f/je/2000xxs.jpg",
+      "path": "images/img-33cf3cc3d8e9.webp",
+      "media_type": "image/webp",
+      "bytes": 135498,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/ef0627ee-b141-48ac-8307-3cf15513bc74/je/2000xxs.jpg",
+      "path": "images/img-914c5b274e29.webp",
+      "media_type": "image/webp",
+      "bytes": 163758,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/07e9d337-d0ca-4eea-a8e6-e24aa6920f6a/je/2000xxs.jpg",
+      "path": "images/img-dc90f139aa72.webp",
+      "media_type": "image/webp",
+      "bytes": 171014,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8b9a66e9-9ed9-4dec-952f-0eb3663242ff/je/2000xxs.jpg",
+      "path": "images/img-8e7f838dec70.webp",
+      "media_type": "image/webp",
+      "bytes": 152950,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/badcf43c-aa63-4c8d-83f4-1d379b009acd/je/2000xxs.jpg",
+      "path": "images/img-3e46d7c6a60f.webp",
+      "media_type": "image/webp",
+      "bytes": 285934,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/5a1ce747-b116-471f-8136-ef5bc70015f6/je/2000xxs.jpg",
+      "path": "images/img-4f334d3ab034.webp",
+      "media_type": "image/webp",
+      "bytes": 152166,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/01629501-0be0-460d-a705-682297be777b/je/2000xxs.jpg",
+      "path": "images/img-a595bc9c91d4.webp",
+      "media_type": "image/webp",
+      "bytes": 199898,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/d1e23dec-9e80-4179-a14e-259d06185c1b/je/2000xxs.jpg",
+      "path": "images/img-b1bc69638748.webp",
+      "media_type": "image/webp",
+      "bytes": 111944,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/28add9a5-93ee-46b1-87cf-759348c700c3/je/2000xxs.jpg",
+      "path": "images/img-8529d25cf5d7.webp",
+      "media_type": "image/webp",
+      "bytes": 130296,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/ad022334-57dd-445d-93c4-38a4fb2ae765/je/2000xxs.jpg",
+      "path": "images/img-52a5d21f88b1.webp",
+      "media_type": "image/webp",
+      "bytes": 135284,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/dea1ea50-fe18-4509-ba7f-3f1bad6a532d/je/2000xxs.jpg",
+      "path": "images/img-0f51d0d69510.webp",
+      "media_type": "image/webp",
+      "bytes": 82670,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/c9aacaf3-c829-4689-9508-ea6517e9748f/je/2000xxs.jpg",
+      "path": "images/img-816d7e5881e7.webp",
+      "media_type": "image/webp",
+      "bytes": 74982,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/5f9abadf-ae53-4071-8215-d6609b609204/je/2000xxs.jpg",
+      "path": "images/img-4c4f66e74d2e.webp",
+      "media_type": "image/webp",
+      "bytes": 86064,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3a47c89f-1139-43a3-b10a-3cce54542c2b/je/2000xxs.jpg",
+      "path": "images/img-c24a8a60495c.webp",
+      "media_type": "image/webp",
+      "bytes": 73748,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e9aeb1fd-8750-4a9e-9692-5217754b73a5/je/2000xxs.jpg",
+      "path": "images/img-e9b077e0a49d.webp",
+      "media_type": "image/webp",
+      "bytes": 160078,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/c18ac8cd-71c4-48d6-a9bd-d61782a2929e/je/2000xxs.jpg",
+      "path": "images/img-9733c0112b53.webp",
+      "media_type": "image/webp",
+      "bytes": 128084,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/a677eb8c-bd24-4532-9dd6-519f27b455fa/je/2000xxs.jpg",
+      "path": "images/img-769ece90d888.webp",
+      "media_type": "image/webp",
+      "bytes": 106400,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/6018f516-c9f9-4032-b2d2-1a2df25fc843/je/2000xxs.jpg",
+      "path": "images/img-ea45de559296.webp",
+      "media_type": "image/webp",
+      "bytes": 30274,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/eb2384db-f69b-4751-8675-5af24f88d757/je/2000xxs.jpg",
+      "path": "images/img-9283d5efd9a7.webp",
+      "media_type": "image/webp",
+      "bytes": 195554,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/6eaa0d14-bf7f-4991-ad6e-34b831afe1fc/je/2000xxs.jpg",
+      "path": "images/img-f9abea13f600.webp",
+      "media_type": "image/webp",
+      "bytes": 183820,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/fa3d7d3b-7098-4401-948e-a996178427f8/je/2000xxs.jpg",
+      "path": "images/img-6f9b72121bf1.webp",
+      "media_type": "image/webp",
+      "bytes": 63864,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/be49b893-f002-46b3-beef-c9377ff7a06f/je/2000xxs.jpg",
+      "path": "images/img-420d4a57bfc5.webp",
+      "media_type": "image/webp",
+      "bytes": 132008,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/cfb6cfdb-1f83-4293-9be5-80d6fd3d1022/je/2000xxs.jpg",
+      "path": "images/img-3bff395ae8e7.webp",
+      "media_type": "image/webp",
+      "bytes": 138096,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/7df10fe4-ee48-4468-8f5c-655b531550e2/je/2000xxs.jpg",
+      "path": "images/img-27320cdb4073.webp",
+      "media_type": "image/webp",
+      "bytes": 106566,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/aa7d1d66-c36c-4369-b5ad-9f45ce070aa9/je/2000xxs.jpg",
+      "path": "images/img-a42508490179.webp",
+      "media_type": "image/webp",
+      "bytes": 136792,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8d38dade-d4c2-4a09-b62c-b03feaacb024/je/2000xxs.jpg",
+      "path": "images/img-ee9e5dfab4ec.webp",
+      "media_type": "image/webp",
+      "bytes": 64696,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/741d7ba8-9acb-467c-bf69-618ff745f94e/je/2000xxs.jpg",
+      "path": "images/img-a8b845603aa1.webp",
+      "media_type": "image/webp",
+      "bytes": 108928,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/ab3d0da0-d7e1-47a9-9fb1-59c22c96d1ba/je/2000xxs.jpg",
+      "path": "images/img-4f453d7132f7.webp",
+      "media_type": "image/webp",
+      "bytes": 114408,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/b15775ac-a256-467d-b9ef-9a83229e1b4d/je/2000xxs.jpg",
+      "path": "images/img-85b728d1c537.webp",
+      "media_type": "image/webp",
+      "bytes": 60050,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/f884c588-f32d-41c6-b155-21f9fee39784/je/2000xxs.jpg",
+      "path": "images/img-ecda1c31b964.webp",
+      "media_type": "image/webp",
+      "bytes": 181186,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8d3b11da-14fc-47b4-8e59-4d8171097aec/je/2000xxs.jpg",
+      "path": "images/img-78f764f88c28.webp",
+      "media_type": "image/webp",
+      "bytes": 162030,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3e444ea8-5543-4213-b793-1bcd58ef425a/je/2000xxs.jpg",
+      "path": "images/img-ec0706875812.webp",
+      "media_type": "image/webp",
+      "bytes": 116458,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/c4380bec-a893-448d-a65c-11c041ddebad/je/2000xxs.jpg",
+      "path": "images/img-60d3f919bbc6.webp",
+      "media_type": "image/webp",
+      "bytes": 88608,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/26ec3bf8-39c2-45af-ba09-381484336d52/je/2000xxs.jpg",
+      "path": "images/img-d2a0ea9bf817.webp",
+      "media_type": "image/webp",
+      "bytes": 184970,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/36288e98-a190-4686-9f04-450b617d35e5/je/2000xxs.jpg",
+      "path": "images/img-9a3154412793.webp",
+      "media_type": "image/webp",
+      "bytes": 49856,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3f18365e-af82-4306-bcb1-9a36287c768c/je/2000xxs.jpg",
+      "path": "images/img-63c18f4bd8a0.webp",
+      "media_type": "image/webp",
+      "bytes": 117046,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/d1888ef4-a871-4207-a678-ff1ecc939972/je/2000xxs.jpg",
+      "path": "images/img-7121c9d6f634.webp",
+      "media_type": "image/webp",
+      "bytes": 116526,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/f73fa39e-2dc2-49cb-9dd0-3884a138ab5b/je/2000xxs.jpg",
+      "path": "images/img-d79ea258bdb5.webp",
+      "media_type": "image/webp",
+      "bytes": 278504,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/00b20b8b-dd7a-4910-b52b-e87163efe1aa/je/2000xxs.jpg",
+      "path": "images/img-bafe052aebaa.webp",
+      "media_type": "image/webp",
+      "bytes": 129826,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/8d91c299-4dc3-4caa-a312-8d87b7655fc3/je/2000xxs.jpg",
+      "path": "images/img-aece335450da.webp",
+      "media_type": "image/webp",
+      "bytes": 502356,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/90255add-9b01-4e8c-9b3f-b23bf9d7b870/je/2000xxs.jpg",
+      "path": "images/img-94bea347ec43.webp",
+      "media_type": "image/webp",
+      "bytes": 365966,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2816%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2817%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2815%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 81,
+    "images_existing": 0,
+    "images_failed": 21,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

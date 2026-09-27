@@ -1,0 +1,336 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/austin-tx-usa/the-river-garden-crown-jewel-estate-16898015",
+    "canonical_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/the-river-garden-crown-jewel-estate-16898015",
+    "site": "jamesedition",
+    "listing_id": "16898015",
+    "listing_reference": "NW4VFJ",
+    "first_listed": "Jan 8",
+    "last_updated": "April 6",
+    "retrieved_at": "2026-06-16T03:43:39.758745Z"
+  },
+  "location": {
+    "address": "Austin, TX 78746, Texas, United States",
+    "street": "Austin",
+    "municipality": "Austin",
+    "region": "Texas",
+    "postal_code": "78746",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=30.2962208,-97.8299383",
+    "latitude": 30.2962208,
+    "longitude": -97.8299383
+  },
+  "property": {
+    "title": "The River Garden Crown Jewel Estate",
+    "type": "House",
+    "price": {
+      "amount": null,
+      "display": "Price On Request"
+    },
+    "bedrooms": 9,
+    "bathrooms": 16,
+    "interior_area": {
+      "value": 24707,
+      "unit": "sqft",
+      "display": "24,707 Sqft"
+    },
+    "lot_area": {
+      "value": 1.55,
+      "display": "1.55 Ac lot"
+    },
+    "year_built": 2001,
+    "photo_count": 53,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6387414819112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "Rising majestically above Austin from the city’s most coveted elevation, this extraordinary estate stands as the undisputed crown jewel of Texas luxury real estate. Commanding approximately 22,000 square feet of unparalleled sophistication, this architectural tour de force has been transformed by extensive renovations in meticulous renovations into what can only be described as Austin’s most significant private residence.Unrivaled Grandeur:No expense has been spared in creating this masterpiece. 11 full and 5 half custom bathrooms showcase detailed sophistication. The house is engraved with the world’s finest marble, each space a testament to bespoke craftsmanship. Dual master suites —strategically positioned on separate levels—redefine luxury living, with the expanded upper-level sanctuary incorporating a former terrace into a palatial spa retreat. Custom his and hers closets rival the finest boutiques, while a private elevator ensures effortless navigation through this extraordinary home.World-Class Entertainment:A $750,000 private cinema rivals premiere screening rooms in Hollywood. The resort-caliber gymnasium, complete with panoramic views, Finnish sauna, and spa-quality amenities, establishes new standards for residential wellness. Expansive entertainment terraces and multiple gathering zones create an entertainer’s paradise where Austin’s most distinguished gatherings unfold against breathtaking backdrops.The Finest in Modern Living:Six-car automotive gallery, dual dedicated laundry suites, whole-home Sonos integration, fortified safe room, temperature-controlled wine preservation, and limitless parking capacity speak to a residence designed without compromise. The gracious open floor plan orchestrates seamless flow between grand-scale entertaining and intimate family moments.A Setting Beyond Compare:From Austin’s highest residential vantage point, sweeping 180-degree vistas encompass shimmering lake views, the glittering downtown skyline, and the rolling Texas Hill Country beyond. The meticulously landscaped grounds cascade down the hillside, creating a private sanctuary that captures the essence of Texas grandeur while offering absolute seclusion within the city’s most exclusive gated community.An Acquisition of Singular Distinction:This is not merely a home—it is Austin’s definitive luxury residence, a once-in-a-generation offering that establishes the benchmark for Texas estates.",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Cinema",
+      "City View",
+      "Elevator",
+      "Fireplace",
+      "Garden",
+      "Gated Community",
+      "Jacuzzi",
+      "Lake View",
+      "Laundry Room",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Pool",
+      "Sauna",
+      "Stone Countertops",
+      "Terrace",
+      "Walk In Closet",
+      "Washer Dryer",
+      "Water View",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Kumara Wilcoxon",
+    "agency": "Kuper Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/kuper-sotheby-s-international-realty-10860",
+    "agency_address": "524 N. Lamar Blvd. Suite #204, Suite #204, 78703, Austin, Texas, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/2200xxs.jpg",
+      "file": "004-a7a6d66c.webp",
+      "media_type": "image/webp",
+      "bytes": 210776,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/2200xxs.jpg",
+      "file": "009-f60959e5.webp",
+      "media_type": "image/webp",
+      "bytes": 541898,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/2200xxs.jpg",
+      "file": "014-14ed3d88.webp",
+      "media_type": "image/webp",
+      "bytes": 300022,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/2200xxs.jpg",
+      "file": "019-5fcc6e2c.webp",
+      "media_type": "image/webp",
+      "bytes": 408240,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/2200xxs.jpg",
+      "file": "024-5fe9908c.webp",
+      "media_type": "image/webp",
+      "bytes": 236262,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/380xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tx-united-states",
+              "name": "Texas"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/austin-tx-usa",
+              "name": "Austin"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/austin-tx-usa/the-river-garden-crown-jewel-estate-16898015",
+              "name": "The River Garden Crown Jewel Estate"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {},
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/380xxsxm.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+  ]
+};

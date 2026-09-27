@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "Spain/Andalusia/Setenil de las Bodegas",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Setenil",
+      "href": "Setenil/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

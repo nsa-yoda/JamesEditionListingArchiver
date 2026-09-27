@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Idaho/Coeur d'Alene/4579 E Plum RD/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-6977027f.webp",
+      "href": "004-6977027f.webp",
+      "size": 190788
+    },
+    {
+      "name": "009-5d68b27a.webp",
+      "href": "009-5d68b27a.webp",
+      "size": 188142
+    },
+    {
+      "name": "014-b0768002.webp",
+      "href": "014-b0768002.webp",
+      "size": 267114
+    },
+    {
+      "name": "019-35d88c0b.webp",
+      "href": "019-35d88c0b.webp",
+      "size": 305154
+    },
+    {
+      "name": "024-d5797073.webp",
+      "href": "024-d5797073.webp",
+      "size": 330108
+    },
+    {
+      "name": "039-57242b8e.webp",
+      "href": "039-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "040-4055dfde.svg",
+      "href": "040-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "041-272e34fe.svg",
+      "href": "041-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "042-caf7633d.svg",
+      "href": "042-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

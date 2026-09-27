@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "path": "United States/Connecticut",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Darien",
+      "href": "Darien/index.html"
+    },
+    {
+      "name": "Fairfield",
+      "href": "Fairfield/index.html"
+    },
+    {
+      "name": "Greenwich",
+      "href": "Greenwich/index.html"
+    },
+    {
+      "name": "Stamford",
+      "href": "Stamford/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

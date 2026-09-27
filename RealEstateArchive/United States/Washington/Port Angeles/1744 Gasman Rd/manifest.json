@@ -1,0 +1,663 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/exquisite-port-angeles-estate-14251123",
+    "canonical_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/exquisite-port-angeles-estate-14251123",
+    "site": "jamesedition",
+    "listing_id": "14251123",
+    "listing_reference": "TFHFEN",
+    "first_listed": "May 16, 2024",
+    "last_updated": "March 28",
+    "retrieved_at": "2026-08-28T00:28:31.431003Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1957,
+      "sha256": "143ce84ebc237145469dc929f03c09c76c90573e5da24969d9beefd41ef47fcd"
+    },
+    {
+      "path": "images/img-00daa17b886e.webp",
+      "bytes": 376584,
+      "sha256": "f2a97c37165b7808bc6b1075401915be286f270fafa884267b50dda8e6ce5c7c"
+    },
+    {
+      "path": "images/img-012c337be4d9.webp",
+      "bytes": 529096,
+      "sha256": "625a50cc1b0c844e1fed42c54c8dbf8e0877e5ba70898230b0795607f860f1e7"
+    },
+    {
+      "path": "images/img-0914273d2d36.webp",
+      "bytes": 288652,
+      "sha256": "395da6a72843e234068a95fd7f1d220e72f7fa998f83258fabd3ae898768a868"
+    },
+    {
+      "path": "images/img-0b9be48b7edc.webp",
+      "bytes": 1017428,
+      "sha256": "108e286c486a64bb6e2571c84e615e33e1c75fa432ec0ff26960c7e7051e86c7"
+    },
+    {
+      "path": "images/img-0e48b5b3aaf7.webp",
+      "bytes": 166444,
+      "sha256": "8fec6541d41d5467d0fbe962775e6b6983c1e839e9e8ef5366a664231f54fc01"
+    },
+    {
+      "path": "images/img-318d53fb0e3d.webp",
+      "bytes": 177302,
+      "sha256": "cd6b7b86b94d97d1a33a63b83614aeed6126b66265708426c07513304bf7f70f"
+    },
+    {
+      "path": "images/img-397d678d68de.webp",
+      "bytes": 707484,
+      "sha256": "bdb6cc5118ec255c435b5b4fcd3bb4d2bb658dbe340d70e0a924e0778e45568c"
+    },
+    {
+      "path": "images/img-3eba4c1bbb06.webp",
+      "bytes": 162002,
+      "sha256": "e012d14555feb2281a19f2027f4ba9171c3fa8c148fc012b0f0997404689181a"
+    },
+    {
+      "path": "images/img-43df5c4f9b15.webp",
+      "bytes": 264244,
+      "sha256": "b982488636f7ce47dbf2f070bfe802c4849a70c4d2af5d2013bc4b2587941d2a"
+    },
+    {
+      "path": "images/img-4f948948314c.webp",
+      "bytes": 770700,
+      "sha256": "e7b98ac487e1adecdeb76ebafe4df5209481a1fde604e5974a21ebe2fed1dded"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5aa8d4ed3418.webp",
+      "bytes": 199588,
+      "sha256": "e906b5b7d34d2810737c70698c0ba226a2788c50d886f1dd40962593b0232462"
+    },
+    {
+      "path": "images/img-5bcba961b56b.webp",
+      "bytes": 804608,
+      "sha256": "ab67175729b5867f05ba61cea2417e4a70642148ffc18b42e982baf18dfefbb5"
+    },
+    {
+      "path": "images/img-5eda3c0dc454.webp",
+      "bytes": 448520,
+      "sha256": "a271c7b892c3b495f528895074f8263a52be3a531d189860868cd31b587baa36"
+    },
+    {
+      "path": "images/img-6b0bc99d9b41.webp",
+      "bytes": 835338,
+      "sha256": "a10a909c6e340fc270e9939c947235e08ba725cf2be14317112b294992b36090"
+    },
+    {
+      "path": "images/img-6b5ee5a7d33f.webp",
+      "bytes": 819132,
+      "sha256": "673bcdd29a5c98d3a7451f201a96eaef4a220db46ae4430ea6888f2b0f2f2ef4"
+    },
+    {
+      "path": "images/img-7ba4c76bf2e1.webp",
+      "bytes": 188520,
+      "sha256": "e91524ebf82a69e554d2d4ded7261762880837542044e1cec78e1001a1370c69"
+    },
+    {
+      "path": "images/img-7e2bd9155238.webp",
+      "bytes": 211198,
+      "sha256": "4e8ab36fdabf1ebf31ad002c4e1df9ce3158ae3c067d261ea5f6a6469c4c5578"
+    },
+    {
+      "path": "images/img-7f9265d4c955.webp",
+      "bytes": 831624,
+      "sha256": "e34712e145bc50ec931668c38c857286995bf61de048cd8b87b2af9fbe19bf14"
+    },
+    {
+      "path": "images/img-8894f772557f.webp",
+      "bytes": 677116,
+      "sha256": "b719205c1dc7e9cf7c6869a3cb60a6b481d667b82d8549e7fd091b62b7405d1e"
+    },
+    {
+      "path": "images/img-8bb3935005c3.webp",
+      "bytes": 542282,
+      "sha256": "432b643448820e2a9ec1431e12546f5cda709ae17e007a115200ec47d61fd219"
+    },
+    {
+      "path": "images/img-8d380973c889.webp",
+      "bytes": 416936,
+      "sha256": "002f76fbdea14cdbd84205caff73b3263d155a93adecb7caeb0f0e7051e661f1"
+    },
+    {
+      "path": "images/img-96468c1e2109.webp",
+      "bytes": 204626,
+      "sha256": "5282cc240ebb48bb7f86b12d9125dd56294190c540a01357dc36a6b89df14fe6"
+    },
+    {
+      "path": "images/img-a0df2f3743ca.webp",
+      "bytes": 204322,
+      "sha256": "76224d6c8036f16dc00a858151d4e326404e803848570c7126f679781731506e"
+    },
+    {
+      "path": "images/img-a69b546621ac.webp",
+      "bytes": 201854,
+      "sha256": "fdc2c65bef5d035104c0b913eabb4b92554d3af8defa1efc03b91339195da479"
+    },
+    {
+      "path": "images/img-b52cab5d7a13.webp",
+      "bytes": 132282,
+      "sha256": "30518bb6e5ce8ea3bd59dfcda302029cb40697497ca1cd774ac63af20eefe989"
+    },
+    {
+      "path": "images/img-bfba16ec737d.webp",
+      "bytes": 259464,
+      "sha256": "a83366a6d712f3c683dc2a9a91fda8c8e319e95db08716d58eb25dbaef8dd10d"
+    },
+    {
+      "path": "images/img-c0dd3cfb2300.webp",
+      "bytes": 258250,
+      "sha256": "59f0e678e5f769844242ddd9e2d3d804b45ca6b49b0de962bcf47f77ae9df2c2"
+    },
+    {
+      "path": "images/img-c0fe5daa09f0.webp",
+      "bytes": 620330,
+      "sha256": "c13373e9de4fc9a653db4e4cbec9c7fb237a9f95ebebc00c66bf06e96594f464"
+    },
+    {
+      "path": "images/img-c15b65c76da2.webp",
+      "bytes": 835232,
+      "sha256": "7d45a19686092be6e89899a2c1d51bf081d342dcbeb381d7aa8d12e4bdccca15"
+    },
+    {
+      "path": "images/img-c664cbc86f87.webp",
+      "bytes": 297922,
+      "sha256": "00d947b5bdede04b3769e14b1c749d491f05645aa906647e4a16f0b5ff2c2dfa"
+    },
+    {
+      "path": "images/img-c812d3982d9b.webp",
+      "bytes": 705140,
+      "sha256": "270d6cc299d328a757771a6275508a25b95050ba89793cda4e84de6ffb7907d0"
+    },
+    {
+      "path": "images/img-d803c7eac77a.webp",
+      "bytes": 340270,
+      "sha256": "dfb7493354fc3c70a09d04e5c43a4bab6c2da707acfd0bbcf45a1aed855c5173"
+    },
+    {
+      "path": "images/img-e3a9ba9aa197.webp",
+      "bytes": 667922,
+      "sha256": "04deb1097fb889a8a0deb083d4d5a6db94da8a2d051e892d59ce5567f9af958c"
+    },
+    {
+      "path": "images/img-e62cc42c5ceb.webp",
+      "bytes": 149716,
+      "sha256": "c8c49b4331a503b0602ea0f321bbdeb1b9e2633d6875f01e27a7a46e5e272628"
+    },
+    {
+      "path": "images/img-e7a5235f1374.webp",
+      "bytes": 207090,
+      "sha256": "1796961025738fd3166671727404c8ff05655f1264ff32c82e44776204b2587d"
+    },
+    {
+      "path": "images/img-f00104006641.webp",
+      "bytes": 905494,
+      "sha256": "82f7d911a2aa31271daf4ed31c51cd74054dafb6863905ea43ef9457b5d805c3"
+    },
+    {
+      "path": "images/img-f234457a58bf.webp",
+      "bytes": 334130,
+      "sha256": "6592a4c4c23c20bdcfd92f760f0e700c199a12f3c243e8083b067b45ce323018"
+    },
+    {
+      "path": "images/img-f36148c04a9f.webp",
+      "bytes": 174494,
+      "sha256": "10d8eccec6ba2c8ee6ad422289e1c917aa9eaf43a4fa4df28aa6fddec6cca7b8"
+    },
+    {
+      "path": "images/img-f63eda61bf77.webp",
+      "bytes": 216922,
+      "sha256": "dbaf536277a52136f7b7e9abf51ad63909914cd2cc0b88798c87189f87a98cda"
+    },
+    {
+      "path": "images/img-fb06a6e87f3b.webp",
+      "bytes": 223632,
+      "sha256": "110887b9dcc3e601ff3799ca1e61a38899900d5b6292117a2646782959cff42e"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 27059,
+      "sha256": "4a09f5a1a28ef8e86f4c3e629586f8c876da8f1a578e42f97f8ef09b72444e27"
+    },
+    {
+      "path": "source.html",
+      "bytes": 483446,
+      "sha256": "0a2c6abf3b3ccd30f976b8e5776eb73a142e4628fe05d37d6edfdf3181a4e353"
+    },
+    {
+      "path": "source.url",
+      "bytes": 100,
+      "sha256": "4813fa6a6135c058a734df785d9b47d63fc72ffcbef8a8d3c42926e1707c7e79"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/2200xxs.jpg",
+      "path": "images/img-6b5ee5a7d33f.webp",
+      "media_type": "image/webp",
+      "bytes": 819132,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/2200xxs.jpg",
+      "path": "images/img-e3a9ba9aa197.webp",
+      "media_type": "image/webp",
+      "bytes": 667922,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/2200xxs.jpg",
+      "path": "images/img-5bcba961b56b.webp",
+      "media_type": "image/webp",
+      "bytes": 804608,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/2200xxs.jpg",
+      "path": "images/img-f63eda61bf77.webp",
+      "media_type": "image/webp",
+      "bytes": 216922,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/2200xxs.jpg",
+      "path": "images/img-0e48b5b3aaf7.webp",
+      "media_type": "image/webp",
+      "bytes": 166444,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/9f849481-db4b-450d-b0a6-c7972fc9fbbd/je/2000xxs.jpg",
+      "path": "images/img-e62cc42c5ceb.webp",
+      "media_type": "image/webp",
+      "bytes": 149716,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/7c72d92e-46dc-4e17-adbf-7915a2b63a0b/je/2000xxs.jpg",
+      "path": "images/img-bfba16ec737d.webp",
+      "media_type": "image/webp",
+      "bytes": 259464,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/04763770-869f-4df4-9d10-0a436392d56e/je/2000xxs.jpg",
+      "path": "images/img-e7a5235f1374.webp",
+      "media_type": "image/webp",
+      "bytes": 207090,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/cede708f-1822-4e5e-be66-caf01e33e6f0/je/2000xxs.jpg",
+      "path": "images/img-7e2bd9155238.webp",
+      "media_type": "image/webp",
+      "bytes": 211198,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/fa77024a-f228-49a7-a056-372a3d3307c6/je/2000xxs.jpg",
+      "path": "images/img-318d53fb0e3d.webp",
+      "media_type": "image/webp",
+      "bytes": 177302,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/9fadd0ec-49f1-4445-b98c-cd5e46bf62ae/je/2000xxs.jpg",
+      "path": "images/img-0914273d2d36.webp",
+      "media_type": "image/webp",
+      "bytes": 288652,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/22bae5bd-2884-4234-8937-9ddb65bc9e5a/je/2000xxs.jpg",
+      "path": "images/img-8894f772557f.webp",
+      "media_type": "image/webp",
+      "bytes": 677116,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/2604b760-dad0-4209-9029-311fb0492c44/je/2000xxs.jpg",
+      "path": "images/img-397d678d68de.webp",
+      "media_type": "image/webp",
+      "bytes": 707484,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/c185aa2b-c31f-47ba-9eb0-05aa1cf608a0/je/2000xxs.jpg",
+      "path": "images/img-3eba4c1bbb06.webp",
+      "media_type": "image/webp",
+      "bytes": 162002,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/123d3c29-e17e-4340-b259-033e95d37692/je/2000xxs.jpg",
+      "path": "images/img-7ba4c76bf2e1.webp",
+      "media_type": "image/webp",
+      "bytes": 188520,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/51b2c35a-4ab8-4320-a485-b7cff73c316b/je/2000xxs.jpg",
+      "path": "images/img-7f9265d4c955.webp",
+      "media_type": "image/webp",
+      "bytes": 831624,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b4c76834-b5a1-4600-8374-f9fe9bf49877/je/2000xxs.jpg",
+      "path": "images/img-c0fe5daa09f0.webp",
+      "media_type": "image/webp",
+      "bytes": 620330,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/7eabaab6-9bc5-4436-8ba7-0d2ebdbf246f/je/2000xxs.jpg",
+      "path": "images/img-f00104006641.webp",
+      "media_type": "image/webp",
+      "bytes": 905494,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/a67a8e44-087c-4758-a126-0932d4226db9/je/2000xxs.jpg",
+      "path": "images/img-012c337be4d9.webp",
+      "media_type": "image/webp",
+      "bytes": 529096,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/f4e4c80d-b8ea-4066-b535-aee5d5388e4c/je/2000xxs.jpg",
+      "path": "images/img-fb06a6e87f3b.webp",
+      "media_type": "image/webp",
+      "bytes": 223632,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/05a4daab-dea6-4b05-acbb-564669f65b8e/je/2000xxs.jpg",
+      "path": "images/img-d803c7eac77a.webp",
+      "media_type": "image/webp",
+      "bytes": 340270,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6c789465-10aa-4b50-ab9b-f6d70cb89f90/je/2000xxs.jpg",
+      "path": "images/img-c0dd3cfb2300.webp",
+      "media_type": "image/webp",
+      "bytes": 258250,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/8029c050-059c-4ebe-91ef-a6e75279da1a/je/2000xxs.jpg",
+      "path": "images/img-a69b546621ac.webp",
+      "media_type": "image/webp",
+      "bytes": 201854,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/7532d4ea-5132-4306-a642-3bb2c0380b2d/je/2000xxs.jpg",
+      "path": "images/img-f36148c04a9f.webp",
+      "media_type": "image/webp",
+      "bytes": 174494,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/9dac9af4-d0fa-4318-b2b3-8d85b4168882/je/2000xxs.jpg",
+      "path": "images/img-c664cbc86f87.webp",
+      "media_type": "image/webp",
+      "bytes": 297922,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/865d1481-09f6-4495-8483-edbee9a5db73/je/2000xxs.jpg",
+      "path": "images/img-96468c1e2109.webp",
+      "media_type": "image/webp",
+      "bytes": 204626,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/c83f4ed1-510a-47fb-b3f8-ba59cb7daf79/je/2000xxs.jpg",
+      "path": "images/img-5aa8d4ed3418.webp",
+      "media_type": "image/webp",
+      "bytes": 199588,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/2be10905-161e-4fe5-8d83-36db5893f2f4/je/2000xxs.jpg",
+      "path": "images/img-b52cab5d7a13.webp",
+      "media_type": "image/webp",
+      "bytes": 132282,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/816fc3f3-6798-4d48-875d-b8c3464f0a35/je/2000xxs.jpg",
+      "path": "images/img-f234457a58bf.webp",
+      "media_type": "image/webp",
+      "bytes": 334130,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/c1a77022-b9bd-44d5-81c2-fe3b96d52be9/je/2000xxs.jpg",
+      "path": "images/img-43df5c4f9b15.webp",
+      "media_type": "image/webp",
+      "bytes": 264244,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/db568ad7-9c6c-4942-b74d-22370bab96e7/je/2000xxs.jpg",
+      "path": "images/img-a0df2f3743ca.webp",
+      "media_type": "image/webp",
+      "bytes": 204322,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/642b7953-7e6b-44f6-a8fa-b77a9f81be49/je/2000xxs.jpg",
+      "path": "images/img-00daa17b886e.webp",
+      "media_type": "image/webp",
+      "bytes": 376584,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/fa993e7e-3967-486c-b4d9-7e511c12b7e0/je/2000xxs.jpg",
+      "path": "images/img-5eda3c0dc454.webp",
+      "media_type": "image/webp",
+      "bytes": 448520,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/08cf9fa3-75ec-419f-a980-e85adc84077d/je/2000xxs.jpg",
+      "path": "images/img-4f948948314c.webp",
+      "media_type": "image/webp",
+      "bytes": 770700,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/a54985c6-cd1d-467b-8446-b890ed566762/je/2000xxs.jpg",
+      "path": "images/img-0b9be48b7edc.webp",
+      "media_type": "image/webp",
+      "bytes": 1017428,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/0d1b099e-7852-4e16-be9a-29e025b87b6e/je/2000xxs.jpg",
+      "path": "images/img-8bb3935005c3.webp",
+      "media_type": "image/webp",
+      "bytes": 542282,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/3cc8839e-8c4e-4f4b-a545-6b63651418a0/je/2000xxs.jpg",
+      "path": "images/img-c812d3982d9b.webp",
+      "media_type": "image/webp",
+      "bytes": 705140,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/7b1325eb-79a3-43ce-a6e3-991d5cb0e98f/je/2000xxs.jpg",
+      "path": "images/img-6b0bc99d9b41.webp",
+      "media_type": "image/webp",
+      "bytes": 835338,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/705bc20b-030f-4612-b0ac-d0549d6b9158/je/2000xxs.jpg",
+      "path": "images/img-8d380973c889.webp",
+      "media_type": "image/webp",
+      "bytes": 416936,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/89bb427f-28e2-4f69-8fce-9eccce79c704/je/2000xxs.jpg",
+      "path": "images/img-c15b65c76da2.webp",
+      "media_type": "image/webp",
+      "bytes": 835232,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/2200xxsxm%2821%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/2200xxsxm%2822%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/2200xxsxm%2820%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 41,
+    "images_existing": 0,
+    "images_failed": 14,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

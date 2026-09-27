@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Connecticut/Greenwich/97 Pecksland Road",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 14614
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 5253
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3056
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 635066
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 89
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

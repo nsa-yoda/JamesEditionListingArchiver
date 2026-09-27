@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Romania/Constanța County/Constanța/-Hrisicos House-",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 23734
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 9677
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 4795
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 333492
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 138
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

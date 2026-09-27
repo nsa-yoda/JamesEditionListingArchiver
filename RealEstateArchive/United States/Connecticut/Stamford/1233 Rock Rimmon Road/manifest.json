@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/hillandale-17239564",
+    "canonical_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/hillandale-17239564",
+    "site": "jamesedition",
+    "listing_id": "17239564",
+    "listing_reference": "TX86F6",
+    "first_listed": "Feb 17",
+    "last_updated": "February 18",
+    "retrieved_at": "2026-06-16T03:43:26.86179Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3749,
+      "sha256": "56b7e8b2588016269eeedb807f24e64465277a115ed60d215fa3003604b8e96c"
+    },
+    {
+      "path": "images/004-5e5656eb.webp",
+      "bytes": 1271428,
+      "sha256": "15a6e76f52e98bb3d6628e29350282bed881168444556c34fd59d1d70bb2e2af"
+    },
+    {
+      "path": "images/009-28fe223b.webp",
+      "bytes": 680512,
+      "sha256": "6af0c24ba050226cefbdf9ca79de2498bb4cda81f2321e37028c25d6a76c5c52"
+    },
+    {
+      "path": "images/014-eae11a8c.webp",
+      "bytes": 330188,
+      "sha256": "657c044e2b22e541320b277a2a953ab20de775d680165c2ed83146d020f6c0b3"
+    },
+    {
+      "path": "images/019-9737a4fc.webp",
+      "bytes": 281152,
+      "sha256": "6739d659ad1ccebe8dcf031a7a4a7f4a0af8e5f1c4e17fa4707e60f0206d3742"
+    },
+    {
+      "path": "images/024-1674f84c.webp",
+      "bytes": 223142,
+      "sha256": "32d81871297707c86b3a223931583e2589a63322ecb1fe51ae0f61e2d56c98f3"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/034-dd94e60c.webp",
+      "bytes": 1122,
+      "sha256": "20051278b84afd0d49d4ac21c2e158945376c674dba68451bc2340de7cfe67eb"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 18256,
+      "sha256": "aea4cdf4f58b8c3410f9e771516ce969ca0610137fa927cc74f094b6e229ed35"
+    },
+    {
+      "path": "source.html",
+      "bytes": 357769,
+      "sha256": "b9298d368745a1d3a0884cd947b5fa3a1c1f5033946d47c44a807015043d601d"
+    },
+    {
+      "path": "source.url",
+      "bytes": 77,
+      "sha256": "0b32a9aa01282f77d4c4c68d4e7c3aa346826c40e06a6213c0b7a4edf5f7a6ad"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/18/16/42/38/4ad81881-574d-42cb-80a9-cfdd04062c82/je/2200xxs.jpg",
+      "path": "images/004-5e5656eb.webp",
+      "media_type": "image/webp",
+      "bytes": 1271428,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Hillandale%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2817239564%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/17/10/04/38/76b6de9a-24b5-4534-8b4c-8b35f9e5eb98/je/2200xxs.jpg",
+      "path": "images/009-28fe223b.webp",
+      "media_type": "image/webp",
+      "bytes": 680512,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Hillandale%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2817239564%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/17/10/04/38/ad70b908-1500-4b56-b9bb-a2a56b7528fa/je/2200xxs.jpg",
+      "path": "images/014-eae11a8c.webp",
+      "media_type": "image/webp",
+      "bytes": 330188,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Hillandale%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2817239564%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/17/10/04/38/3b555b48-38bc-454c-a875-575c643edb6d/je/2200xxs.jpg",
+      "path": "images/019-9737a4fc.webp",
+      "media_type": "image/webp",
+      "bytes": 281152,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Hillandale%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2817239564%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/17/10/04/38/5d5a0338-eed3-41dc-a7a9-026026fcffcc/je/2200xxs.jpg",
+      "path": "images/024-1674f84c.webp",
+      "media_type": "image/webp",
+      "bytes": 223142,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Hillandale%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2817239564%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Hillandale%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2817239564%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Hillandale%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2817239564%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Hillandale%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2817239564%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/05/23/11/55/48/355f3745-6d0c-4bd0-ad2e-48e5af7e1e29/je/80x80xc.jpg",
+      "path": "images/034-dd94e60c.webp",
+      "media_type": "image/webp",
+      "bytes": 1122,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

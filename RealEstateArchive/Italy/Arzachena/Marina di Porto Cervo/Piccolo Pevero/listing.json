@@ -1,0 +1,561 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/waterfront-villa-serenity-in-porto-cervo-16295932",
+    "canonical_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/waterfront-villa-serenity-in-porto-cervo-16295932",
+    "site": "jamesedition",
+    "listing_id": "16295932",
+    "listing_reference": "06607",
+    "first_listed": "Oct 2, 2025",
+    "last_updated": "November 8, 2025",
+    "retrieved_at": "2026-08-28T00:32:15.549502Z"
+  },
+  "location": {
+    "address": "Piccolo Pevero, Porto Cervo, 07021, Italy",
+    "street": "Piccolo Pevero",
+    "municipality": "Marina di Porto Cervo",
+    "region": "Arzachena",
+    "postal_code": "07021",
+    "country": "Italy",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.1315336,9.535745",
+    "latitude": 41.1315336,
+    "longitude": 9.535745
+  },
+  "property": {
+    "title": "Waterfront Villa Serenity In Porto Cervo",
+    "type": "Villa",
+    "price": {
+      "amount": null,
+      "display": "Price On Request"
+    },
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "interior_area": {
+      "value": 4844,
+      "unit": "sqft",
+      "display": "4,844 Sqft"
+    },
+    "lot_area": {
+      "value": 19376,
+      "unit": "sqft",
+      "display": "19,376 Sqft lot"
+    },
+    "year_built": 2012,
+    "photo_count": 32,
+    "description": "Rare opportunity for an exclusive waterfront villa in Piccolo PeveroIn one of the most prestigious and sought-after corners of Costa Smeralda, this extraordinary villa represents a truly rare opportunity. Nestled directly on the shoreline of Piccolo Pevero, it enjoys an incomparable position where the turquoise sea meets the lush Mediterranean landscape, offering total privacy and an unmatched sense of exclusivity.From every room of the villa, the eye is drawn to the breathtaking spectacle of the crystal-clear waters of the bay. Wide panoramic windows frame views that are among the most beautiful and fascinating in all of Costa Smeralda, transforming the ever-changing light and colors of the sea into a natural artwork visible from dawn to sunset.The villa has been meticulously restored and furnished with refined contemporary taste, creating interiors that are both elegant and welcoming. The main living areas are spacious and filled with natural light, seamlessly flowing onto wide outdoor verandas that invite relaxation and social gatherings. A large indoor and outdoor living room, together with an expansive dining area, provide the perfect setting for entertaining family and friends while enjoying the sea breeze.The independent, professionally equipped kitchen has been designed to the highest standards, making it ideal for both everyday living and private chef services.The property offers four elegant double bedrooms, each with refined details and plenty of privacy, and five modern bathrooms, all finished to perfection, ensuring maximum comfort for residents and guests alike.Outdoors, a magnificent swimming pool stretches just steps from the water’s edge, creating the unique sensation of floating between sea and sky. Expansive terraces, shaded lounges, and dining verandas overlook the bay, offering a continuous dialogue between architecture and the natural beauty of the Costa Smeralda.What makes this property truly unique is its rare private stone pier, offering direct access to the sea and a convenient mooring for a tender, a privilege reserved for only a handful of villas in Costa Smeralda.This is more than a home: it is a private sanctuary by the sea, where exclusivity, beauty, and timeless charm come together in one of Sardinia’s most iconic and prestigious locations.For sale exclusively with Waterfront Italy.",
+    "features": [
+      "Air Conditioning",
+      "Coastal",
+      "Fireplace",
+      "Garden",
+      "Laundry Room",
+      "Office",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Pergola",
+      "Pool",
+      "Privacy",
+      "Private Beach",
+      "Sea View",
+      "Seafront",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "John Bracco",
+    "agent_profile_url": "https://www.jamesedition.com/agents/john-bracco-1826380",
+    "agency": "Waterfront Italy Srl",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/waterfront-italy-srl-111655",
+    "agency_address": "Piazzetta degli Archi, 2, 07021, Porto Cervo, Italy"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2200xxs.jpg",
+      "file": "img-b4572a9414cd.webp",
+      "media_type": "image/webp",
+      "bytes": 666254,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2200xxs.jpg",
+      "file": "img-a97cea00b41e.webp",
+      "media_type": "image/webp",
+      "bytes": 731062,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2200xxs.jpg",
+      "file": "img-9d09545bfa3b.webp",
+      "media_type": "image/webp",
+      "bytes": 705190,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2200xxs.jpg",
+      "file": "img-7e2de99907bb.webp",
+      "media_type": "image/webp",
+      "bytes": 821896,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2200xxs.jpg",
+      "file": "img-26813acb43ae.webp",
+      "media_type": "image/webp",
+      "bytes": 789550,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f2ca572d-d94e-49ee-84ff-f965827bc92d/je/2000xxs.jpg",
+      "file": "img-8e4cfa28f555.webp",
+      "media_type": "image/webp",
+      "bytes": 838454,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c6016d1b-6b88-4fcd-90a3-64fd3389e31a/je/2000xxs.jpg",
+      "file": "img-4fdf2805f7d6.webp",
+      "media_type": "image/webp",
+      "bytes": 571260,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/476c6d9e-270f-4f44-aef5-f314c3859d12/je/2000xxs.jpg",
+      "file": "img-de3d9b5d0801.webp",
+      "media_type": "image/webp",
+      "bytes": 416842,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/94a6ff60-36a5-4924-88a8-b0b8b067c2a4/je/2000xxs.jpg",
+      "file": "img-aef49d722ab3.webp",
+      "media_type": "image/webp",
+      "bytes": 226520,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5d154073-d9da-494d-901e-9276766d8967/je/2000xxs.jpg",
+      "file": "img-6e57918c5688.webp",
+      "media_type": "image/webp",
+      "bytes": 245820,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/f4e0c0d8-cdca-454a-ba8b-25f81123bbf2/je/2000xxs.jpg",
+      "file": "img-ac73e0e7921f.webp",
+      "media_type": "image/webp",
+      "bytes": 220068,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/4b4d1cd8-7fa8-440e-96cf-389e0f1aad64/je/2000xxs.jpg",
+      "file": "img-d637acd04db2.webp",
+      "media_type": "image/webp",
+      "bytes": 426450,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/36a7edf3-ed9e-43e5-9079-1d05eaa864ef/je/2000xxs.jpg",
+      "file": "img-bba28057da19.webp",
+      "media_type": "image/webp",
+      "bytes": 184438,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/c2cdb3c2-3207-414c-9087-500c24666f72/je/2000xxs.jpg",
+      "file": "img-5d69d37e82ee.webp",
+      "media_type": "image/webp",
+      "bytes": 204820,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/b9450919-7113-4b44-a2b1-74b59a99fb87/je/2000xxs.jpg",
+      "file": "img-fa2f1764970c.webp",
+      "media_type": "image/webp",
+      "bytes": 432060,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/83e4f719-61df-4cb1-9e88-b347e3bf5ad0/je/2000xxs.jpg",
+      "file": "img-262fa6be5a1a.webp",
+      "media_type": "image/webp",
+      "bytes": 449848,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/25c92afa-2d4f-43d4-87fc-40bc35615ab9/je/2000xxs.jpg",
+      "file": "img-4d50c66f42c6.webp",
+      "media_type": "image/webp",
+      "bytes": 271490,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/dc4b48ba-b658-48ad-a343-f4bc5f88bc97/je/2000xxs.jpg",
+      "file": "img-8fae5aa20b36.webp",
+      "media_type": "image/webp",
+      "bytes": 442962,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/b3e2b412-5c18-4731-8820-fe1decff1f09/je/2000xxs.jpg",
+      "file": "img-47a64baea439.webp",
+      "media_type": "image/webp",
+      "bytes": 330944,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/01a4dab8-e036-4a08-ba6f-f67ab4950418/je/2000xxs.jpg",
+      "file": "img-5d2b54565c44.webp",
+      "media_type": "image/webp",
+      "bytes": 391584,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/943e2606-b5bf-462a-b804-14854619e317/je/2000xxs.jpg",
+      "file": "img-7b2a0ce98534.webp",
+      "media_type": "image/webp",
+      "bytes": 164314,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/7c244a19-5765-4f86-88a2-9b8b8c8483be/je/2000xxs.jpg",
+      "file": "img-f5244835a03e.webp",
+      "media_type": "image/webp",
+      "bytes": 250188,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/10f9c44f-6550-40fc-b8db-7e42319c7d13/je/2000xxs.jpg",
+      "file": "img-8732c4f5c294.webp",
+      "media_type": "image/webp",
+      "bytes": 285308,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/37beba51-f4c9-40b9-8bab-8ce77f94d929/je/2000xxs.jpg",
+      "file": "img-2085b1c7c597.webp",
+      "media_type": "image/webp",
+      "bytes": 405472,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/2f886419-1fc5-44fe-9d0f-b9b182f6b548/je/2000xxs.jpg",
+      "file": "img-12ae9f4632e2.webp",
+      "media_type": "image/webp",
+      "bytes": 393062,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f8f2e774-555e-470f-af3a-14bfba2945c3/je/2000xxs.jpg",
+      "file": "img-6ae776a31546.webp",
+      "media_type": "image/webp",
+      "bytes": 418490,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/71c50a3d-3648-4784-8a09-d786486b8beb/je/2000xxs.jpg",
+      "file": "img-310747c5216f.webp",
+      "media_type": "image/webp",
+      "bytes": 121694,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c6c32d7f-5510-4808-b243-20e7ee3ea9ea/je/2000xxs.jpg",
+      "file": "img-d0992a797703.webp",
+      "media_type": "image/webp",
+      "bytes": 165986,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/ba029f80-30fe-4fbe-9529-5263e32f8c5a/je/2000xxs.jpg",
+      "file": "img-5414ad4ca34f.webp",
+      "media_type": "image/webp",
+      "bytes": 193784,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/491a33b5-66a4-4e68-afd5-181f997d9cf2/je/2000xxs.jpg",
+      "file": "img-6c36849de8fb.webp",
+      "media_type": "image/webp",
+      "bytes": 155316,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c5cdfa9d-d831-4f38-95c5-488bff267a39/je/2000xxs.jpg",
+      "file": "img-13ebe4f38fc8.webp",
+      "media_type": "image/webp",
+      "bytes": 245128,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/ab7d8c82-46f7-4305-8852-0e012d5aa32a/je/2000xxs.jpg",
+      "file": "img-676579845eb6.webp",
+      "media_type": "image/webp",
+      "bytes": 119430,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2827%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2828%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2829%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/italy",
+              "name": "Italy"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/sardinia-italy",
+              "name": "Sardinia"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/sardinia-sar-italy",
+              "name": "Region of Sardinia"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/alzachenaarzachena-italy",
+              "name": "Arzachena"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/area-porto-cervo-italy",
+              "name": "Porto Cervo Area"
+            },
+            "position": 7
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/marina-di-porto-cervo-italy",
+              "name": "Marina di Porto Cervo"
+            },
+            "position": 8
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/porto-cervo-italy/waterfront-villa-serenity-in-porto-cervo-16295932",
+              "name": "Waterfront Villa Serenity in Porto Cervo"
+            },
+            "position": 9
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {},
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2827%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2828%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2829%29.jpg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+}

@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Woodstock/326 Raycliffe Drive",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 25802
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 17534
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 2753
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 447721
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 106
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

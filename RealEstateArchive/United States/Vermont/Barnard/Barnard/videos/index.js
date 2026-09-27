@@ -1,0 +1,14 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Vermont/Barnard/Barnard/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-9c8a56470846.webp",
+      "href": "img-9c8a56470846.webp",
+      "size": 214338
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

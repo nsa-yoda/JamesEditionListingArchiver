@@ -1,0 +1,846 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/napa-ca-usa/krupp-brothers-estate-17705935",
+    "canonical_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/krupp-brothers-estate-17705935",
+    "site": "jamesedition",
+    "listing_id": "17705935",
+    "listing_reference": "7Z4DVG",
+    "first_listed": "Apr 17",
+    "last_updated": "April 25",
+    "retrieved_at": "2026-08-28T00:28:54.973829Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2805,
+      "sha256": "3e7dd0c92127bae5479308bfc9f1f21c60ff6cae4c028a8a54264a88b89cc6d7"
+    },
+    {
+      "path": "images/img-06637e2b54d1.webp",
+      "bytes": 325148,
+      "sha256": "bdbebdccceef59cbaa8485a7aa3966b74d50fe4e6e1dac4050ea11c7c7a5f019"
+    },
+    {
+      "path": "images/img-0be2af8b17eb.webp",
+      "bytes": 991834,
+      "sha256": "e773b9d7137383bef1eb58944dc8f0ba589bee9724429c4eecab48d0d99cdae4"
+    },
+    {
+      "path": "images/img-0c20034bc1c5.webp",
+      "bytes": 593520,
+      "sha256": "accbf2026a5ebe15c60fa798c4a34e60fce2ad2f9db026a93da124f0ef70f07f"
+    },
+    {
+      "path": "images/img-0e74ef6e444d.webp",
+      "bytes": 385790,
+      "sha256": "04b4c02baeb6134de81543fbb2f171b31f33694f094a5c244cb43215138a34d2"
+    },
+    {
+      "path": "images/img-0ea84fb4cc9a.webp",
+      "bytes": 339626,
+      "sha256": "baea7e4c1427623bcf80195c0d9a0e1b24f34e27ac10a9cb3e591da770d67959"
+    },
+    {
+      "path": "images/img-0f162afbc58b.webp",
+      "bytes": 394486,
+      "sha256": "7f9c1ff87a0fb1bbbc42902d247b95fb442f1d48345121932c7f0c1b4ff1c945"
+    },
+    {
+      "path": "images/img-15da18bd58a0.webp",
+      "bytes": 766942,
+      "sha256": "e3d328eba37afa22fdc21c9f308c973c14381717aef7d6d78b363680a1964cfb"
+    },
+    {
+      "path": "images/img-1cf02ca87651.webp",
+      "bytes": 293936,
+      "sha256": "07390c0daddc2de85fea65c653a730e8611c17c6bafab54264d134fb435a2f2e"
+    },
+    {
+      "path": "images/img-1e202a067e3b.webp",
+      "bytes": 520950,
+      "sha256": "2145a5e9a2526599bb57d8a9adce7f49e115ac1484806e9b003196ef06871b88"
+    },
+    {
+      "path": "images/img-2000d84cc6b6.webp",
+      "bytes": 336208,
+      "sha256": "ae6db802c9d709acaedf55c9e306d8cbfe2d100fa24bea835b9fb79abaa87f7d"
+    },
+    {
+      "path": "images/img-237702a69700.webp",
+      "bytes": 267292,
+      "sha256": "780dbefbaccccae970e74950dbd445dab0d767890fe2153cbabc7434ed12e048"
+    },
+    {
+      "path": "images/img-24ad8923b8cd.webp",
+      "bytes": 305464,
+      "sha256": "d353a8609ca5b5f82dcb0baa0172d32089c961858a560fd33148fb4d6bc93a47"
+    },
+    {
+      "path": "images/img-2c490ab6157a.webp",
+      "bytes": 310138,
+      "sha256": "51c9994f3b487cd74aa1aae8f793bb6cb1f193d7e48215836ca641cbe379343b"
+    },
+    {
+      "path": "images/img-2f27759636a9.webp",
+      "bytes": 268682,
+      "sha256": "ba567ba5312996cebb35818939da05ca0f4e8031ae8b24771c9cd665f275a532"
+    },
+    {
+      "path": "images/img-368630a20456.webp",
+      "bytes": 438384,
+      "sha256": "a2abaed85e5a090333ffb63dee5f9caf0c2e74b75fb45c3efd63906a5e5bd098"
+    },
+    {
+      "path": "images/img-3a643979816b.webp",
+      "bytes": 236986,
+      "sha256": "08c1870b64d5424550b1d6fc0b020d12bf4e4507093a6a867167be8255d068b3"
+    },
+    {
+      "path": "images/img-4b99998cb799.webp",
+      "bytes": 305252,
+      "sha256": "4100ef854bb3b6431b9291ebb5bcc7795b9c835945e197e0d59f9a2a396b0fb1"
+    },
+    {
+      "path": "images/img-548396cadf93.webp",
+      "bytes": 677226,
+      "sha256": "b5489f7f8bc4e2c7b90112f78d4815603254ad7ad94f1d54a4fabaf16fc790e3"
+    },
+    {
+      "path": "images/img-54d305d704fd.webp",
+      "bytes": 220610,
+      "sha256": "a809590a341b2e49cbbfc61ffc6a26198241bf2cd80c26cd34956e80fcdaeec1"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5dffcb9a2de6.webp",
+      "bytes": 675112,
+      "sha256": "215c37d9b83eeaba0bc7ddc878ad27ba6814d102c28b4fa1a32e1bf0ba3d510e"
+    },
+    {
+      "path": "images/img-61879f364700.webp",
+      "bytes": 705918,
+      "sha256": "7c492cdf3c26564b20e8fd087908d05051309951fd2e7bfc6694712c807830a7"
+    },
+    {
+      "path": "images/img-6a4cc205e7d1.webp",
+      "bytes": 433036,
+      "sha256": "b467054ec96e052733cc0517d9f5ec54f65f9750b640da5c1eecd8ad109cb817"
+    },
+    {
+      "path": "images/img-78768dd55042.webp",
+      "bytes": 361036,
+      "sha256": "1158454ac5777f8fbbf0adc794bb1ad281e5d8bc6e30a6ed612eb5f5c7c19546"
+    },
+    {
+      "path": "images/img-7a7964bb5e65.webp",
+      "bytes": 329706,
+      "sha256": "61217c273918e562bb97cb26e778189f8f3ba42710ec645f595637d1a5ae3d56"
+    },
+    {
+      "path": "images/img-7b84ee8fc62f.webp",
+      "bytes": 621216,
+      "sha256": "b4e233fc7537e7e5ab3418ad98be717d7d744f979468a8b67a1f74a06afc966b"
+    },
+    {
+      "path": "images/img-8521f5ac01d1.webp",
+      "bytes": 405184,
+      "sha256": "f7bd376b54e06c43a57a976a57c091df445597011123f358249d422e8a1dc723"
+    },
+    {
+      "path": "images/img-907213b22938.webp",
+      "bytes": 300464,
+      "sha256": "257d1163c5db956e942cc799882d415a9bce933509d0f8309c0d90ccc0ffd994"
+    },
+    {
+      "path": "images/img-9351e89aac0d.webp",
+      "bytes": 334708,
+      "sha256": "3358ffaf6cdb934c29f69d0738221f0a8548cbc7097766ec73326fa4776c20cb"
+    },
+    {
+      "path": "images/img-94152f524978.webp",
+      "bytes": 356984,
+      "sha256": "b879abca27cc9356438ed717b8417d6f2b38fb0fc7199de076238f9c66c577cd"
+    },
+    {
+      "path": "images/img-97d783e6d4bc.webp",
+      "bytes": 302034,
+      "sha256": "facdfa0c359d02435a2b50ec52553556e3771b99b6c7306ae30eef35c7924b4b"
+    },
+    {
+      "path": "images/img-97fec7360531.webp",
+      "bytes": 252074,
+      "sha256": "691ef3b82b9ba5c3567d487e24498d9c38f65d35b1ab618113cf0838b816f825"
+    },
+    {
+      "path": "images/img-9da01ce7a546.webp",
+      "bytes": 282118,
+      "sha256": "07bf40e98c39d30037421d688286793b0e8b7998588b5581f3c407b8edc305f5"
+    },
+    {
+      "path": "images/img-a7f80ab2bdef.webp",
+      "bytes": 692024,
+      "sha256": "ca6e5e3439e558925768e60d976efcaa5ed183e3b8074203e0a32d788e7e876d"
+    },
+    {
+      "path": "images/img-aefbb57f55ba.webp",
+      "bytes": 394058,
+      "sha256": "4518c169430a76677b0e71e568a5bbff15527e4e3f8b3ea226624d346d0a317a"
+    },
+    {
+      "path": "images/img-b80e15420f5a.webp",
+      "bytes": 356060,
+      "sha256": "fe83c52a3a4a362ba4156b9166234b0851aa49cc98451d25ef605b34ab4b0ab1"
+    },
+    {
+      "path": "images/img-cb4dca0302eb.webp",
+      "bytes": 204276,
+      "sha256": "dffa1d1ae12211df08c655586ece54fe626c6b1ef4085cb49aff33c53bae95ce"
+    },
+    {
+      "path": "images/img-d081ef402b79.webp",
+      "bytes": 316068,
+      "sha256": "d338f261af036287a77898ede274116a4104efb72a12566af2afa823f359fe76"
+    },
+    {
+      "path": "images/img-d30f7b9445a7.webp",
+      "bytes": 511170,
+      "sha256": "35727643ac62bbd717cc563e7f7ff875b08a0ecb20649eb9348c2d9f4f0e1a78"
+    },
+    {
+      "path": "images/img-d3998444bad3.webp",
+      "bytes": 628288,
+      "sha256": "ba02a190bb76505a842c371b4d947392064397035ab82e09eb65557f946d29fe"
+    },
+    {
+      "path": "images/img-dd439b0cf6a2.webp",
+      "bytes": 590048,
+      "sha256": "87b02486be70d056cbb002fae7412c92b379b825befd81e154bd42c1f11faeec"
+    },
+    {
+      "path": "images/img-ddeed993af0e.webp",
+      "bytes": 294612,
+      "sha256": "33c72851b925d7990b72f4dfd332c4079a6fb57037797801f0730a5bda219d8f"
+    },
+    {
+      "path": "images/img-df5b111d22d5.webp",
+      "bytes": 629162,
+      "sha256": "85c14fa4ed6630979c3e2670ba59a1074b99ffdef2120882d98c60086435d5de"
+    },
+    {
+      "path": "images/img-e03d60829f0c.webp",
+      "bytes": 358072,
+      "sha256": "68cb7b52bdd6311f80737142892fb2c9ca17629772259e14fb79031c98cc186c"
+    },
+    {
+      "path": "images/img-e07dddd27b29.webp",
+      "bytes": 125632,
+      "sha256": "edf6aedc4e84acc526d26a834b5d493fa36cdf7c1248919af23044352795f103"
+    },
+    {
+      "path": "images/img-e0dc3673a69e.webp",
+      "bytes": 287604,
+      "sha256": "6d89c8956e865c8521dc6ae98b4423efdd7313943d042f51a7616cd5f638d1f4"
+    },
+    {
+      "path": "images/img-e25121f6f630.webp",
+      "bytes": 336514,
+      "sha256": "9319cf3c3bd8846e562078b14b52432f344ad8049307e37307e720445954335b"
+    },
+    {
+      "path": "images/img-e6fe61ece368.webp",
+      "bytes": 699986,
+      "sha256": "33ed5646adf5ce47b958e9dc234e7b159e571ce7c572f534f05d1e0072b80ac1"
+    },
+    {
+      "path": "images/img-e82b7f9b629b.webp",
+      "bytes": 208686,
+      "sha256": "c5045ba2ba1760e3e3b678341add843f510d86ddd6ae5d7d70b377bd50fa4ffe"
+    },
+    {
+      "path": "images/img-e8ffd8b69e35.webp",
+      "bytes": 223406,
+      "sha256": "b7cf6484efa0645a020988b28c7079eb52e7797d9ed31bcb9c6ae1d1a576d49e"
+    },
+    {
+      "path": "images/img-eb8643dc484d.webp",
+      "bytes": 160754,
+      "sha256": "3eb770cb91364401cb31d548cbd9ebc8f13c7e7a6a7d8cecd1e393ce80d06cf7"
+    },
+    {
+      "path": "images/img-f622e3971854.webp",
+      "bytes": 305546,
+      "sha256": "a3feb6a2306b98713c55e572061479431a59ab81e9300696e19ef2d029d1f0b5"
+    },
+    {
+      "path": "images/img-f900cf230adc.webp",
+      "bytes": 354084,
+      "sha256": "533075a38b20442cd26aadc1bb416e089c09c296dcc800832ddc3d0a0ad0ca32"
+    },
+    {
+      "path": "images/img-f9bc5952678e.webp",
+      "bytes": 215770,
+      "sha256": "75da9923a225df8f8aeb4d01fe1c0d2331fa111a6b3fbcab23ffa5e669e26a23"
+    },
+    {
+      "path": "images/img-ff8f27a7ab04.webp",
+      "bytes": 768524,
+      "sha256": "c034d41839802e0d86780f052154190a9ef75aa04b6dcc2073ae58e3d3f351ef"
+    },
+    {
+      "path": "images/img-ffd92ee11c72.webp",
+      "bytes": 532158,
+      "sha256": "360b9efdf3f9462f8450139985423b02151ca1e8d84f61700434501b8be0053c"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 31178,
+      "sha256": "a44ffcafc032b494cebf645a60870e57786a2b974996be4471f601d08d4903a8"
+    },
+    {
+      "path": "source.html",
+      "bytes": 575162,
+      "sha256": "4dc8c1b881a49907669330e4cba347c678e4dbc7464238159ea6a1062f436a21"
+    },
+    {
+      "path": "source.url",
+      "bytes": 84,
+      "sha256": "be6de148144e97b9005001f3bc36f4c5c76855054a74840a2d32649ad0d47a96"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/33/ae8bb418-f29d-47a7-b89a-51611279192a/je/2200xxs.jpg",
+      "path": "images/img-15da18bd58a0.webp",
+      "media_type": "image/webp",
+      "bytes": 766942,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/fd194378-be7f-4f4f-a5be-4ed143eafc7d/je/2200xxs.jpg",
+      "path": "images/img-1e202a067e3b.webp",
+      "media_type": "image/webp",
+      "bytes": 520950,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/2e0511f1-5d43-4833-af4b-37189dddb39b/je/2200xxs.jpg",
+      "path": "images/img-df5b111d22d5.webp",
+      "media_type": "image/webp",
+      "bytes": 629162,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/da82ab93-b1b5-4746-8f63-a96eea53dafd/je/2200xxs.jpg",
+      "path": "images/img-e6fe61ece368.webp",
+      "media_type": "image/webp",
+      "bytes": 699986,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/ca251ba3-c688-4215-8f30-d5742244a868/je/2200xxs.jpg",
+      "path": "images/img-d3998444bad3.webp",
+      "media_type": "image/webp",
+      "bytes": 628288,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/140cf007-400a-45d9-b93e-b126ad9cfd90/je/2000xxs.jpg",
+      "path": "images/img-e07dddd27b29.webp",
+      "media_type": "image/webp",
+      "bytes": 125632,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/64a6d26f-2df8-4bd2-a287-9b04f6e18730/je/2000xxs.jpg",
+      "path": "images/img-2000d84cc6b6.webp",
+      "media_type": "image/webp",
+      "bytes": 336208,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/013fce1d-9061-4f8c-ad59-e6c9a06ea10c/je/2000xxs.jpg",
+      "path": "images/img-2c490ab6157a.webp",
+      "media_type": "image/webp",
+      "bytes": 310138,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/6f86eecf-797a-455c-b4b2-a21d1b40ee5b/je/2000xxs.jpg",
+      "path": "images/img-237702a69700.webp",
+      "media_type": "image/webp",
+      "bytes": 267292,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/daab6bd8-7d8b-4902-a63e-1a50f6ab3a9f/je/2000xxs.jpg",
+      "path": "images/img-06637e2b54d1.webp",
+      "media_type": "image/webp",
+      "bytes": 325148,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/a02d650c-d986-4e80-8e08-266cba91bbe4/je/2000xxs.jpg",
+      "path": "images/img-f900cf230adc.webp",
+      "media_type": "image/webp",
+      "bytes": 354084,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/6a97a9fe-9729-4090-bb6b-276bd5b4857f/je/2000xxs.jpg",
+      "path": "images/img-94152f524978.webp",
+      "media_type": "image/webp",
+      "bytes": 356984,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/6ed45268-3e23-4551-b33f-6e32715c868d/je/2000xxs.jpg",
+      "path": "images/img-1cf02ca87651.webp",
+      "media_type": "image/webp",
+      "bytes": 293936,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/c73ed490-4570-48d4-8c33-c696c25f5203/je/2000xxs.jpg",
+      "path": "images/img-e25121f6f630.webp",
+      "media_type": "image/webp",
+      "bytes": 336514,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/236d8a96-bb62-4c8f-b321-468fbcefff5d/je/2000xxs.jpg",
+      "path": "images/img-9da01ce7a546.webp",
+      "media_type": "image/webp",
+      "bytes": 282118,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/cc5d401d-95e1-4ad5-b170-e49d1bd87905/je/2000xxs.jpg",
+      "path": "images/img-97d783e6d4bc.webp",
+      "media_type": "image/webp",
+      "bytes": 302034,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/1d865a52-b772-42f6-8639-777a5652fd81/je/2000xxs.jpg",
+      "path": "images/img-d081ef402b79.webp",
+      "media_type": "image/webp",
+      "bytes": 316068,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/9c474a9f-a568-41e0-9fbb-cd89e18a229c/je/2000xxs.jpg",
+      "path": "images/img-2f27759636a9.webp",
+      "media_type": "image/webp",
+      "bytes": 268682,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/696a260c-4cd9-49c4-809e-3306fe5fdecd/je/2000xxs.jpg",
+      "path": "images/img-7a7964bb5e65.webp",
+      "media_type": "image/webp",
+      "bytes": 329706,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/da5971d6-7f28-49f2-a54f-dc9eb915ec9d/je/2000xxs.jpg",
+      "path": "images/img-4b99998cb799.webp",
+      "media_type": "image/webp",
+      "bytes": 305252,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/387c0fa6-3ddd-405d-b4b6-da59c1f2e3ef/je/2000xxs.jpg",
+      "path": "images/img-e03d60829f0c.webp",
+      "media_type": "image/webp",
+      "bytes": 358072,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/9092c30f-a792-4fd0-80f6-16f446dbbb1c/je/2000xxs.jpg",
+      "path": "images/img-3a643979816b.webp",
+      "media_type": "image/webp",
+      "bytes": 236986,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/5cc693c0-2853-4ba7-98f2-fc0028d4ccb3/je/2000xxs.jpg",
+      "path": "images/img-f9bc5952678e.webp",
+      "media_type": "image/webp",
+      "bytes": 215770,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/863854a1-551c-47ce-bdda-185bec4c993a/je/2000xxs.jpg",
+      "path": "images/img-54d305d704fd.webp",
+      "media_type": "image/webp",
+      "bytes": 220610,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/d2a73fc1-65ac-4911-a2fc-5503603370a8/je/2000xxs.jpg",
+      "path": "images/img-368630a20456.webp",
+      "media_type": "image/webp",
+      "bytes": 438384,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/723e882b-ed9f-4a5e-b685-c284603906e9/je/2000xxs.jpg",
+      "path": "images/img-0ea84fb4cc9a.webp",
+      "media_type": "image/webp",
+      "bytes": 339626,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/4c300887-ac0f-479f-8006-64ddedc9d3b7/je/2000xxs.jpg",
+      "path": "images/img-0be2af8b17eb.webp",
+      "media_type": "image/webp",
+      "bytes": 991834,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/33/d405fe7d-309c-46fd-8bd4-1b5927a0bd5f/je/2000xxs.jpg",
+      "path": "images/img-5dffcb9a2de6.webp",
+      "media_type": "image/webp",
+      "bytes": 675112,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/8ec7dbbc-e801-44a0-8151-8f370e13f06c/je/2000xxs.jpg",
+      "path": "images/img-9351e89aac0d.webp",
+      "media_type": "image/webp",
+      "bytes": 334708,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/aeafbd13-9f36-4307-9866-c3dc009675c3/je/2000xxs.jpg",
+      "path": "images/img-e82b7f9b629b.webp",
+      "media_type": "image/webp",
+      "bytes": 208686,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/8c81ee83-5f26-41ae-a41c-01efde5a7b1e/je/2000xxs.jpg",
+      "path": "images/img-aefbb57f55ba.webp",
+      "media_type": "image/webp",
+      "bytes": 394058,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/9ce283f7-000d-43b5-9711-7e29719ff76d/je/2000xxs.jpg",
+      "path": "images/img-f622e3971854.webp",
+      "media_type": "image/webp",
+      "bytes": 305546,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/f3e499e8-9b2a-409f-be85-1b5a327f8c0b/je/2000xxs.jpg",
+      "path": "images/img-ddeed993af0e.webp",
+      "media_type": "image/webp",
+      "bytes": 294612,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/152a035a-bab6-47e6-909f-129997537e46/je/2000xxs.jpg",
+      "path": "images/img-97fec7360531.webp",
+      "media_type": "image/webp",
+      "bytes": 252074,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/ab601c57-3ca5-42b0-bfd2-28fe51384180/je/2000xxs.jpg",
+      "path": "images/img-0e74ef6e444d.webp",
+      "media_type": "image/webp",
+      "bytes": 385790,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/8f9d44a4-28c5-4987-b8a8-5e3de25df49f/je/2000xxs.jpg",
+      "path": "images/img-0c20034bc1c5.webp",
+      "media_type": "image/webp",
+      "bytes": 593520,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/2dddb5d3-169e-4ac8-b41b-3a77ce0c3854/je/2000xxs.jpg",
+      "path": "images/img-6a4cc205e7d1.webp",
+      "media_type": "image/webp",
+      "bytes": 433036,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/4deec24e-0e9e-43d8-8e1a-a8b758e808a9/je/2000xxs.jpg",
+      "path": "images/img-8521f5ac01d1.webp",
+      "media_type": "image/webp",
+      "bytes": 405184,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/5482660b-6004-499f-9053-4bccdf18e1c3/je/2000xxs.jpg",
+      "path": "images/img-0f162afbc58b.webp",
+      "media_type": "image/webp",
+      "bytes": 394486,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/afa70c7f-c17e-409b-a904-6abf0c4e360d/je/2000xxs.jpg",
+      "path": "images/img-24ad8923b8cd.webp",
+      "media_type": "image/webp",
+      "bytes": 305464,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/d1914650-d9fa-4333-b9d5-1c7db5f70a7c/je/2000xxs.jpg",
+      "path": "images/img-a7f80ab2bdef.webp",
+      "media_type": "image/webp",
+      "bytes": 692024,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/d50d2149-4a6c-42c8-ad49-0ec1bd3e21b4/je/2000xxs.jpg",
+      "path": "images/img-61879f364700.webp",
+      "media_type": "image/webp",
+      "bytes": 705918,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/6c7906fc-b481-4eaa-9d9e-84dc761cc2f9/je/2000xxs.jpg",
+      "path": "images/img-ff8f27a7ab04.webp",
+      "media_type": "image/webp",
+      "bytes": 768524,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/5470a518-d4d4-42a6-8297-fa234d8c4a2a/je/2000xxs.jpg",
+      "path": "images/img-548396cadf93.webp",
+      "media_type": "image/webp",
+      "bytes": 677226,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/a148026e-6dbe-437f-9a4a-02bafbbb61ab/je/2000xxs.jpg",
+      "path": "images/img-dd439b0cf6a2.webp",
+      "media_type": "image/webp",
+      "bytes": 590048,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/1eb7988e-6970-4ee4-ac4a-934b53937f70/je/2000xxs.jpg",
+      "path": "images/img-78768dd55042.webp",
+      "media_type": "image/webp",
+      "bytes": 361036,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/c1944cec-82e7-4211-83af-8ec856aa06ce/je/2000xxs.jpg",
+      "path": "images/img-d30f7b9445a7.webp",
+      "media_type": "image/webp",
+      "bytes": 511170,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/ca37e7ce-0e74-4eb8-9363-dcbce0d57921/je/2000xxs.jpg",
+      "path": "images/img-907213b22938.webp",
+      "media_type": "image/webp",
+      "bytes": 300464,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/e6cd9a0a-2ec4-4d7f-a60e-38ca0b3b5219/je/2000xxs.jpg",
+      "path": "images/img-cb4dca0302eb.webp",
+      "media_type": "image/webp",
+      "bytes": 204276,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/2c0cf57e-0876-46cf-b7a6-fdde2eafa65f/je/2000xxs.jpg",
+      "path": "images/img-e0dc3673a69e.webp",
+      "media_type": "image/webp",
+      "bytes": 287604,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/cc2eb745-1e70-4be2-9f6a-492e869bb5ce/je/2000xxs.jpg",
+      "path": "images/img-e8ffd8b69e35.webp",
+      "media_type": "image/webp",
+      "bytes": 223406,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/51f5e533-d55d-4256-850a-a8befb32f759/je/2000xxs.jpg",
+      "path": "images/img-ffd92ee11c72.webp",
+      "media_type": "image/webp",
+      "bytes": 532158,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/41e57c2d-cbf7-417f-89b2-8f95597fc586/je/2000xxs.jpg",
+      "path": "images/img-eb8643dc484d.webp",
+      "media_type": "image/webp",
+      "bytes": 160754,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/eccf5279-d57c-4c2e-a104-c2e86211a7af/je/2000xxs.jpg",
+      "path": "images/img-7b84ee8fc62f.webp",
+      "media_type": "image/webp",
+      "bytes": 621216,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/27/98d81ddc-7ee7-4bbd-9f51-65ee602c362a/je/2000xxs.jpg",
+      "path": "images/img-b80e15420f5a.webp",
+      "media_type": "image/webp",
+      "bytes": 356060,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Krupp%20Brothers%20Estate%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2817705935%29_files/2200xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 56,
+    "images_existing": 0,
+    "images_failed": 12,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

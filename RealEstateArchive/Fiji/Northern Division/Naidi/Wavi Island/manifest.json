@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/wavi-island-fabulous-fiji-27-acre-freehold-private-island-residential-resort-development-17695633",
+    "canonical_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/wavi-island-fabulous-fiji-27-acre-freehold-private-island-residential-resort-development-17695633",
+    "site": "jamesedition",
+    "listing_id": "17695633",
+    "first_listed": "Apr 16",
+    "last_updated": "April 28",
+    "retrieved_at": "2026-06-16T03:43:42.593673Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3125,
+      "sha256": "815360e2cd6f36a5399ed9aeda822b81c4fc55ce0a674a5fe122726f28bdd7a7"
+    },
+    {
+      "path": "images/004-541d717d.webp",
+      "bytes": 612340,
+      "sha256": "972cdf62a4f143b688deef2cb5567b5fd7c687c086fb7eaf47316a09a70bbd85"
+    },
+    {
+      "path": "images/009-3a811c45.webp",
+      "bytes": 545668,
+      "sha256": "a4775cb2c4f880cfe18a7e5f741ff9d21aacb4596fdca32b9379e567f3704b85"
+    },
+    {
+      "path": "images/014-dc49b2a6.webp",
+      "bytes": 452570,
+      "sha256": "bc162e1880b3419f36253edcc6ce8b743adb1e14c21aa315d3468e1fda34aadd"
+    },
+    {
+      "path": "images/019-2bbae4ff.webp",
+      "bytes": 977344,
+      "sha256": "7df6f95b5b3a15be318fc9341b93a1bd0cb2a3d21e2dc5356ff220ebe8470ae4"
+    },
+    {
+      "path": "images/024-2602f61b.webp",
+      "bytes": 599616,
+      "sha256": "8669736e73589d98bac8dce7358b7e5d6ef13e5739514ba5330e94b8e79b52a5"
+    },
+    {
+      "path": "images/029-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/030-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/031-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/032-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 14371,
+      "sha256": "1250c9ec29b9c1c7c870e7a0c2337fe26a5126e89b7ad518f119be8724b2367c"
+    },
+    {
+      "path": "source.html",
+      "bytes": 324987,
+      "sha256": "844911e72dc22a8bfe826a856005b8b66140ddbdce5a45416325c883aab4f6e9"
+    },
+    {
+      "path": "source.url",
+      "bytes": 155,
+      "sha256": "dcf6e75d1d9f314d5c2a910a954424bfcde187c8dea7aa3a6680d883754ae1fb"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/2200xxs.jpg",
+      "path": "images/004-541d717d.webp",
+      "media_type": "image/webp",
+      "bytes": 612340,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/2200xxs.jpg",
+      "path": "images/009-3a811c45.webp",
+      "media_type": "image/webp",
+      "bytes": 545668,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/2200xxs.jpg",
+      "path": "images/014-dc49b2a6.webp",
+      "media_type": "image/webp",
+      "bytes": 452570,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/2200xxs.jpg",
+      "path": "images/019-2bbae4ff.webp",
+      "media_type": "image/webp",
+      "bytes": 977344,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/2200xxs.jpg",
+      "path": "images/024-2602f61b.webp",
+      "media_type": "image/webp",
+      "bytes": 599616,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

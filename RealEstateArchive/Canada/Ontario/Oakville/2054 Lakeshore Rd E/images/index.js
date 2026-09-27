@@ -1,0 +1,59 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Canada/Ontario/Oakville/2054 Lakeshore Rd E/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-385bced8.webp",
+      "href": "004-385bced8.webp",
+      "size": 422860
+    },
+    {
+      "name": "009-64bbc419.webp",
+      "href": "009-64bbc419.webp",
+      "size": 367882
+    },
+    {
+      "name": "014-2f072cec.webp",
+      "href": "014-2f072cec.webp",
+      "size": 338840
+    },
+    {
+      "name": "019-feea8a31.webp",
+      "href": "019-feea8a31.webp",
+      "size": 344272
+    },
+    {
+      "name": "024-6eeaf967.webp",
+      "href": "024-6eeaf967.webp",
+      "size": 573702
+    },
+    {
+      "name": "036-57242b8e.webp",
+      "href": "036-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "037-4055dfde.svg",
+      "href": "037-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "038-272e34fe.svg",
+      "href": "038-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "039-caf7633d.svg",
+      "href": "039-caf7633d.svg",
+      "size": 63710
+    },
+    {
+      "name": "040-e54ffa22.webp",
+      "href": "040-e54ffa22.webp",
+      "size": 1448
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

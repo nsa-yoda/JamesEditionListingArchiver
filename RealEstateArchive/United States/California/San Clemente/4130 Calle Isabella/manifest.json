@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/the-cotton-point-estate-a-rare-three-acre-oceanfront-compound-above-the-pacific-17398344",
+    "canonical_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/the-cotton-point-estate-a-rare-three-acre-oceanfront-compound-above-the-pacific-17398344",
+    "site": "jamesedition",
+    "listing_id": "17398344",
+    "first_listed": "Mar 12",
+    "last_updated": "March 16",
+    "retrieved_at": "2026-06-16T03:43:38.659289Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3837,
+      "sha256": "2e3dae594596b08d2f64b990c78d45cc1cdb0b372410ca48b99616b6a9f95d83"
+    },
+    {
+      "path": "images/004-0b8431c2.webp",
+      "bytes": 787164,
+      "sha256": "4bba0d7c1398fa3f65ed36a3998f57438a8d287cf7c4a0ae1bca08f5b678b855"
+    },
+    {
+      "path": "images/009-658ee250.webp",
+      "bytes": 239344,
+      "sha256": "41686a7e52b6c029c5f9362508ec64ac1a835d2ef6f861e6d3268ae89baef854"
+    },
+    {
+      "path": "images/014-b42a1557.webp",
+      "bytes": 198066,
+      "sha256": "a965190d326f532b3515f32aa0e7d57b704ea248a4ef6649c2a09126a301844b"
+    },
+    {
+      "path": "images/019-56474e5c.webp",
+      "bytes": 282282,
+      "sha256": "3bfa8de66802ed11c123e9a3809b949a66d5a739d26408c2dfd91432ecf74aef"
+    },
+    {
+      "path": "images/024-d9188e08.webp",
+      "bytes": 148932,
+      "sha256": "5db190369f47a35d9d563905ec909676e8b1d2085ff067114f919b6b8bb01d64"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/034-dbaf5181.webp",
+      "bytes": 936,
+      "sha256": "42838108db2da5239fc6f2eef220155a1bfd2ecceb7c0e59d351ef1475ce3883"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 19423,
+      "sha256": "4ffb9d593a34aa92a4b9c82b5306cc1a5398d6eb6c30f35b5d1b48cf22d98a08"
+    },
+    {
+      "path": "source.html",
+      "bytes": 384493,
+      "sha256": "8127fea28406d010c5152fd7ee6e05352ea277fd52b41c1033b6d691e9530ec1"
+    },
+    {
+      "path": "source.url",
+      "bytes": 150,
+      "sha256": "20782c64446cc8fcd2432ccc77a3edaeb658adfe23f885ac277cd49e07938de0"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/2200xxs.jpg",
+      "path": "images/004-0b8431c2.webp",
+      "media_type": "image/webp",
+      "bytes": 787164,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/3770c98b-7e32-4caf-aed2-98ee0e6d28f4/je/2200xxs.jpg",
+      "path": "images/009-658ee250.webp",
+      "media_type": "image/webp",
+      "bytes": 239344,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/56/4daf9412-c4f6-45d9-a02c-23bdb2b02fee/je/2200xxs.jpg",
+      "path": "images/014-b42a1557.webp",
+      "media_type": "image/webp",
+      "bytes": 198066,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0ccee0bd-0046-4583-b122-813e52eb086e/je/2200xxs.jpg",
+      "path": "images/019-56474e5c.webp",
+      "media_type": "image/webp",
+      "bytes": 282282,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0a08da4a-0e9c-436c-a81a-d4cac36743ef/je/2200xxs.jpg",
+      "path": "images/024-d9188e08.webp",
+      "media_type": "image/webp",
+      "bytes": 148932,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/06/24/20/04/20/8f819849-4180-42f0-bb8e-93ba30108f7d/je/80x80xc.jpg",
+      "path": "images/034-dbaf5181.webp",
+      "media_type": "image/webp",
+      "bytes": 936,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

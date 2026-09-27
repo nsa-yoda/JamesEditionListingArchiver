@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "path": "United States/California/Sonoma/The Summit/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-33320662f28b.webp",
+      "href": "img-33320662f28b.webp",
+      "size": 276336
+    },
+    {
+      "name": "img-550f1b396dec.webp",
+      "href": "img-550f1b396dec.webp",
+      "size": 467292
+    },
+    {
+      "name": "img-57242b8ef18d.webp",
+      "href": "img-57242b8ef18d.webp",
+      "size": 1004
+    },
+    {
+      "name": "img-58da358df1f0.webp",
+      "href": "img-58da358df1f0.webp",
+      "size": 486034
+    },
+    {
+      "name": "img-6adfe0b56f00.webp",
+      "href": "img-6adfe0b56f00.webp",
+      "size": 798628
+    },
+    {
+      "name": "img-e7c3d809b7e3.webp",
+      "href": "img-e7c3d809b7e3.webp",
+      "size": 404452
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

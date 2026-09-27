@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/exquisite-estate-on-billionaires-row-with-luxury-amenities-17336062",
+    "canonical_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/exquisite-estate-on-billionaires-row-with-luxury-amenities-17336062",
+    "site": "jamesedition",
+    "listing_id": "17336062",
+    "listing_reference": "e40ba04b-c9ca-4f41-a20e-37589d1932c2",
+    "first_listed": "Mar 4",
+    "last_updated": "June 12",
+    "retrieved_at": "2026-06-16T03:43:25.070433Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3533,
+      "sha256": "e485d50025fb9c773f66a7d9a7555a3fe0560f3a407d0e1c651c36963cdffd78"
+    },
+    {
+      "path": "images/004-d3218bdd.webp",
+      "bytes": 518412,
+      "sha256": "d7b77dc5e040ea0af961414391ea3c5bf1600d33e18eeb58e4e7f72bccab68bd"
+    },
+    {
+      "path": "images/009-57c8234a.webp",
+      "bytes": 168468,
+      "sha256": "03657a0a08a76c9a4352120fce46d79d48f43b915e8842e8eea86fc07e072d26"
+    },
+    {
+      "path": "images/014-03c4cdd9.webp",
+      "bytes": 112608,
+      "sha256": "2937c9fa87e9532761a5315c784000fb3844486ce48ee60833b924849df48215"
+    },
+    {
+      "path": "images/019-1a16e7e1.webp",
+      "bytes": 244890,
+      "sha256": "2cd4fa2df27bab68671e727e998edd601d1a503ba0f7f7fd63e9b38b9bc77c97"
+    },
+    {
+      "path": "images/024-78c52a8c.webp",
+      "bytes": 530390,
+      "sha256": "b886c3e7294e8a552a0222bf70a774d0b31132291a4d8a936bad2353c781f4fe"
+    },
+    {
+      "path": "images/032-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/033-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/034-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/035-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 19504,
+      "sha256": "3628f8f7db7f07dbe306891c7db6a9608d0d8ac356dbea56493813e61ac7904d"
+    },
+    {
+      "path": "source.html",
+      "bytes": 361893,
+      "sha256": "77f07601b2e1dda59167c9fe32819f0a2d71af028329adf3002738194e6fac60"
+    },
+    {
+      "path": "source.url",
+      "bytes": 123,
+      "sha256": "78af76addca1c027049d3393417ee6bdacc02b8075d75c9c126ce116bc6ab4e3"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/2200xxs.jpg",
+      "path": "images/004-d3218bdd.webp",
+      "media_type": "image/webp",
+      "bytes": 518412,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/2200xxs.jpg",
+      "path": "images/009-57c8234a.webp",
+      "media_type": "image/webp",
+      "bytes": 168468,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/2200xxs.jpg",
+      "path": "images/014-03c4cdd9.webp",
+      "media_type": "image/webp",
+      "bytes": 112608,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/2200xxs.jpg",
+      "path": "images/019-1a16e7e1.webp",
+      "media_type": "image/webp",
+      "bytes": 244890,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/2200xxs.jpg",
+      "path": "images/024-78c52a8c.webp",
+      "media_type": "image/webp",
+      "bytes": 530390,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/032-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/033-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/034-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/035-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 10,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

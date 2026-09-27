@@ -1,0 +1,622 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/single-family-residence-in-pound-ridge-18091851",
+    "canonical_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/single-family-residence-in-pound-ridge-18091851",
+    "site": "jamesedition",
+    "listing_id": "18091851",
+    "listing_reference": "1007263",
+    "first_listed": "Jun 5",
+    "last_updated": "June 5",
+    "retrieved_at": "2026-06-18T07:09:02.746882Z"
+  },
+  "location": {
+    "address": "164 Eastwoods Road, Pound Ridge, New York, United States",
+    "street": "164 Eastwoods Road",
+    "municipality": "Pound Ridge",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.213428,-73.535957",
+    "latitude": 41.213428,
+    "longitude": -73.535957
+  },
+  "property": {
+    "title": "Single Family Residence In Pound Ridge",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 15000000,
+      "currency": "USD",
+      "display": "$15,000,000"
+    },
+    "price_per_area": {
+      "amount": 2727,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$2,727"
+    },
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "interior_area": {
+      "value": 5500,
+      "unit": "sqft",
+      "display": "5,500 Sqft"
+    },
+    "lot_area": {
+      "value": 38.63,
+      "display": "38.63 Ac lot"
+    },
+    "year_built": 1976,
+    "photo_count": 46,
+    "description": "EASTLAKE. Nearly 39 serene acres offering the ultimate in privacy. Long, gated drive over rushing stream and through manicured grounds. Remarkable estate compound owned for years by renowned fashion designer as a family residence. Impressive architect-designed Stone and Country House positioned to overlook a private eight-acre lake. Striking and sophisticated Contemporary with elements of a Mid-Century Modern. Impressive rooms with natural finishes of fine woods and hand-cut stone. 5500 square feet of airy, loft-like living space positioned to capture views of the water. Beautifully scaled main rooms with vaulted ceilings, finished in warm woods, stone and hardwood floors and walls of glass. Striking Living Room with stone fireplace and vaulted ceiling lit by a modern cupola. Doors to wrap-around porch for fantastic indoor-outdoor living. Open-concept Dining Area also with water view, perfectly scaled for entertaining. Sleek Kitchen designed for the consummate chef. Private Office with conference area and wet bar. Lower Level Family Room for more casual everyday living. Spacious first floor Primary Suite with ample closets and private Bath. Four additional Bedrooms, most with en-suite Baths. Breathtaking grounds amid dramatic rock outcroppings with stone walls and terraces, an incredible array of flowering plantings, rare and specimen trees and rolling lawns down to the water. Fenced garden for flowers and seasonal produce. Lakefront dock, heated Swimming Pool with Pool House and privately sited Tennis Court make for an incredible sporting lifestyle. Separate building complex with a Three-Bedroom, fully equipped Guest House, Garages for six-plus cars and equipment storage. The perfect, peaceful refuge.",
+    "features": [
+      "Bar",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Gate",
+      "High Ceiling",
+      "Lake View",
+      "Lakefront",
+      "Modern",
+      "Office",
+      "Open Kitchen",
+      "Parking",
+      "Pool",
+      "Privacy",
+      "Tennis Court",
+      "Terrace",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Ginnel Real Estate - Bedford Hills",
+    "agency": "Ginnel Real Estate - Bedford Hills",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/ginnel-real-estate-bedford-hills-558614",
+    "agency_address": "Bedford Hills, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/2200xxs.jpg",
+      "file": "004-2e774d1b.webp",
+      "media_type": "image/webp",
+      "bytes": 514008,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/2200xxs.jpg",
+      "file": "009-e1371997.webp",
+      "media_type": "image/webp",
+      "bytes": 722622,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/2200xxs.jpg",
+      "file": "014-8d6206e9.webp",
+      "media_type": "image/webp",
+      "bytes": 638230,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/2200xxs.jpg",
+      "file": "019-319b7370.webp",
+      "media_type": "image/webp",
+      "bytes": 476610,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/2200xxs.jpg",
+      "file": "024-6305c854.webp",
+      "media_type": "image/webp",
+      "bytes": 772436,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/6f67ded3-85cd-4366-ab4e-55d447f4befc/je/2000xxs.jpg",
+      "file": "035-3639917e.webp",
+      "media_type": "image/webp",
+      "bytes": 619074,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/f6664a1a-4b8d-4823-81cf-49d59ac40ba2/je/2000xxs.jpg",
+      "file": "036-9f15ede8.webp",
+      "media_type": "image/webp",
+      "bytes": 663908,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/c47ac448-6c43-44e7-bd87-5244d91652dd/je/2000xxs.jpg",
+      "file": "037-4877652c.webp",
+      "media_type": "image/webp",
+      "bytes": 450212,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/6ad72faa-9fd1-405d-9609-9a70d26f43f8/je/2000xxs.jpg",
+      "file": "038-46f164df.webp",
+      "media_type": "image/webp",
+      "bytes": 350076,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/9d9581ba-fca8-4b67-95b9-ebf9a6003e42/je/2000xxs.jpg",
+      "file": "039-727a6029.webp",
+      "media_type": "image/webp",
+      "bytes": 437706,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/7674ec79-5397-44c6-8287-a88cbd7f2155/je/2000xxs.jpg",
+      "file": "040-57469994.webp",
+      "media_type": "image/webp",
+      "bytes": 277580,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/d1450bc1-2671-4c91-a364-f64a6456bf0d/je/2000xxs.jpg",
+      "file": "041-d99e06c5.webp",
+      "media_type": "image/webp",
+      "bytes": 302792,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/e599b48f-cdaa-4f38-840d-a3308ff2138f/je/2000xxs.jpg",
+      "file": "042-73b6552c.webp",
+      "media_type": "image/webp",
+      "bytes": 336394,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/474d7151-9b74-4794-8598-24c66494ed48/je/2000xxs.jpg",
+      "file": "043-8855a2b0.webp",
+      "media_type": "image/webp",
+      "bytes": 253436,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3e6679a8-e187-428f-a0ee-4cad38acc119/je/2000xxs.jpg",
+      "file": "044-0e2602e3.webp",
+      "media_type": "image/webp",
+      "bytes": 243232,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/d88cc678-a00e-46ff-a7af-f0c0044a3dcc/je/2000xxs.jpg",
+      "file": "045-35f23151.webp",
+      "media_type": "image/webp",
+      "bytes": 186486,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/f8831335-9cb7-490e-91f9-a1475d92f1f1/je/2000xxs.jpg",
+      "file": "046-699d3968.webp",
+      "media_type": "image/webp",
+      "bytes": 287804,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/43bb3faa-bc2b-411e-b58b-4ec21ee85503/je/2000xxs.jpg",
+      "file": "047-a52f5ba3.webp",
+      "media_type": "image/webp",
+      "bytes": 257220,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/0717d537-6522-4a45-9430-56c9b1703a09/je/2000xxs.jpg",
+      "file": "048-5865a559.webp",
+      "media_type": "image/webp",
+      "bytes": 227552,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/ec925e38-f94c-43f2-8f1f-56262a489f5e/je/2000xxs.jpg",
+      "file": "049-2a8670c2.webp",
+      "media_type": "image/webp",
+      "bytes": 120084,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/daefa3fa-0681-4dd0-a227-9a59cf83a433/je/2000xxs.jpg",
+      "file": "050-50677855.webp",
+      "media_type": "image/webp",
+      "bytes": 286280,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/bcb89703-3596-49a8-b42c-6ca34bcc3770/je/2000xxs.jpg",
+      "file": "051-20fd9d15.webp",
+      "media_type": "image/webp",
+      "bytes": 361130,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/e5245947-69f5-4213-87c7-b99991a12029/je/2000xxs.jpg",
+      "file": "052-20ccee03.webp",
+      "media_type": "image/webp",
+      "bytes": 263034,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/180a5955-8f1a-407f-9cab-6b8f572054de/je/2000xxs.jpg",
+      "file": "053-6e7649de.webp",
+      "media_type": "image/webp",
+      "bytes": 440434,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/fea4d2fe-7e7d-436e-8a65-91889290687b/je/2000xxs.jpg",
+      "file": "054-4faf8b84.webp",
+      "media_type": "image/webp",
+      "bytes": 372444,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/311d06ce-0995-489f-ad4d-27df4142851f/je/2000xxs.jpg",
+      "file": "055-89b36dd2.webp",
+      "media_type": "image/webp",
+      "bytes": 158952,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/1198a3dd-68b8-4bff-9d86-b57bf0b1cda1/je/2000xxs.jpg",
+      "file": "056-01e86611.webp",
+      "media_type": "image/webp",
+      "bytes": 389178,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/28858c52-befa-473a-8ef5-65d348f1b70d/je/2000xxs.jpg",
+      "file": "057-a65edfde.webp",
+      "media_type": "image/webp",
+      "bytes": 356206,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/d2915084-c8b9-44df-acef-9830ab24e622/je/2000xxs.jpg",
+      "file": "058-573e0305.webp",
+      "media_type": "image/webp",
+      "bytes": 173016,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/897f777f-443f-45e4-af70-111a2cb6604a/je/2000xxs.jpg",
+      "file": "059-4411e8dc.webp",
+      "media_type": "image/webp",
+      "bytes": 282672,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/4d67d2c4-e0f0-453b-8f45-025c2ca0926e/je/2000xxs.jpg",
+      "file": "060-199bffc9.webp",
+      "media_type": "image/webp",
+      "bytes": 125094,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/83072955-6a14-4b27-a7cf-59eb668c028c/je/2000xxs.jpg",
+      "file": "061-f989fe26.webp",
+      "media_type": "image/webp",
+      "bytes": 215308,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/a649be7f-093c-4dd9-adae-f5ee318688e1/je/2000xxs.jpg",
+      "file": "062-607e575c.webp",
+      "media_type": "image/webp",
+      "bytes": 275742,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/07755086-7854-46cc-a988-35874df0455c/je/2000xxs.jpg",
+      "file": "063-44988392.webp",
+      "media_type": "image/webp",
+      "bytes": 309804,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/300cad6a-5674-446b-b486-faf55c86bc83/je/2000xxs.jpg",
+      "file": "064-c3ca61ca.webp",
+      "media_type": "image/webp",
+      "bytes": 440900,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/51cd1fa0-45bc-4f92-bc1d-4564caf4c762/je/2000xxs.jpg",
+      "file": "065-98936dd9.webp",
+      "media_type": "image/webp",
+      "bytes": 450722,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/2b4ad23b-72b7-492c-8068-53c5246617c5/je/2000xxs.jpg",
+      "file": "066-b9512755.webp",
+      "media_type": "image/webp",
+      "bytes": 527020,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b08b6745-945e-474f-b3b8-b541acc7ae6f/je/2000xxs.jpg",
+      "file": "067-d739cb18.webp",
+      "media_type": "image/webp",
+      "bytes": 429630,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/92efaa6a-376e-4f50-9cdf-84eb87dafe38/je/2000xxs.jpg",
+      "file": "068-381a60de.webp",
+      "media_type": "image/webp",
+      "bytes": 764282,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3aa49e83-97e9-4c97-9d03-376b5b02bfb9/je/2000xxs.jpg",
+      "file": "069-28e7650e.webp",
+      "media_type": "image/webp",
+      "bytes": 702680,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/43c9b50a-8add-493a-a9b7-45e718b4af8e/je/2000xxs.jpg",
+      "file": "070-c9a2b103.webp",
+      "media_type": "image/webp",
+      "bytes": 976656,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/378f13d9-d9a5-4031-95df-ed9b410df4ff/je/2000xxs.jpg",
+      "file": "071-c2ef8c93.webp",
+      "media_type": "image/webp",
+      "bytes": 567986,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/12308855-f362-4286-b108-f185255ba46f/je/2000xxs.jpg",
+      "file": "072-1791a034.webp",
+      "media_type": "image/webp",
+      "bytes": 952838,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/66e73dd5-8571-426f-8330-ea98d567f401/je/2000xxs.jpg",
+      "file": "073-75e94ef6.webp",
+      "media_type": "image/webp",
+      "bytes": 802672,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/9d0d8f51-bebf-43ac-b70f-d0c32f59c1c2/je/2000xxs.jpg",
+      "file": "074-7a0beed8.webp",
+      "media_type": "image/webp",
+      "bytes": 980148,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/ff2f749c-1f8a-41f1-b73a-c31a3177bf7e/je/2000xxs.jpg",
+      "file": "075-c020aff2.webp",
+      "media_type": "image/webp",
+      "bytes": 509192,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/2200xxs%2845%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "078-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "079-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "080-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "081-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa",
+              "name": "Pound Ridge"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/single-family-residence-in-pound-ridge-18091851",
+              "name": "Single Family Residence in Pound Ridge"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "EASTLAKE. Nearly 39 serene acres offering the ultimate in privacy. Long, gated drive over rushing stream and through manicured grounds. Remarkable estate compound owned for years by renowned fashion designer as a family residence. Impressive architect-designed Stone and Country House positioned to overlook a private eight-acre lake. Striking and sophisticated Contemporary with elements of a Mid-Century Modern. Impressive rooms with natural finishes of fine woods and hand-cut stone. 5500 square feet of airy, loft-like living space positioned to capture views of the water. Beautifully scaled main rooms with vaulted ceilings, finished in warm woods, stone and hardwood floors and walls of glass. Striking Living Room with stone fireplace and vaulted ceiling lit by a modern cupola. Doors to wrap-around porch for fantastic indoor-outdoor living. Open-concept Dining Area also with water view, perfectly scaled for entertaining. Sleek Kitchen designed for the consummate chef. Private Office with conference area and wet bar. Lower Level Family Room for more casual everyday living. Spacious first floor Primary Suite with ample closets and private Bath. Four additional Bedrooms, most with en-suite Baths. Breathtaking grounds amid dramatic rock outcroppings with stone walls and terraces, an incredible array of flowering plantings, rare and specimen trees and rolling lawns down to the water. Fenced garden for flowers and seasonal produce. Lakefront dock, heated Swimming Pool with Pool House and privately sited Tennis Court make for an incredible sporting lifestyle. Separate building complex with a Three-Bedroom, fully equipped Guest House, Garages for six-plus cars and equipment storage. The perfect, peaceful refuge.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Pound Ridge",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 15000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Ginnel Real Estate - Bedford Hills"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/single-family-residence-in-pound-ridge-18091851"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/M00000489.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/2200xxs%2845%29.jpg: HTTP 403 Forbidden"
+  ]
+}

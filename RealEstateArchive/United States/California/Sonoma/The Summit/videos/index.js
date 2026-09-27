@@ -1,0 +1,14 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/Sonoma/The Summit/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-f20ce688ac75.webp",
+      "href": "img-f20ce688ac75.webp",
+      "size": 107742
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

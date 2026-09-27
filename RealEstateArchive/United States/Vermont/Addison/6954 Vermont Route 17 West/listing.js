@@ -1,0 +1,679 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/addison-vt-usa/single-family-home-house-addison-united-states-18061154",
+    "canonical_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/single-family-home-house-addison-united-states-18061154",
+    "site": "jamesedition",
+    "listing_id": "18061154",
+    "listing_reference": "PrimeMLS5091992",
+    "first_listed": "Jun 2",
+    "last_updated": "June 18",
+    "retrieved_at": "2026-08-28T00:30:20.766154Z"
+  },
+  "location": {
+    "address": "6954 Vermont Route 17 West, Addison, United States",
+    "street": "6954 Vermont Route 17 West",
+    "municipality": "Addison",
+    "region": "Vermont",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=44.051636000001,-73.419454",
+    "latitude": 44.051636000001,
+    "longitude": -73.419454
+  },
+  "property": {
+    "title": "Single Family Home/House Addison United States",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 5500000,
+      "currency": "USD",
+      "display": "$5,500,000"
+    },
+    "price_per_area": {
+      "amount": 907,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$907"
+    },
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "interior_area": {
+      "value": 6059,
+      "unit": "sqft",
+      "display": "6,059 Sqft"
+    },
+    "lot_area": {
+      "value": 14.7,
+      "display": "14.7 Ac lot"
+    },
+    "year_built": 2001,
+    "photo_count": 49,
+    "description": "On a secluded headland offering ultimate privacy with 14.7 private acres and over 1,200 feet of pristine Lake Champlain shoreline, Blue Heron Point offers exceptional privacy, panoramic lake and Adirondack views, and a rare turn-key Vermont waterfront lifestyle. Designed by architect Peter Morris, the 6,059 square foot shingle-style residence blends timeless New England character with modern luxury, thoughtful craftsmanship, and pristine natural surroundings. Professionally landscaped grounds, mature gardens, forested walking trails, expansive lawns, and an easy gravel path to the private cedar dock create a setting of unmatched beauty and seclusion.  Seamless indoor-outdoor living is central to the property, with patios, poolside and lakeside gathering areas, and a screened dining porch for relaxed summer living and effortless entertaining. A cathedral-ceilinged Great Room anchored by a massive fieldstone fireplace showcases hand-selected Northern Hemlock timbers, while open interiors flow easily into modern amenities including a fitness studio with professional-grade equipment, wet bar, and versatile family/media room with gas fireplace.  Waterfront living includes a private cedar dock, sweeping Adirondack views, and a spring-fed pond for seasonal swimming or skating. A heated gunite pool with bluestone patio, stone terraces, perennial gardens, wooded trails, fire pit, and independent one-bedroom guest apartment with kitchen, bath, and laundry complete this property. Just under an hour from Burlington International Airport and close to historic sites, dining, and shopping in Middlebury and Vergennes, Blue Heron Point is a legacy property where timeless design meets Vermont's most sublime natural setting.",
+    "features": [
+      "Bar",
+      "Fire Pit",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garden",
+      "Lake View",
+      "Laundry Room",
+      "Open Kitchen",
+      "Panoramic / Scenic View",
+      "Pool",
+      "Privacy",
+      "Terrace",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Ave Cook",
+    "agent_profile_url": "https://www.jamesedition.com/agents/ave-cook-1637640",
+    "agent_license": "#081.0134093 (VT) #081.0134093 (VT)",
+    "agency": "LandVest | Christie’s International Real Estate - Burlington, VT",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/landvest-christie-s-international-real-estate-burlington-vt-314210",
+    "agency_address": "33 Harbor Road PO Box 339, 05482, Shelburne, Vermont, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/3baaffd7-36c9-45c5-84aa-01677c42fdb6/je/2200xxs.jpg",
+      "file": "img-53c2f17d2167.webp",
+      "media_type": "image/webp",
+      "bytes": 309412,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/eb552f10-6cd4-4241-a46c-3376879287ec/je/2200xxs.jpg",
+      "file": "img-042dfb2f59da.webp",
+      "media_type": "image/webp",
+      "bytes": 760070,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/48fa8358-d8f7-40ed-a0e5-ced37e2dada0/je/2200xxs.jpg",
+      "file": "img-a7964f0eedb6.webp",
+      "media_type": "image/webp",
+      "bytes": 612070,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/26e83809-6d0f-483e-a352-293b0467ce56/je/2200xxs.jpg",
+      "file": "img-a40e849f48f7.webp",
+      "media_type": "image/webp",
+      "bytes": 678240,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/0408757f-6dac-453a-b12d-4c89c49cd77a/je/2200xxs.jpg",
+      "file": "img-59396693992d.webp",
+      "media_type": "image/webp",
+      "bytes": 831548,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/2d4b968d-a4fa-4295-aa6c-b7255d821772/je/2000xxs.jpg",
+      "file": "img-a636cc6672ed.webp",
+      "media_type": "image/webp",
+      "bytes": 848992,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/85f4b7d5-f00d-4598-9995-cdb1ed3815a7/je/2000xxs.jpg",
+      "file": "img-0bf387e62cf8.webp",
+      "media_type": "image/webp",
+      "bytes": 833290,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/afdc775e-4377-42d9-8b4f-7ff8bba2deb0/je/2000xxs.jpg",
+      "file": "img-8132b268a514.webp",
+      "media_type": "image/webp",
+      "bytes": 631138,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/bcbe5b3c-04e0-4b28-896a-7965c0e05f73/je/2000xxs.jpg",
+      "file": "img-32a7ee53d2be.webp",
+      "media_type": "image/webp",
+      "bytes": 452100,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/b5db0d68-82f8-475b-8123-c4c2218e5e62/je/2000xxs.jpg",
+      "file": "img-8539d54f65be.webp",
+      "media_type": "image/webp",
+      "bytes": 507100,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/7e0a40eb-9f01-4707-bcc8-8948275fa1ce/je/2000xxs.jpg",
+      "file": "img-da8f6cb3c7c0.webp",
+      "media_type": "image/webp",
+      "bytes": 339432,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/942f19e0-b662-4e7d-96df-5ac3baf8bb3b/je/2000xxs.jpg",
+      "file": "img-eb4e62bcdb34.webp",
+      "media_type": "image/webp",
+      "bytes": 418722,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/d4cef2b2-ef3e-4a76-9a8a-df515cd9cfc1/je/2000xxs.jpg",
+      "file": "img-28307c3f9d33.webp",
+      "media_type": "image/webp",
+      "bytes": 235252,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/8e32b97b-5f35-456d-81a3-31d80bddb693/je/2000xxs.jpg",
+      "file": "img-eb9ee55a0cc6.webp",
+      "media_type": "image/webp",
+      "bytes": 239344,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/d7064f07-3051-4096-9afc-b8dab96a65a0/je/2000xxs.jpg",
+      "file": "img-7be292825e76.webp",
+      "media_type": "image/webp",
+      "bytes": 240284,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/58987f1c-229e-4148-97fe-fbeecfd43596/je/2000xxs.jpg",
+      "file": "img-756a38808b61.webp",
+      "media_type": "image/webp",
+      "bytes": 457248,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/5763170d-504a-4a7f-8e45-3ab3485ce32b/je/2000xxs.jpg",
+      "file": "img-70068f7f5103.webp",
+      "media_type": "image/webp",
+      "bytes": 335370,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/c7738394-2f76-4897-831e-25000c630bf3/je/2000xxs.jpg",
+      "file": "img-6016c8ead340.webp",
+      "media_type": "image/webp",
+      "bytes": 307008,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/6fd7cb85-883f-4803-8539-67bbe5cbcb31/je/2000xxs.jpg",
+      "file": "img-9e4985adf48e.webp",
+      "media_type": "image/webp",
+      "bytes": 197932,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/7886cbf4-053f-4f67-bc92-862875aa0388/je/2000xxs.jpg",
+      "file": "img-185cd0278134.webp",
+      "media_type": "image/webp",
+      "bytes": 305576,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/9632bcd1-9016-4705-92f5-0e3b58810ea3/je/2000xxs.jpg",
+      "file": "img-8130f0b4ff87.webp",
+      "media_type": "image/webp",
+      "bytes": 245414,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/8e8b5fff-95b2-447e-9e00-c50c821c7d6e/je/2000xxs.jpg",
+      "file": "img-a847f0febdc4.webp",
+      "media_type": "image/webp",
+      "bytes": 292456,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/491ba11d-6003-46da-bf67-fa224420c3f7/je/2000xxs.jpg",
+      "file": "img-297d774ee786.webp",
+      "media_type": "image/webp",
+      "bytes": 149792,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/95d39853-5941-45c3-a323-3159fcaca451/je/2000xxs.jpg",
+      "file": "img-5e5f94678801.webp",
+      "media_type": "image/webp",
+      "bytes": 339536,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/5895823b-1625-4996-b301-02587629289e/je/2000xxs.jpg",
+      "file": "img-e0bbdd2d7228.webp",
+      "media_type": "image/webp",
+      "bytes": 138566,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/269925a3-29cf-4d61-821e-0da88e1b1d7f/je/2000xxs.jpg",
+      "file": "img-91bec32e0300.webp",
+      "media_type": "image/webp",
+      "bytes": 417438,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/391f4b24-4789-46e0-b545-c67bd3638f3e/je/2000xxs.jpg",
+      "file": "img-7b1d46d89549.webp",
+      "media_type": "image/webp",
+      "bytes": 245142,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/5e2a22e1-74a3-4f60-b22a-db186491f8d6/je/2000xxs.jpg",
+      "file": "img-1b959bd3de11.webp",
+      "media_type": "image/webp",
+      "bytes": 337292,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/c2d57adb-b025-4de9-958c-ad5b366bc725/je/2000xxs.jpg",
+      "file": "img-bad557ec049e.webp",
+      "media_type": "image/webp",
+      "bytes": 151442,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/2ab19ce2-66a5-49ec-9564-78b733c81ddc/je/2000xxs.jpg",
+      "file": "img-8430a36148e9.webp",
+      "media_type": "image/webp",
+      "bytes": 208300,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/8adc6a2e-e7c4-4eff-ab24-d3e356374c0d/je/2000xxs.jpg",
+      "file": "img-9cbf6cffc005.webp",
+      "media_type": "image/webp",
+      "bytes": 253382,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/3dc2647a-4352-416e-8571-3fc430bdff1b/je/2000xxs.jpg",
+      "file": "img-da970a5857fe.webp",
+      "media_type": "image/webp",
+      "bytes": 240452,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/1a10fd0e-1d10-4907-8a8f-3f4f04af2178/je/2000xxs.jpg",
+      "file": "img-0da437699c71.webp",
+      "media_type": "image/webp",
+      "bytes": 775392,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/4f8c2d62-2c8d-4879-9cd9-d1ada3e50102/je/2000xxs.jpg",
+      "file": "img-3fc950ef9c85.webp",
+      "media_type": "image/webp",
+      "bytes": 222000,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/73495381-9ae0-4f5a-ada8-8f8eba72e956/je/2000xxs.jpg",
+      "file": "img-91b6cc74bba4.webp",
+      "media_type": "image/webp",
+      "bytes": 210992,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/1f6f9e5d-a1ad-417a-bb52-f1ab5461e2d5/je/2000xxs.jpg",
+      "file": "img-e092c965c5ef.webp",
+      "media_type": "image/webp",
+      "bytes": 835676,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/e90052f4-db51-4928-ba30-675439064d65/je/2000xxs.jpg",
+      "file": "img-6458f203314e.webp",
+      "media_type": "image/webp",
+      "bytes": 395864,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/2cd65455-69bf-41c2-bea0-1ee6a199f24b/je/2000xxs.jpg",
+      "file": "img-b8208c2df705.webp",
+      "media_type": "image/webp",
+      "bytes": 616682,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/3238650e-f88d-4bb9-8c8c-83a112a7ebe9/je/2000xxs.jpg",
+      "file": "img-c7b21bdb821c.webp",
+      "media_type": "image/webp",
+      "bytes": 414758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/d5902ae2-a33a-40c0-a780-fc2e8c254f6d/je/2000xxs.jpg",
+      "file": "img-e8b819fbe7cc.webp",
+      "media_type": "image/webp",
+      "bytes": 697096,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/90ad22c4-5470-42c3-a6d4-86caa3257d63/je/2000xxs.jpg",
+      "file": "img-e187365b4bb0.webp",
+      "media_type": "image/webp",
+      "bytes": 537524,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/f4dfa73f-d37a-4918-ab8e-47097b5b1d8c/je/2000xxs.jpg",
+      "file": "img-90227b5a646a.webp",
+      "media_type": "image/webp",
+      "bytes": 86788,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/1c98873c-b9e1-4b10-8d15-daf6f1ee2a23/je/2000xxs.jpg",
+      "file": "img-7810899e85c5.webp",
+      "media_type": "image/webp",
+      "bytes": 652642,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/b4ee57f1-7377-480b-bea5-4ad87bf11555/je/2000xxs.jpg",
+      "file": "img-15b63d6fca0c.webp",
+      "media_type": "image/webp",
+      "bytes": 671974,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/fcfac4a4-777e-4f34-a5f2-1113352e687f/je/2000xxs.jpg",
+      "file": "img-235748bff32a.webp",
+      "media_type": "image/webp",
+      "bytes": 476474,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/278811f9-0f3a-4195-8942-51f794cc4962/je/2000xxs.jpg",
+      "file": "img-b020b2c6e8e4.webp",
+      "media_type": "image/webp",
+      "bytes": 441982,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/0c2c4f9f-3d52-49e0-b9c5-96e1366e6636/je/2000xxs.jpg",
+      "file": "img-f30fe47fa324.webp",
+      "media_type": "image/webp",
+      "bytes": 574348,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/a8b68af7-d348-454f-ba17-2c13765e999a/je/2000xxs.jpg",
+      "file": "img-6836a5dbf934.webp",
+      "media_type": "image/webp",
+      "bytes": 372558,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/784cf7ba-67b2-4ea7-a84a-db17a9964d79/je/2000xxs.jpg",
+      "file": "img-d0708107e01f.webp",
+      "media_type": "image/webp",
+      "bytes": 313530,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/2200xxs%2848%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/09/16/09/35/30/269cd6c5-82e2-42b8-8f7b-f7fa415d0c29/je/80x80xc.jpg",
+      "file": "img-0eb4d7ed0440.webp",
+      "media_type": "image/webp",
+      "bytes": 1506,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/vt-united-states",
+              "name": "Vermont"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/addison-vt-usa",
+              "name": "Addison"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/addison-vt-usa/single-family-home-house-addison-united-states-18061154",
+              "name": "Single Family Home/House - Addison - United States"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "On a secluded headland offering ultimate privacy with 14.7 private acres and over 1,200 feet of pristine Lake Champlain shoreline, Blue Heron Point offers exceptional privacy, panoramic lake and Adirondack views, and a rare turn-key Vermont waterfront lifestyle. Designed by architect Peter Morris, the 6,059 square foot shingle-style residence blends timeless New England character with modern luxury, thoughtful craftsmanship, and pristine natural surroundings. Professionally landscaped grounds, mature gardens, forested walking trails, expansive lawns, and an easy gravel path to the private cedar dock create a setting of unmatched beauty and seclusion.  Seamless indoor-outdoor living is central to the property, with patios, poolside and lakeside gathering areas, and a screened dining porch for relaxed summer living and effortless entertaining. A cathedral-ceilinged Great Room anchored by a massive fieldstone fireplace showcases hand-selected Northern Hemlock timbers, while open interiors flow easily into modern amenities including a fitness studio with professional-grade equipment, wet bar, and versatile family/media room with gas fireplace.  Waterfront living includes a private cedar dock, sweeping Adirondack views, and a spring-fed pond for seasonal swimming or skating. A heated gunite pool with bluestone patio, stone terraces, perennial gardens, wooded trails, fire pit, and independent one-bedroom guest apartment with kitchen, bath, and laundry complete this property. Just under an hour from Burlington International Airport and close to historic sites, dining, and shopping in Middlebury and Vergennes, Blue Heron Point is a legacy property where timeless design meets Vermont's most sublime natural setting.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/3baaffd7-36c9-45c5-84aa-01677c42fdb6/je/1040x620xc.jpg",
+        "name": "Single Family Home/House - Addison - United States",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 5500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "LandVest | Christie’s International Real Estate - Burlington, VT"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/addison-vt-usa/single-family-home-house-addison-united-states-18061154"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/addison-vt-usa/Single%20Family%20Home_House%20Addison%20United%20In%20Addison,%20Vermont,%20United%20States%20For%20Sale%20%2818061154%29_files/2200xxs%2848%29.jpg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+};

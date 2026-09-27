@@ -1,0 +1,338 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/waterfront-oasis-15816442",
+    "canonical_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/waterfront-oasis-15816442",
+    "site": "jamesedition",
+    "listing_id": "15816442",
+    "first_listed": "Jun 20, 2025",
+    "retrieved_at": "2026-06-16T03:43:42.312453Z"
+  },
+  "location": {
+    "address": "254 Stillwater Dr, Heathsville, VA 22473, Virginia, United States",
+    "street": "254 Stillwater Dr",
+    "municipality": "Heathsville",
+    "region": "Virginia",
+    "postal_code": "22473",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=37.8172315,-76.3192857",
+    "latitude": 37.8172315,
+    "longitude": -76.3192857
+  },
+  "property": {
+    "title": "Waterfront Oasis",
+    "type": "Estate",
+    "availability": "InStock",
+    "price": {
+      "amount": 1995000,
+      "currency": "USD",
+      "display": "$1,995,000"
+    },
+    "price_per_area": {
+      "amount": 732,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$732"
+    },
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "interior_area": {
+      "value": 2724,
+      "unit": "sqft",
+      "display": "2,724 Sqft"
+    },
+    "lot_area": {
+      "value": 1.1,
+      "display": "1.1 Ac lot"
+    },
+    "year_built": 1985,
+    "photo_count": 47,
+    "description": "Exquisite Waterfront Oasis on Cranes Creek with Chesapeake Bay. Welcome to your dream waterfront retreat —a stunningly renovated home offering wide water views on Cranes Creek with direct access to the Chesapeake Bay. Perfectly situated on deep, protected water, this property features a private pier with a large boat lift, two jet ski lifts, \u0026amp; even a private boat ramp—a rare find for true boating enthusiasts. Renovated top to bottom in 2023–2024, every inch of this home exudes quality, from the pristine asphalt driveway to the luxurious saltwater pool, complete with a built-in grill \u0026amp; lounge area—ideal for summer entertaining. Inside, vaulted beamed ceilings in both the living room \u0026amp; sunroom create airy, open spaces filled with natural light. The spacious kitchen is a showstopper, featuring all-new appliances, custom cabinetry, a massive center island, \u0026amp; panoramic water views that make cooking a delight. The open layout seamlessly flows into the dining \u0026amp; living areas, making this home an entertainer’s dream. Downstairs also includes: A bedroom, a new full bathroom—perfect for guests or as a convenient poolside bathroom, a stylish powder room, a well-designed laundry room with an ice maker, \u0026amp; an attached garage for added convenience. Upstairs, three lovely bedrooms each feature ensuite bathrooms, ensuring privacy \u0026amp; comfort for family or guests. Whether you're into fishing, kayaking, boating, or simply lounging poolside, this exceptional property offers the best of waterfront living in a peaceful, private setting. Your Chesapeake Bay getaway is ready! *Featured Sheet*",
+    "features": [
+      "Air Conditioning",
+      "Coastal",
+      "Fire Pit",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Kitchen island",
+      "Laundry Room",
+      "Open Kitchen",
+      "Outdoor Kitchen",
+      "Outdoor Living Space",
+      "Pool",
+      "Renovated",
+      "River View",
+      "Riverfront",
+      "Stone Countertops",
+      "Terrace",
+      "Walk In Closet",
+      "Washer Dryer",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Katie Horsley Dew",
+    "agent_profile_url": "https://www.jamesedition.com/agents/katie-horsley-dew-1590622",
+    "agency": "IsaBell K. Horsley Real Estate",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/isabell-k-horsley-real-estate-291063",
+    "agency_address": "P.O. Box 299, 23175, Urbanna, Virginia, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/16/31/44/b317c2db-14d6-49a6-8f6c-91be14d7fb05/je/2200xxs.jpg",
+      "file": "004-6a927201.webp",
+      "media_type": "image/webp",
+      "bytes": 146652,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/16/31/44/b211c34f-5317-4120-aab6-0640b971cc6b/je/2200xxs.jpg",
+      "file": "009-ab1589ef.webp",
+      "media_type": "image/webp",
+      "bytes": 131320,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/16/31/45/cb9045b2-4884-4083-b823-6abbced21ca3/je/2200xxs.jpg",
+      "file": "014-de2fb8c8.webp",
+      "media_type": "image/webp",
+      "bytes": 177624,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/16/40/35/3650abf7-490d-4085-9d74-f546a88650b5/je/2200xxs.jpg",
+      "file": "019-9fc9554b.webp",
+      "media_type": "image/webp",
+      "bytes": 157956,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/16/31/44/c532827e-a79c-4b5e-8a04-8f833f5abf4f/je/2200xxs.jpg",
+      "file": "024-e25e5e35.webp",
+      "media_type": "image/webp",
+      "bytes": 197816,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2024/11/12/20/27/48/32ed4634-f7a1-4386-9518-82d1a3827618/je/80x80xc.jpg",
+      "file": "034-19655d78.webp",
+      "media_type": "image/webp",
+      "bytes": 1798,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/va-united-states",
+              "name": "Virginia"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/heathsville-va-usa",
+              "name": "Heathsville"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/heathsville-va-usa/waterfront-oasis-15816442",
+              "name": "Waterfront Oasis"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Exquisite Waterfront Oasis on Cranes Creek with Chesapeake Bay. Welcome to your dream waterfront retreat —a stunningly renovated home offering wide water views on Cranes Creek with direct access to the Chesapeake Bay. Perfectly situated on deep, protected water, this property features a private pier with a large boat lift, two jet ski lifts, \u0026amp; even a private boat ramp—a rare find for true boating enthusiasts. Renovated top to bottom in 2023–2024, every inch of this home exudes quality, from the pristine asphalt driveway to the luxurious saltwater pool, complete with a built-in grill \u0026amp; lounge area—ideal for summer entertaining. Inside, vaulted beamed ceilings in both the living room \u0026amp; sunroom create airy, open spaces filled with natural light. The spacious kitchen is a showstopper, featuring all-new appliances, custom cabinetry, a massive center island, \u0026amp; panoramic water views that make cooking a delight. The open layout seamlessly flows into the dining \u0026amp; living areas, making this home an entertainer’s dream. Downstairs also includes: A bedroom, a new full bathroom—perfect for guests or as a convenient poolside bathroom, a stylish powder room, a well-designed laundry room with an ice maker, \u0026amp; an attached garage for added convenience. Upstairs, three lovely bedrooms each feature ensuite bathrooms, ensuring privacy \u0026amp; comfort for family or guests. Whether you're into fishing, kayaking, boating, or simply lounging poolside, this exceptional property offers the best of waterfront living in a peaceful, private setting. Your Chesapeake Bay getaway is ready! *Featured Sheet*",
+        "image": "https://img.jamesedition.com/listing_images/2025/06/20/16/31/44/b317c2db-14d6-49a6-8f6c-91be14d7fb05/je/1040x620xc.jpg",
+        "name": "Waterfront Oasis",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 1995000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "IsaBell K. Horsley Real Estate"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/heathsville-va-usa/waterfront-oasis-15816442"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/heathsville-va-usa/Waterfront%20Oasis%20In%20Heathsville,%20Virginia,%20United%20States%20For%20Sale%20%2815816442%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

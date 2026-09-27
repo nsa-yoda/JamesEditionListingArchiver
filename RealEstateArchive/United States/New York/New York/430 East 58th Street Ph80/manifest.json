@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430-east-58th-street-ph80-new-york-ny-10022-15008596",
+    "canonical_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430-east-58th-street-ph80-new-york-ny-10022-15008596",
+    "site": "jamesedition",
+    "listing_id": "15008596",
+    "listing_reference": "w3f6rx",
+    "first_listed": "Dec 11, 2024",
+    "last_updated": "March 18, 2025",
+    "retrieved_at": "2026-08-28T00:27:44.491601Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4740,
+      "sha256": "2778de91abd409bebc876718745118a481ed1d53ffc56368c91b0d5aaf1b3156"
+    },
+    {
+      "path": "images/img-143723e64609.webp",
+      "bytes": 58604,
+      "sha256": "4c14f87adf3c21a92189726ed081d5d3426d61e29a80b534c67b5937150985ea"
+    },
+    {
+      "path": "images/img-16b5fe06e934.webp",
+      "bytes": 89998,
+      "sha256": "95141806a21c7071ee0d04fb485da71e8cce09cc5473ef64181051a88cf013e7"
+    },
+    {
+      "path": "images/img-2c5bf296c704.webp",
+      "bytes": 1368,
+      "sha256": "a4165b20e6653789d535fe69f4ba6423f7bb077b37f0b9de5526a508bc25d762"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-9128826847a6.webp",
+      "bytes": 89256,
+      "sha256": "d5008892e679fb47e824650b2c1c397fa28754e0c4940d75d1ef1c3568b2f4fe"
+    },
+    {
+      "path": "images/img-9edc1eff2ca3.webp",
+      "bytes": 101304,
+      "sha256": "95e3eed2264ed3be4f5ec1c7d238fa3f700fb88e2ac2f804c0811798ae26509c"
+    },
+    {
+      "path": "images/img-b0f51cf2e874.webp",
+      "bytes": 81674,
+      "sha256": "1b21d7cc1d99fb9c3ef75e62814b89080cc21976ce6ac92927d1b53cde877023"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 26237,
+      "sha256": "7ebe88a820abb0c1a6283e167d2daa37d12ee18496fc1039e0584f5a9f9711f7"
+    },
+    {
+      "path": "source.html",
+      "bytes": 359622,
+      "sha256": "57a1d0ac5cd53e81c654591e7f88c10e8801dcd5ee97ec8a8612daa1a1749301"
+    },
+    {
+      "path": "source.url",
+      "bytes": 115,
+      "sha256": "e0003a4297ba9c9d6d9a9314432e0825aafdb642f5019d540fabd289423a0659"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/b43d5673-1308-4b1c-b412-4e010d2e2801/je/2200xxs.jpg",
+      "path": "images/img-9edc1eff2ca3.webp",
+      "media_type": "image/webp",
+      "bytes": 101304,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/f8d5460d-d141-4f56-993d-12607e468880/je/2200xxs.jpg",
+      "path": "images/img-b0f51cf2e874.webp",
+      "media_type": "image/webp",
+      "bytes": 81674,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9f75f740-c2b1-4e95-88d9-ce34c140ce69/je/2200xxs.jpg",
+      "path": "images/img-16b5fe06e934.webp",
+      "media_type": "image/webp",
+      "bytes": 89998,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/6960baee-aa4f-4bbd-a9a7-262509fb2951/je/2200xxs.jpg",
+      "path": "images/img-9128826847a6.webp",
+      "media_type": "image/webp",
+      "bytes": 89256,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/2c23400a-dcad-49e0-a60f-efd0f82d8007/je/2200xxs.jpg",
+      "path": "images/img-143723e64609.webp",
+      "media_type": "image/webp",
+      "bytes": 58604,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430%20East%2058th%20Street%20Ph80,%20New%20York,%20Ny%20In%20New%20York,%20New%20York,%20United%20States%20For%20Sale%20%2815008596%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/05/15/21/15/41/1f19ea07-747b-4865-bc8e-aad2e48f0c9c/je/80x80xc.jpg",
+      "path": "images/img-2c5bf296c704.webp",
+      "media_type": "image/webp",
+      "bytes": 1368,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 0,
+    "images_failed": 16,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

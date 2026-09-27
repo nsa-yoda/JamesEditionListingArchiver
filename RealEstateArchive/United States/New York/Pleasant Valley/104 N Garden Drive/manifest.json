@@ -1,0 +1,738 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105",
+    "canonical_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105",
+    "site": "jamesedition",
+    "listing_id": "16853105",
+    "listing_reference": "YF7J5V",
+    "first_listed": "Dec 26, 2025",
+    "last_updated": "March 26",
+    "retrieved_at": "2026-06-18T07:09:20.619652Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5102,
+      "sha256": "30fbad35cd63fa935b49933ea5c57a7293b37b1b60bbfe141dcf59ae8b02ca6b"
+    },
+    {
+      "path": "images/004-5a3e9e44.webp",
+      "bytes": 676430,
+      "sha256": "98cc18af3d43411f1c22719b6d2876ea7e46971546f601604f88be4eaefe8295"
+    },
+    {
+      "path": "images/009-4a1ed70c.webp",
+      "bytes": 661462,
+      "sha256": "7730a8faaac67c8c68cf78e8256fe7e8b6b592b48804e83db679292786783762"
+    },
+    {
+      "path": "images/014-db7e8e1b.webp",
+      "bytes": 1030892,
+      "sha256": "850b5fbe907bfdbfb4148ba7d4ae1296d499cb88b40f54d48510f387e8a5cf33"
+    },
+    {
+      "path": "images/019-5646cf1e.webp",
+      "bytes": 996964,
+      "sha256": "29ca4d84e8693cc5cdb60e7b7774d29af78de605639ad451d2b257610c3d0b86"
+    },
+    {
+      "path": "images/024-f96bb8bc.webp",
+      "bytes": 489832,
+      "sha256": "8da8c446b46b42d229ae212dfa4abd0944eee31147f2c52c191dd74fe5f0db3f"
+    },
+    {
+      "path": "images/034-aa77d222.webp",
+      "bytes": 913066,
+      "sha256": "b41a3aa2b542506bf9e8694de907678e80e8d18a1ca7148d9f3614d7a4a70bd2"
+    },
+    {
+      "path": "images/035-0c6835b2.webp",
+      "bytes": 697322,
+      "sha256": "b8c989a0b2ed8e005fdfd0f19395e821f7bac569b94978ae0a302bb4cb2a10c8"
+    },
+    {
+      "path": "images/036-322845fa.webp",
+      "bytes": 1073734,
+      "sha256": "58a1d17b7062d0d0c3dd14f0b80a7d17aebe9665137d771d33d697bd79f49932"
+    },
+    {
+      "path": "images/037-093666f4.webp",
+      "bytes": 710202,
+      "sha256": "17646173f5e13ea6001b7d738be6cc2e04ad64bd26c2771ab2639950d17c3336"
+    },
+    {
+      "path": "images/038-f86e92cb.webp",
+      "bytes": 1074902,
+      "sha256": "a64f47542aa48b27f7df0b81e2ffd33f987f28d1d4113ad84076568580a2cada"
+    },
+    {
+      "path": "images/039-c328f824.webp",
+      "bytes": 601064,
+      "sha256": "e885ce38aafa0792810cdcc65c3d85b7d409cf9fe7e60e0b01df14272c068336"
+    },
+    {
+      "path": "images/040-ebd9b12e.webp",
+      "bytes": 148964,
+      "sha256": "e772e50667fd2f4571c7163d6a3429d863e72e9b1a5020b04f98cb19d03fe179"
+    },
+    {
+      "path": "images/041-2cb84fcc.webp",
+      "bytes": 226774,
+      "sha256": "1f333778cbc1b262c528baf4e45fbb4c35dfdb66e87a2c9b6e2e98792a64a204"
+    },
+    {
+      "path": "images/042-7cdae01f.webp",
+      "bytes": 535636,
+      "sha256": "3987dbc47541e3b67b637de4c6f91c1305a23d52c39f3ab90d065ff59f69da67"
+    },
+    {
+      "path": "images/043-a2a1755b.webp",
+      "bytes": 204924,
+      "sha256": "7a27df5af12495290e5ab6b54d41344185bdd6f98553b187469cf708f3cc0b7a"
+    },
+    {
+      "path": "images/044-0641cc53.webp",
+      "bytes": 126904,
+      "sha256": "9f3906d62f5e3e2ce89cbfcfa5e8dd7e19f2e5ae6be9c2eb8e020089686e934b"
+    },
+    {
+      "path": "images/045-4d10ccd2.webp",
+      "bytes": 119668,
+      "sha256": "969effca95dc7e4e7c3c493422cd2a227d6cfc186e5f38fc4f7153df847e408a"
+    },
+    {
+      "path": "images/046-f3aa98c9.webp",
+      "bytes": 245976,
+      "sha256": "3fe42d655ffee8d94e6519318af76511ef6293d47ea443d2e0c20f5164682794"
+    },
+    {
+      "path": "images/047-cf32dcd0.webp",
+      "bytes": 515762,
+      "sha256": "fe240b7d9603fb55ad3984a9556b833ce0f3b7d2f7b812b26d8814e38d1b6bff"
+    },
+    {
+      "path": "images/048-72fb9dad.webp",
+      "bytes": 285572,
+      "sha256": "00f22211749ebf7f713f090362f2160ee86c86858e7d4dd54a5a44f3075e930e"
+    },
+    {
+      "path": "images/049-23ca9274.webp",
+      "bytes": 208564,
+      "sha256": "99767f4e8156ce0363060daff2198a32af26ef50852d24ec32fefbcbe8595d04"
+    },
+    {
+      "path": "images/050-6dc6596d.webp",
+      "bytes": 431914,
+      "sha256": "ba13ab818be23de7056dff68d7be7757e3317c7d5e3c5a31f82442dbb937b3de"
+    },
+    {
+      "path": "images/051-6fc2b973.webp",
+      "bytes": 1080518,
+      "sha256": "f0bb3f8e9bc889a221a2931db942d2e80653dbf346e4e67282ff7be1fda2b219"
+    },
+    {
+      "path": "images/052-86343207.webp",
+      "bytes": 800012,
+      "sha256": "b6b63d2a0b32e8732bdb1c38a5510798efed5719af6f0c1d0beb42dca2fa74ba"
+    },
+    {
+      "path": "images/053-9acafde5.webp",
+      "bytes": 884190,
+      "sha256": "8003f7abf8a3a35ba824790bcbec974eff556f8ebc5eeada30a1ca52b02c9901"
+    },
+    {
+      "path": "images/054-3824ddae.webp",
+      "bytes": 737392,
+      "sha256": "67980f4954eaf5ec1956fda1f3662994e68a1a52680073d237d06ada401ec4f6"
+    },
+    {
+      "path": "images/055-1541247a.webp",
+      "bytes": 803272,
+      "sha256": "1db9db538ab45ad7eac18032c14d64ebb7bb91b495cddf98ffb962bd206f9f4a"
+    },
+    {
+      "path": "images/056-a8ee51eb.webp",
+      "bytes": 356830,
+      "sha256": "d47d5e6ada3e6fe9a216cf26bca82a36bd88949fac28b889697a427b8f117cbc"
+    },
+    {
+      "path": "images/057-645ab4c6.webp",
+      "bytes": 955638,
+      "sha256": "3ce36830e519a7995431a4aaa05467f2111e8b9df506867d624a5aeac3d2820f"
+    },
+    {
+      "path": "images/058-05fc645d.webp",
+      "bytes": 808358,
+      "sha256": "d76ba49c435b9b94a27be50df5a299f4dab62edd4bb4a1434a91310caf2d6aef"
+    },
+    {
+      "path": "images/059-430ceea6.webp",
+      "bytes": 964334,
+      "sha256": "311dc9b8b9f5c4de16cda1a871d55a3881f6bf1f5a9c82d426eb35963a58a723"
+    },
+    {
+      "path": "images/060-7013fad7.webp",
+      "bytes": 1035944,
+      "sha256": "bbf2d0fecf14e9019cd51393494bacf670a595c8100425ede7f976aeac297614"
+    },
+    {
+      "path": "images/061-021079ef.webp",
+      "bytes": 1089234,
+      "sha256": "d13ec745e79a74555555155fd6fdbe4fb79a0bb6ef07dd1b17cd34717e9047a3"
+    },
+    {
+      "path": "images/062-ee985ec6.webp",
+      "bytes": 1213330,
+      "sha256": "482bf0f7011d9cdbdd72bcbb6c36e6201471c0bfb57d9ab9b3c10a9f17f17f4e"
+    },
+    {
+      "path": "images/063-a09c7c98.webp",
+      "bytes": 1317880,
+      "sha256": "6ee476438991d3ffc16c74f0fc059cb38912ec5ebe0ad05fc6e8e755cb728a08"
+    },
+    {
+      "path": "images/064-e3672a33.webp",
+      "bytes": 983842,
+      "sha256": "7064f125a139046c2a726153ee23fd4f5d9de866f2700cf83cd78e2e4eb9f639"
+    },
+    {
+      "path": "images/065-f009aeae.webp",
+      "bytes": 759138,
+      "sha256": "2779b5468a2e518a35d54185046f20f4a2ecb605d5cdf35509bf2c8a578cd82a"
+    },
+    {
+      "path": "images/066-05da94dd.webp",
+      "bytes": 917444,
+      "sha256": "9a6720be3ec8715d7a065bbd88f962fa0cb789dab7c1aab2c4641deaa03962f3"
+    },
+    {
+      "path": "images/067-924c84c3.webp",
+      "bytes": 499528,
+      "sha256": "d862dbe3abb9f2a7d64aa44603c22e3429532bb660af6d1d06bf5a17a0cda971"
+    },
+    {
+      "path": "images/068-b2dde0b4.webp",
+      "bytes": 772154,
+      "sha256": "e17cef8397522b8631c9182fd2446bf138b4e4170e87c0baf29813566463a146"
+    },
+    {
+      "path": "images/069-971a0c14.webp",
+      "bytes": 787380,
+      "sha256": "30e01154a677effcae2006c17a14961475e6f5c992f90958e8de504fceabe8ac"
+    },
+    {
+      "path": "images/070-13b3dc4c.webp",
+      "bytes": 903108,
+      "sha256": "9a4abd24766977778f6d95eb4b51077e32c5b4d237b8829c2853c689dd9dd679"
+    },
+    {
+      "path": "images/071-b8085f1d.webp",
+      "bytes": 469186,
+      "sha256": "fc188827d82e62853ee322f3c4ad82a485472cb39f95478db40ef1abc98e109d"
+    },
+    {
+      "path": "images/072-07c8dc14.webp",
+      "bytes": 341098,
+      "sha256": "a136381bb6c065c61fa77d6a7e5af7991f1b1ebf34a0560f64f827b996441007"
+    },
+    {
+      "path": "images/073-95aa3146.webp",
+      "bytes": 828980,
+      "sha256": "678f065c89fcd9ef3001f799abcdb1c2b32554aaf8cfe7a5bed83794db676e8f"
+    },
+    {
+      "path": "images/078-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/079-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/080-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/081-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 33642,
+      "sha256": "27cf90c324b3c82f454bc2a60b5c873d60f37d86a06a7b2e6b6e67840b3513ca"
+    },
+    {
+      "path": "source.html",
+      "bytes": 464886,
+      "sha256": "35d036e3fe38835a03a194d8cdee5cd39ef6dab1441030b2daf25366d473b52a"
+    },
+    {
+      "path": "source.url",
+      "bytes": 81,
+      "sha256": "e9a87605e9b69a33f67e8bb3dac2e7c0d2f0c558d61091d99c4a7efbf2157980"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/2200xxs.jpg",
+      "path": "images/004-5a3e9e44.webp",
+      "media_type": "image/webp",
+      "bytes": 676430,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/2200xxs.jpg",
+      "path": "images/009-4a1ed70c.webp",
+      "media_type": "image/webp",
+      "bytes": 661462,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/2200xxs.jpg",
+      "path": "images/014-db7e8e1b.webp",
+      "media_type": "image/webp",
+      "bytes": 1030892,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/2200xxs.jpg",
+      "path": "images/019-5646cf1e.webp",
+      "media_type": "image/webp",
+      "bytes": 996964,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/2200xxs.jpg",
+      "path": "images/024-f96bb8bc.webp",
+      "media_type": "image/webp",
+      "bytes": 489832,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/cc99fbe8-9211-457d-8497-2829f833576a/je/2000xxs.jpg",
+      "path": "images/034-aa77d222.webp",
+      "media_type": "image/webp",
+      "bytes": 913066,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/61f3d072-27f2-48b5-a023-f399136a1d2a/je/2000xxs.jpg",
+      "path": "images/035-0c6835b2.webp",
+      "media_type": "image/webp",
+      "bytes": 697322,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/3ebea24a-ff7e-492b-9363-f94dea9427ad/je/2000xxs.jpg",
+      "path": "images/036-322845fa.webp",
+      "media_type": "image/webp",
+      "bytes": 1073734,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76f5de63-0859-4070-826d-88aefe631ac9/je/2000xxs.jpg",
+      "path": "images/037-093666f4.webp",
+      "media_type": "image/webp",
+      "bytes": 710202,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/c720dd4a-e2a5-435a-8201-dd6ef1fbb8fd/je/2000xxs.jpg",
+      "path": "images/038-f86e92cb.webp",
+      "media_type": "image/webp",
+      "bytes": 1074902,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/ac3be120-abc6-40e5-a76c-ac3d83a19a34/je/2000xxs.jpg",
+      "path": "images/039-c328f824.webp",
+      "media_type": "image/webp",
+      "bytes": 601064,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/f0d0d308-2926-4f91-a12e-f5cdce5937cc/je/2000xxs.jpg",
+      "path": "images/040-ebd9b12e.webp",
+      "media_type": "image/webp",
+      "bytes": 148964,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5d7d6bfb-7c42-406c-8824-23f6a7c229c1/je/2000xxs.jpg",
+      "path": "images/041-2cb84fcc.webp",
+      "media_type": "image/webp",
+      "bytes": 226774,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/817bbeb2-7a8d-4bb3-8b30-5d23626e0c05/je/2000xxs.jpg",
+      "path": "images/042-7cdae01f.webp",
+      "media_type": "image/webp",
+      "bytes": 535636,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/f0269812-6f3d-4455-afda-b5df33e5a93c/je/2000xxs.jpg",
+      "path": "images/043-a2a1755b.webp",
+      "media_type": "image/webp",
+      "bytes": 204924,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/3a66aae8-b573-46ee-871f-f4601cce34bc/je/2000xxs.jpg",
+      "path": "images/044-0641cc53.webp",
+      "media_type": "image/webp",
+      "bytes": 126904,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/ad59234a-84db-4a06-936d-418be8dbb082/je/2000xxs.jpg",
+      "path": "images/045-4d10ccd2.webp",
+      "media_type": "image/webp",
+      "bytes": 119668,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/899ef7a4-7c34-4695-941b-6e46785a1a4c/je/2000xxs.jpg",
+      "path": "images/046-f3aa98c9.webp",
+      "media_type": "image/webp",
+      "bytes": 245976,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/74da4888-744c-4044-8b20-485b707cf0f7/je/2000xxs.jpg",
+      "path": "images/047-cf32dcd0.webp",
+      "media_type": "image/webp",
+      "bytes": 515762,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/92d00426-a8a1-4e02-b8ec-ce881c442309/je/2000xxs.jpg",
+      "path": "images/048-72fb9dad.webp",
+      "media_type": "image/webp",
+      "bytes": 285572,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/4f1d22f8-e561-4fa5-a66f-8f3efabcbdfb/je/2000xxs.jpg",
+      "path": "images/049-23ca9274.webp",
+      "media_type": "image/webp",
+      "bytes": 208564,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/420145d3-fb82-4269-b66c-0f96dde1e5a3/je/2000xxs.jpg",
+      "path": "images/050-6dc6596d.webp",
+      "media_type": "image/webp",
+      "bytes": 431914,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/18f517b8-33cf-4777-8321-e83529ce77cd/je/2000xxs.jpg",
+      "path": "images/051-6fc2b973.webp",
+      "media_type": "image/webp",
+      "bytes": 1080518,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/30131d33-9cf9-4774-9c7c-c9146fbfdd74/je/2000xxs.jpg",
+      "path": "images/052-86343207.webp",
+      "media_type": "image/webp",
+      "bytes": 800012,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a75d0d31-1662-46bb-b6ca-f0402628fdb0/je/2000xxs.jpg",
+      "path": "images/053-9acafde5.webp",
+      "media_type": "image/webp",
+      "bytes": 884190,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/fd7f1497-d265-4acb-80e7-6a957e9a4fb4/je/2000xxs.jpg",
+      "path": "images/054-3824ddae.webp",
+      "media_type": "image/webp",
+      "bytes": 737392,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/409e0596-ca57-4517-936b-399b3b0d6c8a/je/2000xxs.jpg",
+      "path": "images/055-1541247a.webp",
+      "media_type": "image/webp",
+      "bytes": 803272,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/890c721c-3c83-4678-a5de-39ae32db29e7/je/2000xxs.jpg",
+      "path": "images/056-a8ee51eb.webp",
+      "media_type": "image/webp",
+      "bytes": 356830,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a6f08e9d-4afe-4a55-944a-102fc80ca22b/je/2000xxs.jpg",
+      "path": "images/057-645ab4c6.webp",
+      "media_type": "image/webp",
+      "bytes": 955638,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a36099ef-9bd1-4a3e-bfa8-5678b3c3498b/je/2000xxs.jpg",
+      "path": "images/058-05fc645d.webp",
+      "media_type": "image/webp",
+      "bytes": 808358,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5d3cfd74-0ba2-4e10-b062-0dd926fea261/je/2000xxs.jpg",
+      "path": "images/059-430ceea6.webp",
+      "media_type": "image/webp",
+      "bytes": 964334,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/8a18f9e5-fbda-4189-8af0-26b4e236f3d0/je/2000xxs.jpg",
+      "path": "images/060-7013fad7.webp",
+      "media_type": "image/webp",
+      "bytes": 1035944,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/02679f55-9654-4135-93fa-c4c65079787d/je/2000xxs.jpg",
+      "path": "images/061-021079ef.webp",
+      "media_type": "image/webp",
+      "bytes": 1089234,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/966ffca9-709c-42b2-954f-463a82f5ba87/je/2000xxs.jpg",
+      "path": "images/062-ee985ec6.webp",
+      "media_type": "image/webp",
+      "bytes": 1213330,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/95de1384-9a18-44ad-842f-8e8abfe9319b/je/2000xxs.jpg",
+      "path": "images/063-a09c7c98.webp",
+      "media_type": "image/webp",
+      "bytes": 1317880,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/50bb9066-9fc4-41e6-b3e5-43c506d2a7f4/je/2000xxs.jpg",
+      "path": "images/064-e3672a33.webp",
+      "media_type": "image/webp",
+      "bytes": 983842,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6626e95c-4ba8-4e81-af4c-f3e5d91bf879/je/2000xxs.jpg",
+      "path": "images/065-f009aeae.webp",
+      "media_type": "image/webp",
+      "bytes": 759138,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5bb9cfe4-57ce-459e-9741-0d1863a7f5fc/je/2000xxs.jpg",
+      "path": "images/066-05da94dd.webp",
+      "media_type": "image/webp",
+      "bytes": 917444,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/3bce1dba-5a59-4e5a-85ed-683b0e4c9d54/je/2000xxs.jpg",
+      "path": "images/067-924c84c3.webp",
+      "media_type": "image/webp",
+      "bytes": 499528,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6ecabd5e-c844-41af-ba63-506b10b6df85/je/2000xxs.jpg",
+      "path": "images/068-b2dde0b4.webp",
+      "media_type": "image/webp",
+      "bytes": 772154,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/994d6e17-6442-4174-b704-922c9558a3d2/je/2000xxs.jpg",
+      "path": "images/069-971a0c14.webp",
+      "media_type": "image/webp",
+      "bytes": 787380,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/cc2759c6-e096-4941-993b-fe60923132bb/je/2000xxs.jpg",
+      "path": "images/070-13b3dc4c.webp",
+      "media_type": "image/webp",
+      "bytes": 903108,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/9d083651-db0d-42ba-a64e-6cf86c79fd8e/je/2000xxs.jpg",
+      "path": "images/071-b8085f1d.webp",
+      "media_type": "image/webp",
+      "bytes": 469186,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b4f2e227-f605-4a43-bda7-0a437f4081b2/je/2000xxs.jpg",
+      "path": "images/072-07c8dc14.webp",
+      "media_type": "image/webp",
+      "bytes": 341098,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/494c1ee5-bd4e-44f5-99bb-c352a5a97b35/je/2000xxs.jpg",
+      "path": "images/073-95aa3146.webp",
+      "media_type": "image/webp",
+      "bytes": 828980,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2827%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2828%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2829%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/078-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/079-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/080-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/081-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 11,
+    "images_existing": 49,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,367 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/estate-beverly-hills-united-states-17427404",
+    "canonical_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/estate-beverly-hills-united-states-17427404",
+    "site": "jamesedition",
+    "listing_id": "17427404",
+    "listing_reference": "067520",
+    "first_listed": "Mar 17",
+    "last_updated": "March 17",
+    "retrieved_at": "2026-06-16T03:43:23.880146Z"
+  },
+  "location": {
+    "address": "1420 Davies Drive, Beverly Hills, California, United States",
+    "street": "1420 Davies Drive",
+    "municipality": "Beverly Hills",
+    "region": "California",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=34.0978272,-118.4339237",
+    "latitude": 34.0978272,
+    "longitude": -118.4339237
+  },
+  "property": {
+    "title": "Estate Beverly Hills United States",
+    "type": "Estate",
+    "availability": "InStock",
+    "price": {
+      "amount": 69995000,
+      "currency": "USD",
+      "display": "$69,995,000"
+    },
+    "price_per_area": {
+      "amount": 3210,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$3,210"
+    },
+    "bedrooms": 8,
+    "bathrooms": 14,
+    "floors": 3,
+    "interior_area": {
+      "value": 21800,
+      "unit": "sqft",
+      "display": "21,800 Sqft"
+    },
+    "lot_area": {
+      "value": 5.69,
+      "display": "5.69 Ac lot"
+    },
+    "year_built": 2004,
+    "photo_count": 22,
+    "description": "Poised high atop a promontory, this palatial European Estate boasts jaw-dropping 360 degree views of all of Los Angeles. Rich in privacy behind gates and up the long tree-lined driveway, this fortress of unparalleled magnitude is revealed. Situated in a world of its own overlooking the stunning gardens and city, this home is the epitome of royal living in the most sought-after city in the country. High ceilings, ornate details and grand-scale rooms are showcased beyond the luxurious foyer and Imperial Staircase through the massive double door entrance. Highlights from the main floor include an industrial grade chef’s kitchen with an adjacent light and bright breakfast room, a formal dining room with double doors made with Venetian stained glass windows, an impressive living room with a gorgeous bar and fireplace, a billiards room, and a formal sitting room. Among the many jewels of this home is the two story library which includes a steel spiral staircase and a vibrant irreplaceable stained glass light fixture. Upstairs, the master bedroom rivals that of a European castle with multiple private terraces, city and nature views, his and hers closets, a massage room and a luxurious bathroom made with lapis stone. In addition to the master suite there are four oversized en suite bedrooms each with beautiful views and walk in closets. The lower level is an entertainer’s paradise with a theater, ballroom that opens up to a sprawling terrace where your guests can soak in the picturesque views, and a wine cellar that’s authentically outfitted as the storefront of an early 18th century English saloon. The backyard consists of a sparkling pool and spa, outdoor kitchen, putting green, a fruit and vegetable garden, tennis court, koi pond, and endless places for dining al fresco. In addition to the various amenities, the home is also equipped with an oversized gym. This tranquil oasis is quintessential to the highest class of luxury living, built for those who hold history, design, and beauty in the highest regard.",
+    "features": [
+      "Bar",
+      "Cinema",
+      "City View",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garden",
+      "Gate",
+      "High Ceiling",
+      "Library",
+      "Outdoor Kitchen",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Pool",
+      "Privacy",
+      "Stone Countertops",
+      "Tennis Court",
+      "Terrace",
+      "Water View",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Tomer Fridman",
+    "agent_profile_url": "https://www.jamesedition.com/agents/tomer-fridman-1599445",
+    "agent_license": "#01750717 (CA)",
+    "agency": "Christie's International Real Estate Southern California - Beverly Hills",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/christie-s-international-real-estate-southern-california-beverly-hills-151506",
+    "agency_address": "433 N Camden Dr Suite 600, 90210, Beverly Hills, California, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/2200xxs.jpg",
+      "file": "004-90abb0c3.webp",
+      "media_type": "image/webp",
+      "bytes": 836576,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/2200xxs.jpg",
+      "file": "009-93061e63.webp",
+      "media_type": "image/webp",
+      "bytes": 330312,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/2200xxs.jpg",
+      "file": "014-c2338d71.webp",
+      "media_type": "image/webp",
+      "bytes": 576326,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/2200xxs.jpg",
+      "file": "019-3500984e.webp",
+      "media_type": "image/webp",
+      "bytes": 416130,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/2200xxs.jpg",
+      "file": "024-b36bd541.webp",
+      "media_type": "image/webp",
+      "bytes": 233600,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/02/28/08/56/07/74863c12-9de3-41e6-9520-6c181a8c2468/je/80x80xc.jpg",
+      "file": "040-460fc1c6.webp",
+      "media_type": "image/webp",
+      "bytes": 1274,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ca-united-states",
+              "name": "California"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa",
+              "name": "Beverly Hills"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/estate-beverly-hills-united-states-17427404",
+              "name": "Estate - Beverly Hills - United States"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Poised high atop a promontory, this palatial European Estate boasts jaw-dropping 360 degree views of all of Los Angeles. Rich in privacy behind gates and up the long tree-lined driveway, this fortress of unparalleled magnitude is revealed. Situated in a world of its own overlooking the stunning gardens and city, this home is the epitome of royal living in the most sought-after city in the country. High ceilings, ornate details and grand-scale rooms are showcased beyond the luxurious foyer and Imperial Staircase through the massive double door entrance. Highlights from the main floor include an industrial grade chef's kitchen with an adjacent light and bright breakfast room, a formal dining room with double doors made with Venetian stained glass windows, an impressive living room with a gorgeous bar and fireplace, a billiards room, and a formal sitting room. Among the many jewels of this home is the two story library which includes a steel spiral staircase and a vibrant irreplaceable stained glass light fixture. Upstairs, the master bedroom rivals that of a European castle with multiple private terraces, city and nature views, his and hers closets, a massage room and a luxurious bathroom made with lapis stone. In addition to the master suite there are four oversized en suite bedrooms each with beautiful views and walk in closets. The lower level is an entertainer's paradise with a theater, ballroom that opens up to a sprawling terrace where your guests can soak in the picturesque views, and a wine cellar that's authentically outfitted as the storefront of an early 18th century English saloon. The backyard consists of a sparkling pool and spa, outdoor kitchen, putting green, a fruit and vegetable garden, tennis court, koi pond, and endless places for dining al fresco. In addition to the various amenities, the home is also equipped with an oversized gym. This tranquil oasis is quintessential to the highest class of luxury living, built for those who hold history, design, and beauty in the highest regard.",
+        "image": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg",
+        "name": "Estate - Beverly Hills - United States",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 69995000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Christie's International Real Estate Southern California - Beverly Hills"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/estate-beverly-hills-united-states-17427404"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+  ]
+};

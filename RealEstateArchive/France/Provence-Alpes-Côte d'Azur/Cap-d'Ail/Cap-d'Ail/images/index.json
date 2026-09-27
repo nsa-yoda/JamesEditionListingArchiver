@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "path": "France/Provence-Alpes-Côte d'Azur/Cap-d'Ail/Cap-d'Ail/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-9151c745.webp",
+      "href": "004-9151c745.webp",
+      "size": 755902
+    },
+    {
+      "name": "009-f8850676.webp",
+      "href": "009-f8850676.webp",
+      "size": 653016
+    },
+    {
+      "name": "014-246d7ff9.webp",
+      "href": "014-246d7ff9.webp",
+      "size": 479306
+    },
+    {
+      "name": "019-21e8a7e1.webp",
+      "href": "019-21e8a7e1.webp",
+      "size": 602612
+    },
+    {
+      "name": "024-92c0e7c5.webp",
+      "href": "024-92c0e7c5.webp",
+      "size": 678836
+    },
+    {
+      "name": "029-57242b8e.webp",
+      "href": "029-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "030-4055dfde.svg",
+      "href": "030-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "031-272e34fe.svg",
+      "href": "031-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "032-caf7633d.svg",
+      "href": "032-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

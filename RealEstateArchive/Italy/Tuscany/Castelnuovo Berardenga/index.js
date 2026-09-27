@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Italy/Tuscany/Castelnuovo Berardenga",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Chianti Classico Estate With Historic Mansion",
+      "href": "Chianti%20Classico%20Estate%20With%20Historic%20Mansion/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

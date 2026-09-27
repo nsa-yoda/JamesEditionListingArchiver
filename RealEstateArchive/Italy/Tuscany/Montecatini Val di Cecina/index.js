@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Italy/Tuscany/Montecatini Val di Cecina",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Luxury Farmhouse With Vineyard",
+      "href": "Luxury%20Farmhouse%20With%20Vineyard/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

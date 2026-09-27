@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kutchan-japan/hakuchozan-award-winning-ski-chalet-in-niseko-hirafu-15174370",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kutchan-japan/hakuchozan-award-winning-ski-chalet-in-niseko-hirafu-15174370",
+    "site": "jamesedition",
+    "listing_id": "15174370",
+    "listing_reference": "4511556",
+    "first_listed": "Feb 5, 2025",
+    "last_updated": "Today",
+    "retrieved_at": "2026-06-16T03:43:26.378128Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2934,
+      "sha256": "f4f7ccc7622c6b13355fbca7e63c49a6ec9e4e9ef94ca36e45dd81aa9110a081"
+    },
+    {
+      "path": "images/004-70f4aed3.webp",
+      "bytes": 593220,
+      "sha256": "8ad4f6cfb3e42c6375f1dc7ada579a271493b77a697ac3ed805534726ded334d"
+    },
+    {
+      "path": "images/009-b8e19e77.webp",
+      "bytes": 212860,
+      "sha256": "5536c870d08b7d031078249bebc9162abc1d2b7bb515e80b39bca3c35c73ad19"
+    },
+    {
+      "path": "images/014-3b7348d6.webp",
+      "bytes": 321016,
+      "sha256": "b5aff437ec3759f32163a84acc7fb605866d19a5fe653ab29346d086b16e1a15"
+    },
+    {
+      "path": "images/019-168b9515.webp",
+      "bytes": 240054,
+      "sha256": "f763616b586d81c91c60c8342d58fdf7b8e7e3374ff99a09d9ee9808f6896115"
+    },
+    {
+      "path": "images/024-af297215.webp",
+      "bytes": 242326,
+      "sha256": "65cbe7898ce0fa6649c29d25132bff7297b8b4b17ee10d13a6aea4538ae8f340"
+    },
+    {
+      "path": "images/038-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/039-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/040-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/041-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/042-5e31199e.webp",
+      "bytes": 258,
+      "sha256": "78c2b6a66570c08de5b985428aff328d07c6bfd2cb1aadcccfb643863f977552"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 22007,
+      "sha256": "71e7720eb2a9ac167ef72cbdc9b2d2efc4421713e97a6cd6b20cf54e182b56b3"
+    },
+    {
+      "path": "source.html",
+      "bytes": 359560,
+      "sha256": "6c22eac3c29b24bcdfbec066ed203bb71cf8eaddef73f3473e9538a1c9345228"
+    },
+    {
+      "path": "source.url",
+      "bytes": 117,
+      "sha256": "94f93ba4e2b6e949353fc2fc2473b8f8d5d49995e386887b22653e7b01c94b5d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a4bbd2e0-930f-439e-a511-9fe5e8d6f741/je/2200xxs.jpg",
+      "path": "images/004-70f4aed3.webp",
+      "media_type": "image/webp",
+      "bytes": 593220,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/8041d251-2f4a-4e4c-9c65-cfe14220acc5/je/2200xxs.jpg",
+      "path": "images/009-b8e19e77.webp",
+      "media_type": "image/webp",
+      "bytes": 212860,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/6231621d-71e6-4c32-a742-55ae3c7b3506/je/2200xxs.jpg",
+      "path": "images/014-3b7348d6.webp",
+      "media_type": "image/webp",
+      "bytes": 321016,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/42daee78-35c1-4a66-a629-3539df0e34fb/je/2200xxs.jpg",
+      "path": "images/019-168b9515.webp",
+      "media_type": "image/webp",
+      "bytes": 240054,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/30684d25-2f37-44ea-bcad-bc35a952e43d/je/2200xxs.jpg",
+      "path": "images/024-af297215.webp",
+      "media_type": "image/webp",
+      "bytes": 242326,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Hakucho%CC%84zan%20Award%20Winning%20Ski%20Chalet%20In%20Niseko%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815174370%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/038-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/039-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/040-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/041-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/23/08/44/59/c8ee863e-908b-4d5b-b613-4ee6562c5fbf/je/80x80xc.jpg",
+      "path": "images/042-5e31199e.webp",
+      "media_type": "image/webp",
+      "bytes": 258,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 16,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

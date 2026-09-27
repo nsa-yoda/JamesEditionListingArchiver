@@ -1,0 +1,877 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/happy-canyon-retreat-18727813",
+    "canonical_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/happy-canyon-retreat-18727813",
+    "site": "jamesedition",
+    "listing_id": "18727813",
+    "listing_reference": "CFFFY4",
+    "first_listed": "Aug 26",
+    "last_updated": "August 28",
+    "retrieved_at": "2026-09-26T18:46:28.812498Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3707,
+      "sha256": "86d49a9ea8ae32d83c45e4a6e06bebcbadee28833f1dcc2acaf09e41202cff0a"
+    },
+    {
+      "path": "images/img-026d9a011b1e.webp",
+      "bytes": 529756,
+      "sha256": "a4bac3ad7062bbb409c2c5dde26119261de72e3e0bab7a31923662caeca6356c"
+    },
+    {
+      "path": "images/img-08ae040ecb3d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-09f7a754c74e.webp",
+      "bytes": 207440,
+      "sha256": "aca753284c063e8673d0112b1a15f075a5e04fa0cf42cc956f8cc09095c3edae"
+    },
+    {
+      "path": "images/img-0c00fabe1c53.webp",
+      "bytes": 623444,
+      "sha256": "8f21f7610ea1ec226c13ef3cad51cb4a84b33a6c868f234764a31c3332d8bf18"
+    },
+    {
+      "path": "images/img-0f28b3016016.webp",
+      "bytes": 947672,
+      "sha256": "9eb82051d72026fd5fe769792736eb4d054831c2c126a2fb0c730ff1cc44dc16"
+    },
+    {
+      "path": "images/img-0f649a8e6330.webp",
+      "bytes": 564156,
+      "sha256": "14b930223cd5c08196eeb1dbbcb0e759fc6bbe61e5aa1a6a983c604c90f6c8a9"
+    },
+    {
+      "path": "images/img-14aaaa28679b.webp",
+      "bytes": 806170,
+      "sha256": "b1b90b0e1294516ea9fd6328a5dd3a0280f826c93e8d887ad7349a017dc7415b"
+    },
+    {
+      "path": "images/img-1699cad85f3f.webp",
+      "bytes": 1402858,
+      "sha256": "5c195eeeeae9e165621f9ad13ca50bc4091951fb5f408677e2b67f8c3c059b02"
+    },
+    {
+      "path": "images/img-17e671f860a9.webp",
+      "bytes": 534270,
+      "sha256": "4a79dfa92393fa9851a373211cdbce5ed80ac58eba5e8ed60209fcce7e9417a8"
+    },
+    {
+      "path": "images/img-194c24efc5ac.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-1d21dd707266.webp",
+      "bytes": 536414,
+      "sha256": "80be18aa94af75bf5f1fabbfc6ad5aab65f87145b0a2fe6d427b0bb32edebefd"
+    },
+    {
+      "path": "images/img-272421c4827b.webp",
+      "bytes": 412846,
+      "sha256": "cf5789491fb23ea35b31784531c25da56983ffabb029b8bc77d77e161a08e591"
+    },
+    {
+      "path": "images/img-2beb84280bed.webp",
+      "bytes": 150696,
+      "sha256": "9dea8e61cef8c6b5979704d48810819041e35891e5beccf71699eaca81a8c2d1"
+    },
+    {
+      "path": "images/img-3224fc4ce0a6.webp",
+      "bytes": 153626,
+      "sha256": "0fe03e97cd892d26658c2a0996da698d87f9b88c482c68fa670f0dc8f8913fde"
+    },
+    {
+      "path": "images/img-322b7e773c2b.webp",
+      "bytes": 579828,
+      "sha256": "829b0a78a0957b68e89a810944192b63cdd121e4e49a9a639f61196f979ab781"
+    },
+    {
+      "path": "images/img-322c9a54b1d1.webp",
+      "bytes": 487308,
+      "sha256": "2c49dac55da72fdf2de5479d1f37aeeb1ef57dc824c4af68a4dfbe0ad220de9d"
+    },
+    {
+      "path": "images/img-32679275b5b0.webp",
+      "bytes": 457622,
+      "sha256": "504af9b6830a9a994cfbe6dd98c1eb71954aa5de7136094a2543a66c93a690c8"
+    },
+    {
+      "path": "images/img-3444b223dba5.webp",
+      "bytes": 473884,
+      "sha256": "6ac7ea0d1d7070919b5ae3d2db9e87c1128671374577cda57cf782c17eb4abb1"
+    },
+    {
+      "path": "images/img-392fe344de05.webp",
+      "bytes": 652058,
+      "sha256": "4d7a613f258dbb5c9d6f5e1aa81301306d7956a4fb9327e0d41ce8ecad6918be"
+    },
+    {
+      "path": "images/img-3d1a7330d1b6.webp",
+      "bytes": 488862,
+      "sha256": "193568ff9e6a9fcb87419845ecdbbc8732c8887f6a5203249390189431579d23"
+    },
+    {
+      "path": "images/img-4c139edb7c3c.webp",
+      "bytes": 315722,
+      "sha256": "688b8c2fb141ea29a523c5a1fbe34dec4b100a697e07e1d36ffb1d3f136e01fa"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-61dba7b61e7b.webp",
+      "bytes": 298434,
+      "sha256": "68a5e010690fc535ec568e2b9c5459f68f20654fd8bfab2b5eb3b09fc0ea331f"
+    },
+    {
+      "path": "images/img-63568e6823d8.webp",
+      "bytes": 209096,
+      "sha256": "b68c4a5f8eb01c2eb9b5a1996b6972b40dda859318cec1a5d29200978f8f72f2"
+    },
+    {
+      "path": "images/img-691c349c81a0.webp",
+      "bytes": 578250,
+      "sha256": "0cd4e1d59ea7ea089e7c26c9cc1eb09f5668626f855c35ab19abe57f1feaa8e4"
+    },
+    {
+      "path": "images/img-6a020092c253.webp",
+      "bytes": 349766,
+      "sha256": "29de920b43f1ccaa41ea14ae4f0449da570d1663b50e492a98a2fa817fc7ff04"
+    },
+    {
+      "path": "images/img-6f644561760b.webp",
+      "bytes": 363506,
+      "sha256": "5d548d977c3967b82acaeb7f1112f9759b6d03170a57bf34e65ba0eac661ecbc"
+    },
+    {
+      "path": "images/img-6fa1dc990fa6.webp",
+      "bytes": 299394,
+      "sha256": "761ad0a6d801e0d5c0b61c790c36cd87f1810dc6ba549ea8b36c65d58b824d16"
+    },
+    {
+      "path": "images/img-87be3bf912a0.webp",
+      "bytes": 603342,
+      "sha256": "4b36d6c07066b109ffd888aa569a485a52a773fbc964641ca91f6c308dc89c8e"
+    },
+    {
+      "path": "images/img-92c4b66b3ac1.webp",
+      "bytes": 1069052,
+      "sha256": "ee84038f6bb592698d8d87f8bc022fe4c383e28a1389856dcf57a7d14e12d4b5"
+    },
+    {
+      "path": "images/img-940e5dea4b6c.webp",
+      "bytes": 129360,
+      "sha256": "771ce62c92cc1d4cec7367adce8c3de4b9597cf7ade77e3158e75d8d0ac9e171"
+    },
+    {
+      "path": "images/img-9c0f23c62bbc.webp",
+      "bytes": 528060,
+      "sha256": "5b6c3da0f141c1a8748f4f4ae1dbc14c88bb6c1c77660dafa98c037a54707b38"
+    },
+    {
+      "path": "images/img-9d81f75514ca.webp",
+      "bytes": 966060,
+      "sha256": "6cbc6b9bcdaa33f9df5bbe78cd24f0a68998921d9c08cd8ac8a9e6b72324d572"
+    },
+    {
+      "path": "images/img-a584d833ebe0.webp",
+      "bytes": 330580,
+      "sha256": "09fccee652b0790a547895d653edbca3620aa6ed143ae2e91759afd661bbf7c6"
+    },
+    {
+      "path": "images/img-a5efeb32367b.webp",
+      "bytes": 344608,
+      "sha256": "b2d3e99ece7c6c75153b306fba2bd20fe7bfffadd2f359aeeb26cb8e1b9e7e9c"
+    },
+    {
+      "path": "images/img-a780c95e71b1.webp",
+      "bytes": 854790,
+      "sha256": "bcaaeae3692a0cc562de4dacb33cb0f262ecdc71c6f319e6f049ede1d3aaeb1c"
+    },
+    {
+      "path": "images/img-a8abaf2904e8.webp",
+      "bytes": 144500,
+      "sha256": "5cf518182d5c831407f763c0e5930a6e7afa6957887abace46ea308d3d704625"
+    },
+    {
+      "path": "images/img-ab80ca90cf6a.webp",
+      "bytes": 544234,
+      "sha256": "d28c36a9860932edd1127acef1ade07ba080ba7699adfc5bfca0a77d1493c43b"
+    },
+    {
+      "path": "images/img-adc010b9fcda.webp",
+      "bytes": 256410,
+      "sha256": "60a447f4f8f1b4cd280fcfc0aea8512ce7ff45ef40877303a10cd52f2b64d88f"
+    },
+    {
+      "path": "images/img-adcc37b5d145.webp",
+      "bytes": 464900,
+      "sha256": "10a8539d1b85ee1e3c1f46c53eda6d681ef5d10606dc48e2a73830d48a4a712a"
+    },
+    {
+      "path": "images/img-b387fe9afb80.webp",
+      "bytes": 146244,
+      "sha256": "cbfeafe7b14b5ca20d5c53bfca14b09cf7c4841eeb0136ba3ecedc5fdbbdb857"
+    },
+    {
+      "path": "images/img-b4f6fa1a9160.webp",
+      "bytes": 641706,
+      "sha256": "8a46d51cb4ab7290b27bb3daea2b2ce66860834e95601f15aea770cbf1ffcae5"
+    },
+    {
+      "path": "images/img-b5cef3cc8307.webp",
+      "bytes": 860298,
+      "sha256": "b07e7e1312c3aa5eb17da5c2efb31ff75a43ba0dfafb297ec965c03f449362f6"
+    },
+    {
+      "path": "images/img-b68325722630.webp",
+      "bytes": 197126,
+      "sha256": "ea02a0500d27ff0d66424670334e775fcfbf273e662ad77c6307a5985508ada5"
+    },
+    {
+      "path": "images/img-be8fc79ebf23.webp",
+      "bytes": 1194016,
+      "sha256": "362319ad59d66dca93a6a425b7547bf7b624ab0baccaabea6a938705596aa1da"
+    },
+    {
+      "path": "images/img-bf772c3926f4.webp",
+      "bytes": 485200,
+      "sha256": "ca2dec43e54f7ac714d5f615d1c3500557d1f0821e08671e1ba46829e5874a09"
+    },
+    {
+      "path": "images/img-bfe0883fc0d7.webp",
+      "bytes": 909684,
+      "sha256": "537459d47d7de7076cc77299be3ef8f49001f24f71f6282cc985675018737d05"
+    },
+    {
+      "path": "images/img-c411dd50a851.webp",
+      "bytes": 483568,
+      "sha256": "094dfb6cd540fbf75f48653e8920d7dba3eeb86d56bf54521500b7b1b3641688"
+    },
+    {
+      "path": "images/img-c8647e3f8394.webp",
+      "bytes": 246490,
+      "sha256": "a2adbdd0bac84358db2445caabdeeeb1084018bf6a9109e77805e6ca31ee3e92"
+    },
+    {
+      "path": "images/img-cdb8760ab644.webp",
+      "bytes": 1090680,
+      "sha256": "2b12b418c219b15fc1c457a732867f4e4b1ae8ce823f331b44db4a415d4550d6"
+    },
+    {
+      "path": "images/img-dc90c501bd51.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-e893e23ae8c1.webp",
+      "bytes": 179748,
+      "sha256": "7f852fc4e26635d6b5b1ebfe2987305e26ae436480cf44902451c54f33980a84"
+    },
+    {
+      "path": "images/img-ef822d59a24a.webp",
+      "bytes": 554652,
+      "sha256": "4f6ef33bb5876381981c987a9456d937c322169c0edb1e331c926e3bfdadffcd"
+    },
+    {
+      "path": "images/img-f1dbeea57be9.webp",
+      "bytes": 191244,
+      "sha256": "ccbbafe217e800eca0a3854c5c09789d359304a79a7ed88095b20b92e8046591"
+    },
+    {
+      "path": "images/img-f6bd443e6623.webp",
+      "bytes": 435678,
+      "sha256": "8ebef0698785ea6d4d35dc970acb664c07f8e4905d483369ca93843533a5618a"
+    },
+    {
+      "path": "images/img-ff3b26c9c590.webp",
+      "bytes": 391728,
+      "sha256": "5a5fe567b62e297f5889ec54ad9f74dce268d2acc0c922faa4b6b129ac99a432"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 36786,
+      "sha256": "7ab3c1a8a97957b8b851583a51dd9024862336fb383c4de5b1fa568719f2b51a"
+    },
+    {
+      "path": "source.html",
+      "bytes": 599979,
+      "sha256": "094ed48ddc03e3866757036bc5f0346a46e171f1d431a043b210dc19ad439118"
+    },
+    {
+      "path": "source.url",
+      "bytes": 89,
+      "sha256": "53ccac5ace9f8d228af1436b27dd920b1ee113cb3da1e432a9a070eee5b1046e"
+    },
+    {
+      "path": "videos/img-bba4b5f02439.webp",
+      "bytes": 210270,
+      "sha256": "1e313a25849cff3b0987f669cce031436185dae02ca18271862eeb82b94feee1"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://player.vimeo.com/video/1202936862?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "status": "failed",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/1040x620xc.jpg",
+      "poster_path": "videos/img-bba4b5f02439.webp",
+      "error": "HTTP 401 Unauthorized"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/2200xxs.jpg",
+      "path": "images/img-cdb8760ab644.webp",
+      "media_type": "image/webp",
+      "bytes": 1090680,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/98891775-cfd6-470b-a979-372ef07e9b3a/je/2200xxs.jpg",
+      "path": "images/img-14aaaa28679b.webp",
+      "media_type": "image/webp",
+      "bytes": 806170,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/718ecafc-9eac-4ba3-9d2c-124bae2893be/je/2200xxs.jpg",
+      "path": "images/img-9d81f75514ca.webp",
+      "media_type": "image/webp",
+      "bytes": 966060,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/4e41a4c1-1cc4-49e4-b9a4-cecbe2615f26/je/2200xxs.jpg",
+      "path": "images/img-0f28b3016016.webp",
+      "media_type": "image/webp",
+      "bytes": 947672,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/2200xxs.jpg",
+      "path": "images/img-87be3bf912a0.webp",
+      "media_type": "image/webp",
+      "bytes": 603342,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/request_plan_bg-33cc1401.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/street_view-b1ba588c.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/085e4a3d-d065-4d8a-aef0-67602072d52d/je/2000xxs.jpg",
+      "path": "images/img-6f644561760b.webp",
+      "media_type": "image/webp",
+      "bytes": 363506,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/9583e4be-c1ee-42a3-95f5-38ed0862e6a7/je/2000xxs.jpg",
+      "path": "images/img-adc010b9fcda.webp",
+      "media_type": "image/webp",
+      "bytes": 256410,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/fa2a74d7-b68c-4de2-a04b-a409367befc0/je/2000xxs.jpg",
+      "path": "images/img-4c139edb7c3c.webp",
+      "media_type": "image/webp",
+      "bytes": 315722,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/f41684cc-6731-449f-b69f-b8aa60c0e777/je/2000xxs.jpg",
+      "path": "images/img-be8fc79ebf23.webp",
+      "media_type": "image/webp",
+      "bytes": 1194016,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/dbef9cff-2039-4c4e-998d-cee31d5f0163/je/2000xxs.jpg",
+      "path": "images/img-a780c95e71b1.webp",
+      "media_type": "image/webp",
+      "bytes": 854790,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/bc1f27d1-0f11-4075-9a33-ebf065e25b4a/je/2000xxs.jpg",
+      "path": "images/img-691c349c81a0.webp",
+      "media_type": "image/webp",
+      "bytes": 578250,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/fb3d67e4-4f2c-4fb8-8859-f09fd53080f4/je/2000xxs.jpg",
+      "path": "images/img-3d1a7330d1b6.webp",
+      "media_type": "image/webp",
+      "bytes": 488862,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/0253c5c0-82d5-440d-a203-e6de34df676f/je/2000xxs.jpg",
+      "path": "images/img-0c00fabe1c53.webp",
+      "media_type": "image/webp",
+      "bytes": 623444,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/80aa8f4e-c03a-46b4-b1d6-ea03548b951f/je/2000xxs.jpg",
+      "path": "images/img-b4f6fa1a9160.webp",
+      "media_type": "image/webp",
+      "bytes": 641706,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/304b3d9d-14b8-4d4f-957c-5227265c996b/je/2000xxs.jpg",
+      "path": "images/img-322b7e773c2b.webp",
+      "media_type": "image/webp",
+      "bytes": 579828,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/b8d5a16a-dd07-454d-8c42-009d67aa06c2/je/2000xxs.jpg",
+      "path": "images/img-b5cef3cc8307.webp",
+      "media_type": "image/webp",
+      "bytes": 860298,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/3766a1a3-a5d8-4fa6-9dc8-3d98a8106268/je/2000xxs.jpg",
+      "path": "images/img-3444b223dba5.webp",
+      "media_type": "image/webp",
+      "bytes": 473884,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/f4615fba-37c8-4c83-8f6b-5ee243bd0992/je/2000xxs.jpg",
+      "path": "images/img-b68325722630.webp",
+      "media_type": "image/webp",
+      "bytes": 197126,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/70c1be03-3125-4ade-8c45-f7a7aae4cb70/je/2000xxs.jpg",
+      "path": "images/img-c8647e3f8394.webp",
+      "media_type": "image/webp",
+      "bytes": 246490,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/2f736027-0901-44f1-b155-0833a9ca7364/je/2000xxs.jpg",
+      "path": "images/img-e893e23ae8c1.webp",
+      "media_type": "image/webp",
+      "bytes": 179748,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/f0a6393e-6b03-436c-844f-bdd4c1f8bbb8/je/2000xxs.jpg",
+      "path": "images/img-940e5dea4b6c.webp",
+      "media_type": "image/webp",
+      "bytes": 129360,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/a6f02228-dc67-49be-b499-2209cc2437d7/je/2000xxs.jpg",
+      "path": "images/img-b387fe9afb80.webp",
+      "media_type": "image/webp",
+      "bytes": 146244,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/6d971db9-f911-45be-acac-bf9080a293b4/je/2000xxs.jpg",
+      "path": "images/img-c411dd50a851.webp",
+      "media_type": "image/webp",
+      "bytes": 483568,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/60f01a53-d46d-40b3-b946-b84dcf06a665/je/2000xxs.jpg",
+      "path": "images/img-6a020092c253.webp",
+      "media_type": "image/webp",
+      "bytes": 349766,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/faf7cefc-377e-4d4a-b288-cea5e978ec9f/je/2000xxs.jpg",
+      "path": "images/img-f1dbeea57be9.webp",
+      "media_type": "image/webp",
+      "bytes": 191244,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/5811cb50-1886-49b8-91e8-154d8994cf0c/je/2000xxs.jpg",
+      "path": "images/img-a584d833ebe0.webp",
+      "media_type": "image/webp",
+      "bytes": 330580,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/87f9dcd2-bce7-4931-83e1-b57c886a6a09/je/2000xxs.jpg",
+      "path": "images/img-63568e6823d8.webp",
+      "media_type": "image/webp",
+      "bytes": 209096,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/38b062bb-f4be-4c8f-8457-7d633e0f7473/je/2000xxs.jpg",
+      "path": "images/img-3224fc4ce0a6.webp",
+      "media_type": "image/webp",
+      "bytes": 153626,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/a5c8922b-d15b-457e-8e2b-ff41d1bd9ea0/je/2000xxs.jpg",
+      "path": "images/img-f6bd443e6623.webp",
+      "media_type": "image/webp",
+      "bytes": 435678,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/0a212b0d-5b7d-4766-9fde-e1208f03d917/je/2000xxs.jpg",
+      "path": "images/img-ff3b26c9c590.webp",
+      "media_type": "image/webp",
+      "bytes": 391728,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/a46d0e3c-369f-4b52-8294-39bf444ec299/je/2000xxs.jpg",
+      "path": "images/img-a8abaf2904e8.webp",
+      "media_type": "image/webp",
+      "bytes": 144500,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/42a7e2f4-fd88-41de-a9ed-445d3adf883f/je/2000xxs.jpg",
+      "path": "images/img-09f7a754c74e.webp",
+      "media_type": "image/webp",
+      "bytes": 207440,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/cda91cd2-ebac-4b32-8535-1b6c1ff2156e/je/2000xxs.jpg",
+      "path": "images/img-6fa1dc990fa6.webp",
+      "media_type": "image/webp",
+      "bytes": 299394,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/83fc5047-34fe-4f0a-bcb0-c72886ee1e3b/je/2000xxs.jpg",
+      "path": "images/img-1699cad85f3f.webp",
+      "media_type": "image/webp",
+      "bytes": 1402858,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/ef168fc1-c62f-4249-9528-1cc792abeca7/je/2000xxs.jpg",
+      "path": "images/img-bfe0883fc0d7.webp",
+      "media_type": "image/webp",
+      "bytes": 909684,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/45bedcc3-0d7b-4ca4-b841-6d8973e217fa/je/2000xxs.jpg",
+      "path": "images/img-92c4b66b3ac1.webp",
+      "media_type": "image/webp",
+      "bytes": 1069052,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/f578ffbc-707f-4bd3-9d5d-e2f0a78ff62b/je/2000xxs.jpg",
+      "path": "images/img-32679275b5b0.webp",
+      "media_type": "image/webp",
+      "bytes": 457622,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/9031aee8-05d4-4685-8665-9bb0a81ca2c0/je/2000xxs.jpg",
+      "path": "images/img-2beb84280bed.webp",
+      "media_type": "image/webp",
+      "bytes": 150696,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/564d4413-06b0-4a06-97b9-8f338d368f23/je/2000xxs.jpg",
+      "path": "images/img-bf772c3926f4.webp",
+      "media_type": "image/webp",
+      "bytes": 485200,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/65897f5f-8fdc-42e5-aa01-4d295c7637a0/je/2000xxs.jpg",
+      "path": "images/img-272421c4827b.webp",
+      "media_type": "image/webp",
+      "bytes": 412846,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/95c39b39-aa6d-43f2-88c3-d854c62a469c/je/2000xxs.jpg",
+      "path": "images/img-0f649a8e6330.webp",
+      "media_type": "image/webp",
+      "bytes": 564156,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/465c4cb6-43d7-4317-b5cb-5392fa491118/je/2000xxs.jpg",
+      "path": "images/img-026d9a011b1e.webp",
+      "media_type": "image/webp",
+      "bytes": 529756,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/63fd77c9-7d2e-4e4e-b5d1-f96f645af0cf/je/2000xxs.jpg",
+      "path": "images/img-ab80ca90cf6a.webp",
+      "media_type": "image/webp",
+      "bytes": 544234,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/f5fc76ed-d68d-4e03-af35-0cc2c8ce3845/je/2000xxs.jpg",
+      "path": "images/img-a5efeb32367b.webp",
+      "media_type": "image/webp",
+      "bytes": 344608,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/ff4b574b-f3a4-4592-9a16-2bbf36d6a746/je/2000xxs.jpg",
+      "path": "images/img-61dba7b61e7b.webp",
+      "media_type": "image/webp",
+      "bytes": 298434,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/15253f84-7698-4612-9567-f20aa01d64b5/je/2000xxs.jpg",
+      "path": "images/img-392fe344de05.webp",
+      "media_type": "image/webp",
+      "bytes": 652058,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/2d285aca-b699-4cc1-b0da-4bf8538598e7/je/2000xxs.jpg",
+      "path": "images/img-adcc37b5d145.webp",
+      "media_type": "image/webp",
+      "bytes": 464900,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/11c06bd1-a0e6-4408-86dd-5d0326a5ec95/je/2000xxs.jpg",
+      "path": "images/img-1d21dd707266.webp",
+      "media_type": "image/webp",
+      "bytes": 536414,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/9dbc9392-ffe1-4354-b7ba-9a94488ec90b/je/2000xxs.jpg",
+      "path": "images/img-322c9a54b1d1.webp",
+      "media_type": "image/webp",
+      "bytes": 487308,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/82817358-294c-4e83-8d7a-ee438d4d1479/je/2000xxs.jpg",
+      "path": "images/img-17e671f860a9.webp",
+      "media_type": "image/webp",
+      "bytes": 534270,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/4e8ad123-b2d5-43c5-94a9-912a16351bd3/je/2000xxs.jpg",
+      "path": "images/img-ef822d59a24a.webp",
+      "media_type": "image/webp",
+      "bytes": 554652,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/34363497-ab08-4302-831c-c9d6d64f4d0d/je/2000xxs.jpg",
+      "path": "images/img-9c0f23c62bbc.webp",
+      "media_type": "image/webp",
+      "bytes": 528060,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2200xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-d471af4d.svg",
+      "path": "images/img-dc90c501bd51.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-d7afb6cf.svg",
+      "path": "images/img-194c24efc5ac.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-74c4c5d9.svg",
+      "path": "images/img-08ae040ecb3d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 56,
+    "images_existing": 0,
+    "images_failed": 15,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 1
+  }
+}

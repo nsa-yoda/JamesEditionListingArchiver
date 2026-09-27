@@ -1,0 +1,596 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405",
+    "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405",
+    "site": "jamesedition",
+    "listing_id": "17820405",
+    "listing_reference": "124865",
+    "first_listed": "May 1",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-06-19T08:18:17.121632Z"
+  },
+  "location": {
+    "address": "8 Fox Run Lane, Greenwich, Connecticut, United States",
+    "street": "8 Fox Run Lane Greenwich",
+    "municipality": "Greenwich",
+    "region": "Connecticut",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.045671,-73.64728",
+    "latitude": 41.045671,
+    "longitude": -73.64728
+  },
+  "property": {
+    "title": "8 Fox Run Lane Greenwich, Connecticut",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 21000000,
+      "currency": "USD",
+      "display": "$21,000,000"
+    },
+    "price_per_area": {
+      "amount": 1492,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,492"
+    },
+    "bedrooms": 8,
+    "bathrooms": 12,
+    "interior_area": {
+      "value": 14071,
+      "unit": "sqft",
+      "display": "14,071 Sqft"
+    },
+    "lot_area": {
+      "value": 5.42,
+      "display": "5.42 Ac lot"
+    },
+    "year_built": 2024,
+    "photo_count": 40,
+    "description": "Perfectly sited on a quiet lane minutes from Greenwich Avenue, this 2024 SBP home offers serenity on nearly 5.5 gated acres. Walls of glass flood the interiors with natural light, highlighting 7’’ white oak floors, a dramatic foyer, Calacatta marble fireplaces and Bocci lighting across 11,000+ sq ft. The open plan features a Bulthaup kitchen, living room with bar, and main-level bedroom suite or office with seamless indoor-outdoor flow. Upstairs are five en-suite bedrooms, including a luxe primary suite with dual dressing rooms and spa bath. Resort-style amenities include pool, spa, outdoor kitchen, fireplace, tennis court and two-bedroom guest house, plus finished lower level with media room, rec space, bar, wine cellar, gym and additional en-suite bedroom, elevator and three-car garage.",
+    "features": [
+      "Bar",
+      "Cinema",
+      "Elevator",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Game Room",
+      "Garage",
+      "Garden",
+      "Gate",
+      "Jacuzzi",
+      "Office",
+      "Open Kitchen",
+      "Outdoor Kitchen",
+      "Pool",
+      "Tennis Court",
+      "Walk In Closet",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Douglas Elliman - Greenwich",
+    "agency": "Douglas Elliman - Greenwich",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/douglas-elliman-greenwich-111598",
+    "agency_address": "Greenwich, Connecticut, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/2200xxs.jpg",
+      "file": "img-072f94879724.webp",
+      "media_type": "image/webp",
+      "bytes": 671156,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/2200xxs.jpg",
+      "file": "img-bcea89336c75.webp",
+      "media_type": "image/webp",
+      "bytes": 667430,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/2200xxs.jpg",
+      "file": "img-36e4db0bf791.webp",
+      "media_type": "image/webp",
+      "bytes": 430866,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/2200xxs.jpg",
+      "file": "img-cdf6faadb808.webp",
+      "media_type": "image/webp",
+      "bytes": 226930,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/2200xxs.jpg",
+      "file": "img-5e48bd0736ab.webp",
+      "media_type": "image/webp",
+      "bytes": 158596,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/aee16a45-4218-4a64-a5fa-b54c75e667ce/je/2000xxs.jpg",
+      "file": "img-5cbe077b5d42.webp",
+      "media_type": "image/webp",
+      "bytes": 183652,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/50acd268-ff69-4f78-9d30-bb26ff79f226/je/2000xxs.jpg",
+      "file": "img-4d8f12b12d5f.webp",
+      "media_type": "image/webp",
+      "bytes": 234420,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3bfe7655-5f95-4e75-a9a2-50b2307865d7/je/2000xxs.jpg",
+      "file": "img-7742078c7dff.webp",
+      "media_type": "image/webp",
+      "bytes": 208124,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/c0757053-c968-4041-a48b-b0f1bafaef45/je/2000xxs.jpg",
+      "file": "img-edd0ef2845ae.webp",
+      "media_type": "image/webp",
+      "bytes": 173668,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3e5d188a-fd92-43bc-b761-66f63e2f092b/je/2000xxs.jpg",
+      "file": "img-712bdef12f47.webp",
+      "media_type": "image/webp",
+      "bytes": 222496,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/d86d5603-cb32-4448-93b6-505b7cd69a76/je/2000xxs.jpg",
+      "file": "img-8bc047a24521.webp",
+      "media_type": "image/webp",
+      "bytes": 282222,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6d449a1a-d55e-44d4-bed6-61d0e979d47f/je/2000xxs.jpg",
+      "file": "img-8fcca90eaddb.webp",
+      "media_type": "image/webp",
+      "bytes": 185556,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/32d10c15-4b56-4a87-a8c9-f28c9f3b5194/je/2000xxs.jpg",
+      "file": "img-50af0f8a3420.webp",
+      "media_type": "image/webp",
+      "bytes": 255352,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/7e931476-0757-4dd2-8c8e-5c5d731377df/je/2000xxs.jpg",
+      "file": "img-2c42860e006f.webp",
+      "media_type": "image/webp",
+      "bytes": 206050,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/3d7b815a-9cad-4bce-9bc5-d08d4f0d092e/je/2000xxs.jpg",
+      "file": "img-7d26d55c155c.webp",
+      "media_type": "image/webp",
+      "bytes": 140148,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/971955cf-7e43-49f1-a1f8-5a2dc1b36ee9/je/2000xxs.jpg",
+      "file": "img-ed62b2824b7c.webp",
+      "media_type": "image/webp",
+      "bytes": 92792,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/de86a617-93e5-40e6-9e4a-006d4389e170/je/2000xxs.jpg",
+      "file": "img-44dee6afcdd1.webp",
+      "media_type": "image/webp",
+      "bytes": 173250,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/46dd8d4e-1165-4ad4-874d-b13be667eb0e/je/2000xxs.jpg",
+      "file": "img-3e5c8afbad6e.webp",
+      "media_type": "image/webp",
+      "bytes": 188934,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/b5599ba0-d59a-4f5b-af62-d1bb2a397362/je/2000xxs.jpg",
+      "file": "img-9b6f9112df9f.webp",
+      "media_type": "image/webp",
+      "bytes": 304594,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/979a723f-2caf-47fd-b5e8-5bdb17f5ebb2/je/2000xxs.jpg",
+      "file": "img-3d2577ff5b6d.webp",
+      "media_type": "image/webp",
+      "bytes": 218618,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/c00692f9-d68a-42b9-841d-653894db2a61/je/2000xxs.jpg",
+      "file": "img-bb6679853588.webp",
+      "media_type": "image/webp",
+      "bytes": 165518,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/fa7bf4bc-f224-4f5d-9eb2-56c04205c37e/je/2000xxs.jpg",
+      "file": "img-61ef6560995d.webp",
+      "media_type": "image/webp",
+      "bytes": 77774,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/95036b2d-f58e-4a0b-b112-1b03de59efb1/je/2000xxs.jpg",
+      "file": "img-8924e072d9b5.webp",
+      "media_type": "image/webp",
+      "bytes": 199894,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/5b163a30-a131-499d-9400-a084df23ec30/je/2000xxs.jpg",
+      "file": "img-4864418e8bc7.webp",
+      "media_type": "image/webp",
+      "bytes": 172098,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/cb8270d0-f412-420e-9cf8-aaa55b45f021/je/2000xxs.jpg",
+      "file": "img-0615e79edbde.webp",
+      "media_type": "image/webp",
+      "bytes": 81056,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ff5cdb0a-be3a-4a0d-ae61-cbbcbb4cb63b/je/2000xxs.jpg",
+      "file": "img-671ed03f51a8.webp",
+      "media_type": "image/webp",
+      "bytes": 114086,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/5ed5bf2b-9da9-4911-ac37-b25faecd8fc2/je/2000xxs.jpg",
+      "file": "img-f174d94b17ac.webp",
+      "media_type": "image/webp",
+      "bytes": 229852,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/4d0f7584-0183-49cf-87f4-87f6aa6567a4/je/2000xxs.jpg",
+      "file": "img-28eed71f9291.webp",
+      "media_type": "image/webp",
+      "bytes": 229198,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/55dc0d75-08e7-457e-974d-5e1e6f21022d/je/2000xxs.jpg",
+      "file": "img-cbca9135c813.webp",
+      "media_type": "image/webp",
+      "bytes": 76580,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/187c9d6a-45f9-40f9-8e76-5f7dd1ea1b65/je/2000xxs.jpg",
+      "file": "img-1c65a5fc2ddc.webp",
+      "media_type": "image/webp",
+      "bytes": 61502,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/607be72e-8fe8-4fd7-b056-2ea0f2b395b4/je/2000xxs.jpg",
+      "file": "img-7e73ec13238a.webp",
+      "media_type": "image/webp",
+      "bytes": 169452,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c3ec5e71-b9a7-4cfe-9e10-4ad8fc7b7dd7/je/2000xxs.jpg",
+      "file": "img-9e45794d2984.webp",
+      "media_type": "image/webp",
+      "bytes": 400662,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/63d63d0c-975b-408d-9bb2-3fb29d439b22/je/2000xxs.jpg",
+      "file": "img-c62c1a13ac7a.webp",
+      "media_type": "image/webp",
+      "bytes": 275150,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/249dc59c-7112-4979-8227-6e27205e7e40/je/2000xxs.jpg",
+      "file": "img-674cb38217f9.webp",
+      "media_type": "image/webp",
+      "bytes": 405584,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11a52e4e-5a1c-46f7-b0ae-28ffda9e80cb/je/2000xxs.jpg",
+      "file": "img-57334b9173cf.webp",
+      "media_type": "image/webp",
+      "bytes": 467530,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/cbba9033-d4f8-46cc-83d0-abbc9ca06205/je/2000xxs.jpg",
+      "file": "img-c9dae74ce0c6.webp",
+      "media_type": "image/webp",
+      "bytes": 521350,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/49064e51-b298-4981-aca4-ec20af2e870d/je/2000xxs.jpg",
+      "file": "img-1c3112066ceb.webp",
+      "media_type": "image/webp",
+      "bytes": 675468,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/26c57eff-12fd-4107-8ef8-353da046a2e4/je/2000xxs.jpg",
+      "file": "img-8c67bd26444d.webp",
+      "media_type": "image/webp",
+      "bytes": 763176,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/24f92503-d14a-419d-9e6d-9b4829bbec57/je/2000xxs.jpg",
+      "file": "img-bb3ea980dda3.webp",
+      "media_type": "image/webp",
+      "bytes": 615118,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ad234065-05e7-4330-bc66-b1018a6d8402/je/2000xxs.jpg",
+      "file": "img-9442716414a9.webp",
+      "media_type": "image/webp",
+      "bytes": 678864,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2835%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2836%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2837%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ct-united-states",
+              "name": "Connecticut"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/greenwich-ct-usa",
+              "name": "Greenwich"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405",
+              "name": "8 Fox Run Lane - Greenwich, Connecticut"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Perfectly sited on a quiet lane minutes from Greenwich Avenue, this 2024 SBP home offers serenity on nearly 5.5 gated acres. Walls of glass flood the interiors with natural light, highlighting 7'' white oak floors, a dramatic foyer, Calacatta marble fireplaces and Bocci lighting across 11,000+ sq ft. The open plan features a Bulthaup kitchen, living room with bar, and main-level bedroom suite or office with seamless indoor-outdoor flow. Upstairs are five en-suite bedrooms, including a luxe primary suite with dual dressing rooms and spa bath. Resort-style amenities include pool, spa, outdoor kitchen, fireplace, tennis court and two-bedroom guest house, plus finished lower level with media room, rec space, bar, wine cellar, gym and additional en-suite bedroom, elevator and three-car garage.",
+        "image": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/1040x620xc.jpg",
+        "name": "8 Fox Run Lane - Greenwich, Connecticut",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 21000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Douglas Elliman - Greenwich"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2835%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2836%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2837%29.jpg: HTTP 403 Forbidden"
+  ]
+}

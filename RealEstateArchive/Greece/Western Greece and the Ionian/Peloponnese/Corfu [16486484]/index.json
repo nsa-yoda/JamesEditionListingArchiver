@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "path": "Greece/Western Greece and the Ionian/Peloponnese/Corfu [16486484]",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 20327
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 9186
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3251
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 349414
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 108
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

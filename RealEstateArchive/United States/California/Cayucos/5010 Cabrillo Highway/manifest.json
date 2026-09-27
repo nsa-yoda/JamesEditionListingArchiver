@@ -1,0 +1,814 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010-cabrillo-highway-13182949",
+    "canonical_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010-cabrillo-highway-13182949",
+    "site": "jamesedition",
+    "listing_id": "13182949",
+    "listing_reference": "4CL4JQ",
+    "first_listed": "Aug 24, 2023",
+    "last_updated": "February 1, 2025",
+    "retrieved_at": "2026-06-19T08:18:02.323131Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2857,
+      "sha256": "c1b2c07322d72678c83afa0d7cc53b9e383d67c4d681b7b067f439d80160a755"
+    },
+    {
+      "path": "images/img-064b48c7d91b.webp",
+      "bytes": 210000,
+      "sha256": "d59128ad7497ded76f4adf741aa2ce5f5c1b2618b3dc6e4c1f2f9391937dd8a3"
+    },
+    {
+      "path": "images/img-064bbca23756.webp",
+      "bytes": 694002,
+      "sha256": "00f340ecac14c261d9026bb61d84c31ae53c3861dd093f44707192c8b5d407bb"
+    },
+    {
+      "path": "images/img-0a7c28c3187d.webp",
+      "bytes": 377446,
+      "sha256": "7344a3c14800e14d00c242c07a129c1d5ebf24f693605b5cbd176dd1b3d402b4"
+    },
+    {
+      "path": "images/img-0b1a54f0bf8c.webp",
+      "bytes": 721734,
+      "sha256": "3d527f3eb2a71c335c9997a6aa958b9897d66e133bbb2b62bb8fb63563ebd83d"
+    },
+    {
+      "path": "images/img-106dfb49ce16.webp",
+      "bytes": 142506,
+      "sha256": "e78c5183fca6059c04ae634c112734db2f5691a8ff687b402586f85f168055f9"
+    },
+    {
+      "path": "images/img-1970a739d645.webp",
+      "bytes": 399162,
+      "sha256": "aa203551eec79526d9d24f0a3a7eba76d4e59488f1fa95862950af069aa4da96"
+    },
+    {
+      "path": "images/img-1a989424e42e.webp",
+      "bytes": 582760,
+      "sha256": "22d3cefd51da2b7250c05e89ff0b37b87e6e94ec7a217b2f893afe9c41e9b02f"
+    },
+    {
+      "path": "images/img-1f5542ea23d9.webp",
+      "bytes": 316500,
+      "sha256": "5bc722ee02d8c4acdcecec6bc10aaeef3bec0546ec57dfbb3e4562a371e4cbf6"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-2ac5812bbf78.webp",
+      "bytes": 515228,
+      "sha256": "4082a4d191aeebc1a09cc1810c5a35ff1e6cc4a5a5931fd3a43deb6d53aca63c"
+    },
+    {
+      "path": "images/img-2c43fad11d9c.webp",
+      "bytes": 587770,
+      "sha256": "5e2641c4343169faa93cb204da772c5db8c58f2b50ac082f46df6e740e9cde1f"
+    },
+    {
+      "path": "images/img-2e815f5bb20f.webp",
+      "bytes": 517844,
+      "sha256": "ed7f82dc549ec1d53e1774192e92e2fe837bee27d804760df435dc88de78459a"
+    },
+    {
+      "path": "images/img-324aa0086208.webp",
+      "bytes": 762316,
+      "sha256": "f36f998f2ba5a6d17b71c9c5a8bc27560df19c6d6aa41938d3f5b0ade1964563"
+    },
+    {
+      "path": "images/img-390ef86049c2.webp",
+      "bytes": 509738,
+      "sha256": "d3117db9e5f4ca89c4488b5abb91f287f32d9f7b7f9234df81bfaee6030114b5"
+    },
+    {
+      "path": "images/img-392ed8ae590e.webp",
+      "bytes": 516422,
+      "sha256": "f7d3ddcf558b531bb5e5925a779cc9632508343ba50c8f81f6502884b2e063ab"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-4325b163b1ca.webp",
+      "bytes": 442160,
+      "sha256": "a937d2c407f15b8b87305ec15a46508eca2a7d86941321bb34dcab48d01ddd1e"
+    },
+    {
+      "path": "images/img-43bd64c94b38.webp",
+      "bytes": 298872,
+      "sha256": "0d4f619b6dd3cde0f5fe3b87eac31ba597af33cbfa252e7cfb981bf920606561"
+    },
+    {
+      "path": "images/img-44b7f1564a54.webp",
+      "bytes": 638672,
+      "sha256": "e5b406e62a72d936fc8ab3ada4c3b883e5b07c672cbb52cc37924d2d9fc0866b"
+    },
+    {
+      "path": "images/img-4dc82f16c104.webp",
+      "bytes": 508748,
+      "sha256": "454cef885503edea1d1f9a54a3a45c6048cc52cb5339165437dfd0e736c0f7ee"
+    },
+    {
+      "path": "images/img-516ab1b1047f.webp",
+      "bytes": 472986,
+      "sha256": "2a920555bba7ca01d40c6098c3e15198de81b81b2c30eb4ed9f3263e613ac65b"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5e13b4908565.webp",
+      "bytes": 141716,
+      "sha256": "b133a32f7ba1ad89597dca68c7a21e02cc55dab3e6fa85edcf6ade5f31acc30c"
+    },
+    {
+      "path": "images/img-6f5b633229f6.webp",
+      "bytes": 406272,
+      "sha256": "25fa296800475f6b1eec2b87509c76e9edeaab3f7d71313cff2b77c17bd898b3"
+    },
+    {
+      "path": "images/img-76479775b6a8.webp",
+      "bytes": 662280,
+      "sha256": "3702826b4a9ba5ffc05bdd8b40396a14269134a81f8376b3364bbda9c97f557f"
+    },
+    {
+      "path": "images/img-781afebf4cc4.webp",
+      "bytes": 681150,
+      "sha256": "55ec4b23c10fe9b80d29231f84fc31c684c0a216f2777d37b92c4bf922d7e6ff"
+    },
+    {
+      "path": "images/img-7860dc84848c.webp",
+      "bytes": 299516,
+      "sha256": "eae0b6464084dbad77dc83843c6c4bd1a1302de313f1bb2f9a00682fee09be22"
+    },
+    {
+      "path": "images/img-8435580443fc.webp",
+      "bytes": 633320,
+      "sha256": "87c8a1a8b7bbc4604865f0f1d9f4784334f059eeb118613c40734b7d7156a14d"
+    },
+    {
+      "path": "images/img-888641931533.webp",
+      "bytes": 613470,
+      "sha256": "4487f7e87cc2a6d5c6a932c5ee3164b0289e1ac2b2181e3046c3fcdd319fa107"
+    },
+    {
+      "path": "images/img-8ba95fa1dfe1.webp",
+      "bytes": 190314,
+      "sha256": "1ffecd79a5baa9ea80a8e7d801137b1c8ffd31be6f4d6977d9eb0ece7e8db3cd"
+    },
+    {
+      "path": "images/img-8cbacdac75cf.webp",
+      "bytes": 431706,
+      "sha256": "f3aa265e23240995628d64a80ae680f6e550506368b71e9ec73c392c3cef383a"
+    },
+    {
+      "path": "images/img-8d26fe381314.webp",
+      "bytes": 379390,
+      "sha256": "a4fc770c3045237cbd3448fba6ac4282fdc5f0009d673b9ea7ce3df7aef403d9"
+    },
+    {
+      "path": "images/img-8d552fde49c5.webp",
+      "bytes": 753120,
+      "sha256": "48ff016d007c0d50df4a3358e9d5b20f1de9dc4759baa20b5a68dea03ffa058f"
+    },
+    {
+      "path": "images/img-8fe7f9cc20b1.webp",
+      "bytes": 636742,
+      "sha256": "2edb673a92799360325fbc56ea8708557481adc75151ce50de94f3dc9b298429"
+    },
+    {
+      "path": "images/img-9a02d67d4d72.webp",
+      "bytes": 695816,
+      "sha256": "ef9b8a99d376a35667e125478a1c9a8abd7f395fd11a6bebbfca55a907181437"
+    },
+    {
+      "path": "images/img-9af7472612c3.webp",
+      "bytes": 508444,
+      "sha256": "89c84f162cfc3f1bf47ef47b2af3d2c02dd9e3ebb1ad9c4702e2c670ace8e774"
+    },
+    {
+      "path": "images/img-a7c5d0713100.webp",
+      "bytes": 431514,
+      "sha256": "c291d99b495476eb30bff0bd7a41693afd34be9b999706f490c07bff760b10a3"
+    },
+    {
+      "path": "images/img-ac59c2b6089f.webp",
+      "bytes": 245744,
+      "sha256": "dbc916dc7a7d60d2b3dedf16694361c2222e839a26e1f5b8cd72c7ad664e8a49"
+    },
+    {
+      "path": "images/img-add2b63bc60b.webp",
+      "bytes": 397420,
+      "sha256": "c7e9f174a92ed28753fa2bd91b2a6f571a43af93794ba975fda9390d96e8de9b"
+    },
+    {
+      "path": "images/img-b80c93f0f62a.webp",
+      "bytes": 452412,
+      "sha256": "6b07f3d295b7f095c31736f5cd15f4d62e1475c1bd6d6c504034b89236634c15"
+    },
+    {
+      "path": "images/img-ba408380e953.webp",
+      "bytes": 536452,
+      "sha256": "a5a6abb485b59b8d1e5592d46f19179dae4d5e2df11e8177e3aadfb49132d9d9"
+    },
+    {
+      "path": "images/img-c00fd866bfb0.webp",
+      "bytes": 495756,
+      "sha256": "9b8c64e0bbe3e211928a5319355b71a3a8c970b05bf5c6d55b730c8ec81dd015"
+    },
+    {
+      "path": "images/img-c017f41ff9da.webp",
+      "bytes": 149474,
+      "sha256": "82cef2a1d253b25c0504fd9a13bf7211e22ec9f707aef105d17b1d3c15968450"
+    },
+    {
+      "path": "images/img-c16f9cc400dc.webp",
+      "bytes": 525660,
+      "sha256": "0ec3af86a608b91f8d98cbc25c417c5214a0516bd85c5ea41d76a8a4401fc139"
+    },
+    {
+      "path": "images/img-c6d34cf5df3f.webp",
+      "bytes": 352124,
+      "sha256": "4325aaa46ef779e42d6391e49095c1aaf12806b07c53315e1ceaa791ce53a176"
+    },
+    {
+      "path": "images/img-ca7b511afad5.webp",
+      "bytes": 576736,
+      "sha256": "11d3bda4c66d7d3b3b00f9f1b0311630e27fce2d5592b8f08ef7bd92fd64809f"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-ccb6d49184b2.webp",
+      "bytes": 272704,
+      "sha256": "1ce3efef0b2e63167d402904d65f5b338847b1378b379ca15ef09de361d27875"
+    },
+    {
+      "path": "images/img-d63ff6bc4407.webp",
+      "bytes": 523866,
+      "sha256": "8222cb1e3cb9690b0623a5b65281db85fd38fa33986f7f84c34657ce78aba369"
+    },
+    {
+      "path": "images/img-e1e140790800.webp",
+      "bytes": 585896,
+      "sha256": "c8af4a40fe72337de6c9f0e63d988887aac9b5a55c5afc244e17492ece93a7b8"
+    },
+    {
+      "path": "images/img-f2f56fdae268.webp",
+      "bytes": 854192,
+      "sha256": "d394b51bd2698bf539cdce40088487331bc0d042e91de4274a53c2b7093f7b46"
+    },
+    {
+      "path": "images/img-f6d760cb78d2.webp",
+      "bytes": 722192,
+      "sha256": "99441742705ad4dc6ce9436879b88f87ff7d7119221117e18afc05c1ff700120"
+    },
+    {
+      "path": "images/img-fa1688256686.webp",
+      "bytes": 710906,
+      "sha256": "7179ae02bfb627c30d96b28a2cb4f037f40d31c267ae467a4b130f9ae3d9ece7"
+    },
+    {
+      "path": "images/img-fd3e9d05f3eb.webp",
+      "bytes": 194684,
+      "sha256": "9f252a00be080238c2e4423afaaedc4c53adebc7f50c28c6f2d606a5108e6556"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 30636,
+      "sha256": "f1ea40a861b9b96059667b891352569768a702d78d3cfed6588c45782f4fba05"
+    },
+    {
+      "path": "source.html",
+      "bytes": 480985,
+      "sha256": "011d84e148ec3ac4efd41293072bd6d4a1b5a7ed71caec8608333110ea47e194"
+    },
+    {
+      "path": "source.url",
+      "bytes": 87,
+      "sha256": "e2c6b1a2ed145ce44ecd5a21b04501492a7db874204df557ab0da3be322af406"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/2200xxs.jpg",
+      "path": "images/img-c6d34cf5df3f.webp",
+      "media_type": "image/webp",
+      "bytes": 352124,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/2200xxs.jpg",
+      "path": "images/img-c00fd866bfb0.webp",
+      "media_type": "image/webp",
+      "bytes": 495756,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/2200xxs.jpg",
+      "path": "images/img-8d26fe381314.webp",
+      "media_type": "image/webp",
+      "bytes": 379390,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/2200xxs.jpg",
+      "path": "images/img-ca7b511afad5.webp",
+      "media_type": "image/webp",
+      "bytes": 576736,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/2200xxs.jpg",
+      "path": "images/img-8fe7f9cc20b1.webp",
+      "media_type": "image/webp",
+      "bytes": 636742,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/fb6cc2f9-167e-4304-baf0-a5868a9dabe4/je/2000xxs.jpg",
+      "path": "images/img-0b1a54f0bf8c.webp",
+      "media_type": "image/webp",
+      "bytes": 721734,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/d5c030e0-2a87-4c2b-a459-404eaa026736/je/2000xxs.jpg",
+      "path": "images/img-8d552fde49c5.webp",
+      "media_type": "image/webp",
+      "bytes": 753120,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/3415622f-29f3-4c39-9bee-93775fc9da0d/je/2000xxs.jpg",
+      "path": "images/img-9a02d67d4d72.webp",
+      "media_type": "image/webp",
+      "bytes": 695816,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/0cf676c7-2fc9-4f79-9345-59ed267a7779/je/2000xxs.jpg",
+      "path": "images/img-2c43fad11d9c.webp",
+      "media_type": "image/webp",
+      "bytes": 587770,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/ea5c2661-6e55-414b-b380-2d4ab4a812ed/je/2000xxs.jpg",
+      "path": "images/img-f2f56fdae268.webp",
+      "media_type": "image/webp",
+      "bytes": 854192,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/8ea9a4c6-751e-4aad-b252-aab6a99b25c2/je/2000xxs.jpg",
+      "path": "images/img-064bbca23756.webp",
+      "media_type": "image/webp",
+      "bytes": 694002,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/dd6803d8-8d56-4075-9448-7569d5890fde/je/2000xxs.jpg",
+      "path": "images/img-781afebf4cc4.webp",
+      "media_type": "image/webp",
+      "bytes": 681150,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/887f597b-ac41-45ee-9846-6332a6fd1f53/je/2000xxs.jpg",
+      "path": "images/img-76479775b6a8.webp",
+      "media_type": "image/webp",
+      "bytes": 662280,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/de8338ff-a8a7-4e8a-abd9-da97050d7728/je/2000xxs.jpg",
+      "path": "images/img-324aa0086208.webp",
+      "media_type": "image/webp",
+      "bytes": 762316,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/1f843ec9-db1b-4261-917d-847c1a2594b6/je/2000xxs.jpg",
+      "path": "images/img-1a989424e42e.webp",
+      "media_type": "image/webp",
+      "bytes": 582760,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/592b51fd-7aca-4d83-bf94-f43384312f09/je/2000xxs.jpg",
+      "path": "images/img-516ab1b1047f.webp",
+      "media_type": "image/webp",
+      "bytes": 472986,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/8a38fc22-cc3b-4fc0-a7bc-831e252183ee/je/2000xxs.jpg",
+      "path": "images/img-392ed8ae590e.webp",
+      "media_type": "image/webp",
+      "bytes": 516422,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/43732bf2-0d15-477f-aa99-6ac672ebc75b/je/2000xxs.jpg",
+      "path": "images/img-a7c5d0713100.webp",
+      "media_type": "image/webp",
+      "bytes": 431514,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/1246b8a0-6396-4bc5-92b7-894b3588a202/je/2000xxs.jpg",
+      "path": "images/img-b80c93f0f62a.webp",
+      "media_type": "image/webp",
+      "bytes": 452412,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/c3dbc665-17d0-443f-8814-b22dc766763b/je/2000xxs.jpg",
+      "path": "images/img-4325b163b1ca.webp",
+      "media_type": "image/webp",
+      "bytes": 442160,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/428f26ae-0779-436d-b64d-dd3722212d06/je/2000xxs.jpg",
+      "path": "images/img-ba408380e953.webp",
+      "media_type": "image/webp",
+      "bytes": 536452,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/cbcac6b7-52b8-49f6-be37-31155d8ac7ac/je/2000xxs.jpg",
+      "path": "images/img-888641931533.webp",
+      "media_type": "image/webp",
+      "bytes": 613470,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/c74eae7b-e923-4cee-b941-6798ceb03573/je/2000xxs.jpg",
+      "path": "images/img-1970a739d645.webp",
+      "media_type": "image/webp",
+      "bytes": 399162,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/387ea281-1011-4b12-bcb2-7b21c94f36c1/je/2000xxs.jpg",
+      "path": "images/img-8435580443fc.webp",
+      "media_type": "image/webp",
+      "bytes": 633320,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/164e3640-db47-4df1-8ebc-2c479a2f6914/je/2000xxs.jpg",
+      "path": "images/img-7860dc84848c.webp",
+      "media_type": "image/webp",
+      "bytes": 299516,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/7dc71c5e-c5b6-43a8-8b80-e37cec02f6f7/je/2000xxs.jpg",
+      "path": "images/img-8ba95fa1dfe1.webp",
+      "media_type": "image/webp",
+      "bytes": 190314,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e6dd8986-3383-49ea-a566-6c2acfc65044/je/2000xxs.jpg",
+      "path": "images/img-c017f41ff9da.webp",
+      "media_type": "image/webp",
+      "bytes": 149474,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/fe035d69-c300-4d35-b44e-1c29a7962d3b/je/2000xxs.jpg",
+      "path": "images/img-43bd64c94b38.webp",
+      "media_type": "image/webp",
+      "bytes": 298872,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/69f9911a-f7e4-49e3-b050-8498ef53d7e4/je/2000xxs.jpg",
+      "path": "images/img-5e13b4908565.webp",
+      "media_type": "image/webp",
+      "bytes": 141716,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/87a309ae-bfc6-4ec7-a2a6-8b36b5c65970/je/2000xxs.jpg",
+      "path": "images/img-106dfb49ce16.webp",
+      "media_type": "image/webp",
+      "bytes": 142506,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/64e4a84e-fa0d-460f-ae75-8f05030e1f6f/je/2000xxs.jpg",
+      "path": "images/img-fd3e9d05f3eb.webp",
+      "media_type": "image/webp",
+      "bytes": 194684,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/0c0b85b6-9edd-4272-8cb6-6e3f2681251d/je/2000xxs.jpg",
+      "path": "images/img-ac59c2b6089f.webp",
+      "media_type": "image/webp",
+      "bytes": 245744,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/237938e3-69e6-4059-8e7f-06847407d285/je/2000xxs.jpg",
+      "path": "images/img-064b48c7d91b.webp",
+      "media_type": "image/webp",
+      "bytes": 210000,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/d692415d-dfc4-4366-b12e-8a54356e8d34/je/2000xxs.jpg",
+      "path": "images/img-ccb6d49184b2.webp",
+      "media_type": "image/webp",
+      "bytes": 272704,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/3fd62e77-f89c-4e61-abde-e0a183736d1e/je/2000xxs.jpg",
+      "path": "images/img-1f5542ea23d9.webp",
+      "media_type": "image/webp",
+      "bytes": 316500,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/cf207c60-2d2f-4ff5-aa3b-f92313490b25/je/2000xxs.jpg",
+      "path": "images/img-0a7c28c3187d.webp",
+      "media_type": "image/webp",
+      "bytes": 377446,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/dde807d4-8a64-4acf-9ac4-089b70addf73/je/2000xxs.jpg",
+      "path": "images/img-fa1688256686.webp",
+      "media_type": "image/webp",
+      "bytes": 710906,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/8bb3da84-a131-4426-a6b0-cff9ad3ea346/je/2000xxs.jpg",
+      "path": "images/img-2ac5812bbf78.webp",
+      "media_type": "image/webp",
+      "bytes": 515228,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/8fec1587-17b4-46bc-803e-54afa0b8b058/je/2000xxs.jpg",
+      "path": "images/img-d63ff6bc4407.webp",
+      "media_type": "image/webp",
+      "bytes": 523866,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/9fbddb14-61c1-4cac-8564-bee7e30a0acb/je/2000xxs.jpg",
+      "path": "images/img-44b7f1564a54.webp",
+      "media_type": "image/webp",
+      "bytes": 638672,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/275b997c-2359-45d4-ab43-8abd8abd8b57/je/2000xxs.jpg",
+      "path": "images/img-c16f9cc400dc.webp",
+      "media_type": "image/webp",
+      "bytes": 525660,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/7fb7705b-df80-474e-824a-f676ae57cf0c/je/2000xxs.jpg",
+      "path": "images/img-e1e140790800.webp",
+      "media_type": "image/webp",
+      "bytes": 585896,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/a0234d1f-302b-48e2-8761-51ff4f1dd654/je/2000xxs.jpg",
+      "path": "images/img-add2b63bc60b.webp",
+      "media_type": "image/webp",
+      "bytes": 397420,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/3620f871-8a8e-4c20-9307-16d5b3a55ee6/je/2000xxs.jpg",
+      "path": "images/img-6f5b633229f6.webp",
+      "media_type": "image/webp",
+      "bytes": 406272,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/d890b323-1d61-48f9-ace1-d25d6b726ba5/je/2000xxs.jpg",
+      "path": "images/img-8cbacdac75cf.webp",
+      "media_type": "image/webp",
+      "bytes": 431706,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/4ce6d0b5-0467-456f-ac01-ef6d7fd81b81/je/2000xxs.jpg",
+      "path": "images/img-390ef86049c2.webp",
+      "media_type": "image/webp",
+      "bytes": 509738,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/08a7796d-608e-4477-bdba-22c3fc11261a/je/2000xxs.jpg",
+      "path": "images/img-2e815f5bb20f.webp",
+      "media_type": "image/webp",
+      "bytes": 517844,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/a07b2d6e-5d26-44f1-bf03-9a07b9d059a6/je/2000xxs.jpg",
+      "path": "images/img-f6d760cb78d2.webp",
+      "media_type": "image/webp",
+      "bytes": 722192,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/7e42bace-3895-4263-88b6-5855c27face0/je/2000xxs.jpg",
+      "path": "images/img-4dc82f16c104.webp",
+      "media_type": "image/webp",
+      "bytes": 508748,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/62a6b732-c09c-4f7b-b562-1e54d72a90b5/je/2000xxs.jpg",
+      "path": "images/img-9af7472612c3.webp",
+      "media_type": "image/webp",
+      "bytes": 508444,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/2200xxsxm%2822%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/2200xxsxm%2821%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/2200xxsxm%2820%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 54,
+    "images_existing": 0,
+    "images_failed": 11,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

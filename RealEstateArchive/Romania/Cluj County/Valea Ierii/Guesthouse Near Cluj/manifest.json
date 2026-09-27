@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/guesthouse-near-cluj-the-gem-of-the-apuseni-mountains-12257223",
+    "canonical_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/guesthouse-near-cluj-the-gem-of-the-apuseni-mountains-12257223",
+    "site": "jamesedition",
+    "listing_id": "12257223",
+    "listing_reference": "P3KB25",
+    "first_listed": "Sep 30, 2022",
+    "last_updated": "November 27, 2025",
+    "retrieved_at": "2026-06-16T03:43:26.082108Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4151,
+      "sha256": "5f256f456f36a64a8487b29e2102d704891b42e7e60027138b517e06f765c65a"
+    },
+    {
+      "path": "images/004-5f0e9590.webp",
+      "bytes": 940206,
+      "sha256": "936cdd657208314efada8b8d30d171a41376eb4a9da5921060c6f541812a198b"
+    },
+    {
+      "path": "images/009-90372015.webp",
+      "bytes": 628462,
+      "sha256": "c8b31ee5269243146efe5b342ca8a158a928d873def8b0e7e02be0a2814a9dd3"
+    },
+    {
+      "path": "images/014-47655376.webp",
+      "bytes": 889938,
+      "sha256": "b4e303c570594727e4ec990eea5f7e584df8ff1793b1b6d7f88c317a889a1e28"
+    },
+    {
+      "path": "images/019-4ba5445a.webp",
+      "bytes": 575790,
+      "sha256": "1cc5595520b04901cbb8608548ef7e51394af969ff014fcaa372a698e26adb4b"
+    },
+    {
+      "path": "images/024-90b08580.webp",
+      "bytes": 945978,
+      "sha256": "3874a1d968ae5006b287b76986f352942d9d1482fb199ca2b4d80345da264ae1"
+    },
+    {
+      "path": "images/035-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/036-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/037-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/038-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 18569,
+      "sha256": "82215a4fcb352d8bc6b9973549b3b250c2bd435d2b5bb9f915345f17b3891fed"
+    },
+    {
+      "path": "source.html",
+      "bytes": 294288,
+      "sha256": "1c26766b1ea2f98339d98ca5537e846d9248f041e6b5f26009a8090b736ae3cd"
+    },
+    {
+      "path": "source.url",
+      "bytes": 124,
+      "sha256": "4404f2042096b9bc40f91cd6ecea49128ff82a480a227ac7c28cbb3c55e3453a"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/2200xxs.jpg",
+      "path": "images/004-5f0e9590.webp",
+      "media_type": "image/webp",
+      "bytes": 940206,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/6036d1de-09e2-4a91-85b1-b9b201dd8e23/je/2200xxs.jpg",
+      "path": "images/009-90372015.webp",
+      "media_type": "image/webp",
+      "bytes": 628462,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/06/13/24/16/7a9d6fee-940e-434e-a0ea-0deabab105be/je/2200xxs.jpg",
+      "path": "images/014-47655376.webp",
+      "media_type": "image/webp",
+      "bytes": 889938,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b269bbae-f6f1-4cbe-af85-143d2a271301/je/2200xxs.jpg",
+      "path": "images/019-4ba5445a.webp",
+      "media_type": "image/webp",
+      "bytes": 575790,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b9626a87-c9ec-45e3-b9b9-dacee0de16bd/je/2200xxs.jpg",
+      "path": "images/024-90b08580.webp",
+      "media_type": "image/webp",
+      "bytes": 945978,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 13,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

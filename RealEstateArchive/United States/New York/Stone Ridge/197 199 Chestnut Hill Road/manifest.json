@@ -1,0 +1,990 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197-199-chestnut-hill-road-stone-ridge-ny-12484-16152388",
+    "canonical_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197-199-chestnut-hill-road-stone-ridge-ny-12484-16152388",
+    "site": "jamesedition",
+    "listing_id": "16152388",
+    "listing_reference": "46tlhg",
+    "first_listed": "Sep 9, 2025",
+    "last_updated": "June 1",
+    "retrieved_at": "2026-06-18T07:05:35.04808Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5278,
+      "sha256": "c2b8d9959e092d3948028410fef6e6823b277de87f4109e2525401ca3f677627"
+    },
+    {
+      "path": "images/004-698d0b99.webp",
+      "bytes": 735046,
+      "sha256": "9cf8a6922bca042e50a3809df64e219624219167afba62fe875fc196064b67cf"
+    },
+    {
+      "path": "images/009-f123c9e0.webp",
+      "bytes": 868780,
+      "sha256": "792c6a81dedc75b9fe4f5811f9be06cffcef8b6c1989534fb03526cd109fd44c"
+    },
+    {
+      "path": "images/014-899e0efa.webp",
+      "bytes": 957578,
+      "sha256": "49ded0fdaffbb65c8ed175f89daf6c6b8a33aedb876099789a63cca47ef3afe1"
+    },
+    {
+      "path": "images/019-4c38bccd.webp",
+      "bytes": 809236,
+      "sha256": "764e67eb53b7856e82b80f2e41b828b00926e75ea7ad879b5246456976817215"
+    },
+    {
+      "path": "images/024-6efd79c9.webp",
+      "bytes": 1059770,
+      "sha256": "0e095ca31c6f0c87edc3ddf7ed0726f0e47200390f155b7eed7330482effab35"
+    },
+    {
+      "path": "images/043-da6b3288.webp",
+      "bytes": 764884,
+      "sha256": "b3c4affeb60c0ccd13ecd1af6da4727009a411c50a744ce847c54e57a786eff3"
+    },
+    {
+      "path": "images/044-03a885cd.webp",
+      "bytes": 326486,
+      "sha256": "a0b5715ecfd82e3faad8e5b8ff063a454af2920317bc759bd898d4b182cc0d53"
+    },
+    {
+      "path": "images/045-03543462.webp",
+      "bytes": 280574,
+      "sha256": "22936aefdaf8d07cf257dd347144a298f92efaf4e0e466b399efca915d7bb441"
+    },
+    {
+      "path": "images/046-6bea4e79.webp",
+      "bytes": 291938,
+      "sha256": "7c96fd1d4de7b67b8fda034354b8f1ee9b26ca728eac2b38e9b6b79c25006878"
+    },
+    {
+      "path": "images/047-3e6406f5.webp",
+      "bytes": 499472,
+      "sha256": "df8bfed1468a2cc392be7f4efbe82ac7dba897f0139f6afe0589bed7907cd55a"
+    },
+    {
+      "path": "images/048-0ca1d345.webp",
+      "bytes": 489484,
+      "sha256": "56d4dc8f10e12db8c64436d85d3df6778c5474311ec89678b838ea7623f5dd5d"
+    },
+    {
+      "path": "images/049-e0653365.webp",
+      "bytes": 505420,
+      "sha256": "4cff9941c7efc618012739d8471bddc77e0cf273f1535f8278b315e47ab813de"
+    },
+    {
+      "path": "images/050-7f29e269.webp",
+      "bytes": 673624,
+      "sha256": "8cd6daf273fe2bf2c7249e704f25b22e8e520dfa5e77bd81bd755dc5e5e2e6c2"
+    },
+    {
+      "path": "images/051-cb319624.webp",
+      "bytes": 367332,
+      "sha256": "97cd9750bbf5761f5d32245e1c35a1879f3204c0c806cfa84fad6d9f775ba329"
+    },
+    {
+      "path": "images/052-169525c1.webp",
+      "bytes": 296028,
+      "sha256": "cb2701ccd0592e773eae838101a4f62b563a759b402a2de4e7941ff146cd2939"
+    },
+    {
+      "path": "images/053-3734e0fa.webp",
+      "bytes": 217448,
+      "sha256": "b8b95724f3c099781c50ca0c3768820d6e0928d491a93dc2080aa4efbee8ba17"
+    },
+    {
+      "path": "images/054-9b027266.webp",
+      "bytes": 311346,
+      "sha256": "fb34d4b587b968313bcf7633c131c0096bc271f790bb346188d7543a69b7c980"
+    },
+    {
+      "path": "images/055-4d346e3c.webp",
+      "bytes": 638228,
+      "sha256": "341d52c2e904959ad8ae7c008d04475746637780b7808c1b0e2eaeffdfb296db"
+    },
+    {
+      "path": "images/057-40997c78.webp",
+      "bytes": 689070,
+      "sha256": "cd5117f257131888f2498876965b3f7c208b4e568d9de5d49c15f09fa76e9b9e"
+    },
+    {
+      "path": "images/058-38c1933c.webp",
+      "bytes": 675224,
+      "sha256": "2613efd202bb43a03f68d7c4ce75763479bcbf1c1027a81dfea2bfb5c7957e59"
+    },
+    {
+      "path": "images/059-a34e5e41.webp",
+      "bytes": 721464,
+      "sha256": "3cab24504a8d34874e31e29d8a829f7b58ecbe2a2cda24ec123993c0c71dc5ac"
+    },
+    {
+      "path": "images/060-22c81feb.webp",
+      "bytes": 503990,
+      "sha256": "80408970f88f7488d29ec629247400698f8ce0d490dc32eb13acf2edda2487a1"
+    },
+    {
+      "path": "images/061-697cc1a9.webp",
+      "bytes": 932316,
+      "sha256": "203a5619c4d914dd350d9684ca4184df627662cea09b60a976866997ecce8ab2"
+    },
+    {
+      "path": "images/062-709000de.webp",
+      "bytes": 650400,
+      "sha256": "83e3c4cdede303645cb85cc972d1ceff84905418fd29503bee47ffad3fad2af7"
+    },
+    {
+      "path": "images/063-953a2e21.webp",
+      "bytes": 670466,
+      "sha256": "b827b01d6c21e426eb688f7af068976a35bd1c2c4a60b4bf5f2a0ff44ee7847f"
+    },
+    {
+      "path": "images/064-000260a8.webp",
+      "bytes": 572192,
+      "sha256": "8988bc81f05686309d275798d169a8a1733eebcefcdf0699d132493c65812104"
+    },
+    {
+      "path": "images/065-34f5483b.webp",
+      "bytes": 756134,
+      "sha256": "ef9544ddff194856280f62be0f9accc5a8f30f51dd3a18908e37610f0c705e67"
+    },
+    {
+      "path": "images/066-fe8fb52c.webp",
+      "bytes": 630648,
+      "sha256": "e2eecd1efd3ec214203a8e70ef8dd6385370c36edec36dfb3197bfc398aa460c"
+    },
+    {
+      "path": "images/067-06d031cb.webp",
+      "bytes": 619794,
+      "sha256": "fecf45dbf3449c5fd278fbd61a41bb30c723d553dddda00bc16a74d8cd03556d"
+    },
+    {
+      "path": "images/068-ba42bf30.webp",
+      "bytes": 804312,
+      "sha256": "4a5ff9d4f4fbbb1cf9c6008cdba651c945515bdb98a0e2d3718baa282a5bcce3"
+    },
+    {
+      "path": "images/070-c27ef55a.webp",
+      "bytes": 345848,
+      "sha256": "20d84ab973cf4a8364c99f1f1ab02572d811e0c623a0b35992dbb4f4a65cb991"
+    },
+    {
+      "path": "images/071-4f0446bf.webp",
+      "bytes": 260982,
+      "sha256": "8299fd2a2690af8094d26591c4592d6a2d8f6f3ec5a0d8034539963131ec9b32"
+    },
+    {
+      "path": "images/072-9fba54b2.webp",
+      "bytes": 286206,
+      "sha256": "05a6274b18a80306f8ec7723823f4cc4296f2a1f46da0bf0d636e8835e54c2bc"
+    },
+    {
+      "path": "images/073-f070fdf2.webp",
+      "bytes": 146322,
+      "sha256": "135b889dd08eb4c1cf6adbf6753d3a9d2a2a3045ef706acab4430c3e5d485f65"
+    },
+    {
+      "path": "images/074-c9ef02dd.webp",
+      "bytes": 364624,
+      "sha256": "4a1843cb443b7b4c52c40fb83935e699bb1a19188a96501612b263ea497169dc"
+    },
+    {
+      "path": "images/076-c259b2ec.webp",
+      "bytes": 1034440,
+      "sha256": "f745eedadfd1e5af62a764c28e8ef9e73a573355b4410e27fb95ba75b7d76cd6"
+    },
+    {
+      "path": "images/077-4c8a9a75.webp",
+      "bytes": 251440,
+      "sha256": "d3c2eb1f79678ef51f77f5b747bf41c56f54f1a8848092be54b2cc9b27e97e16"
+    },
+    {
+      "path": "images/078-1e9da4b8.webp",
+      "bytes": 229706,
+      "sha256": "b164b85f7ab88ba61caafa5b6b54a492597547f1149e6fcb405c42dcdb736273"
+    },
+    {
+      "path": "images/079-bcb561f2.webp",
+      "bytes": 281808,
+      "sha256": "18012a67f6fd6c1c418957d764220c340333faea39115a90c9caa5991def28db"
+    },
+    {
+      "path": "images/080-67b413ee.webp",
+      "bytes": 185816,
+      "sha256": "fe479cb4b723fc3abc61895ca0a77d506b4612d95848ce372b77bb2de0969071"
+    },
+    {
+      "path": "images/081-be3f9fc2.webp",
+      "bytes": 116314,
+      "sha256": "b524a58aeca91f90ab96b2b2a2e5a7b186b40049576cbba9fbc646e495cf4f8a"
+    },
+    {
+      "path": "images/082-d4a3f2e2.webp",
+      "bytes": 236686,
+      "sha256": "d467f1203e03d2e62dbf87e394b1f894df4d9bb5f2a170b8eaad1855997dbd64"
+    },
+    {
+      "path": "images/083-03770e02.webp",
+      "bytes": 124952,
+      "sha256": "b8a98433db115d62dde27f06bee055087e9188c2d7c1c93540233ea402b5ddc4"
+    },
+    {
+      "path": "images/084-87c50471.webp",
+      "bytes": 191152,
+      "sha256": "52bd77f78704c5bdd6a249442cebf0d0452fd8ac2b9cb370f8e8d067aa3327f5"
+    },
+    {
+      "path": "images/085-d28d0ab9.webp",
+      "bytes": 160474,
+      "sha256": "761b0132ac41bcd55003270cb30cb2a5e31204092db67d20a6690246db89a0f1"
+    },
+    {
+      "path": "images/086-ef737ba9.webp",
+      "bytes": 131524,
+      "sha256": "6f22a144abcf08373098131ea4e404ebe8920a9088881a615c5b7c661175b783"
+    },
+    {
+      "path": "images/087-bc354024.webp",
+      "bytes": 673030,
+      "sha256": "775fc6775dc35da78feab30b71cfcc4178fda9f856fc237df3616bba20affb9a"
+    },
+    {
+      "path": "images/088-d59d221e.webp",
+      "bytes": 961978,
+      "sha256": "7522b399a8e139f9eae02bc71dc0a6b2c0835371d53883576e8075dbb39a432c"
+    },
+    {
+      "path": "images/089-a7aec50c.webp",
+      "bytes": 420908,
+      "sha256": "6e04b572ca29bc7b1524aa02df0891466b0c3c4a6f8e2cd0d93a4240f262716c"
+    },
+    {
+      "path": "images/090-985bb324.webp",
+      "bytes": 210748,
+      "sha256": "c5cee6c138cc0a3df5f4dda5e0088949cccb833e1454c25f337627c9bd3212f0"
+    },
+    {
+      "path": "images/091-40260309.webp",
+      "bytes": 218862,
+      "sha256": "fefc19299c48aad4c6d60ae8e163e5dde8c924d5540f20241508b15db4d011a7"
+    },
+    {
+      "path": "images/092-729d7f3c.webp",
+      "bytes": 147368,
+      "sha256": "66a13b384d2f536491eb3f1a56af84fbe9af6e0ce303ffcaabbf0cf488eef62b"
+    },
+    {
+      "path": "images/093-431f5467.webp",
+      "bytes": 137704,
+      "sha256": "c36f2248186e233de4052901fd5c91169ade90b3c6c0a16f0a77276446b0b384"
+    },
+    {
+      "path": "images/095-68b91678.webp",
+      "bytes": 652160,
+      "sha256": "2f71ebc19d5c5a7e0ab83050af63396a0537c45ed7c02a61760153dd189ced33"
+    },
+    {
+      "path": "images/096-3233c588.webp",
+      "bytes": 588494,
+      "sha256": "4ea62ecd6c14fc396a8a9ba6525c9eca31b85b24ec5a88d1cb5fe05a23cfdc9e"
+    },
+    {
+      "path": "images/097-038804cd.webp",
+      "bytes": 705996,
+      "sha256": "435731b3e722e6da0a3f5a64f6e907937831d79174ec775b85320957a6dd5276"
+    },
+    {
+      "path": "images/098-4af55b16.webp",
+      "bytes": 653526,
+      "sha256": "6ecf392c3db8e55847bfe5cb4d1189e8ca9b99f3f1853505050f18def48b16a4"
+    },
+    {
+      "path": "images/099-23a02737.webp",
+      "bytes": 521102,
+      "sha256": "790d2217d8acd7378851520fc94c4ef360ddb7f73d227fa612c74dcd6ffcfb32"
+    },
+    {
+      "path": "images/105-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/106-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/107-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/108-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/109-2e0d5155.webp",
+      "bytes": 1414,
+      "sha256": "06d0c9710ffd7809d718ae68398483b4d6df43bb34533504f93483225f864a05"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 46616,
+      "sha256": "3c37e5609e70a05eb4c433cbfa160d915520b0d49dd0291b89c9df548a3803b1"
+    },
+    {
+      "path": "source.html",
+      "bytes": 475352,
+      "sha256": "6d09e20e3c82d7c83b4691135bcb23722a84858f580ef7acdade7f492f8cb778"
+    },
+    {
+      "path": "source.url",
+      "bytes": 117,
+      "sha256": "913acb9b8de36cb31f0314e309d86e8cdc267b44946f620435d567c81821894b"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/2200xxs.jpg",
+      "path": "images/004-698d0b99.webp",
+      "media_type": "image/webp",
+      "bytes": 735046,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/2200xxs.jpg",
+      "path": "images/009-f123c9e0.webp",
+      "media_type": "image/webp",
+      "bytes": 868780,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/2200xxs.jpg",
+      "path": "images/014-899e0efa.webp",
+      "media_type": "image/webp",
+      "bytes": 957578,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/2200xxs.jpg",
+      "path": "images/019-4c38bccd.webp",
+      "media_type": "image/webp",
+      "bytes": 809236,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/2200xxs.jpg",
+      "path": "images/024-6efd79c9.webp",
+      "media_type": "image/webp",
+      "bytes": 1059770,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5eeb9331-fa48-4d35-baec-72a3258243ab/je/2000xxs.jpg",
+      "path": "images/043-da6b3288.webp",
+      "media_type": "image/webp",
+      "bytes": 764884,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/2174100a-89be-4f22-9e94-f02789b55ff8/je/2000xxs.jpg",
+      "path": "images/044-03a885cd.webp",
+      "media_type": "image/webp",
+      "bytes": 326486,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/e9c06131-1071-495e-aac2-340b61f781b2/je/2000xxs.jpg",
+      "path": "images/045-03543462.webp",
+      "media_type": "image/webp",
+      "bytes": 280574,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/2a1d0ef6-8a7b-492d-9030-297e81a57bf2/je/2000xxs.jpg",
+      "path": "images/046-6bea4e79.webp",
+      "media_type": "image/webp",
+      "bytes": 291938,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/669a9269-7be5-4903-bb82-a76f75e6dd8a/je/2000xxs.jpg",
+      "path": "images/047-3e6406f5.webp",
+      "media_type": "image/webp",
+      "bytes": 499472,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/fd25f267-c0d4-49fe-86ee-bca461a14674/je/2000xxs.jpg",
+      "path": "images/048-0ca1d345.webp",
+      "media_type": "image/webp",
+      "bytes": 489484,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f6136c33-b5f4-4a48-b4fc-5dbd05105cbe/je/2000xxs.jpg",
+      "path": "images/049-e0653365.webp",
+      "media_type": "image/webp",
+      "bytes": 505420,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/9b6886fe-9dc9-4b90-9088-62b64111730e/je/2000xxs.jpg",
+      "path": "images/050-7f29e269.webp",
+      "media_type": "image/webp",
+      "bytes": 673624,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f51a92e6-ff72-4c10-9bfa-2050c2aca617/je/2000xxs.jpg",
+      "path": "images/051-cb319624.webp",
+      "media_type": "image/webp",
+      "bytes": 367332,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/04b6d0ab-6ea5-4a7d-a245-b21f6b4fff99/je/2000xxs.jpg",
+      "path": "images/052-169525c1.webp",
+      "media_type": "image/webp",
+      "bytes": 296028,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/29d7376b-726b-4c0b-a4b6-d27e922cf2b5/je/2000xxs.jpg",
+      "path": "images/053-3734e0fa.webp",
+      "media_type": "image/webp",
+      "bytes": 217448,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/695b0561-6f43-495e-9986-f3ca1eeb5c53/je/2000xxs.jpg",
+      "path": "images/054-9b027266.webp",
+      "media_type": "image/webp",
+      "bytes": 311346,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/85d6f870-76f2-4e5b-b40a-31e8aef8f43a/je/2000xxs.jpg",
+      "path": "images/055-4d346e3c.webp",
+      "media_type": "image/webp",
+      "bytes": 638228,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/926b9f89-de1a-4470-bd95-f99818c3657a/je/2000xxs.jpg",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/926b9f89-de1a-4470-bd95-f99818c3657a/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/318b4356-6825-4ec4-ab2c-45191ad3709d/je/2000xxs.jpg",
+      "path": "images/057-40997c78.webp",
+      "media_type": "image/webp",
+      "bytes": 689070,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/d1be7e81-0aed-4afa-9b6d-6b6a1822d2a9/je/2000xxs.jpg",
+      "path": "images/058-38c1933c.webp",
+      "media_type": "image/webp",
+      "bytes": 675224,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/7e15f3c5-b25b-4f4e-8356-221c5b4d2d66/je/2000xxs.jpg",
+      "path": "images/059-a34e5e41.webp",
+      "media_type": "image/webp",
+      "bytes": 721464,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/b7dd3274-919f-4b14-9d7c-1e1054958ce0/je/2000xxs.jpg",
+      "path": "images/060-22c81feb.webp",
+      "media_type": "image/webp",
+      "bytes": 503990,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/54305407-fe23-4ec6-8e56-0be85ed340de/je/2000xxs.jpg",
+      "path": "images/061-697cc1a9.webp",
+      "media_type": "image/webp",
+      "bytes": 932316,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/60182487-f7cc-4d94-835c-8d39b1b741fa/je/2000xxs.jpg",
+      "path": "images/062-709000de.webp",
+      "media_type": "image/webp",
+      "bytes": 650400,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/50598e39-b490-4aa5-a771-d73f12511bf2/je/2000xxs.jpg",
+      "path": "images/063-953a2e21.webp",
+      "media_type": "image/webp",
+      "bytes": 670466,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/1dbff05c-5c44-4447-851d-0772ec191651/je/2000xxs.jpg",
+      "path": "images/064-000260a8.webp",
+      "media_type": "image/webp",
+      "bytes": 572192,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a53c7163-24cd-4751-b13e-000232ec0f91/je/2000xxs.jpg",
+      "path": "images/065-34f5483b.webp",
+      "media_type": "image/webp",
+      "bytes": 756134,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/3d37744f-bbf8-4507-b514-3a062d46f8c8/je/2000xxs.jpg",
+      "path": "images/066-fe8fb52c.webp",
+      "media_type": "image/webp",
+      "bytes": 630648,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/d57081c2-4c79-4072-ae72-bf374ecbd7f7/je/2000xxs.jpg",
+      "path": "images/067-06d031cb.webp",
+      "media_type": "image/webp",
+      "bytes": 619794,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/edefc031-2cc6-46a1-897c-9047715205e1/je/2000xxs.jpg",
+      "path": "images/068-ba42bf30.webp",
+      "media_type": "image/webp",
+      "bytes": 804312,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/3e3f31fa-c455-44ef-bbd9-591ca1901fed/je/2000xxs.jpg",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/3e3f31fa-c455-44ef-bbd9-591ca1901fed/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/423920d4-a605-4db8-91d5-e8bb2069fc57/je/2000xxs.jpg",
+      "path": "images/070-c27ef55a.webp",
+      "media_type": "image/webp",
+      "bytes": 345848,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/9bf26e83-91d9-4fc3-8328-9e3787f8af77/je/2000xxs.jpg",
+      "path": "images/071-4f0446bf.webp",
+      "media_type": "image/webp",
+      "bytes": 260982,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/e14356f2-0b4a-47e4-95c7-e9d02a155357/je/2000xxs.jpg",
+      "path": "images/072-9fba54b2.webp",
+      "media_type": "image/webp",
+      "bytes": 286206,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/94fd4e9a-4339-4608-8772-6e8bcee986ba/je/2000xxs.jpg",
+      "path": "images/073-f070fdf2.webp",
+      "media_type": "image/webp",
+      "bytes": 146322,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ee221274-baeb-4d97-9f81-fa063df70fb5/je/2000xxs.jpg",
+      "path": "images/074-c9ef02dd.webp",
+      "media_type": "image/webp",
+      "bytes": 364624,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/6cda05e4-22b2-4f83-97f4-09365617ac8b/je/2000xxs.jpg",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/6cda05e4-22b2-4f83-97f4-09365617ac8b/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/73374ebc-3d57-4994-89fe-e29886f544c4/je/2000xxs.jpg",
+      "path": "images/076-c259b2ec.webp",
+      "media_type": "image/webp",
+      "bytes": 1034440,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/eeec8fca-b758-41ef-b724-99c46bc69ae9/je/2000xxs.jpg",
+      "path": "images/077-4c8a9a75.webp",
+      "media_type": "image/webp",
+      "bytes": 251440,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/116ffd88-459d-44de-9a87-6477d0030d5b/je/2000xxs.jpg",
+      "path": "images/078-1e9da4b8.webp",
+      "media_type": "image/webp",
+      "bytes": 229706,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/232c8614-b00c-4b64-ac6f-ab624380d689/je/2000xxs.jpg",
+      "path": "images/079-bcb561f2.webp",
+      "media_type": "image/webp",
+      "bytes": 281808,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/412e116f-0893-4b5e-a742-dae5e6c07fe1/je/2000xxs.jpg",
+      "path": "images/080-67b413ee.webp",
+      "media_type": "image/webp",
+      "bytes": 185816,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/d9b2a827-bde4-4ada-a04a-7c7338a822b9/je/2000xxs.jpg",
+      "path": "images/081-be3f9fc2.webp",
+      "media_type": "image/webp",
+      "bytes": 116314,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/aa2ba64d-e3f9-47a0-923e-1454cd39e7c4/je/2000xxs.jpg",
+      "path": "images/082-d4a3f2e2.webp",
+      "media_type": "image/webp",
+      "bytes": 236686,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac3b55fd-92aa-4e3f-83d0-8a49d249c204/je/2000xxs.jpg",
+      "path": "images/083-03770e02.webp",
+      "media_type": "image/webp",
+      "bytes": 124952,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/dde37f18-a36a-46a7-b9d5-f8d68d4f85b3/je/2000xxs.jpg",
+      "path": "images/084-87c50471.webp",
+      "media_type": "image/webp",
+      "bytes": 191152,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/4a536c32-a641-4023-9f38-e0da1badbcc1/je/2000xxs.jpg",
+      "path": "images/085-d28d0ab9.webp",
+      "media_type": "image/webp",
+      "bytes": 160474,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/7df86dbe-c46a-4b89-a1f7-75e01fddf38b/je/2000xxs.jpg",
+      "path": "images/086-ef737ba9.webp",
+      "media_type": "image/webp",
+      "bytes": 131524,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/74c97994-1334-4c8a-a179-c97f7353900a/je/2000xxs.jpg",
+      "path": "images/087-bc354024.webp",
+      "media_type": "image/webp",
+      "bytes": 673030,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/0257e65c-7746-44a6-a5e1-0fa37452d4a4/je/2000xxs.jpg",
+      "path": "images/088-d59d221e.webp",
+      "media_type": "image/webp",
+      "bytes": 961978,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/bf806c16-5370-479c-94f5-ee061b0f2f96/je/2000xxs.jpg",
+      "path": "images/089-a7aec50c.webp",
+      "media_type": "image/webp",
+      "bytes": 420908,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/e87671e1-b311-4b05-8edb-6f253722236b/je/2000xxs.jpg",
+      "path": "images/090-985bb324.webp",
+      "media_type": "image/webp",
+      "bytes": 210748,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/19fd73a5-566e-4172-a52e-f205d075d455/je/2000xxs.jpg",
+      "path": "images/091-40260309.webp",
+      "media_type": "image/webp",
+      "bytes": 218862,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/e369efa7-f4fe-4574-8179-4f568c263680/je/2000xxs.jpg",
+      "path": "images/092-729d7f3c.webp",
+      "media_type": "image/webp",
+      "bytes": 147368,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/6efc6d28-aa7c-4f2f-bc97-9a690f3c3537/je/2000xxs.jpg",
+      "path": "images/093-431f5467.webp",
+      "media_type": "image/webp",
+      "bytes": 137704,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/870c450a-47f7-48a3-bfd1-52033dfc67ec/je/2000xxs.jpg",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/870c450a-47f7-48a3-bfd1-52033dfc67ec/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f1cc691d-6390-4b7d-8b2d-72861f869d89/je/2000xxs.jpg",
+      "path": "images/095-68b91678.webp",
+      "media_type": "image/webp",
+      "bytes": 652160,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/fa1bce57-e01f-4d68-adc1-3bddd826ce76/je/2000xxs.jpg",
+      "path": "images/096-3233c588.webp",
+      "media_type": "image/webp",
+      "bytes": 588494,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/50aa3225-4e22-4b8f-9912-02ae3127dcdb/je/2000xxs.jpg",
+      "path": "images/097-038804cd.webp",
+      "media_type": "image/webp",
+      "bytes": 705996,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/807bbfce-6a21-48f9-9262-671f53ee61bb/je/2000xxs.jpg",
+      "path": "images/098-4af55b16.webp",
+      "media_type": "image/webp",
+      "bytes": 653526,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/66b70bd0-ecdf-44e0-9a55-5899bfd64667/je/2000xxs.jpg",
+      "path": "images/099-23a02737.webp",
+      "media_type": "image/webp",
+      "bytes": 521102,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f6875ad4-8867-4a29-809b-b15d933a3a15/je/2000xxs.jpg",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f6875ad4-8867-4a29-809b-b15d933a3a15/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/2200xxs%2829%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/2200xxs%2828%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/2200xxs%2827%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/105-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/106-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/107-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/108-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/03/18/18/00/59/175abfa0-39db-4f75-a240-1d07f718d410/je/80x80xc.jpg",
+      "path": "images/109-2e0d5155.webp",
+      "media_type": "image/webp",
+      "bytes": 1414,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 25,
+    "images_existing": 63,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

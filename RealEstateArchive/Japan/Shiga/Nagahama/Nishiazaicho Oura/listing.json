@@ -1,0 +1,368 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303",
+    "canonical_url": "https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303",
+    "site": "jamesedition",
+    "listing_id": "17467303",
+    "first_listed": "Mar 24",
+    "last_updated": "April 24",
+    "retrieved_at": "2026-06-16T03:43:40.168387Z"
+  },
+  "location": {
+    "address": "Nishiazaicho Oura, Nagahama, Shiga 529-0721, Japan",
+    "street": "Nishiazaicho Oura",
+    "municipality": "Nagahama",
+    "region": "Shiga",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=35.4825472,136.1111378",
+    "latitude": 35.4825472,
+    "longitude": 136.1111378
+  },
+  "property": {
+    "title": "The Zen Villa Of The Deity: Lake Biwa",
+    "type": "Villa",
+    "availability": "InStock",
+    "price": {
+      "amount": 2870962.71,
+      "currency": "USD",
+      "display": "$2,870,962"
+    },
+    "price_per_area": {
+      "amount": 442,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$442"
+    },
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "floors": 2,
+    "interior_area": {
+      "value": 6491,
+      "unit": "sqft",
+      "display": "6,491 Sqft"
+    },
+    "lot_area": {
+      "value": 3.21,
+      "display": "3.21 Ac lot"
+    },
+    "year_built": 2023,
+    "photo_count": 18,
+    "description": "■Beyond the Known Lake: A Private Sanctuary upon the Sacred Waters of Oku-Biwa\n\nFor four million years, the northernmost reaches of Lake Biwa—a hidden sanctuary known as Oku-Biwa—have been revered as a realm where the deities reside. This is not the lake known to the masses; it is a private world defined by ancient silence, crystalline purity, and profound spiritual depth.\n\nWhile the lake’s vast shoreline stretches across 235 kilometers, less than 1% remains eligible for development. This villa occupies the crown jewel of that rare fraction: a first-row, freehold estate of nearly 13,000 sqm. Here, there are no neighboring structures—only the eternal, divine dialogue between ancient mountains and the mirror-like water.\n\n--------------------------------------------------\n■ The Estate — A Private World\n\nLand Area: Approx. 12,982 sqm (139,700 sq ft) — Absolute lakeside freehold\nTotal Floor Area: Approx. 603 sqm (6,490 sq ft)\nStructure: Timber and Structural Steel (Completed 2023)\nArchitect: Kenzo Tabe (Laureate of the BIG SEE Architecture Award 2025 and KYOTO Global Design Award 2024)\n\nThe Living Sanctuary:\n- Grand Zen Salon: Full-height glass membranes that dissolve the ego, merging the villa’s interior with the sacred northern waters.\n- Master Meditation Wing: A dedicated zone for 'Mu' (Nothingness) and profound restoration of the soul.\n- Elemental Wellness: A private sauna and thermal circuit with a direct, silent path to the pristine lake.\n- Integrated Gallery: A space where the frantic movement of the world ceases, and the observation of the 'Present Moment' begins.\n\n--------------------------------------------------\n■ Architecture — The Philosophy of 'Yohaku'\n\nDesigned by award-winning architect Kenzo Tabe, the villa is a physical manifestation of Yohaku—the Zen concept of the 'Meaningful Void.' In this design, the space left empty is more powerful than the structure itself.\n\n- The Architecture of Invisibility: The structure does not compete with the divine landscape; it recedes to allow the presence of the lake to be felt in every breath.\n- Material Satori: The warmth of ancient timber meets the stoic clarity of steel, creating a perfect balance between nature and human mindfulness.\n- The Ritual of Light: Sunlight is not treated as a utility, but as a guest that drifts through the villa, marking the passage of time as a silent, meditative flow.\n\n--------------------------------------------------\n■ Sensory Immersion — The Sound of Absolute Silence\n\nThe villa is engineered as a sensory fortress, shielding the spirit from the chaotic noise of the modern world:\n\n- Sacred Purity: A whole-house water purification system that honors the lake’s legendary sanctity and crystal-clear purity.\n- Organic Acoustics: A home where silence is not an absence of sound, but a presence of peace—shaped to eliminate all urban friction.\n- Bespoke Olfactory: A signature scent curated by a master perfumer to ground the resident in the earth and spirit of Oku-Biwa.\n- Divine Rhythms: Mornings begin with mist rising like incense from the water. Evenings conclude with the moon-path—a silver bridge upon the still lake.\n\n--------------------------------------------------\n■ Location — Oku-Biwa: The Spiritual Inner Sanctum \n\nSituated far from the developed southern shores, Oku-Biwa is the spiritual 'inner sanctum' of Japan. Reachable in 10 minutes by limited express from Kyoto Station, it remains a site of profound significance, home to the divine island of Chikubu and immortalized in Zen poetry for over a millennium.\n\nWhile the southern lake belongs to the world of men, Oku-Biwa offers a metaphysical tranquility that is uniquely Japanese—a landscape where the divine is felt in the stillness of the air.\n\n--------------------------------------------------\n■ Investment Perspective: Scarcity of the Eternal\n\nThis asset is defined by geological rarity and spiritual gravity, not market cycles:\n\n- Geological Scarcity: A 13,000 sqm first-row plot is a scale that is legally and geographically impossible to replicate on these protected shores.\n- Permanent Protection: Surrounded by sacred natural preserves; no future development will ever disturb your horizon, your privacy, or your peace.\n- The Kyoto Corridor: Anchored within Japan's most internationally recognized spiritual belt, ensuring the asset’s value is tied to Japan’s cultural heart.\n- A Legacy for Generations: A prize-winning modern landmark that serves as a private museum for the soul—an heirloom of silence.",
+    "features": [
+      "Balcony",
+      "Fire Pit",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Investment Property",
+      "Jacuzzi",
+      "Kitchen island",
+      "Lake View",
+      "Lakefront",
+      "Modern",
+      "Mountain View",
+      "Open Kitchen",
+      "Outdoor Living Space",
+      "Parking",
+      "Privacy",
+      "Sauna",
+      "Terrace",
+      "Walk In Closet",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Abhinav Sharma",
+    "agent_profile_url": "https://www.jamesedition.com/agents/abhinav-sharma-2282106",
+    "agent_license": "# License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443 # License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443",
+    "agency": "TonTon Forbes GLOBAL PROPERTIES",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/tonton-forbes-global-properties-602649",
+    "agency_address": "〒153-0043 3F, KDX Nakameguro Building, 1-5-4 Higashiyama, Meguro Ward, Tokyo, 153-0043, Meguro City, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/2200xxs.jpg",
+      "file": "004-e074521c.webp",
+      "media_type": "image/webp",
+      "bytes": 152778,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/4e660354-077e-4c8a-928e-5b9992128b6f/je/2200xxs.jpg",
+      "file": "009-ba187f9b.webp",
+      "media_type": "image/webp",
+      "bytes": 125972,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/e9feb7b7-2bf1-48f7-af03-bbb8c24c0b87/je/2200xxs.jpg",
+      "file": "014-b0ec6c12.webp",
+      "media_type": "image/webp",
+      "bytes": 249872,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/07/40/33/986a93f9-fa58-4f87-8240-8d55905c00c7/je/2200xxs.jpg",
+      "file": "019-27b3dea0.webp",
+      "media_type": "image/webp",
+      "bytes": 287918,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/15/58/26/bff187bd-3520-4ee1-a94d-c14f9992ddd0/je/2200xxs.jpg",
+      "file": "024-b696ed26.webp",
+      "media_type": "image/webp",
+      "bytes": 226744,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
+      "file": "040-20ade833.webp",
+      "media_type": "image/webp",
+      "bytes": 1042,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/shiga-japan",
+              "name": "Shiga"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nishiazaicho-oura-japan",
+              "name": "Nishiazaicho Oura"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303",
+              "name": "THE ZEN VILLA OF THE DEITY: LAKE BIWA"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "■Beyond the Known Lake: A Private Sanctuary upon the Sacred Waters of Oku-Biwa\n\nFor four million years, the northernmost reaches of Lake Biwa—a hidden sanctuary known as Oku-Biwa—have been revered as a realm where the deities reside. This is not the lake known to the masses; it is a private world defined by ancient silence, crystalline purity, and profound spiritual depth.\n\nWhile the lake’s vast shoreline stretches across 235 kilometers, less than 1% remains eligible for development. This villa occupies the crown jewel of that rare fraction: a first-row, freehold estate of nearly 13,000 sqm. Here, there are no neighboring structures—only the eternal, divine dialogue between ancient mountains and the mirror-like water.\n\n--------------------------------------------------\n■ The Estate — A Private World\n\nLand Area: Approx. 12,982 sqm (139,700 sq ft) — Absolute lakeside freehold\nTotal Floor Area: Approx. 603 sqm (6,490 sq ft)\nStructure: Timber and Structural Steel (Completed 2023)\nArchitect: Kenzo Tabe (Laureate of the BIG SEE Architecture Award 2025 and KYOTO Global Design Award 2024)\n\nThe Living Sanctuary:\n- Grand Zen Salon: Full-height glass membranes that dissolve the ego, merging the villa’s interior with the sacred northern waters.\n- Master Meditation Wing: A dedicated zone for 'Mu' (Nothingness) and profound restoration of the soul.\n- Elemental Wellness: A private sauna and thermal circuit with a direct, silent path to the pristine lake.\n- Integrated Gallery: A space where the frantic movement of the world ceases, and the observation of the 'Present Moment' begins.\n\n--------------------------------------------------\n■ Architecture — The Philosophy of 'Yohaku'\n\nDesigned by award-winning architect Kenzo Tabe, the villa is a physical manifestation of Yohaku—the Zen concept of the 'Meaningful Void.' In this design, the space left empty is more powerful than the structure itself.\n\n- The Architecture of Invisibility: The structure does not compete with the divine landscape; it recedes to allow the presence of the lake to be felt in every breath.\n- Material Satori: The warmth of ancient timber meets the stoic clarity of steel, creating a perfect balance between nature and human mindfulness.\n- The Ritual of Light: Sunlight is not treated as a utility, but as a guest that drifts through the villa, marking the passage of time as a silent, meditative flow.\n\n--------------------------------------------------\n■ Sensory Immersion — The Sound of Absolute Silence\n\nThe villa is engineered as a sensory fortress, shielding the spirit from the chaotic noise of the modern world:\n\n- Sacred Purity: A whole-house water purification system that honors the lake’s legendary sanctity and crystal-clear purity.\n- Organic Acoustics: A home where silence is not an absence of sound, but a presence of peace—shaped to eliminate all urban friction.\n- Bespoke Olfactory: A signature scent curated by a master perfumer to ground the resident in the earth and spirit of Oku-Biwa.\n- Divine Rhythms: Mornings begin with mist rising like incense from the water. Evenings conclude with the moon-path—a silver bridge upon the still lake.\n\n--------------------------------------------------\n■ Location — Oku-Biwa: The Spiritual Inner Sanctum \n\nSituated far from the developed southern shores, Oku-Biwa is the spiritual 'inner sanctum' of Japan. Reachable in 10 minutes by limited express from Kyoto Station, it remains a site of profound significance, home to the divine island of Chikubu and immortalized in Zen poetry for over a millennium.\n\nWhile the southern lake belongs to the world of men, Oku-Biwa offers a metaphysical tranquility that is uniquely Japanese—a landscape where the divine is felt in the stillness of the air.\n\n--------------------------------------------------\n■ Investment Perspective: Scarcity of the Eternal\n\nThis asset is defined by geological rarity and spiritual gravity, not market cycles:\n\n- Geological Scarcity: A 13,000 sqm first-row plot is a scale that is legally and geographically impossible to replicate on these protected shores.\n- Permanent Protection: Surrounded by sacred natural preserves; no future development will ever disturb your horizon, your privacy, or your peace.\n- The Kyoto Corridor: Anchored within Japan's most internationally recognized spiritual belt, ensuring the asset’s value is tied to Japan’s cultural heart.\n- A Legacy for Generations: A prize-winning modern landmark that serves as a private museum for the soul—an heirloom of silence.",
+        "image": "https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/1040x620xc.jpg",
+        "name": "THE ZEN VILLA OF THE DEITY: LAKE BIWA",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 2870962.71,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "TonTon Forbes GLOBAL PROPERTIES"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+  ]
+}

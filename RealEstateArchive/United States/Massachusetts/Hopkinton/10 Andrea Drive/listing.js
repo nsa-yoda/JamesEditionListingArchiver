@@ -1,0 +1,331 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602",
+    "site": "jamesedition",
+    "listing_id": "18129602",
+    "listing_reference": "RMS295",
+    "first_listed": "Jun 10",
+    "last_updated": "June 10",
+    "retrieved_at": "2026-06-21T09:21:16.588469Z"
+  },
+  "location": {
+    "address": "10 Andrea Drive , Hopkinton, MA 01748, Massachusetts, United States",
+    "street": "10 Andrea Drive",
+    "municipality": "Hopkinton",
+    "region": "Massachusetts",
+    "postal_code": "01748",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=42.205954,-71.582167",
+    "latitude": 42.205954,
+    "longitude": -71.582167
+  },
+  "property": {
+    "title": "10 Andrea Drive, Hopkinton, Ma, 01748",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 3995000,
+      "currency": "USD",
+      "display": "$3,995,000"
+    },
+    "price_per_area": {
+      "amount": 403,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$403"
+    },
+    "bedrooms": 4,
+    "bathrooms": 8,
+    "interior_area": {
+      "value": 9910,
+      "unit": "sqft",
+      "display": "9,910 Sqft"
+    },
+    "lot_area": {
+      "value": 3.34,
+      "display": "3.34 Ac lot"
+    },
+    "year_built": 2003,
+    "photo_count": 27,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6398781933112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "After living in Wellesley, the homeowners were looking for a different lifestyle—one with more privacy, less traffic, and a quieter setting. They chose to build in Hopkinton and combined three lots to create the estate-like setting they envisioned. Conveniently located near Route 495 and the Mass Pike, the property offers easy access to Boston, the Cape, shopping, dining, and everyday conveniences while maintaining a peaceful setting. This custom home took nearly two years to build, and the level of craftsmanship is evident throughout. From the architectural details to the way the home was positioned on the lot, every element was carefully planned. The homeowners love to entertain, and the home was designed with gathering spaces both inside and out. Equally passionate about gardening, the homeowner personally designed the mature gardens and landscape that surround the property, creating a setting that is difficult to fully appreciate until you drive down the driveway.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Bar",
+      "Basement",
+      "Equestrian",
+      "Fireplace",
+      "Garage",
+      "Jacuzzi",
+      "Pool",
+      "Privacy",
+      "Tennis Court",
+      "Walk In Closet",
+      "Washer Dryer"
+    ]
+  },
+  "broker": {
+    "agent": "Stephanie Archung",
+    "agency": "Gibson Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/gibson-sotheby-s-international-realty-10708",
+    "agency_address": "680 High Street, 02090, Westwood, Massachusetts, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/2200xxs.jpg",
+      "file": "img-ad88a162ea0b.webp",
+      "media_type": "image/webp",
+      "bytes": 1036164,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/ab2f37d9-8083-4bf2-9380-8a1ffa2f7aab/je/2200xxs.jpg",
+      "file": "img-92caf6e934d4.webp",
+      "media_type": "image/webp",
+      "bytes": 917948,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/0269def3-4646-4d8b-b7c2-71e6fe9b9775/je/2200xxs.jpg",
+      "file": "img-625d5dc5fa01.webp",
+      "media_type": "image/webp",
+      "bytes": 1221452,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/01aaf48f-b4b8-453b-8236-073f31409e77/je/2200xxs.jpg",
+      "file": "img-d18f4ba0a623.webp",
+      "media_type": "image/webp",
+      "bytes": 644856,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/8ba181f9-487a-43db-a990-86828ab57e89/je/2200xxs.jpg",
+      "file": "img-174751c43a1b.webp",
+      "media_type": "image/webp",
+      "bytes": 800628,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ma-united-states",
+              "name": "Massachusetts"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa",
+              "name": "Hopkinton"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602",
+              "name": "10 Andrea Drive, Hopkinton, Ma, 01748"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "After living in Wellesley, the homeowners were looking for a different lifestyle—one with more privacy, less traffic, and a quieter setting. They chose to build in Hopkinton and combined three lots to create the estate-like setting they envisioned. Conveniently located near Route 495 and the Mass Pike, the property offers easy access to Boston, the Cape, shopping, dining, and everyday conveniences while maintaining a peaceful setting. This custom home took nearly two years to build, and the level of craftsmanship is evident throughout. From the architectural details to the way the home was positioned on the lot, every element was carefully planned. The homeowners love to entertain, and the home was designed with gathering spaces both inside and out. Equally passionate about gardening, the homeowner personally designed the mature gardens and landscape that surround the property, creating a setting that is difficult to fully appreciate until you drive down the driveway.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/1040x620xc.jpg",
+        "name": "10 Andrea Drive, Hopkinton, Ma, 01748",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 3995000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Gibson Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

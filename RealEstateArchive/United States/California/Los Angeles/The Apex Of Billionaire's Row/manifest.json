@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/the-apex-of-billionaire-s-row-bel-air-17734262",
+    "canonical_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/the-apex-of-billionaire-s-row-bel-air-17734262",
+    "site": "jamesedition",
+    "listing_id": "17734262",
+    "first_listed": "Apr 22",
+    "last_updated": "April 23",
+    "retrieved_at": "2026-06-16T03:43:38.304539Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3981,
+      "sha256": "b3cd4d00b6d5ee6530053c602be63c41b1726d41a0a29ae920e56970d9f9ef2d"
+    },
+    {
+      "path": "images/004-93681ed5.webp",
+      "bytes": 532422,
+      "sha256": "79332a62ea935441398d5abd1089576c6f5a9b5f6bc38933958e2c5c2b6b9bad"
+    },
+    {
+      "path": "images/009-37de411b.webp",
+      "bytes": 588100,
+      "sha256": "cc8d7f7e76e5bbfe8a971d9825f539b118299bbac25c65effd6ce433878b0a84"
+    },
+    {
+      "path": "images/014-98cf6c92.webp",
+      "bytes": 398120,
+      "sha256": "d97cfcd900649ef1461dc189b5027e231cebe50281b754b5b4cc0c71dbf2b1ce"
+    },
+    {
+      "path": "images/019-63185206.webp",
+      "bytes": 288792,
+      "sha256": "1f55417ccbb9d60cfce98877b15940a859e9e2f1a6ab7edf23932d0d5106788c"
+    },
+    {
+      "path": "images/024-a3b740a4.webp",
+      "bytes": 381724,
+      "sha256": "cc05e76a14ea171153b587ec19f6b907838e8ea96a15ed1c079d96a8d615a473"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 19539,
+      "sha256": "0fba8296dcecc67aea3adc05a9021dfc75e9dd742f16c8466ff4b3d92564bcad"
+    },
+    {
+      "path": "source.html",
+      "bytes": 378679,
+      "sha256": "5d0ae2b0b89617088f4ae24c170bc9f56dac27d8059feff4c693a164f79e7c54"
+    },
+    {
+      "path": "source.url",
+      "bytes": 107,
+      "sha256": "9be6c550ecdb47064e477665f184620d1b22a3b9ac5f9d0f2f45e7bfe9788319"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/09da0ba4-5b25-4717-af2d-449f6affd303/je/2200xxs.jpg",
+      "path": "images/004-93681ed5.webp",
+      "media_type": "image/webp",
+      "bytes": 532422,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/The%20Apex%20Of%20Billionaire%27s%20Row,%20Bel%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817734262%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/07/a88665db-3316-4c3e-affd-aaec002f79fd/je/2200xxs.jpg",
+      "path": "images/009-37de411b.webp",
+      "media_type": "image/webp",
+      "bytes": 588100,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/The%20Apex%20Of%20Billionaire%27s%20Row,%20Bel%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817734262%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/07/75f64383-6c35-4291-8496-c87ec07adc00/je/2200xxs.jpg",
+      "path": "images/014-98cf6c92.webp",
+      "media_type": "image/webp",
+      "bytes": 398120,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/The%20Apex%20Of%20Billionaire%27s%20Row,%20Bel%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817734262%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/22/17/16/19/e6a5ef74-c80e-46e0-8635-44347bceebc3/je/2200xxs.jpg",
+      "path": "images/019-63185206.webp",
+      "media_type": "image/webp",
+      "bytes": 288792,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/The%20Apex%20Of%20Billionaire%27s%20Row,%20Bel%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817734262%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5bb15769-7143-4762-9662-51e07bd67da8/je/2200xxs.jpg",
+      "path": "images/024-a3b740a4.webp",
+      "media_type": "image/webp",
+      "bytes": 381724,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/The%20Apex%20Of%20Billionaire%27s%20Row,%20Bel%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817734262%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/The%20Apex%20Of%20Billionaire%27s%20Row,%20Bel%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817734262%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/The%20Apex%20Of%20Billionaire%27s%20Row,%20Bel%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817734262%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/The%20Apex%20Of%20Billionaire%27s%20Row,%20Bel%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817734262%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

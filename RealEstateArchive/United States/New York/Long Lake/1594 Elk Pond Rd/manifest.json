@@ -1,0 +1,464 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/whitney-park-a-legacy-beyond-measure-15606227",
+    "canonical_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/whitney-park-a-legacy-beyond-measure-15606227",
+    "site": "jamesedition",
+    "listing_id": "15606227",
+    "listing_reference": "WRHPJ7",
+    "first_listed": "May 9, 2025",
+    "last_updated": "June 2",
+    "retrieved_at": "2026-06-19T08:42:39.658098Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5249,
+      "sha256": "045f66a189c274abc4258eb5369b137d5c02ea46d6ce5d2230505ca6c6f78d0b"
+    },
+    {
+      "path": "images/img-0fa6c40df06c.webp",
+      "bytes": 483482,
+      "sha256": "ff2fdd8ce3f0bff5064216e24001584392821faf4a4082302bfc6c092ab28e56"
+    },
+    {
+      "path": "images/img-1ad6dc008309.webp",
+      "bytes": 717852,
+      "sha256": "153653b4bba5a9cfc99880edcc921e747cd7aad1b0412098fa4149eb3906d222"
+    },
+    {
+      "path": "images/img-1b03edf624f6.webp",
+      "bytes": 832136,
+      "sha256": "21980b5d1b8f5fe2774cd5f014089036d5576f6426404acd5d4fdde076c0fb5b"
+    },
+    {
+      "path": "images/img-1fc0a8722b1e.webp",
+      "bytes": 993608,
+      "sha256": "22f4884f4fe9f306432409b349db98d239e89e024d8024760681856db1398536"
+    },
+    {
+      "path": "images/img-2123bc7da9a3.webp",
+      "bytes": 432326,
+      "sha256": "1ca033b37396c6fd113f7bc071170ca54293cf91f3423cc0890b68ae40008771"
+    },
+    {
+      "path": "images/img-2295673447ca.webp",
+      "bytes": 390886,
+      "sha256": "d1b4a1d0e39bc5e9e826cded18e650c658c504e95c5ce441812a60179933ee09"
+    },
+    {
+      "path": "images/img-23afdfaa1ed0.webp",
+      "bytes": 612716,
+      "sha256": "c38a3f7afb7d3ef91966066a1374a9f7c8cf816465fafefa6548abaae4830dc1"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-2b582c591ff0.webp",
+      "bytes": 382214,
+      "sha256": "29d311672381a587ba888d856d61718ec31c14df1d4811e045d6ab986926597c"
+    },
+    {
+      "path": "images/img-36024856ab53.webp",
+      "bytes": 619234,
+      "sha256": "2a540b8fc45ce69c7906887897b3343e23c8fa2c5fcea14b099061d8f7dabc6a"
+    },
+    {
+      "path": "images/img-3765c0a22f12.webp",
+      "bytes": 1074588,
+      "sha256": "af37f56ae6d9b7187a14185a5c2af2d0e769b3610360011273c53cbcdfe024a6"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-550564f1916a.webp",
+      "bytes": 278390,
+      "sha256": "28945025794920f3dda0dea0cfdf20c0797f2f3627d3fb6b01e5fb46fccae970"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-77eae34701b1.webp",
+      "bytes": 632982,
+      "sha256": "61df53cb438a920e21d76687698c60c489726263ccb81c41fb81340ee87323fd"
+    },
+    {
+      "path": "images/img-853e02d5a3b9.webp",
+      "bytes": 576700,
+      "sha256": "cc0fa4933ead2fb7bfc312112e6b8afd03a1eff773ca1114b99ec0eb9a78167a"
+    },
+    {
+      "path": "images/img-86edf331b546.webp",
+      "bytes": 732266,
+      "sha256": "5672ab4300d65e11e6fa4b9f94e8a9a94366eb1ed7b77feb5b921e70133da096"
+    },
+    {
+      "path": "images/img-8d71f3e38340.webp",
+      "bytes": 619036,
+      "sha256": "b021a866efc0f6bcfb89cae5295e140860e9f00d2df8a3838a9cae1a7a80da94"
+    },
+    {
+      "path": "images/img-8e90d6175991.webp",
+      "bytes": 70084,
+      "sha256": "ab0037f6f2fa8e3630d1ca003a772b5827ba873a42e1a060ffef25b1c40d14fb"
+    },
+    {
+      "path": "images/img-915398d7e37d.webp",
+      "bytes": 335076,
+      "sha256": "e55d74e38b0047b849ed82041356bdb7b4b9e22a2565252dabe36c09759434b2"
+    },
+    {
+      "path": "images/img-973f83bd5938.webp",
+      "bytes": 85668,
+      "sha256": "1ad8225fe2e60ae8809c184d6065ca938c8752e814b489858881280923a1cc17"
+    },
+    {
+      "path": "images/img-c15f027240ed.webp",
+      "bytes": 245844,
+      "sha256": "fc009da98d991e9f08ea72586606c165a4aef49b9a4c3cd892dcf93102ccf38a"
+    },
+    {
+      "path": "images/img-c191b4c424e5.webp",
+      "bytes": 239478,
+      "sha256": "e5fc02ceb7215dd39ed77ccc98da4c2d63c6c41348ef9315e84bb0f81cb31fa4"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-dc97c8370b36.webp",
+      "bytes": 696816,
+      "sha256": "16e4102a0e33e768223a87921851138f3633f336e23d1c28a2393b819bff408f"
+    },
+    {
+      "path": "images/img-de308b4bc9ad.webp",
+      "bytes": 246964,
+      "sha256": "f2461a3d19f9949e4e07d9c0ad2e529cfd6b8b232daf658237c9184b0424f2eb"
+    },
+    {
+      "path": "images/img-e10f5d232ee1.webp",
+      "bytes": 734558,
+      "sha256": "455547e0cec32fcc52fe03dc4f8011c0fa8408dc0c04cfc8ae750f0b89a77b73"
+    },
+    {
+      "path": "images/img-f8a8e1730081.webp",
+      "bytes": 146912,
+      "sha256": "4790e50ec9e7897d820106d825732ae2b52b817755db1bcc4d6c5bf54784a173"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 27864,
+      "sha256": "cf5e785e976efc6fe5f1c15f7c42531d593f4cb503dd04d444b3346a84cacf7e"
+    },
+    {
+      "path": "source.html",
+      "bytes": 512101,
+      "sha256": "7d5a3f06f41de8bb87af594593255563a344e3e45d9c7c08afef8baa8cf3b471"
+    },
+    {
+      "path": "source.url",
+      "bytes": 104,
+      "sha256": "51a099ddc3c12e1a863f2c1b72e0bc5c064db6749962ebd49057127a71d0dd9d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/2200xxs.jpg",
+      "path": "images/img-de308b4bc9ad.webp",
+      "media_type": "image/webp",
+      "bytes": 246964,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/2200xxs.jpg",
+      "path": "images/img-77eae34701b1.webp",
+      "media_type": "image/webp",
+      "bytes": 632982,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/2200xxs.jpg",
+      "path": "images/img-36024856ab53.webp",
+      "media_type": "image/webp",
+      "bytes": 619234,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/2200xxs.jpg",
+      "path": "images/img-23afdfaa1ed0.webp",
+      "media_type": "image/webp",
+      "bytes": 612716,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/2200xxs.jpg",
+      "path": "images/img-8d71f3e38340.webp",
+      "media_type": "image/webp",
+      "bytes": 619036,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/39ad53a1-d233-43fe-841f-bbc17604c032/je/2000xxs.jpg",
+      "path": "images/img-2295673447ca.webp",
+      "media_type": "image/webp",
+      "bytes": 390886,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/b73268a2-bc28-44c6-9425-fd2310225271/je/2000xxs.jpg",
+      "path": "images/img-c15f027240ed.webp",
+      "media_type": "image/webp",
+      "bytes": 245844,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/ef6ac1d4-d442-41cd-9f1b-22011596c889/je/2000xxs.jpg",
+      "path": "images/img-2b582c591ff0.webp",
+      "media_type": "image/webp",
+      "bytes": 382214,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/7648cd6f-f531-42ae-b920-6aecd66b5b9c/je/2000xxs.jpg",
+      "path": "images/img-973f83bd5938.webp",
+      "media_type": "image/webp",
+      "bytes": 85668,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/26/17/13/31/32515079-8578-4eae-8bf9-1e97315c502d/je/2000xxs.jpg",
+      "path": "images/img-0fa6c40df06c.webp",
+      "media_type": "image/webp",
+      "bytes": 483482,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/3abbbe8e-3b1c-400b-b75a-d4d965013b9c/je/2000xxs.jpg",
+      "path": "images/img-dc97c8370b36.webp",
+      "media_type": "image/webp",
+      "bytes": 696816,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/a45a3b2e-3563-44fe-8de8-2908ba3d350e/je/2000xxs.jpg",
+      "path": "images/img-c191b4c424e5.webp",
+      "media_type": "image/webp",
+      "bytes": 239478,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/05ac4651-1006-442a-8633-0e997902169a/je/2000xxs.jpg",
+      "path": "images/img-1ad6dc008309.webp",
+      "media_type": "image/webp",
+      "bytes": 717852,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/272e5143-fde9-42f7-8a47-3664e88c2dfa/je/2000xxs.jpg",
+      "path": "images/img-f8a8e1730081.webp",
+      "media_type": "image/webp",
+      "bytes": 146912,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/e3998a1d-c16d-44e8-afac-2f51efc3e687/je/2000xxs.jpg",
+      "path": "images/img-2123bc7da9a3.webp",
+      "media_type": "image/webp",
+      "bytes": 432326,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/b146d230-38a9-4c80-bb3f-e02d6b9c3e73/je/2000xxs.jpg",
+      "path": "images/img-853e02d5a3b9.webp",
+      "media_type": "image/webp",
+      "bytes": 576700,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/0f317059-25d7-4068-a590-15a4120d5ba9/je/2000xxs.jpg",
+      "path": "images/img-3765c0a22f12.webp",
+      "media_type": "image/webp",
+      "bytes": 1074588,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/326ea2df-86e1-419b-816f-111dfd9ba603/je/2000xxs.jpg",
+      "path": "images/img-e10f5d232ee1.webp",
+      "media_type": "image/webp",
+      "bytes": 734558,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/3d35c0d5-37ac-4c10-ad67-3972a6b235f1/je/2000xxs.jpg",
+      "path": "images/img-86edf331b546.webp",
+      "media_type": "image/webp",
+      "bytes": 732266,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/b9c65e05-9d66-4e56-a080-b7830a91d0ad/je/2000xxs.jpg",
+      "path": "images/img-1fc0a8722b1e.webp",
+      "media_type": "image/webp",
+      "bytes": 993608,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/ee2e46b3-dd1e-4251-b40b-8eaa71c0661a/je/2000xxs.jpg",
+      "path": "images/img-8e90d6175991.webp",
+      "media_type": "image/webp",
+      "bytes": 70084,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/dafbf88b-bdd1-40ec-aa43-ccb48217b796/je/2000xxs.jpg",
+      "path": "images/img-1b03edf624f6.webp",
+      "media_type": "image/webp",
+      "bytes": 832136,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/7846b556-7522-4c8a-8889-8bd139b233c6/je/2000xxs.jpg",
+      "path": "images/img-915398d7e37d.webp",
+      "media_type": "image/webp",
+      "bytes": 335076,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/12385adc-1064-46f4-9857-f16c7ac5d59f/je/2000xxs.jpg",
+      "path": "images/img-550564f1916a.webp",
+      "media_type": "image/webp",
+      "bytes": 278390,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/2200xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 28,
+    "images_existing": 0,
+    "images_failed": 9,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,25 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Japan/Tokyo",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Meguro City",
+      "href": "Meguro%20City/index.html"
+    },
+    {
+      "name": "Minato City",
+      "href": "Minato%20City/index.html"
+    },
+    {
+      "name": "Setagaya City",
+      "href": "Setagaya%20City/index.html"
+    },
+    {
+      "name": "Shibuya City",
+      "href": "Shibuya%20City/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

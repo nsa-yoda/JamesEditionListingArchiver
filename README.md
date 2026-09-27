@@ -18,6 +18,26 @@ The root compatibility command also remains available:
 go run . -url 'https://www.jamesedition.com/real_estate/...'
 ```
 
+## Large archive data
+
+The preserved `JamesEdition` pages and media in `RealEstateArchive` use Git
+LFS for large files. Install Git LFS and run `git lfs install` before cloning
+or checking out archive data. A normal clone retrieves the tracked archive
+files through LFS.
+
+For a code-only checkout that does not download the archive payloads:
+
+```bash
+GIT_LFS_SKIP_SMUDGE=1 git clone git@github.com:nsa-yoda/JamesEditionListingArchiver.git
+cd JamesEditionListingArchiver
+git lfs install
+git lfs pull --include='JamesEdition/**,RealEstateArchive/**'
+```
+
+The final `git lfs pull` retrieves the archive files after the code checkout.
+Git LFS keeps those file contents out of ordinary Git packs; a fully populated
+working tree still uses disk space for the files it downloads.
+
 ## Usage
 
 ```bash

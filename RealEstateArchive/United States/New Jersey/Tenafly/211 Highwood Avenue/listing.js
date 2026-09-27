@@ -1,0 +1,630 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/residential-tenafly-18123231",
+    "canonical_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/residential-tenafly-18123231",
+    "site": "jamesedition",
+    "listing_id": "18123231",
+    "listing_reference": "2124754989349210",
+    "first_listed": "Jun 10",
+    "last_updated": "June 10",
+    "retrieved_at": "2026-06-18T07:08:46.050087Z"
+  },
+  "location": {
+    "address": "211 Highwood Avenue, Tenafly, NJ 07670, New Jersey, United States",
+    "street": "211 Highwood Avenue",
+    "municipality": "Tenafly",
+    "region": "New Jersey",
+    "postal_code": "07670",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.92257,-73.94959",
+    "latitude": 40.92257,
+    "longitude": -73.94959
+  },
+  "property": {
+    "title": "Residential Tenafly",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 9500000,
+      "currency": "USD",
+      "display": "$9,500,000"
+    },
+    "bedrooms": 7,
+    "bathrooms": 10,
+    "photo_count": 49,
+    "description": "A truly once in a generation offering, this East Hill estate is discreetly nestled at the end of a long pvt drive on a rare 2.75-AC parcel, one of the most secluded \u0026amp; impressive residential settings in Tenafly. Hidden from the road, surrounded by specimen plantings \u0026amp; manicured grounds, the property offers privacy, scale \u0026amp; prestige seldom found in Bergen County. Spanning approx 8,558 SF, this residence was designed for entertaining \u0026amp; everyday living. Feat 7 BRs, 8.2 BTHs, the home feat soaring ceilings, formal \u0026amp; informal gathering spaces, a chefs KIT apptd w/ Wolf \u0026amp; Sub-Zero appl \u0026amp; custom pizza oven, pvt theater, fitness ctr \u0026amp; prim suite w/spa-inspired bth. A standout feat rarely found in any luxury estate is the wellness \u0026amp; lifestyle annex, complete w/state-of-the-art hot yoga studio, full KIT, gym, covered outdoor LR \u0026amp; htd 2-car garage, creating a pvt retreat unlike any other. Resort-caliber grounds are designed to rival a pvt luxury resort, feat htd freeform gunite pool, hot tub, outdoor KIT, fire pit lounge, enclosed garden w/raised beds, covered porches \u0026amp; sprawling lawns offering endless rec, relax \u0026amp; entmt. Curated for an unparalleled lifestyle experience. Addl amenities incl 6 htd garage, whole-house generator, EV charger, radiant htd floors, intgrtd smart home tech, whole-house sound sys \u0026amp; comprehensive security. Rarely does a property of this magnitude, privacy \u0026amp; distinction become available, offering an unmatched combi of land, luxury \u0026amp; convenience just mins from NYC.",
+    "features": [
+      "Air Conditioning",
+      "Cinema",
+      "Fire Pit",
+      "Fitness Center / Gym",
+      "Game Room",
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Jacuzzi",
+      "Open Kitchen",
+      "Outdoor Kitchen",
+      "Outdoor Living Space",
+      "Pool",
+      "Privacy"
+    ]
+  },
+  "broker": {
+    "agent": "Stacy Esser",
+    "agency": "Tenafly",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/tenafly-125310",
+    "agency_address": "82 North Summit St., 07670, Tenafly, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/2200xxs.jpg",
+      "file": "004-649ec49b.webp",
+      "media_type": "image/webp",
+      "bytes": 185468,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/2200xxs.jpg",
+      "file": "009-4f5634e4.webp",
+      "media_type": "image/webp",
+      "bytes": 212416,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/2200xxs.jpg",
+      "file": "014-87b71447.webp",
+      "media_type": "image/webp",
+      "bytes": 166102,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/2200xxs.jpg",
+      "file": "019-88464698.webp",
+      "media_type": "image/webp",
+      "bytes": 108522,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/2200xxs.jpg",
+      "file": "024-02b5d398.webp",
+      "media_type": "image/webp",
+      "bytes": 154474,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/57cf571d-05a3-4110-93a1-e0051a069aae/je/2000xxs.jpg",
+      "file": "034-c9f11590.webp",
+      "media_type": "image/webp",
+      "bytes": 71358,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/1789d3ef-6598-44a0-808e-90ffe9467e85/je/2000xxs.jpg",
+      "file": "035-44b21292.webp",
+      "media_type": "image/webp",
+      "bytes": 66416,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/9214a889-f3d2-4911-8664-3c385b5c7092/je/2000xxs.jpg",
+      "file": "036-ad470cb6.webp",
+      "media_type": "image/webp",
+      "bytes": 64260,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/abbe43e4-2f2f-4d04-9bff-87172e233d3e/je/2000xxs.jpg",
+      "file": "037-017bfa40.webp",
+      "media_type": "image/webp",
+      "bytes": 47740,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/14a4cc41-296a-4979-a165-dc8bd524a2a2/je/2000xxs.jpg",
+      "file": "038-3a903129.webp",
+      "media_type": "image/webp",
+      "bytes": 65158,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/8883f5a0-f95f-483e-bc74-b314d7d0fa5b/je/2000xxs.jpg",
+      "file": "039-d87f38d9.webp",
+      "media_type": "image/webp",
+      "bytes": 59222,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/bf48ffea-e2f4-425f-acf8-31115e5f631d/je/2000xxs.jpg",
+      "file": "040-64c73c25.webp",
+      "media_type": "image/webp",
+      "bytes": 75368,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/d9c1b1e7-8915-461b-916f-0cbf29e5388f/je/2000xxs.jpg",
+      "file": "041-c124026d.webp",
+      "media_type": "image/webp",
+      "bytes": 50084,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/de956017-7aec-4785-aadc-7e94a1502e1b/je/2000xxs.jpg",
+      "file": "042-8328007c.webp",
+      "media_type": "image/webp",
+      "bytes": 59230,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/bbf7b218-d8b5-4491-97db-30c31e7d4f03/je/2000xxs.jpg",
+      "file": "043-11dd6e76.webp",
+      "media_type": "image/webp",
+      "bytes": 79586,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/3f14b280-02fe-4117-9d8c-24cbc12dc71c/je/2000xxs.jpg",
+      "file": "044-1b28d706.webp",
+      "media_type": "image/webp",
+      "bytes": 47266,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e88a68ef-820e-4a62-8743-aae85748ca0a/je/2000xxs.jpg",
+      "file": "045-24c67c04.webp",
+      "media_type": "image/webp",
+      "bytes": 44426,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/8c1d8cc9-5db4-49d2-86df-df5567b7f8d6/je/2000xxs.jpg",
+      "file": "046-66f290de.webp",
+      "media_type": "image/webp",
+      "bytes": 49684,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/1689994f-a169-4279-935c-3d5bf8dce852/je/2000xxs.jpg",
+      "file": "047-555567e9.webp",
+      "media_type": "image/webp",
+      "bytes": 89912,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/5016238d-0b7b-469e-bf0f-40dee1e699f1/je/2000xxs.jpg",
+      "file": "048-822264a4.webp",
+      "media_type": "image/webp",
+      "bytes": 50508,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/233f3ef3-bbe9-48bf-8e64-dff4a0a9742a/je/2000xxs.jpg",
+      "file": "049-3e4f4fc5.webp",
+      "media_type": "image/webp",
+      "bytes": 52522,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/69e3c381-5b83-46ce-a8fe-0bc0563699ef/je/2000xxs.jpg",
+      "file": "050-2a474f20.webp",
+      "media_type": "image/webp",
+      "bytes": 70646,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/83fd03a7-0a82-4c4a-87e8-bc3df2fecc19/je/2000xxs.jpg",
+      "file": "051-e76039db.webp",
+      "media_type": "image/webp",
+      "bytes": 57134,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/ae2a5394-00a4-4985-bda2-526e11c4ebce/je/2000xxs.jpg",
+      "file": "052-993204f4.webp",
+      "media_type": "image/webp",
+      "bytes": 78590,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/fb2cd12d-f180-42e7-8a1e-66d1f57ba959/je/2000xxs.jpg",
+      "file": "053-dc99486c.webp",
+      "media_type": "image/webp",
+      "bytes": 30614,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/c7516798-5052-48db-91b7-e2ffb96ba673/je/2000xxs.jpg",
+      "file": "054-2ff1d2d9.webp",
+      "media_type": "image/webp",
+      "bytes": 54388,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/fd0783ce-8052-4c5f-8514-51ecbf6152a6/je/2000xxs.jpg",
+      "file": "055-7a734167.webp",
+      "media_type": "image/webp",
+      "bytes": 100236,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/b21cb1da-89b7-4155-8aae-dfbf986690ad/je/2000xxs.jpg",
+      "file": "056-a4efe230.webp",
+      "media_type": "image/webp",
+      "bytes": 67626,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/ffd3aecf-627a-4ed5-bfcb-6fea570a0280/je/2000xxs.jpg",
+      "file": "057-7712f02f.webp",
+      "media_type": "image/webp",
+      "bytes": 90368,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/066b80c3-13c7-4b49-bce8-74c34a671dd7/je/2000xxs.jpg",
+      "file": "058-850a8fbf.webp",
+      "media_type": "image/webp",
+      "bytes": 103492,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/0ef80879-ac75-43bd-9d57-463ead4281fa/je/2000xxs.jpg",
+      "file": "059-06a9441a.webp",
+      "media_type": "image/webp",
+      "bytes": 116788,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/6e5597bc-414e-4c58-9938-02a4da632069/je/2000xxs.jpg",
+      "file": "060-d1f8ca11.webp",
+      "media_type": "image/webp",
+      "bytes": 144186,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85d32a34-a4e2-4e99-9d23-7cdd5a0b0beb/je/2000xxs.jpg",
+      "file": "061-f62a4d4f.webp",
+      "media_type": "image/webp",
+      "bytes": 140534,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/8cf95506-dc3a-4e6b-8478-3b8bc7f2cd2a/je/2000xxs.jpg",
+      "file": "062-7dd0f8fd.webp",
+      "media_type": "image/webp",
+      "bytes": 180756,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/1422c305-bd30-4602-a647-d9135ebbe6b5/je/2000xxs.jpg",
+      "file": "063-8c6f6fe6.webp",
+      "media_type": "image/webp",
+      "bytes": 191996,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e3d5ddb2-0cf5-4e91-997b-588d5362071d/je/2000xxs.jpg",
+      "file": "064-9180d21c.webp",
+      "media_type": "image/webp",
+      "bytes": 156038,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/b13aa6a7-b96b-4c7e-9a0a-aa9f7b7631fe/je/2000xxs.jpg",
+      "file": "065-47e29905.webp",
+      "media_type": "image/webp",
+      "bytes": 152932,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/a5f631d9-8d1c-4234-bf29-ec680bb3fdc5/je/2000xxs.jpg",
+      "file": "066-dec87555.webp",
+      "media_type": "image/webp",
+      "bytes": 73416,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/fb431722-f8e7-4b37-a61e-d0f28cdac203/je/2000xxs.jpg",
+      "file": "067-ddc8f6cd.webp",
+      "media_type": "image/webp",
+      "bytes": 142422,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/f384c741-5dce-4d16-8881-2cdfc9310f6c/je/2000xxs.jpg",
+      "file": "068-9597aadb.webp",
+      "media_type": "image/webp",
+      "bytes": 181444,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/03b04c2c-4558-40de-9968-fd8e5737f54e/je/2000xxs.jpg",
+      "file": "069-99359c0e.webp",
+      "media_type": "image/webp",
+      "bytes": 165780,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/90335692-6a9d-49a3-a0b8-481f5f1cfe15/je/2000xxs.jpg",
+      "file": "070-79fe4968.webp",
+      "media_type": "image/webp",
+      "bytes": 214962,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/43af31b2-42da-4c9a-add7-3b2027b7a6ad/je/2000xxs.jpg",
+      "file": "071-4190a742.webp",
+      "media_type": "image/webp",
+      "bytes": 173302,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/df2e3f4b-ce72-4626-8fe4-aac365b0645e/je/2000xxs.jpg",
+      "file": "072-efddbf2f.webp",
+      "media_type": "image/webp",
+      "bytes": 120868,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/f9f59ce6-4921-46af-9912-f90570114a04/je/2000xxs.jpg",
+      "file": "073-1f32dffa.webp",
+      "media_type": "image/webp",
+      "bytes": 88544,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/eec43bb3-aa0a-4174-8ae6-8a63d7d2e8e6/je/2000xxs.jpg",
+      "file": "074-d35f1f27.webp",
+      "media_type": "image/webp",
+      "bytes": 28590,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/216ee808-6552-41a6-8f8d-2d4e08eb3ff9/je/2000xxs.jpg",
+      "file": "075-4665197d.webp",
+      "media_type": "image/webp",
+      "bytes": 31636,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/527502a7-41e8-4575-9f62-5246c9d1ef52/je/2000xxs.jpg",
+      "file": "076-acf9508d.webp",
+      "media_type": "image/webp",
+      "bytes": 19906,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/9de2eafd-9229-496b-9994-cee4a725c0b9/je/2000xxs.jpg",
+      "file": "077-58672bae.webp",
+      "media_type": "image/webp",
+      "bytes": 14822,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2831%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2830%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2829%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "082-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "083-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "084-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "085-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tenafly-nj-usa",
+              "name": "Tenafly"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/residential-tenafly-18123231",
+              "name": "Residential Tenafly"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "A truly once in a generation offering, this East Hill estate is discreetly nestled at the end of a long pvt drive on a rare 2.75-AC parcel, one of the most secluded \u0026amp; impressive residential settings in Tenafly. Hidden from the road, surrounded by specimen plantings \u0026amp; manicured grounds, the property offers privacy, scale \u0026amp; prestige seldom found in Bergen County. Spanning approx 8,558 SF, this residence was designed for entertaining \u0026amp; everyday living. Feat 7 BRs, 8.2 BTHs, the home feat soaring ceilings, formal \u0026amp; informal gathering spaces, a chefs KIT apptd w/ Wolf \u0026amp; Sub-Zero appl \u0026amp; custom pizza oven, pvt theater, fitness ctr \u0026amp; prim suite w/spa-inspired bth. A standout feat rarely found in any luxury estate is the wellness \u0026amp; lifestyle annex, complete w/state-of-the-art hot yoga studio, full KIT, gym, covered outdoor LR \u0026amp; htd 2-car garage, creating a pvt retreat unlike any other. Resort-caliber grounds are designed to rival a pvt luxury resort, feat htd freeform gunite pool, hot tub, outdoor KIT, fire pit lounge, enclosed garden w/raised beds, covered porches \u0026amp; sprawling lawns offering endless rec, relax \u0026amp; entmt. Curated for an unparalleled lifestyle experience. Addl amenities incl 6 htd garage, whole-house generator, EV charger, radiant htd floors, intgrtd smart home tech, whole-house sound sys \u0026amp; comprehensive security. Rarely does a property of this magnitude, privacy \u0026amp; distinction become available, offering an unmatched combi of land, luxury \u0026amp; convenience just mins from NYC.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/1040x620xc.jpg",
+        "name": "Residential Tenafly",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 9500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Tenafly"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/residential-tenafly-18123231"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2831%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2830%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2829%29.jpg: HTTP 403 Forbidden"
+  ]
+};

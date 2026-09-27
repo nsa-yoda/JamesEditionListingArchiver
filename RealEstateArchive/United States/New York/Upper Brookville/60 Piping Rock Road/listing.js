@@ -1,0 +1,593 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/single-family-residence-in-upper-brookville-16980187",
+    "canonical_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/single-family-residence-in-upper-brookville-16980187",
+    "site": "jamesedition",
+    "listing_id": "16980187",
+    "listing_reference": "885874",
+    "first_listed": "Jan 22",
+    "last_updated": "July 16",
+    "retrieved_at": "2026-08-28T00:31:45.000678Z"
+  },
+  "location": {
+    "address": "60 Piping Rock Road, Upper Brookville, New York, United States",
+    "street": "60 Piping Rock Road",
+    "municipality": "Upper Brookville",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.841255,-73.575111",
+    "latitude": 40.841255,
+    "longitude": -73.575111
+  },
+  "property": {
+    "title": "Single Family Residence In Upper Brookville",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 5585000,
+      "currency": "USD",
+      "display": "$5,585,000"
+    },
+    "price_per_area": {
+      "amount": 317,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$317"
+    },
+    "bedrooms": 9,
+    "bathrooms": 12,
+    "interior_area": {
+      "value": 17587,
+      "unit": "sqft",
+      "display": "17,587 Sqft"
+    },
+    "lot_area": {
+      "value": 8.97,
+      "display": "8.97 Ac lot"
+    },
+    "year_built": 1924,
+    "photo_count": 36,
+    "description": "Welcome to GRAY HORSE FARM - Just Updated \u0026 Renovated for 2025 luxury living! Recently transformed with a gut-renovated Top of the line chef’s kitchen with new cabinets, countertops, backsplash, floor, and high-end appliances. There are six new designer bathrooms, all-new recessed lighting throughout, upgraded 800-AMP electric and utility systems. This grand estate seamlessly blends timeless elegance with modern comforts. A truly iconic Georgian estate nestled in the heart of Upper Brookville, this 17,587 square feet of total living space, this sprawling residence features 9 bedrooms, 9.555+ bathrooms, 10 wood-burning fireplaces, and exquisite architectural details, including vintage millwork, antique hand-painted wallpaper, and Samuel Yellin wrought-iron gates from the JP Morgan estate. Designed in 1924 by renowned architect James W. O’Connor and landscape architect Robert Ludlow Fowler, Gray Horse Farm is where classic architecture meets nearly 9 acres of pristine, equestrian-ready grounds. Perfectly suited for multigenerational living, the estate includes three separate guest/staff quarters (two 1-bedrooms and one 3-bedroom), offering privacy while staying connected. For those who love to entertain and enjoy the outdoors, the estate features a 20’ x 55’ heated saltwater pool with a pool house that’s fully equipped, tennis and basketball courts, and a secret meditation garden you don’t want to miss. For the car enthusiast there’s a 7-car garage. Equestrian enthusiasts will appreciate the 3-stall stable, multiple paddocks, and run-in horse shed, all designed for top-tier country living. Additional highlights include a whole-house generator, —all just 27 miles from Manhattan. Whether you’re seeking a premier equestrian retreat or an expansive generational compound, Gray Horse Farm delivers an unmatched lifestyle of luxury, privacy, and prestige. A rare offering close to top universities,marinas, beaches, golf, museums and americana shopping!",
+    "features": [
+      "Basketball Court",
+      "Elevator",
+      "Equestrian",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Gate",
+      "Kitchen island",
+      "Laundry Room",
+      "Pool",
+      "Privacy",
+      "Renovated",
+      "Tennis Court",
+      "Walk In Closet"
+    ]
+  },
+  "broker": {
+    "agent": "Compass Greater NY LLC - Manhasset",
+    "agency": "Compass Greater NY LLC - Manhasset",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/compass-greater-ny-llc-manhasset-558720",
+    "agency_address": "Manhasset, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2200xxs.jpg",
+      "file": "img-63daf7131382.webp",
+      "media_type": "image/webp",
+      "bytes": 864904,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2200xxs.jpg",
+      "file": "img-d0289c16d738.webp",
+      "media_type": "image/webp",
+      "bytes": 603014,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2200xxs.jpg",
+      "file": "img-3fc91cc1b73f.webp",
+      "media_type": "image/webp",
+      "bytes": 1168696,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2200xxs.jpg",
+      "file": "img-8a9573fff2f1.webp",
+      "media_type": "image/webp",
+      "bytes": 672056,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2200xxs.jpg",
+      "file": "img-363b83c5dfeb.webp",
+      "media_type": "image/webp",
+      "bytes": 754698,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/M00000489.png",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/873cacc0-1160-4f5e-8246-591f3dfa996f/je/2000xxs.jpg",
+      "file": "img-d746c8a0f0ff.webp",
+      "media_type": "image/webp",
+      "bytes": 597904,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/781f79bb-c2c5-4b3f-b0ac-be4a77d62016/je/2000xxs.jpg",
+      "file": "img-a3aa41255705.webp",
+      "media_type": "image/webp",
+      "bytes": 278030,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/1acc2f7b-a95c-4eac-bba1-7bc0f56474cd/je/2000xxs.jpg",
+      "file": "img-f45f454efdbe.webp",
+      "media_type": "image/webp",
+      "bytes": 208248,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/9a34e599-a599-457f-9141-90e31856b600/je/2000xxs.jpg",
+      "file": "img-fe5d2df22eae.webp",
+      "media_type": "image/webp",
+      "bytes": 168398,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/58f97aee-1e4b-4815-aa79-8e4886c26f39/je/2000xxs.jpg",
+      "file": "img-c80f2cc93995.webp",
+      "media_type": "image/webp",
+      "bytes": 190142,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/20f32abe-4724-4d77-8bf9-7dd4f4f513a7/je/2000xxs.jpg",
+      "file": "img-db4960be1dd5.webp",
+      "media_type": "image/webp",
+      "bytes": 198830,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/c353c0cf-b718-4b33-a5c3-a883c2380b91/je/2000xxs.jpg",
+      "file": "img-306b0f181632.webp",
+      "media_type": "image/webp",
+      "bytes": 220102,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/68aaa2c9-a396-4fd6-9ae7-7a9e9a5736af/je/2000xxs.jpg",
+      "file": "img-442e59f5166b.webp",
+      "media_type": "image/webp",
+      "bytes": 220896,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/48428211-4618-4864-ade0-3dc30b3821ad/je/2000xxs.jpg",
+      "file": "img-d4bca0d4ccf6.webp",
+      "media_type": "image/webp",
+      "bytes": 121812,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/c35ce4e5-9703-43a4-99c6-44335d5f9695/je/2000xxs.jpg",
+      "file": "img-e3e6537f1fac.webp",
+      "media_type": "image/webp",
+      "bytes": 110088,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9c28f901-89eb-4c6d-9304-30ef1b7f6086/je/2000xxs.jpg",
+      "file": "img-512416114438.webp",
+      "media_type": "image/webp",
+      "bytes": 185242,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/cde67dbe-1dad-4896-a8d6-096c1b320016/je/2000xxs.jpg",
+      "file": "img-619e9b5ae26e.webp",
+      "media_type": "image/webp",
+      "bytes": 254894,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/0447a6e2-cbaa-4a1b-80c6-39a3e8ab0365/je/2000xxs.jpg",
+      "file": "img-47d52fe014b7.webp",
+      "media_type": "image/webp",
+      "bytes": 78254,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/547bc715-1767-45f8-94a0-b77ba1775c79/je/2000xxs.jpg",
+      "file": "img-2645de4a7cfc.webp",
+      "media_type": "image/webp",
+      "bytes": 197686,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/93f6ad11-360c-4d81-95af-f6da6633c24d/je/2000xxs.jpg",
+      "file": "img-c934e3231b39.webp",
+      "media_type": "image/webp",
+      "bytes": 206288,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/11a612c1-b7b6-40aa-85be-6c3e85420722/je/2000xxs.jpg",
+      "file": "img-1394f80ea555.webp",
+      "media_type": "image/webp",
+      "bytes": 180984,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/cdbd57b7-8503-4875-8f8a-742e427ea57b/je/2000xxs.jpg",
+      "file": "img-969bbcd1c68a.webp",
+      "media_type": "image/webp",
+      "bytes": 126752,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/e9a6bc70-f568-4e72-a4fe-3f12b601767e/je/2000xxs.jpg",
+      "file": "img-c5938979ad48.webp",
+      "media_type": "image/webp",
+      "bytes": 221572,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/bcc5ae30-e112-4ae1-881a-fe41f1ea410e/je/2000xxs.jpg",
+      "file": "img-611a0900a981.webp",
+      "media_type": "image/webp",
+      "bytes": 70540,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/b39fc028-06c5-4fba-809f-2bdb8970df90/je/2000xxs.jpg",
+      "file": "img-1a4fe72c18ed.webp",
+      "media_type": "image/webp",
+      "bytes": 85336,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/1dc4547e-b4d1-4d68-8f38-db5585e56d4b/je/2000xxs.jpg",
+      "file": "img-18e0d3389ab9.webp",
+      "media_type": "image/webp",
+      "bytes": 189406,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f65a19c2-0e52-45bb-b3e0-9ce2696397ff/je/2000xxs.jpg",
+      "file": "img-291c05f130dd.webp",
+      "media_type": "image/webp",
+      "bytes": 95664,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9ee00eec-3d66-4c7d-b44f-ae27aecf0b54/je/2000xxs.jpg",
+      "file": "img-e9cc60681b23.webp",
+      "media_type": "image/webp",
+      "bytes": 192932,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50c522cc-fbd1-4517-897f-cd7c2af97113/je/2000xxs.jpg",
+      "file": "img-014fef55239f.webp",
+      "media_type": "image/webp",
+      "bytes": 837222,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/412bd527-cf75-4e00-870d-8bc47a13216b/je/2000xxs.jpg",
+      "file": "img-9a411e1a86c6.webp",
+      "media_type": "image/webp",
+      "bytes": 732920,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9b0b8f96-e1dc-4ebc-8447-7fefb0e10d80/je/2000xxs.jpg",
+      "file": "img-21e6df0dc0f7.webp",
+      "media_type": "image/webp",
+      "bytes": 503728,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/53b5492d-1d90-43ad-b025-de03f61d13e9/je/2000xxs.jpg",
+      "file": "img-4a2c5060e77b.webp",
+      "media_type": "image/webp",
+      "bytes": 464264,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/d020e47b-665a-4c1a-b8d0-340c8b127a7b/je/2000xxs.jpg",
+      "file": "img-d4a9c5ceba67.webp",
+      "media_type": "image/webp",
+      "bytes": 608514,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/7685f204-d4ff-4a26-8772-5c3247f0dc9d/je/2000xxs.jpg",
+      "file": "img-715a6f721aa1.webp",
+      "media_type": "image/webp",
+      "bytes": 1127608,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/12402450-2d5f-49b8-b628-1e620951becd/je/2000xxs.jpg",
+      "file": "img-52b63499af3e.webp",
+      "media_type": "image/webp",
+      "bytes": 823270,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/a00767b6-b5a3-4126-be42-7233c9edb3a1/je/2000xxs.jpg",
+      "file": "img-af64f3d395a1.webp",
+      "media_type": "image/webp",
+      "bytes": 1003544,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/oyster-bay-ny-usa",
+              "name": "Oyster Bay"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa",
+              "name": "Upper Brookville"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/single-family-residence-in-upper-brookville-16980187",
+              "name": "Single Family Residence in Upper Brookville"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Welcome to GRAY HORSE FARM - Just Updated \u0026amp; Renovated for 2025 luxury living! Recently transformed with a gut-renovated Top of the line chef's kitchen with new cabinets, countertops, backsplash, floor, and  high-end appliances. There are six new designer bathrooms, all-new recessed lighting throughout, upgraded 800-AMP electric and utility systems. This grand estate seamlessly blends timeless elegance with modern comforts. A truly iconic Georgian estate nestled in the heart of Upper Brookville, this 17,587 square feet of total living space, this sprawling residence features 9 bedrooms, 9.555+ bathrooms, 10 wood-burning fireplaces, and exquisite architectural details, including vintage millwork, antique hand-painted wallpaper, and Samuel Yellin wrought-iron gates from the JP Morgan estate. Designed in 1924 by renowned architect James W. O’Connor and landscape architect Robert Ludlow Fowler, Gray Horse Farm is where classic architecture meets nearly 9 acres of pristine, equestrian-ready grounds. Perfectly suited for multigenerational living, the estate includes three separate guest/staff quarters (two 1-bedrooms and one 3-bedroom), offering privacy while staying connected. For those who love to entertain and enjoy the outdoors, the estate features a 20' x 55' heated saltwater pool with a pool house that's fully equipped, tennis and basketball courts, and a secret meditation garden you don't want to miss. For the car enthusiast there's a 7-car garage. Equestrian enthusiasts will appreciate the 3-stall stable, multiple paddocks, and run-in horse shed, all designed for top-tier country living. Additional highlights include a whole-house generator, —all just 27 miles from Manhattan. Whether you're seeking a premier equestrian retreat or an expansive generational compound, Gray Horse Farm delivers an unmatched lifestyle of luxury, privacy, and prestige. A rare offering close to top universities,marinas, beaches, golf, museums and americana shopping!",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Upper Brookville",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 5585000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Compass Greater NY LLC - Manhasset"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/single-family-residence-in-upper-brookville-16980187"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/M00000489.png: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/160x120xc.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/2200xxs.jpg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+};

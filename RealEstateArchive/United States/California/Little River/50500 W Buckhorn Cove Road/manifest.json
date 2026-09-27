@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/stillwell-point-11044164",
+    "canonical_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/stillwell-point-11044164",
+    "site": "jamesedition",
+    "listing_id": "11044164",
+    "listing_reference": "WZB9W6",
+    "first_listed": "Jul 17, 2020",
+    "retrieved_at": "2026-06-19T08:42:28.704292Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1453,
+      "sha256": "79587be4722b744678ac3893f6decd843c8ac909ff03069543ed9b33d7966d1b"
+    },
+    {
+      "path": "images/img-06a02698aa73.webp",
+      "bytes": 685496,
+      "sha256": "75b5cafa01599fe9043d4861029c00db58dcd4ab52bd7898784a739959766376"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-2d79b3db7e57.webp",
+      "bytes": 544300,
+      "sha256": "d053bd2933f229ce17f93f5cc658fe423b6f1cd8758b1d13701a4183cbf27236"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-4489d61347be.webp",
+      "bytes": 756344,
+      "sha256": "fc5f0ee885eb85fafb1d2df9eb489018144f7c0e237587dcbf250069ae7248e3"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5c251a9f85c4.webp",
+      "bytes": 583886,
+      "sha256": "d151d41d4f0e19e154b85ba5bece722af95bee16ca8ed030339b12ba47104673"
+    },
+    {
+      "path": "images/img-67f7427fdc16.webp",
+      "bytes": 1010160,
+      "sha256": "dffabd68ff43948e4b8ddf2ad903498d918c85849d59c7734e10aef221d3b49f"
+    },
+    {
+      "path": "images/img-7010018e06d8.webp",
+      "bytes": 646006,
+      "sha256": "7d3ec36ad946cb2b1e84ed725d3d4558ab6c28ca2ec2d99e37c67bc2ee0257ea"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 14928,
+      "sha256": "d52d96a792a1bbaa2a64b3dd066c21158dd5e040452add452f666b3bf10433a5"
+    },
+    {
+      "path": "source.html",
+      "bytes": 501588,
+      "sha256": "2fcf5c75e9d3b26d46937452fdfd20beec4cbd6ba3af6e8f4a3415888b57d234"
+    },
+    {
+      "path": "source.url",
+      "bytes": 86,
+      "sha256": "2f66250be4ab99a568f9f78e1b571714d917612d7f2c67c7c6e0cad79ba4f5e1"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/2200xxs.jpg",
+      "path": "images/img-4489d61347be.webp",
+      "media_type": "image/webp",
+      "bytes": 756344,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/2200xxs.jpg",
+      "path": "images/img-67f7427fdc16.webp",
+      "media_type": "image/webp",
+      "bytes": 1010160,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/2200xxs.jpg",
+      "path": "images/img-7010018e06d8.webp",
+      "media_type": "image/webp",
+      "bytes": 646006,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/2200xxs.jpg",
+      "path": "images/img-06a02698aa73.webp",
+      "media_type": "image/webp",
+      "bytes": 685496,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/2200xxs.jpg",
+      "path": "images/img-2d79b3db7e57.webp",
+      "media_type": "image/webp",
+      "bytes": 544300,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/005a1b0b-d50d-4696-ac3f-987a2a83833b/je/2000xxs.jpg",
+      "path": "images/img-5c251a9f85c4.webp",
+      "media_type": "image/webp",
+      "bytes": 583886,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/2200xxsxm%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 10,
+    "images_existing": 0,
+    "images_failed": 9,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

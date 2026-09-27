@@ -1,0 +1,367 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/loch-lane-18055633",
+    "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/loch-lane-18055633",
+    "site": "jamesedition",
+    "listing_id": "18055633",
+    "listing_reference": "VFCCSR",
+    "first_listed": "Jun 1",
+    "last_updated": "July 13",
+    "retrieved_at": "2026-08-28T00:29:16.044475Z"
+  },
+  "location": {
+    "address": "7 Loch Lane , Greenwich, CT 06830, Connecticut, United States",
+    "street": "7 Loch Lane",
+    "municipality": "Greenwich",
+    "region": "Connecticut",
+    "postal_code": "06830",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.091968,-73.6345123",
+    "latitude": 41.091968,
+    "longitude": -73.6345123
+  },
+  "property": {
+    "title": "Loch Lane",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 13495000,
+      "currency": "USD",
+      "display": "$13,495,000"
+    },
+    "price_per_area": {
+      "amount": 1186,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,186"
+    },
+    "bedrooms": 6,
+    "bathrooms": 10,
+    "interior_area": {
+      "value": 11373,
+      "unit": "sqft",
+      "display": "11,373 Sqft"
+    },
+    "lot_area": {
+      "value": 3.22,
+      "display": "3.22 Ac lot"
+    },
+    "year_built": 2010,
+    "photo_count": 57,
+    "video_url": "https://players.brightcove.net/5782886755001/rJlOfaQNgQ_default/index.html?videoId=ref:sir_listings_733386fc-c530-4738-bef7-7cf7ded0d3e5\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "Privately tucked away at the end of a tranquil lane in prestigious Mid-Country Greenwich, this custom-built stone manor is a rare offering of timeless architecture, exceptional craftsmanship, and resort-like amenities. Encompassing more than 11,373 square feet and set upon 3.2 exquisitely landscaped level acres, the estate is surrounded by sweeping lawns, mature specimen plantings, and beautifully curated gardens that create an atmosphere of complete serenity and privacy. Designed for both grand-scale entertaining and comfortable family living, the residence features six bedrooms, eight bathrooms, and elegant interiors defined by high ceilings, abundant natural light, and refined architectural detailing. The main level boasts impressive 11-foot ceilings, gracious formal and informal rooms, a gourmet kitchen and oversized windows framing picturesque views of the grounds, pool, pool house and cottage with kitchen. The second floor, with 10-foot ceilings, is highlighted by an extraordinary primary suite offering a private sitting room, dual spa-inspired bathrooms, and two generous walk-in dressing rooms and a home office. Four additional en-suite bedrooms and a spacious laundry room complete this level.The thoughtfully designed lower level provides exceptional recreational and lifestyle spaces, including a guest bedroom and bathroom, family room, media room, fitness center, powder room, and additional space perfectly suited for the creation of a world-class wine cellar.The estate’s outdoor amenities rival those of a private resort. A charming stone pool house with soaring ceilings, a fireplace, inviting living and dining areas, a kitchenette, changing room, and a full bathroom overlooks the spectacular 30’ x 60’ swimming pool and spa.Completing the compound is a beautifully appointed 1,500-square-foot guest house with two bedrooms, one full and one half bathroom, living room with fireplace, dining area, kitchen, office and an attached two-car garage, providing luxurious accommodations for extended family and guests.Offering an unparalleled combination of privacy, scale, and sophistication in one of Greenwich’s most coveted locations, this exceptional estate represents the very best of country estate living just moments from town, schools, and commuter access.",
+    "features": [
+      "Air Conditioning",
+      "Bar",
+      "Basement",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Laundry Room",
+      "Library",
+      "Office",
+      "Pool",
+      "Privacy",
+      "Terrace",
+      "Walk In Closet",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Leslie McElwreath",
+    "agent_profile_url": "https://www.jamesedition.com/agents/leslie-mcelwreath-84078",
+    "agency": "Sotheby's International Realty - Greenwich Brokerage",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/sotheby-s-international-realty-greenwich-brokerage-10816",
+    "agency_address": "One Pickwick Plaza, 06830, Greenwich, Connecticut, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/2200xxs.jpg",
+      "file": "img-ee8eb04dacad.webp",
+      "media_type": "image/webp",
+      "bytes": 677704,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/7a24839a-50ac-46bc-a637-33788aa6b982/je/2200xxs.jpg",
+      "file": "img-8667d7ed2323.webp",
+      "media_type": "image/webp",
+      "bytes": 1335930,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/ec2a47f2-1743-4034-98b9-ab4bf3c6b847/je/2200xxs.jpg",
+      "file": "img-c294627d1ae6.webp",
+      "media_type": "image/webp",
+      "bytes": 150848,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/272e1b20-4a22-40fa-8f25-b3ec39d45392/je/2200xxs.jpg",
+      "file": "img-1b9c4fb79274.webp",
+      "media_type": "image/webp",
+      "bytes": 114742,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/9f08dff7-0630-4cae-929a-097535f73d7b/je/2200xxs.jpg",
+      "file": "img-e3a0d4f6789e.webp",
+      "media_type": "image/webp",
+      "bytes": 168662,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/07/02/13/01/08/5d76bb78-005d-4d38-a96e-a37952a21830/je/80x80xc.jpg",
+      "file": "img-802a63e545f9.webp",
+      "media_type": "image/webp",
+      "bytes": 1122,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ct-united-states",
+              "name": "Connecticut"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/greenwich-ct-usa",
+              "name": "Greenwich"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/loch-lane-18055633",
+              "name": "Loch Lane"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Privately tucked away at the end of a tranquil lane in prestigious Mid-Country Greenwich, this custom-built stone manor is a rare offering of timeless architecture, exceptional craftsmanship, and resort-like amenities. Encompassing more than 11,373 square feet and set upon 3.2 exquisitely landscaped level acres, the estate is surrounded by sweeping lawns, mature specimen plantings, and beautifully curated gardens that create an atmosphere of complete serenity and privacy.\u0026nbsp;Designed for both grand-scale entertaining and comfortable family living, the residence features six bedrooms, eight bathrooms, and elegant interiors defined by high ceilings, abundant natural light, and refined architectural detailing. The main level boasts impressive 11-foot ceilings, gracious formal and informal rooms, a gourmet kitchen and oversized windows framing picturesque views of the grounds, pool, pool house and cottage with kitchen. The second floor, with 10-foot ceilings, is highlighted by an extraordinary primary suite offering a private sitting room, dual spa-inspired bathrooms, and two generous walk-in dressing rooms and a home office. Four additional en-suite bedrooms and a spacious laundry room complete this level.The thoughtfully designed lower level provides exceptional recreational and lifestyle spaces, including a guest bedroom and bathroom, family room, media room, fitness center, powder room, and additional space perfectly suited for the creation of a world-class wine cellar.The estate's outdoor amenities rival those of a private resort. A charming stone pool house with soaring ceilings, a fireplace, inviting living and dining areas, a kitchenette, changing room, and a full bathroom overlooks the spectacular 30' x 60' swimming pool and spa.Completing the compound is a beautifully appointed 1,500-square-foot guest house with two bedrooms, one full and one half bathroom, living room with fireplace, dining area, kitchen, office and an attached two-car garage, providing luxurious accommodations for extended family and guests.Offering an unparalleled combination of privacy, scale, and sophistication in one of Greenwich's most coveted locations, this exceptional estate represents the very best of country estate living just moments from town, schools, and commuter access.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/1040x620xc.jpg",
+        "name": "Loch Lane",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 13495000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Sotheby's International Realty - Greenwich Brokerage"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/loch-lane-18055633"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+}

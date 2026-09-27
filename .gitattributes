@@ -1,0 +1,17 @@
+# Keep archive binaries and preserved source pages out of ordinary Git packs.
+JamesEdition/**/*.html filter=lfs diff=lfs merge=lfs -text
+JamesEdition/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+JamesEdition/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+JamesEdition/**/*.png filter=lfs diff=lfs merge=lfs -text
+JamesEdition/**/*.webp filter=lfs diff=lfs merge=lfs -text
+JamesEdition/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+JamesEdition/**/*.webm filter=lfs diff=lfs merge=lfs -text
+JamesEdition/**/*.mkv filter=lfs diff=lfs merge=lfs -text
+RealEstateArchive/**/source.html filter=lfs diff=lfs merge=lfs -text
+RealEstateArchive/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+RealEstateArchive/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+RealEstateArchive/**/*.png filter=lfs diff=lfs merge=lfs -text
+RealEstateArchive/**/*.webp filter=lfs diff=lfs merge=lfs -text
+RealEstateArchive/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+RealEstateArchive/**/*.webm filter=lfs diff=lfs merge=lfs -text
+RealEstateArchive/**/*.mkv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/North Carolina/Vass",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "0000 Long Point Island",
+      "href": "0000%20Long%20Point%20Island/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

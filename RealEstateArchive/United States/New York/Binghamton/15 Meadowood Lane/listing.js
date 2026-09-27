@@ -1,0 +1,538 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15-meadowood-lane-17546891",
+    "canonical_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15-meadowood-lane-17546891",
+    "site": "jamesedition",
+    "listing_id": "17546891",
+    "listing_reference": "225245",
+    "first_listed": "Apr 2",
+    "last_updated": "April 25",
+    "retrieved_at": "2026-06-18T07:05:31.29335Z"
+  },
+  "location": {
+    "address": "15 Meadowood Lane, Binghamton, New York, United States",
+    "street": "15 Meadowood Lane",
+    "municipality": "Binghamton",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=42.1829504,-75.8619114",
+    "latitude": 42.1829504,
+    "longitude": -75.8619114
+  },
+  "property": {
+    "title": "15 Meadowood Lane",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 12950000,
+      "currency": "USD",
+      "display": "$12,950,000"
+    },
+    "price_per_area": {
+      "amount": 296542,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$296,542"
+    },
+    "bedrooms": 10,
+    "bathrooms": 8,
+    "interior_area": {
+      "value": 44,
+      "unit": "sqft",
+      "display": "44 Sqft"
+    },
+    "photo_count": 36,
+    "video_url": "https://www.youtube.com/embed/3hh5ViOPYUs?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=3hh5ViOPYUs\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "In a world where privacy and security have become increasingly valued, this estate offers a rare opportunity to retreat to a secluded and protected setting, far removed from the density and unpredictability of major metropolitan areas. Perfectly positioned just 175 miles from New York City, approximately a 3-hour drive or a brief 48-minute flight from JFK, the property offers both escape and accessibility. Nearby regional airports accommodate private and charter aircraft, ensuring seamless travel for owners and guests. Set across 43 acres of extraordinary privacy, this three-story mountaintop estate offers awe-inspiring panoramic views and an unparalleled collection of luxury amenities. The estate is thoughtfully composed of five distinct buildings, including the main residence, estate manager’s house, carriage house, barn, and pool house, each positioned to support refined living, guest accommodations, and seamless estate operations. Across the estate, there are 10 bedrooms, 15 bathrooms, 7 fireplaces, 14 garage bays, and over 30,0000 square feet of living space. Resort-level amenities include a tennis court, swimming pool, outdoor heated spa, mature orchards, private vineyards, and an enchanting secret garden that creates a magical setting. The home at 15 Meadowood Lane is designed in a neo-classical style. Its architectural vision draws from early Southern American and European classical precedents. The estate incorporates traditional elements like symmetrical layouts, classical columns, pediments, and historic detailing. These inspirations evoke the architectural traditions of the 18th and early 19th centuries (1780–1820), reflecting a timeless, elegant estate rooted in classical tradition. The property consists of three tax parcels and reflects all structures, residences, and amenities of the entire estate. Based on current high-end construction standards, the estimated replacement cost of the improvements alone may exceed $53 million, highlighting the exceptional value of this offering. Priced at $12,950,000, representing approximately $425 per square foot. An irreplaceable opportunity of rare scale, privacy, and distinction.",
+    "features": [
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Panoramic / Scenic View",
+      "Pool",
+      "Privacy",
+      "Tennis Court"
+    ]
+  },
+  "broker": {
+    "agent": "Michael DeRosa and Kelli Ide -",
+    "agency": "Michael DeRosa and Kelli Ide - MICHAEL DEROSA EXCHANGE",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/michael-derosa-and-kelli-ide-michael-derosa-exchange-144258",
+    "agency_address": "10111, New York, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/2200xxs.jpg",
+      "file": "004-43e8aa8d.webp",
+      "media_type": "image/webp",
+      "bytes": 112764,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/2200xxs.jpg",
+      "file": "009-1279c675.webp",
+      "media_type": "image/webp",
+      "bytes": 137016,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/2200xxs.jpg",
+      "file": "014-bc64a017.webp",
+      "media_type": "image/webp",
+      "bytes": 111284,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/2200xxs.jpg",
+      "file": "019-e260a325.webp",
+      "media_type": "image/webp",
+      "bytes": 209738,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/2200xxs.jpg",
+      "file": "024-8396ba47.webp",
+      "media_type": "image/webp",
+      "bytes": 116524,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/191e46f1-be47-4436-97cd-89234364674d/je/2000xxs.jpg",
+      "file": "034-3a886be9.webp",
+      "media_type": "image/webp",
+      "bytes": 240926,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/1114a710-cda5-4f2e-95e8-121a9068e624/je/2000xxs.jpg",
+      "file": "035-898fe434.webp",
+      "media_type": "image/webp",
+      "bytes": 242998,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/cedc4a42-80a7-4558-ba96-daf0e18e4b35/je/2000xxs.jpg",
+      "file": "036-d8863058.webp",
+      "media_type": "image/webp",
+      "bytes": 193448,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/7ccc8f2d-471d-4439-a476-dc27aee9ba1d/je/2000xxs.jpg",
+      "file": "037-2bbbe240.webp",
+      "media_type": "image/webp",
+      "bytes": 214046,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/e11069fd-9db1-47fb-88fe-99c6a41feb41/je/2000xxs.jpg",
+      "file": "038-4b5cd83a.webp",
+      "media_type": "image/webp",
+      "bytes": 188728,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/9ead4be6-bd3b-4f5e-93ef-4583c01f7b77/je/2000xxs.jpg",
+      "file": "039-d3c29439.webp",
+      "media_type": "image/webp",
+      "bytes": 126666,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/3579c17b-ccac-40d3-b4eb-b58f6153c612/je/2000xxs.jpg",
+      "file": "040-24e4370d.webp",
+      "media_type": "image/webp",
+      "bytes": 241422,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/bfae47c1-77aa-4d9e-a921-b8d00dd2a274/je/2000xxs.jpg",
+      "file": "041-7f4e9668.webp",
+      "media_type": "image/webp",
+      "bytes": 148346,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/6a987537-ce84-4742-bcb3-3387629029d5/je/2000xxs.jpg",
+      "file": "042-2b255c5c.webp",
+      "media_type": "image/webp",
+      "bytes": 136220,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/33e437e9-a0bb-404a-b282-35dea659f5ef/je/2000xxs.jpg",
+      "file": "043-3bc2f2d8.webp",
+      "media_type": "image/webp",
+      "bytes": 144740,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/14f19ee9-0cc1-4465-8260-5798271ce648/je/2000xxs.jpg",
+      "file": "044-a5453e24.webp",
+      "media_type": "image/webp",
+      "bytes": 166124,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/9078d41c-0cb9-499c-9a2a-7aa5baa4a6b6/je/2000xxs.jpg",
+      "file": "045-15871725.webp",
+      "media_type": "image/webp",
+      "bytes": 192284,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/39b045fe-ddf9-4e32-aba8-aa606e282186/je/2000xxs.jpg",
+      "file": "046-1e61564e.webp",
+      "media_type": "image/webp",
+      "bytes": 311096,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/47b71037-9ab5-42ec-a8d5-d729920fb28f/je/2000xxs.jpg",
+      "file": "047-2e40700b.webp",
+      "media_type": "image/webp",
+      "bytes": 182936,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b9e51525-f58f-44c3-9402-6a79869305f8/je/2000xxs.jpg",
+      "file": "048-2e547252.webp",
+      "media_type": "image/webp",
+      "bytes": 175964,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/79936d8a-d5d6-41e8-803a-72cff95c61fa/je/2000xxs.jpg",
+      "file": "049-dafed170.webp",
+      "media_type": "image/webp",
+      "bytes": 190546,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/1a3d432d-77f8-4b7d-b692-eb50132fef1d/je/2000xxs.jpg",
+      "file": "050-6733062d.webp",
+      "media_type": "image/webp",
+      "bytes": 155102,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/9712e287-34b7-4bff-9432-82248a73e306/je/2000xxs.jpg",
+      "file": "051-334db774.webp",
+      "media_type": "image/webp",
+      "bytes": 193824,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b68ddfb1-f731-4025-af37-d8916a46b0eb/je/2000xxs.jpg",
+      "file": "052-a5dc9a35.webp",
+      "media_type": "image/webp",
+      "bytes": 133376,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/83141489-0361-4085-a898-ef9b8d67a817/je/2000xxs.jpg",
+      "file": "053-bd70c26f.webp",
+      "media_type": "image/webp",
+      "bytes": 126136,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/bb0c7a09-6612-4aeb-bb09-35ae0750f3f3/je/2000xxs.jpg",
+      "file": "054-d2ff35ce.webp",
+      "media_type": "image/webp",
+      "bytes": 172078,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/5d5eb171-8940-47ed-90e5-e8aa3773770c/je/2000xxs.jpg",
+      "file": "055-2f31756f.webp",
+      "media_type": "image/webp",
+      "bytes": 149222,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/924e5718-9de9-4de9-a64d-d52cd1297781/je/2000xxs.jpg",
+      "file": "056-6e227635.webp",
+      "media_type": "image/webp",
+      "bytes": 148782,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/33c753ae-1d19-48ae-a725-65c5a7668e18/je/2000xxs.jpg",
+      "file": "057-bbb3bc59.webp",
+      "media_type": "image/webp",
+      "bytes": 129568,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/372053bc-b7f8-4ade-9bd6-6af313bec35f/je/2000xxs.jpg",
+      "file": "058-314a746a.webp",
+      "media_type": "image/webp",
+      "bytes": 111960,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/e8210b66-c40f-41f5-bfbc-3fa463661eca/je/2000xxs.jpg",
+      "file": "059-76366b85.webp",
+      "media_type": "image/webp",
+      "bytes": 74990,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f3347825-5557-4495-986d-67aedbe6faef/je/2000xxs.jpg",
+      "file": "060-f3c8bdd2.webp",
+      "media_type": "image/webp",
+      "bytes": 154554,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/62b9947c-afcb-4fa2-8d96-cae38a5c3cbe/je/2000xxs.jpg",
+      "file": "061-a6a1b56e.webp",
+      "media_type": "image/webp",
+      "bytes": 74474,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/0cab2cb5-d270-4dce-9199-1868ba213f93/je/2000xxs.jpg",
+      "file": "062-3aadc687.webp",
+      "media_type": "image/webp",
+      "bytes": 88062,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/edd4f55d-7a54-4142-abcf-5a5e2f82d4b7/je/2000xxs.jpg",
+      "file": "063-1be1b699.webp",
+      "media_type": "image/webp",
+      "bytes": 92408,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/238cffcb-645b-412b-bcb8-fd7cb0ff0a9c/je/2000xxs.jpg",
+      "file": "064-cd4b4401.webp",
+      "media_type": "image/webp",
+      "bytes": 267618,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/2200xxs%2835%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/2200xxs%2834%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "068-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "069-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "070-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "071-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/binghamton-ny-usa",
+              "name": "Binghamton"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15-meadowood-lane-17546891",
+              "name": "15 Meadowood Lane"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "In a world where privacy and security have become increasingly valued, this estate offers a rare opportunity to retreat to a secluded and protected setting, far removed from the density and unpredictability of major metropolitan areas. Perfectly positioned just 175 miles from New York City, approximately a 3-hour drive or a brief 48-minute flight from JFK, the property offers both escape and accessibility. Nearby regional airports accommodate private and charter aircraft, ensuring seamless travel for owners and guests. Set across 43 acres of extraordinary privacy, this three-story mountaintop estate offers awe-inspiring panoramic views and an unparalleled collection of luxury amenities. The estate is thoughtfully composed of five distinct buildings, including the main residence, estate manager's house, carriage house, barn, and pool house, each positioned to support refined living, guest accommodations, and seamless estate operations. Across the estate, there are 10 bedrooms, 15 bathrooms, 7 fireplaces, 14 garage bays, and over 30,0000 square feet of living space. Resort-level amenities include a tennis court, swimming pool, outdoor heated spa, mature orchards, private vineyards, and an enchanting secret garden that creates a magical setting. The home at 15 Meadowood Lane is designed in a neo-classical style. Its architectural vision draws from early Southern American and European classical precedents. The estate incorporates traditional elements like symmetrical layouts, classical columns, pediments, and historic detailing. These inspirations evoke the architectural traditions of the 18th and early 19th centuries (1780–1820), reflecting a timeless, elegant estate rooted in classical tradition. The property consists of three tax parcels and reflects all structures, residences, and amenities of the entire estate. Based on current high-end construction standards, the estimated replacement cost of the improvements alone may exceed $53 million, highlighting the exceptional value of this offering. Priced at $12,950,000, representing approximately $425 per square foot. An irreplaceable opportunity of rare scale, privacy, and distinction.",
+        "image": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/1040x620xc.jpg",
+        "name": "15 Meadowood Lane",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 12950000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Michael DeRosa and Kelli Ide - MICHAEL DEROSA EXCHANGE"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15-meadowood-lane-17546891"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/2200xxs%2835%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/2200xxs%2834%29.jpg: HTTP 403 Forbidden"
+  ]
+};

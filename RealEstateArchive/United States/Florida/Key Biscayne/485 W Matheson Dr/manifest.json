@@ -1,0 +1,1231 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5-bedrooms-single-family-detached-17843171",
+    "canonical_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5-bedrooms-single-family-detached-17843171",
+    "site": "jamesedition",
+    "listing_id": "17843171",
+    "listing_reference": "4w3ryw",
+    "first_listed": "May 5",
+    "last_updated": "May 6",
+    "retrieved_at": "2026-06-19T08:17:55.271981Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2801,
+      "sha256": "b052d279c7880d40d161dd74ec08024746c6d4d02af29675927c9bfbbd64fd30"
+    },
+    {
+      "path": "images/img-0233ddcb8fa6.webp",
+      "bytes": 356036,
+      "sha256": "373c576c0f6bd341a085f61b8e1a8fd3cdbee6b3dc77ff2c401affff610c4824"
+    },
+    {
+      "path": "images/img-043bcb600e4e.webp",
+      "bytes": 154260,
+      "sha256": "9fdb79e9f47a8362c37dbbe474849af053a373f39bbcde70f98275f271755fd2"
+    },
+    {
+      "path": "images/img-04dd1f440074.webp",
+      "bytes": 258128,
+      "sha256": "aea5d751d74cffe93745f52c979142ef8ed53944a7e0ee0c5524c8ee57f4e70e"
+    },
+    {
+      "path": "images/img-05ba4bb5db5e.webp",
+      "bytes": 216366,
+      "sha256": "c3ce7a7ba05890af37d7895f525da35d192b078fcb4f6fd0d3f0bbc77d9e9136"
+    },
+    {
+      "path": "images/img-0757163e06f0.webp",
+      "bytes": 137610,
+      "sha256": "1788a6b721c600ddaccafbbb84d4e9cf8cd44f926b14f9236b3059ff25a8ac2f"
+    },
+    {
+      "path": "images/img-078c42bb1721.webp",
+      "bytes": 141526,
+      "sha256": "0dfcce2a5289e45521fe02aaaf521bf9b396b5dd3489dd61e0400a8c25f10111"
+    },
+    {
+      "path": "images/img-0bc015f521c0.webp",
+      "bytes": 132006,
+      "sha256": "cf0a4dadd1f34d852b386552cec3627537aa1df2a5a0ff6ffc212162c84dd2ba"
+    },
+    {
+      "path": "images/img-0d00784418ca.webp",
+      "bytes": 252688,
+      "sha256": "aeaffdff5bcb4c379ad340d3bfeb35e97749e7e08b6946ff1d99535cf31bd1b3"
+    },
+    {
+      "path": "images/img-0db2fa7c1c90.webp",
+      "bytes": 299258,
+      "sha256": "4833b6a8a4399fc8181da7ec6a80b05f2b6e38159cf900b461773f83b71e2df7"
+    },
+    {
+      "path": "images/img-0e72321c6e32.webp",
+      "bytes": 187116,
+      "sha256": "1e9c450058e1fbf6ba1c92f6f859d0530ca77506c4919480e2deb73d459c5010"
+    },
+    {
+      "path": "images/img-0ef256791294.webp",
+      "bytes": 212088,
+      "sha256": "1c35896e8b5cb3f56da163c6855b51ce78614e30ea993f8fc048acbd3adeb607"
+    },
+    {
+      "path": "images/img-106487a8001d.webp",
+      "bytes": 196882,
+      "sha256": "0927ec92f24da4f2b5a6bc0e689e9fc818fe5836d0b023593c9606fafec74705"
+    },
+    {
+      "path": "images/img-134990d92e68.webp",
+      "bytes": 313298,
+      "sha256": "476e4d90718c54cd86044feadfc8ba1191ebe8a6cec82ee2167f631f3745eee9"
+    },
+    {
+      "path": "images/img-1526001a836c.webp",
+      "bytes": 364054,
+      "sha256": "0d0fb80c8f6ed0c052811819b82c53db1e8bddc40571059afb5aabb05840f0af"
+    },
+    {
+      "path": "images/img-18c1f292025f.webp",
+      "bytes": 275046,
+      "sha256": "6af2ba00808d2f98acb6529fadc5bfc34ab57af77149fae1771cc5c1d9fc3536"
+    },
+    {
+      "path": "images/img-2397ae30fa2c.webp",
+      "bytes": 171990,
+      "sha256": "0e8bff4b8eedac17bf672cb32d7f4c6c43aa3c71b8b9e11c0fd09e4448e7e33f"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-28fc1853a183.webp",
+      "bytes": 403390,
+      "sha256": "4a8c72dd3d410a80d9bd510afe31276fd60aa8cdd6b068fe600ad26b1b204f70"
+    },
+    {
+      "path": "images/img-2a844d7d9ece.webp",
+      "bytes": 207204,
+      "sha256": "544da9b7881e1f33f9807562bee79a2779b2427577428235135c472fe617ef5b"
+    },
+    {
+      "path": "images/img-2f1cd22b53c2.webp",
+      "bytes": 150308,
+      "sha256": "6779572a3dcac55eecea6adf261b46b72b9fe0ccb99bd899042121b63cddc0f2"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-4073c693bde7.webp",
+      "bytes": 276448,
+      "sha256": "8335951bb6934cb113703c67133b9477163ea8bec57a53baaac5950819029939"
+    },
+    {
+      "path": "images/img-4465d1a9a5dc.webp",
+      "bytes": 160460,
+      "sha256": "bb426c31dd7913afa76888356cd1d5b4d80db838daa24365bd15a421211ccec0"
+    },
+    {
+      "path": "images/img-4c8e1ec295f8.webp",
+      "bytes": 230480,
+      "sha256": "dbed91f8ec52ae972f82caa5436e0045064ac9261976b1d5c328242dd53472d2"
+    },
+    {
+      "path": "images/img-4d0198fe31d8.webp",
+      "bytes": 203834,
+      "sha256": "63952cdf5354110b0f1821f631a6c478ee82cec05603be57ad677efec88a429a"
+    },
+    {
+      "path": "images/img-4ef3a395cf6b.webp",
+      "bytes": 273630,
+      "sha256": "638c1379c623d2228d54c6b909bcce644d7dd5d2ffd170a1391364ff31a0cfa7"
+    },
+    {
+      "path": "images/img-523fde90d7b2.webp",
+      "bytes": 170200,
+      "sha256": "20cbfc9bd01a22fc50b5b7461fd3dc0ebd9194fab99d44470d4cfcc9be109ab8"
+    },
+    {
+      "path": "images/img-5546320aaa5a.webp",
+      "bytes": 339220,
+      "sha256": "55bb855356c4bcc06cad3710bb5086b5cab1220b618e1c0f4d1f83aa4cbced1e"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-62391d9ba297.webp",
+      "bytes": 118108,
+      "sha256": "b4c23c644f5d7b968d2bd10d6aefab26aba4d0a47bf8d278577e37fe1ecc7d14"
+    },
+    {
+      "path": "images/img-64d5aa2edf7d.webp",
+      "bytes": 141554,
+      "sha256": "103209b8d54e78f071561015a5c304bb19c0a99fd98669d3dfb0e3d52d4eb07a"
+    },
+    {
+      "path": "images/img-65c25101c7df.webp",
+      "bytes": 71802,
+      "sha256": "9a0053ce6fb6ab3bca11a1da389282540080d25bd585b72be9284465551c2d4a"
+    },
+    {
+      "path": "images/img-65fdbc97c424.webp",
+      "bytes": 112262,
+      "sha256": "527cfbef95613abbb279dcea352a5712d729dc63a6a2fba2321b324e5931e761"
+    },
+    {
+      "path": "images/img-6813d2891bdf.webp",
+      "bytes": 162926,
+      "sha256": "146c422bbe50b69f0c6b23cd575221f3db5a4cdfaed9ebfce187a1354678d1bb"
+    },
+    {
+      "path": "images/img-6913269be1d0.webp",
+      "bytes": 143278,
+      "sha256": "df406c31212ec75ad0d61f609330c498c263369ef659e0a01d65cf986ef50099"
+    },
+    {
+      "path": "images/img-693c4b824d36.webp",
+      "bytes": 136886,
+      "sha256": "a8fc564b55d0f3ac8e666ed4fcabf0034c39d49c511277c10441a9bd1ca1a13c"
+    },
+    {
+      "path": "images/img-6a17a91276b4.webp",
+      "bytes": 286374,
+      "sha256": "18f18e3975762902a5e070a77b791e3dc8befe2c8e6a7ee3a215e0b93fca35bf"
+    },
+    {
+      "path": "images/img-72ffa807918b.webp",
+      "bytes": 244356,
+      "sha256": "4daff60c854588b4f64047c60f3c3b0b8182707f85cc4cf2109eaa60ffc3eb7e"
+    },
+    {
+      "path": "images/img-763cf71a888b.webp",
+      "bytes": 313216,
+      "sha256": "cbdaf51b9964f7aa742f030fc0eb9b4c3bc46e100293b8debbf109a4f371928c"
+    },
+    {
+      "path": "images/img-76ad43913ee8.webp",
+      "bytes": 113924,
+      "sha256": "d871a5d847def2f0018f10e960f96adfac5a41ee065206e95f2e244855b1971b"
+    },
+    {
+      "path": "images/img-776a96ca6eef.webp",
+      "bytes": 156106,
+      "sha256": "3d0b3f10be2a69dd1d4d1117e6a79543e7d27456057dc1c08a24d15de0e0fe3e"
+    },
+    {
+      "path": "images/img-77eb801e3645.webp",
+      "bytes": 219870,
+      "sha256": "0bb9b427f23044b31d93f3116d6cd21d514cf452c24db2ad421a201c71e01340"
+    },
+    {
+      "path": "images/img-78da09fac71a.webp",
+      "bytes": 267624,
+      "sha256": "1f890b7c8077778c46e316ae38ad3f604bceda120b5d5533346b79973e77e626"
+    },
+    {
+      "path": "images/img-7c3f9742ef53.webp",
+      "bytes": 192474,
+      "sha256": "a01fa004b0d9d0fc3e84bd106be8db24be81e85c415f6d5749b43d1843c946ab"
+    },
+    {
+      "path": "images/img-81275322ce3d.webp",
+      "bytes": 170146,
+      "sha256": "75dcc528f1792f3b61402b72d976f8501b8df077041f235da9b3b670d6733f7a"
+    },
+    {
+      "path": "images/img-8e235ef71452.webp",
+      "bytes": 170784,
+      "sha256": "80fa772680e757215323c1d74a62faa8892a191d5a344f4158bdeb9cb29be855"
+    },
+    {
+      "path": "images/img-8f1ff97c2423.webp",
+      "bytes": 257088,
+      "sha256": "8e11881096f7e2ed02e803130fa8f42536256cf2c0953cc8372ed52dfe050c21"
+    },
+    {
+      "path": "images/img-9172f15e0f22.webp",
+      "bytes": 153892,
+      "sha256": "a6c4209751f96671317bb25474b66d5a82137b092ba9736ba1deff8bdd5ef549"
+    },
+    {
+      "path": "images/img-945f7b7d8ff5.webp",
+      "bytes": 139180,
+      "sha256": "b523fb464d95a015a333952e183ca1113fdeef13fa58ccaba2cf9ca9dc3ac0f1"
+    },
+    {
+      "path": "images/img-94a2a52b31bf.webp",
+      "bytes": 197444,
+      "sha256": "14ab20ff9ccbc12746469b7d6bd828bfb79ef4a745032f923ce767fb89fa0068"
+    },
+    {
+      "path": "images/img-964bfb9eda10.webp",
+      "bytes": 200446,
+      "sha256": "c516dab1bb666b19a53d7a3361abd10006ce320655fd03127ef1d463d207f373"
+    },
+    {
+      "path": "images/img-9b9dc2e947cb.webp",
+      "bytes": 137906,
+      "sha256": "19086549c34b31d2bd31fa4775a05a0219056d311bd5f4b61bfe445a4204b159"
+    },
+    {
+      "path": "images/img-9ba39e3b9a9e.webp",
+      "bytes": 209702,
+      "sha256": "8bc2714c2b94be3938b35a284aaa20a413bb805eac3cde9fdae1be4c315aa6a3"
+    },
+    {
+      "path": "images/img-9c90643f3dbb.webp",
+      "bytes": 173972,
+      "sha256": "4c1aed23c4733f03f6636d39ef07ab935a102ff62a00bc9ae61935f73804884c"
+    },
+    {
+      "path": "images/img-9df8f1248e98.webp",
+      "bytes": 187614,
+      "sha256": "df3463374dc53c8d7e70cb295a1e0338c553c6f36c2b928c7a49774e9ed280bc"
+    },
+    {
+      "path": "images/img-9fabd8b759f1.webp",
+      "bytes": 271028,
+      "sha256": "c94bb14ebde43c489e360fe622c76d3e49d1d7f20645ca56c6a5861545a62a39"
+    },
+    {
+      "path": "images/img-a20c221cdd6e.webp",
+      "bytes": 201032,
+      "sha256": "c27738e4a05ea1d74942da1eed8956d4d92e64dc035eaa391dc6d35d7141d629"
+    },
+    {
+      "path": "images/img-a7bf0f25678c.webp",
+      "bytes": 238416,
+      "sha256": "5170ff7c45666206be24e5997c53679c5be8d34945557bab699c98c94d54961f"
+    },
+    {
+      "path": "images/img-ac4c62cc385e.webp",
+      "bytes": 123800,
+      "sha256": "92e02198742a0f8843d1e4a04c12bebf065183eef0289f9cde18d925dc3abcd6"
+    },
+    {
+      "path": "images/img-afb1c3d99fd4.webp",
+      "bytes": 103302,
+      "sha256": "e32cb3cef5ab32fe291828957178ae7a75c533ac04e35dcadd538101995f6812"
+    },
+    {
+      "path": "images/img-b047a7a8565e.webp",
+      "bytes": 123336,
+      "sha256": "2ea6e4f9b79d80493389d5022f2fa021fa7adc89c080d8936275dc15e5043554"
+    },
+    {
+      "path": "images/img-b92108a4cb3a.webp",
+      "bytes": 269772,
+      "sha256": "3de3249a8ee5122fa950265872c9b17e8e7e5c2442db835719af0e509c81c495"
+    },
+    {
+      "path": "images/img-bc36755ff707.webp",
+      "bytes": 192022,
+      "sha256": "5bce98ef81992859300240dc34bff5c74ba8b29aada6386c89bd30a3e32f6219"
+    },
+    {
+      "path": "images/img-be44923b459e.webp",
+      "bytes": 133412,
+      "sha256": "b4a72ab8ae57e952866a38cb1cf4f6e08724d56df8858eba82b7a24f15e40fc6"
+    },
+    {
+      "path": "images/img-c44ef272dca5.webp",
+      "bytes": 315648,
+      "sha256": "fd7de25ddf336d6389250267999b0b02ea00e6005d0a95e37fef4fb75025d9ed"
+    },
+    {
+      "path": "images/img-c4a7774abc1c.webp",
+      "bytes": 322620,
+      "sha256": "b169a4a215b762051fcf997e288ecddb1a5d7db399da6bb7bec274c5150cb27c"
+    },
+    {
+      "path": "images/img-c7320b1414fa.webp",
+      "bytes": 375916,
+      "sha256": "0cb0a92c973348ac3c9beb5f1c57b3db7a76b5d1e1efc1ea30eafdf582eeac71"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-cc2e88060631.webp",
+      "bytes": 176034,
+      "sha256": "0066c150adf03507c254d8343fb9f366d263f8797537e628c2d282e9caa449e9"
+    },
+    {
+      "path": "images/img-d5dce4dc5e6a.webp",
+      "bytes": 276190,
+      "sha256": "8f69d076df7022137674c0be8ba021cde0c6887c9d7aed9b7feb146187fdad4c"
+    },
+    {
+      "path": "images/img-d87aca3532f0.webp",
+      "bytes": 150230,
+      "sha256": "b12d1796afb376bc9574adcaab8c659c5da1d3246a2db45d120d193fc5ed9326"
+    },
+    {
+      "path": "images/img-d8c4e856d538.webp",
+      "bytes": 250510,
+      "sha256": "948fae6b4bcb0a8eb703489f6de4e72a6e6d9db204c4d4ba8ed58e4630f46d78"
+    },
+    {
+      "path": "images/img-dbf00b645215.webp",
+      "bytes": 186962,
+      "sha256": "1c93b0c1c384fd5ed4c651bc4d48e21dbc7c5ab27aa4685360397ba32a1bc0bb"
+    },
+    {
+      "path": "images/img-e08be91929c8.webp",
+      "bytes": 136098,
+      "sha256": "fdbf529b9eef3f06927c05b290178588ea931f37a2d305a0d871e05a5b15c62f"
+    },
+    {
+      "path": "images/img-e09e0f25822c.webp",
+      "bytes": 101270,
+      "sha256": "25a8de1964b144bb620f1bc52a8b1dbcb35880479232ef3e4241b76149815ecb"
+    },
+    {
+      "path": "images/img-e40b1c629502.webp",
+      "bytes": 128506,
+      "sha256": "87c44d2514d6d0d3f01f7aa12ab7ea30497d0dcd76edc46bef1a3f441518c887"
+    },
+    {
+      "path": "images/img-e732e150bcd1.webp",
+      "bytes": 115472,
+      "sha256": "d2c06b222618dc4d9d33406912a8d99f874859d668bf99fe06e78655f00e1df0"
+    },
+    {
+      "path": "images/img-e9f99c927898.webp",
+      "bytes": 148118,
+      "sha256": "e45998d266b581277c1d94a32d951e11412a824761621c9a24f8d45b9b2c8426"
+    },
+    {
+      "path": "images/img-ea3665e6f2f2.webp",
+      "bytes": 178134,
+      "sha256": "cba55ebad5b189712dac2842e34a05778c31ae7a4828645e8167446250011061"
+    },
+    {
+      "path": "images/img-ea88a1b601e1.webp",
+      "bytes": 157424,
+      "sha256": "a22aca31fe7112bbfbf759eebef26bc4d8026370d2fc47167697246031bc0860"
+    },
+    {
+      "path": "images/img-eac19d2d3227.webp",
+      "bytes": 141480,
+      "sha256": "06ea6cb2c4383671ccf507f547a524b63e710213cb85998fb2fed8661a476ee6"
+    },
+    {
+      "path": "images/img-eb3109a329d6.webp",
+      "bytes": 237964,
+      "sha256": "2a40f15f5eb240c082a44c77292941e65a367c01a1c90cee56a6edfff7856e50"
+    },
+    {
+      "path": "images/img-ef950e926ee0.webp",
+      "bytes": 320934,
+      "sha256": "c0ee2e9b83ec94b54b911b19031448993c04bf56dd8f05da6d7ead70d40d253c"
+    },
+    {
+      "path": "images/img-fb68a7d543b0.webp",
+      "bytes": 179784,
+      "sha256": "c45d613d57772cd5f2d98b1dcc2b8830f269acad72b096788454055937351ad1"
+    },
+    {
+      "path": "images/img-fdb880b48ade.webp",
+      "bytes": 112722,
+      "sha256": "ed8d3065625243e7054e390395c8bf343e9cbe2a955f89e3b71f623db33fc22b"
+    },
+    {
+      "path": "images/img-ffced9cf916d.webp",
+      "bytes": 119028,
+      "sha256": "b991adab25549c7985b6ae7378aaa866dcfe99fd991d39f99bfafb78b8abe703"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 39225,
+      "sha256": "2e2a5b1292773d248d55d8221cb2b7c391f1b232e7758108b424d79913a4e815"
+    },
+    {
+      "path": "source.html",
+      "bytes": 587058,
+      "sha256": "7d20a8e5d2b2fe11ce760d7c7e78159321892dae7269829fbceb4ff6ed111d7a"
+    },
+    {
+      "path": "source.url",
+      "bytes": 104,
+      "sha256": "fbbf6617f171d19d6dbde347401e1b7033e4ddce546fd0d4eabd27b482ac921c"
+    },
+    {
+      "path": "videos/img-53d32165933a.webp",
+      "bytes": 70630,
+      "sha256": "d03c3f70adb182d02eb06639c702fe18556f68a0a16caff15d7f79ef869bb68d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "status": "failed",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg",
+      "poster_path": "videos/img-53d32165933a.webp",
+      "error": "HTTP 401 Unauthorized"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2200xxs.jpg",
+      "path": "images/img-64d5aa2edf7d.webp",
+      "media_type": "image/webp",
+      "bytes": 141554,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2200xxs.jpg",
+      "path": "images/img-9172f15e0f22.webp",
+      "media_type": "image/webp",
+      "bytes": 153892,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2200xxs.jpg",
+      "path": "images/img-0bc015f521c0.webp",
+      "media_type": "image/webp",
+      "bytes": 132006,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2200xxs.jpg",
+      "path": "images/img-fb68a7d543b0.webp",
+      "media_type": "image/webp",
+      "bytes": 179784,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2200xxs.jpg",
+      "path": "images/img-be44923b459e.webp",
+      "media_type": "image/webp",
+      "bytes": 133412,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e08db11c-e176-4fe8-9179-6464c375a721/je/2000xxs.jpg",
+      "path": "images/img-043bcb600e4e.webp",
+      "media_type": "image/webp",
+      "bytes": 154260,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2bb2ee4b-d3f7-48da-b43d-9a398d13c1ab/je/2000xxs.jpg",
+      "path": "images/img-65c25101c7df.webp",
+      "media_type": "image/webp",
+      "bytes": 71802,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8aaa6c29-6610-45db-b496-252fa943e1ce/je/2000xxs.jpg",
+      "path": "images/img-05ba4bb5db5e.webp",
+      "media_type": "image/webp",
+      "bytes": 216366,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4866b423-6393-48b5-9e77-30b4e7bfe73c/je/2000xxs.jpg",
+      "path": "images/img-4d0198fe31d8.webp",
+      "media_type": "image/webp",
+      "bytes": 203834,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/33845d22-81ac-4e39-bcbe-8029942ade19/je/2000xxs.jpg",
+      "path": "images/img-6a17a91276b4.webp",
+      "media_type": "image/webp",
+      "bytes": 286374,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/79c06e91-22ee-4dc2-976e-8e65ed16b06f/je/2000xxs.jpg",
+      "path": "images/img-a7bf0f25678c.webp",
+      "media_type": "image/webp",
+      "bytes": 238416,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/87a07eac-a89d-41fa-8c61-b28b6d9152ce/je/2000xxs.jpg",
+      "path": "images/img-0ef256791294.webp",
+      "media_type": "image/webp",
+      "bytes": 212088,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/1af036a3-1188-46d9-8fd5-4baadb14c03a/je/2000xxs.jpg",
+      "path": "images/img-72ffa807918b.webp",
+      "media_type": "image/webp",
+      "bytes": 244356,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ffbd8f70-5658-4d9d-b077-4832e435401d/je/2000xxs.jpg",
+      "path": "images/img-0e72321c6e32.webp",
+      "media_type": "image/webp",
+      "bytes": 187116,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/24a707b7-978b-48d4-8b65-52bbac35343c/je/2000xxs.jpg",
+      "path": "images/img-77eb801e3645.webp",
+      "media_type": "image/webp",
+      "bytes": 219870,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/fe2d203e-9129-401a-ac47-acb56fa6c264/je/2000xxs.jpg",
+      "path": "images/img-9df8f1248e98.webp",
+      "media_type": "image/webp",
+      "bytes": 187614,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/910c086d-4e4e-46d7-9ec1-8109059a6539/je/2000xxs.jpg",
+      "path": "images/img-4c8e1ec295f8.webp",
+      "media_type": "image/webp",
+      "bytes": 230480,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d2f49ee1-239c-407b-bb53-f32213403f69/je/2000xxs.jpg",
+      "path": "images/img-134990d92e68.webp",
+      "media_type": "image/webp",
+      "bytes": 313298,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/81bf82ca-3f9d-4658-ab86-44068081d107/je/2000xxs.jpg",
+      "path": "images/img-bc36755ff707.webp",
+      "media_type": "image/webp",
+      "bytes": 192022,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8a3e9e9f-0bd0-4a52-a0ba-c2becef0bbfb/je/2000xxs.jpg",
+      "path": "images/img-78da09fac71a.webp",
+      "media_type": "image/webp",
+      "bytes": 267624,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2becc8c7-fec2-4cac-8768-f8ea7afe1a92/je/2000xxs.jpg",
+      "path": "images/img-8f1ff97c2423.webp",
+      "media_type": "image/webp",
+      "bytes": 257088,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4d34319b-c7d6-4186-bb40-c01117002c71/je/2000xxs.jpg",
+      "path": "images/img-2f1cd22b53c2.webp",
+      "media_type": "image/webp",
+      "bytes": 150308,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0a15ecf8-3598-4380-bbb5-f9687fa81af5/je/2000xxs.jpg",
+      "path": "images/img-ffced9cf916d.webp",
+      "media_type": "image/webp",
+      "bytes": 119028,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/52d5e1c3-f6f9-4668-933b-45da83da1a6b/je/2000xxs.jpg",
+      "path": "images/img-18c1f292025f.webp",
+      "media_type": "image/webp",
+      "bytes": 275046,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3b5f2bd0-b573-4a54-b665-0308577a90ab/je/2000xxs.jpg",
+      "path": "images/img-c4a7774abc1c.webp",
+      "media_type": "image/webp",
+      "bytes": 322620,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0c9e33aa-91af-43ea-8c26-f454e1f15519/je/2000xxs.jpg",
+      "path": "images/img-2a844d7d9ece.webp",
+      "media_type": "image/webp",
+      "bytes": 207204,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/1919390e-ffd9-4c33-baf1-31d7a1a16615/je/2000xxs.jpg",
+      "path": "images/img-eb3109a329d6.webp",
+      "media_type": "image/webp",
+      "bytes": 237964,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ef608ec3-15c1-4940-8eec-e39344179ce2/je/2000xxs.jpg",
+      "path": "images/img-9ba39e3b9a9e.webp",
+      "media_type": "image/webp",
+      "bytes": 209702,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d22937ab-7181-4892-8156-9ec3d5690f7d/je/2000xxs.jpg",
+      "path": "images/img-04dd1f440074.webp",
+      "media_type": "image/webp",
+      "bytes": 258128,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/01d40e81-0216-45d8-94fe-f7d2d00c5454/je/2000xxs.jpg",
+      "path": "images/img-964bfb9eda10.webp",
+      "media_type": "image/webp",
+      "bytes": 200446,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/687cf5cc-ebb6-4450-8874-a0feab5dfd37/je/2000xxs.jpg",
+      "path": "images/img-106487a8001d.webp",
+      "media_type": "image/webp",
+      "bytes": 196882,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/44997c6b-4ba1-4e50-84c1-5252753d922f/je/2000xxs.jpg",
+      "path": "images/img-0db2fa7c1c90.webp",
+      "media_type": "image/webp",
+      "bytes": 299258,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d110d1fd-be4a-4774-a897-4ee921fda8b7/je/2000xxs.jpg",
+      "path": "images/img-a20c221cdd6e.webp",
+      "media_type": "image/webp",
+      "bytes": 201032,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/9269dcbd-a384-459f-b75e-fa70b8a9e919/je/2000xxs.jpg",
+      "path": "images/img-b92108a4cb3a.webp",
+      "media_type": "image/webp",
+      "bytes": 269772,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/19c4572a-3146-40e7-beba-4c903ac6fc72/je/2000xxs.jpg",
+      "path": "images/img-d8c4e856d538.webp",
+      "media_type": "image/webp",
+      "bytes": 250510,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5c8d786d-7cc0-4850-8541-b6ec3192d5d6/je/2000xxs.jpg",
+      "path": "images/img-ef950e926ee0.webp",
+      "media_type": "image/webp",
+      "bytes": 320934,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/abfd5d9a-bff3-47e1-b2b7-f0bbbecef057/je/2000xxs.jpg",
+      "path": "images/img-62391d9ba297.webp",
+      "media_type": "image/webp",
+      "bytes": 118108,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0f482b6f-cb8f-42a5-8bf2-2fccfcd403bc/je/2000xxs.jpg",
+      "path": "images/img-693c4b824d36.webp",
+      "media_type": "image/webp",
+      "bytes": 136886,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dd5ba4e1-0302-4139-b103-123b45fab131/je/2000xxs.jpg",
+      "path": "images/img-4465d1a9a5dc.webp",
+      "media_type": "image/webp",
+      "bytes": 160460,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/92c041e0-0483-4770-a13f-678b50abcc5b/je/2000xxs.jpg",
+      "path": "images/img-9c90643f3dbb.webp",
+      "media_type": "image/webp",
+      "bytes": 173972,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ae24f922-2dd7-4c61-9f7d-eb7fe2fffb3a/je/2000xxs.jpg",
+      "path": "images/img-fdb880b48ade.webp",
+      "media_type": "image/webp",
+      "bytes": 112722,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ccc34f8e-75b2-4caa-ade9-86b5afd0b8cb/je/2000xxs.jpg",
+      "path": "images/img-523fde90d7b2.webp",
+      "media_type": "image/webp",
+      "bytes": 170200,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2aa9ee4b-da09-49b1-9b06-b37381560cde/je/2000xxs.jpg",
+      "path": "images/img-945f7b7d8ff5.webp",
+      "media_type": "image/webp",
+      "bytes": 139180,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e4308aee-4d64-4458-971c-89b10efdaa48/je/2000xxs.jpg",
+      "path": "images/img-94a2a52b31bf.webp",
+      "media_type": "image/webp",
+      "bytes": 197444,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/41216afe-3cb5-409a-9edf-d2ec489826ae/je/2000xxs.jpg",
+      "path": "images/img-28fc1853a183.webp",
+      "media_type": "image/webp",
+      "bytes": 403390,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/37f58a86-569a-4e21-a480-8cc865f09d86/je/2000xxs.jpg",
+      "path": "images/img-1526001a836c.webp",
+      "media_type": "image/webp",
+      "bytes": 364054,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/886da4cd-c463-4884-9d6e-be23909b4b49/je/2000xxs.jpg",
+      "path": "images/img-c7320b1414fa.webp",
+      "media_type": "image/webp",
+      "bytes": 375916,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/17e8e18f-d6a0-4798-bcd6-1e07735326e3/je/2000xxs.jpg",
+      "path": "images/img-0233ddcb8fa6.webp",
+      "media_type": "image/webp",
+      "bytes": 356036,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/240863e2-88b8-4550-9964-17723dc4f57a/je/2000xxs.jpg",
+      "path": "images/img-2397ae30fa2c.webp",
+      "media_type": "image/webp",
+      "bytes": 171990,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/79b337e7-72ed-4c01-9217-cb9f20fb3355/je/2000xxs.jpg",
+      "path": "images/img-76ad43913ee8.webp",
+      "media_type": "image/webp",
+      "bytes": 113924,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5116d673-bb26-4b6c-815a-3278c2671e8f/je/2000xxs.jpg",
+      "path": "images/img-ac4c62cc385e.webp",
+      "media_type": "image/webp",
+      "bytes": 123800,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/97b54554-193b-4adf-b45c-aa7799b1cf5a/je/2000xxs.jpg",
+      "path": "images/img-078c42bb1721.webp",
+      "media_type": "image/webp",
+      "bytes": 141526,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/9f8ab973-d001-47b7-a8c3-e402544f9d0e/je/2000xxs.jpg",
+      "path": "images/img-9b9dc2e947cb.webp",
+      "media_type": "image/webp",
+      "bytes": 137906,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/bea51157-4378-4650-9aa3-ace45f14fa76/je/2000xxs.jpg",
+      "path": "images/img-0d00784418ca.webp",
+      "media_type": "image/webp",
+      "bytes": 252688,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e608c178-4f79-47a3-b8fc-a7fd7ce0a4c8/je/2000xxs.jpg",
+      "path": "images/img-ea88a1b601e1.webp",
+      "media_type": "image/webp",
+      "bytes": 157424,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3dc59ec8-2646-405d-ab40-91616ab29ddc/je/2000xxs.jpg",
+      "path": "images/img-ea3665e6f2f2.webp",
+      "media_type": "image/webp",
+      "bytes": 178134,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/b48178bc-e251-4857-9e90-81f7ca46f3a3/je/2000xxs.jpg",
+      "path": "images/img-776a96ca6eef.webp",
+      "media_type": "image/webp",
+      "bytes": 156106,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/199fa9fa-94ad-43e3-92b3-e8da8be7759f/je/2000xxs.jpg",
+      "path": "images/img-dbf00b645215.webp",
+      "media_type": "image/webp",
+      "bytes": 186962,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/956ff09a-fefb-45b9-b38f-9871bfbc1bef/je/2000xxs.jpg",
+      "path": "images/img-d5dce4dc5e6a.webp",
+      "media_type": "image/webp",
+      "bytes": 276190,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7d44904c-6c93-43d4-9994-b4c8c59ea4d5/je/2000xxs.jpg",
+      "path": "images/img-6813d2891bdf.webp",
+      "media_type": "image/webp",
+      "bytes": 162926,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/61a0cad3-6697-4a5b-aa67-8f7bc515a8bb/je/2000xxs.jpg",
+      "path": "images/img-6913269be1d0.webp",
+      "media_type": "image/webp",
+      "bytes": 143278,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/20aea0de-6ab3-4130-9d50-d82ee07c6d94/je/2000xxs.jpg",
+      "path": "images/img-d87aca3532f0.webp",
+      "media_type": "image/webp",
+      "bytes": 150230,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e0d6d7fa-8021-4d35-a1b3-5f6de0d175e8/je/2000xxs.jpg",
+      "path": "images/img-9fabd8b759f1.webp",
+      "media_type": "image/webp",
+      "bytes": 271028,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dae47ef0-6e50-4607-b97a-230214203ada/je/2000xxs.jpg",
+      "path": "images/img-e732e150bcd1.webp",
+      "media_type": "image/webp",
+      "bytes": 115472,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dcc8e109-0875-4483-89a8-8d3745fa9909/je/2000xxs.jpg",
+      "path": "images/img-eac19d2d3227.webp",
+      "media_type": "image/webp",
+      "bytes": 141480,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/038e0094-21c3-4222-a525-6b4a36e30190/je/2000xxs.jpg",
+      "path": "images/img-c44ef272dca5.webp",
+      "media_type": "image/webp",
+      "bytes": 315648,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ce5bb44f-8a0c-4a15-a246-2cd95e25a723/je/2000xxs.jpg",
+      "path": "images/img-4073c693bde7.webp",
+      "media_type": "image/webp",
+      "bytes": 276448,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/015d64c7-6026-42a9-8857-10a399e686da/je/2000xxs.jpg",
+      "path": "images/img-763cf71a888b.webp",
+      "media_type": "image/webp",
+      "bytes": 313216,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/47e7ab71-140f-42ed-8081-427d048a2940/je/2000xxs.jpg",
+      "path": "images/img-5546320aaa5a.webp",
+      "media_type": "image/webp",
+      "bytes": 339220,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/20449147-c7e9-4463-8cf4-2dd7a6c68a49/je/2000xxs.jpg",
+      "path": "images/img-7c3f9742ef53.webp",
+      "media_type": "image/webp",
+      "bytes": 192474,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/a6b0de44-372a-4b9e-b768-1836a1e5a424/je/2000xxs.jpg",
+      "path": "images/img-b047a7a8565e.webp",
+      "media_type": "image/webp",
+      "bytes": 123336,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/cb3c6147-6209-4e9c-a2b9-493291e83ae5/je/2000xxs.jpg",
+      "path": "images/img-8e235ef71452.webp",
+      "media_type": "image/webp",
+      "bytes": 170784,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2ca4e41a-5f66-476e-baba-da3dd2e14725/je/2000xxs.jpg",
+      "path": "images/img-81275322ce3d.webp",
+      "media_type": "image/webp",
+      "bytes": 170146,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ee6bfe9d-ca4c-4260-8c3c-a2b284dc6990/je/2000xxs.jpg",
+      "path": "images/img-e40b1c629502.webp",
+      "media_type": "image/webp",
+      "bytes": 128506,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/cd895de0-e6c4-49f7-8bcf-62aec132222b/je/2000xxs.jpg",
+      "path": "images/img-e9f99c927898.webp",
+      "media_type": "image/webp",
+      "bytes": 148118,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ed778872-1b27-4a50-bbb2-0e65ebf509fc/je/2000xxs.jpg",
+      "path": "images/img-cc2e88060631.webp",
+      "media_type": "image/webp",
+      "bytes": 176034,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4adf556f-4615-47f1-88af-e95ba3939713/je/2000xxs.jpg",
+      "path": "images/img-4ef3a395cf6b.webp",
+      "media_type": "image/webp",
+      "bytes": 273630,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/34514dc3-a1b2-418d-8423-203abda07303/je/2000xxs.jpg",
+      "path": "images/img-e08be91929c8.webp",
+      "media_type": "image/webp",
+      "bytes": 136098,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8bb4c1e4-56eb-4bd4-aebd-3359271f7f37/je/2000xxs.jpg",
+      "path": "images/img-0757163e06f0.webp",
+      "media_type": "image/webp",
+      "bytes": 137610,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7a13459e-bb24-47d8-ae01-9499cd9f593b/je/2000xxs.jpg",
+      "path": "images/img-afb1c3d99fd4.webp",
+      "media_type": "image/webp",
+      "bytes": 103302,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5d213906-2ac7-4cfd-9fdf-9d6411ac181b/je/2000xxs.jpg",
+      "path": "images/img-e09e0f25822c.webp",
+      "media_type": "image/webp",
+      "bytes": 101270,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/57be8894-e982-4442-a27d-66395c3b3149/je/2000xxs.jpg",
+      "path": "images/img-65fdbc97c424.webp",
+      "media_type": "image/webp",
+      "bytes": 112262,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/2200xxs%2881%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 86,
+    "images_existing": 0,
+    "images_failed": 9,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 1
+  }
+}

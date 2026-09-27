@@ -1,0 +1,324 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/single-family-residence-in-los-angeles-17781604",
+    "canonical_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/single-family-residence-in-los-angeles-17781604",
+    "site": "jamesedition",
+    "listing_id": "17781604",
+    "listing_reference": "26814383",
+    "first_listed": "Apr 29",
+    "last_updated": "May 1",
+    "retrieved_at": "2026-06-16T03:43:36.352192Z"
+  },
+  "location": {
+    "address": "11201 Chalon Road, Los Angeles, California, United States",
+    "street": "11201 Chalon Road",
+    "municipality": "Los Angeles",
+    "region": "California",
+    "postal_code": "11201",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=34.08239,-118.46048",
+    "latitude": 34.08239,
+    "longitude": -118.46048
+  },
+  "property": {
+    "title": "Single Family Residence In Los Angeles",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 400000000,
+      "currency": "USD",
+      "display": "$400,000,000"
+    },
+    "price_per_area": {
+      "amount": 5714,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$5,714"
+    },
+    "bedrooms": 39,
+    "bathrooms": 59,
+    "interior_area": {
+      "value": 70000,
+      "unit": "sqft",
+      "display": "70,000 Sqft"
+    },
+    "lot_area": {
+      "value": 7.87,
+      "display": "7.87 Ac lot"
+    },
+    "year_built": 2018,
+    "photo_count": 65,
+    "description": "The Crown Jewel of Los Angeles. Meticulously crafted by world renowned architect and designer Peter Marino, with construction led by Peter McCoy, this decade long project was completed in 2018. Perched on an expansive 8 acre flat promontory lot, the estate offers complete privacy and unobstructed views across Los Angeles, spanning from downtown to the Pacific Ocean and overlooking the Bel Air Country Club. The most exceptional view property in all of Los Angeles. Widely regarded as one of the most expensive single family residences ever built in the United States, no expense was spared in the design or construction of this global masterpiece. Spanning over 70,000 square feet across multiple structures, the estate represents the highest level of architecture, design, and craftsmanship. The main residence is designed for both grand entertaining and everyday living, featuring 10 family bedrooms, 13 staff bedrooms, and resort level wellness and fitness amenities that rival the world’s finest destinations. The guest house features 6 guest bedrooms and 10 staff bedrooms. A true generational estate that could never be replicated, and the most valuable residential property in the Western United States.",
+    "features": [
+      "City View",
+      "Fitness Center / Gym",
+      "Golf View",
+      "Laundry Room",
+      "Library",
+      "New Builds",
+      "Ocean View",
+      "Panoramic / Scenic View",
+      "Privacy",
+      "Walk In Closet"
+    ]
+  },
+  "broker": {
+    "agent": "The Beverly Hills Estates - West Hollywood",
+    "agency": "The Beverly Hills Estates - West Hollywood",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/the-beverly-hills-estates-west-hollywood-501084",
+    "agency_address": "West Hollywood, California, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/2200xxs.jpg",
+      "file": "004-b65f638c.webp",
+      "media_type": "image/webp",
+      "bytes": 220236,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/6090cf27-0636-4823-967f-7792369318eb/je/2200xxs.jpg",
+      "file": "009-2c8af188.webp",
+      "media_type": "image/webp",
+      "bytes": 103200,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/f4040245-df24-4ebe-b029-b957c585719f/je/2200xxs.jpg",
+      "file": "014-a67dce38.webp",
+      "media_type": "image/webp",
+      "bytes": 159476,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/cb7ae3bc-9bcf-4095-9e69-5342efd6b4a2/je/2200xxs.jpg",
+      "file": "019-8c686112.webp",
+      "media_type": "image/webp",
+      "bytes": 176088,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/9f07938a-4a15-47b3-bf0c-eafe4a42dc49/je/2200xxs.jpg",
+      "file": "024-0cf216dd.webp",
+      "media_type": "image/webp",
+      "bytes": 169100,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/M00000071.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ca-united-states",
+              "name": "California"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa",
+              "name": "Los Angeles"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/single-family-residence-in-los-angeles-17781604",
+              "name": "Single Family Residence in Los Angeles"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "The Crown Jewel of Los Angeles. Meticulously crafted by world renowned architect and designer Peter Marino, with construction led by Peter McCoy, this decade long project was completed in 2018. Perched on an expansive 8 acre flat promontory lot, the estate offers complete privacy and unobstructed views across Los Angeles, spanning from downtown to the Pacific Ocean and overlooking the Bel Air Country Club. The most exceptional view property in all of Los Angeles. Widely regarded as one of the most expensive single family residences ever built in the United States, no expense was spared in the design or construction of this global masterpiece. Spanning over 70,000 square feet across multiple structures, the estate represents the highest level of architecture, design, and craftsmanship. The main residence is designed for both grand entertaining and everyday living, featuring 10 family bedrooms, 13 staff bedrooms, and resort level wellness and fitness amenities that rival the world's finest destinations. The guest house features 6 guest bedrooms and 10 staff bedrooms. A true generational estate that could never be replicated, and the most valuable residential property in the Western United States.",
+        "image": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Los Angeles",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 400000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "The Beverly Hills Estates - West Hollywood"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/single-family-residence-in-los-angeles-17781604"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/M00000071.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

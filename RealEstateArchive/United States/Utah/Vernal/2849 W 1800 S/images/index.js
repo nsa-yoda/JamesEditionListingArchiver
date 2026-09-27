@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Utah/Vernal/2849 W 1800 S/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-24404e5a2258.webp",
+      "href": "img-24404e5a2258.webp",
+      "size": 127988
+    },
+    {
+      "name": "img-272e34fedba6.svg",
+      "href": "img-272e34fedba6.svg",
+      "size": 63675
+    },
+    {
+      "name": "img-4055dfde7ac7.svg",
+      "href": "img-4055dfde7ac7.svg",
+      "size": 63657
+    },
+    {
+      "name": "img-57242b8ef18d.webp",
+      "href": "img-57242b8ef18d.webp",
+      "size": 1004
+    },
+    {
+      "name": "img-7441c52029cb.webp",
+      "href": "img-7441c52029cb.webp",
+      "size": 217926
+    },
+    {
+      "name": "img-87b2ca95077f.webp",
+      "href": "img-87b2ca95077f.webp",
+      "size": 120662
+    },
+    {
+      "name": "img-9506d8aeeccb.webp",
+      "href": "img-9506d8aeeccb.webp",
+      "size": 127402
+    },
+    {
+      "name": "img-caf7633dd106.svg",
+      "href": "img-caf7633dd106.svg",
+      "size": 63710
+    },
+    {
+      "name": "img-e5e1f9d33c05.webp",
+      "href": "img-e5e1f9d33c05.webp",
+      "size": 150152
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

@@ -1,0 +1,746 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/single-family-residence-in-mantoloking-17548328",
+    "canonical_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/single-family-residence-in-mantoloking-17548328",
+    "site": "jamesedition",
+    "listing_id": "17548328",
+    "listing_reference": "22608737",
+    "first_listed": "Apr 2",
+    "last_updated": "April 2",
+    "retrieved_at": "2026-06-18T07:08:49.815678Z"
+  },
+  "location": {
+    "address": "1087 Ocean Avenue, Mantoloking, New Jersey, United States",
+    "street": "1087 Ocean Avenue",
+    "municipality": "Mantoloking",
+    "region": "New Jersey",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.043997,-74.048608",
+    "latitude": 40.043997,
+    "longitude": -74.048608
+  },
+  "property": {
+    "title": "Single Family Residence In Mantoloking",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 12495000,
+      "currency": "USD",
+      "display": "$12,495,000"
+    },
+    "price_per_area": {
+      "amount": 2177,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$2,177"
+    },
+    "bedrooms": 9,
+    "bathrooms": 7,
+    "floors": 2,
+    "interior_area": {
+      "value": 5738,
+      "unit": "sqft",
+      "display": "5,738 Sqft"
+    },
+    "lot_area": {
+      "value": 1.38,
+      "display": "1.38 Ac lot"
+    },
+    "year_built": 2015,
+    "photo_count": 63,
+    "description": "Set on an extraordinary 140’ x 430’ oceanfront double lot, this custom-built coastal estate represents a rare convergence of scale, privacy, and craftsmanship with panoramic ocean views from both levels of the home. Built in 2015 by highly regarded local R Popovitch Builders, the residence showcases exceptional quality construction and high-end finishes throughout, on an elevated parcel with dune and revetment wall. The 5,000sq ft main home offers 5 bedrooms and 6 baths, thoughtfully designed to accommodate both grand entertaining and comfortable everyday living. Expansive, light-filled interiors are oriented to capture sweeping ocean views, with seamless flow between living, dining, and outdoor spaces. Guests will enjoy two generous first level bedrooms, one with vaulted shiplap ceiling. The spacious upper level contains a media room with views of Barnegat bay to the west and 3 more bedrooms (including the master) along the east side of the home, each leading out to an oceanfront balcony. A unique feature of the property is the 738sq ft detached guest annex and 3 car garage, complete with 4 additional bedrooms and a full bath--ideal for extended family, guests, or private staff quarters. This separate living space enhances both flexibility and privacy, creating a true compound-like setting rarely found along the Jersey Shore. The impressive lot dimensions provide an unmatched sense of space and opportunity, allowing for resort-style outdoor living just steps from the beach. Whether hosting large gatherings or enjoying quiet coastal mornings, the property delivers a lifestyle defined by comfort, elegance, and exclusivity. A truly exceptional oceanfront offering--where size, location, and craftsmanship come together to create one of Mantoloking’s most compelling estates.",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Beachfront",
+      "Coastal",
+      "Garage",
+      "Ocean View",
+      "Oceanfront",
+      "Panoramic / Scenic View",
+      "Privacy",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Diane Turton, Realtors-Bay Head - Bay Head",
+    "agency": "Diane Turton, Realtors-Bay Head - Bay Head",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/diane-turton-realtors-bay-head-bay-head-444395",
+    "agency_address": "Bay Head, New Jersey, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/2200xxs.jpg",
+      "file": "004-1a857df1.webp",
+      "media_type": "image/webp",
+      "bytes": 583308,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/2200xxs.jpg",
+      "file": "009-8dcd48c9.webp",
+      "media_type": "image/webp",
+      "bytes": 629320,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/2200xxs.jpg",
+      "file": "014-571ae296.webp",
+      "media_type": "image/webp",
+      "bytes": 409322,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/2200xxs.jpg",
+      "file": "019-15472fd9.webp",
+      "media_type": "image/webp",
+      "bytes": 414122,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/2200xxs.jpg",
+      "file": "024-3f8c861c.webp",
+      "media_type": "image/webp",
+      "bytes": 573086,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/M00000452.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/a3b04037-379e-4e49-abc3-aa5790b2b8bd/je/2000xxs.jpg",
+      "file": "035-3d45db82.webp",
+      "media_type": "image/webp",
+      "bytes": 424102,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/7bfe73fd-9ad4-4f9a-9575-98a113911686/je/2000xxs.jpg",
+      "file": "036-93dbba69.webp",
+      "media_type": "image/webp",
+      "bytes": 366966,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/e6d387af-8081-4439-a71f-0b2e7f6bae48/je/2000xxs.jpg",
+      "file": "037-e7f331dc.webp",
+      "media_type": "image/webp",
+      "bytes": 494340,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/76db2e0a-34aa-4180-8d08-e5612e579fd9/je/2000xxs.jpg",
+      "file": "038-63713dd3.webp",
+      "media_type": "image/webp",
+      "bytes": 438200,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/16cd3f5c-e458-4bf7-b9cf-23b8d5ef3ed3/je/2000xxs.jpg",
+      "file": "039-ba8c1f86.webp",
+      "media_type": "image/webp",
+      "bytes": 714218,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/6f7ae8b1-5207-46c0-a1cd-e41f778f37d5/je/2000xxs.jpg",
+      "file": "040-46278ae1.webp",
+      "media_type": "image/webp",
+      "bytes": 450038,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/63ccbfa0-5957-4b18-a8e9-e4e4e1582f3c/je/2000xxs.jpg",
+      "file": "041-622c22b1.webp",
+      "media_type": "image/webp",
+      "bytes": 435498,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/f209ecdc-b916-4faa-925d-cc42984c5f1a/je/2000xxs.jpg",
+      "file": "042-43847aee.webp",
+      "media_type": "image/webp",
+      "bytes": 418836,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/7d6cf197-363e-447d-bb3c-f3152f1522a8/je/2000xxs.jpg",
+      "file": "043-50b8bb0c.webp",
+      "media_type": "image/webp",
+      "bytes": 345450,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/513c1c50-e7a7-485a-8225-59977500c231/je/2000xxs.jpg",
+      "file": "044-9601444e.webp",
+      "media_type": "image/webp",
+      "bytes": 384842,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/83bf8782-d20a-4640-9a2a-3a2f84b857bb/je/2000xxs.jpg",
+      "file": "045-bebc1fb7.webp",
+      "media_type": "image/webp",
+      "bytes": 94172,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/a1e0aa98-0c01-4289-aba3-7ab29e346b81/je/2000xxs.jpg",
+      "file": "046-37b7abbd.webp",
+      "media_type": "image/webp",
+      "bytes": 173400,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/ef9302e3-fd8b-4cef-8eb0-4b6f6bfd229f/je/2000xxs.jpg",
+      "file": "047-d4c9aab7.webp",
+      "media_type": "image/webp",
+      "bytes": 199516,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/ca8c3f1d-c0c4-4565-b8fe-e1f1fb2dc6ca/je/2000xxs.jpg",
+      "file": "048-48940c87.webp",
+      "media_type": "image/webp",
+      "bytes": 188456,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/603095c8-6d5b-49d8-9bbb-3ca669e67962/je/2000xxs.jpg",
+      "file": "049-cd00a149.webp",
+      "media_type": "image/webp",
+      "bytes": 203554,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/63657ca5-2936-43ea-9753-ab0d21bb1a71/je/2000xxs.jpg",
+      "file": "050-f5beef7e.webp",
+      "media_type": "image/webp",
+      "bytes": 91668,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/9a166a46-a338-4c07-be3f-70ea2c03a338/je/2000xxs.jpg",
+      "file": "051-040aafea.webp",
+      "media_type": "image/webp",
+      "bytes": 182044,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/aad34f97-bf0c-49c6-917d-99c9a3271181/je/2000xxs.jpg",
+      "file": "052-b98ff0b9.webp",
+      "media_type": "image/webp",
+      "bytes": 157212,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8ecb36aa-c27d-4d42-ae1c-1aec1d3b52bb/je/2000xxs.jpg",
+      "file": "053-57a03503.webp",
+      "media_type": "image/webp",
+      "bytes": 148480,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/ab4989f6-125c-42e7-a924-8a68d590d0df/je/2000xxs.jpg",
+      "file": "054-d39bcbae.webp",
+      "media_type": "image/webp",
+      "bytes": 153370,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/682deb3d-da4c-4014-9a44-0e269f84fca7/je/2000xxs.jpg",
+      "file": "055-e2b61b69.webp",
+      "media_type": "image/webp",
+      "bytes": 165084,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/84b4a804-2972-450a-90c7-7a6c866041eb/je/2000xxs.jpg",
+      "file": "056-faacdd75.webp",
+      "media_type": "image/webp",
+      "bytes": 108820,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/2c686e0c-d815-4e82-9e39-1cef7d2e891b/je/2000xxs.jpg",
+      "file": "057-29ff6c95.webp",
+      "media_type": "image/webp",
+      "bytes": 110214,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/4470d933-bd8b-4942-81de-2fa49f64c0e5/je/2000xxs.jpg",
+      "file": "058-5319c5c7.webp",
+      "media_type": "image/webp",
+      "bytes": 346652,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/9af9fc0e-dfec-4292-bb28-086d26cac7fc/je/2000xxs.jpg",
+      "file": "059-2b717cae.webp",
+      "media_type": "image/webp",
+      "bytes": 299502,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/785b2580-2818-4d24-b6eb-c7ee81cd49bf/je/2000xxs.jpg",
+      "file": "060-787ff771.webp",
+      "media_type": "image/webp",
+      "bytes": 152562,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/25f735e8-e568-4b10-8fc9-4e43606820ed/je/2000xxs.jpg",
+      "file": "061-9f74d90a.webp",
+      "media_type": "image/webp",
+      "bytes": 128644,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/61a866e3-5c02-44d4-a0f5-2c275a626b5e/je/2000xxs.jpg",
+      "file": "062-81b17a0f.webp",
+      "media_type": "image/webp",
+      "bytes": 105524,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/557198e7-8fd9-4461-8d90-2e7cc6b3cf9e/je/2000xxs.jpg",
+      "file": "063-4b789290.webp",
+      "media_type": "image/webp",
+      "bytes": 66606,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/1106c8d4-79b7-4e91-a147-fbcb27197719/je/2000xxs.jpg",
+      "file": "064-69cd986c.webp",
+      "media_type": "image/webp",
+      "bytes": 114922,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/669f295c-7c18-4938-ac4a-afa3f9bf41ae/je/2000xxs.jpg",
+      "file": "065-b1cc2679.webp",
+      "media_type": "image/webp",
+      "bytes": 143350,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/4057eb08-e5a1-4ff6-a33a-d93d440e5b13/je/2000xxs.jpg",
+      "file": "066-a615edae.webp",
+      "media_type": "image/webp",
+      "bytes": 118556,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/ac559c0e-360b-466e-a74e-462b54185211/je/2000xxs.jpg",
+      "file": "067-591946fb.webp",
+      "media_type": "image/webp",
+      "bytes": 67672,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/fccc5226-304d-4106-9b12-05a0efb43836/je/2000xxs.jpg",
+      "file": "068-32db9807.webp",
+      "media_type": "image/webp",
+      "bytes": 71158,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/22e20e34-6776-4201-b1f5-8ff9dc400ef0/je/2000xxs.jpg",
+      "file": "069-b13d1abb.webp",
+      "media_type": "image/webp",
+      "bytes": 120516,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/89f6d3b3-6f19-47a1-b7be-afd3a7fcdb0f/je/2000xxs.jpg",
+      "file": "070-44d85f75.webp",
+      "media_type": "image/webp",
+      "bytes": 138188,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/cacef9d8-46f0-4cda-96ba-cee3eddc3294/je/2000xxs.jpg",
+      "file": "071-2554b8e9.webp",
+      "media_type": "image/webp",
+      "bytes": 137810,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/d689e2d4-cf52-4ab3-9049-38a0f888f305/je/2000xxs.jpg",
+      "file": "072-31f1212a.webp",
+      "media_type": "image/webp",
+      "bytes": 121020,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/9d8544c8-e7e2-4b73-b36e-e9dd1d50136b/je/2000xxs.jpg",
+      "file": "073-ee778d68.webp",
+      "media_type": "image/webp",
+      "bytes": 99188,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/f51c7421-e749-4390-a091-b40853cc6161/je/2000xxs.jpg",
+      "file": "074-c74eb4b8.webp",
+      "media_type": "image/webp",
+      "bytes": 94808,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/843dbf53-8835-45c1-865f-199724e6d6f7/je/2000xxs.jpg",
+      "file": "075-5d4e7cb7.webp",
+      "media_type": "image/webp",
+      "bytes": 64422,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/df54b6fd-4913-483a-b295-d8f792fcc4c6/je/2000xxs.jpg",
+      "file": "076-2f60bc4b.webp",
+      "media_type": "image/webp",
+      "bytes": 51536,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/e155cdb1-72dd-4744-af58-262daf587d79/je/2000xxs.jpg",
+      "file": "077-a6e7511b.webp",
+      "media_type": "image/webp",
+      "bytes": 140082,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/34db619e-1c9c-4759-afe3-6bb9e0a9adde/je/2000xxs.jpg",
+      "file": "078-13797386.webp",
+      "media_type": "image/webp",
+      "bytes": 126120,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/214cfe8e-9c03-48c0-a536-1906d1c80663/je/2000xxs.jpg",
+      "file": "079-06141e6b.webp",
+      "media_type": "image/webp",
+      "bytes": 178716,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/65b8964d-889a-4cc1-9e00-ce8d8256ad66/je/2000xxs.jpg",
+      "file": "080-65e5efe7.webp",
+      "media_type": "image/webp",
+      "bytes": 253416,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/2bae523a-2b84-4406-985b-a2553ba2497c/je/2000xxs.jpg",
+      "file": "081-d78cabc6.webp",
+      "media_type": "image/webp",
+      "bytes": 398834,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/081b3ac2-507c-4d88-8b95-65085437f2b9/je/2000xxs.jpg",
+      "file": "082-bb459deb.webp",
+      "media_type": "image/webp",
+      "bytes": 162132,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/255eb967-1fae-42f1-afa7-c4f2dcca42ad/je/2000xxs.jpg",
+      "file": "083-d034f944.webp",
+      "media_type": "image/webp",
+      "bytes": 143298,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/652815b1-745a-40d6-a839-a9b512b1c670/je/2000xxs.jpg",
+      "file": "084-69d7e3f7.webp",
+      "media_type": "image/webp",
+      "bytes": 150852,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/a5d3216a-3468-44d4-add6-c868537ed5a1/je/2000xxs.jpg",
+      "file": "085-3a256567.webp",
+      "media_type": "image/webp",
+      "bytes": 139940,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/a7c1a2bf-4f61-4717-aa92-8ac338d0dec0/je/2000xxs.jpg",
+      "file": "086-a3e1ebf6.webp",
+      "media_type": "image/webp",
+      "bytes": 121128,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/78614c07-40fa-4783-b92c-e601f33ccd57/je/2000xxs.jpg",
+      "file": "087-8b8de500.webp",
+      "media_type": "image/webp",
+      "bytes": 230588,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/98dd4fd3-2b91-45b5-8a53-9b6df95beffe/je/2000xxs.jpg",
+      "file": "088-2e6e288e.webp",
+      "media_type": "image/webp",
+      "bytes": 335186,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/96ee8213-33e1-4a58-be8f-898f125982d9/je/2000xxs.jpg",
+      "file": "089-e48ae86c.webp",
+      "media_type": "image/webp",
+      "bytes": 59114,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/c7642157-ed66-4d85-8b11-f63573d70639/je/2000xxs.jpg",
+      "file": "090-d96525d3.webp",
+      "media_type": "image/webp",
+      "bytes": 49772,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/804cce2f-b15a-4da9-a0c6-b077a0d5a4d6/je/2000xxs.jpg",
+      "file": "091-10f55d71.webp",
+      "media_type": "image/webp",
+      "bytes": 54650,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/c5a11a07-d524-43ea-bb1c-638c89400e40/je/2000xxs.jpg",
+      "file": "092-cbaa9985.webp",
+      "media_type": "image/webp",
+      "bytes": 27610,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2817%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2818%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2819%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "097-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "098-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "099-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "100-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa",
+              "name": "Mantoloking"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/single-family-residence-in-mantoloking-17548328",
+              "name": "Single Family Residence in Mantoloking"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Set on an extraordinary 140' x 430' oceanfront double lot, this custom-built coastal estate represents a rare convergence of scale, privacy, and craftsmanship with panoramic ocean views from both levels of the home. Built in 2015 by highly regarded local R Popovitch Builders, the residence showcases exceptional quality construction and high-end finishes throughout, on an elevated parcel with dune and revetment wall. The 5,000sq ft main home offers 5 bedrooms and 6 baths, thoughtfully designed to accommodate both grand entertaining and comfortable everyday living. Expansive, light-filled interiors are oriented to capture sweeping ocean views, with seamless flow between living, dining, and outdoor spaces. Guests will enjoy two generous first level bedrooms, one with vaulted shiplap ceiling. The spacious upper level contains a media room with views of Barnegat bay to the west and 3 more bedrooms (including the master) along the east side of the home, each leading out to an oceanfront balcony. A unique feature of the property is the 738sq ft detached guest annex and 3 car garage, complete with 4 additional bedrooms and a full bath--ideal for extended family, guests, or private staff quarters. This separate living space enhances both flexibility and privacy, creating a true compound-like setting rarely found along the Jersey Shore. The impressive lot dimensions provide an unmatched sense of space and opportunity, allowing for resort-style outdoor living just steps from the beach. Whether hosting large gatherings or enjoying quiet coastal mornings, the property delivers a lifestyle defined by comfort, elegance, and exclusivity. A truly exceptional oceanfront offering--where size, location, and craftsmanship come together to create one of Mantoloking's most compelling estates.",
+        "image": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Mantoloking",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 12495000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Diane Turton, Realtors-Bay Head - Bay Head"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/single-family-residence-in-mantoloking-17548328"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/M00000452.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2817%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2818%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2819%29.jpg: HTTP 403 Forbidden"
+  ]
+}

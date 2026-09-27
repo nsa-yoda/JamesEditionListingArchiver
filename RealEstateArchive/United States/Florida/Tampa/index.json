@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "United States/Florida/Tampa",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "12321 Fort King Hwy",
+      "href": "12321%20Fort%20King%20Hwy/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

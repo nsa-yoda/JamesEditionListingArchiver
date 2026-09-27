@@ -1,0 +1,887 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/corfu-greece/the-cove-seafront-estate-in-northeast-corfu-15161406",
+    "canonical_url": "https://www.jamesedition.com/real_estate/corfu-greece/the-cove-seafront-estate-in-northeast-corfu-15161406",
+    "site": "jamesedition",
+    "listing_id": "15161406",
+    "first_listed": "Feb 3, 2025",
+    "last_updated": "December 13, 2025",
+    "retrieved_at": "2026-08-28T00:31:54.199411Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4883,
+      "sha256": "172d76682ae76811ea2a3d6a0f52f89ef039fb261ff5e5d6b724f0d924b245c7"
+    },
+    {
+      "path": "images/img-01c3ecf5ce4b.webp",
+      "bytes": 631210,
+      "sha256": "e63adefb8c1cec2c0a3b94b87f63fc979092ba599ec936e586062734962a89ae"
+    },
+    {
+      "path": "images/img-05e924246df6.webp",
+      "bytes": 209944,
+      "sha256": "17460bc4253e1ab1e10d9dba73b06f8376a5216faf6f2296602d448f488453c3"
+    },
+    {
+      "path": "images/img-07d8db65705d.webp",
+      "bytes": 93994,
+      "sha256": "73e92b38e70692a88cfbf3255033e40505807849befc87fed33ba8ee7ccf4e3a"
+    },
+    {
+      "path": "images/img-12f46569cecb.webp",
+      "bytes": 81050,
+      "sha256": "5f4f7d25635649946a6b5cce6acc7d1d9bd6c10ab34883a96e53a30de5f570bf"
+    },
+    {
+      "path": "images/img-1784548a1810.webp",
+      "bytes": 392394,
+      "sha256": "13aa71d6f0738a69f4c43fc8bf4101bcdf91b27d4cd6d65186eb147fad3c1875"
+    },
+    {
+      "path": "images/img-183071f85f53.webp",
+      "bytes": 125994,
+      "sha256": "9207fe6e0d4cf50269c4080db16f5ccd1b68299ac55220629cfed7413baa7776"
+    },
+    {
+      "path": "images/img-18d07608b53b.webp",
+      "bytes": 283676,
+      "sha256": "ef731b05935a3bf176ad9985122dda301015ac402d3a73970c3ca78e64b67c7e"
+    },
+    {
+      "path": "images/img-1db670b38ebd.webp",
+      "bytes": 609194,
+      "sha256": "00ccc90ccc46907b9c77db96761d1dffc0771617d074254f4711c97a2ecd5b4e"
+    },
+    {
+      "path": "images/img-1dc0c291f710.webp",
+      "bytes": 118106,
+      "sha256": "67907ef1162add3c998be680a5869a60207dc13cbbefc68539c5d707f9d487db"
+    },
+    {
+      "path": "images/img-1eb02aec8b72.webp",
+      "bytes": 254820,
+      "sha256": "fbcfec4a8a90afebaca5d2789a4a05133307ee0001a3cbd7b2bdcd3e3a491e07"
+    },
+    {
+      "path": "images/img-24894f14e0ee.webp",
+      "bytes": 377426,
+      "sha256": "0f38858e55dea860b573684995db9eb58be4b63aa5d3e506a3dce4e87b2dd3e0"
+    },
+    {
+      "path": "images/img-2bab4033d5d0.webp",
+      "bytes": 79240,
+      "sha256": "3d2e45dd556a16a1cdabcde70bf3f243a6247595945bb9e7f228c5051322bcd4"
+    },
+    {
+      "path": "images/img-2cafde46adbb.webp",
+      "bytes": 249036,
+      "sha256": "54666c60d1c3d0b5d23d5ee7fcaa07b6df872649f2b140ac3e7d2d14ef7b1bc7"
+    },
+    {
+      "path": "images/img-32d8026a39b1.webp",
+      "bytes": 332618,
+      "sha256": "6954d15ae2217f1131ad7d94bcbd863f58162780b07603d106ac850c49b93c1c"
+    },
+    {
+      "path": "images/img-3575fd51f25e.webp",
+      "bytes": 440782,
+      "sha256": "d5dd337d63eb6384b8f291f786173d70f1ee938c50d316e1fd8f0d94f64c787b"
+    },
+    {
+      "path": "images/img-38359e23f1fd.webp",
+      "bytes": 351874,
+      "sha256": "b8d137206cba39066ba95a6a507a94b2f65124f5f0afa0f69355e492d0894066"
+    },
+    {
+      "path": "images/img-3e94f55f34e9.webp",
+      "bytes": 135046,
+      "sha256": "ddc3ce0e2d33ee4100374caf2fa7c94b3b97c7f0347c19736b4f0b5f40d6144f"
+    },
+    {
+      "path": "images/img-433eab1fde8a.webp",
+      "bytes": 75324,
+      "sha256": "1535bbc4ade0f75ebef61eb7a49d56189df7f7d7f1ad9a38b12cd4ded12c8cc2"
+    },
+    {
+      "path": "images/img-459f011588e6.webp",
+      "bytes": 356896,
+      "sha256": "5bfeb521a1d7010d2a4c6ca4e3e604da8c8b379f7588005eb49dca909ddd99f7"
+    },
+    {
+      "path": "images/img-4ca51c2c69aa.webp",
+      "bytes": 117654,
+      "sha256": "4205a1fba91faf6f99514b274bc711207e3d1f2ab913905e6f0145313a9f2b0f"
+    },
+    {
+      "path": "images/img-4e9400d771f0.webp",
+      "bytes": 116400,
+      "sha256": "ee02b75ad4e86742ffb0064e7ac35b3e25dde59ad2fae10265a6ebd5c331d2e0"
+    },
+    {
+      "path": "images/img-4f947e597b36.webp",
+      "bytes": 348560,
+      "sha256": "93cf6cbbb8b9b42c243aaca2d9379839ad38c93fd4639162702b23085f381d52"
+    },
+    {
+      "path": "images/img-52dd5e0331f6.webp",
+      "bytes": 210124,
+      "sha256": "9eebb0665aa97f3c80573acb682bc0359ea0e12399b6b02df5d1a6ec4e028fd6"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-597888f29bd5.webp",
+      "bytes": 90260,
+      "sha256": "4cd192dced3ef403ca432f944b8c62e5ad46be0c4f4dfefc595cae2a8aa7b8b0"
+    },
+    {
+      "path": "images/img-59f9e5f7984a.webp",
+      "bytes": 82150,
+      "sha256": "f19a52435238b1f7a9537650a3a0d2eef13a5f373922d15adc1dfbb5d242bad1"
+    },
+    {
+      "path": "images/img-5ad289ce55c0.webp",
+      "bytes": 219268,
+      "sha256": "12dea18c35a3991a51a94e801f2cf7f6bc1c44da69cd9abeb7e61b60c90f839e"
+    },
+    {
+      "path": "images/img-62c4cc9aa7ff.webp",
+      "bytes": 156658,
+      "sha256": "55fe141cb55af7f75194a1d103dddf8141328125533f0e4e1b31b6d3cb37c3b9"
+    },
+    {
+      "path": "images/img-6511a90cb629.webp",
+      "bytes": 116528,
+      "sha256": "4da6d0e6700b17fe73159baa60591ff035e6c5bb95a73a678bf573f51ce80090"
+    },
+    {
+      "path": "images/img-675439243e9f.webp",
+      "bytes": 43902,
+      "sha256": "66b67e18fa0fa3503faf023947a1c0f3820d21af6261f855bb52664691b3fe54"
+    },
+    {
+      "path": "images/img-69f31dd1e868.webp",
+      "bytes": 426506,
+      "sha256": "191feeac76790a0b8f72b442ab0a7dcf9f8bd6838b336973dc77dedb03b3f452"
+    },
+    {
+      "path": "images/img-7044c46392ba.webp",
+      "bytes": 147852,
+      "sha256": "5b270fa7157bcae12c2fd663807721576fa82d60824abdac4c47d693c493d403"
+    },
+    {
+      "path": "images/img-7d6c0bb31db6.webp",
+      "bytes": 348980,
+      "sha256": "4d8a99e87da3ce491fa859e545a85a57c1840924404eaf16bbf5aef6e54fac56"
+    },
+    {
+      "path": "images/img-7f37edb3e322.webp",
+      "bytes": 144306,
+      "sha256": "71dba18f311103dc4c5f37e42a559b83207722539894011c4a38d33c0e6e3f6a"
+    },
+    {
+      "path": "images/img-7fe9445c6766.webp",
+      "bytes": 108326,
+      "sha256": "0611492d7861435e6ef236f3e6bf83994d3a500b10ca0b554239d3f2c42512ad"
+    },
+    {
+      "path": "images/img-88a77369507f.webp",
+      "bytes": 60318,
+      "sha256": "8c99a40282c0982c7583a43c66fc183c5e0bec40d6423b31e0de905498512f78"
+    },
+    {
+      "path": "images/img-8d1cf4811193.webp",
+      "bytes": 91142,
+      "sha256": "482b3931181a036eb01b5b6e7dd90f275a8a748298bdb3c41cea1ed7254cda74"
+    },
+    {
+      "path": "images/img-90b0203c5bc2.webp",
+      "bytes": 122862,
+      "sha256": "e37625dafeb62e57889df4f7a8f97ced3b09e22bcb61d69c0b7a7352ea07df49"
+    },
+    {
+      "path": "images/img-919541212f80.webp",
+      "bytes": 592080,
+      "sha256": "9f99218a69d0e66c349901c0449b051ad095fed0b8d68ba063217fa7dadc60e2"
+    },
+    {
+      "path": "images/img-99f2a24979e5.webp",
+      "bytes": 121466,
+      "sha256": "d342add3d35a285c42afda51005baf13cc1f06c2cc5f6c95e126a2a10c428c3c"
+    },
+    {
+      "path": "images/img-9ddaa09629aa.webp",
+      "bytes": 256122,
+      "sha256": "611ff1181144c00f0cc0aa066c0869d90961ffbd75477728299698f13170b451"
+    },
+    {
+      "path": "images/img-b1b04363d4ae.webp",
+      "bytes": 157264,
+      "sha256": "16e29f3f262f08fa41d91b11e081b08b5cdf2167a642b087b0407de492e05fa4"
+    },
+    {
+      "path": "images/img-b5d844bf5749.webp",
+      "bytes": 234666,
+      "sha256": "d7aee76d92be0da2f5de9d4011c5b671a079fd6bef9f77ad52a7df7baa7b1320"
+    },
+    {
+      "path": "images/img-bb0db9ec9f24.webp",
+      "bytes": 406490,
+      "sha256": "40facd05e26950a881b72aceb5672724611b5547cd481e183945c462b588ebbb"
+    },
+    {
+      "path": "images/img-bcfcc8be3969.webp",
+      "bytes": 216904,
+      "sha256": "4889930ac4eb7b1fafa288d5ad6176b506830bafe63fe6e7542695f5851f6387"
+    },
+    {
+      "path": "images/img-c0f046a0e207.webp",
+      "bytes": 441362,
+      "sha256": "5e3b73f2a3f62e3ecb641315f62b35a522f4fa1f242cfb66dff0bb03f92ecfa4"
+    },
+    {
+      "path": "images/img-c50f7a9af0bc.webp",
+      "bytes": 239946,
+      "sha256": "553c1b33b55e322f756f379797f0d182b073b59badf06f27dd3c250af3d11829"
+    },
+    {
+      "path": "images/img-c7114e236595.webp",
+      "bytes": 344444,
+      "sha256": "5968aa36c38da35506aef50fd1de04111899022e6fffb818c0b5ebe54f14c13e"
+    },
+    {
+      "path": "images/img-ca2b4898eda1.webp",
+      "bytes": 83262,
+      "sha256": "b6e09ed5dd93d365fa87747d1871d2f1d2723cd657364eb0637564c5569c0bab"
+    },
+    {
+      "path": "images/img-d6a2be838b85.webp",
+      "bytes": 288060,
+      "sha256": "2df57344f7d74655d8ba6969c5d37b0d8f9bfbbb2f8347edc4a1022706f3569b"
+    },
+    {
+      "path": "images/img-da312be111a2.webp",
+      "bytes": 127472,
+      "sha256": "6f7b834b6c075edfc76ad4634bec94ee9f0fa86557fc79f75ea04c560ac2d098"
+    },
+    {
+      "path": "images/img-e4085aa775ed.webp",
+      "bytes": 135408,
+      "sha256": "3924218babdd2c33cb901c03be0adba00f682f68b66ccf64eada505934a7501c"
+    },
+    {
+      "path": "images/img-e9d989bdee36.webp",
+      "bytes": 131048,
+      "sha256": "b1fe976d79b164749a6ca46cf8ef6b2fd1f0bc71a878469e1e950460ec042edb"
+    },
+    {
+      "path": "images/img-e9de2c496340.webp",
+      "bytes": 117274,
+      "sha256": "01b05a6a7c5338a2e211461a2003ca18a05a2860984e41f94ae21e17e37e3489"
+    },
+    {
+      "path": "images/img-ec704bf7a111.webp",
+      "bytes": 84162,
+      "sha256": "f0ad707ab3807c4a724f506cde724b2347226a18cbbc86eb835a58c95a25593a"
+    },
+    {
+      "path": "images/img-feda451b017b.webp",
+      "bytes": 193314,
+      "sha256": "64aad945c4b5c5f29a2f15bf27362a92de832030c3e6a5e4d4087125290cf549"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 41350,
+      "sha256": "b903a22ca13d077beb85fe2f1d70202226bc6a7bf3ff23f2ccf286c0c18347ab"
+    },
+    {
+      "path": "source.html",
+      "bytes": 543024,
+      "sha256": "2cac6c55a3f1990ecf211820b14ab89c49d9142f1389a15372b99f2a8edafb8d"
+    },
+    {
+      "path": "source.url",
+      "bytes": 107,
+      "sha256": "0f4f9eacbaf7d77f70a4204c5bb7e4b24acd4fb2bc86b5f2d97833cfdb775883"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/2200xxs.jpg",
+      "path": "images/img-c7114e236595.webp",
+      "media_type": "image/webp",
+      "bytes": 344444,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/697d24dd-1665-43b9-80a9-ef2912a2c350/je/2200xxs.jpg",
+      "path": "images/img-919541212f80.webp",
+      "media_type": "image/webp",
+      "bytes": 592080,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/2c9a60b3-1a6e-4e15-b41e-07c4a756678c/je/2200xxs.jpg",
+      "path": "images/img-b1b04363d4ae.webp",
+      "media_type": "image/webp",
+      "bytes": 157264,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/4a543174-cbec-4521-b94c-cced3fbe7079/je/2200xxs.jpg",
+      "path": "images/img-bb0db9ec9f24.webp",
+      "media_type": "image/webp",
+      "bytes": 406490,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/9fcb6049-4626-4e02-ad54-1abc4f8ef859/je/2200xxs.jpg",
+      "path": "images/img-4f947e597b36.webp",
+      "media_type": "image/webp",
+      "bytes": 348560,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/a0a330b5-8e3a-4af4-bc3e-4241e307bb09/je/2000xxs.jpg",
+      "path": "images/img-da312be111a2.webp",
+      "media_type": "image/webp",
+      "bytes": 127472,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/671e0715-1b40-4cf2-b77c-85da386f3ab7/je/2000xxs.jpg",
+      "path": "images/img-88a77369507f.webp",
+      "media_type": "image/webp",
+      "bytes": 60318,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/442036b5-fd05-4929-a312-5104705ca91c/je/2000xxs.jpg",
+      "path": "images/img-99f2a24979e5.webp",
+      "media_type": "image/webp",
+      "bytes": 121466,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/04d34909-2147-4d00-b8e7-966b1ec4bb21/je/2000xxs.jpg",
+      "path": "images/img-433eab1fde8a.webp",
+      "media_type": "image/webp",
+      "bytes": 75324,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/46eb9327-b1dd-47e1-8bda-db9e9fba2c7b/je/2000xxs.jpg",
+      "path": "images/img-bcfcc8be3969.webp",
+      "media_type": "image/webp",
+      "bytes": 216904,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/4dab742d-a70a-4345-8f9e-ee70d1182e89/je/2000xxs.jpg",
+      "path": "images/img-32d8026a39b1.webp",
+      "media_type": "image/webp",
+      "bytes": 332618,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/72092c50-18ba-42de-ad69-cde3798b1912/je/2000xxs.jpg",
+      "path": "images/img-52dd5e0331f6.webp",
+      "media_type": "image/webp",
+      "bytes": 210124,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/99e81726-f551-49c0-a456-a64946682473/je/2000xxs.jpg",
+      "path": "images/img-69f31dd1e868.webp",
+      "media_type": "image/webp",
+      "bytes": 426506,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/333f8f69-bc8b-4abb-9896-92000ccf5078/je/2000xxs.jpg",
+      "path": "images/img-1784548a1810.webp",
+      "media_type": "image/webp",
+      "bytes": 392394,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/c22b2191-bb2c-477f-b84c-4462f8cf084b/je/2000xxs.jpg",
+      "path": "images/img-459f011588e6.webp",
+      "media_type": "image/webp",
+      "bytes": 356896,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b236d517-790e-40a8-8242-bc7289fe73df/je/2000xxs.jpg",
+      "path": "images/img-b5d844bf5749.webp",
+      "media_type": "image/webp",
+      "bytes": 234666,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/c24c1c99-86ca-47f3-a490-c4f064b856f9/je/2000xxs.jpg",
+      "path": "images/img-9ddaa09629aa.webp",
+      "media_type": "image/webp",
+      "bytes": 256122,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/66bdffb9-696b-4c79-98c2-7a133980a84d/je/2000xxs.jpg",
+      "path": "images/img-c50f7a9af0bc.webp",
+      "media_type": "image/webp",
+      "bytes": 239946,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/87d6d7de-033d-4413-b3d2-b411b0aa71e3/je/2000xxs.jpg",
+      "path": "images/img-d6a2be838b85.webp",
+      "media_type": "image/webp",
+      "bytes": 288060,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/3b151c61-cd76-4a3d-83f8-02949b63b222/je/2000xxs.jpg",
+      "path": "images/img-2cafde46adbb.webp",
+      "media_type": "image/webp",
+      "bytes": 249036,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/98a4e6c4-724f-4721-8732-0fa4420b6647/je/2000xxs.jpg",
+      "path": "images/img-e9de2c496340.webp",
+      "media_type": "image/webp",
+      "bytes": 117274,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/06dc2aed-637d-4e38-a766-94843fc62bc8/je/2000xxs.jpg",
+      "path": "images/img-07d8db65705d.webp",
+      "media_type": "image/webp",
+      "bytes": 93994,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b6a80c1f-af08-4148-b062-9cb71e5d9bc4/je/2000xxs.jpg",
+      "path": "images/img-183071f85f53.webp",
+      "media_type": "image/webp",
+      "bytes": 125994,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/53880b33-09dd-4b46-aa0e-f00278203326/je/2000xxs.jpg",
+      "path": "images/img-3e94f55f34e9.webp",
+      "media_type": "image/webp",
+      "bytes": 135046,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/1190b82c-b2c2-45ff-bdd1-6d96151dae6f/je/2000xxs.jpg",
+      "path": "images/img-6511a90cb629.webp",
+      "media_type": "image/webp",
+      "bytes": 116528,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/c7b3b292-71b6-469f-b6b5-a07672acf7b7/je/2000xxs.jpg",
+      "path": "images/img-e4085aa775ed.webp",
+      "media_type": "image/webp",
+      "bytes": 135408,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/e4bcaab1-6a38-4f11-91f3-85346976a31d/je/2000xxs.jpg",
+      "path": "images/img-675439243e9f.webp",
+      "media_type": "image/webp",
+      "bytes": 43902,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/e6d7fad6-966e-43d8-9198-2cf375d96486/je/2000xxs.jpg",
+      "path": "images/img-7fe9445c6766.webp",
+      "media_type": "image/webp",
+      "bytes": 108326,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/2364e8b7-c523-4009-b472-fc5e0e180c8f/je/2000xxs.jpg",
+      "path": "images/img-2bab4033d5d0.webp",
+      "media_type": "image/webp",
+      "bytes": 79240,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/d3f27902-a101-4a1e-ba3a-dc22d1511610/je/2000xxs.jpg",
+      "path": "images/img-ca2b4898eda1.webp",
+      "media_type": "image/webp",
+      "bytes": 83262,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/1a69446e-2a8a-4284-b7c6-af91eff06533/je/2000xxs.jpg",
+      "path": "images/img-8d1cf4811193.webp",
+      "media_type": "image/webp",
+      "bytes": 91142,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/ee3811f2-75e1-4485-909e-dc30027bf06f/je/2000xxs.jpg",
+      "path": "images/img-12f46569cecb.webp",
+      "media_type": "image/webp",
+      "bytes": 81050,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/481da175-0e45-4e27-9f91-40f89eb38ac1/je/2000xxs.jpg",
+      "path": "images/img-597888f29bd5.webp",
+      "media_type": "image/webp",
+      "bytes": 90260,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/da4af2fd-34a3-4b41-8a53-dc3f945789a1/je/2000xxs.jpg",
+      "path": "images/img-ec704bf7a111.webp",
+      "media_type": "image/webp",
+      "bytes": 84162,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/e93d13dd-b30e-4be9-a466-24e2b93d7aae/je/2000xxs.jpg",
+      "path": "images/img-4e9400d771f0.webp",
+      "media_type": "image/webp",
+      "bytes": 116400,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/0a078469-f558-435f-866d-eaaf486d53c4/je/2000xxs.jpg",
+      "path": "images/img-7044c46392ba.webp",
+      "media_type": "image/webp",
+      "bytes": 147852,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/69e84eab-94e8-41f2-b66d-2db2c31bf170/je/2000xxs.jpg",
+      "path": "images/img-1dc0c291f710.webp",
+      "media_type": "image/webp",
+      "bytes": 118106,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/f27fa89a-dbbf-418c-ab5f-1f7f018d37fc/je/2000xxs.jpg",
+      "path": "images/img-e9d989bdee36.webp",
+      "media_type": "image/webp",
+      "bytes": 131048,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/7cba88c4-e60f-420d-9c47-43b858c10de9/je/2000xxs.jpg",
+      "path": "images/img-59f9e5f7984a.webp",
+      "media_type": "image/webp",
+      "bytes": 82150,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/5700c0e8-99c1-4f1a-9d5a-42e894627f5d/je/2000xxs.jpg",
+      "path": "images/img-feda451b017b.webp",
+      "media_type": "image/webp",
+      "bytes": 193314,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/d30a421c-201a-409a-b850-726e441dc267/je/2000xxs.jpg",
+      "path": "images/img-01c3ecf5ce4b.webp",
+      "media_type": "image/webp",
+      "bytes": 631210,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/3e027621-e941-42c4-bd09-decc4c3b1cd8/je/2000xxs.jpg",
+      "path": "images/img-1db670b38ebd.webp",
+      "media_type": "image/webp",
+      "bytes": 609194,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/39834376-1f7e-462c-8375-4be2dca90d2e/je/2000xxs.jpg",
+      "path": "images/img-24894f14e0ee.webp",
+      "media_type": "image/webp",
+      "bytes": 377426,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/86adff66-f4d8-40bf-a08d-c40e1a6e0a6e/je/2000xxs.jpg",
+      "path": "images/img-7f37edb3e322.webp",
+      "media_type": "image/webp",
+      "bytes": 144306,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/010e1124-536d-4309-bc4f-4ee1d939bfe8/je/2000xxs.jpg",
+      "path": "images/img-62c4cc9aa7ff.webp",
+      "media_type": "image/webp",
+      "bytes": 156658,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/a06df68e-2bfe-47d0-896e-59e552b9fe1e/je/2000xxs.jpg",
+      "path": "images/img-18d07608b53b.webp",
+      "media_type": "image/webp",
+      "bytes": 283676,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/31235cc6-f894-4ad3-a40e-02ff5198101e/je/2000xxs.jpg",
+      "path": "images/img-38359e23f1fd.webp",
+      "media_type": "image/webp",
+      "bytes": 351874,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/1bb997ef-bd9c-45cc-a54b-f0030b3a80a5/je/2000xxs.jpg",
+      "path": "images/img-c0f046a0e207.webp",
+      "media_type": "image/webp",
+      "bytes": 441362,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/dadac9e2-64b6-44a7-a032-65c10164c5ea/je/2000xxs.jpg",
+      "path": "images/img-90b0203c5bc2.webp",
+      "media_type": "image/webp",
+      "bytes": 122862,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b765e33f-c747-4d47-b9d4-17b019c164ee/je/2000xxs.jpg",
+      "path": "images/img-5ad289ce55c0.webp",
+      "media_type": "image/webp",
+      "bytes": 219268,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/d9021cfa-9b31-4580-b40c-9ad13482bc92/je/2000xxs.jpg",
+      "path": "images/img-3575fd51f25e.webp",
+      "media_type": "image/webp",
+      "bytes": 440782,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/46932cf2-6262-4f55-9c3d-9b0f48e38b76/je/2000xxs.jpg",
+      "path": "images/img-1eb02aec8b72.webp",
+      "media_type": "image/webp",
+      "bytes": 254820,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/0b79610b-3d41-43f0-9cfc-e39e37d40ec6/je/2000xxs.jpg",
+      "path": "images/img-05e924246df6.webp",
+      "media_type": "image/webp",
+      "bytes": 209944,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/fc79fc25-1ed9-4ae2-afd4-22d7f2dfa733/je/2000xxs.jpg",
+      "path": "images/img-4ca51c2c69aa.webp",
+      "media_type": "image/webp",
+      "bytes": 117654,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/61f5d161-0aef-4e6f-98cd-613a4d40539f/je/2000xxs.jpg",
+      "path": "images/img-7d6c0bb31db6.webp",
+      "media_type": "image/webp",
+      "bytes": 348980,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2200xxs%288%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2200xxs%289%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2200xxs%2810%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 56,
+    "images_existing": 0,
+    "images_failed": 19,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

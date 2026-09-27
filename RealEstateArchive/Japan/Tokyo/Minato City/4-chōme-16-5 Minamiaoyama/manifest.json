@@ -1,0 +1,478 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/minato-city-japan/minami-aoyama-estate-a-private-domain-behind-omotesando-17627349",
+    "canonical_url": "https://www.jamesedition.com/real_estate/minato-city-japan/minami-aoyama-estate-a-private-domain-behind-omotesando-17627349",
+    "site": "jamesedition",
+    "listing_id": "17627349",
+    "first_listed": "Apr 9",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-08-28T00:29:20.048074Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4921,
+      "sha256": "3b89e0151343430806081776589b354944e042b529f54fb672f785f947d0368f"
+    },
+    {
+      "path": "images/img-1d33c8efe59e.webp",
+      "bytes": 82928,
+      "sha256": "cf039888bf3ddad60ea63e698169006db9684b7e2ac5aafc603fbd4c9b6083a6"
+    },
+    {
+      "path": "images/img-20ade8335c8f.webp",
+      "bytes": 1042,
+      "sha256": "77f37f341d2f0527a6c78049990325e7c46c70b4183a83568c0151e78e71a824"
+    },
+    {
+      "path": "images/img-257e44c3c664.webp",
+      "bytes": 104736,
+      "sha256": "ae68aaed24019a8d01a8484e3a6e17fbf4203d81be1ea1fd3ce89ef4a1938f19"
+    },
+    {
+      "path": "images/img-298fbc7eb144.webp",
+      "bytes": 202876,
+      "sha256": "b9268003e9bce1b920c25c5b6a4477e650783053a460605808e8a1f464ffa200"
+    },
+    {
+      "path": "images/img-2abb891f3d44.webp",
+      "bytes": 117466,
+      "sha256": "f57a705c19c82f4c52d50b0dd0bc89637abda518a16cdcc6d9eb1df1cab9fcb7"
+    },
+    {
+      "path": "images/img-3180a3d0066c.webp",
+      "bytes": 119724,
+      "sha256": "1272ce921996538067eccd1ec47afbebdb8e9009e7e5e657aee868e42f76b705"
+    },
+    {
+      "path": "images/img-32829919775d.webp",
+      "bytes": 169664,
+      "sha256": "7359c804a6a6b3c59a0f637a41ba7a7699594cd9e307df406f32e2d2fd1f28de"
+    },
+    {
+      "path": "images/img-38bd8544c718.webp",
+      "bytes": 91044,
+      "sha256": "498bf88581426c245fd4282896f36885d760a78a5a0bf4008cb445c4360edc53"
+    },
+    {
+      "path": "images/img-3c9ecace2712.webp",
+      "bytes": 100072,
+      "sha256": "643600b3bce8791846ca6e58d2c7f062674bbd01344b61b835d78ab5021fb714"
+    },
+    {
+      "path": "images/img-408666f548a9.webp",
+      "bytes": 120166,
+      "sha256": "efcdd6f8cb8014a3111c4c111f06d5c3c3574aaa4339d3795618313b8270132f"
+    },
+    {
+      "path": "images/img-4ac2cf9b605f.webp",
+      "bytes": 102428,
+      "sha256": "432f30c2ac06f846c7b187051a7afd21e72856271183acecc3c266eed7cc7aee"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-67e82f7bfe8f.webp",
+      "bytes": 114612,
+      "sha256": "4cb38cf0c35921993ed535fa779d9086fc263e13e896c2cb02e83544a37a051b"
+    },
+    {
+      "path": "images/img-6c851ab104f6.webp",
+      "bytes": 177890,
+      "sha256": "ed500bff82344a2d5987f373e1007b1eb513dbe580c1d0a97b30beacacac00d4"
+    },
+    {
+      "path": "images/img-6d1e34953e0e.webp",
+      "bytes": 188448,
+      "sha256": "294fc5b747eabc236e04d99d17ea4cecb1bcd786811f2a0513d5e73d47e2e087"
+    },
+    {
+      "path": "images/img-6f409d425670.webp",
+      "bytes": 179054,
+      "sha256": "2cf8a85f2847e5927a809dd3423b1ac6216932bcee900873638e721bc3e82798"
+    },
+    {
+      "path": "images/img-7566bfd8e906.webp",
+      "bytes": 136472,
+      "sha256": "73df4092459d9e8d6213a6977d2b0edb1c4f6fb53a6496af077a8d0914c2676f"
+    },
+    {
+      "path": "images/img-762cf8fba4a5.webp",
+      "bytes": 360200,
+      "sha256": "0342fb4efcbc9937f3e3c500d963799840e236f325214ab1e0040cbba6a72fdf"
+    },
+    {
+      "path": "images/img-8e1b5cd4ddae.webp",
+      "bytes": 153196,
+      "sha256": "30b943ef97b6b57dc33963080f9402ee6efb4af5b102b118eeac9e1eb662252f"
+    },
+    {
+      "path": "images/img-928be66282e6.webp",
+      "bytes": 131254,
+      "sha256": "0814ac332ff6c8f446c97b6ee6de69595b9b6c33f175fb6f8d7673b4308f0f5d"
+    },
+    {
+      "path": "images/img-9510ff6126bd.webp",
+      "bytes": 117280,
+      "sha256": "ff83825f091a7aafbcbb17deca983301e87441241f0bc4896a4bedbd9cc968eb"
+    },
+    {
+      "path": "images/img-9b9e3fb60a0b.webp",
+      "bytes": 142746,
+      "sha256": "4b3361cbb70aed6d7f4e07ee518b7649fee0f4f21e22bbdfbf01cdad0f47b4f6"
+    },
+    {
+      "path": "images/img-d3ce3a5bbf34.webp",
+      "bytes": 108840,
+      "sha256": "69e9a16c9e63605043a13ec88af17ab8694ccaa6ed4814addf6234da7193d93d"
+    },
+    {
+      "path": "images/img-eaea916e1022.webp",
+      "bytes": 218872,
+      "sha256": "202dfdab27cd23efb2b28ecaf499e796ee91f5bf5ac1357750d032480e6415ae"
+    },
+    {
+      "path": "images/img-f3d74d79dd92.webp",
+      "bytes": 515508,
+      "sha256": "af6e339947c32989b15915ab28d416edd8f94c08ded50e90a6b27c50b14448c5"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 32744,
+      "sha256": "cb161669e8a6b8c85f02f58aaac14fd78ec1fc64c88aa0a7aee516b606a62c3f"
+    },
+    {
+      "path": "source.html",
+      "bytes": 498005,
+      "sha256": "a365148031b9fea7d6d1808a610eef7e1db766475f080309fc99f26ccd292bce"
+    },
+    {
+      "path": "source.url",
+      "bytes": 124,
+      "sha256": "3e5d399648d31b8177b58aee20a46e6df8d55eeacf4015628d1fc91e6ddca3b9"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/2200xxs.jpg",
+      "path": "images/img-6f409d425670.webp",
+      "media_type": "image/webp",
+      "bytes": 179054,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/2200xxs.jpg",
+      "path": "images/img-eaea916e1022.webp",
+      "media_type": "image/webp",
+      "bytes": 218872,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/2200xxs.jpg",
+      "path": "images/img-6d1e34953e0e.webp",
+      "media_type": "image/webp",
+      "bytes": 188448,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/2200xxs.jpg",
+      "path": "images/img-67e82f7bfe8f.webp",
+      "media_type": "image/webp",
+      "bytes": 114612,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/2200xxs.jpg",
+      "path": "images/img-2abb891f3d44.webp",
+      "media_type": "image/webp",
+      "bytes": 117466,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/41f478bd-18b7-451d-9e51-edac4abb9e95/je/2000xxs.jpg",
+      "path": "images/img-928be66282e6.webp",
+      "media_type": "image/webp",
+      "bytes": 131254,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/f8a74b95-b82f-474b-9e33-180f91be505c/je/2000xxs.jpg",
+      "path": "images/img-32829919775d.webp",
+      "media_type": "image/webp",
+      "bytes": 169664,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/91b4d1bc-6169-4819-90d6-1cefc1bfd347/je/2000xxs.jpg",
+      "path": "images/img-762cf8fba4a5.webp",
+      "media_type": "image/webp",
+      "bytes": 360200,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/2afb7ccb-7845-4092-b5de-36399d753303/je/2000xxs.jpg",
+      "path": "images/img-f3d74d79dd92.webp",
+      "media_type": "image/webp",
+      "bytes": 515508,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/6d33b33a-2197-4311-8c56-5af92a3802cb/je/2000xxs.jpg",
+      "path": "images/img-4ac2cf9b605f.webp",
+      "media_type": "image/webp",
+      "bytes": 102428,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/b3f6ed1e-8e8f-40e5-b1f3-22ae65252ddf/je/2000xxs.jpg",
+      "path": "images/img-9510ff6126bd.webp",
+      "media_type": "image/webp",
+      "bytes": 117280,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/03b2b861-59ac-4dd0-ad38-cae93e9004e6/je/2000xxs.jpg",
+      "path": "images/img-8e1b5cd4ddae.webp",
+      "media_type": "image/webp",
+      "bytes": 153196,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/1c634a79-2fd2-4c25-bcc6-1c1be7666590/je/2000xxs.jpg",
+      "path": "images/img-257e44c3c664.webp",
+      "media_type": "image/webp",
+      "bytes": 104736,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/964642f3-1b16-4a9e-b24a-859e220c419c/je/2000xxs.jpg",
+      "path": "images/img-3c9ecace2712.webp",
+      "media_type": "image/webp",
+      "bytes": 100072,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/bd01794e-996c-4343-82f4-5d0672b30f37/je/2000xxs.jpg",
+      "path": "images/img-408666f548a9.webp",
+      "media_type": "image/webp",
+      "bytes": 120166,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/04fae89e-1968-48ea-9255-af2f281fd6ae/je/2000xxs.jpg",
+      "path": "images/img-d3ce3a5bbf34.webp",
+      "media_type": "image/webp",
+      "bytes": 108840,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/23cff36a-fb2a-4849-9c01-b373ecd3841e/je/2000xxs.jpg",
+      "path": "images/img-7566bfd8e906.webp",
+      "media_type": "image/webp",
+      "bytes": 136472,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/a18d3fcb-925e-48dc-923f-da5ff33b4298/je/2000xxs.jpg",
+      "path": "images/img-6c851ab104f6.webp",
+      "media_type": "image/webp",
+      "bytes": 177890,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/5f1344a2-590d-4378-a088-448914714af4/je/2000xxs.jpg",
+      "path": "images/img-3180a3d0066c.webp",
+      "media_type": "image/webp",
+      "bytes": 119724,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/06d6fff8-e860-4390-af66-b35c68f39c96/je/2000xxs.jpg",
+      "path": "images/img-1d33c8efe59e.webp",
+      "media_type": "image/webp",
+      "bytes": 82928,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/feea1710-0354-4f0b-812f-08df86c8c7b9/je/2000xxs.jpg",
+      "path": "images/img-38bd8544c718.webp",
+      "media_type": "image/webp",
+      "bytes": 91044,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/f7cf7a84-bb6b-4338-8655-7620b7ed8f84/je/2000xxs.jpg",
+      "path": "images/img-298fbc7eb144.webp",
+      "media_type": "image/webp",
+      "bytes": 202876,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d6bc2e43-0634-4555-acfe-353611f6f6b8/je/2000xxs.jpg",
+      "path": "images/img-9b9e3fb60a0b.webp",
+      "media_type": "image/webp",
+      "bytes": 142746,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2200xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
+      "path": "images/img-20ade8335c8f.webp",
+      "media_type": "image/webp",
+      "bytes": 1042,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 25,
+    "images_existing": 0,
+    "images_failed": 18,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,648 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/private-haven-in-bar-bc-ranch-18183270",
+    "canonical_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/private-haven-in-bar-bc-ranch-18183270",
+    "site": "jamesedition",
+    "listing_id": "18183270",
+    "listing_reference": "VPEG5P",
+    "first_listed": "Jun 15",
+    "last_updated": "June 16",
+    "retrieved_at": "2026-09-26T18:46:40.522035Z"
+  },
+  "location": {
+    "address": "1125 W Bar BC Ranch Road , Jackson, WY 83001, Wyoming, United States",
+    "street": "1125 W Bar BC Ranch Road",
+    "municipality": "Jackson",
+    "region": "Wyoming",
+    "postal_code": "83001",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=43.5364385,-110.7879309",
+    "latitude": 43.5364385,
+    "longitude": -110.7879309
+  },
+  "property": {
+    "title": "Private Haven In Bar Bc Ranch",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 39500000,
+      "currency": "USD",
+      "display": "$39,500,000"
+    },
+    "price_per_area": {
+      "amount": 3278,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$3,278"
+    },
+    "bedrooms": 7,
+    "bathrooms": 12,
+    "interior_area": {
+      "value": 12050,
+      "unit": "sqft",
+      "display": "12,050 Sqft"
+    },
+    "lot_area": {
+      "value": 37.62,
+      "display": "37.62 Ac lot"
+    },
+    "year_built": 2019,
+    "photo_count": 44,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6400376457112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "Discover this private haven in Bar BC Ranch, a gated community featuring Teton views, beautiful natural habitat \u0026amp; exceptional wildlife-viewing opportunities. Enjoy privileged access to the Snake and Gros Ventre Rivers. Set on 37.62 acres, the traditional 10,988 square foot, seven-bedroom, 10-bathroom, custom log home is the quintessential luxury mountain retreat offering intimate spaces, crackling wood-burning fireplaces, exceptional views, and coveted amenities including an in-home theater, a bar with Cowboy Bar-inspired saddle barstools, and a gym. A 1,062 square foot, two-bedroom, two-bathroom guest house sits above a four-stall garage. The outdoor spaces offer a pool, hot tub, gas firepit, and a gazebo to enjoy the incredible setting. Minutes from fine dining, golfing, skiing \u0026amp; the Town Square, the property offers privacy and convenience.",
+    "features": [
+      "Bar",
+      "Basement",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Gated Community",
+      "Jacuzzi",
+      "Pool",
+      "Privacy"
+    ]
+  },
+  "broker": {
+    "agent": "Tom Evans \u0026 Ashley DiPrisco Real Estate",
+    "agency": "Jackson Hole Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/jackson-hole-sotheby-s-international-realty-10613",
+    "agency_address": "185 West Broadway P.O. Box 3281, P.O. Box 3281, 83001, Jackson, Wyoming, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/8274e55e-29a7-4ac0-931c-4b6e0a2ba9ec/je/2200xxs.jpg",
+      "file": "img-0c2e36801a1e.webp",
+      "media_type": "image/webp",
+      "bytes": 482314,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/9163bdbc-22c3-4c31-aec7-255d4588a590/je/2200xxs.jpg",
+      "file": "img-af2ffa520d51.webp",
+      "media_type": "image/webp",
+      "bytes": 498952,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/bb7bd5ac-2357-48d3-8054-b57d7ba846ef/je/2200xxs.jpg",
+      "file": "img-0d09b854b845.webp",
+      "media_type": "image/webp",
+      "bytes": 451798,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/bf38c0a2-7814-4604-9f3b-4665426c0eb6/je/2200xxs.jpg",
+      "file": "img-ff51ad9c1c2c.webp",
+      "media_type": "image/webp",
+      "bytes": 676210,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/ea7381bd-da12-470c-a273-0dee804e1ac9/je/2200xxs.jpg",
+      "file": "img-0a09b5e96988.webp",
+      "media_type": "image/webp",
+      "bytes": 539876,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/request_plan_bg-33cc1401.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/street_view-b1ba588c.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/769f559e-6010-4c17-92d8-8ae0b1c3ceeb/je/2000xxs.jpg",
+      "file": "img-d8307260f439.webp",
+      "media_type": "image/webp",
+      "bytes": 488914,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/b3cacb98-8d0c-4d11-9cb0-ada4baebb8e6/je/2000xxs.jpg",
+      "file": "img-0911997c5da1.webp",
+      "media_type": "image/webp",
+      "bytes": 407646,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/6e4e02d9-618c-45ec-b8e2-a11cdc092995/je/2000xxs.jpg",
+      "file": "img-cfef7dcd4668.webp",
+      "media_type": "image/webp",
+      "bytes": 359628,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/bd874a55-97a9-41cc-8bae-e169d8df658a/je/2000xxs.jpg",
+      "file": "img-01958ec8192e.webp",
+      "media_type": "image/webp",
+      "bytes": 425212,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/8a136951-3b50-4606-806d-b1ab611019ad/je/2000xxs.jpg",
+      "file": "img-7e9c8446f3f1.webp",
+      "media_type": "image/webp",
+      "bytes": 321016,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/6e58c5e9-cc4b-4665-b997-b82e1ede8d9e/je/2000xxs.jpg",
+      "file": "img-e7dd2f2aea9d.webp",
+      "media_type": "image/webp",
+      "bytes": 319690,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/10/931602f0-3200-41d1-941b-ca175b9511ed/je/2000xxs.jpg",
+      "file": "img-750cc640169d.webp",
+      "media_type": "image/webp",
+      "bytes": 380596,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/a2bed33e-a1f0-4fbb-8421-9205830c1260/je/2000xxs.jpg",
+      "file": "img-765a1e35ca32.webp",
+      "media_type": "image/webp",
+      "bytes": 352888,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/c6b47ae7-821f-4b66-91c9-97832287a812/je/2000xxs.jpg",
+      "file": "img-0a30965c28cf.webp",
+      "media_type": "image/webp",
+      "bytes": 593078,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/c6e867c9-8d20-4308-b6b5-990a1127ed3d/je/2000xxs.jpg",
+      "file": "img-315930ad78af.webp",
+      "media_type": "image/webp",
+      "bytes": 637278,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/d290d911-7773-423d-ba97-2063f0e454f5/je/2000xxs.jpg",
+      "file": "img-ea376ced7514.webp",
+      "media_type": "image/webp",
+      "bytes": 366856,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/0fc80ad1-f100-4ee7-a914-dfcc088dbba9/je/2000xxs.jpg",
+      "file": "img-7a041ce2a3b7.webp",
+      "media_type": "image/webp",
+      "bytes": 453806,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/0fb8fda3-06f2-4f78-85a4-d325ba620bf2/je/2000xxs.jpg",
+      "file": "img-ba64bbd76c78.webp",
+      "media_type": "image/webp",
+      "bytes": 543698,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/390b9be6-b79c-455c-a40e-6b360422d0fd/je/2000xxs.jpg",
+      "file": "img-471872f88c64.webp",
+      "media_type": "image/webp",
+      "bytes": 472740,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/e03351d4-4b18-46b7-afc2-b2749888651c/je/2000xxs.jpg",
+      "file": "img-803f0ee6b386.webp",
+      "media_type": "image/webp",
+      "bytes": 515250,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/10/74b8b73f-fdaa-4978-bf60-a9264f314a3f/je/2000xxs.jpg",
+      "file": "img-90cdfc8d9db1.webp",
+      "media_type": "image/webp",
+      "bytes": 345412,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/10/71129084-1736-4dc2-af3e-df5cd6751fcb/je/2000xxs.jpg",
+      "file": "img-aeba2367bfac.webp",
+      "media_type": "image/webp",
+      "bytes": 507516,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/10/22937713-a4cb-447e-9bd5-f7fde3619d5f/je/2000xxs.jpg",
+      "file": "img-775f395f8e22.webp",
+      "media_type": "image/webp",
+      "bytes": 223466,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/10/da234e97-3e08-4063-ab2b-582dd2cccbd7/je/2000xxs.jpg",
+      "file": "img-0301627620f7.webp",
+      "media_type": "image/webp",
+      "bytes": 293010,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/4a3b8f7e-1322-41bb-8232-ec94edb84b06/je/2000xxs.jpg",
+      "file": "img-03c0015e4519.webp",
+      "media_type": "image/webp",
+      "bytes": 301578,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/10/a20023cd-9d85-4766-88f0-2333bed7ed0f/je/2000xxs.jpg",
+      "file": "img-82ae11a696e5.webp",
+      "media_type": "image/webp",
+      "bytes": 239406,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/34245dc3-44f1-45b3-aee9-eb854873e592/je/2000xxs.jpg",
+      "file": "img-4f6c7057db5f.webp",
+      "media_type": "image/webp",
+      "bytes": 367992,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/b102f7e9-736d-41cf-9537-87f6b5eb2730/je/2000xxs.jpg",
+      "file": "img-bf6838caa08e.webp",
+      "media_type": "image/webp",
+      "bytes": 347100,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/19/17/23/47/fdd6221c-2d1e-43f7-8499-2eb0af63f414/je/2000xxs.jpg",
+      "file": "img-330a2dcd3d0a.webp",
+      "media_type": "image/webp",
+      "bytes": 394044,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/10/0a8babe1-86e7-4d0c-ad35-7566b10bd18b/je/2000xxs.jpg",
+      "file": "img-24094379d683.webp",
+      "media_type": "image/webp",
+      "bytes": 354614,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/10/ba791835-9dcf-42cf-ae28-0f828a0293f1/je/2000xxs.jpg",
+      "file": "img-d0ead1f75d91.webp",
+      "media_type": "image/webp",
+      "bytes": 429724,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/6b4e5137-deaa-42a9-8ae4-af4dae141d24/je/2000xxs.jpg",
+      "file": "img-28a0b3478ef6.webp",
+      "media_type": "image/webp",
+      "bytes": 336084,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/cc9dbed5-e369-4ce5-9fd7-42fb3528c341/je/2000xxs.jpg",
+      "file": "img-3910c877c296.webp",
+      "media_type": "image/webp",
+      "bytes": 324362,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/b4264283-60d2-4d51-b0ba-8ee6a39088e4/je/2000xxs.jpg",
+      "file": "img-51be4192c6ab.webp",
+      "media_type": "image/webp",
+      "bytes": 281786,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/8094d997-1a96-4bad-9774-e4cd73b5cce0/je/2000xxs.jpg",
+      "file": "img-533f8b8fada4.webp",
+      "media_type": "image/webp",
+      "bytes": 228472,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/33fc67a8-3c3d-4ca7-9bc6-c3c8aa124f6e/je/2000xxs.jpg",
+      "file": "img-fd4672d8d539.webp",
+      "media_type": "image/webp",
+      "bytes": 251882,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/b7082d58-138c-4554-b200-471cf990c391/je/2000xxs.jpg",
+      "file": "img-4f4713ec8191.webp",
+      "media_type": "image/webp",
+      "bytes": 359118,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/5b4994ca-896b-4316-886a-06473e533f3a/je/2000xxs.jpg",
+      "file": "img-67ffa244550b.webp",
+      "media_type": "image/webp",
+      "bytes": 478652,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/06e19e95-f270-4c91-aeb9-ca2ae9c445c4/je/2000xxs.jpg",
+      "file": "img-4e6011fa2a9e.webp",
+      "media_type": "image/webp",
+      "bytes": 219070,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/da0655cf-5b48-40e4-ae5b-649a89bcbf4b/je/2000xxs.jpg",
+      "file": "img-7aad58c2828e.webp",
+      "media_type": "image/webp",
+      "bytes": 186890,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/e7cabeac-1370-4137-a50c-3bd03b9e4bc4/je/2000xxs.jpg",
+      "file": "img-050373c9836f.webp",
+      "media_type": "image/webp",
+      "bytes": 183036,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/d75fa3b3-c94c-40cd-836d-c90a0be0c3d7/je/2000xxs.jpg",
+      "file": "img-02df54d987ed.webp",
+      "media_type": "image/webp",
+      "bytes": 184556,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/f048d3ee-8f8e-40a9-badf-fd6d62a8e400/je/2000xxs.jpg",
+      "file": "img-2862f56bcb04.webp",
+      "media_type": "image/webp",
+      "bytes": 371526,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/3ad6e73d-c522-436d-b0a7-c1ad3fb4ebb8/je/2000xxs.jpg",
+      "file": "img-1b6959272077.webp",
+      "media_type": "image/webp",
+      "bytes": 141072,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/2200xxsxm%2817%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/2200xxsxm%2818%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/2200xxsxm%2816%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-d471af4d.svg",
+      "file": "img-dc90c501bd51.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-d7afb6cf.svg",
+      "file": "img-194c24efc5ac.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-74c4c5d9.svg",
+      "file": "img-08ae040ecb3d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/wy-united-states",
+              "name": "Wyoming"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/jackson-wy-usa",
+              "name": "Jackson"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/jackson-wy-usa/private-haven-in-bar-bc-ranch-18183270",
+              "name": "Private Haven In Bar Bc Ranch"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Discover this private haven in Bar BC Ranch, a gated community featuring Teton views, beautiful natural habitat \u0026amp; exceptional wildlife-viewing opportunities. Enjoy privileged access to the Snake and Gros Ventre Rivers. Set on 37.62 acres, the traditional 10,988 square foot, seven-bedroom, 10-bathroom, custom log home is the quintessential luxury mountain retreat offering intimate spaces, crackling wood-burning fireplaces, exceptional views, and coveted amenities including an in-home theater, a bar with Cowboy Bar-inspired saddle barstools, and a gym. A 1,062 square foot, two-bedroom, two-bathroom guest house sits above a four-stall garage. The outdoor spaces offer a pool, hot tub, gas firepit, and a gazebo to enjoy the incredible setting. Minutes from fine dining, golfing, skiing \u0026amp; the Town Square, the property offers privacy and convenience.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/23/15/43/06/8274e55e-29a7-4ac0-931c-4b6e0a2ba9ec/je/1040x620xc.jpg",
+        "name": "Private Haven In Bar Bc Ranch",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 39500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Jackson Hole Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/private-haven-in-bar-bc-ranch-18183270"
+      },
+      {
+        "@context": "http://schema.org",
+        "@id": "https://www.jamesedition.com/#organization",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/request_plan_bg-33cc1401.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/street_view-b1ba588c.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/2200xxsxm%2817%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/2200xxsxm%2818%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Private%20Haven%20In%20Bar%20Bc%20Ranch%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2818183270%29_files/2200xxsxm%2816%29.jpg: HTTP 429 Too Many Requests"
+  ]
+};

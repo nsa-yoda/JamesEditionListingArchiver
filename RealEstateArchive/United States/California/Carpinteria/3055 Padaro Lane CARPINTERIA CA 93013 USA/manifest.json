@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/oceanfront-paradise-with-expansive-private-grounds-17150841",
+    "canonical_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/oceanfront-paradise-with-expansive-private-grounds-17150841",
+    "site": "jamesedition",
+    "listing_id": "17150841",
+    "listing_reference": "9a4bf884-c5e9-47a7-b83c-55f3dc525417",
+    "first_listed": "Feb 12",
+    "last_updated": "June 12",
+    "retrieved_at": "2026-06-16T03:43:31.656463Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1961,
+      "sha256": "74b9a71831ada5f5810f083484068ca9419278e8fb89f959d58f40f4210eef09"
+    },
+    {
+      "path": "images/004-23b81c8f.webp",
+      "bytes": 315022,
+      "sha256": "7c868badf342e5233d774b8d614e36e063eff4e44c19a8048a0b68791f953f1b"
+    },
+    {
+      "path": "images/009-bc568a7b.webp",
+      "bytes": 231258,
+      "sha256": "242fd1b4ac3fa3ac6155b588da349213e850562aa04a7f1dfa3c184e46d411fa"
+    },
+    {
+      "path": "images/014-0e835e6b.webp",
+      "bytes": 494146,
+      "sha256": "33ac8699a7d75decaab8d55c3d1314b2b865d49ba04948fd052a0614679612f1"
+    },
+    {
+      "path": "images/019-c7ffd780.webp",
+      "bytes": 452386,
+      "sha256": "089919ca1af4826d66cfc91a333cd50bd43325aa12e717751fdf67b606b36313"
+    },
+    {
+      "path": "images/024-e8879b30.webp",
+      "bytes": 447462,
+      "sha256": "94ea390f2fb3aa215cb705ff7858bc72a942a606d4a64f8a3f8d607b01fa1cfb"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15450,
+      "sha256": "947603771d5f031c6adacadcf61e36edc6411d72eb97668667c750ab700245d1"
+    },
+    {
+      "path": "source.html",
+      "bytes": 333896,
+      "sha256": "221f058cb25cf25b97c1a1ca378af29dd8f9cdc4e4bae55b99bc2543a1be86f8"
+    },
+    {
+      "path": "source.url",
+      "bytes": 120,
+      "sha256": "51a50b1631e262e1e0c3a14c894924bc30a9a80d16d6f4f7b453b3d4e52ab2c5"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/12/04/26/12/7eb6360b-9ddc-4b5a-bbc6-225272e5b782/je/2200xxs.jpg",
+      "path": "images/004-23b81c8f.webp",
+      "media_type": "image/webp",
+      "bytes": 315022,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/Oceanfront%20Paradise%20With%20Expansive%20In%20Carpinteria,%20California,%20United%20States%20For%20Sale%20%2817150841%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/12/04/26/12/d067de31-22b6-4997-b9d7-676c38e24625/je/2200xxs.jpg",
+      "path": "images/009-bc568a7b.webp",
+      "media_type": "image/webp",
+      "bytes": 231258,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/Oceanfront%20Paradise%20With%20Expansive%20In%20Carpinteria,%20California,%20United%20States%20For%20Sale%20%2817150841%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/12/04/26/12/8098691d-0e4f-48cd-a84e-a5d9be4496b6/je/2200xxs.jpg",
+      "path": "images/014-0e835e6b.webp",
+      "media_type": "image/webp",
+      "bytes": 494146,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/Oceanfront%20Paradise%20With%20Expansive%20In%20Carpinteria,%20California,%20United%20States%20For%20Sale%20%2817150841%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/12/04/26/12/88f79ccb-b595-46fc-81ce-f99ab6e07f28/je/2200xxs.jpg",
+      "path": "images/019-c7ffd780.webp",
+      "media_type": "image/webp",
+      "bytes": 452386,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/Oceanfront%20Paradise%20With%20Expansive%20In%20Carpinteria,%20California,%20United%20States%20For%20Sale%20%2817150841%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/12/04/26/12/a81f7e3e-3594-4878-85d9-11a440a89723/je/2200xxs.jpg",
+      "path": "images/024-e8879b30.webp",
+      "media_type": "image/webp",
+      "bytes": 447462,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/Oceanfront%20Paradise%20With%20Expansive%20In%20Carpinteria,%20California,%20United%20States%20For%20Sale%20%2817150841%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/Oceanfront%20Paradise%20With%20Expansive%20In%20Carpinteria,%20California,%20United%20States%20For%20Sale%20%2817150841%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/Oceanfront%20Paradise%20With%20Expansive%20In%20Carpinteria,%20California,%20United%20States%20For%20Sale%20%2817150841%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carpinteria-ca-usa/Oceanfront%20Paradise%20With%20Expansive%20In%20Carpinteria,%20California,%20United%20States%20For%20Sale%20%2817150841%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

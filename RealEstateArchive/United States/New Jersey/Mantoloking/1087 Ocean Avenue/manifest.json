@@ -1,0 +1,977 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/single-family-residence-in-mantoloking-17548328",
+    "canonical_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/single-family-residence-in-mantoloking-17548328",
+    "site": "jamesedition",
+    "listing_id": "17548328",
+    "listing_reference": "22608737",
+    "first_listed": "Apr 2",
+    "last_updated": "April 2",
+    "retrieved_at": "2026-06-18T07:08:49.815678Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3014,
+      "sha256": "13cec2cf6107c50f8f58ec1545d48d54aa481c944de6e94a8934c1f4810f8073"
+    },
+    {
+      "path": "images/004-1a857df1.webp",
+      "bytes": 583308,
+      "sha256": "72efef9c5166b1bfd270b1d67c40bb1b42fe299292ede304a926e12c7117de07"
+    },
+    {
+      "path": "images/009-8dcd48c9.webp",
+      "bytes": 629320,
+      "sha256": "db92c62008ebc2323d7fc6bfe8340c91d4eb5b3fa0e7275a0d5d57f8a66188e1"
+    },
+    {
+      "path": "images/014-571ae296.webp",
+      "bytes": 409322,
+      "sha256": "62554b515fb18272e1dca994f1f72dc4f7492b17565510c253e57fa17ddd928f"
+    },
+    {
+      "path": "images/019-15472fd9.webp",
+      "bytes": 414122,
+      "sha256": "32abe353762224ea0d5025c632beb6842e21c1cb39250a34f82202a92913db94"
+    },
+    {
+      "path": "images/024-3f8c861c.webp",
+      "bytes": 573086,
+      "sha256": "c8cb8d91c67a9f8f827bcb588b384fdb4c5d7c861b279ddbf5b08a8eb6e666ef"
+    },
+    {
+      "path": "images/035-3d45db82.webp",
+      "bytes": 424102,
+      "sha256": "59f11d75f972bb7a7ef7ba09a69b7155e5f5e3104069f92060133741463d127c"
+    },
+    {
+      "path": "images/036-93dbba69.webp",
+      "bytes": 366966,
+      "sha256": "ff06f1c5bbb06f51d3f48fa38e9397601071676b87e6c3d898847311092c4f22"
+    },
+    {
+      "path": "images/037-e7f331dc.webp",
+      "bytes": 494340,
+      "sha256": "2d1de50b6b8473a05a9df711177f0232b3992cfe8e71c408a33a0033b965d25c"
+    },
+    {
+      "path": "images/038-63713dd3.webp",
+      "bytes": 438200,
+      "sha256": "043e09e7ba2de50bea841cff33576e4fa4aaaa15a8bf32477f3719aed21bdac5"
+    },
+    {
+      "path": "images/039-ba8c1f86.webp",
+      "bytes": 714218,
+      "sha256": "0cc249db6d42125f7f4a323b6ddf18611819ed76612cb6a22c4e64af53d89bc4"
+    },
+    {
+      "path": "images/040-46278ae1.webp",
+      "bytes": 450038,
+      "sha256": "4c8d809dfe6511178a8537fcfcd6403a5a2626c3741135450b7e6d2a676ce288"
+    },
+    {
+      "path": "images/041-622c22b1.webp",
+      "bytes": 435498,
+      "sha256": "57e139b9475056105822c3d1bfdfb7400f3a58e947dd53588e9fc88968a86281"
+    },
+    {
+      "path": "images/042-43847aee.webp",
+      "bytes": 418836,
+      "sha256": "bdba50bdb7e3c3b85250da72920f9d57658bf667121b73ad44810c640b176215"
+    },
+    {
+      "path": "images/043-50b8bb0c.webp",
+      "bytes": 345450,
+      "sha256": "5ec03a75c006cf91c1ab345cb2cb474df08ed804f4d5f5d3ff4690da9f3c2285"
+    },
+    {
+      "path": "images/044-9601444e.webp",
+      "bytes": 384842,
+      "sha256": "60604835fd71fd944b8fb96ba97c58d085d4956034d08c1b013aec4cc2ff25b0"
+    },
+    {
+      "path": "images/045-bebc1fb7.webp",
+      "bytes": 94172,
+      "sha256": "f27e37e9a8e97037682723d480fb7599ea3ff230d86ee65caf30777f25f91444"
+    },
+    {
+      "path": "images/046-37b7abbd.webp",
+      "bytes": 173400,
+      "sha256": "a4de7aceddcf0f27009364f89a09f901b4f077a3dcd3e363a25db5e947e49e80"
+    },
+    {
+      "path": "images/047-d4c9aab7.webp",
+      "bytes": 199516,
+      "sha256": "2deab9425d6ab6256ecf6c7f566c9076d226de0d2c1523edb5c798b3f0f86d51"
+    },
+    {
+      "path": "images/048-48940c87.webp",
+      "bytes": 188456,
+      "sha256": "183c9e75eddb552fa1a229887b553a2ab7d8c84be2290e105226f72a58ad9f3d"
+    },
+    {
+      "path": "images/049-cd00a149.webp",
+      "bytes": 203554,
+      "sha256": "5cdc1ab60f115ded7f47d07257c1ee69964706d5f3c5f4e688b89b9b2a3be663"
+    },
+    {
+      "path": "images/050-f5beef7e.webp",
+      "bytes": 91668,
+      "sha256": "82c4a995756648b85f427d96afae160bb90db6c76759466bc157142136b1d1ce"
+    },
+    {
+      "path": "images/051-040aafea.webp",
+      "bytes": 182044,
+      "sha256": "8a9cf5c87deb58cf182e689c3dd294cc1282c5ba40ed860cca08b37775eca695"
+    },
+    {
+      "path": "images/052-b98ff0b9.webp",
+      "bytes": 157212,
+      "sha256": "31b9912a9d85e68e6eff8de8bdfd8cb8a47ed9e6b557d63f1f0260a2746fbbdb"
+    },
+    {
+      "path": "images/053-57a03503.webp",
+      "bytes": 148480,
+      "sha256": "8ecaf8cb60e1591ed3e606214c2a19eb6b4d6525db597cb3ac966c4b0f94e888"
+    },
+    {
+      "path": "images/054-d39bcbae.webp",
+      "bytes": 153370,
+      "sha256": "433967dc153a78c8fb00474404211b30e3c0c6c0d83283d94f9eb1247e690c24"
+    },
+    {
+      "path": "images/055-e2b61b69.webp",
+      "bytes": 165084,
+      "sha256": "1f858f63cc956c74ef2fb25c716acccd88b5bd86bc099b0df5b4fe43fe7f076f"
+    },
+    {
+      "path": "images/056-faacdd75.webp",
+      "bytes": 108820,
+      "sha256": "2a5ca9acd781ad6d601a7d879b5272d1874b07478c4216ca907f7839aec1393c"
+    },
+    {
+      "path": "images/057-29ff6c95.webp",
+      "bytes": 110214,
+      "sha256": "f6ce870d7dbf638c8a5ab30c7a8c2dde88b4a1888c3db1585ac73e1f421b9535"
+    },
+    {
+      "path": "images/058-5319c5c7.webp",
+      "bytes": 346652,
+      "sha256": "386bdda6c1c9a2c6360036c9ff06b87ec02fd0f42b3411363a7f759bfa84119f"
+    },
+    {
+      "path": "images/059-2b717cae.webp",
+      "bytes": 299502,
+      "sha256": "1381ccdf9a29023d9c9f0bdbd96bdc49df1c86e6a103ee9a5b0d07a515022971"
+    },
+    {
+      "path": "images/060-787ff771.webp",
+      "bytes": 152562,
+      "sha256": "b34d3f595069dd5cee8716a89c2b8482349ef1c1715858a19d4769f50b50225d"
+    },
+    {
+      "path": "images/061-9f74d90a.webp",
+      "bytes": 128644,
+      "sha256": "a9830fec91582c25c470333c81f6c9b9c65e61dea974c570c22e117bdbbca201"
+    },
+    {
+      "path": "images/062-81b17a0f.webp",
+      "bytes": 105524,
+      "sha256": "89f3b692d62acd79a789270158ab3782a0cfd206dbce70d04e14f9b8f4a5965f"
+    },
+    {
+      "path": "images/063-4b789290.webp",
+      "bytes": 66606,
+      "sha256": "0f00bd836870e1bf99100a8075e0e8cfca41324b94ebd4a42997c35d42d2c603"
+    },
+    {
+      "path": "images/064-69cd986c.webp",
+      "bytes": 114922,
+      "sha256": "87aba8924b0baf47c82efa91f43aedfe49cc6bd7d7c7dbfad59338bbb4031156"
+    },
+    {
+      "path": "images/065-b1cc2679.webp",
+      "bytes": 143350,
+      "sha256": "638bcc86f2e6188f6f88de7cd1dab9f2f8e862fa6238eb6cf1cffa7eec0ecc03"
+    },
+    {
+      "path": "images/066-a615edae.webp",
+      "bytes": 118556,
+      "sha256": "085f8d2f8858e58f847c962fe9f7821bf7e3a8ca7e65d2fe76b1fac828b139a2"
+    },
+    {
+      "path": "images/067-591946fb.webp",
+      "bytes": 67672,
+      "sha256": "81473fde99529f70c5acfc64d90bc7d74da418f84e803f0ca17fc94dc09f4a56"
+    },
+    {
+      "path": "images/068-32db9807.webp",
+      "bytes": 71158,
+      "sha256": "0fdff322fea2048ce45320f29770a446952529aaef5ceac851ac6589ef394bfd"
+    },
+    {
+      "path": "images/069-b13d1abb.webp",
+      "bytes": 120516,
+      "sha256": "299f8b4c50ff373d32a32e0596dcb18cc2cf4d064f1b6439581dcc0b77cc15ec"
+    },
+    {
+      "path": "images/070-44d85f75.webp",
+      "bytes": 138188,
+      "sha256": "b6edf826d36e6644edfdeb38d9b23b2e9c3edfec82c6fc93ea14d23a2d7698a8"
+    },
+    {
+      "path": "images/071-2554b8e9.webp",
+      "bytes": 137810,
+      "sha256": "7a48d9c1d256fb2d983410486e6f72f74f70e8bda601f74687ba566c7f9504e0"
+    },
+    {
+      "path": "images/072-31f1212a.webp",
+      "bytes": 121020,
+      "sha256": "18d0dd21c7cd6f4c1addf6770f354a77e8576258a00d12074d32e9f35d11a38f"
+    },
+    {
+      "path": "images/073-ee778d68.webp",
+      "bytes": 99188,
+      "sha256": "bfff5e154cc8af30c299ae850bdc04e96fbeb8bf0585c33530a01ecc354c0daf"
+    },
+    {
+      "path": "images/074-c74eb4b8.webp",
+      "bytes": 94808,
+      "sha256": "f8c6c85b691417ea89ef5f1163b1209397f80e742b0a29ff2e1ecd62d4d8d1a5"
+    },
+    {
+      "path": "images/075-5d4e7cb7.webp",
+      "bytes": 64422,
+      "sha256": "b8935d11430f8086bd72725cd609071224f3366d0655430a1e476c12377888a2"
+    },
+    {
+      "path": "images/076-2f60bc4b.webp",
+      "bytes": 51536,
+      "sha256": "1a99252df7a7a08a22de7d181b8dfe93f0c3735b692473ca68d09bc016e8243a"
+    },
+    {
+      "path": "images/077-a6e7511b.webp",
+      "bytes": 140082,
+      "sha256": "70fd81e825131317fe32b989b2fc457fbb361b84aaa2887bca30e81643074350"
+    },
+    {
+      "path": "images/078-13797386.webp",
+      "bytes": 126120,
+      "sha256": "a3caa748ae9cdec91457d08eccb79ea599cb2b4bc6977144332e05099e0c55f8"
+    },
+    {
+      "path": "images/079-06141e6b.webp",
+      "bytes": 178716,
+      "sha256": "16cf23524bb07b788d21da5c83c5b1a52829f7434d93c548621fa83964ba170a"
+    },
+    {
+      "path": "images/080-65e5efe7.webp",
+      "bytes": 253416,
+      "sha256": "17a91e86a81e0e93f962e1ff7ca7d01adadb8fca577c59db1a40ebd7a112db2a"
+    },
+    {
+      "path": "images/081-d78cabc6.webp",
+      "bytes": 398834,
+      "sha256": "bf533f8cd7615757a8ec819a4d79a17e24725e42836d71136782c6dd9b768257"
+    },
+    {
+      "path": "images/082-bb459deb.webp",
+      "bytes": 162132,
+      "sha256": "6452ee22f786cc2418d508901181056551a1eee525d18a29580a39cdab0da20f"
+    },
+    {
+      "path": "images/083-d034f944.webp",
+      "bytes": 143298,
+      "sha256": "8c8382f622e34cc353b112ddcefdeacddc2a045efe0126bb41323f3cfdfe6c23"
+    },
+    {
+      "path": "images/084-69d7e3f7.webp",
+      "bytes": 150852,
+      "sha256": "ec541065bb6a087fd7554d3cbc1da432d1f21ac407d3d622d4e93adc7e95814e"
+    },
+    {
+      "path": "images/085-3a256567.webp",
+      "bytes": 139940,
+      "sha256": "52f0f225b77dfbc8135f4e10eeff1f0c32a34ddef8ac526a66116d139fb5c629"
+    },
+    {
+      "path": "images/086-a3e1ebf6.webp",
+      "bytes": 121128,
+      "sha256": "ae5d001fb812f7fd879cea41c802a57315ff59d00d02e778d8a3712f234d527e"
+    },
+    {
+      "path": "images/087-8b8de500.webp",
+      "bytes": 230588,
+      "sha256": "84a2622775abf3bd61aa16134e49e434108f353f8c0c1adf5873d19512fc05d5"
+    },
+    {
+      "path": "images/088-2e6e288e.webp",
+      "bytes": 335186,
+      "sha256": "811fbb848ee9694fb9f6667af366fb44165d66c88df260bb406648c8f7dd03ef"
+    },
+    {
+      "path": "images/089-e48ae86c.webp",
+      "bytes": 59114,
+      "sha256": "b7c1ae2c91f4a39c59126be7b0c9a15c395fa773624ac97076b98e21f51f1ccf"
+    },
+    {
+      "path": "images/090-d96525d3.webp",
+      "bytes": 49772,
+      "sha256": "8db36298fbdb2d19201c348bc92ee53a0e0190b4318968768daf986cd6f6b59f"
+    },
+    {
+      "path": "images/091-10f55d71.webp",
+      "bytes": 54650,
+      "sha256": "826df7fee7e11278de3135739571735c69242291fcbe6a6421e038549cc3d821"
+    },
+    {
+      "path": "images/092-cbaa9985.webp",
+      "bytes": 27610,
+      "sha256": "75c33a232f04f49caf40e83afdba5a47aafcce4a87a218b59a7be54de23535f3"
+    },
+    {
+      "path": "images/097-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/098-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/099-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/100-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 35110,
+      "sha256": "c370426c96bd67c6450496baa13832448ce30f482b4236bd166a126152026065"
+    },
+    {
+      "path": "source.html",
+      "bytes": 493032,
+      "sha256": "f42ec85560b52a69b7f102a5a912fa3acd437b8d3160abd77c926c548c4ff9f6"
+    },
+    {
+      "path": "source.url",
+      "bytes": 108,
+      "sha256": "35aadea708e5cd5401ac866f8255eeb5c17c53c6d109e7ed0efe60ea00d028d4"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/2200xxs.jpg",
+      "path": "images/004-1a857df1.webp",
+      "media_type": "image/webp",
+      "bytes": 583308,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/2200xxs.jpg",
+      "path": "images/009-8dcd48c9.webp",
+      "media_type": "image/webp",
+      "bytes": 629320,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/2200xxs.jpg",
+      "path": "images/014-571ae296.webp",
+      "media_type": "image/webp",
+      "bytes": 409322,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/2200xxs.jpg",
+      "path": "images/019-15472fd9.webp",
+      "media_type": "image/webp",
+      "bytes": 414122,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/2200xxs.jpg",
+      "path": "images/024-3f8c861c.webp",
+      "media_type": "image/webp",
+      "bytes": 573086,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/M00000452.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/a3b04037-379e-4e49-abc3-aa5790b2b8bd/je/2000xxs.jpg",
+      "path": "images/035-3d45db82.webp",
+      "media_type": "image/webp",
+      "bytes": 424102,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/7bfe73fd-9ad4-4f9a-9575-98a113911686/je/2000xxs.jpg",
+      "path": "images/036-93dbba69.webp",
+      "media_type": "image/webp",
+      "bytes": 366966,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/e6d387af-8081-4439-a71f-0b2e7f6bae48/je/2000xxs.jpg",
+      "path": "images/037-e7f331dc.webp",
+      "media_type": "image/webp",
+      "bytes": 494340,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/76db2e0a-34aa-4180-8d08-e5612e579fd9/je/2000xxs.jpg",
+      "path": "images/038-63713dd3.webp",
+      "media_type": "image/webp",
+      "bytes": 438200,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/16cd3f5c-e458-4bf7-b9cf-23b8d5ef3ed3/je/2000xxs.jpg",
+      "path": "images/039-ba8c1f86.webp",
+      "media_type": "image/webp",
+      "bytes": 714218,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/6f7ae8b1-5207-46c0-a1cd-e41f778f37d5/je/2000xxs.jpg",
+      "path": "images/040-46278ae1.webp",
+      "media_type": "image/webp",
+      "bytes": 450038,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/63ccbfa0-5957-4b18-a8e9-e4e4e1582f3c/je/2000xxs.jpg",
+      "path": "images/041-622c22b1.webp",
+      "media_type": "image/webp",
+      "bytes": 435498,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/f209ecdc-b916-4faa-925d-cc42984c5f1a/je/2000xxs.jpg",
+      "path": "images/042-43847aee.webp",
+      "media_type": "image/webp",
+      "bytes": 418836,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/7d6cf197-363e-447d-bb3c-f3152f1522a8/je/2000xxs.jpg",
+      "path": "images/043-50b8bb0c.webp",
+      "media_type": "image/webp",
+      "bytes": 345450,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/513c1c50-e7a7-485a-8225-59977500c231/je/2000xxs.jpg",
+      "path": "images/044-9601444e.webp",
+      "media_type": "image/webp",
+      "bytes": 384842,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/83bf8782-d20a-4640-9a2a-3a2f84b857bb/je/2000xxs.jpg",
+      "path": "images/045-bebc1fb7.webp",
+      "media_type": "image/webp",
+      "bytes": 94172,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/a1e0aa98-0c01-4289-aba3-7ab29e346b81/je/2000xxs.jpg",
+      "path": "images/046-37b7abbd.webp",
+      "media_type": "image/webp",
+      "bytes": 173400,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/ef9302e3-fd8b-4cef-8eb0-4b6f6bfd229f/je/2000xxs.jpg",
+      "path": "images/047-d4c9aab7.webp",
+      "media_type": "image/webp",
+      "bytes": 199516,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/ca8c3f1d-c0c4-4565-b8fe-e1f1fb2dc6ca/je/2000xxs.jpg",
+      "path": "images/048-48940c87.webp",
+      "media_type": "image/webp",
+      "bytes": 188456,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/603095c8-6d5b-49d8-9bbb-3ca669e67962/je/2000xxs.jpg",
+      "path": "images/049-cd00a149.webp",
+      "media_type": "image/webp",
+      "bytes": 203554,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/63657ca5-2936-43ea-9753-ab0d21bb1a71/je/2000xxs.jpg",
+      "path": "images/050-f5beef7e.webp",
+      "media_type": "image/webp",
+      "bytes": 91668,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/9a166a46-a338-4c07-be3f-70ea2c03a338/je/2000xxs.jpg",
+      "path": "images/051-040aafea.webp",
+      "media_type": "image/webp",
+      "bytes": 182044,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/aad34f97-bf0c-49c6-917d-99c9a3271181/je/2000xxs.jpg",
+      "path": "images/052-b98ff0b9.webp",
+      "media_type": "image/webp",
+      "bytes": 157212,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8ecb36aa-c27d-4d42-ae1c-1aec1d3b52bb/je/2000xxs.jpg",
+      "path": "images/053-57a03503.webp",
+      "media_type": "image/webp",
+      "bytes": 148480,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/ab4989f6-125c-42e7-a924-8a68d590d0df/je/2000xxs.jpg",
+      "path": "images/054-d39bcbae.webp",
+      "media_type": "image/webp",
+      "bytes": 153370,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/682deb3d-da4c-4014-9a44-0e269f84fca7/je/2000xxs.jpg",
+      "path": "images/055-e2b61b69.webp",
+      "media_type": "image/webp",
+      "bytes": 165084,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/84b4a804-2972-450a-90c7-7a6c866041eb/je/2000xxs.jpg",
+      "path": "images/056-faacdd75.webp",
+      "media_type": "image/webp",
+      "bytes": 108820,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/2c686e0c-d815-4e82-9e39-1cef7d2e891b/je/2000xxs.jpg",
+      "path": "images/057-29ff6c95.webp",
+      "media_type": "image/webp",
+      "bytes": 110214,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/4470d933-bd8b-4942-81de-2fa49f64c0e5/je/2000xxs.jpg",
+      "path": "images/058-5319c5c7.webp",
+      "media_type": "image/webp",
+      "bytes": 346652,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/9af9fc0e-dfec-4292-bb28-086d26cac7fc/je/2000xxs.jpg",
+      "path": "images/059-2b717cae.webp",
+      "media_type": "image/webp",
+      "bytes": 299502,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/785b2580-2818-4d24-b6eb-c7ee81cd49bf/je/2000xxs.jpg",
+      "path": "images/060-787ff771.webp",
+      "media_type": "image/webp",
+      "bytes": 152562,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/25f735e8-e568-4b10-8fc9-4e43606820ed/je/2000xxs.jpg",
+      "path": "images/061-9f74d90a.webp",
+      "media_type": "image/webp",
+      "bytes": 128644,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/61a866e3-5c02-44d4-a0f5-2c275a626b5e/je/2000xxs.jpg",
+      "path": "images/062-81b17a0f.webp",
+      "media_type": "image/webp",
+      "bytes": 105524,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/557198e7-8fd9-4461-8d90-2e7cc6b3cf9e/je/2000xxs.jpg",
+      "path": "images/063-4b789290.webp",
+      "media_type": "image/webp",
+      "bytes": 66606,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/1106c8d4-79b7-4e91-a147-fbcb27197719/je/2000xxs.jpg",
+      "path": "images/064-69cd986c.webp",
+      "media_type": "image/webp",
+      "bytes": 114922,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/669f295c-7c18-4938-ac4a-afa3f9bf41ae/je/2000xxs.jpg",
+      "path": "images/065-b1cc2679.webp",
+      "media_type": "image/webp",
+      "bytes": 143350,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/4057eb08-e5a1-4ff6-a33a-d93d440e5b13/je/2000xxs.jpg",
+      "path": "images/066-a615edae.webp",
+      "media_type": "image/webp",
+      "bytes": 118556,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/ac559c0e-360b-466e-a74e-462b54185211/je/2000xxs.jpg",
+      "path": "images/067-591946fb.webp",
+      "media_type": "image/webp",
+      "bytes": 67672,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/fccc5226-304d-4106-9b12-05a0efb43836/je/2000xxs.jpg",
+      "path": "images/068-32db9807.webp",
+      "media_type": "image/webp",
+      "bytes": 71158,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/22e20e34-6776-4201-b1f5-8ff9dc400ef0/je/2000xxs.jpg",
+      "path": "images/069-b13d1abb.webp",
+      "media_type": "image/webp",
+      "bytes": 120516,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/89f6d3b3-6f19-47a1-b7be-afd3a7fcdb0f/je/2000xxs.jpg",
+      "path": "images/070-44d85f75.webp",
+      "media_type": "image/webp",
+      "bytes": 138188,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/cacef9d8-46f0-4cda-96ba-cee3eddc3294/je/2000xxs.jpg",
+      "path": "images/071-2554b8e9.webp",
+      "media_type": "image/webp",
+      "bytes": 137810,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/d689e2d4-cf52-4ab3-9049-38a0f888f305/je/2000xxs.jpg",
+      "path": "images/072-31f1212a.webp",
+      "media_type": "image/webp",
+      "bytes": 121020,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/9d8544c8-e7e2-4b73-b36e-e9dd1d50136b/je/2000xxs.jpg",
+      "path": "images/073-ee778d68.webp",
+      "media_type": "image/webp",
+      "bytes": 99188,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/f51c7421-e749-4390-a091-b40853cc6161/je/2000xxs.jpg",
+      "path": "images/074-c74eb4b8.webp",
+      "media_type": "image/webp",
+      "bytes": 94808,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/843dbf53-8835-45c1-865f-199724e6d6f7/je/2000xxs.jpg",
+      "path": "images/075-5d4e7cb7.webp",
+      "media_type": "image/webp",
+      "bytes": 64422,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/df54b6fd-4913-483a-b295-d8f792fcc4c6/je/2000xxs.jpg",
+      "path": "images/076-2f60bc4b.webp",
+      "media_type": "image/webp",
+      "bytes": 51536,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/e155cdb1-72dd-4744-af58-262daf587d79/je/2000xxs.jpg",
+      "path": "images/077-a6e7511b.webp",
+      "media_type": "image/webp",
+      "bytes": 140082,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/34db619e-1c9c-4759-afe3-6bb9e0a9adde/je/2000xxs.jpg",
+      "path": "images/078-13797386.webp",
+      "media_type": "image/webp",
+      "bytes": 126120,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/214cfe8e-9c03-48c0-a536-1906d1c80663/je/2000xxs.jpg",
+      "path": "images/079-06141e6b.webp",
+      "media_type": "image/webp",
+      "bytes": 178716,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/65b8964d-889a-4cc1-9e00-ce8d8256ad66/je/2000xxs.jpg",
+      "path": "images/080-65e5efe7.webp",
+      "media_type": "image/webp",
+      "bytes": 253416,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/2bae523a-2b84-4406-985b-a2553ba2497c/je/2000xxs.jpg",
+      "path": "images/081-d78cabc6.webp",
+      "media_type": "image/webp",
+      "bytes": 398834,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/081b3ac2-507c-4d88-8b95-65085437f2b9/je/2000xxs.jpg",
+      "path": "images/082-bb459deb.webp",
+      "media_type": "image/webp",
+      "bytes": 162132,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/255eb967-1fae-42f1-afa7-c4f2dcca42ad/je/2000xxs.jpg",
+      "path": "images/083-d034f944.webp",
+      "media_type": "image/webp",
+      "bytes": 143298,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/652815b1-745a-40d6-a839-a9b512b1c670/je/2000xxs.jpg",
+      "path": "images/084-69d7e3f7.webp",
+      "media_type": "image/webp",
+      "bytes": 150852,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/a5d3216a-3468-44d4-add6-c868537ed5a1/je/2000xxs.jpg",
+      "path": "images/085-3a256567.webp",
+      "media_type": "image/webp",
+      "bytes": 139940,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/a7c1a2bf-4f61-4717-aa92-8ac338d0dec0/je/2000xxs.jpg",
+      "path": "images/086-a3e1ebf6.webp",
+      "media_type": "image/webp",
+      "bytes": 121128,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/78614c07-40fa-4783-b92c-e601f33ccd57/je/2000xxs.jpg",
+      "path": "images/087-8b8de500.webp",
+      "media_type": "image/webp",
+      "bytes": 230588,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/98dd4fd3-2b91-45b5-8a53-9b6df95beffe/je/2000xxs.jpg",
+      "path": "images/088-2e6e288e.webp",
+      "media_type": "image/webp",
+      "bytes": 335186,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/96ee8213-33e1-4a58-be8f-898f125982d9/je/2000xxs.jpg",
+      "path": "images/089-e48ae86c.webp",
+      "media_type": "image/webp",
+      "bytes": 59114,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/c7642157-ed66-4d85-8b11-f63573d70639/je/2000xxs.jpg",
+      "path": "images/090-d96525d3.webp",
+      "media_type": "image/webp",
+      "bytes": 49772,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/804cce2f-b15a-4da9-a0c6-b077a0d5a4d6/je/2000xxs.jpg",
+      "path": "images/091-10f55d71.webp",
+      "media_type": "image/webp",
+      "bytes": 54650,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/c5a11a07-d524-43ea-bb1c-638c89400e40/je/2000xxs.jpg",
+      "path": "images/092-cbaa9985.webp",
+      "media_type": "image/webp",
+      "bytes": 27610,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2817%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2818%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2819%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/097-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/098-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/099-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/100-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 12,
+    "images_existing": 67,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

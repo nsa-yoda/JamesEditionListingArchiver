@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/pasig-philippines/2-bedrooms-in-empress-at-capitol-commons-smart-elegant-homes-designed-for-wellness-and-investment-15601413",
+    "canonical_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2-bedrooms-in-empress-at-capitol-commons-smart-elegant-homes-designed-for-wellness-and-investment-15601413",
+    "site": "jamesedition",
+    "listing_id": "15601413",
+    "first_listed": "May 8, 2025",
+    "last_updated": "July 27, 2025",
+    "retrieved_at": "2026-06-16T03:43:14.995484Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4702,
+      "sha256": "73fce9321d62213bb1729b32e561b98e0f1f76f200d03b7d7dad700708ab93d1"
+    },
+    {
+      "path": "images/004-09bb90a4.webp",
+      "bytes": 56036,
+      "sha256": "1c989a78c976b0226b5e9adce3d49dff4151c23ecb4f3269cf559341c3ee87e7"
+    },
+    {
+      "path": "images/009-0f85ab63.webp",
+      "bytes": 57520,
+      "sha256": "4b9aa5f1072a0d195ac84df21c84a17c50de2632fe7eb9d8a5be37b451b0a978"
+    },
+    {
+      "path": "images/014-9a86343b.webp",
+      "bytes": 59444,
+      "sha256": "7a8a0aa79e7f53bc2564edbeada8345bbc489bd6c2bd156a7f4040383ca8f31f"
+    },
+    {
+      "path": "images/019-cfab0100.webp",
+      "bytes": 119348,
+      "sha256": "ecbb9ea319e5774a4d870a43fa05e48a97de65839c852ae737db2659a49795e5"
+    },
+    {
+      "path": "images/024-8a8ed9e9.webp",
+      "bytes": 140280,
+      "sha256": "667fdb5344592e6055406312942a7b69c72b5778e3f4136311353fd0c96113da"
+    },
+    {
+      "path": "images/036-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/037-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/038-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/039-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 24089,
+      "sha256": "0ddc2c2763803218032afe6ab4d332c4a63b0afd1db2ef3da8a67f629a8e2f9d"
+    },
+    {
+      "path": "source.html",
+      "bytes": 363690,
+      "sha256": "8091e8ede2620d9d366d6db65478fb98f2ba6a7c172e918abd9e683981f6bcc3"
+    },
+    {
+      "path": "source.url",
+      "bytes": 166,
+      "sha256": "c48f4897a0d4d9a8c71bf48d99eec7946775348dd72dd5baf4a07029b486e008"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/07/13/13/20/a4521a47-6952-4691-b293-5917f963dffe/je/2200xxs.jpg",
+      "path": "images/004-09bb90a4.webp",
+      "media_type": "image/webp",
+      "bytes": 56036,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/07/13/13/20/1b0636c2-dc9f-42bb-a0d9-1b3ae51a53fb/je/2200xxs.jpg",
+      "path": "images/009-0f85ab63.webp",
+      "media_type": "image/webp",
+      "bytes": 57520,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/12/38/44/7d083406-dade-4076-8821-dabd90d4380e/je/2200xxs.jpg",
+      "path": "images/014-9a86343b.webp",
+      "media_type": "image/webp",
+      "bytes": 59444,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/10/02/e461f915-84a0-4fdf-ad6c-fe2d05bb9e11/je/2200xxs.jpg",
+      "path": "images/019-cfab0100.webp",
+      "media_type": "image/webp",
+      "bytes": 119348,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/12/38/44/216d6e08-0449-4671-b807-3db5c10b1a95/je/2200xxs.jpg",
+      "path": "images/024-8a8ed9e9.webp",
+      "media_type": "image/webp",
+      "bytes": 140280,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/380xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/pasig-philippines/2%20Bedrooms%20In%20Empress%20At%20Capitol%20Commons_%20In%20Pasig,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815601413%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 14,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

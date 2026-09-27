@@ -1,0 +1,314 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/a-private-waiheke-masterpiece-without-peer-17059108",
+    "canonical_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/a-private-waiheke-masterpiece-without-peer-17059108",
+    "site": "jamesedition",
+    "listing_id": "17059108",
+    "first_listed": "Feb 1",
+    "last_updated": "February 1",
+    "retrieved_at": "2026-06-16T03:43:20.471461Z"
+  },
+  "location": {
+    "address": "211 Te Whau Drive, Waiheke Island 1971, Auckland, New Zealand",
+    "street": "211 Te Whau Drive",
+    "municipality": "Waiheke Island",
+    "region": "Auckland",
+    "country": "New Zealand",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=-36.8171539,175.0365436",
+    "latitude": -36.8171539,
+    "longitude": 175.0365436
+  },
+  "property": {
+    "title": "A Private Waiheke Masterpiece Without Peer",
+    "type": "Estate",
+    "price": {
+      "amount": null,
+      "display": "Price On Request"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "lot_area": {
+      "value": 7.81,
+      "display": "7.81 Ac lot"
+    },
+    "photo_count": 26,
+    "description": "Discover unparalleled luxury on Waiheke Island in this private secluded gated estate.One of New Zealand’s most prestigious residences masterfully engineered with an extraordinarily high level of construction featuring premium imported materials throughout. Exquisite quartzite bench tops, sub-floor heating, a grand entrance soaring to a near 6 meter stud height, 4 meter ceilings in living areas that emphasise majestic volume and scale. Host intimate gatherings with friends in your very own expansive underground cellar and bar, a true entertainers dream.Enjoy your own private vineyard managed by Stonyridge, one of Waiheke’s premier wineries, with further bare land awaiting your decision to possibly extend the vineyard. Explore 1.6km of impeccably landscaped private walking trails with stunning vistas that provides exclusive access to various points on the estate to relax and enjoy. Exclusive access to the secluded bay frequented by dolphins and perfect for all water sports and exceptional fishing is on your doorstep.The separate guest accommodation provides the extra space for those coming to enjoy all that you take for granted and space allows for further accommodation to be developed if you desire.Revel in spectacular north-facing views, sheltered and private all finished to a level that must be viewed to be appreciated. Located less than 10 minutes’ drive from world class wineries and restaurants, seamless connectivity via ferry access on and off the island to the city or simply arrive by helicopter to your own private helipad.For the elite few who seek sanctuary beyond compare, this Waiheke waterfront estate delivers uncompromising luxury, and a legacy worthy of generations.",
+    "features": [
+      "Balcony",
+      "Fire Pit",
+      "Fireplace",
+      "Helipad",
+      "Kitchen island",
+      "Ocean View",
+      "Open Kitchen",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Vineyard / Winery",
+      "Waterfront",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Mark Spitz",
+    "agent_profile_url": "https://www.jamesedition.com/agents/mark-spitz-2151952",
+    "agent_license": "#Bayleys Real Estate Ltd, Waiheke and Great Barrier, Licensed under the REA Act 2008 #Bayleys Real Estate Ltd, Waiheke and Great Barrier, Licensed under the REA Act 2008",
+    "agency": "Bayleys Real Estate",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/bayleys-real-estate-287565",
+    "agency_address": "30 Gaunt Street, Auckland CBD, Auckland 1010, 1010, Auckland CBD, New Zealand"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/2200xxs.jpg",
+      "file": "004-5b3f7cf6.webp",
+      "media_type": "image/webp",
+      "bytes": 638868,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/2200xxs.jpg",
+      "file": "009-2af312af.webp",
+      "media_type": "image/webp",
+      "bytes": 805322,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/2200xxs.jpg",
+      "file": "014-a2c03bcd.webp",
+      "media_type": "image/webp",
+      "bytes": 686112,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/2200xxs.jpg",
+      "file": "019-393503cd.webp",
+      "media_type": "image/webp",
+      "bytes": 701288,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/2200xxs.jpg",
+      "file": "024-6c858274.webp",
+      "media_type": "image/webp",
+      "bytes": 649108,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/380xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/02/01/23/10/28/eafb2d94-5d92-491d-a9af-b81ca0346b1a/je/80x80xc.jpg",
+      "file": "039-0b85d34c.webp",
+      "media_type": "image/webp",
+      "bytes": 1128,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/new-zealand",
+              "name": "New Zealand"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand",
+              "name": "Waiheke Island"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/a-private-waiheke-masterpiece-without-peer-17059108",
+              "name": "A Private Waiheke Masterpiece Without Peer"
+            },
+            "position": 5
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {},
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/380xxsxm.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden"
+  ]
+}

@@ -1,0 +1,666 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/single-family-residence-in-mendocino-18088869",
+    "canonical_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/single-family-residence-in-mendocino-18088869",
+    "site": "jamesedition",
+    "listing_id": "18088869",
+    "listing_reference": "C1-11418",
+    "first_listed": "Jun 5",
+    "last_updated": "June 5",
+    "retrieved_at": "2026-06-19T08:42:08.7852Z"
+  },
+  "location": {
+    "address": "45460 Indian Shoals Road, Mendocino, California, United States",
+    "street": "45460 Indian Shoals Road",
+    "municipality": "Mendocino",
+    "region": "California",
+    "postal_code": "45460",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=39.34307598,-123.81753598",
+    "latitude": 39.34307598,
+    "longitude": -123.81753598
+  },
+  "property": {
+    "title": "Single Family Residence In Mendocino",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 2399000,
+      "currency": "USD",
+      "display": "$2,399,000"
+    },
+    "price_per_area": {
+      "amount": 557,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$557"
+    },
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "floors": 3,
+    "interior_area": {
+      "value": 4300,
+      "unit": "sqft",
+      "display": "4,300 Sqft"
+    },
+    "lot_area": {
+      "value": 1.2,
+      "display": "1.2 Ac lot"
+    },
+    "year_built": 1991,
+    "photo_count": 50,
+    "description": "Custom spectacular ocean view residence minutes north of Mendocino. An architectural masterpiece with a panoramic view of the Pacific Ocean and full sunset experiences. Located on a private road with luxury homes well spaced and far from the sounds of the highway. Enjoy the crashing waves from the hillside location. A short drive to several state parks with endless walking trails and recreational features. Natural wood finishes throughout the over 4000 square feet of living space. Spectacular views from every room, large wraparound decks and private gardens. Large bedrooms with high ceilings. Huge garage with room for multiple vehicles. Inviting creekside cottage would make an ideal office or yoga space. Enjoy one of the finest locations on the Mendocino Coast.",
+    "features": [
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Mountain View",
+      "Ocean View",
+      "Office",
+      "Panoramic / Scenic View",
+      "Privacy",
+      "Terrace"
+    ]
+  },
+  "broker": {
+    "agent": "Pamela Hudson Real Estate - Mendocino",
+    "agency": "Pamela Hudson Real Estate - Mendocino",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/pamela-hudson-real-estate-mendocino-470278",
+    "agency_address": "Mendocino, California, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/2200xxs.jpg",
+      "file": "img-b1dfa8a4c5a9.webp",
+      "media_type": "image/webp",
+      "bytes": 78200,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/2200xxs.jpg",
+      "file": "img-816c027b08b5.webp",
+      "media_type": "image/webp",
+      "bytes": 133576,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/2200xxs.jpg",
+      "file": "img-87257a80c592.webp",
+      "media_type": "image/webp",
+      "bytes": 70650,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/2200xxs.jpg",
+      "file": "img-aa536f3b184f.webp",
+      "media_type": "image/webp",
+      "bytes": 58276,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/2200xxs.jpg",
+      "file": "img-63c72b9fb6be.webp",
+      "media_type": "image/webp",
+      "bytes": 76504,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/M00000846.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/7c1d771c-2b0e-4768-bea2-5aa24d388946/je/2000xxs.jpg",
+      "file": "img-fd1c410d557c.webp",
+      "media_type": "image/webp",
+      "bytes": 61300,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/c11e324a-28c6-4ddc-879b-e5e536e2dcfb/je/2000xxs.jpg",
+      "file": "img-e1fc30dfae9a.webp",
+      "media_type": "image/webp",
+      "bytes": 53274,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/f4bac29c-d8d8-47a0-bdeb-c835be37eaf4/je/2000xxs.jpg",
+      "file": "img-b1c3ebb779b4.webp",
+      "media_type": "image/webp",
+      "bytes": 57910,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/00970256-0847-4f9a-af43-a22bb1bce3bf/je/2000xxs.jpg",
+      "file": "img-b211ef42cb2d.webp",
+      "media_type": "image/webp",
+      "bytes": 68976,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/a9b79cdb-832e-41aa-8a7c-eef6412dbd73/je/2000xxs.jpg",
+      "file": "img-ce95390f95cb.webp",
+      "media_type": "image/webp",
+      "bytes": 41308,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/d4be9a3a-5dce-4e0a-be62-4d531d36b064/je/2000xxs.jpg",
+      "file": "img-9d867fe190ae.webp",
+      "media_type": "image/webp",
+      "bytes": 96482,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/98d799fa-f78c-40c8-a2d4-e6c1fc5342b4/je/2000xxs.jpg",
+      "file": "img-64ea9c9e83cc.webp",
+      "media_type": "image/webp",
+      "bytes": 84806,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/e27272d1-c3fd-4c8b-b861-5655cbfd4d0e/je/2000xxs.jpg",
+      "file": "img-6f16cecd0ba4.webp",
+      "media_type": "image/webp",
+      "bytes": 50670,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/3d986072-e805-4eb7-b5f5-0793c0c574b6/je/2000xxs.jpg",
+      "file": "img-9b08123dd6f1.webp",
+      "media_type": "image/webp",
+      "bytes": 37062,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/ea70fa6a-71d9-4f39-9b32-070986b8b985/je/2000xxs.jpg",
+      "file": "img-a0abc226216d.webp",
+      "media_type": "image/webp",
+      "bytes": 58768,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/7a2c0e42-b386-469d-8ac6-c49aee710759/je/2000xxs.jpg",
+      "file": "img-eba59fb9b78b.webp",
+      "media_type": "image/webp",
+      "bytes": 42336,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/5a25ab0f-4737-4799-90a1-6c0420dba2bf/je/2000xxs.jpg",
+      "file": "img-9f0785b60bb8.webp",
+      "media_type": "image/webp",
+      "bytes": 26506,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/ab223764-97fd-4977-ae39-6ff1337e505f/je/2000xxs.jpg",
+      "file": "img-ade8bc30cc17.webp",
+      "media_type": "image/webp",
+      "bytes": 31706,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/8bb09c27-fd8c-4ae2-91fb-1b836a6b8c8f/je/2000xxs.jpg",
+      "file": "img-72d7fce081c8.webp",
+      "media_type": "image/webp",
+      "bytes": 39974,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/4974ef81-805f-426b-9749-60494ff92778/je/2000xxs.jpg",
+      "file": "img-ed409701c046.webp",
+      "media_type": "image/webp",
+      "bytes": 61282,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/28fad308-5baf-4a51-9d79-0a04cf7ed699/je/2000xxs.jpg",
+      "file": "img-63dec9dd2e1c.webp",
+      "media_type": "image/webp",
+      "bytes": 130028,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/b4f38932-fe04-4c6a-bbb3-7e56c95e3663/je/2000xxs.jpg",
+      "file": "img-e759a6427647.webp",
+      "media_type": "image/webp",
+      "bytes": 116214,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/1c599b1e-85f7-4885-8193-9e619f9738f9/je/2000xxs.jpg",
+      "file": "img-459ec71fdf4d.webp",
+      "media_type": "image/webp",
+      "bytes": 91322,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/0f17bf6d-5342-487b-95d0-22e73e6203b4/je/2000xxs.jpg",
+      "file": "img-75af796d388e.webp",
+      "media_type": "image/webp",
+      "bytes": 114848,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/b3fbe82d-a32c-4fc3-be03-3568deeeb31e/je/2000xxs.jpg",
+      "file": "img-4347a044169b.webp",
+      "media_type": "image/webp",
+      "bytes": 168324,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9f5336a1-f5a1-43e3-8d82-853426c88ac6/je/2000xxs.jpg",
+      "file": "img-1c3beae54924.webp",
+      "media_type": "image/webp",
+      "bytes": 186920,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/8989c2b1-44fd-44d7-bf8e-e228d4588d86/je/2000xxs.jpg",
+      "file": "img-0556cf66d710.webp",
+      "media_type": "image/webp",
+      "bytes": 121732,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/50b0699f-dbe2-4749-924f-1c357603a507/je/2000xxs.jpg",
+      "file": "img-a77de2f7ed41.webp",
+      "media_type": "image/webp",
+      "bytes": 116532,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/ec55093d-523e-4634-a4e3-783aaec9ac9e/je/2000xxs.jpg",
+      "file": "img-2a7204fa155b.webp",
+      "media_type": "image/webp",
+      "bytes": 112380,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/c47d9e4d-4a33-4acf-920d-50adce7ae4c5/je/2000xxs.jpg",
+      "file": "img-023c887baa80.webp",
+      "media_type": "image/webp",
+      "bytes": 41578,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/bc50a849-1502-400f-ad15-2cc30812af3c/je/2000xxs.jpg",
+      "file": "img-0af75c7c5224.webp",
+      "media_type": "image/webp",
+      "bytes": 89568,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/0d1010e5-1c56-4fff-b99a-6d6978a63e2a/je/2000xxs.jpg",
+      "file": "img-dc2ff0543b6b.webp",
+      "media_type": "image/webp",
+      "bytes": 39052,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/278a6a8b-7363-4f25-9ccf-8f9907dfcdb1/je/2000xxs.jpg",
+      "file": "img-ee7487e7555f.webp",
+      "media_type": "image/webp",
+      "bytes": 80630,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/14d92879-b517-4951-ba6b-bc6efd496857/je/2000xxs.jpg",
+      "file": "img-da766da486dc.webp",
+      "media_type": "image/webp",
+      "bytes": 42752,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/b15d89b5-4310-4f7a-9791-b972757ff5e0/je/2000xxs.jpg",
+      "file": "img-ebd1ad5476c5.webp",
+      "media_type": "image/webp",
+      "bytes": 30336,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/de7b233f-6e06-46e9-be47-ab306f419b41/je/2000xxs.jpg",
+      "file": "img-10fdfcb51496.webp",
+      "media_type": "image/webp",
+      "bytes": 44352,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/6beb8372-8b26-4f0b-92de-2c6cee7ef234/je/2000xxs.jpg",
+      "file": "img-c59b897c5ffd.webp",
+      "media_type": "image/webp",
+      "bytes": 17500,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/edcea59a-2692-4759-9704-5b7a26749774/je/2000xxs.jpg",
+      "file": "img-50690b386052.webp",
+      "media_type": "image/webp",
+      "bytes": 26728,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/cffbbc44-f2da-4fea-bd56-bb415cdfb86c/je/2000xxs.jpg",
+      "file": "img-9f8b11254dbd.webp",
+      "media_type": "image/webp",
+      "bytes": 39396,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/5b5849a7-2392-4a4b-ad7f-96c828a43751/je/2000xxs.jpg",
+      "file": "img-3d0ef71f433e.webp",
+      "media_type": "image/webp",
+      "bytes": 61682,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/e5c3314b-278d-46e6-a185-634281500f44/je/2000xxs.jpg",
+      "file": "img-c58121c892bf.webp",
+      "media_type": "image/webp",
+      "bytes": 94824,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/b5db1d5b-f0b6-4410-a05c-742339daa8fe/je/2000xxs.jpg",
+      "file": "img-750d47dd8330.webp",
+      "media_type": "image/webp",
+      "bytes": 137010,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/67044027-362d-4ff2-b0a8-5459d6eb782c/je/2000xxs.jpg",
+      "file": "img-663fe45fccd8.webp",
+      "media_type": "image/webp",
+      "bytes": 138712,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9f8d524a-10ea-4b03-8c0e-67d7223d60ee/je/2000xxs.jpg",
+      "file": "img-a16a8334413a.webp",
+      "media_type": "image/webp",
+      "bytes": 96596,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/cc053024-bdf5-4ae5-a4b1-9af6a90156a2/je/2000xxs.jpg",
+      "file": "img-b45c58de8119.webp",
+      "media_type": "image/webp",
+      "bytes": 118550,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/306b74a6-612f-4c2c-b95f-a9d281714e1e/je/2000xxs.jpg",
+      "file": "img-89bd9062a9cf.webp",
+      "media_type": "image/webp",
+      "bytes": 162400,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/e922144b-37c6-43d9-8e68-3546662daf61/je/2000xxs.jpg",
+      "file": "img-06786647b349.webp",
+      "media_type": "image/webp",
+      "bytes": 86914,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/d69f973d-f0ea-40b0-a315-59af3e6cf438/je/2000xxs.jpg",
+      "file": "img-fd321b3d6711.webp",
+      "media_type": "image/webp",
+      "bytes": 104212,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/05e88f7e-d862-42e8-8981-2812388a5a07/je/2000xxs.jpg",
+      "file": "img-11b7a5cc8ef2.webp",
+      "media_type": "image/webp",
+      "bytes": 144706,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/8101508c-b42a-4f9c-ad53-803b8b7df6bb/je/2000xxs.jpg",
+      "file": "img-719c6d645d77.webp",
+      "media_type": "image/webp",
+      "bytes": 97890,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2825%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2826%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2827%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ca-united-states",
+              "name": "California"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/mendocino-ca-usa",
+              "name": "Mendocino"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/single-family-residence-in-mendocino-18088869",
+              "name": "Single Family Residence in Mendocino"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Custom spectacular ocean view residence minutes north of Mendocino. An architectural masterpiece with a panoramic view of the Pacific Ocean and full sunset experiences. Located on a private road with luxury homes well spaced and far from the sounds of the highway. Enjoy the crashing waves from the hillside location. A short drive to several state parks with endless walking trails and recreational features. Natural wood finishes throughout the over 4000 square feet of living space. Spectacular views from every room, large wraparound decks and private gardens. Large bedrooms with high ceilings. Huge garage with room for multiple vehicles. Inviting creekside cottage would make an ideal office or yoga space. Enjoy one of the finest locations on the Mendocino Coast.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Mendocino",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 2399000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Pamela Hudson Real Estate - Mendocino"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/single-family-residence-in-mendocino-18088869"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/M00000846.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2825%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2826%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2827%29.jpg: HTTP 403 Forbidden"
+  ]
+};

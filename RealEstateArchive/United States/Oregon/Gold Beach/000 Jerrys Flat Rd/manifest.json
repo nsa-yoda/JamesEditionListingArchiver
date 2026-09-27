@@ -1,0 +1,507 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/vacant-land-17376789",
+    "canonical_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/vacant-land-17376789",
+    "site": "jamesedition",
+    "listing_id": "17376789",
+    "listing_reference": "w9zexs",
+    "first_listed": "Mar 10",
+    "last_updated": "March 10",
+    "retrieved_at": "2026-08-28T00:32:05.404478Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1679,
+      "sha256": "c800d594ffd44d5a08fa8d81fa15eca3e72e834ab30bf548ebc63db711084e4e"
+    },
+    {
+      "path": "images/img-026e04447f2f.webp",
+      "bytes": 756176,
+      "sha256": "9dafa889a0859d8b4c8f4bdf64f7399d2acfb140b401ea36f0edd670abe4a40e"
+    },
+    {
+      "path": "images/img-0da8f81b68d5.webp",
+      "bytes": 524806,
+      "sha256": "403582f642a504707f06347b539cdbf45cfa82b0be95002718cbc3f0e618c29d"
+    },
+    {
+      "path": "images/img-2140cf048190.webp",
+      "bytes": 687322,
+      "sha256": "d80d785953ccdd237f5fcc27897003951b35edcecbff3f949d50b00c04bd96a9"
+    },
+    {
+      "path": "images/img-2163bfa9cd7b.webp",
+      "bytes": 1070762,
+      "sha256": "b329c637c5099ad350c1af5eb2f5ba07972720d939892eb1700f3021d8d74d71"
+    },
+    {
+      "path": "images/img-2f0e55946c31.webp",
+      "bytes": 577024,
+      "sha256": "5b897a8a3a91dcf773f24fae0180173b38b381fce3802951dc7b6041ab3d5696"
+    },
+    {
+      "path": "images/img-3173eaead0ba.webp",
+      "bytes": 850046,
+      "sha256": "45540e953a0960fa041a71cbefad493563c6868273f1b0bb292214cd4b96e1ec"
+    },
+    {
+      "path": "images/img-31d685b891d2.webp",
+      "bytes": 915434,
+      "sha256": "be0b059c6e67aa07d5911da5f0664a0d92c77de07e214890676138cd158f415f"
+    },
+    {
+      "path": "images/img-389e60b9b6b4.webp",
+      "bytes": 694482,
+      "sha256": "5efc1fbc2fc2e3a6132fce3db2e45d336c2870f7f64cadc5a4306565c28ae6c5"
+    },
+    {
+      "path": "images/img-404366626aa7.webp",
+      "bytes": 611430,
+      "sha256": "c2cfd5836792f55858dbc3b5c912a0b0e1a4825582b4c378079a7dd7198d7fd2"
+    },
+    {
+      "path": "images/img-53d44b706751.webp",
+      "bytes": 941478,
+      "sha256": "49ea4d1cddc7e9da6a51c926ad5581c4c20a646a7ea61bac95161bae37d29004"
+    },
+    {
+      "path": "images/img-560e87eb2e09.webp",
+      "bytes": 764738,
+      "sha256": "d023abf8c2f865300bf3443ab89ef529cecc1d9f442a26cb07d6d77e7f9f03f7"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-61329636e7e0.webp",
+      "bytes": 444854,
+      "sha256": "c3bcaa0781712bc4dd40e334d07fc2b38fd3253f6c65bea66870042222c07cd4"
+    },
+    {
+      "path": "images/img-71f11bd8b88d.webp",
+      "bytes": 719112,
+      "sha256": "b10641cbe4fb419891603bcd8a4c5d9b5669313051d3f5eeea6bcd26fc1166dd"
+    },
+    {
+      "path": "images/img-83d6ce83db56.webp",
+      "bytes": 695844,
+      "sha256": "ef0ee473a91e8df896ea3bb7df1f472213de0a12635b2a4c6142bb0f4ef3d917"
+    },
+    {
+      "path": "images/img-8c6dc4681aff.webp",
+      "bytes": 514194,
+      "sha256": "9330e2b60857812a8bfc6b22101bb954bfc49d81100f9e5f897121e5b03f1226"
+    },
+    {
+      "path": "images/img-9331d50db197.webp",
+      "bytes": 586086,
+      "sha256": "0b35f9b3174d8618f5076deba7ba7c45157a22aba6f2c41fe5e4d48205e1216d"
+    },
+    {
+      "path": "images/img-a15e1b87868d.webp",
+      "bytes": 950838,
+      "sha256": "6a3263efe35029fcb927b9738bcd0a253ebea99e04c7457d3b983f8870c03084"
+    },
+    {
+      "path": "images/img-a79a445fa98b.webp",
+      "bytes": 475200,
+      "sha256": "3ad1eddb7b7113831d8039bf59a51faa2c33602a90690977ddce31482d24e290"
+    },
+    {
+      "path": "images/img-b2a89e9b2573.webp",
+      "bytes": 175930,
+      "sha256": "c0e28f1dbc37866d55986f56ba086906a9f1a378e921672fb1647001eb856c9b"
+    },
+    {
+      "path": "images/img-c1ebe8a0ef50.webp",
+      "bytes": 502936,
+      "sha256": "fd760eb5423d538706bd12242de30b22fa61fa3e8cc836c7ab3cf2f69df46986"
+    },
+    {
+      "path": "images/img-d45e69aa5813.webp",
+      "bytes": 506100,
+      "sha256": "c75c43493e992d3b7ec21cdf0ca03e51f90853fcfe822ab142432d79b0fb2866"
+    },
+    {
+      "path": "images/img-d762733a973e.webp",
+      "bytes": 635448,
+      "sha256": "aa6a69df43317f3158197915fc6aea64566879491de915b06edea5a0747f3f89"
+    },
+    {
+      "path": "images/img-db299a2def49.webp",
+      "bytes": 907240,
+      "sha256": "907e6c48073418e6261998c3feee9b9e19f4574faff924cc5bb7aa21dcb802d0"
+    },
+    {
+      "path": "images/img-e33f702596b4.webp",
+      "bytes": 682714,
+      "sha256": "816076d93a1a52c47221323cdf7f276bae26cac9bee35ad0c60c47d2073d9271"
+    },
+    {
+      "path": "images/img-e5ba79471168.webp",
+      "bytes": 645046,
+      "sha256": "86f6f9e23153f6a03a51f65e936a39d0ad979185270b6bfdf65485564140a6b1"
+    },
+    {
+      "path": "images/img-e61b8b193f5c.webp",
+      "bytes": 725432,
+      "sha256": "d4fd6813d3a447545c557feccc9f110677225d93beec720f891826f8a979f2d2"
+    },
+    {
+      "path": "images/img-ea8fe967a3d3.webp",
+      "bytes": 984310,
+      "sha256": "ccab272f8e5ab7f5907ab91c9c706560b438e8d9216094cdc2f665dd48a1b0b6"
+    },
+    {
+      "path": "images/img-f7937f17c043.webp",
+      "bytes": 524684,
+      "sha256": "0cbaace3ac7279ab5f2612f4170e54165d088618de8e8dfb1a3a043be35d4400"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23822,
+      "sha256": "1295f922a2ff829965c0bab687b5ad37f361715add37f2983861ad69c94c22e6"
+    },
+    {
+      "path": "source.html",
+      "bytes": 438019,
+      "sha256": "928eae409098c47cfdf4eadd75a5675059f0bb1a554a7af5fa0ffdf8d95631f3"
+    },
+    {
+      "path": "source.url",
+      "bytes": 80,
+      "sha256": "09aadc100d5c55718f985c1765cac6b53d1a35dfb864fc2726bd8871f8cea475"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2200xxs.jpg",
+      "path": "images/img-f7937f17c043.webp",
+      "media_type": "image/webp",
+      "bytes": 524684,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2200xxs.jpg",
+      "path": "images/img-b2a89e9b2573.webp",
+      "media_type": "image/webp",
+      "bytes": 175930,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2200xxs.jpg",
+      "path": "images/img-61329636e7e0.webp",
+      "media_type": "image/webp",
+      "bytes": 444854,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2200xxs.jpg",
+      "path": "images/img-d45e69aa5813.webp",
+      "media_type": "image/webp",
+      "bytes": 506100,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2200xxs.jpg",
+      "path": "images/img-404366626aa7.webp",
+      "media_type": "image/webp",
+      "bytes": 611430,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/8446f13d-bbc7-4a10-b38d-781e3fb752f3/je/2000xxs.jpg",
+      "path": "images/img-c1ebe8a0ef50.webp",
+      "media_type": "image/webp",
+      "bytes": 502936,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/a71ca512-b523-45e1-9562-30160db5151f/je/2000xxs.jpg",
+      "path": "images/img-2f0e55946c31.webp",
+      "media_type": "image/webp",
+      "bytes": 577024,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/83c2f8ae-f0e0-4fd9-b8ec-d2f8357b15b3/je/2000xxs.jpg",
+      "path": "images/img-2140cf048190.webp",
+      "media_type": "image/webp",
+      "bytes": 687322,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/bc14c880-a0ae-45a6-a4f5-5b87d53f8677/je/2000xxs.jpg",
+      "path": "images/img-ea8fe967a3d3.webp",
+      "media_type": "image/webp",
+      "bytes": 984310,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/2d510116-6330-4e9c-b8b2-c5597c3ad5c7/je/2000xxs.jpg",
+      "path": "images/img-560e87eb2e09.webp",
+      "media_type": "image/webp",
+      "bytes": 764738,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/09d9cc8f-4e77-4087-b2c0-a5483bb54831/je/2000xxs.jpg",
+      "path": "images/img-e33f702596b4.webp",
+      "media_type": "image/webp",
+      "bytes": 682714,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/ad1fe017-e2d5-46b1-a41a-b1d7d1f4db3d/je/2000xxs.jpg",
+      "path": "images/img-db299a2def49.webp",
+      "media_type": "image/webp",
+      "bytes": 907240,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/f4da7e50-6ccd-4f3e-aad8-b643d4025278/je/2000xxs.jpg",
+      "path": "images/img-8c6dc4681aff.webp",
+      "media_type": "image/webp",
+      "bytes": 514194,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/2ff5df52-c5c9-4570-9a3f-d4f14e440a00/je/2000xxs.jpg",
+      "path": "images/img-0da8f81b68d5.webp",
+      "media_type": "image/webp",
+      "bytes": 524806,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/eadb8c79-3db0-4e98-89a5-ced5615734cd/je/2000xxs.jpg",
+      "path": "images/img-e61b8b193f5c.webp",
+      "media_type": "image/webp",
+      "bytes": 725432,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/83db7304-7bf6-4823-8e7a-4c294b44010e/je/2000xxs.jpg",
+      "path": "images/img-026e04447f2f.webp",
+      "media_type": "image/webp",
+      "bytes": 756176,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/47795d7a-1a55-433f-bc87-bef6dc65ea40/je/2000xxs.jpg",
+      "path": "images/img-a79a445fa98b.webp",
+      "media_type": "image/webp",
+      "bytes": 475200,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/3d67a91f-8dd1-48d9-bf5f-ef7d2aa0e3b4/je/2000xxs.jpg",
+      "path": "images/img-e5ba79471168.webp",
+      "media_type": "image/webp",
+      "bytes": 645046,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/72f29f51-680a-4929-8529-2ae34f96008c/je/2000xxs.jpg",
+      "path": "images/img-53d44b706751.webp",
+      "media_type": "image/webp",
+      "bytes": 941478,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/192254e9-a60b-466a-bd97-9a5714b2eb64/je/2000xxs.jpg",
+      "path": "images/img-31d685b891d2.webp",
+      "media_type": "image/webp",
+      "bytes": 915434,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/4cdfc4e4-a145-4f7d-a41b-8aaacc39ab84/je/2000xxs.jpg",
+      "path": "images/img-d762733a973e.webp",
+      "media_type": "image/webp",
+      "bytes": 635448,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/a4ebc54e-9c49-4f8f-80bf-dfeba2bea120/je/2000xxs.jpg",
+      "path": "images/img-9331d50db197.webp",
+      "media_type": "image/webp",
+      "bytes": 586086,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/091bc776-e001-48ed-9129-ab5a8e1d8067/je/2000xxs.jpg",
+      "path": "images/img-2163bfa9cd7b.webp",
+      "media_type": "image/webp",
+      "bytes": 1070762,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/db2823a2-e2e3-402e-8c8f-b6b4509a790a/je/2000xxs.jpg",
+      "path": "images/img-389e60b9b6b4.webp",
+      "media_type": "image/webp",
+      "bytes": 694482,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/0c1e0a10-90d7-4374-ba2a-7d8fdcda0632/je/2000xxs.jpg",
+      "path": "images/img-83d6ce83db56.webp",
+      "media_type": "image/webp",
+      "bytes": 695844,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d1dddad4-53ec-4240-af15-cc4dae52ea13/je/2000xxs.jpg",
+      "path": "images/img-71f11bd8b88d.webp",
+      "media_type": "image/webp",
+      "bytes": 719112,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/8f65471e-686b-4ef7-a9a3-4539e7aee0e0/je/2000xxs.jpg",
+      "path": "images/img-a15e1b87868d.webp",
+      "media_type": "image/webp",
+      "bytes": 950838,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/4f3055f3-d41b-4819-9800-32c237c485b6/je/2000xxs.jpg",
+      "path": "images/img-3173eaead0ba.webp",
+      "media_type": "image/webp",
+      "bytes": 850046,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/2200xxs%288%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/2200xxs%289%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/2200xxs%2810%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 29,
+    "images_existing": 0,
+    "images_failed": 14,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

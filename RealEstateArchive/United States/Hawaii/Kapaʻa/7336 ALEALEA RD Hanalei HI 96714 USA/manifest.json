@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/serene-beachfront-retreat-with-ultimate-indoor-outdoor-living-17971350",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/serene-beachfront-retreat-with-ultimate-indoor-outdoor-living-17971350",
+    "site": "jamesedition",
+    "listing_id": "17971350",
+    "listing_reference": "224b2c1e-53fd-11f1-850c-6045bdd61ac4",
+    "first_listed": "May 21",
+    "last_updated": "June 19",
+    "retrieved_at": "2026-08-28T00:30:12.25395Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3059,
+      "sha256": "c227219292eb0fea0fa12fc79d36b275243fc82a8ae5a81b5662ec732680aa81"
+    },
+    {
+      "path": "images/img-07c39fd56dd5.webp",
+      "bytes": 274054,
+      "sha256": "0e3f4b0f71e2a34916b4b190947b5942782104b38577568cd89a1016e0e2745d"
+    },
+    {
+      "path": "images/img-5195d5b1a902.webp",
+      "bytes": 269250,
+      "sha256": "7fe585a990a909f0f870659941a5cb8b1f5ba133747e6f9449f23568e924e725"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5e5fc04e4023.webp",
+      "bytes": 676988,
+      "sha256": "043579c398155ce98735add06376bfdc511db34147707ace42acf18ddd7083f1"
+    },
+    {
+      "path": "images/img-71d79398eaad.webp",
+      "bytes": 651334,
+      "sha256": "cbebc6b1503eb5729934684b617ce68e8a6697bcf23b67e8cdae7ea8662def60"
+    },
+    {
+      "path": "images/img-e16b2bd5bde6.webp",
+      "bytes": 211270,
+      "sha256": "cd68619e49aa8d0d5b6b47ab2be0325ba1dd0731ab4fd6c0003c04a6ef5aee8a"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 19661,
+      "sha256": "267f4b09725e18ff84aefcf584c2b1ef4f97503e8afd99d0fc47df20c9aa3e3c"
+    },
+    {
+      "path": "source.html",
+      "bytes": 324310,
+      "sha256": "a7f8bb671cc0ba982e2201205d9c21cf56b822852398820e19430f911bf252d5"
+    },
+    {
+      "path": "source.url",
+      "bytes": 127,
+      "sha256": "aea52770113490ed89eb27ec4186afd273018fb3781ff171547544439cda0f49"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/20/15/51/37/583198f7-9c25-4464-b073-bb517197c70a/je/2200xxs.jpg",
+      "path": "images/img-71d79398eaad.webp",
+      "media_type": "image/webp",
+      "bytes": 651334,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/Serene%20Beachfront%20Retreat%20With%20Ultimate%20In%20Kapa%CA%BBa,%20Hawaii,%20United%20States%20For%20Sale%20%2817971350%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/20/15/51/37/aa281eef-992b-445c-bc5c-8a371123e4cc/je/2200xxs.jpg",
+      "path": "images/img-5e5fc04e4023.webp",
+      "media_type": "image/webp",
+      "bytes": 676988,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/Serene%20Beachfront%20Retreat%20With%20Ultimate%20In%20Kapa%CA%BBa,%20Hawaii,%20United%20States%20For%20Sale%20%2817971350%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/20/15/51/37/c777d5f0-3439-437a-b31c-0c43f03c3381/je/2200xxs.jpg",
+      "path": "images/img-e16b2bd5bde6.webp",
+      "media_type": "image/webp",
+      "bytes": 211270,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/Serene%20Beachfront%20Retreat%20With%20Ultimate%20In%20Kapa%CA%BBa,%20Hawaii,%20United%20States%20For%20Sale%20%2817971350%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/20/15/51/37/e9626aac-56af-42ed-abd4-c24aef82eafe/je/2200xxs.jpg",
+      "path": "images/img-07c39fd56dd5.webp",
+      "media_type": "image/webp",
+      "bytes": 274054,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/Serene%20Beachfront%20Retreat%20With%20Ultimate%20In%20Kapa%CA%BBa,%20Hawaii,%20United%20States%20For%20Sale%20%2817971350%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/20/15/51/37/9a30456a-7888-4dd0-9dca-dfc4fbfe1ac2/je/2200xxs.jpg",
+      "path": "images/img-5195d5b1a902.webp",
+      "media_type": "image/webp",
+      "bytes": 269250,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/Serene%20Beachfront%20Retreat%20With%20Ultimate%20In%20Kapa%CA%BBa,%20Hawaii,%20United%20States%20For%20Sale%20%2817971350%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/Serene%20Beachfront%20Retreat%20With%20Ultimate%20In%20Kapa%CA%BBa,%20Hawaii,%20United%20States%20For%20Sale%20%2817971350%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/Serene%20Beachfront%20Retreat%20With%20Ultimate%20In%20Kapa%CA%BBa,%20Hawaii,%20United%20States%20For%20Sale%20%2817971350%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hanalei-hi-usa/Serene%20Beachfront%20Retreat%20With%20Ultimate%20In%20Kapa%CA%BBa,%20Hawaii,%20United%20States%20For%20Sale%20%2817971350%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 6,
+    "images_existing": 0,
+    "images_failed": 11,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

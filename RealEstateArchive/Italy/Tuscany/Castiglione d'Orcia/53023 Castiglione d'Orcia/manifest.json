@@ -1,0 +1,591 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/stunning-renovated-farmhouse-in-val-d-orcia-18482862",
+    "canonical_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/stunning-renovated-farmhouse-in-val-d-orcia-18482862",
+    "site": "jamesedition",
+    "listing_id": "18482862",
+    "listing_reference": "SIBL1M790",
+    "first_listed": "Jul 21",
+    "retrieved_at": "2026-08-28T00:31:52.864771Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4046,
+      "sha256": "b38e7f45b1c3f6c65b5510dabd8ba6567770eff306e8091685858019b8212dd7"
+    },
+    {
+      "path": "images/img-0000a82f1064.webp",
+      "bytes": 97640,
+      "sha256": "d97585a7ec3c7620aad3450f9a36fe26cbac99727b5d3f7ae14ec394f610cd21"
+    },
+    {
+      "path": "images/img-00c2132020f7.webp",
+      "bytes": 204910,
+      "sha256": "1708ff60cc61cc252b32ccd3dbc4b912c3cdc8066cdb19a4309d9ab7de66216f"
+    },
+    {
+      "path": "images/img-0a10f1cf385c.webp",
+      "bytes": 131712,
+      "sha256": "72a2577b0858ea9360498c20ce1db78f8d12fd2e19d603a60578193754e4bd27"
+    },
+    {
+      "path": "images/img-0dc6bf586469.webp",
+      "bytes": 210128,
+      "sha256": "9f5876d914809d9633da9806870d5e4f09c0a4c6c8747d04f6c57798493474d9"
+    },
+    {
+      "path": "images/img-195e2128acaf.webp",
+      "bytes": 286282,
+      "sha256": "07d92c3a9f85acf146df9a900e559cafdccf087513cbecdd1432776f49de573f"
+    },
+    {
+      "path": "images/img-213af61f48a5.webp",
+      "bytes": 191832,
+      "sha256": "aecfc3e9182b3fc5d4f08cd5e78593887a2cf3a4093c08705b520da22519ce62"
+    },
+    {
+      "path": "images/img-2a9fea6692d9.webp",
+      "bytes": 278938,
+      "sha256": "945416afc1464da6fd9f9153db55bf1dd3ffd06b70a4328244834faa4ef9eac5"
+    },
+    {
+      "path": "images/img-33f1ec12dc92.webp",
+      "bytes": 139378,
+      "sha256": "7841da20cbf1009c8e4acf0a21c53a3e53973ad1a70c4a0ae606b48b15e174e3"
+    },
+    {
+      "path": "images/img-348df4104aec.webp",
+      "bytes": 182908,
+      "sha256": "8cbcbc8ca7d089f81445e0683243ba674be858af196606302da4c1a1e18d0618"
+    },
+    {
+      "path": "images/img-35fa81a5d220.webp",
+      "bytes": 192528,
+      "sha256": "af8106de19a248a2a10165d8bc4ecb7451183c5e52ba72a93c79f29ed9b62537"
+    },
+    {
+      "path": "images/img-459ca454aaf4.webp",
+      "bytes": 802,
+      "sha256": "a7dd334c9af36dec926766f5ff7521220c3f17e439be8969e12d50ceaab0d0d7"
+    },
+    {
+      "path": "images/img-4c0e8dd0da96.webp",
+      "bytes": 251724,
+      "sha256": "97e98bc2ff23dd9ab04f92b97aafb4525720da17b63dcc6eb31bc45fc2397d4c"
+    },
+    {
+      "path": "images/img-51f22493746a.webp",
+      "bytes": 228206,
+      "sha256": "8bdc4cd0d39d09134011305856522c4a9790cfe55569fca4a6c33e404ee185dc"
+    },
+    {
+      "path": "images/img-539ab7835686.webp",
+      "bytes": 37712,
+      "sha256": "5c03c90d24ca5eccc65402fdb9692d990b87d4a2aa18f39fa80b46af7349a549"
+    },
+    {
+      "path": "images/img-53a3cb15c0a3.webp",
+      "bytes": 127508,
+      "sha256": "2ce1aa8d98eda06ed626e892cea87d383e022ada9cdf14852c71a63718aad4d3"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-6a0c22a63f92.webp",
+      "bytes": 290638,
+      "sha256": "ed99aeff4e07a2d002e71bb2592094d291434cbb6030d16576aee2d9ad0d222f"
+    },
+    {
+      "path": "images/img-6eafc33d2f8f.webp",
+      "bytes": 136260,
+      "sha256": "403c5c4aa0d84915643a3d0ef6ea38fe4b0b97828b07abc73a0f97031f4bfbe0"
+    },
+    {
+      "path": "images/img-734f4951524f.webp",
+      "bytes": 119734,
+      "sha256": "f3c8ef59dc59778480c2bdc0fb053929380566fa5a2cee82af20ac272c63c247"
+    },
+    {
+      "path": "images/img-8679c202a002.webp",
+      "bytes": 424836,
+      "sha256": "0b14246dd87d828493ed3336a52989ab32eec5945fc878912276ceb144f9dc28"
+    },
+    {
+      "path": "images/img-a068d5b7ff35.webp",
+      "bytes": 237362,
+      "sha256": "a12792d244c6ca6dbb7f27d791c01a22a29b0b65003fce8b58618233a2fd9ea9"
+    },
+    {
+      "path": "images/img-a333256f0764.webp",
+      "bytes": 285594,
+      "sha256": "d95ec9fc7a7c98503cbec51908ab244256b3c9503d1d2b53a00aa0b36d956d75"
+    },
+    {
+      "path": "images/img-a7bf8bf9f44c.webp",
+      "bytes": 71826,
+      "sha256": "7b791c2cc404aa717874e76faabc14d98462cf9480496f6e0a5cc6c5ac06cdfb"
+    },
+    {
+      "path": "images/img-b1bc789af63c.webp",
+      "bytes": 164748,
+      "sha256": "aad9cc647864cba64cbb4b943ce34f61c7c80af4d1474cacd75c12e9a84abd40"
+    },
+    {
+      "path": "images/img-d55604033c95.webp",
+      "bytes": 102412,
+      "sha256": "84ec051c52f49ff60d2dc3559c893b123799ede1d1cd00f288a7c588c7e081dc"
+    },
+    {
+      "path": "images/img-d6bf9eed485c.webp",
+      "bytes": 75694,
+      "sha256": "3781bf75e6290b57aafabf52ca925a82e589e3839301d85e38303d1872f6eaa1"
+    },
+    {
+      "path": "images/img-d7449f1665d3.webp",
+      "bytes": 328548,
+      "sha256": "86bb89c9d681416fc78cc1f223c53b631da15198efdaf3d67daa9e38217542a3"
+    },
+    {
+      "path": "images/img-d8239fbc62ca.webp",
+      "bytes": 128070,
+      "sha256": "c690e3856a8a3d7ec124b7c06f97ae4acb5386e70bc60124edc36d5384d0f6d0"
+    },
+    {
+      "path": "images/img-e4662e72e686.webp",
+      "bytes": 182526,
+      "sha256": "dc77f8572686b28cf92ab31272d5a10b32516d6246f7d847ae3a0743902ed9c6"
+    },
+    {
+      "path": "images/img-e7ed82c302d5.webp",
+      "bytes": 211248,
+      "sha256": "c2bc2a5f4f8050d9c51f2f6573b1bf31d817d6d0149a4d6a415e960b229b6a00"
+    },
+    {
+      "path": "images/img-e9fd53e1adc2.webp",
+      "bytes": 97612,
+      "sha256": "c524776cde298aee4d7c24899de428b5d1ea842b9ec462e2c086f1b915e3f5dc"
+    },
+    {
+      "path": "images/img-ecc3bd1c1502.webp",
+      "bytes": 259036,
+      "sha256": "ed7d969d5760c35bf2bad5d1918af7e6c6743c744eee78783606d2951c08f7fb"
+    },
+    {
+      "path": "images/img-f210464e675d.webp",
+      "bytes": 290246,
+      "sha256": "e2ab7272bb7814cdf29e3b322a12b906b4cb3a6d5f3855e4719b1f2b013a822d"
+    },
+    {
+      "path": "images/img-f77b4a36a0b2.webp",
+      "bytes": 174300,
+      "sha256": "e491d9c38fdcd407a9c1c02ea5ce102556d82e1abd98758c8cedc599cd577fd4"
+    },
+    {
+      "path": "images/img-f7f03b369908.webp",
+      "bytes": 325022,
+      "sha256": "2c1fc1c2c7a79e144c5633d75d0caaa3dab8fe4164db3ba43c976ea3fda245b7"
+    },
+    {
+      "path": "images/img-fdba8a6eacae.webp",
+      "bytes": 172254,
+      "sha256": "b9fbbb8f2657a5d15c687ab4cb8eea9455328c4c0f77cf81b5940af934ac26b7"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 30879,
+      "sha256": "df3f102849197ba7466bf734d4d99d06206e2cd4590b8d5459c2087cd4874e1a"
+    },
+    {
+      "path": "source.html",
+      "bytes": 567897,
+      "sha256": "0f38c453ea4627c25b4b4842357cde7e295054205f89727e4f7d589373f4bee9"
+    },
+    {
+      "path": "source.url",
+      "bytes": 120,
+      "sha256": "dafd18cfe4f89a30f538ffa796df7c38cacb1810f054638dca71b3e4dbd8ca22"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/2200xxs.jpg",
+      "path": "images/img-a333256f0764.webp",
+      "media_type": "image/webp",
+      "bytes": 285594,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/0c5ec22d-b141-411a-9660-136a60016a7f/je/2200xxs.jpg",
+      "path": "images/img-0dc6bf586469.webp",
+      "media_type": "image/webp",
+      "bytes": 210128,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/1b2e163d-19e7-4ab5-b0eb-6b8806f5c0ee/je/2200xxs.jpg",
+      "path": "images/img-a068d5b7ff35.webp",
+      "media_type": "image/webp",
+      "bytes": 237362,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/ee062cb5-59e4-40de-932f-6b5aead178e1/je/2200xxs.jpg",
+      "path": "images/img-33f1ec12dc92.webp",
+      "media_type": "image/webp",
+      "bytes": 139378,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/8b61f511-3025-42fe-95aa-822903502a6b/je/2200xxs.jpg",
+      "path": "images/img-00c2132020f7.webp",
+      "media_type": "image/webp",
+      "bytes": 204910,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/5fc75532-7478-4203-a19c-7f907dce59f4/je/2000xxs.jpg",
+      "path": "images/img-4c0e8dd0da96.webp",
+      "media_type": "image/webp",
+      "bytes": 251724,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/03/a8242462-19ea-4aa4-a3dd-7e42d3ce80dd/je/2000xxs.jpg",
+      "path": "images/img-195e2128acaf.webp",
+      "media_type": "image/webp",
+      "bytes": 286282,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/0e1d195b-cc3d-413d-a56e-ead2524d981c/je/2000xxs.jpg",
+      "path": "images/img-2a9fea6692d9.webp",
+      "media_type": "image/webp",
+      "bytes": 278938,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/76b6f1af-14f6-4e4b-b8be-b82295ee24f4/je/2000xxs.jpg",
+      "path": "images/img-6a0c22a63f92.webp",
+      "media_type": "image/webp",
+      "bytes": 290638,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/03/f04cb730-8510-4d2d-af46-167b11839734/je/2000xxs.jpg",
+      "path": "images/img-f7f03b369908.webp",
+      "media_type": "image/webp",
+      "bytes": 325022,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/2658c1eb-ea29-4384-8e3f-0407f6fb1786/je/2000xxs.jpg",
+      "path": "images/img-f210464e675d.webp",
+      "media_type": "image/webp",
+      "bytes": 290246,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/defc2254-d5c8-438c-b2f5-c7366ff36b67/je/2000xxs.jpg",
+      "path": "images/img-d7449f1665d3.webp",
+      "media_type": "image/webp",
+      "bytes": 328548,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/ae290376-c9fe-4950-9900-56fd7f3a7735/je/2000xxs.jpg",
+      "path": "images/img-348df4104aec.webp",
+      "media_type": "image/webp",
+      "bytes": 182908,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/cf9cf995-2414-425f-965c-fb4d6a3c2cfe/je/2000xxs.jpg",
+      "path": "images/img-51f22493746a.webp",
+      "media_type": "image/webp",
+      "bytes": 228206,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/08e4c778-8139-4d55-99a1-7e6acb3aaa6b/je/2000xxs.jpg",
+      "path": "images/img-ecc3bd1c1502.webp",
+      "media_type": "image/webp",
+      "bytes": 259036,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/c2f4b421-5571-4ce2-a455-cd46d4d2f59d/je/2000xxs.jpg",
+      "path": "images/img-539ab7835686.webp",
+      "media_type": "image/webp",
+      "bytes": 37712,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/77d69da1-4c80-4129-884b-5cecd0a822c2/je/2000xxs.jpg",
+      "path": "images/img-e7ed82c302d5.webp",
+      "media_type": "image/webp",
+      "bytes": 211248,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/18eda75e-ae41-4caa-bddf-36b41b82ef58/je/2000xxs.jpg",
+      "path": "images/img-fdba8a6eacae.webp",
+      "media_type": "image/webp",
+      "bytes": 172254,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/cdf66b00-bfeb-413f-8b2d-c4ed7fbc57e7/je/2000xxs.jpg",
+      "path": "images/img-f77b4a36a0b2.webp",
+      "media_type": "image/webp",
+      "bytes": 174300,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/e2fe8ae3-10ce-4105-ae50-9c67876b5fbc/je/2000xxs.jpg",
+      "path": "images/img-35fa81a5d220.webp",
+      "media_type": "image/webp",
+      "bytes": 192528,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/30048bdc-9a4e-4414-949f-55a6e4844ea5/je/2000xxs.jpg",
+      "path": "images/img-213af61f48a5.webp",
+      "media_type": "image/webp",
+      "bytes": 191832,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/03/9e896b57-83a6-40de-9a47-5a85fdd75ae5/je/2000xxs.jpg",
+      "path": "images/img-b1bc789af63c.webp",
+      "media_type": "image/webp",
+      "bytes": 164748,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/c8df07bf-4956-4697-9732-69b47f00d777/je/2000xxs.jpg",
+      "path": "images/img-6eafc33d2f8f.webp",
+      "media_type": "image/webp",
+      "bytes": 136260,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/e17261b3-fde2-4811-a388-b89ba2f19830/je/2000xxs.jpg",
+      "path": "images/img-8679c202a002.webp",
+      "media_type": "image/webp",
+      "bytes": 424836,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/9cd8a17a-8a0a-4227-982d-142d2612196d/je/2000xxs.jpg",
+      "path": "images/img-e4662e72e686.webp",
+      "media_type": "image/webp",
+      "bytes": 182526,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/04ee6ed0-814d-4703-b447-b182e8d702dc/je/2000xxs.jpg",
+      "path": "images/img-0a10f1cf385c.webp",
+      "media_type": "image/webp",
+      "bytes": 131712,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/03/5a40e2a9-3a70-44af-8f83-3a7099a6ab6b/je/2000xxs.jpg",
+      "path": "images/img-a7bf8bf9f44c.webp",
+      "media_type": "image/webp",
+      "bytes": 71826,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/c0fd0d2b-2396-494e-a404-4b4dee81c24c/je/2000xxs.jpg",
+      "path": "images/img-0000a82f1064.webp",
+      "media_type": "image/webp",
+      "bytes": 97640,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/8186af9d-a017-4e26-9eeb-ad74ddd43b79/je/2000xxs.jpg",
+      "path": "images/img-e9fd53e1adc2.webp",
+      "media_type": "image/webp",
+      "bytes": 97612,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/65be156b-a142-479b-82ef-89dc162b1ca6/je/2000xxs.jpg",
+      "path": "images/img-734f4951524f.webp",
+      "media_type": "image/webp",
+      "bytes": 119734,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/ac1f3c25-c7f2-4281-a7be-7da4e874861b/je/2000xxs.jpg",
+      "path": "images/img-d8239fbc62ca.webp",
+      "media_type": "image/webp",
+      "bytes": 128070,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/3824cda1-6387-4f06-b585-035389d23ce9/je/2000xxs.jpg",
+      "path": "images/img-d55604033c95.webp",
+      "media_type": "image/webp",
+      "bytes": 102412,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/9bcf123c-5862-4b4e-8eeb-7464765fca9e/je/2000xxs.jpg",
+      "path": "images/img-d6bf9eed485c.webp",
+      "media_type": "image/webp",
+      "bytes": 75694,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/58202b08-f3c9-455a-ba7a-2d6cf4950a85/je/2000xxs.jpg",
+      "path": "images/img-53a3cb15c0a3.webp",
+      "media_type": "image/webp",
+      "bytes": 127508,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/2200xxs%2832%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/2200xxs%2833%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2023/04/07/08/31/16/f43f9a81-d954-4c57-8b3c-2ebdec60c2cc/je/80x80xc.jpg",
+      "path": "images/img-459ca454aaf4.webp",
+      "media_type": "image/webp",
+      "bytes": 802,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 36,
+    "images_existing": 0,
+    "images_failed": 13,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

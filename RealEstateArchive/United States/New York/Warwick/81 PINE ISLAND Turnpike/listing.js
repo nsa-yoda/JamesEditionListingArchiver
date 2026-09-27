@@ -1,0 +1,316 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/single-family-residence-in-warwick-16978139",
+    "canonical_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/single-family-residence-in-warwick-16978139",
+    "site": "jamesedition",
+    "listing_id": "16978139",
+    "listing_reference": "H6171317",
+    "first_listed": "Jan 22",
+    "last_updated": "March 30",
+    "retrieved_at": "2026-06-16T03:43:37.580023Z"
+  },
+  "location": {
+    "address": "81 PINE ISLAND Turnpike, Warwick, New York, United States",
+    "street": "81 PINE ISLAND Turnpike",
+    "municipality": "Warwick",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.261912,-74.372674",
+    "latitude": 41.261912,
+    "longitude": -74.372674
+  },
+  "property": {
+    "title": "Single Family Residence In Warwick",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 3800000,
+      "currency": "USD",
+      "display": "$3,800,000"
+    },
+    "price_per_area": {
+      "amount": 890,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$890"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "interior_area": {
+      "value": 4269,
+      "unit": "sqft",
+      "display": "4,269 Sqft"
+    },
+    "lot_area": {
+      "value": 83,
+      "display": "83.0 Ac lot"
+    },
+    "year_built": 1983,
+    "photo_count": 32,
+    "description": "This property totals 83 acres and is currently in the agricultural district, but is zoned suburban. Low density, permitting residential development. The long winding drive leads to a beautiful brick ranch home with 4269 sq. feet, 2,400 square feet pole barn, distillery, retail store and luxuriant landscaping grounds. The ranch includes a 3-car attached garage. This property was formally a working winery, but has not been in service for 2 years. Additional Information: ParkingFeatures:3 Car Attached,",
+    "features": [
+      "Garage",
+      "Parking",
+      "Vineyard / Winery"
+    ]
+  },
+  "broker": {
+    "agent": "Raynor Country - Warwick",
+    "agency": "Raynor Country - Warwick",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/raynor-country-warwick-558633",
+    "agency_address": "Warwick, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/2200xxs.jpg",
+      "file": "004-1dde50f1.webp",
+      "media_type": "image/webp",
+      "bytes": 87850,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/13fd1766-54d6-4119-98dd-84579c581aa8/je/2200xxs.jpg",
+      "file": "009-0feab57c.webp",
+      "media_type": "image/webp",
+      "bytes": 116158,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e97864b6-a04e-49ee-9400-db03b15f1cbf/je/2200xxs.jpg",
+      "file": "014-038cfc9e.webp",
+      "media_type": "image/webp",
+      "bytes": 93670,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/d43aee01-c44d-4eff-bffe-26e89ecd8315/je/2200xxs.jpg",
+      "file": "019-dba8b5b9.webp",
+      "media_type": "image/webp",
+      "bytes": 194732,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/79f50051-c901-42bc-aedc-d70ba874a556/je/2200xxs.jpg",
+      "file": "024-63522e4e.webp",
+      "media_type": "image/webp",
+      "bytes": 256350,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/warwick-ny-usa",
+              "name": "Warwick"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/warwick-ny-usa/single-family-residence-in-warwick-16978139",
+              "name": "Single Family Residence in Warwick"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "This property totals 83 acres and is currently in the agricultural district, but is zoned suburban. Low density, permitting residential development. The long winding drive leads to a beautiful brick ranch home with 4269 sq. feet, 2,400 square feet pole barn, distillery, retail store and luxuriant landscaping grounds. The ranch includes a 3-car attached garage. This property was formally a working winery, but has not been in service for 2 years. Additional Information: ParkingFeatures:3 Car Attached,",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Warwick",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 3800000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Raynor Country - Warwick"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/single-family-residence-in-warwick-16978139"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/M00000489.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

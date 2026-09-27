@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/Gualala",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Schooner’s Ranch- Coastal Beauty",
+      "href": "Schooner%E2%80%99s%20Ranch-%20Coastal%20Beauty/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

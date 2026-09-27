@@ -1,0 +1,21 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Wyoming/Jackson",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "1125 W Bar BC Ranch Road",
+      "href": "1125%20W%20Bar%20BC%20Ranch%20Road/index.html"
+    },
+    {
+      "name": "55 S ELY SPRINGS Road",
+      "href": "55%20S%20ELY%20SPRINGS%20Road/index.html"
+    },
+    {
+      "name": "7020 N Bar B Bar River Road",
+      "href": "7020%20N%20Bar%20B%20Bar%20River%20Road/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

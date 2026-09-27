@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415",
+    "canonical_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415",
+    "site": "jamesedition",
+    "listing_id": "14410415",
+    "listing_reference": "CNT3014",
+    "first_listed": "Jun 23, 2024",
+    "last_updated": "April 28",
+    "retrieved_at": "2026-06-18T07:07:52.813206Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5784,
+      "sha256": "ef64365c2c8500edf254926dbe27bc36e67d64679302e19a1b54c8078a216751"
+    },
+    {
+      "path": "images/004-6ec21649.webp",
+      "bytes": 712886,
+      "sha256": "406026f9a740e7c44186e10c7649d939017db819fc5c5b731bd7f165597b66a3"
+    },
+    {
+      "path": "images/009-b7165463.webp",
+      "bytes": 727750,
+      "sha256": "065005ed05f574f01e61bc316543adab8bd51d63c61947af13bce7c2ae93b1e0"
+    },
+    {
+      "path": "images/014-996e2997.webp",
+      "bytes": 371824,
+      "sha256": "a8ac91a5049e26380313dd4b02710ca9800c01d28252c678e6bee3857fe6b88f"
+    },
+    {
+      "path": "images/019-8f20d51b.webp",
+      "bytes": 665384,
+      "sha256": "596160a7b67ccae934be66a87a61cbf01d36c120fae6ec2f694422036af57453"
+    },
+    {
+      "path": "images/024-41e5ba68.webp",
+      "bytes": 403174,
+      "sha256": "4f2a658f8709a4e49a729b51be28219b3dba4ef8759a5c7798ea5d0d1abacec8"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23374,
+      "sha256": "410d9b3b5353a53ef6d43b4ff198b4eaf232d553a56ef2080e4459720b8931b4"
+    },
+    {
+      "path": "source.html",
+      "bytes": 388084,
+      "sha256": "6306dbcde0edbac573c7286367b326724f0af2ecf191ead1eba945fe8dcd9a7f"
+    },
+    {
+      "path": "source.url",
+      "bytes": 139,
+      "sha256": "4d1c2801b6f13ff7a502dcc27f4f5c7d44930057b9f4749f326dd414f214b6a7"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/2200xxs.jpg",
+      "path": "images/004-6ec21649.webp",
+      "media_type": "image/webp",
+      "bytes": 712886,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/b5faddd3-102e-4aac-a7bd-742a87237fe4/je/2200xxs.jpg",
+      "path": "images/009-b7165463.webp",
+      "media_type": "image/webp",
+      "bytes": 727750,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/6ac52a04-dc0b-4e28-ac04-cb35c3182a06/je/2200xxs.jpg",
+      "path": "images/014-996e2997.webp",
+      "media_type": "image/webp",
+      "bytes": 371824,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/a340a799-0bff-42d1-bae4-8932e2c65761/je/2200xxs.jpg",
+      "path": "images/019-8f20d51b.webp",
+      "media_type": "image/webp",
+      "bytes": 665384,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/9688024e-29df-469d-91e7-5cae992e357b/je/2200xxs.jpg",
+      "path": "images/024-41e5ba68.webp",
+      "media_type": "image/webp",
+      "bytes": 403174,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

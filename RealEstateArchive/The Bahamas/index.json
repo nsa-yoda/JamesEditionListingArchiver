@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "path": "The Bahamas",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "BY",
+      "href": "BY/index.html"
+    },
+    {
+      "name": "Exuma",
+      "href": "Exuma/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

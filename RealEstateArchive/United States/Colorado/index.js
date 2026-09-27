@@ -1,0 +1,25 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Colorado",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Conifer",
+      "href": "Conifer/index.html"
+    },
+    {
+      "name": "Littleton",
+      "href": "Littleton/index.html"
+    },
+    {
+      "name": "Rifle",
+      "href": "Rifle/index.html"
+    },
+    {
+      "name": "Vail",
+      "href": "Vail/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

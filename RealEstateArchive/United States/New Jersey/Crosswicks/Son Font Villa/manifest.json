@@ -1,0 +1,455 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/son-font-villa-valldemossa-mallorca-spain-14802153",
+    "canonical_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/son-font-villa-valldemossa-mallorca-spain-14802153",
+    "site": "jamesedition",
+    "listing_id": "14802153",
+    "listing_reference": "VRPREN",
+    "first_listed": "Oct 12, 2024",
+    "last_updated": "October 15, 2024",
+    "retrieved_at": "2026-06-18T07:09:13.286528Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2509,
+      "sha256": "91caf6f34b12d249670d6e0d724b3522aa8a864fe28e32991f924ba3344e65a3"
+    },
+    {
+      "path": "images/004-ce269586.webp",
+      "bytes": 392940,
+      "sha256": "5bc7e5be229f86267c279a620659de4c234f7748d587bee9a2952ed5307922d3"
+    },
+    {
+      "path": "images/009-e4b974af.webp",
+      "bytes": 573064,
+      "sha256": "027ae1277bfd67f3628fc1085ec09c50b03115a4a477e0f301fd981e1e10a233"
+    },
+    {
+      "path": "images/014-74c8b2f5.webp",
+      "bytes": 565080,
+      "sha256": "8dc0a73088a280868e195c2386ea7fa17cdd111fc7e36f1de2f28af37186c4ef"
+    },
+    {
+      "path": "images/019-ef763c80.webp",
+      "bytes": 334048,
+      "sha256": "e4d5d32fcb7c2722c68be07c9a16f4be171cc9df0b5b7339a46b18935d4c0173"
+    },
+    {
+      "path": "images/024-dbc902da.webp",
+      "bytes": 258418,
+      "sha256": "9eee587155182e9c2b23c123899020feaf420b7609b2b6119b0d511c0bc430f9"
+    },
+    {
+      "path": "images/034-d7171c0a.webp",
+      "bytes": 341330,
+      "sha256": "8b4171b62fe2d178563181bd73f116d6be4cc90c6460609b7561183ba0993d59"
+    },
+    {
+      "path": "images/035-221be1f1.webp",
+      "bytes": 366262,
+      "sha256": "65cb935e6fa78ba89e63c2a9c9724da9d0d6e2ebff79d789a14e81ed70276ffb"
+    },
+    {
+      "path": "images/036-c92209c4.webp",
+      "bytes": 388704,
+      "sha256": "d1b013dfe73dfa1a99405a9f3d7b1b454156dfd489be674e95193a30ac6bc686"
+    },
+    {
+      "path": "images/037-9a6200f1.webp",
+      "bytes": 349156,
+      "sha256": "0327b1914f32acdf117781507481e4c3235aa779d35ae622496f5bdebca3bc80"
+    },
+    {
+      "path": "images/038-87b2d3ca.webp",
+      "bytes": 458292,
+      "sha256": "d00552f2f1be3ddebfe15b9c8dd411d43e0ea164cc648464ba54a4e89d70afc6"
+    },
+    {
+      "path": "images/039-da1f16f1.webp",
+      "bytes": 132496,
+      "sha256": "90b3791a030fdd5df4e1d3fc90c184f499f55aa270f1af2785a5369f37790f63"
+    },
+    {
+      "path": "images/040-5554721d.webp",
+      "bytes": 134158,
+      "sha256": "82f771b0a2c19c3eb0b5a0c48e1961dbcdc4debe7f9b859d3ef764196fcb80e0"
+    },
+    {
+      "path": "images/041-2b0c5688.webp",
+      "bytes": 115714,
+      "sha256": "9962480c0c051e4808cd03ebaa5f6210ecca2c32eb376d20f03ce11310556ad1"
+    },
+    {
+      "path": "images/042-e18daedb.webp",
+      "bytes": 79870,
+      "sha256": "49102406170eea531fc1824cdd15f62ac11ae42ec8718005dd9275615440d931"
+    },
+    {
+      "path": "images/043-ec5f681f.webp",
+      "bytes": 93704,
+      "sha256": "2f1a892aae0d0550805ccd0968d364b65c66c829bfff4488fc7093f81e2d72d6"
+    },
+    {
+      "path": "images/044-b3e6d6ec.webp",
+      "bytes": 106176,
+      "sha256": "7e2b1b7e634eecb14e8a70a1ca0b665e9248b34b4011b851245ee3a9ccf6b5e7"
+    },
+    {
+      "path": "images/045-2902100c.webp",
+      "bytes": 128606,
+      "sha256": "b93e59897fd0452b2913b02dd11e45acde41ac4cbc7e728ab260445522f7117e"
+    },
+    {
+      "path": "images/046-7b646b3a.webp",
+      "bytes": 151974,
+      "sha256": "20a4ad88151ca42b3ca7bd0b13f5c40aa1ab5291dee6d5db65dd5b1dc9777078"
+    },
+    {
+      "path": "images/047-111355de.webp",
+      "bytes": 145952,
+      "sha256": "a9b9f0c7fbf0042b9973bb9d39a89e1d38fc92435b2bfc9f77c308b1cf6210b3"
+    },
+    {
+      "path": "images/048-484d6506.webp",
+      "bytes": 353606,
+      "sha256": "8f296f9af902c011cfff92bd17ce18bc46fba2a01dfca9fdfffda8cad097d2f0"
+    },
+    {
+      "path": "images/049-0c4be035.webp",
+      "bytes": 389940,
+      "sha256": "d56845c24a35d82be269e14f0d3837038d1d07512d33bd76d9fd44618d767f77"
+    },
+    {
+      "path": "images/050-200111d0.webp",
+      "bytes": 293222,
+      "sha256": "e05f3f2207ba1fa30c97e50c93d35e59e339948eeb07183fea846100bc220a97"
+    },
+    {
+      "path": "images/051-748e3d47.webp",
+      "bytes": 487706,
+      "sha256": "b45ca5c2268fecfbd76c0f855286a83a00d249788b108f7f816a23c80bd55406"
+    },
+    {
+      "path": "images/052-cc7f2e2e.webp",
+      "bytes": 658222,
+      "sha256": "c92caeafebe881187fc8cb40a970d760bc0d145f22f79f02787aca592a212610"
+    },
+    {
+      "path": "images/055-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/056-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/057-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/058-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 20137,
+      "sha256": "301709dd35988b77c906dffa2cfdf66be04a47b0d0f0d4035eca22514bda6e65"
+    },
+    {
+      "path": "source.html",
+      "bytes": 521750,
+      "sha256": "1b67ae0e66c15d7bf3878459590c1d93c79b89e4b29ea9bcf85660070f9501f0"
+    },
+    {
+      "path": "source.url",
+      "bytes": 111,
+      "sha256": "9e7a61141cd5ff8eae198ed9e500856306a9114b57e01f07cc3538e2596644c2"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/2200xxs.jpg",
+      "path": "images/004-ce269586.webp",
+      "media_type": "image/webp",
+      "bytes": 392940,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/2200xxs.jpg",
+      "path": "images/009-e4b974af.webp",
+      "media_type": "image/webp",
+      "bytes": 573064,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/2200xxs.jpg",
+      "path": "images/014-74c8b2f5.webp",
+      "media_type": "image/webp",
+      "bytes": 565080,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/2200xxs.jpg",
+      "path": "images/019-ef763c80.webp",
+      "media_type": "image/webp",
+      "bytes": 334048,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/2200xxs.jpg",
+      "path": "images/024-dbc902da.webp",
+      "media_type": "image/webp",
+      "bytes": 258418,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/6db9f5f5-8772-449b-8800-78f4654d95d8/je/2000xxs.jpg",
+      "path": "images/034-d7171c0a.webp",
+      "media_type": "image/webp",
+      "bytes": 341330,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a45e8a99-8062-49dc-ba41-f91335b3ed2a/je/2000xxs.jpg",
+      "path": "images/035-221be1f1.webp",
+      "media_type": "image/webp",
+      "bytes": 366262,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e5fef7c1-b91e-4826-bc1c-b0a32bef96a9/je/2000xxs.jpg",
+      "path": "images/036-c92209c4.webp",
+      "media_type": "image/webp",
+      "bytes": 388704,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/69b15ccb-6a14-4015-9749-8df0637f4b01/je/2000xxs.jpg",
+      "path": "images/037-9a6200f1.webp",
+      "media_type": "image/webp",
+      "bytes": 349156,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/aab7650e-2b62-492f-ae3c-28485e9865fd/je/2000xxs.jpg",
+      "path": "images/038-87b2d3ca.webp",
+      "media_type": "image/webp",
+      "bytes": 458292,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/6ca249d4-7c7a-4a03-a373-3d4cdef8ec1b/je/2000xxs.jpg",
+      "path": "images/039-da1f16f1.webp",
+      "media_type": "image/webp",
+      "bytes": 132496,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/584f08b7-7504-42df-9459-3e24fbc10873/je/2000xxs.jpg",
+      "path": "images/040-5554721d.webp",
+      "media_type": "image/webp",
+      "bytes": 134158,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/4c2ed9cb-79f9-449d-8097-f26935f26607/je/2000xxs.jpg",
+      "path": "images/041-2b0c5688.webp",
+      "media_type": "image/webp",
+      "bytes": 115714,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/2d49f09c-102c-481c-a8c0-2246f481050b/je/2000xxs.jpg",
+      "path": "images/042-e18daedb.webp",
+      "media_type": "image/webp",
+      "bytes": 79870,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/7a956590-61a4-41d4-8e18-1cb7f78ca86d/je/2000xxs.jpg",
+      "path": "images/043-ec5f681f.webp",
+      "media_type": "image/webp",
+      "bytes": 93704,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/eb85001b-929a-4c8e-8732-7f01add8cf59/je/2000xxs.jpg",
+      "path": "images/044-b3e6d6ec.webp",
+      "media_type": "image/webp",
+      "bytes": 106176,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/0f174741-a474-43e7-941a-9e2de8409be6/je/2000xxs.jpg",
+      "path": "images/045-2902100c.webp",
+      "media_type": "image/webp",
+      "bytes": 128606,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/bee995b9-7388-4390-8711-3151899dd8a8/je/2000xxs.jpg",
+      "path": "images/046-7b646b3a.webp",
+      "media_type": "image/webp",
+      "bytes": 151974,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e19fec12-2ab3-44e0-b037-713c2525c4b3/je/2000xxs.jpg",
+      "path": "images/047-111355de.webp",
+      "media_type": "image/webp",
+      "bytes": 145952,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/b751a860-5ecf-4497-878b-939d1ab97b04/je/2000xxs.jpg",
+      "path": "images/048-484d6506.webp",
+      "media_type": "image/webp",
+      "bytes": 353606,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/667d2a41-047d-4ece-88c0-05b4f5052e84/je/2000xxs.jpg",
+      "path": "images/049-0c4be035.webp",
+      "media_type": "image/webp",
+      "bytes": 389940,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/41f4dd7e-1b6b-4fa2-a498-cf58550bf190/je/2000xxs.jpg",
+      "path": "images/050-200111d0.webp",
+      "media_type": "image/webp",
+      "bytes": 293222,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a193d7a2-fba5-4076-8eb8-a51340a22abf/je/2000xxs.jpg",
+      "path": "images/051-748e3d47.webp",
+      "media_type": "image/webp",
+      "bytes": 487706,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/1e1cb7d8-b23a-482e-ad85-b7b43911c7e9/je/2000xxs.jpg",
+      "path": "images/052-cc7f2e2e.webp",
+      "media_type": "image/webp",
+      "bytes": 658222,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/2200xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/055-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/056-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/057-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/058-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 28,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

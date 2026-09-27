@@ -3,21 +3,15 @@ cookies.txt
 cookies*.txt
 *.cookies
 
-# Local archives
-RealEstateArchive/
-listings/
-/imports/
-JamesEdition/
 
 # Generated binaries and test output
 /listing-archiver
 *.test
 coverage.out
+internal/
 
 # Editor and OS files
 .DS_Store
 .idea/
 .vscode/
-
-# Local agent instructions
-AGENTS.md
+.serena/

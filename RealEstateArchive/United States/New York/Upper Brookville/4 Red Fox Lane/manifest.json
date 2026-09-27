@@ -1,0 +1,507 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4-red-fox-lane-upper-brookville-ny-11545-17424250",
+    "canonical_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4-red-fox-lane-upper-brookville-ny-11545-17424250",
+    "site": "jamesedition",
+    "listing_id": "17424250",
+    "listing_reference": "8SJ8D3",
+    "first_listed": "Mar 16",
+    "last_updated": "June 17",
+    "retrieved_at": "2026-08-28T00:27:40.549565Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2227,
+      "sha256": "90ae63949ed0476b412f5f6b9b664d1358cd9e15e244c6abff5e045e46ad3199"
+    },
+    {
+      "path": "images/img-0175f2dd8ff1.webp",
+      "bytes": 986226,
+      "sha256": "65398209a20c604963a89401122f7981919d184d4f5fd7dc2cb9e42a411acea2"
+    },
+    {
+      "path": "images/img-03ce7d25857f.webp",
+      "bytes": 225562,
+      "sha256": "207c2d64f71a66868b2280c2adaa05dbe91dae65568002527976d3f70f5fdb88"
+    },
+    {
+      "path": "images/img-0cf341dfeeaa.webp",
+      "bytes": 203516,
+      "sha256": "dd9e3962941b772c1cc7a59fc0be3c60da4f6bc2dce37b3daf6b902d9ebbbed5"
+    },
+    {
+      "path": "images/img-2a88952aebb7.webp",
+      "bytes": 316328,
+      "sha256": "a96616b0a9eba78942e8729bbdbca4b87e82a4376da90396b593f83dbe1dc3c1"
+    },
+    {
+      "path": "images/img-2d4ea96661ab.webp",
+      "bytes": 427874,
+      "sha256": "8b40a5d0f67258c9f6397d44d8c625809750a5a4258063ff10b6ede56203c0e4"
+    },
+    {
+      "path": "images/img-35014f526301.webp",
+      "bytes": 335246,
+      "sha256": "3503dff62c742137043fa28bccaa5eabf60e25a2a490f8621dfa13ddccc8db02"
+    },
+    {
+      "path": "images/img-3b74fc2799f4.webp",
+      "bytes": 826186,
+      "sha256": "b2062b659f6ca1e3e23da1819ef378b74de142f95b34833d5bd7c2c4b91a6023"
+    },
+    {
+      "path": "images/img-417fd40a23d6.webp",
+      "bytes": 760672,
+      "sha256": "d79d7c540ed71f5fa11d9327109f7e2d3fd828bb0577fd63b7fa932e17ae6d6b"
+    },
+    {
+      "path": "images/img-5021f393b5cd.webp",
+      "bytes": 296586,
+      "sha256": "e03f378183a923c6043f726f2bbcb0a99ae1b8189fa1878938588d505c4abb05"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5a377b5bff7a.webp",
+      "bytes": 837156,
+      "sha256": "b9159f2ce26b11dd79305be9bbeca1754c5c18f4cca4a65c8d32efc0069eddb1"
+    },
+    {
+      "path": "images/img-61403e34f981.webp",
+      "bytes": 731582,
+      "sha256": "5cf1649925a395234c7582cbb7cbba318657223c1fcf7e9f5dacf4f449c7c79a"
+    },
+    {
+      "path": "images/img-637fffe4a981.webp",
+      "bytes": 462808,
+      "sha256": "236c257b5e97aa4e9f4abe500ba4a70396e8d792219a684aecc4781b8033a0c6"
+    },
+    {
+      "path": "images/img-75c0b286b1e9.webp",
+      "bytes": 1023882,
+      "sha256": "867a1611b385cf62d79c0db3847854946bf75472c51981f4e55504e769728a57"
+    },
+    {
+      "path": "images/img-8cf49e5bf7ee.webp",
+      "bytes": 838988,
+      "sha256": "a647b14d2c4755918a2c52e14862254995c70d1a429be8d4f67abfe121f6779c"
+    },
+    {
+      "path": "images/img-9f671519667a.webp",
+      "bytes": 756850,
+      "sha256": "6c240680434e44605fc19ac6bd933a8239508ef503716fb521757d1599ad9167"
+    },
+    {
+      "path": "images/img-a09e361dfaeb.webp",
+      "bytes": 709948,
+      "sha256": "c46bf5e1506478d3b3086609d48655f012defdfc74e9932b4e8a8f2091080ad8"
+    },
+    {
+      "path": "images/img-a4519c1ab632.webp",
+      "bytes": 908366,
+      "sha256": "a0324e310c97779b0018ab324cc45557d23993a2af0325d9baef5816672e139e"
+    },
+    {
+      "path": "images/img-baacbb6b32c1.webp",
+      "bytes": 928142,
+      "sha256": "31eeba3ddd51a765d5321dab88c55f6fb670446a65aa3a11a7cdac441a8323c4"
+    },
+    {
+      "path": "images/img-c32fa7696d9a.webp",
+      "bytes": 831734,
+      "sha256": "2083a216e83337942155d939b5add1b437f126dceead028c9f17f636c395019b"
+    },
+    {
+      "path": "images/img-c8494e72943c.webp",
+      "bytes": 412260,
+      "sha256": "d672667fd877f78d727d91d408bcae3a0ff87ed9eff26ba9b34bd2136bf94c2e"
+    },
+    {
+      "path": "images/img-d0c128656750.webp",
+      "bytes": 337548,
+      "sha256": "4abacc823960908b2fb4565edb6147a50175f4b619a7833be8003260d84984c7"
+    },
+    {
+      "path": "images/img-dbd3038ca05f.webp",
+      "bytes": 958914,
+      "sha256": "ea5aa592e097e861af722740b6a5c112922ac8f2057f3a37c3c0e3281181edf6"
+    },
+    {
+      "path": "images/img-e6ec914d2fc0.webp",
+      "bytes": 218526,
+      "sha256": "18097fa49c647cb4341e516c5f50eff44c9243d49e4f6db1b4c270ca8dbebe6e"
+    },
+    {
+      "path": "images/img-ecd67f0e758c.webp",
+      "bytes": 469658,
+      "sha256": "995a5af4d66a101a59adb4a507ca3b0c721e36e0523fa97c9512e4516c0d3dc7"
+    },
+    {
+      "path": "images/img-f6ea758aa5bb.webp",
+      "bytes": 1053880,
+      "sha256": "6a9fea839d718b868345a482498069f31cb65d5fa42e4183c573a2d0fb57c495"
+    },
+    {
+      "path": "images/img-f76e1cca24d2.webp",
+      "bytes": 504698,
+      "sha256": "4d90f5fddf56da090c308c69d4dc6bc3fd1a4f8e0ee7c5ca15ae7d1c438d05c5"
+    },
+    {
+      "path": "images/img-f89cdd92ebbd.webp",
+      "bytes": 1048366,
+      "sha256": "41c4dd5757e8744c23fda7d6dceedccc8aa2fa5e8ae27adba86577b8a87716a5"
+    },
+    {
+      "path": "images/img-fa4b11047473.webp",
+      "bytes": 375920,
+      "sha256": "4be7b479ba40fa9679c94c84796787ae05158bbef1ab3484e3556e33f70bfc53"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 26470,
+      "sha256": "bbd4e67b7cc30ab01635ee4f818aa55fc532e85dfa7eff9f80a8b850398b7adf"
+    },
+    {
+      "path": "source.html",
+      "bytes": 451389,
+      "sha256": "0537702d7f11186be425fbf28f25896a828fcec99130f270371cc79bf2fff57c"
+    },
+    {
+      "path": "source.url",
+      "bytes": 115,
+      "sha256": "ec13f09676bc4d7e6d6fe9861abfe3a76228661e1e1a8a7d099cba5f6b828921"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/6a5714b1-a9d7-4dc9-99c1-2bf8853f6a67/je/2200xxs.jpg",
+      "path": "images/img-8cf49e5bf7ee.webp",
+      "media_type": "image/webp",
+      "bytes": 838988,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/e68551fc-23df-4b5a-8e90-57816909c51c/je/2200xxs.jpg",
+      "path": "images/img-0175f2dd8ff1.webp",
+      "media_type": "image/webp",
+      "bytes": 986226,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/436e7b2e-1372-4f99-b32e-fa66dd75e516/je/2200xxs.jpg",
+      "path": "images/img-baacbb6b32c1.webp",
+      "media_type": "image/webp",
+      "bytes": 928142,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/7dc62cd8-ae65-47ce-a5c4-13ab1307b340/je/2200xxs.jpg",
+      "path": "images/img-417fd40a23d6.webp",
+      "media_type": "image/webp",
+      "bytes": 760672,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/c95b0f4f-b13f-4217-81e7-a47b9b53308c/je/2200xxs.jpg",
+      "path": "images/img-c32fa7696d9a.webp",
+      "media_type": "image/webp",
+      "bytes": 831734,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/5f367952-15d9-4116-b9a4-c4302d923ebe/je/2000xxs.jpg",
+      "path": "images/img-f6ea758aa5bb.webp",
+      "media_type": "image/webp",
+      "bytes": 1053880,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/5630a86c-907a-4455-95cf-4582996ea2fa/je/2000xxs.jpg",
+      "path": "images/img-2d4ea96661ab.webp",
+      "media_type": "image/webp",
+      "bytes": 427874,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/d7d52312-f0c2-42a8-a2fb-9fe86cd6e63d/je/2000xxs.jpg",
+      "path": "images/img-637fffe4a981.webp",
+      "media_type": "image/webp",
+      "bytes": 462808,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/946b98ca-afa0-460c-97fa-c9cf2bbb7c58/je/2000xxs.jpg",
+      "path": "images/img-d0c128656750.webp",
+      "media_type": "image/webp",
+      "bytes": 337548,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/2ba938af-cde4-4610-b459-ad0f6e004f34/je/2000xxs.jpg",
+      "path": "images/img-c8494e72943c.webp",
+      "media_type": "image/webp",
+      "bytes": 412260,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/e8089abb-8ea7-4b42-8c50-6e4bcdb4d964/je/2000xxs.jpg",
+      "path": "images/img-ecd67f0e758c.webp",
+      "media_type": "image/webp",
+      "bytes": 469658,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/e6b1bb97-40b3-4895-a820-a94402f0d4c8/je/2000xxs.jpg",
+      "path": "images/img-f76e1cca24d2.webp",
+      "media_type": "image/webp",
+      "bytes": 504698,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/f73cc8fb-2733-4b50-ac5d-7bc215674c86/je/2000xxs.jpg",
+      "path": "images/img-fa4b11047473.webp",
+      "media_type": "image/webp",
+      "bytes": 375920,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/08d3ba6a-5fe5-473b-9715-d249cafa1576/je/2000xxs.jpg",
+      "path": "images/img-0cf341dfeeaa.webp",
+      "media_type": "image/webp",
+      "bytes": 203516,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/a51be6c9-ea8a-460d-bc0e-610609043281/je/2000xxs.jpg",
+      "path": "images/img-03ce7d25857f.webp",
+      "media_type": "image/webp",
+      "bytes": 225562,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/1d147d4b-3d8a-4e7d-8a3e-ff34893fb883/je/2000xxs.jpg",
+      "path": "images/img-e6ec914d2fc0.webp",
+      "media_type": "image/webp",
+      "bytes": 218526,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/fd9a957f-e7d7-41b4-b2fa-5fbea9d53a08/je/2000xxs.jpg",
+      "path": "images/img-5021f393b5cd.webp",
+      "media_type": "image/webp",
+      "bytes": 296586,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/40775b9d-0f9c-4100-acb9-58c35d2da9df/je/2000xxs.jpg",
+      "path": "images/img-35014f526301.webp",
+      "media_type": "image/webp",
+      "bytes": 335246,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/d89f6bba-b9cc-4336-9ec0-282842f013fe/je/2000xxs.jpg",
+      "path": "images/img-3b74fc2799f4.webp",
+      "media_type": "image/webp",
+      "bytes": 826186,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/806563e2-0dca-4589-b5c7-10ae637747df/je/2000xxs.jpg",
+      "path": "images/img-dbd3038ca05f.webp",
+      "media_type": "image/webp",
+      "bytes": 958914,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/d5e92b61-276b-419e-a5f8-32017bd2911b/je/2000xxs.jpg",
+      "path": "images/img-a4519c1ab632.webp",
+      "media_type": "image/webp",
+      "bytes": 908366,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/6efb2c38-ec7b-4a61-9ef4-c44ba2bca90b/je/2000xxs.jpg",
+      "path": "images/img-75c0b286b1e9.webp",
+      "media_type": "image/webp",
+      "bytes": 1023882,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/4f6d7929-99a5-450b-80fd-731d0ba02b73/je/2000xxs.jpg",
+      "path": "images/img-f89cdd92ebbd.webp",
+      "media_type": "image/webp",
+      "bytes": 1048366,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/65eb997f-20f5-4510-b31d-dd6fe915f3da/je/2000xxs.jpg",
+      "path": "images/img-5a377b5bff7a.webp",
+      "media_type": "image/webp",
+      "bytes": 837156,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/0d039db9-e88b-463e-8a13-b505a818fdab/je/2000xxs.jpg",
+      "path": "images/img-a09e361dfaeb.webp",
+      "media_type": "image/webp",
+      "bytes": 709948,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/31203177-44c6-4517-a208-05e2aa15dd85/je/2000xxs.jpg",
+      "path": "images/img-61403e34f981.webp",
+      "media_type": "image/webp",
+      "bytes": 731582,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/7555b5f9-2b16-4c8f-8897-5e1fa07d1d0b/je/2000xxs.jpg",
+      "path": "images/img-2a88952aebb7.webp",
+      "media_type": "image/webp",
+      "bytes": 316328,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/16/15/01/02/d71d1a4b-c230-48fe-b9e7-22c98c6ea4a1/je/2000xxs.jpg",
+      "path": "images/img-9f671519667a.webp",
+      "media_type": "image/webp",
+      "bytes": 756850,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/2200xxsxm%2824%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/2200xxsxm%2825%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4%20Red%20Fox%20Lane,%20Upper%20Brookville,%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2817424250%29_files/2200xxsxm%2823%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 29,
+    "images_existing": 0,
+    "images_failed": 14,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

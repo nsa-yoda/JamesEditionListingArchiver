@@ -1,0 +1,1086 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/madison-ga-usa/single-family-residence-in-madison-18212496",
+    "canonical_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/single-family-residence-in-madison-18212496",
+    "site": "jamesedition",
+    "listing_id": "18212496",
+    "listing_reference": "10788238",
+    "first_listed": "Jun 18",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-06-21T09:21:29.575601Z"
+  },
+  "location": {
+    "address": "1271 Plainview RD, Buckhead, Georgia, United States",
+    "street": "1271 Plainview RD",
+    "municipality": "Buckhead",
+    "region": "Georgia",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=33.565463,-83.427576",
+    "latitude": 33.565463,
+    "longitude": -83.427576
+  },
+  "property": {
+    "title": "Single Family Residence In Madison",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 3995000,
+      "currency": "USD",
+      "display": "$3,995,000"
+    },
+    "price_per_area": {
+      "amount": 907,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$907"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "interior_area": {
+      "value": 4401,
+      "unit": "sqft",
+      "display": "4,401 Sqft"
+    },
+    "lot_area": {
+      "value": 49.72,
+      "display": "49.72 Ac lot"
+    },
+    "year_built": 2022,
+    "photo_count": 112,
+    "description": "Welcome to an extraordinary private estate where luxury, recreation, and country living come together in perfect harmony. Nestled on 49 breathtaking acres just five minutes from historic Downtown Madison, this one-of-a-kind custom-built property offers an unmatched lifestyle surrounded by rolling pastures, mature landscaping, abundant wildlife, and endless amenities.    The stunning custom-built residence was thoughtfully designed with exceptional craftsmanship and attention to detail. Expansive living spaces seamlessly blend indoor and outdoor living, with walls of glass and oversized openings that invite the beauty of the outdoors inside. Every finish, fixture, and feature was carefully selected to create a home that is both sophisticated and welcoming.    Step outside to your own private resort. The spectacular PebbleTec swimming pool with tanning ledge is the centerpiece of an outdoor oasis designed for relaxation and entertaining. A stunning double-sided outdoor fireplace creates the perfect gathering space, allowing you to enjoy cozy evenings from multiple outdoor living areas while taking in the beauty of the surrounding landscape. Professionally designed landscaping enhances every view, creating a setting that feels like a luxury retreat.    Prioritize wellness without ever leaving home with your private sauna, steam shower, and cold plunge, offering the ultimate space to recharge and rejuvenate.    For guests, extended family, or multi-generational living, the property includes a beautifully appointed 2-bedroom, 1-bath apartment, ideal as an in-law suite, teen retreat, or private guest quarters.    Equestrian enthusiasts will appreciate the two-stall horse barn complete with a large tack room and expansive storage room, providing ample space for equipment, feed, and all your equestrian needs. The fenced pasture and open acreage offer plenty of room for horses to graze and roam. The impressive social barn serves as the ultimate gathering place for entertaining, celebrations, special events, or simply enjoying time with family and friends.    Car collectors and hobbyists will appreciate the substantial multi-car garages, offering abundant space for vehicles, recreational equipment, and storage.    Set on 49 pristine acres, this remarkable estate offers the rare combination of privacy, luxury, and convenience. Whether you're hosting unforgettable gatherings, enjoying the equestrian lifestyle, or simply soaking in the peace and beauty of the countryside, every aspect of this property has been designed to elevate everyday living.     Just minutes from the charming shops, restaurants, and culture of Downtown Madison, 1271 Plainview Road is more than a home-it's a destination, a retreat, and a legacy property unlike anything else on the market.",
+    "features": [
+      "Bar",
+      "Equestrian",
+      "Fire Pit",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Kitchen island",
+      "Laundry Room",
+      "Open Kitchen",
+      "Pool",
+      "Privacy",
+      "Sauna",
+      "Steam Room",
+      "Walk In Closet"
+    ]
+  },
+  "broker": {
+    "agent": "Algin Realty, Inc. - Monroe",
+    "agency": "Algin Realty, Inc. - Monroe",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/algin-realty-inc-monroe-435484",
+    "agency_address": "Monroe, Georgia, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/bcd98aa4-32ac-4017-9181-5ec532b3b98c/je/2200xxs.jpg",
+      "file": "img-072656697090.webp",
+      "media_type": "image/webp",
+      "bytes": 316518,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/64653d40-ecf1-45a8-a165-110d43673c9b/je/2200xxs.jpg",
+      "file": "img-6892ae0788d3.webp",
+      "media_type": "image/webp",
+      "bytes": 436714,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/83a07750-4b5f-47a3-8997-937980074b72/je/2200xxs.jpg",
+      "file": "img-d73bf25f8af1.webp",
+      "media_type": "image/webp",
+      "bytes": 646656,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/95bbf717-a202-464b-ad22-6a5be0b71bf7/je/2200xxs.jpg",
+      "file": "img-2ae9f515a373.webp",
+      "media_type": "image/webp",
+      "bytes": 280634,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/01ef2aae-62c0-4f28-8c46-da48472353e9/je/2200xxs.jpg",
+      "file": "img-a23bf3631523.webp",
+      "media_type": "image/webp",
+      "bytes": 478018,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/M00000188.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/79ebea82-a100-4af2-9694-1e78ab17bc5c/je/2000xxs.jpg",
+      "file": "img-12f3da907df6.webp",
+      "media_type": "image/webp",
+      "bytes": 404264,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/b5dad8fb-308f-4b16-b3a3-65de77daf602/je/2000xxs.jpg",
+      "file": "img-3bad17193593.webp",
+      "media_type": "image/webp",
+      "bytes": 300448,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/a6502799-9ce8-4259-8fd5-e05737eeedbf/je/2000xxs.jpg",
+      "file": "img-68dda2241278.webp",
+      "media_type": "image/webp",
+      "bytes": 300806,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/e0b3b7bc-f340-410a-a392-84ab4639a919/je/2000xxs.jpg",
+      "file": "img-aa074c48dd8d.webp",
+      "media_type": "image/webp",
+      "bytes": 508064,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/8fc9851a-ff26-47c0-86cb-19a64733f6f6/je/2000xxs.jpg",
+      "file": "img-f807ef137bbe.webp",
+      "media_type": "image/webp",
+      "bytes": 714620,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/a2291a03-73ef-4c36-ad46-71ed23c7eb59/je/2000xxs.jpg",
+      "file": "img-24fc755a3aac.webp",
+      "media_type": "image/webp",
+      "bytes": 451868,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/55ee04d1-2005-44f3-9592-307ef92036a9/je/2000xxs.jpg",
+      "file": "img-c5ffcef6ebe3.webp",
+      "media_type": "image/webp",
+      "bytes": 546546,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/98dbf918-d7ce-4dd5-bdbd-35d502e8587d/je/2000xxs.jpg",
+      "file": "img-2a5abe76ab7a.webp",
+      "media_type": "image/webp",
+      "bytes": 393880,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/7b986aea-ad2c-4f91-b08c-83f652d05b4b/je/2000xxs.jpg",
+      "file": "img-af9b9a809771.webp",
+      "media_type": "image/webp",
+      "bytes": 374546,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/8b022ef7-1272-49e9-ba02-d3d76d6de26e/je/2000xxs.jpg",
+      "file": "img-1b057ca82866.webp",
+      "media_type": "image/webp",
+      "bytes": 399488,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c3890ef0-b616-4227-bcab-3dcc012d684c/je/2000xxs.jpg",
+      "file": "img-fa9efcd6b477.webp",
+      "media_type": "image/webp",
+      "bytes": 347996,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/d51085dc-e724-4f24-a9d3-00f5957fd8fa/je/2000xxs.jpg",
+      "file": "img-8d32c6fe30c1.webp",
+      "media_type": "image/webp",
+      "bytes": 361018,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/1edd9821-c848-42cf-91c3-c2191812674b/je/2000xxs.jpg",
+      "file": "img-ea8bc6d3d1a4.webp",
+      "media_type": "image/webp",
+      "bytes": 243334,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/6d1a524a-0b2f-40db-9df2-dc0013232577/je/2000xxs.jpg",
+      "file": "img-3639a3c15a40.webp",
+      "media_type": "image/webp",
+      "bytes": 195858,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/140654a5-bc8e-4db2-856d-42887cc15bc0/je/2000xxs.jpg",
+      "file": "img-a1e11031825c.webp",
+      "media_type": "image/webp",
+      "bytes": 185370,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/e85cd877-6a90-4911-9817-a196fb4b69f3/je/2000xxs.jpg",
+      "file": "img-06e60b792f41.webp",
+      "media_type": "image/webp",
+      "bytes": 197010,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/553b2e4f-f36f-4408-89c2-3c9ba3fbdc1f/je/2000xxs.jpg",
+      "file": "img-26c970901f67.webp",
+      "media_type": "image/webp",
+      "bytes": 269486,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/816f9c9f-a8f2-4f56-a3f2-4db1643b2232/je/2000xxs.jpg",
+      "file": "img-2f52cc088822.webp",
+      "media_type": "image/webp",
+      "bytes": 215508,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/e90d8a7c-ac6a-4d59-b78f-bf019b073570/je/2000xxs.jpg",
+      "file": "img-955ebb268664.webp",
+      "media_type": "image/webp",
+      "bytes": 217360,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/676243ee-7c28-4080-9138-3e706ebc727b/je/2000xxs.jpg",
+      "file": "img-11a5e58b98ad.webp",
+      "media_type": "image/webp",
+      "bytes": 252592,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/da2c2583-928d-4b1d-90fa-85159778ecee/je/2000xxs.jpg",
+      "file": "img-7fe1eaa58300.webp",
+      "media_type": "image/webp",
+      "bytes": 169004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/0a0abf13-e479-42c5-bf68-02da3109e7b4/je/2000xxs.jpg",
+      "file": "img-c2d34f9f52df.webp",
+      "media_type": "image/webp",
+      "bytes": 155776,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/bc1e1eb1-4109-4145-b91d-fee5dba5b10e/je/2000xxs.jpg",
+      "file": "img-20d06243ad76.webp",
+      "media_type": "image/webp",
+      "bytes": 159952,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/2b25259e-0781-44cc-a98a-125baddae214/je/2000xxs.jpg",
+      "file": "img-060080ac7edb.webp",
+      "media_type": "image/webp",
+      "bytes": 172100,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/218552e1-3c3c-4ed5-b412-2298485c57d1/je/2000xxs.jpg",
+      "file": "img-59618d867e2f.webp",
+      "media_type": "image/webp",
+      "bytes": 167758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/21fd3ec4-1c55-4b8e-816a-f299eae66f0f/je/2000xxs.jpg",
+      "file": "img-94854e79f9d4.webp",
+      "media_type": "image/webp",
+      "bytes": 151860,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/20a13187-a73f-4e3e-af61-cf0f54f5cf87/je/2000xxs.jpg",
+      "file": "img-3a0261d0f0df.webp",
+      "media_type": "image/webp",
+      "bytes": 185322,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/bb3becad-94e3-4845-98d3-7f45d47f7744/je/2000xxs.jpg",
+      "file": "img-8f8b3fb26cd3.webp",
+      "media_type": "image/webp",
+      "bytes": 223362,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/99760908-2308-44a8-b302-c004e9cf4bc6/je/2000xxs.jpg",
+      "file": "img-237b1b9ddd72.webp",
+      "media_type": "image/webp",
+      "bytes": 235466,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/f66d432c-e426-421a-996e-4aa79d1fce0d/je/2000xxs.jpg",
+      "file": "img-a118e0dcdde1.webp",
+      "media_type": "image/webp",
+      "bytes": 167822,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/441a43c2-626c-4f18-a944-4ed7a1569855/je/2000xxs.jpg",
+      "file": "img-8469230da3d8.webp",
+      "media_type": "image/webp",
+      "bytes": 137508,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/4e0df323-265d-4150-8136-82549f5cd0a3/je/2000xxs.jpg",
+      "file": "img-961674cf57a2.webp",
+      "media_type": "image/webp",
+      "bytes": 197782,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/f597ce45-2d08-463d-b046-cdf82ab63f4a/je/2000xxs.jpg",
+      "file": "img-df6570d3e72a.webp",
+      "media_type": "image/webp",
+      "bytes": 245926,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/fdd1b7d2-9e2b-4127-8182-ef8deb2d9971/je/2000xxs.jpg",
+      "file": "img-3f2d7eda14e3.webp",
+      "media_type": "image/webp",
+      "bytes": 160234,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/351f838c-5648-4ad4-8768-5e8b5e04f65a/je/2000xxs.jpg",
+      "file": "img-2ade1f4d6085.webp",
+      "media_type": "image/webp",
+      "bytes": 165852,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/2d56ad55-36f0-4e03-ae10-2ac0486a8e7d/je/2000xxs.jpg",
+      "file": "img-739981a0e17a.webp",
+      "media_type": "image/webp",
+      "bytes": 88532,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/a8cb879c-6ab8-4edb-85fd-af217aa49fef/je/2000xxs.jpg",
+      "file": "img-91685083836a.webp",
+      "media_type": "image/webp",
+      "bytes": 114726,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/f8e86270-75a4-42dd-a2e4-e912c9428bd2/je/2000xxs.jpg",
+      "file": "img-02b536772495.webp",
+      "media_type": "image/webp",
+      "bytes": 121310,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/2e5dea24-de8d-42c6-aade-1f9934aa5f2b/je/2000xxs.jpg",
+      "file": "img-9fbf0cf323fc.webp",
+      "media_type": "image/webp",
+      "bytes": 94318,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/ca46c1c3-369f-493c-a1d7-676f99ee6511/je/2000xxs.jpg",
+      "file": "img-ff9fafaf763e.webp",
+      "media_type": "image/webp",
+      "bytes": 257022,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/25292295-16d7-47df-977a-6d0ff6f8a718/je/2000xxs.jpg",
+      "file": "img-4d257e7a2620.webp",
+      "media_type": "image/webp",
+      "bytes": 159742,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/bc1cd4d7-e1ed-4a6a-adb5-c73257f9bd48/je/2000xxs.jpg",
+      "file": "img-3925d90b76ce.webp",
+      "media_type": "image/webp",
+      "bytes": 104840,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/631b1200-75d1-45bf-8b52-a414649111bd/je/2000xxs.jpg",
+      "file": "img-f959e06644a0.webp",
+      "media_type": "image/webp",
+      "bytes": 421748,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/fa8be057-5de5-424b-8bd0-9083c962be21/je/2000xxs.jpg",
+      "file": "img-b946486356a7.webp",
+      "media_type": "image/webp",
+      "bytes": 459526,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/712a3aa7-89f2-455f-be01-33ea816651b5/je/2000xxs.jpg",
+      "file": "img-c010d39a0098.webp",
+      "media_type": "image/webp",
+      "bytes": 373226,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/7448eb93-ef2e-430f-860f-8a2a3107494d/je/2000xxs.jpg",
+      "file": "img-e4ce7a541358.webp",
+      "media_type": "image/webp",
+      "bytes": 345876,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c80aeaeb-0935-4782-8a20-3e093b4e76e2/je/2000xxs.jpg",
+      "file": "img-d980139009fc.webp",
+      "media_type": "image/webp",
+      "bytes": 446400,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/3328bbd3-0a58-43b0-8177-404998c5f81d/je/2000xxs.jpg",
+      "file": "img-c56e71b01d4e.webp",
+      "media_type": "image/webp",
+      "bytes": 523296,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/ec8410a1-f09b-41ce-8877-3dbca8729d71/je/2000xxs.jpg",
+      "file": "img-24c51c1724f4.webp",
+      "media_type": "image/webp",
+      "bytes": 623958,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/dbb5e204-8cb8-4fd4-8515-b41a652ba55a/je/2000xxs.jpg",
+      "file": "img-e6101c31e835.webp",
+      "media_type": "image/webp",
+      "bytes": 346988,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/bc26b395-7fbe-4a5d-a6fe-5165a633f571/je/2000xxs.jpg",
+      "file": "img-76421ddb14ab.webp",
+      "media_type": "image/webp",
+      "bytes": 270438,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/78fff87b-0358-404f-9005-c021c3b34869/je/2000xxs.jpg",
+      "file": "img-6bf408021a4e.webp",
+      "media_type": "image/webp",
+      "bytes": 408662,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c7ad274f-c24a-4c47-9119-140af46bb233/je/2000xxs.jpg",
+      "file": "img-6492466723c2.webp",
+      "media_type": "image/webp",
+      "bytes": 536820,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/025a24e2-6380-45e3-beee-c71a613c024d/je/2000xxs.jpg",
+      "file": "img-02b0b8854d27.webp",
+      "media_type": "image/webp",
+      "bytes": 274720,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/7692c146-181f-4253-8764-c80f83bb5474/je/2000xxs.jpg",
+      "file": "img-f9f3fb2019f8.webp",
+      "media_type": "image/webp",
+      "bytes": 156604,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/4ba07917-cedd-4338-ba4d-2d67fb44fd0a/je/2000xxs.jpg",
+      "file": "img-5d69e547b0e1.webp",
+      "media_type": "image/webp",
+      "bytes": 112394,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/1793760f-61f6-4d90-b23b-c92d5cf1a438/je/2000xxs.jpg",
+      "file": "img-1d0d8b777f73.webp",
+      "media_type": "image/webp",
+      "bytes": 220882,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c2eb5e4f-1e17-486c-a813-d3331d063398/je/2000xxs.jpg",
+      "file": "img-781597f7deac.webp",
+      "media_type": "image/webp",
+      "bytes": 164158,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/00a35b96-a0c0-4f00-8df8-0607f3a18480/je/2000xxs.jpg",
+      "file": "img-a5b33cfd3e62.webp",
+      "media_type": "image/webp",
+      "bytes": 213484,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/285a8965-bf20-49cb-b9ce-b6226b884a89/je/2000xxs.jpg",
+      "file": "img-8ef5e5b2fd6c.webp",
+      "media_type": "image/webp",
+      "bytes": 205186,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/9740d342-84c9-4d35-9a50-852d800f8888/je/2000xxs.jpg",
+      "file": "img-b6392b8e8977.webp",
+      "media_type": "image/webp",
+      "bytes": 217772,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c1a31a91-5151-4fd6-9809-3e7fe881b105/je/2000xxs.jpg",
+      "file": "img-9dbf67708cdf.webp",
+      "media_type": "image/webp",
+      "bytes": 185224,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/36cbbedc-4b16-4e42-8f29-5daaf739bdac/je/2000xxs.jpg",
+      "file": "img-7502bca34255.webp",
+      "media_type": "image/webp",
+      "bytes": 206844,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/f0843f37-1b9c-4e39-8633-77f6abe525f4/je/2000xxs.jpg",
+      "file": "img-0adb1ea61716.webp",
+      "media_type": "image/webp",
+      "bytes": 216246,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/9ab8f5a3-09d6-4062-ad11-a1f90d0a588b/je/2000xxs.jpg",
+      "file": "img-f6e9febb3570.webp",
+      "media_type": "image/webp",
+      "bytes": 164878,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/1ed3dfb0-1de1-4acc-8970-1d1a310d710f/je/2000xxs.jpg",
+      "file": "img-6e6f150b46c1.webp",
+      "media_type": "image/webp",
+      "bytes": 265158,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/6d2db9d9-0163-412f-b033-7b1105951535/je/2000xxs.jpg",
+      "file": "img-ebe82df66e83.webp",
+      "media_type": "image/webp",
+      "bytes": 263494,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/97cf96ad-da7a-43ed-a36d-dfc6ca62c9d0/je/2000xxs.jpg",
+      "file": "img-08b2b1bac30a.webp",
+      "media_type": "image/webp",
+      "bytes": 632444,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/a411d830-2ef5-469b-b5d3-ff290c8e261b/je/2000xxs.jpg",
+      "file": "img-c06813da4381.webp",
+      "media_type": "image/webp",
+      "bytes": 274814,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/0b94604c-4221-4b9f-8f38-346e04a133de/je/2000xxs.jpg",
+      "file": "img-4c595f4a9a0f.webp",
+      "media_type": "image/webp",
+      "bytes": 130752,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c4337605-ef09-4cbe-81bd-a2747fd82194/je/2000xxs.jpg",
+      "file": "img-5bfb04b54d5b.webp",
+      "media_type": "image/webp",
+      "bytes": 308114,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/cf39ee64-cf06-4e7b-abe0-4203814c9285/je/2000xxs.jpg",
+      "file": "img-c025a7905d95.webp",
+      "media_type": "image/webp",
+      "bytes": 310560,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/687c53c0-c2e5-4713-bae7-e9f2fb3dd87e/je/2000xxs.jpg",
+      "file": "img-39a6924f7a6e.webp",
+      "media_type": "image/webp",
+      "bytes": 214968,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/757a212c-dc66-433f-946d-9028cc00259f/je/2000xxs.jpg",
+      "file": "img-630d8e54bb32.webp",
+      "media_type": "image/webp",
+      "bytes": 265178,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/8b01dd5f-bce0-4a12-9e66-9f984d77acac/je/2000xxs.jpg",
+      "file": "img-4a6ad491f550.webp",
+      "media_type": "image/webp",
+      "bytes": 233340,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/daae59e1-a05c-4444-b87f-cdaecdfbed21/je/2000xxs.jpg",
+      "file": "img-e1e5ad4d3b68.webp",
+      "media_type": "image/webp",
+      "bytes": 481828,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/f29aa35e-4d78-41fd-be8e-9a11a059b6c9/je/2000xxs.jpg",
+      "file": "img-ed62c587a048.webp",
+      "media_type": "image/webp",
+      "bytes": 284718,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c58e98f8-dfb2-4b03-9d49-d44876b10f89/je/2000xxs.jpg",
+      "file": "img-41770f41777e.webp",
+      "media_type": "image/webp",
+      "bytes": 401812,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/5a7e41a2-8f8f-40b0-ae87-4a79e01afb04/je/2000xxs.jpg",
+      "file": "img-07b0308e6f3c.webp",
+      "media_type": "image/webp",
+      "bytes": 192696,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/26bdf6e2-0ed4-407e-9c04-90f5f1490a72/je/2000xxs.jpg",
+      "file": "img-e32ccb4aee18.webp",
+      "media_type": "image/webp",
+      "bytes": 312948,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/ec77b39f-bfdc-4482-9a17-722e98b2c23f/je/2000xxs.jpg",
+      "file": "img-41af8432cece.webp",
+      "media_type": "image/webp",
+      "bytes": 256938,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/24196267-1cff-448c-928d-6f64c16739ae/je/2000xxs.jpg",
+      "file": "img-626537b050eb.webp",
+      "media_type": "image/webp",
+      "bytes": 297166,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/2c870f6f-f243-4fdf-9b36-970a8716ddca/je/2000xxs.jpg",
+      "file": "img-f3bc1b52676a.webp",
+      "media_type": "image/webp",
+      "bytes": 232026,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/541ad6f5-899a-45c7-b044-8704841c26d0/je/2000xxs.jpg",
+      "file": "img-ef53ba1b5207.webp",
+      "media_type": "image/webp",
+      "bytes": 236636,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/6d95b9ac-7c44-4dd1-abfe-780a6596e45e/je/2000xxs.jpg",
+      "file": "img-4c430211f7db.webp",
+      "media_type": "image/webp",
+      "bytes": 287392,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/90fc6bbe-7385-4bdd-bf51-34e1734fb8a0/je/2000xxs.jpg",
+      "file": "img-c2161b31c87f.webp",
+      "media_type": "image/webp",
+      "bytes": 252172,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/bf676fba-afa2-4937-b221-073f84b5b7af/je/2000xxs.jpg",
+      "file": "img-54483b82015f.webp",
+      "media_type": "image/webp",
+      "bytes": 559478,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/cb89f690-5a7a-4cfc-be05-c98c67251f56/je/2000xxs.jpg",
+      "file": "img-80ac8ced92a2.webp",
+      "media_type": "image/webp",
+      "bytes": 590726,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/ca50a5eb-62bc-402e-b634-993f8c23e3d7/je/2000xxs.jpg",
+      "file": "img-7c7ccf788c44.webp",
+      "media_type": "image/webp",
+      "bytes": 608988,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/1b283ef0-d012-4452-b2bb-4ca1ecb52fef/je/2000xxs.jpg",
+      "file": "img-79d839f7be41.webp",
+      "media_type": "image/webp",
+      "bytes": 645270,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/1e9ead6d-5d17-4438-bcbe-69e9a7718933/je/2000xxs.jpg",
+      "file": "img-57c8b2c1b689.webp",
+      "media_type": "image/webp",
+      "bytes": 320668,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c8e58111-28b4-4b51-b71d-6d1d4fc31c7d/je/2000xxs.jpg",
+      "file": "img-7dcce7e31a31.webp",
+      "media_type": "image/webp",
+      "bytes": 273684,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/9e8956f5-9646-4ecc-b29e-30875a3ac7ae/je/2000xxs.jpg",
+      "file": "img-df28fa17480e.webp",
+      "media_type": "image/webp",
+      "bytes": 223808,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/7e85a55e-0866-4c3e-a1af-9f60fd72aff7/je/2000xxs.jpg",
+      "file": "img-4d2fa0bf34ea.webp",
+      "media_type": "image/webp",
+      "bytes": 411882,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/e0df2bf7-e5cb-4484-a8a5-9c2b241393fa/je/2000xxs.jpg",
+      "file": "img-38df5a4fb1d8.webp",
+      "media_type": "image/webp",
+      "bytes": 373716,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/bfc8ce49-5703-4a74-ad54-f6ca7eb330d8/je/2000xxs.jpg",
+      "file": "img-3ab09621e5e5.webp",
+      "media_type": "image/webp",
+      "bytes": 433608,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/c0192df2-49bb-4fb6-9c46-4569957cac51/je/2000xxs.jpg",
+      "file": "img-a95087af473f.webp",
+      "media_type": "image/webp",
+      "bytes": 407896,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/4119a9de-5cb9-4f78-a638-994cb57e0f94/je/2000xxs.jpg",
+      "file": "img-6e6327e6048a.webp",
+      "media_type": "image/webp",
+      "bytes": 488940,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/e723af2d-0a89-465f-a73a-bf3b18d0cb24/je/2000xxs.jpg",
+      "file": "img-43bece4ab6e7.webp",
+      "media_type": "image/webp",
+      "bytes": 465180,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/4a0c2a3f-deb7-421c-a406-836643171bd7/je/2000xxs.jpg",
+      "file": "img-a9fd3ddbd6db.webp",
+      "media_type": "image/webp",
+      "bytes": 429968,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/0b1d471d-090a-4bd3-910f-5b72b6201deb/je/2000xxs.jpg",
+      "file": "img-57d7a4a12151.webp",
+      "media_type": "image/webp",
+      "bytes": 491874,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/222f7edc-5b4f-4854-85a9-b8dccd31a938/je/2000xxs.jpg",
+      "file": "img-4bc6c0f93dc3.webp",
+      "media_type": "image/webp",
+      "bytes": 350606,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/40f5e934-c642-4669-8ada-fa606b1cb984/je/2000xxs.jpg",
+      "file": "img-2ef46486bb04.webp",
+      "media_type": "image/webp",
+      "bytes": 248850,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/77cb4ff2-6c8b-41aa-b016-210184ae5ebb/je/2000xxs.jpg",
+      "file": "img-bc62e3649368.webp",
+      "media_type": "image/webp",
+      "bytes": 415092,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/43f2b542-0ed5-4418-a138-4b7f0803be66/je/2000xxs.jpg",
+      "file": "img-f08f9fb95df3.webp",
+      "media_type": "image/webp",
+      "bytes": 339044,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/0ad8d04b-3eb0-47ae-aa0b-b2875c3019c9/je/2000xxs.jpg",
+      "file": "img-5637a87bc28e.webp",
+      "media_type": "image/webp",
+      "bytes": 351842,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/443816cd-f77d-405c-88b7-08fa3c89e271/je/2000xxs.jpg",
+      "file": "img-869dd871a6fa.webp",
+      "media_type": "image/webp",
+      "bytes": 402178,
+      "status": "new"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ga-united-states",
+              "name": "Georgia"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/buckhead-ga-usa",
+              "name": "Buckhead"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/madison-ga-usa/single-family-residence-in-madison-18212496",
+              "name": "Single Family Residence in Madison"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Welcome to an extraordinary private estate where luxury, recreation, and country living come together in perfect harmony. Nestled on 49 breathtaking acres just five minutes from historic Downtown Madison, this one-of-a-kind custom-built property offers an unmatched lifestyle surrounded by rolling pastures, mature landscaping, abundant wildlife, and endless amenities.    The stunning custom-built residence was thoughtfully designed with exceptional craftsmanship and attention to detail. Expansive living spaces seamlessly blend indoor and outdoor living, with walls of glass and oversized openings that invite the beauty of the outdoors inside. Every finish, fixture, and feature was carefully selected to create a home that is both sophisticated and welcoming.    Step outside to your own private resort. The spectacular PebbleTec swimming pool with tanning ledge is the centerpiece of an outdoor oasis designed for relaxation and entertaining. A stunning double-sided outdoor fireplace creates the perfect gathering space, allowing you to enjoy cozy evenings from multiple outdoor living areas while taking in the beauty of the surrounding landscape. Professionally designed landscaping enhances every view, creating a setting that feels like a luxury retreat.    Prioritize wellness without ever leaving home with your private sauna, steam shower, and cold plunge, offering the ultimate space to recharge and rejuvenate.    For guests, extended family, or multi-generational living, the property includes a beautifully appointed 2-bedroom, 1-bath apartment, ideal as an in-law suite, teen retreat, or private guest quarters.    Equestrian enthusiasts will appreciate the two-stall horse barn complete with a large tack room and expansive storage room, providing ample space for equipment, feed, and all your equestrian needs. The fenced pasture and open acreage offer plenty of room for horses to graze and roam. The impressive social barn serves as the ultimate gathering place for entertaining, celebrations, special events, or simply enjoying time with family and friends.    Car collectors and hobbyists will appreciate the substantial multi-car garages, offering abundant space for vehicles, recreational equipment, and storage.    Set on 49 pristine acres, this remarkable estate offers the rare combination of privacy, luxury, and convenience. Whether you're hosting unforgettable gatherings, enjoying the equestrian lifestyle, or simply soaking in the peace and beauty of the countryside, every aspect of this property has been designed to elevate everyday living.     Just minutes from the charming shops, restaurants, and culture of Downtown Madison, 1271 Plainview Road is more than a home-it's a destination, a retreat, and a legacy property unlike anything else on the market.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/18/15/44/55/bcd98aa4-32ac-4017-9181-5ec532b3b98c/je/1040x620xc.jpg",
+        "name": "Single Family Residence in Madison",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 3995000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Algin Realty, Inc. - Monroe"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/madison-ga-usa/single-family-residence-in-madison-18212496"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/M00000188.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/madison-ga-usa/Single%20Family%20Residence%20In%20Madison%20In%20Buckhead,%20Georgia,%20United%20States%20For%20Sale%20%2818212496%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

@@ -1,0 +1,737 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/a-home-like-no-other-16091791",
+    "canonical_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/a-home-like-no-other-16091791",
+    "site": "jamesedition",
+    "listing_id": "16091791",
+    "listing_reference": "4JEQD5",
+    "first_listed": "Aug 25, 2025",
+    "last_updated": "May 18",
+    "retrieved_at": "2026-06-18T07:07:25.56077Z"
+  },
+  "location": {
+    "address": "241 Cunningham Hill Road, Canaan, NY 12029, New York, United States",
+    "street": "241 Cunningham Hill Road",
+    "municipality": "Canaan",
+    "region": "New York",
+    "postal_code": "12029",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=42.3803389618294,-73.4031171801326",
+    "latitude": 42.3803389618294,
+    "longitude": -73.4031171801326
+  },
+  "property": {
+    "title": "A Home Like No Other",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 9950000,
+      "currency": "USD",
+      "display": "$9,950,000"
+    },
+    "price_per_area": {
+      "amount": 1457,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,457"
+    },
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "interior_area": {
+      "value": 6829,
+      "unit": "sqft",
+      "display": "6,829 Sqft"
+    },
+    "lot_area": {
+      "value": 31.56,
+      "display": "31.56 Ac lot"
+    },
+    "year_built": 2016,
+    "photo_count": 62,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6377429899112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "A Home like no other in the Berkshires. You will simply not find a Property like PIERCE PEAK, anywhere. Award Winning Architectural Design by Burr \u0026amp; McCallum, crested upon the summit of Cunningham Hill. Cleared for HELIPAD . Open plan living with Indoor and Outdoor Living Rooms. Gourmet Kitchen, 2 Primary and 2 connected Loft spaces. 2 Bedroom Guest Quarters. Gym. Infinity Pool w/Bar, Fireplace and Outdoor Shower. 360 Degree views of NY and Mass. \u0026nbsp;6 Acre Equestrian / Hobby Farm included with this 31 acre Estate. State-of-the-art Mechanicals include the efficiency of Geo-Thermal Heating \u0026amp; Cooling. On-site Generator, Security Gate and Privacy galore. On the NY and Massachusetts border. Close to all Berkshire and Hudson Valley attractions. For those who seek the extraordinary... (see Video)",
+    "features": [
+      "Bar",
+      "Basement",
+      "Equestrian",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Gate",
+      "Helipad",
+      "Pool",
+      "Privacy",
+      "Walk In Closet",
+      "Washer Dryer"
+    ]
+  },
+  "broker": {
+    "agent": "Steven Weisz",
+    "agency": "William Pitt Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/william-pitt-sotheby-s-international-realty-217440",
+    "agency_address": "2 Park Row, Suite 1, 12037, Chatham, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/2200xxs.jpg",
+      "file": "004-c3613be2.webp",
+      "media_type": "image/webp",
+      "bytes": 535386,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/2200xxs.jpg",
+      "file": "009-bea4e475.webp",
+      "media_type": "image/webp",
+      "bytes": 452596,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/2200xxs.jpg",
+      "file": "014-da7a6887.webp",
+      "media_type": "image/webp",
+      "bytes": 548936,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/2200xxs.jpg",
+      "file": "019-1dd9f5df.webp",
+      "media_type": "image/webp",
+      "bytes": 416618,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/2200xxs.jpg",
+      "file": "024-82498243.webp",
+      "media_type": "image/webp",
+      "bytes": 648870,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/a8a63ec2-d30d-4120-a53d-b1da46163868/je/2000xxs.jpg",
+      "file": "034-398e3272.webp",
+      "media_type": "image/webp",
+      "bytes": 790858,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/32020788-45dc-41d1-8f3f-02536ac76b61/je/2000xxs.jpg",
+      "file": "035-5f6b8be6.webp",
+      "media_type": "image/webp",
+      "bytes": 444366,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/15f3a70b-cd43-48e5-8236-3b6f2d155f7a/je/2000xxs.jpg",
+      "file": "036-7bb06db0.webp",
+      "media_type": "image/webp",
+      "bytes": 512154,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/af1d4ed5-c895-41a4-845f-cd9a25acf167/je/2000xxs.jpg",
+      "file": "037-60eb9cad.webp",
+      "media_type": "image/webp",
+      "bytes": 506636,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/d6ad660b-0357-4e42-8c56-8d649fe52bbf/je/2000xxs.jpg",
+      "file": "038-16ab88f1.webp",
+      "media_type": "image/webp",
+      "bytes": 438344,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/0c55aaad-22e9-4be4-b0bb-a5e07dabb0fc/je/2000xxs.jpg",
+      "file": "039-1e2bc285.webp",
+      "media_type": "image/webp",
+      "bytes": 355862,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/4dca47d3-ba90-478e-aafb-827095273289/je/2000xxs.jpg",
+      "file": "040-18709214.webp",
+      "media_type": "image/webp",
+      "bytes": 456046,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/f5e2049a-bfc3-446e-b899-508cffe9e2e5/je/2000xxs.jpg",
+      "file": "041-b8d110c0.webp",
+      "media_type": "image/webp",
+      "bytes": 457320,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/53446cb6-47ff-400d-91fd-69bc247d8fbd/je/2000xxs.jpg",
+      "file": "042-e1f5f8fc.webp",
+      "media_type": "image/webp",
+      "bytes": 420858,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/aa82b11c-9472-485a-a28e-69af583391bf/je/2000xxs.jpg",
+      "file": "043-2d1034a5.webp",
+      "media_type": "image/webp",
+      "bytes": 299138,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/dc7ba153-80f1-4933-a4d2-572d4eec0b9c/je/2000xxs.jpg",
+      "file": "044-3d89312c.webp",
+      "media_type": "image/webp",
+      "bytes": 155504,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/a6d5a2c1-c3a2-4454-9bae-dd316f2c797c/je/2000xxs.jpg",
+      "file": "045-a869f962.webp",
+      "media_type": "image/webp",
+      "bytes": 383886,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/eac98a58-b581-48cd-923f-4bf691b9f8be/je/2000xxs.jpg",
+      "file": "046-874e3f3a.webp",
+      "media_type": "image/webp",
+      "bytes": 207180,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/766fa0c0-2bb6-4904-a404-4edc3a832337/je/2000xxs.jpg",
+      "file": "047-d6a8d55a.webp",
+      "media_type": "image/webp",
+      "bytes": 294046,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/3b350f16-9f8f-4ff7-989e-643a2c6777eb/je/2000xxs.jpg",
+      "file": "048-9b2e0bf0.webp",
+      "media_type": "image/webp",
+      "bytes": 318384,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/2f1d11aa-1c66-4b50-bf9f-663f2582c732/je/2000xxs.jpg",
+      "file": "049-6e6a9e58.webp",
+      "media_type": "image/webp",
+      "bytes": 200450,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/1742f10e-52aa-4c97-8147-f72004670bd2/je/2000xxs.jpg",
+      "file": "050-eb879a14.webp",
+      "media_type": "image/webp",
+      "bytes": 199506,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/c912aaff-7979-4add-a044-cfa63d319332/je/2000xxs.jpg",
+      "file": "051-80c84ec6.webp",
+      "media_type": "image/webp",
+      "bytes": 355546,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/63f54572-326c-4050-bfb5-0f20ae6445da/je/2000xxs.jpg",
+      "file": "052-8ae311c3.webp",
+      "media_type": "image/webp",
+      "bytes": 269012,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/f52fb191-0f1c-4c0d-8957-4f7a270d252b/je/2000xxs.jpg",
+      "file": "053-00ab1cfc.webp",
+      "media_type": "image/webp",
+      "bytes": 405914,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/ed160d36-45ae-40fc-8880-1244ef3af8b1/je/2000xxs.jpg",
+      "file": "054-970dad6c.webp",
+      "media_type": "image/webp",
+      "bytes": 547638,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/c071da48-3290-4ca1-a2c2-35a948fb2ba7/je/2000xxs.jpg",
+      "file": "055-f3aa2586.webp",
+      "media_type": "image/webp",
+      "bytes": 589968,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/f7263e27-fe76-4bef-9949-176e2e81c600/je/2000xxs.jpg",
+      "file": "056-3bf60b80.webp",
+      "media_type": "image/webp",
+      "bytes": 585592,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/47720d19-5c97-40a9-bc33-8c36e410abc9/je/2000xxs.jpg",
+      "file": "057-beb37e40.webp",
+      "media_type": "image/webp",
+      "bytes": 236354,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/4939b1e6-6866-4d47-bd06-b1838f09618f/je/2000xxs.jpg",
+      "file": "058-1bd66b0e.webp",
+      "media_type": "image/webp",
+      "bytes": 113530,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/823c9d5f-0b80-46e1-82ca-c08e643e1cf2/je/2000xxs.jpg",
+      "file": "059-6ff58583.webp",
+      "media_type": "image/webp",
+      "bytes": 151112,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/263e87ab-7404-48b6-99bf-f566c5fedc21/je/2000xxs.jpg",
+      "file": "060-1ea66419.webp",
+      "media_type": "image/webp",
+      "bytes": 324990,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/15e828c9-b3a0-4666-aec1-260c0a8cf4df/je/2000xxs.jpg",
+      "file": "061-5ee84082.webp",
+      "media_type": "image/webp",
+      "bytes": 152160,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/0d9e0f77-2d85-48dc-b637-c1880624d2f1/je/2000xxs.jpg",
+      "file": "062-05664185.webp",
+      "media_type": "image/webp",
+      "bytes": 276432,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/653cebca-a82b-4979-bc7a-e16a2ada03d6/je/2000xxs.jpg",
+      "file": "063-31b3d0ab.webp",
+      "media_type": "image/webp",
+      "bytes": 233556,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/c0ebd145-7278-4417-9f78-87ebb00dd791/je/2000xxs.jpg",
+      "file": "064-f17df647.webp",
+      "media_type": "image/webp",
+      "bytes": 157772,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/2112a4c3-339b-4484-b624-a603485a3039/je/2000xxs.jpg",
+      "file": "065-0bae9325.webp",
+      "media_type": "image/webp",
+      "bytes": 213760,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/8a89f136-a162-4b18-b4da-76c3d4fe362b/je/2000xxs.jpg",
+      "file": "066-78724ac5.webp",
+      "media_type": "image/webp",
+      "bytes": 129258,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/ea1c2f05-84e7-4a2f-baad-dc3a1be6ec0c/je/2000xxs.jpg",
+      "file": "067-3652ff6d.webp",
+      "media_type": "image/webp",
+      "bytes": 161146,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/ff46e15c-cdcf-4ba0-869e-b493adec8dcd/je/2000xxs.jpg",
+      "file": "068-4a1c2c07.webp",
+      "media_type": "image/webp",
+      "bytes": 95526,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/152c5310-9415-4d92-b4cb-aeebf149d258/je/2000xxs.jpg",
+      "file": "069-357f9e57.webp",
+      "media_type": "image/webp",
+      "bytes": 182560,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/4c8e3e3d-1d0f-4c69-a160-7311a0e9c9cd/je/2000xxs.jpg",
+      "file": "070-5aedb9f6.webp",
+      "media_type": "image/webp",
+      "bytes": 294376,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/27529919-ad62-4b43-811f-1e4603e71f78/je/2000xxs.jpg",
+      "file": "071-32a4888c.webp",
+      "media_type": "image/webp",
+      "bytes": 235468,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/02c9c3cb-1a17-472d-9ac6-e6c784eeec89/je/2000xxs.jpg",
+      "file": "072-e4bc185b.webp",
+      "media_type": "image/webp",
+      "bytes": 229470,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/36/7c62cf01-d988-411c-8e66-61cf93103182/je/2000xxs.jpg",
+      "file": "073-d608e468.webp",
+      "media_type": "image/webp",
+      "bytes": 141054,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/330ab794-00d3-4818-857f-cf187f7df71c/je/2000xxs.jpg",
+      "file": "074-dd6b8214.webp",
+      "media_type": "image/webp",
+      "bytes": 116748,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/50ffe420-c3bf-4193-a800-1642ff387424/je/2000xxs.jpg",
+      "file": "075-80824798.webp",
+      "media_type": "image/webp",
+      "bytes": 134776,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/cdfd57fa-ec7f-4f97-81f9-e137ecb285eb/je/2000xxs.jpg",
+      "file": "076-c39fb7fc.webp",
+      "media_type": "image/webp",
+      "bytes": 179574,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/20fb9015-baaf-4081-ae5d-32718bf94d66/je/2000xxs.jpg",
+      "file": "077-84be0cc6.webp",
+      "media_type": "image/webp",
+      "bytes": 220238,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/dcc0e374-45c7-4167-8d89-c4f7dae45ad1/je/2000xxs.jpg",
+      "file": "078-6d23fde1.webp",
+      "media_type": "image/webp",
+      "bytes": 76550,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/506a2b0d-cbcf-492d-ae03-bb39e1eb797c/je/2000xxs.jpg",
+      "file": "079-89e0a7ea.webp",
+      "media_type": "image/webp",
+      "bytes": 430780,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/f390a653-8fb0-4083-a258-1ccd93080674/je/2000xxs.jpg",
+      "file": "080-7c7d758f.webp",
+      "media_type": "image/webp",
+      "bytes": 474610,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/d91ec1fa-667a-4de1-be64-783941e4b213/je/2000xxs.jpg",
+      "file": "081-d2475b53.webp",
+      "media_type": "image/webp",
+      "bytes": 227344,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/2fd46068-347a-43a8-983a-255e28d64988/je/2000xxs.jpg",
+      "file": "082-ad3feff0.webp",
+      "media_type": "image/webp",
+      "bytes": 252502,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/07/15/32/39/dc41d9ff-3cfa-466f-86d3-4895f03ecd9b/je/2000xxs.jpg",
+      "file": "083-13343be0.webp",
+      "media_type": "image/webp",
+      "bytes": 196386,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/badf52b7-123e-4554-9da0-e16162d7200a/je/2000xxs.jpg",
+      "file": "084-d992343e.webp",
+      "media_type": "image/webp",
+      "bytes": 166020,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/4d5e1c83-bc79-40ef-b066-4af5b459f123/je/2000xxs.jpg",
+      "file": "085-a61267c9.webp",
+      "media_type": "image/webp",
+      "bytes": 220194,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/9ae6b775-d026-4ec4-9c24-088c130dfe6c/je/2000xxs.jpg",
+      "file": "086-c7739293.webp",
+      "media_type": "image/webp",
+      "bytes": 633598,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/04066142-90b5-469c-bc36-f522f09b2517/je/2000xxs.jpg",
+      "file": "087-9c1abc02.webp",
+      "media_type": "image/webp",
+      "bytes": 679654,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/26/10/26/42/0f41dd17-2ffc-4aed-860d-60070f99f7a6/je/2000xxs.jpg",
+      "file": "088-b3224f0a.webp",
+      "media_type": "image/webp",
+      "bytes": 470502,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/07/15/32/39/4c8e1931-bf62-4839-8aa3-bdfbf5e25144/je/2000xxs.jpg",
+      "file": "089-d287b4b8.webp",
+      "media_type": "image/webp",
+      "bytes": 96780,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/07/15/32/39/d4b783b5-df1b-4810-80d4-2a5c461c49a1/je/2000xxs.jpg",
+      "file": "090-27de288b.webp",
+      "media_type": "image/webp",
+      "bytes": 80384,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2817%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2818%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2819%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "095-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "096-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "097-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "098-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/canaan-ny-usa",
+              "name": "Canaan"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/canaan-ny-usa/a-home-like-no-other-16091791",
+              "name": "A Home Like No Other"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "A Home like no other in the Berkshires. You will simply not find a Property like PIERCE PEAK, anywhere. Award Winning Architectural Design by Burr \u0026amp; McCallum, crested upon the summit of Cunningham Hill. Cleared for HELIPAD . Open plan living with Indoor and Outdoor Living Rooms. Gourmet Kitchen, 2 Primary and 2 connected Loft spaces. 2 Bedroom Guest Quarters. Gym. Infinity Pool w/Bar, Fireplace and Outdoor Shower. 360 Degree views of NY and Mass. \u0026nbsp;6 Acre Equestrian / Hobby Farm included with this 31 acre Estate. State-of-the-art Mechanicals include the efficiency of Geo-Thermal Heating \u0026amp; Cooling. On-site Generator, Security Gate and Privacy galore. On the NY and Massachusetts border. Close to all Berkshire and Hudson Valley attractions. For those who seek the extraordinary... (see Video)\n",
+        "image": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/1040x620xc.jpg",
+        "name": "A Home Like No Other",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 9950000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "William Pitt Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/a-home-like-no-other-16091791"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2817%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2818%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2819%29.jpg: HTTP 403 Forbidden"
+  ]
+};

@@ -1,0 +1,909 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kitimat-canada/refined-coastal-estate-16848348",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kitimat-canada/refined-coastal-estate-16848348",
+    "site": "jamesedition",
+    "listing_id": "16848348",
+    "listing_reference": "E57624",
+    "first_listed": "Dec 24, 2025",
+    "last_updated": "April 7",
+    "retrieved_at": "2026-08-28T00:29:58.520168Z"
+  },
+  "location": {
+    "address": "2255 Kitamaat Village Road, Kitimat, BC V8C 2P4, British Columbia, Canada",
+    "street": "2255 Kitamaat Village Road",
+    "municipality": "Kitimat",
+    "region": "British Columbia",
+    "postal_code": "V8C 2P4",
+    "country": "Canada",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=54.032501,-128.623407",
+    "latitude": 54.032501,
+    "longitude": -128.623407
+  },
+  "property": {
+    "title": "Refined Coastal Estate",
+    "type": "Other",
+    "availability": "InStock",
+    "price": {
+      "amount": 8812711.8,
+      "currency": "USD",
+      "display": "$8,812,711"
+    },
+    "price_per_area": {
+      "amount": 1322,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,322"
+    },
+    "bedrooms": 11,
+    "bathrooms": 7,
+    "interior_area": {
+      "value": 6664,
+      "unit": "sqft",
+      "display": "6,664 Sqft"
+    },
+    "lot_area": {
+      "value": 77,
+      "display": "77.0 Ac lot"
+    },
+    "year_built": 1995,
+    "photo_count": 79,
+    "video_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6397917224112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "Minette Bay Lodge is a refined private coastal residence conceived as both an elegant family retreat and a world-class guest lodge, Gateway to the Great Bear Rainforest. It is one of the only Mainland Pacific Ocean Shorefront Freehold Properties on the Canadian Northwest Coast. Encompassing approximately 6,500 square feet, the Cape Cod–inspired home presents understated grandeur crafted for long, immersive stays in complete comfort. The property is zoned G4—A (Rural Resort), supporting both private and hospitality-oriented use, with much room to expand.\n\nThe lodge offers eleven bedrooms and seven bathrooms arranged across three levels, with interiors that recall a warm English manor house. Hand-finished fir flooring, open fireplaces, bespoke cabinetry, and carefully proportioned rooms create a sense of permanence and ease. StarLink is also in place for uninterrupted internet convenience. Verandas and terraces extend the living spaces outdoors, featuring a wood-fired hot tub and a separate fire pit/BBQ. A remarkable 2,700 square foot ocean-view deck provides an exceptional setting for entertaining, family gatherings, or quiet contemplation above the bay. Furnishings, fine linens sourced from London and New York, and feather-bedded accommodations reinforce a feeling of discreet luxury and turnkey readiness.\n\nSet on a secluded 77-acre oceanfront estate, the lodge overlooks the calm waters of Douglas Channel and a dramatic coastal mountain backdrop. The grounds are rich and intimate: salmon-spawning creeks crossed by suspension bridges, forest walking trails, mature plantings, and a creekside orchard, all framed by native wilderness. Privacy is absolute, bordered by municipal parkland and protected Haisla lands, yet the property lies just five minutes from the town of Kitimat.\n\nSupported by robust infrastructure—reliable power with generator backup, fire and safety systems, spring-fed water, high-speed internet, and full-capacity services, Minette Bay Lodge stands as a secure, private, and fully realized wilderness estate, where refined living and extraordinary nature exist in perfect balance.",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Coastal",
+      "Equestrian",
+      "Fire Pit",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Helipad",
+      "Jacuzzi",
+      "Kitchen island",
+      "Library",
+      "Mountain View",
+      "Oceanfront",
+      "Outdoor Living Space",
+      "Pool",
+      "Privacy",
+      "Riverfront",
+      "Terrace",
+      "Walk In Closet",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Annette Cosens",
+    "agency": "Sotheby's International Realty Canada",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/sotheby-s-international-realty-canada-212985",
+    "agency_address": "3477 Lakeshore Road Suite 104, V1W 3S9, Kelowna, British Columbia, Canada"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/d7bba520-4c28-4133-a0a6-5d1f3cc51030/je/2200xxs.jpg",
+      "file": "img-e4f9fd3a7b04.webp",
+      "media_type": "image/webp",
+      "bytes": 879752,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/e58ebc67-2162-4b86-a881-5871b88b733d/je/2200xxs.jpg",
+      "file": "img-e5c1719faa6b.webp",
+      "media_type": "image/webp",
+      "bytes": 1103106,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/35975f8d-a776-44be-9e31-13a65dd25873/je/2200xxs.jpg",
+      "file": "img-b62b121cc240.webp",
+      "media_type": "image/webp",
+      "bytes": 1001774,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/3ee9cca5-83cd-4e3e-8fc8-91fe51ef1624/je/2200xxs.jpg",
+      "file": "img-991dfe2b2cd6.webp",
+      "media_type": "image/webp",
+      "bytes": 703056,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/0f1f4ef7-7fc1-4ed4-91eb-6a4957b1683e/je/2200xxs.jpg",
+      "file": "img-e6d54f69e4a8.webp",
+      "media_type": "image/webp",
+      "bytes": 841306,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/52f6d72c-6fb0-49ef-8aa3-8c7a26fea971/je/2000xxs.jpg",
+      "file": "img-740fbf6ed28b.webp",
+      "media_type": "image/webp",
+      "bytes": 374956,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/60f38a00-262c-41f5-9dee-b8047a18fb90/je/2000xxs.jpg",
+      "file": "img-4a3de4edc8a9.webp",
+      "media_type": "image/webp",
+      "bytes": 324830,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/b86e97b6-9728-452c-a1b5-07291fe8d239/je/2000xxs.jpg",
+      "file": "img-b8d434b8fe8b.webp",
+      "media_type": "image/webp",
+      "bytes": 468968,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/d32bc483-281e-400a-a916-ccf35270e59d/je/2000xxs.jpg",
+      "file": "img-51e289a8683c.webp",
+      "media_type": "image/webp",
+      "bytes": 302000,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/8792618e-4c2e-4d6f-be89-ec14aa657903/je/2000xxs.jpg",
+      "file": "img-c14b5dba929a.webp",
+      "media_type": "image/webp",
+      "bytes": 1029254,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/83ac47ef-19b1-4cbf-8347-77016b4da6ab/je/2000xxs.jpg",
+      "file": "img-611123c9c4ac.webp",
+      "media_type": "image/webp",
+      "bytes": 763656,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/aa548749-e012-448c-b3a2-90b4b383e87c/je/2000xxs.jpg",
+      "file": "img-7d8328ff86b3.webp",
+      "media_type": "image/webp",
+      "bytes": 675256,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/051d772d-1200-4150-81a8-adcbf3faa34b/je/2000xxs.jpg",
+      "file": "img-eab7ddba1ef8.webp",
+      "media_type": "image/webp",
+      "bytes": 855984,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/b2c0997b-92ef-41f6-99d9-788283494fc3/je/2000xxs.jpg",
+      "file": "img-ea943dc91b16.webp",
+      "media_type": "image/webp",
+      "bytes": 698044,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/5bb5764f-d342-44e8-8fe2-c24b53ce9129/je/2000xxs.jpg",
+      "file": "img-1ef9bb239f23.webp",
+      "media_type": "image/webp",
+      "bytes": 910994,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/72c2e136-6933-420a-91b3-3c47c8a78a00/je/2000xxs.jpg",
+      "file": "img-912031fdb8c4.webp",
+      "media_type": "image/webp",
+      "bytes": 764940,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/d50201db-491b-4f12-9223-a22b25ee4361/je/2000xxs.jpg",
+      "file": "img-ac4ed119c043.webp",
+      "media_type": "image/webp",
+      "bytes": 677846,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/73c2947e-936f-4709-bf6a-39363452e5bf/je/2000xxs.jpg",
+      "file": "img-b1cdbfccd95b.webp",
+      "media_type": "image/webp",
+      "bytes": 814172,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/f8dffee4-38b5-4570-8cb4-78461f3f6934/je/2000xxs.jpg",
+      "file": "img-f2bf7ea1bf52.webp",
+      "media_type": "image/webp",
+      "bytes": 940052,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/9895e970-5293-4827-a65a-a92b25a8da99/je/2000xxs.jpg",
+      "file": "img-ee0bb8a7bfc9.webp",
+      "media_type": "image/webp",
+      "bytes": 770194,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/e440f037-5c2f-47e1-82a8-db3cc3c9315d/je/2000xxs.jpg",
+      "file": "img-03c32a8e348b.webp",
+      "media_type": "image/webp",
+      "bytes": 336660,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/ad103f45-3ef1-464c-807d-77f5edd09de6/je/2000xxs.jpg",
+      "file": "img-c988964e701f.webp",
+      "media_type": "image/webp",
+      "bytes": 265900,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/92b58161-f934-4764-8152-479d7bf1d380/je/2000xxs.jpg",
+      "file": "img-d599b0946fda.webp",
+      "media_type": "image/webp",
+      "bytes": 289044,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/ef6b21a3-c0d4-4543-bd34-c56b0ca2b647/je/2000xxs.jpg",
+      "file": "img-604b402b5782.webp",
+      "media_type": "image/webp",
+      "bytes": 417130,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/544df252-be30-4c57-b887-f0d4b4859677/je/2000xxs.jpg",
+      "file": "img-fa5385837292.webp",
+      "media_type": "image/webp",
+      "bytes": 320226,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/72af4c94-adb0-4081-a26d-b3d2b14e5fea/je/2000xxs.jpg",
+      "file": "img-4883e025d7e9.webp",
+      "media_type": "image/webp",
+      "bytes": 573220,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/0a6840a6-7dd5-4241-8c58-55d5f3474e3d/je/2000xxs.jpg",
+      "file": "img-2b37d071081b.webp",
+      "media_type": "image/webp",
+      "bytes": 575806,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/b3df0077-e0bf-403d-995a-1767ec12b003/je/2000xxs.jpg",
+      "file": "img-255286881202.webp",
+      "media_type": "image/webp",
+      "bytes": 652914,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/872a7f77-aebf-4066-b1a6-59b37e45cc17/je/2000xxs.jpg",
+      "file": "img-66f225895edf.webp",
+      "media_type": "image/webp",
+      "bytes": 411796,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/4195ed28-0b2a-41da-913d-1c0301b8ccc9/je/2000xxs.jpg",
+      "file": "img-68eb24478241.webp",
+      "media_type": "image/webp",
+      "bytes": 834862,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/87b0864d-8092-44a2-936c-8afe417f70fd/je/2000xxs.jpg",
+      "file": "img-c129d3e10f4d.webp",
+      "media_type": "image/webp",
+      "bytes": 821288,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/128f2f89-ffd8-4939-ab15-db22eaf64e92/je/2000xxs.jpg",
+      "file": "img-55751ad601a4.webp",
+      "media_type": "image/webp",
+      "bytes": 674340,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/8ab65e6f-3c1e-4b9e-b911-bc9cd1621fcf/je/2000xxs.jpg",
+      "file": "img-cbc0092200f9.webp",
+      "media_type": "image/webp",
+      "bytes": 406226,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/ae111608-de92-4ce5-9b67-70a38dfd267e/je/2000xxs.jpg",
+      "file": "img-d4c6d11cf31f.webp",
+      "media_type": "image/webp",
+      "bytes": 474922,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/d27cfbca-91cf-4e5c-80af-6368c411dfed/je/2000xxs.jpg",
+      "file": "img-d1ad8a5ffa5f.webp",
+      "media_type": "image/webp",
+      "bytes": 509120,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/89c51c5e-df54-4ab8-8198-077230d75f40/je/2000xxs.jpg",
+      "file": "img-9f74143490cd.webp",
+      "media_type": "image/webp",
+      "bytes": 550594,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/eaa10073-45ef-43b4-9c21-b2093fdcb4cc/je/2000xxs.jpg",
+      "file": "img-b1f8de03c266.webp",
+      "media_type": "image/webp",
+      "bytes": 278540,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2d229056-314f-484e-bbbf-df7f4de9be8d/je/2000xxs.jpg",
+      "file": "img-6a6ac318e0b6.webp",
+      "media_type": "image/webp",
+      "bytes": 374316,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/c1fa8692-35c4-433d-9fdc-b8e3cdb2fdc2/je/2000xxs.jpg",
+      "file": "img-f6ee3af28d96.webp",
+      "media_type": "image/webp",
+      "bytes": 337600,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6d94f207-f9d1-4d2c-9692-7575ea8e095e/je/2000xxs.jpg",
+      "file": "img-7baba45e1760.webp",
+      "media_type": "image/webp",
+      "bytes": 270932,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/89f4dd3b-71a6-4481-b6ed-3633109fb144/je/2000xxs.jpg",
+      "file": "img-85862981da95.webp",
+      "media_type": "image/webp",
+      "bytes": 294618,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/7f1939f0-f2a9-48b2-a1d8-83852d3a1fbc/je/2000xxs.jpg",
+      "file": "img-795ca1ffa134.webp",
+      "media_type": "image/webp",
+      "bytes": 423900,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/35d5b3a2-0b74-4718-95f1-720e334a73b6/je/2000xxs.jpg",
+      "file": "img-7df9f42ac1f7.webp",
+      "media_type": "image/webp",
+      "bytes": 344460,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/33c14142-cab8-4bbc-a20d-dbb51b9e0133/je/2000xxs.jpg",
+      "file": "img-6667f6b13f0b.webp",
+      "media_type": "image/webp",
+      "bytes": 265396,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/667f63c5-1f89-40fa-8b16-a7d5b4fbc943/je/2000xxs.jpg",
+      "file": "img-9e7b5ea8a132.webp",
+      "media_type": "image/webp",
+      "bytes": 595686,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/c2e0dec5-597e-4494-bee1-5f6d22133032/je/2000xxs.jpg",
+      "file": "img-8dab09d65421.webp",
+      "media_type": "image/webp",
+      "bytes": 506888,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/13/44/16/9065cac2-66d4-4d3e-a383-bdf3bab61385/je/2000xxs.jpg",
+      "file": "img-cb03c12daf96.webp",
+      "media_type": "image/webp",
+      "bytes": 351818,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/abc9713d-e325-4d29-8505-0a6ae01d85c1/je/2000xxs.jpg",
+      "file": "img-fefb81d49046.webp",
+      "media_type": "image/webp",
+      "bytes": 545516,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/13/44/16/2faca140-a6ee-4186-824b-c9c23ffeb804/je/2000xxs.jpg",
+      "file": "img-9e5b7e7dcd87.webp",
+      "media_type": "image/webp",
+      "bytes": 408140,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/13/44/16/fa1fd8df-e331-4163-91cd-c0f71de5fcc0/je/2000xxs.jpg",
+      "file": "img-c74e46975489.webp",
+      "media_type": "image/webp",
+      "bytes": 278876,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/13/44/16/f09e6953-fb2e-4af9-bd07-9bb1a87d40b3/je/2000xxs.jpg",
+      "file": "img-a5cfc082615a.webp",
+      "media_type": "image/webp",
+      "bytes": 410896,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/32b5273c-2e17-47a8-bab6-8bb45450e9c2/je/2000xxs.jpg",
+      "file": "img-eed12ed607c6.webp",
+      "media_type": "image/webp",
+      "bytes": 388416,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/850b0f7a-d22c-47b9-b3b9-2f67e5bb0332/je/2000xxs.jpg",
+      "file": "img-e020e6fe940f.webp",
+      "media_type": "image/webp",
+      "bytes": 226684,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/2c318a85-b091-4bac-894b-496f78009225/je/2000xxs.jpg",
+      "file": "img-6154a9a0a7d1.webp",
+      "media_type": "image/webp",
+      "bytes": 445686,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/dd108d50-2217-4df1-95ee-1de3714875b8/je/2000xxs.jpg",
+      "file": "img-43bbee93d3e5.webp",
+      "media_type": "image/webp",
+      "bytes": 424234,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/3091f19d-778d-411c-9f62-1eb3618a3fed/je/2000xxs.jpg",
+      "file": "img-e2eb716cc176.webp",
+      "media_type": "image/webp",
+      "bytes": 317044,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/13/44/16/3464dbd3-6f1f-4128-b338-1a7543f9d17f/je/2000xxs.jpg",
+      "file": "img-b453a4fb9590.webp",
+      "media_type": "image/webp",
+      "bytes": 432926,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/66050b0e-7618-4ce5-8882-7fd332f4bef5/je/2000xxs.jpg",
+      "file": "img-fe0d846b9620.webp",
+      "media_type": "image/webp",
+      "bytes": 343330,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/af448284-2236-4e85-b8bb-df0486a4545d/je/2000xxs.jpg",
+      "file": "img-2844ee48cb7f.webp",
+      "media_type": "image/webp",
+      "bytes": 363132,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/b59f3078-ac7e-4d5b-821f-f25711efa0d6/je/2000xxs.jpg",
+      "file": "img-c8953d27e763.webp",
+      "media_type": "image/webp",
+      "bytes": 329202,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/76a953d2-17cc-4795-b2c1-393ce999be23/je/2000xxs.jpg",
+      "file": "img-2465b3660703.webp",
+      "media_type": "image/webp",
+      "bytes": 287492,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/d3d01c99-e118-4ccc-a8c9-c5a1a0c1208f/je/2000xxs.jpg",
+      "file": "img-17b6e2bf20b9.webp",
+      "media_type": "image/webp",
+      "bytes": 415390,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/7da2661e-2f5e-49cf-b5f4-5cad1bc53506/je/2000xxs.jpg",
+      "file": "img-e4b2d9607af6.webp",
+      "media_type": "image/webp",
+      "bytes": 269072,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/fe682db6-6cfb-4cd8-86d0-9c505ad3ffdc/je/2000xxs.jpg",
+      "file": "img-5ce400f6993b.webp",
+      "media_type": "image/webp",
+      "bytes": 253990,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/927a52ae-5e75-474c-8740-8c6bae2423ff/je/2000xxs.jpg",
+      "file": "img-4d92236b8a49.webp",
+      "media_type": "image/webp",
+      "bytes": 283864,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/5a9dc777-a653-4ea5-b0eb-9e03624b0f36/je/2000xxs.jpg",
+      "file": "img-1f22b4546adc.webp",
+      "media_type": "image/webp",
+      "bytes": 395576,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/ccd235be-227b-40fe-bb8c-b285fc4aeb99/je/2000xxs.jpg",
+      "file": "img-998e1a469105.webp",
+      "media_type": "image/webp",
+      "bytes": 411980,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/ef659212-d34e-40f6-88b7-b8e83c82f318/je/2000xxs.jpg",
+      "file": "img-6af3c62deaf4.webp",
+      "media_type": "image/webp",
+      "bytes": 252588,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/27/9b27010a-feb1-40ac-bf1d-e4479e11329b/je/2000xxs.jpg",
+      "file": "img-78fcdcd581e1.webp",
+      "media_type": "image/webp",
+      "bytes": 252234,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/13/44/16/5a102a47-dae2-4b1c-b370-c196214feef0/je/2000xxs.jpg",
+      "file": "img-6f2fb2dbecb3.webp",
+      "media_type": "image/webp",
+      "bytes": 589606,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/3c2892f0-259a-440d-8d5c-b81511d1635c/je/2000xxs.jpg",
+      "file": "img-fd92f83df87d.webp",
+      "media_type": "image/webp",
+      "bytes": 220016,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/a1e90ade-3b01-48cb-a888-0b880f36df4d/je/2000xxs.jpg",
+      "file": "img-65ea8b77c018.webp",
+      "media_type": "image/webp",
+      "bytes": 328624,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/99dac42f-1261-4908-84e0-5da097c64e1c/je/2000xxs.jpg",
+      "file": "img-14e9a04cdf46.webp",
+      "media_type": "image/webp",
+      "bytes": 329610,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/86ab61c3-2131-43fa-9bd4-7a45682231e9/je/2000xxs.jpg",
+      "file": "img-a9b40cbb0c36.webp",
+      "media_type": "image/webp",
+      "bytes": 340772,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/a10599b8-fcb8-4b18-afaf-5c1466660c2f/je/2000xxs.jpg",
+      "file": "img-1152b6d7d3c9.webp",
+      "media_type": "image/webp",
+      "bytes": 721470,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2eaa58b8-5a3f-4e1b-a28c-79bc7e4666ca/je/2000xxs.jpg",
+      "file": "img-90aacc1b911c.webp",
+      "media_type": "image/webp",
+      "bytes": 536160,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/ce6777f2-5d89-46bb-b306-76a22a6a9585/je/2000xxs.jpg",
+      "file": "img-bc1a2c21b5d6.webp",
+      "media_type": "image/webp",
+      "bytes": 549176,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/308c9726-6ece-4fbf-a5b7-2614bd062af1/je/2000xxs.jpg",
+      "file": "img-336c9049ad09.webp",
+      "media_type": "image/webp",
+      "bytes": 795086,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/13/44/16/64a055b1-bd78-4cd1-a5c9-2d7ee1946421/je/2000xxs.jpg",
+      "file": "img-f07964de62c4.webp",
+      "media_type": "image/webp",
+      "bytes": 903728,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2200xxsxm%2817%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2200xxsxm%2818%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2200xxsxm%2819%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/canada",
+              "name": "Canada"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/british-columbia-canada",
+              "name": "British Columbia"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kitimat-canada",
+              "name": "Kitimat"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kitimat-canada/refined-coastal-estate-16848348",
+              "name": "Refined Coastal Estate"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Minette Bay Lodge is a refined private coastal residence conceived as both an elegant family retreat and a world-class guest lodge, Gateway to the Great Bear Rainforest. It is one of the only Mainland Pacific Ocean Shorefront Freehold Properties on the Canadian Northwest Coast. Encompassing approximately 6,500 square feet, the Cape Cod–inspired home presents understated grandeur crafted for long, immersive stays in complete comfort. The property is zoned G4—A (Rural Resort), supporting both private and hospitality-oriented use, with much room to expand.\n\nThe lodge offers eleven bedrooms and seven bathrooms arranged across three levels, with interiors that recall a warm English manor house. Hand-finished fir flooring, open fireplaces, bespoke cabinetry, and carefully proportioned rooms create a sense of permanence and ease. StarLink is also in place for uninterrupted internet convenience. Verandas and terraces extend the living spaces outdoors, featuring a wood-fired hot tub and a separate fire pit/BBQ. A remarkable 2,700 square foot ocean-view deck provides an exceptional setting for entertaining, family gatherings, or quiet contemplation above the bay. Furnishings, fine linens sourced from London and New York, and feather-bedded accommodations reinforce a feeling of discreet luxury and turnkey readiness.\n\nSet on a secluded 77-acre oceanfront estate, the lodge overlooks the calm waters of Douglas Channel and a dramatic coastal mountain backdrop. The grounds are rich and intimate: salmon-spawning creeks crossed by suspension bridges, forest walking trails, mature plantings, and a creekside orchard, all framed by native wilderness. Privacy is absolute, bordered by municipal parkland and protected Haisla lands, yet the property lies just five minutes from the town of Kitimat.\n\nSupported by robust infrastructure—reliable power with generator backup, fire and safety systems, spring-fed water, high-speed internet, and full-capacity services, Minette Bay Lodge stands as a secure, private, and fully realized wilderness estate, where refined living and extraordinary nature exist in perfect balance.",
+        "image": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/d7bba520-4c28-4133-a0a6-5d1f3cc51030/je/1040x620xc.jpg",
+        "name": "Refined Coastal Estate",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 8812711.8,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Sotheby's International Realty Canada"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/kitimat-canada/refined-coastal-estate-16848348"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2000xxs%285%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2200xxsxm%2817%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2200xxsxm%2818%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/kitimat-canada/Refined%20Coastal%20Estate%20In%20Kitimat,%20British%20Columbia,%20Canada%20For%20Sale%20%2816848348%29_files/2200xxsxm%2819%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+};

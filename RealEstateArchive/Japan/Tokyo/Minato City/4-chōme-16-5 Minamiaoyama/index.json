@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "path": "Japan/Tokyo/Minato City/4-chōme-16-5 Minamiaoyama",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 32744
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 19001
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 4921
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 498005
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 124
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/charming-farmhouse-with-pool-and-land-in-castiglione-del-lago-17913288",
+    "canonical_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/charming-farmhouse-with-pool-and-land-in-castiglione-del-lago-17913288",
+    "site": "jamesedition",
+    "listing_id": "17913288",
+    "listing_reference": "PGAR1M460",
+    "first_listed": "May 14",
+    "last_updated": "May 14",
+    "retrieved_at": "2026-06-16T03:43:22.82228Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3454,
+      "sha256": "9c7fefa0bf6c7945583433df08a6d05ef705742b8a23c5e87241c736259da38f"
+    },
+    {
+      "path": "images/004-edd97b08.webp",
+      "bytes": 439220,
+      "sha256": "88e360e71cc6ae5818baca59e6510dfca54909c19d0b8520c5283be260c4dc0f"
+    },
+    {
+      "path": "images/009-9aee82fe.webp",
+      "bytes": 441168,
+      "sha256": "2941c7fea77ea78a2cb70aa0ba9d2a7b770c4f7ffec1793a0b1c7b4a13dfa68b"
+    },
+    {
+      "path": "images/014-2ff79848.webp",
+      "bytes": 437504,
+      "sha256": "5c27f3e4b0f48570518bab76f7ad9010c59b904e36f555e7a6e55506832e8138"
+    },
+    {
+      "path": "images/019-ad17d518.webp",
+      "bytes": 411068,
+      "sha256": "19e459efefdb929f2a9d7ef81f57d61b3e3194f2dfc35464a9a877db3af36028"
+    },
+    {
+      "path": "images/024-7ca5c02d.webp",
+      "bytes": 328736,
+      "sha256": "fcfd84aff029515033db4060fd296b6ae128aeaa6b7eedf8cc570bfcb3f7bfa2"
+    },
+    {
+      "path": "images/029-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/030-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/031-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/032-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/033-459ca454.webp",
+      "bytes": 802,
+      "sha256": "a7dd334c9af36dec926766f5ff7521220c3f17e439be8969e12d50ceaab0d0d7"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 18443,
+      "sha256": "b4f19d7ff28c1190ac6ccf68825519673faa28290f82ce93207044ffcacd3485"
+    },
+    {
+      "path": "source.html",
+      "bytes": 359109,
+      "sha256": "aed7cd8efe800990280775969e44f666b3ddb88db6ab5ae351346f98a3f2353f"
+    },
+    {
+      "path": "source.url",
+      "bytes": 139,
+      "sha256": "ab43bf38fca13289ec0ffce75791a7885404deee5a2ee0a6595ffdbcda23452c"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/2200xxs.jpg",
+      "path": "images/004-edd97b08.webp",
+      "media_type": "image/webp",
+      "bytes": 439220,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/2200xxs.jpg",
+      "path": "images/009-9aee82fe.webp",
+      "media_type": "image/webp",
+      "bytes": 441168,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/2200xxs.jpg",
+      "path": "images/014-2ff79848.webp",
+      "media_type": "image/webp",
+      "bytes": 437504,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/2200xxs.jpg",
+      "path": "images/019-ad17d518.webp",
+      "media_type": "image/webp",
+      "bytes": 411068,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/2200xxs.jpg",
+      "path": "images/024-7ca5c02d.webp",
+      "media_type": "image/webp",
+      "bytes": 328736,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2023/04/07/08/31/16/f43f9a81-d954-4c57-8b3c-2ebdec60c2cc/je/80x80xc.jpg",
+      "path": "images/033-459ca454.webp",
+      "media_type": "image/webp",
+      "bytes": 802,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

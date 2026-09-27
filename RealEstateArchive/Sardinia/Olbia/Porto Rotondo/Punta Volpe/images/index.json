@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "path": "Sardinia/Olbia/Porto Rotondo/Punta Volpe/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-1a0a61b29f80.webp",
+      "href": "img-1a0a61b29f80.webp",
+      "size": 757438
+    },
+    {
+      "name": "img-4b6612626cb4.webp",
+      "href": "img-4b6612626cb4.webp",
+      "size": 532
+    },
+    {
+      "name": "img-4e753f0f710b.webp",
+      "href": "img-4e753f0f710b.webp",
+      "size": 790874
+    },
+    {
+      "name": "img-57242b8ef18d.webp",
+      "href": "img-57242b8ef18d.webp",
+      "size": 1004
+    },
+    {
+      "name": "img-8f36a29dde4a.webp",
+      "href": "img-8f36a29dde4a.webp",
+      "size": 775244
+    },
+    {
+      "name": "img-d0d155fc4b32.webp",
+      "href": "img-d0d155fc4b32.webp",
+      "size": 658454
+    },
+    {
+      "name": "img-d3173ac0196f.webp",
+      "href": "img-d3173ac0196f.webp",
+      "size": 745130
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

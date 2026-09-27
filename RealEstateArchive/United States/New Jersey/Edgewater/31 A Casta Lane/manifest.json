@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31-a-casta-lane-edgewater-nj-07020-18238553",
+    "canonical_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31-a-casta-lane-edgewater-nj-07020-18238553",
+    "site": "jamesedition",
+    "listing_id": "18238553",
+    "listing_reference": "YMGKRM",
+    "first_listed": "Jun 22",
+    "last_updated": "June 22",
+    "retrieved_at": "2026-08-28T00:27:30.346557Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2529,
+      "sha256": "d9b15baf9793bfbfe883aa657f593a5222328082239fc503d3d164fd268cf838"
+    },
+    {
+      "path": "images/img-04b7f26ee36d.webp",
+      "bytes": 308460,
+      "sha256": "471bf66e887f947fb30e3249e303e1be69f68456bb7c566f7966b4a55b9369cb"
+    },
+    {
+      "path": "images/img-12bace47f105.webp",
+      "bytes": 321580,
+      "sha256": "ce3ea8a9e5cee2ac0c13fe8ac20cfbf582fd004cf813f664d3983e57e5bd885c"
+    },
+    {
+      "path": "images/img-23ff61025f8d.webp",
+      "bytes": 367418,
+      "sha256": "1d62d5591cfef4942272de36392a52d81a19b17b1f3920ae179eef468b7e491e"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-8b13a24e2906.webp",
+      "bytes": 226704,
+      "sha256": "c511c7a1cf89878e472f542cb9abb1704a246b3627ea4c4e0dc82cc340d2a318"
+    },
+    {
+      "path": "images/img-90177ec2b4be.webp",
+      "bytes": 401424,
+      "sha256": "0c6454c2fc79910198046ba683579d9921755e72bce3de9fd42fdf01e2b414c9"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17334,
+      "sha256": "735aae17d17da11b49183fc435b53d62e30d7b67c1ebfa31c316fb3e12f8821b"
+    },
+    {
+      "path": "source.html",
+      "bytes": 333159,
+      "sha256": "b6eacab863f88c966616a782f4d524c3599ce4efd808a157b7e9444d3175f6b7"
+    },
+    {
+      "path": "source.url",
+      "bytes": 102,
+      "sha256": "ac0ace4627592975d40560a6322cd2c71f623d861f946ab322149f0dbd5fcc9d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/78f8b6ee-1d53-459c-b01e-0ffa4a893bb4/je/2200xxs.jpg",
+      "path": "images/img-90177ec2b4be.webp",
+      "media_type": "image/webp",
+      "bytes": 401424,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31%20A%20Casta%20Lane,%20Edgewater,%20Nj,%2007020%20In%20Edgewater,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818238553%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/833a8df9-f0d0-4c85-98a1-3a99b40a0ecc/je/2200xxs.jpg",
+      "path": "images/img-23ff61025f8d.webp",
+      "media_type": "image/webp",
+      "bytes": 367418,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31%20A%20Casta%20Lane,%20Edgewater,%20Nj,%2007020%20In%20Edgewater,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818238553%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/c9931d3c-c9ee-41ae-a7b6-175e5e320ea8/je/2200xxs.jpg",
+      "path": "images/img-12bace47f105.webp",
+      "media_type": "image/webp",
+      "bytes": 321580,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31%20A%20Casta%20Lane,%20Edgewater,%20Nj,%2007020%20In%20Edgewater,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818238553%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/5a68d5f5-1cdc-4e1f-9ded-b5cd00831788/je/2200xxs.jpg",
+      "path": "images/img-8b13a24e2906.webp",
+      "media_type": "image/webp",
+      "bytes": 226704,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31%20A%20Casta%20Lane,%20Edgewater,%20Nj,%2007020%20In%20Edgewater,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818238553%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/ac2962f9-547a-4cfe-a8b9-8b3d786de743/je/2200xxs.jpg",
+      "path": "images/img-04b7f26ee36d.webp",
+      "media_type": "image/webp",
+      "bytes": 308460,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31%20A%20Casta%20Lane,%20Edgewater,%20Nj,%2007020%20In%20Edgewater,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818238553%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31%20A%20Casta%20Lane,%20Edgewater,%20Nj,%2007020%20In%20Edgewater,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818238553%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31%20A%20Casta%20Lane,%20Edgewater,%20Nj,%2007020%20In%20Edgewater,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818238553%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/edgewater-nj-usa/31%20A%20Casta%20Lane,%20Edgewater,%20Nj,%2007020%20In%20Edgewater,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818238553%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 6,
+    "images_existing": 0,
+    "images_failed": 11,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,677 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4-bedrooms-single-family-detached-17829396",
+    "canonical_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4-bedrooms-single-family-detached-17829396",
+    "site": "jamesedition",
+    "listing_id": "17829396",
+    "listing_reference": "8tnpdb",
+    "first_listed": "May 2",
+    "last_updated": "May 2",
+    "retrieved_at": "2026-08-28T00:27:37.740819Z"
+  },
+  "location": {
+    "address": "2117 Miramar Drive, Newport Beach, CA 92661, California, United States",
+    "street": "2117 Miramar Drive",
+    "municipality": "Newport Beach",
+    "region": "California",
+    "postal_code": "92661",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=33.596514,-117.883906",
+    "latitude": 33.596514,
+    "longitude": -117.883906
+  },
+  "property": {
+    "title": "4 Bedrooms Single Family Detached",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 4699000,
+      "currency": "USD",
+      "display": "$4,699,000"
+    },
+    "price_per_area": {
+      "amount": 1997,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,997"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "interior_area": {
+      "value": 2352,
+      "unit": "sqft",
+      "display": "2,352 Sqft"
+    },
+    "lot_area": {
+      "value": 2462,
+      "unit": "sqft",
+      "display": "2,462 Sqft lot"
+    },
+    "year_built": 1981,
+    "photo_count": 46,
+    "description": "Nestled within the coveted Peninsula Point neighborhood in Newport Beach, just moments from the shoreline, harbor, and the iconic Wedge, this turnkey Balboa beach home captures the rhythm of refined coastal living, where ocean breezes, sunlit days, and glowing sunsets define the experience. Thoughtfully designed and beautifully executed, the four-bedroom, three-and-a-half-bath residence blends timeless finishes with a relaxed, inviting aesthetic. French doors open to a lushly landscaped front terrace that lives as a true extension of the home - an outdoor living room ideal for morning coffee or sunset gatherings with friends. Inside, the living and dining areas unfold with an effortless flow, leading to an open-concept island kitchen designed for both everyday living and elevated entertaining, complete with professional-grade appointments. Just beyond, an outdoor dining area anchored by a fireplace creates a warm, inviting backdrop for evenings of al fresco dining. Upstairs, the primary suite offers a true sense of retreat, featuring a fireplace-warmed sitting area perfect for unwinding at the end of the day. The adjoining spa bath is perfectly appointed with dual vanities, a separate shower, and a luxurious BainUltra soaking tub, complemented by a custom walk-in dressing area. The third level reveals a rooftop terrace offering a front-row seat to city lights and glowing sunsets, enhanced by an automated pergola for year-round enjoyment. Additional bespoke details - including a slate roof, outdoor beach shower, custom window treatments, and a spacious three-car garage - underscore the home’s quality and thoughtful design. Perfectly positioned near the oceanfront, bayfront, Jetty Park, and Peninsula Point’s most beloved coastal landmarks, this residence invites you to fully embrace the ease and beauty of beachside living - casual, connected, and effortlessly elevated. A home that represents the very best of life on the Point.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "City View",
+      "Fire Pit",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Gas Stovetop",
+      "Gate",
+      "Kitchen island",
+      "Mountain View",
+      "Open Kitchen",
+      "Outdoor Kitchen",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Pergola",
+      "Stone Countertops",
+      "Terrace",
+      "Walk In Closet",
+      "Water View"
+    ]
+  },
+  "broker": {
+    "agent": "Tara Foster-Shapiro",
+    "agency": "Coldwell Banker Realty - Newport Beach",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/coldwell-banker-realty-newport-beach-112063",
+    "agency_address": "840 Newport Center Dr Ste 100, 92660, Newport Beach, California, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/2200xxs.jpg",
+      "file": "img-afea3d56417b.webp",
+      "media_type": "image/webp",
+      "bytes": 158302,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/64047a8d-57cc-477d-b328-485932f6bd6f/je/2200xxs.jpg",
+      "file": "img-aa64ee019877.webp",
+      "media_type": "image/webp",
+      "bytes": 156310,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/727a1ea4-1b26-4f6f-8224-ba2b6b685f0b/je/2200xxs.jpg",
+      "file": "img-c709af5fc7a9.webp",
+      "media_type": "image/webp",
+      "bytes": 171434,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1b3edda9-1eda-431d-8894-f4397c80a4e5/je/2200xxs.jpg",
+      "file": "img-447da629f999.webp",
+      "media_type": "image/webp",
+      "bytes": 161392,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/def57d25-4d6c-4dfe-b93c-39b60f80552c/je/2200xxs.jpg",
+      "file": "img-2e81b9503315.webp",
+      "media_type": "image/webp",
+      "bytes": 65836,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/8f3f44e1-6311-410d-b37c-034988d2b6c1/je/2000xxs.jpg",
+      "file": "img-140021766284.webp",
+      "media_type": "image/webp",
+      "bytes": 50006,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/f718a8b2-e252-4f53-836c-9816f0f6c502/je/2000xxs.jpg",
+      "file": "img-04fec73d1d4a.webp",
+      "media_type": "image/webp",
+      "bytes": 61812,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/002b1c87-c96a-45c0-b837-dbe4153adb9b/je/2000xxs.jpg",
+      "file": "img-d60c66cc5fac.webp",
+      "media_type": "image/webp",
+      "bytes": 45534,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1059fee6-9134-490e-988b-36762f1f6cb6/je/2000xxs.jpg",
+      "file": "img-b1f8d59c98e7.webp",
+      "media_type": "image/webp",
+      "bytes": 50344,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/2a9d2264-0a36-4dd6-8f99-3f3c577db8f3/je/2000xxs.jpg",
+      "file": "img-a8902c4508a9.webp",
+      "media_type": "image/webp",
+      "bytes": 125840,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3a443d9b-61c8-49fe-8d0c-04aa702d628f/je/2000xxs.jpg",
+      "file": "img-25c876ae2e13.webp",
+      "media_type": "image/webp",
+      "bytes": 51762,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/192af87e-f4d7-4bfa-9363-a089330b3e5f/je/2000xxs.jpg",
+      "file": "img-710bb4d6a14e.webp",
+      "media_type": "image/webp",
+      "bytes": 32576,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9ba71b18-deaf-4e14-9e27-d95dc8ba6e2e/je/2000xxs.jpg",
+      "file": "img-c2d9704b13e6.webp",
+      "media_type": "image/webp",
+      "bytes": 72166,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/f89e5556-7e80-4f18-b7ea-43fc1dae50b9/je/2000xxs.jpg",
+      "file": "img-df23eae37ad1.webp",
+      "media_type": "image/webp",
+      "bytes": 93182,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6fbe4902-eeb2-4042-8154-6315580c12d3/je/2000xxs.jpg",
+      "file": "img-17c78c499de6.webp",
+      "media_type": "image/webp",
+      "bytes": 163928,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/28164d32-0da2-41cf-8706-7d7d637fb058/je/2000xxs.jpg",
+      "file": "img-e74c1774c7fa.webp",
+      "media_type": "image/webp",
+      "bytes": 154854,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6e92eed4-6621-445f-8efb-9ab72ba1e25d/je/2000xxs.jpg",
+      "file": "img-f07e93fbd4a3.webp",
+      "media_type": "image/webp",
+      "bytes": 166292,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7ef22597-3104-4aae-bbfe-f5c85421a156/je/2000xxs.jpg",
+      "file": "img-72661307cd6e.webp",
+      "media_type": "image/webp",
+      "bytes": 117860,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6be7bfa3-c505-424c-a8f1-82c7a27c6bb1/je/2000xxs.jpg",
+      "file": "img-32d48b43f065.webp",
+      "media_type": "image/webp",
+      "bytes": 182070,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/cc013282-221f-4953-8c44-b58d3489adac/je/2000xxs.jpg",
+      "file": "img-0907d70ef2e3.webp",
+      "media_type": "image/webp",
+      "bytes": 81196,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3382879c-7919-4493-b92c-3d7ce4a5d99d/je/2000xxs.jpg",
+      "file": "img-0d07f06e0862.webp",
+      "media_type": "image/webp",
+      "bytes": 77360,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1695d5fe-ef34-4cc2-80ba-da828bc0768a/je/2000xxs.jpg",
+      "file": "img-29ffc2af8947.webp",
+      "media_type": "image/webp",
+      "bytes": 64110,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c6dc97bd-09b4-4d5f-b5ae-d97e13722484/je/2000xxs.jpg",
+      "file": "img-a59aa60698be.webp",
+      "media_type": "image/webp",
+      "bytes": 54194,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3def2eec-7d82-4444-b60c-20ac6d5c87c2/je/2000xxs.jpg",
+      "file": "img-0fceecc45d74.webp",
+      "media_type": "image/webp",
+      "bytes": 48852,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7ee9534d-d972-447a-a574-3583bbe114f7/je/2000xxs.jpg",
+      "file": "img-94a955c9d4f7.webp",
+      "media_type": "image/webp",
+      "bytes": 44160,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/f3de6816-7265-4f11-8981-288985d6fe12/je/2000xxs.jpg",
+      "file": "img-d31629a892c0.webp",
+      "media_type": "image/webp",
+      "bytes": 80868,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6be6268c-95a2-4698-a55c-200a6a4302f5/je/2000xxs.jpg",
+      "file": "img-c02b17be8ac4.webp",
+      "media_type": "image/webp",
+      "bytes": 66182,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/4290e384-d12c-47b2-abbf-6b396b1077c4/je/2000xxs.jpg",
+      "file": "img-bb0f6e0add93.webp",
+      "media_type": "image/webp",
+      "bytes": 52460,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/fcdf3b9b-9036-4b9f-b659-625a5c284332/je/2000xxs.jpg",
+      "file": "img-81058330e02c.webp",
+      "media_type": "image/webp",
+      "bytes": 52398,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b8766565-3a44-4bbc-87d0-acb2999037c6/je/2000xxs.jpg",
+      "file": "img-bcc6c67f510e.webp",
+      "media_type": "image/webp",
+      "bytes": 57148,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/e7d4bd1f-f15b-4092-8088-08840e839b78/je/2000xxs.jpg",
+      "file": "img-d86d5a51a443.webp",
+      "media_type": "image/webp",
+      "bytes": 54696,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/25896985-801e-49d3-8b17-bbcad5321345/je/2000xxs.jpg",
+      "file": "img-33553663c60b.webp",
+      "media_type": "image/webp",
+      "bytes": 60714,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/2c6f0dab-b377-494e-8062-3bbe69ac7969/je/2000xxs.jpg",
+      "file": "img-02fea4a047db.webp",
+      "media_type": "image/webp",
+      "bytes": 67340,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/de39d341-b185-451d-b367-ea8aa38dde84/je/2000xxs.jpg",
+      "file": "img-c955df724a04.webp",
+      "media_type": "image/webp",
+      "bytes": 43072,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0034576f-34b4-4de4-b3b5-8ed49af268d2/je/2000xxs.jpg",
+      "file": "img-3a168efcbf29.webp",
+      "media_type": "image/webp",
+      "bytes": 46964,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/cd6b7321-e65c-4319-b278-2402dd95f754/je/2000xxs.jpg",
+      "file": "img-9082e76d5adb.webp",
+      "media_type": "image/webp",
+      "bytes": 39078,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0491791d-c2b6-4e85-bdcd-3cbfecef5943/je/2000xxs.jpg",
+      "file": "img-c7fd522e6648.webp",
+      "media_type": "image/webp",
+      "bytes": 30810,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c0c62d99-e243-439d-9e0f-a61d038bade6/je/2000xxs.jpg",
+      "file": "img-bc331cef315b.webp",
+      "media_type": "image/webp",
+      "bytes": 42174,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/127e839e-3924-4ddc-9d59-2c1075fd9bdb/je/2000xxs.jpg",
+      "file": "img-805864dc809a.webp",
+      "media_type": "image/webp",
+      "bytes": 44254,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1fa9664e-3d2b-4986-8b82-00b8cc3890e8/je/2000xxs.jpg",
+      "file": "img-56ea818f70d9.webp",
+      "media_type": "image/webp",
+      "bytes": 30182,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/538258c4-000e-447b-bd0a-befe459d8b48/je/2000xxs.jpg",
+      "file": "img-eacfab658986.webp",
+      "media_type": "image/webp",
+      "bytes": 28102,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7fc01c9-5843-49fb-a8a7-2198007226fa/je/2000xxs.jpg",
+      "file": "img-8b2f2dc77191.webp",
+      "media_type": "image/webp",
+      "bytes": 48848,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/fa5075e7-021e-4af6-8ed2-42fdc98c09fc/je/2000xxs.jpg",
+      "file": "img-e28211448812.webp",
+      "media_type": "image/webp",
+      "bytes": 152972,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6c168ce0-45a2-44b5-9114-dd8bfbc7c058/je/2000xxs.jpg",
+      "file": "img-1193415cf82d.webp",
+      "media_type": "image/webp",
+      "bytes": 165044,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3c6fd44f-a988-471e-a737-7d84aea3e996/je/2000xxs.jpg",
+      "file": "img-8989b1ebbc46.webp",
+      "media_type": "image/webp",
+      "bytes": 127564,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7fe0ecc3-d924-4c85-ba78-d63a5ac70ce6/je/2000xxs.jpg",
+      "file": "img-0b1d7efc27cb.webp",
+      "media_type": "image/webp",
+      "bytes": 129292,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2816%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2817%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2818%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ca-united-states",
+              "name": "California"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa",
+              "name": "Newport Beach"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4-bedrooms-single-family-detached-17829396",
+              "name": "4 Bedrooms Single Family Detached"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Nestled within the coveted Peninsula Point neighborhood in Newport Beach, just moments from the shoreline, harbor, and the iconic Wedge, this turnkey Balboa beach home captures the rhythm of refined coastal living, where ocean breezes, sunlit days, and glowing sunsets define the experience. Thoughtfully designed and beautifully executed, the four-bedroom, three-and-a-half-bath residence blends timeless finishes with a relaxed, inviting aesthetic. French doors open to a lushly landscaped front terrace that lives as a true extension of the home - an outdoor living room ideal for morning coffee or sunset gatherings with friends. Inside, the living and dining areas unfold with an effortless flow, leading to an open-concept island kitchen designed for both everyday living and elevated entertaining, complete with professional-grade appointments. Just beyond, an outdoor dining area anchored by a fireplace creates a warm, inviting backdrop for evenings of al fresco dining. Upstairs, the primary suite offers a true sense of retreat, featuring a fireplace-warmed sitting area perfect for unwinding at the end of the day. The adjoining spa bath is perfectly appointed with dual vanities, a separate shower, and a luxurious BainUltra soaking tub, complemented by a custom walk-in dressing area. The third level reveals a rooftop terrace offering a front-row seat to city lights and glowing sunsets, enhanced by an automated pergola for year-round enjoyment. Additional bespoke details - including a slate roof, outdoor beach shower, custom window treatments, and a spacious three-car garage - underscore the home's quality and thoughtful design.  Perfectly positioned near the oceanfront, bayfront, Jetty Park, and Peninsula Point's most beloved coastal landmarks, this residence invites you to fully embrace the ease and beauty of beachside living - casual, connected, and effortlessly elevated. A home that represents the very best of life on the Point.",
+        "image": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/1040x620xc.jpg",
+        "name": "4 Bedrooms Single Family Detached",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 4699000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Coldwell Banker Realty - Newport Beach"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4-bedrooms-single-family-detached-17829396"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%285%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2816%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2817%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2818%29.jpg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+};

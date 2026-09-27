@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415",
+    "canonical_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415",
+    "site": "jamesedition",
+    "listing_id": "14410415",
+    "listing_reference": "CNT3014",
+    "first_listed": "Jun 23, 2024",
+    "last_updated": "April 28",
+    "retrieved_at": "2026-06-18T07:07:52.813206Z"
+  },
+  "location": {
+    "address": "Loc. Carpineto 5, Castelnuovo Berardenga, Tuscany, Italy",
+    "street": "Chianti Classico Estate With Historic Mansion",
+    "municipality": "Castelnuovo Berardenga",
+    "region": "Tuscany",
+    "country": "Italy",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=43.34552,11.50189",
+    "latitude": 43.34552,
+    "longitude": 11.50189
+  },
+  "property": {
+    "title": "Chianti Classico Estate With Historic Mansion, Siena Tuscany",
+    "type": "Other",
+    "availability": "InStock",
+    "price": {
+      "amount": 11613727.43,
+      "currency": "USD",
+      "display": "$11,613,727"
+    },
+    "price_per_area": {
+      "amount": 239,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$239"
+    },
+    "bedrooms": 14,
+    "bathrooms": 20,
+    "interior_area": {
+      "value": 48438,
+      "unit": "sqft",
+      "display": "48,438 Sqft"
+    },
+    "lot_area": {
+      "value": 252.05,
+      "display": "252.05 Ac lot"
+    },
+    "year_built": 1300,
+    "photo_count": 59,
+    "video_url": "https://player.vimeo.com/video/967720690?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
+    "description": "102-hectare/252-acre estate for sale in the heart of Chianti Classico with vineyards, winemaking facility and historic mansion with farmstead. Near the village of Vagliagli, just 10 km north from Siena, the estate covers 102 hectares/252 acres, between the municipalities of Radda in Chianti and Castelnuovo Berardenga, made of rolling hills, valleys and a 2.4 acres (1 ha) private lake. The vineyards cover 70.4 acres (28.5 hectares), with right for an additional 7 hectares (17 acres) to be replanted, and each has its own unique terroir: a combination of soil, altitude and exposure, resulting in wines of extraordinary complexity. Currently under organic conversion since 2021, with final certification planned for 2024/2025, it produces some 130,000 bottles of fine Chianti Classico DOCG (4 labels) and IGT Toscana (6 labels), all of which have been awarded for their authentic expression of terroir with excellent scores obtained from JamesSuckling, Wine Hunter and Decanter. The wines are also featured in the most renowned wine guides such as Slow Wine, Veronelli, Weinwisser and Bibenda. More than 2,000 square meters (21527 sq ft) on three levels are dedicated to the winemaking facility, equipped with cargo lifts, convenient access for trucks, air conditioning, basement cellar with ageing rooms and barrels, from steel to wood. The centuries of history of this place are preserved in the manor house, built on the walls of a medieval fortress that still preserves its ramparts, some towers and the stone bridge dating back to the 1400s. After centuries of battles it was later transformed into a luxury mansion where the Tuscan aristocracy spent the summer months thanks to the fantastic Chianti Classico region microclimate. Around the villa are the farm buildings in typical Tuscan style. One has been recovered with 8 suites, one as tasting rooms, while both the villa and the other buildings need overall recovery, total area of approx. 2500 square meters, with excellent potential to develop both a wine luxury resort or a private residence, ideal for receptions, entertainments, events and vacations surrounded by vineyards and nature. In a discreet and private corner of Tuscany, accessible by a 750-meter private driveway, close to stores, historic centers, and only 45 minutes south of Florence.   \nPROPERTY Ref: CNT3014\nLocation: Radda in Chianti and Castelnuovo Berardenga, Province: Siena, Region: Tuscany\nType: 102-hectare/252-acre estate with historic villa and farm with farmhouses partly to be recovered and converted both for private use and for tourist hospitality for approx. 2500 sq m/26909 sq ft of total surface, plus a fully equipped 2000 sq m/21527 sq ft wine cellar, along with prestigious vineyards and olive groves 4500 sq m/48437 sq ft\nLand: approx. 102 hectares/252 acres inclusive of 28.5 ha/70.4 acres cultivated with vineyards, 6.2 ha/15.3 acres of olive groves, 15.3 ha/37.8 acres of arable land in addition to 50 ha/123.5 acres of woods, 10,000 sq. m/2.4 acres of private lake, and courtyards, gardens, roads, and maneuvering areas for trucks and agricultural machineries\n\nDistance to services: 1 km\nDistance to main airports: Florence 80 km, Pisa 125 km\nWhite road: 750 m\n\nUtilities:\nFixed telephone network: available\nInternet/Wi-Fi: available\nHeating: LPG\nWater: mains city supply + 1 well + 10000 sqm/2.4 acre lake for irrigation use\nElectricity: available\n\nHeritage and period building with both architectural and landscape constraints\nAir conditioning in the wine making facility\n\nBuilding 9. Wine making facility and basement cellars - 2,000 sq m/21527 sq ft on three floors connected by a cargo lift\nGround Floor: 5 offices, shop with tasting corner, kitchen, warehouse, toilets and panoramic terrace\nBasement 1 (with convenient access for trucks): full production line rooms, bottling, warehouse\nBasement 2: ageing cellar, storage, kitchen, locker rooms and toilets for staff use Equipment included: 24 steel winemakers (10 hl each), oak barrels (capacities from 25, 50 to 60 hl), 5 hl tonneaux, Bucher presses, destemmers, grape collection tanks, air conditioning system and packaging equipment",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Basement",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "High Altitude",
+      "High Ceiling",
+      "Mansion",
+      "Mountain View",
+      "Office",
+      "Panoramic / Scenic View",
+      "Pergola",
+      "Terrace",
+      "Vineyard / Winery",
+      "Water View",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Apolloni and Blom Real Estate - Immobiliare",
+    "agent_profile_url": "https://www.jamesedition.com/agents/krister-blom-1058213",
+    "agency": "Apolloni and Blom Real Estate",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/apolloni-and-blom-real-estate-104391",
+    "agency_address": "Vicolo della Rocca 1 e 5, 53011 Castellina in Chianti, ITALY, 53045, Montepulciano, Italy"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/2200xxs.jpg",
+      "file": "004-6ec21649.webp",
+      "media_type": "image/webp",
+      "bytes": 712886,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/b5faddd3-102e-4aac-a7bd-742a87237fe4/je/2200xxs.jpg",
+      "file": "009-b7165463.webp",
+      "media_type": "image/webp",
+      "bytes": 727750,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/6ac52a04-dc0b-4e28-ac04-cb35c3182a06/je/2200xxs.jpg",
+      "file": "014-996e2997.webp",
+      "media_type": "image/webp",
+      "bytes": 371824,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/a340a799-0bff-42d1-bae4-8932e2c65761/je/2200xxs.jpg",
+      "file": "019-8f20d51b.webp",
+      "media_type": "image/webp",
+      "bytes": 665384,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/9688024e-29df-469d-91e7-5cae992e357b/je/2200xxs.jpg",
+      "file": "024-41e5ba68.webp",
+      "media_type": "image/webp",
+      "bytes": 403174,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/italy",
+              "name": "Italy"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tuscany-italy",
+              "name": "Tuscany"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/province-of-siena-italy",
+              "name": "Province of Siena"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy",
+              "name": "Castelnuovo Berardenga"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415",
+              "name": "CHIANTI CLASSICO ESTATE WITH HISTORIC MANSION, SIENA - TUSCANY"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "102-hectare/252-acre estate for sale in the heart of Chianti Classico with vineyards, winemaking facility and historic mansion with farmstead. Near the village of Vagliagli, just 10 km north from Siena, the estate covers 102 hectares/252 acres, between the municipalities of Radda in Chianti and Castelnuovo Berardenga, made of rolling hills, valleys and a 2.4 acres (1 ha) private lake. The vineyards cover 70.4 acres (28.5 hectares), with right for an additional 7 hectares (17 acres) to be replanted, and each has its own unique terroir: a combination of soil, altitude and exposure, resulting in wines of extraordinary complexity. Currently under organic conversion since 2021, with final certification planned for 2024/2025, it produces some 130,000 bottles of fine Chianti Classico DOCG (4 labels) and IGT Toscana (6 labels), all of which have been awarded for their authentic expression of terroir with excellent scores obtained from JamesSuckling, Wine Hunter and Decanter. The wines are also featured in the most renowned wine guides such as Slow Wine, Veronelli, Weinwisser and Bibenda. More than 2,000 square meters (21527 sq ft) on three levels are dedicated to the winemaking facility, equipped with cargo lifts, convenient access for trucks, air conditioning, basement cellar with ageing rooms and barrels, from steel to wood. The centuries of history of this place are preserved in the manor house, built on the walls of a medieval fortress that still preserves its ramparts, some towers and the stone bridge dating back to the 1400s. After centuries of battles it was later transformed into a luxury mansion where the Tuscan aristocracy spent the summer months thanks to the fantastic Chianti Classico region microclimate. Around the villa are the farm buildings in typical Tuscan style. One has been recovered with 8 suites, one as tasting rooms, while both the villa and the other buildings need overall recovery, total area of approx. 2500 square meters, with excellent potential to develop both a wine luxury resort or a private residence, ideal for receptions, entertainments, events and vacations surrounded by vineyards and nature. In a discreet and private corner of Tuscany, accessible by a 750-meter private driveway, close to stores, historic centers, and only 45 minutes south of Florence.   \nPROPERTY Ref: CNT3014\nLocation: Radda in Chianti and Castelnuovo Berardenga, Province: Siena, Region: Tuscany\nType: 102-hectare/252-acre estate with historic villa and farm with farmhouses partly to be recovered and converted both for private use and for tourist hospitality for approx. 2500 sq m/26909 sq ft of total surface, plus a fully equipped 2000 sq m/21527 sq ft wine cellar, along with prestigious vineyards and olive groves 4500 sq m/48437 sq ft\nLand: approx. 102 hectares/252 acres inclusive of 28.5 ha/70.4 acres cultivated with vineyards, 6.2 ha/15.3 acres of olive groves, 15.3 ha/37.8 acres of arable land in addition to 50 ha/123.5 acres of woods, 10,000 sq. m/2.4 acres of private lake, and courtyards, gardens, roads, and maneuvering areas for trucks and agricultural machineries\n\nDistance to services: 1 km\nDistance to main airports: Florence 80 km, Pisa 125 km\nWhite road: 750 m\n\nUtilities:\nFixed telephone network: available\nInternet/Wi-Fi: available\nHeating: LPG\nWater: mains city supply + 1 well + 10000 sqm/2.4 acre lake for irrigation use\nElectricity: available\n\nHeritage and period building with both architectural and landscape constraints\nAir conditioning in the wine making facility\n\nBuilding 9. Wine making facility and basement cellars - 2,000 sq m/21527 sq ft on three floors connected by a cargo lift\nGround Floor: 5 offices, shop with tasting corner, kitchen, warehouse, toilets and panoramic terrace\nBasement 1 (with convenient access for trucks): full production line rooms, bottling, warehouse\nBasement 2: ageing cellar, storage, kitchen, locker rooms and toilets for staff use Equipment included: 24 steel winemakers (10 hl each), oak barrels (capacities from 25, 50 to 60 hl), 5 hl tonneaux, Bucher presses, destemmers, grape collection tanks, air conditioning system and packaging equipment",
+        "image": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/1040x620xc.jpg",
+        "name": "CHIANTI CLASSICO ESTATE WITH HISTORIC MANSION, SIENA - TUSCANY",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 11613727.43,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Apolloni and Blom Real Estate"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

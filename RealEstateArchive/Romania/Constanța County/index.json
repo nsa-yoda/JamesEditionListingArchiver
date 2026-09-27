@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "Romania/Constanța County",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Constanța",
+      "href": "Constan%C8%9Ba/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

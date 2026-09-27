@@ -1,0 +1,684 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405",
+    "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405",
+    "site": "jamesedition",
+    "listing_id": "17820405",
+    "listing_reference": "124865",
+    "first_listed": "May 1",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-06-19T08:18:17.121632Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2016,
+      "sha256": "8a49ae025ad8d98f34c6a296eb7a8a1aecc91c297a9adb21feb61e00c003d6ed"
+    },
+    {
+      "path": "images/img-0615e79edbde.webp",
+      "bytes": 81056,
+      "sha256": "9e098099083cf2ad31fe4924a68b1ad9d3f522e11598a7493914803f25132753"
+    },
+    {
+      "path": "images/img-072f94879724.webp",
+      "bytes": 671156,
+      "sha256": "9c2e67a27b0800de7d83dbce49b562a0a3e22be5d1690839b7648a6a14bf1e19"
+    },
+    {
+      "path": "images/img-1c3112066ceb.webp",
+      "bytes": 675468,
+      "sha256": "0b9e79889f501f43a493b17d083a6b4e96c71eb2497cc22f1ff957ef07a6d06d"
+    },
+    {
+      "path": "images/img-1c65a5fc2ddc.webp",
+      "bytes": 61502,
+      "sha256": "04586344dd40bf6772e380b4d568c1338dea252cd2e8864bc623ec55b6b6b7d1"
+    },
+    {
+      "path": "images/img-272e34fedba6.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-28eed71f9291.webp",
+      "bytes": 229198,
+      "sha256": "1a5d242faa6ea6041cd48be91c387580c556ea1379ec4f7c80c57afa33b21915"
+    },
+    {
+      "path": "images/img-2c42860e006f.webp",
+      "bytes": 206050,
+      "sha256": "f31347bc48ff174bfb410e01c2f9229ffc78920e60b0a126c7568e661c250eca"
+    },
+    {
+      "path": "images/img-36e4db0bf791.webp",
+      "bytes": 430866,
+      "sha256": "c160f4d49714cc73dc07b7807e9a0ccd11a029fbc530aa1d1a22bcc60d9ede07"
+    },
+    {
+      "path": "images/img-3d2577ff5b6d.webp",
+      "bytes": 218618,
+      "sha256": "c9cd7c39dbf40a6af516ef197eda6abd0ecc040653f53188d46163ddf63c1e8d"
+    },
+    {
+      "path": "images/img-3e5c8afbad6e.webp",
+      "bytes": 188934,
+      "sha256": "1ab3d73efe3eb1661d112752460f72e9227ed1eb0bdad05cd95a3f0dbd1a96f3"
+    },
+    {
+      "path": "images/img-4055dfde7ac7.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-44dee6afcdd1.webp",
+      "bytes": 173250,
+      "sha256": "024b0a2bb9f2d20ace6cb1a88900588834cf8e9701f490a4f80cb17f68f534ca"
+    },
+    {
+      "path": "images/img-4864418e8bc7.webp",
+      "bytes": 172098,
+      "sha256": "48195ac251d364b9d91b02256a509e04f86b865b701be91385fa9506a1143d93"
+    },
+    {
+      "path": "images/img-4d8f12b12d5f.webp",
+      "bytes": 234420,
+      "sha256": "6d475078440db20e53d9348139198089352d9aba708dafbc972e9466b42720b9"
+    },
+    {
+      "path": "images/img-50af0f8a3420.webp",
+      "bytes": 255352,
+      "sha256": "dc0ca1f99a21605642291bba217f03c8db5911b28476e167d4bf9372ed0395b3"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-57334b9173cf.webp",
+      "bytes": 467530,
+      "sha256": "dfe8f14b62597bd638e4541afbd8f709f9420bdb15868f04cdf89a885af4dcc3"
+    },
+    {
+      "path": "images/img-5cbe077b5d42.webp",
+      "bytes": 183652,
+      "sha256": "440b0b296bedd931578a647a9849b436f2feffe38ab4e6dc4bcb98d0c561316d"
+    },
+    {
+      "path": "images/img-5e48bd0736ab.webp",
+      "bytes": 158596,
+      "sha256": "b691a368758785dc61d9b8ec245143b465d8467c37051f6164657a3771e29a94"
+    },
+    {
+      "path": "images/img-61ef6560995d.webp",
+      "bytes": 77774,
+      "sha256": "8c76aaa4f4cbbd1af4117470a2ad57f5f3297e18292fb2d5a046e90d978924eb"
+    },
+    {
+      "path": "images/img-671ed03f51a8.webp",
+      "bytes": 114086,
+      "sha256": "f71cffc4208c566f58d57ede20ea947af9e2f52a64730e5ee367592440c4efed"
+    },
+    {
+      "path": "images/img-674cb38217f9.webp",
+      "bytes": 405584,
+      "sha256": "916c0fab72f5d9f3dcf4e183cda9dfcb80abe04516e7ea648d01cf9fa5cd8807"
+    },
+    {
+      "path": "images/img-712bdef12f47.webp",
+      "bytes": 222496,
+      "sha256": "6bb2a77dde2c00a85b3e2b707e45821546b541cc9b6deb35ec0d16fb48087934"
+    },
+    {
+      "path": "images/img-7742078c7dff.webp",
+      "bytes": 208124,
+      "sha256": "c94648b4ca6e03df9ce0b1c6cf7ae6079118fb6a2183572762f619dd53c4cb0a"
+    },
+    {
+      "path": "images/img-7d26d55c155c.webp",
+      "bytes": 140148,
+      "sha256": "eb103a4f9184c7055050305cf9c6f7f9d94b3f04523fde7638569a92e9f2405e"
+    },
+    {
+      "path": "images/img-7e73ec13238a.webp",
+      "bytes": 169452,
+      "sha256": "7f2337e7b8d3f394b092045f6404b98256edf478d9c52d143a24ea6f1e4412d5"
+    },
+    {
+      "path": "images/img-8924e072d9b5.webp",
+      "bytes": 199894,
+      "sha256": "8e410c7b1ee7378dcb2d5c62f7cbc1d6b70c5177cb6f536f87a0921fb091bb94"
+    },
+    {
+      "path": "images/img-8bc047a24521.webp",
+      "bytes": 282222,
+      "sha256": "c2de08c773d8eb1f688f9fd7000764aeafc058ca8962eecb2c5e4417cd85abed"
+    },
+    {
+      "path": "images/img-8c67bd26444d.webp",
+      "bytes": 763176,
+      "sha256": "bf15a6c06a9b2eaa85922f81dbd0ab107ef5f4cc376cf3486ce6b42adc56b892"
+    },
+    {
+      "path": "images/img-8fcca90eaddb.webp",
+      "bytes": 185556,
+      "sha256": "88855257ecdf8c29b51d7f664c36a051d97d96b35ea9afa743f071209af8513e"
+    },
+    {
+      "path": "images/img-9442716414a9.webp",
+      "bytes": 678864,
+      "sha256": "9e4602ed59185c0421a3c5b7b70c702fdb9365660812c18d8d02c44257eef656"
+    },
+    {
+      "path": "images/img-9b6f9112df9f.webp",
+      "bytes": 304594,
+      "sha256": "32ff6793ccd646533e2cbac475ed6bda913c4259a9e57cdf27ce1d9be7286ad5"
+    },
+    {
+      "path": "images/img-9e45794d2984.webp",
+      "bytes": 400662,
+      "sha256": "52cff5e9bbfec5dd9bf25cfae909f4a2b769e2716a580c25d10b7d201f393df4"
+    },
+    {
+      "path": "images/img-bb3ea980dda3.webp",
+      "bytes": 615118,
+      "sha256": "6e15331ff98aaff4440debbd80918acc934d790d7414b77690a41d86f75a7c9a"
+    },
+    {
+      "path": "images/img-bb6679853588.webp",
+      "bytes": 165518,
+      "sha256": "366df57555505620697a0f87f07432cbfc8d454c84a9231b896a1e566c0d480a"
+    },
+    {
+      "path": "images/img-bcea89336c75.webp",
+      "bytes": 667430,
+      "sha256": "7a9952e711849baa609bd26a40236a9aede07c63926ebeab3c39fb84a8f08b2d"
+    },
+    {
+      "path": "images/img-c62c1a13ac7a.webp",
+      "bytes": 275150,
+      "sha256": "cda8e6a9809071e3200734638c5e1493a47bd0560775138b5574862b83e18f84"
+    },
+    {
+      "path": "images/img-c9dae74ce0c6.webp",
+      "bytes": 521350,
+      "sha256": "7ce08e9092ba8725aebba32ec8c25313cc53bf7e608faf5bba70d12bd2ddf08b"
+    },
+    {
+      "path": "images/img-caf7633dd106.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-cbca9135c813.webp",
+      "bytes": 76580,
+      "sha256": "b8c4b95568f01b678d40613cf096a9f128ee38113d839f21777b537355dce349"
+    },
+    {
+      "path": "images/img-cdf6faadb808.webp",
+      "bytes": 226930,
+      "sha256": "159cc2bd5d3eb231c0dfd01cc885ac6dbda0429b8ba75d74cb1f887ee5a352d8"
+    },
+    {
+      "path": "images/img-ed62b2824b7c.webp",
+      "bytes": 92792,
+      "sha256": "08f088f91354700e62387e4dd06d2b3513756827242c889b0641599ff1f80eb1"
+    },
+    {
+      "path": "images/img-edd0ef2845ae.webp",
+      "bytes": 173668,
+      "sha256": "2d995f78faf0cf3427756489ea4c122c393f3bb6a23a9c691b36228caa0aba8f"
+    },
+    {
+      "path": "images/img-f174d94b17ac.webp",
+      "bytes": 229852,
+      "sha256": "14b1b534b6a5ba1636c8891d89777c4cfed89e8872edb3a89f31d7080b5b60e7"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 26556,
+      "sha256": "6079589d10aba3019a10edd346b2d30e330c02049baad3962524bbee87e27fc3"
+    },
+    {
+      "path": "source.html",
+      "bytes": 485347,
+      "sha256": "dabb96ad2328fe328a3da427d667c3b64a93814e0c28e92070c281bd653a68a4"
+    },
+    {
+      "path": "source.url",
+      "bytes": 104,
+      "sha256": "adb190148c983f8f93afd1d8afc2f3ab13cf3126c105cb9ce64ba2d4613c6b39"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/2200xxs.jpg",
+      "path": "images/img-072f94879724.webp",
+      "media_type": "image/webp",
+      "bytes": 671156,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/2200xxs.jpg",
+      "path": "images/img-bcea89336c75.webp",
+      "media_type": "image/webp",
+      "bytes": 667430,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/2200xxs.jpg",
+      "path": "images/img-36e4db0bf791.webp",
+      "media_type": "image/webp",
+      "bytes": 430866,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/2200xxs.jpg",
+      "path": "images/img-cdf6faadb808.webp",
+      "media_type": "image/webp",
+      "bytes": 226930,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/2200xxs.jpg",
+      "path": "images/img-5e48bd0736ab.webp",
+      "media_type": "image/webp",
+      "bytes": 158596,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/aee16a45-4218-4a64-a5fa-b54c75e667ce/je/2000xxs.jpg",
+      "path": "images/img-5cbe077b5d42.webp",
+      "media_type": "image/webp",
+      "bytes": 183652,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/50acd268-ff69-4f78-9d30-bb26ff79f226/je/2000xxs.jpg",
+      "path": "images/img-4d8f12b12d5f.webp",
+      "media_type": "image/webp",
+      "bytes": 234420,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3bfe7655-5f95-4e75-a9a2-50b2307865d7/je/2000xxs.jpg",
+      "path": "images/img-7742078c7dff.webp",
+      "media_type": "image/webp",
+      "bytes": 208124,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/c0757053-c968-4041-a48b-b0f1bafaef45/je/2000xxs.jpg",
+      "path": "images/img-edd0ef2845ae.webp",
+      "media_type": "image/webp",
+      "bytes": 173668,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3e5d188a-fd92-43bc-b761-66f63e2f092b/je/2000xxs.jpg",
+      "path": "images/img-712bdef12f47.webp",
+      "media_type": "image/webp",
+      "bytes": 222496,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/d86d5603-cb32-4448-93b6-505b7cd69a76/je/2000xxs.jpg",
+      "path": "images/img-8bc047a24521.webp",
+      "media_type": "image/webp",
+      "bytes": 282222,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6d449a1a-d55e-44d4-bed6-61d0e979d47f/je/2000xxs.jpg",
+      "path": "images/img-8fcca90eaddb.webp",
+      "media_type": "image/webp",
+      "bytes": 185556,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/32d10c15-4b56-4a87-a8c9-f28c9f3b5194/je/2000xxs.jpg",
+      "path": "images/img-50af0f8a3420.webp",
+      "media_type": "image/webp",
+      "bytes": 255352,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/7e931476-0757-4dd2-8c8e-5c5d731377df/je/2000xxs.jpg",
+      "path": "images/img-2c42860e006f.webp",
+      "media_type": "image/webp",
+      "bytes": 206050,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/3d7b815a-9cad-4bce-9bc5-d08d4f0d092e/je/2000xxs.jpg",
+      "path": "images/img-7d26d55c155c.webp",
+      "media_type": "image/webp",
+      "bytes": 140148,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/971955cf-7e43-49f1-a1f8-5a2dc1b36ee9/je/2000xxs.jpg",
+      "path": "images/img-ed62b2824b7c.webp",
+      "media_type": "image/webp",
+      "bytes": 92792,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/de86a617-93e5-40e6-9e4a-006d4389e170/je/2000xxs.jpg",
+      "path": "images/img-44dee6afcdd1.webp",
+      "media_type": "image/webp",
+      "bytes": 173250,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/46dd8d4e-1165-4ad4-874d-b13be667eb0e/je/2000xxs.jpg",
+      "path": "images/img-3e5c8afbad6e.webp",
+      "media_type": "image/webp",
+      "bytes": 188934,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/b5599ba0-d59a-4f5b-af62-d1bb2a397362/je/2000xxs.jpg",
+      "path": "images/img-9b6f9112df9f.webp",
+      "media_type": "image/webp",
+      "bytes": 304594,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/979a723f-2caf-47fd-b5e8-5bdb17f5ebb2/je/2000xxs.jpg",
+      "path": "images/img-3d2577ff5b6d.webp",
+      "media_type": "image/webp",
+      "bytes": 218618,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/c00692f9-d68a-42b9-841d-653894db2a61/je/2000xxs.jpg",
+      "path": "images/img-bb6679853588.webp",
+      "media_type": "image/webp",
+      "bytes": 165518,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/fa7bf4bc-f224-4f5d-9eb2-56c04205c37e/je/2000xxs.jpg",
+      "path": "images/img-61ef6560995d.webp",
+      "media_type": "image/webp",
+      "bytes": 77774,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/95036b2d-f58e-4a0b-b112-1b03de59efb1/je/2000xxs.jpg",
+      "path": "images/img-8924e072d9b5.webp",
+      "media_type": "image/webp",
+      "bytes": 199894,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/5b163a30-a131-499d-9400-a084df23ec30/je/2000xxs.jpg",
+      "path": "images/img-4864418e8bc7.webp",
+      "media_type": "image/webp",
+      "bytes": 172098,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/cb8270d0-f412-420e-9cf8-aaa55b45f021/je/2000xxs.jpg",
+      "path": "images/img-0615e79edbde.webp",
+      "media_type": "image/webp",
+      "bytes": 81056,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ff5cdb0a-be3a-4a0d-ae61-cbbcbb4cb63b/je/2000xxs.jpg",
+      "path": "images/img-671ed03f51a8.webp",
+      "media_type": "image/webp",
+      "bytes": 114086,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/5ed5bf2b-9da9-4911-ac37-b25faecd8fc2/je/2000xxs.jpg",
+      "path": "images/img-f174d94b17ac.webp",
+      "media_type": "image/webp",
+      "bytes": 229852,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/4d0f7584-0183-49cf-87f4-87f6aa6567a4/je/2000xxs.jpg",
+      "path": "images/img-28eed71f9291.webp",
+      "media_type": "image/webp",
+      "bytes": 229198,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/55dc0d75-08e7-457e-974d-5e1e6f21022d/je/2000xxs.jpg",
+      "path": "images/img-cbca9135c813.webp",
+      "media_type": "image/webp",
+      "bytes": 76580,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/187c9d6a-45f9-40f9-8e76-5f7dd1ea1b65/je/2000xxs.jpg",
+      "path": "images/img-1c65a5fc2ddc.webp",
+      "media_type": "image/webp",
+      "bytes": 61502,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/607be72e-8fe8-4fd7-b056-2ea0f2b395b4/je/2000xxs.jpg",
+      "path": "images/img-7e73ec13238a.webp",
+      "media_type": "image/webp",
+      "bytes": 169452,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c3ec5e71-b9a7-4cfe-9e10-4ad8fc7b7dd7/je/2000xxs.jpg",
+      "path": "images/img-9e45794d2984.webp",
+      "media_type": "image/webp",
+      "bytes": 400662,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/63d63d0c-975b-408d-9bb2-3fb29d439b22/je/2000xxs.jpg",
+      "path": "images/img-c62c1a13ac7a.webp",
+      "media_type": "image/webp",
+      "bytes": 275150,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/249dc59c-7112-4979-8227-6e27205e7e40/je/2000xxs.jpg",
+      "path": "images/img-674cb38217f9.webp",
+      "media_type": "image/webp",
+      "bytes": 405584,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11a52e4e-5a1c-46f7-b0ae-28ffda9e80cb/je/2000xxs.jpg",
+      "path": "images/img-57334b9173cf.webp",
+      "media_type": "image/webp",
+      "bytes": 467530,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/cbba9033-d4f8-46cc-83d0-abbc9ca06205/je/2000xxs.jpg",
+      "path": "images/img-c9dae74ce0c6.webp",
+      "media_type": "image/webp",
+      "bytes": 521350,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/49064e51-b298-4981-aca4-ec20af2e870d/je/2000xxs.jpg",
+      "path": "images/img-1c3112066ceb.webp",
+      "media_type": "image/webp",
+      "bytes": 675468,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/26c57eff-12fd-4107-8ef8-353da046a2e4/je/2000xxs.jpg",
+      "path": "images/img-8c67bd26444d.webp",
+      "media_type": "image/webp",
+      "bytes": 763176,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/24f92503-d14a-419d-9e6d-9b4829bbec57/je/2000xxs.jpg",
+      "path": "images/img-bb3ea980dda3.webp",
+      "media_type": "image/webp",
+      "bytes": 615118,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ad234065-05e7-4330-bc66-b1018a6d8402/je/2000xxs.jpg",
+      "path": "images/img-9442716414a9.webp",
+      "media_type": "image/webp",
+      "bytes": 678864,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2835%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2836%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2837%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 44,
+    "images_existing": 0,
+    "images_failed": 11,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/loule-portugal/exceptional-newly-built-luxury-villa-with-breathtaking-views-of-the-lake-ocean-and-golf-course-16969685",
+    "canonical_url": "https://www.jamesedition.com/real_estate/loule-portugal/exceptional-newly-built-luxury-villa-with-breathtaking-views-of-the-lake-ocean-and-golf-course-16969685",
+    "site": "jamesedition",
+    "listing_id": "16969685",
+    "listing_reference": "AR-51",
+    "first_listed": "Jan 21",
+    "last_updated": "January 22",
+    "retrieved_at": "2026-08-28T00:28:21.970855Z"
+  },
+  "location": {
+    "address": "Quinta do Lago, Algarve, Almancil, Portugal",
+    "street": "Exceptional Newly Built Luxury Villa With Breathtaking Views Of The Lake",
+    "municipality": "Quinta do Lago",
+    "region": "Almancil",
+    "country": "Portugal",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=37.0577544,-8.0231563",
+    "latitude": 37.0577544,
+    "longitude": -8.0231563
+  },
+  "property": {
+    "title": "Exceptional Newly Built Luxury Villa With Breathtaking Views Of The Lake, Ocean, And Golf Course",
+    "type": "Villa",
+    "availability": "InStock",
+    "price": {
+      "amount": 25042344.33,
+      "currency": "USD",
+      "display": "$25,042,344"
+    },
+    "price_per_area": {
+      "amount": 2292,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$2,292"
+    },
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "interior_area": {
+      "value": 10926,
+      "unit": "sqft",
+      "display": "10,926 Sqft"
+    },
+    "lot_area": {
+      "value": 31108,
+      "unit": "sqft",
+      "display": "31,108 Sqft lot"
+    },
+    "year_built": 2025,
+    "photo_count": 39,
+    "video_url": "https://www.youtube.com/embed/vk91NwDmwaI?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=vk91NwDmwaI\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "This exceptional six-bedroom villa, awarded by the European Property Awards in the category of Single Residence for Portugal, is the creation of  architect Maider Neto and redefines modern luxury in Quinta do Lago. A masterpiece of design, the residence blends sophistication, comfort, and practicality in a way that is unparalleled.Set in the highly sought-after and secure resort of Quinta do Lago, the villa enjoys commanding views over the golf course, lake, and sea, and lies within walking distance of the celebrated Ria Formosa Nature Reserve. Its south-facing orientation ensures abundant natural light and uninterrupted panoramic views throughout the day, heightening the sense of serene and luxurious living.The entrance makes a striking first impression, framed by a living wall and tranquil water feature leading to a grand main door. Inside, the carved staircase and lift connect all four levels of the residence. The open-plan living area is a showcase of modern elegance, with double-height ceilings and a statement staircase that separates the grand hall from the refined sitting room.The villa offers six bespoke bedroom suites, each with private en-suite bathrooms. The master suite stands out for its exclusivity, featuring two luxurious bathrooms, a private terrace with sweeping views, a dressing area, and a dedicated laundry room for convenience.At the heart of the home lies the spacious Loxley kitchen, fitted with premium appliances including a Bora induction hob and Siemens and Liebherr products. Adjoining the kitchen, the dining area and cosy sitting room with feature fireplace create the perfect setting for family living and elegant entertaining.The rooftop terrace is a showpiece in itself, offering breathtaking views of the ocean, lake, and golf course. A heated 17sqm pool makes it an ideal retreat for relaxation or social gatherings against the spectacular backdrop.The basement level enhances the villa’s lifestyle credentials, with a private office, state-of-the-art cinema room, gym, large sauna, and space for a golf simulator. The layout also allows for the creation of a self-contained maid’s apartment, offering complete independence and privacy.Every detail has been meticulously considered. The villa is equipped with advanced home technology including a fully integrated sound system, motorised curtains, underfloor heating, and centralised automation. Eco-conscious features, such as a borehole and solar panels for water heating, further enrich the property’s appeal.Positioned in one of the Algarve’s most prestigious enclaves, Quinta do Lago offers world-class golf, pristine beaches, fine dining, and an array of leisure opportunities. This award-winning residence embodies the pinnacle of luxury living in Portugal, combining architectural brilliance, exclusivity, and natural beauty.The Buying Process in Portugal‍A Clear Path to Property OwnershipAt Alina Reis Bespoke Luxury \u0026amp; Advisory, we offer personalised guidance throughout every stage of your purchase, ensuring peace of mind from start to finish. Here is how the process typically unfolds:Step 1: Appoint Legal RepresentationBegin by selecting a reputable Portuguese lawyer. They will carry out all due diligence, confirm the legal status of the property, and handle the transaction on your behalf if needed.Step 2: Obtain a Portuguese Tax Number (NIF)This number is required to purchase property in Portugal. Your lawyer can secure it on your behalf with a simple copy of your passport and proof of address.Step 3: Open a Local Bank AccountTo complete the purchase and manage future running costs, a Portuguese bank account is necessary. We are happy to introduce you to trusted banking contacts who can assist.Step 4: Sign the Promissory Contract (CPCV)Once due diligence is complete, both parties sign a promissory contract which sets out the terms of sale. A deposit of 10 to 30 percent is usually paid at this stage.Step 5: Sign the Final Deed (Escritura)The transaction concludes with the signing of the final deed in front of a notary. At this point, the remaining balance is paid and the property is officially registered in your name.When Buying Through a CompanyIf the property is held by a corporate structure, either offshore or onshore, the transaction may involve the transfer of company shares instead of a traditional property sale. This process must be carefully evaluated by your lawyer and financial advisor. While it can offer tax and inheritance advantages, it also requires specific legal and fiscal due diligence. We work closely with your advisors to ensure full transparency and security.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Bar",
+      "Basement",
+      "Cinema",
+      "Elevator",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garden",
+      "High Ceiling",
+      "Jacuzzi",
+      "Kitchen island",
+      "Laundry Room",
+      "Oceanfront",
+      "Office",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Pergola",
+      "Pool",
+      "Privacy",
+      "Sauna",
+      "Stone Countertops",
+      "Terrace",
+      "Water View",
+      "Waterfront",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Alina Reis",
+    "agent_profile_url": "https://www.jamesedition.com/agents/alina-reis-1626954",
+    "agency": "Alina Reis - Luxury Property Advisory",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/alina-reis-luxury-property-advisory-312386",
+    "agency_address": "Rua Cristóvão Pires Norte, Edificio Figueiral Park 2, 1G, Almancil, 8135-117, Almancil, Portugal"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/2200xxs.jpg",
+      "file": "img-682deaf612ea.webp",
+      "media_type": "image/webp",
+      "bytes": 451870,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/65c48150-280b-4bd8-b81a-9fd2955d2a2a/je/2200xxs.jpg",
+      "file": "img-6ecc4669b58d.webp",
+      "media_type": "image/webp",
+      "bytes": 221218,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/88dcfa7c-f50f-4d80-bcb4-d79e303160a9/je/2200xxs.jpg",
+      "file": "img-98e2be2ec45a.webp",
+      "media_type": "image/webp",
+      "bytes": 130108,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/51d4a7ac-0da2-4a09-b499-8faaa0e03ab5/je/2200xxs.jpg",
+      "file": "img-372b4e1a3b81.webp",
+      "media_type": "image/webp",
+      "bytes": 58282,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/ccd57d33-3573-4127-b8a7-8968c38e6aa6/je/2200xxs.jpg",
+      "file": "img-7451edec38f4.webp",
+      "media_type": "image/webp",
+      "bytes": 216352,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/1f479e8d-89c7-44b7-aad9-97a686ecd03f/je/2000xxs.jpg",
+      "file": "img-fe3c90bf2371.webp",
+      "media_type": "image/webp",
+      "bytes": 265500,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/d10ca15c-f295-4fe3-b6b9-fbb931679109/je/2000xxs.jpg",
+      "file": "img-a20d2018084c.webp",
+      "media_type": "image/webp",
+      "bytes": 82226,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/a892bbdf-e388-4287-a348-d42d0f676c7d/je/2000xxs.jpg",
+      "file": "img-571f6c56f1c1.webp",
+      "media_type": "image/webp",
+      "bytes": 42896,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/191aa7df-8bd6-4d01-8323-03e82291f543/je/2000xxs.jpg",
+      "file": "img-46587c8068d9.webp",
+      "media_type": "image/webp",
+      "bytes": 168606,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/2a0c6739-7308-432b-a577-cbb4896c0080/je/2000xxs.jpg",
+      "file": "img-c1ea5decc1b6.webp",
+      "media_type": "image/webp",
+      "bytes": 65406,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/03b11fec-027e-4657-92d8-58f859ee30c5/je/2000xxs.jpg",
+      "file": "img-6d04c2962470.webp",
+      "media_type": "image/webp",
+      "bytes": 68198,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/45c4d3a2-6bcf-49b4-a50f-906c3b14ff10/je/2000xxs.jpg",
+      "file": "img-575355f38e83.webp",
+      "media_type": "image/webp",
+      "bytes": 170764,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/cf2aebb5-e7e1-4a75-9dab-033328036924/je/2000xxs.jpg",
+      "file": "img-93e41d76bbee.webp",
+      "media_type": "image/webp",
+      "bytes": 276100,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b38e7efe-3960-4f14-ad55-e97c81b58722/je/2000xxs.jpg",
+      "file": "img-9e31f8109d9e.webp",
+      "media_type": "image/webp",
+      "bytes": 196800,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/8d05f7ab-2a0b-41d6-82bf-dbbd6ebbe1c0/je/2000xxs.jpg",
+      "file": "img-5edf5ef2002f.webp",
+      "media_type": "image/webp",
+      "bytes": 63606,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/4cac5193-76a9-4f5f-9044-54d0ebedf10a/je/2000xxs.jpg",
+      "file": "img-2b820bf405ed.webp",
+      "media_type": "image/webp",
+      "bytes": 76974,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/8098a35a-2552-46d9-b8c0-be54feecaf37/je/2000xxs.jpg",
+      "file": "img-3f06d05dc5f3.webp",
+      "media_type": "image/webp",
+      "bytes": 330290,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/193f80ef-d29e-42be-89c2-b2f45557747e/je/2000xxs.jpg",
+      "file": "img-3eddab5d0cd8.webp",
+      "media_type": "image/webp",
+      "bytes": 145222,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/1efe644b-8e3d-4f0d-a859-106de02785ff/je/2000xxs.jpg",
+      "file": "img-d1fe05eb2aac.webp",
+      "media_type": "image/webp",
+      "bytes": 229760,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/cafbbac5-a49b-4dc5-b9db-6007bddcb39b/je/2000xxs.jpg",
+      "file": "img-a726cc4a405b.webp",
+      "media_type": "image/webp",
+      "bytes": 61076,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/2389a925-e2e0-4adf-9774-6e0952ba339a/je/2000xxs.jpg",
+      "file": "img-20ed082f5855.webp",
+      "media_type": "image/webp",
+      "bytes": 132490,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/a031798a-0057-4202-92b4-473c8614e860/je/2000xxs.jpg",
+      "file": "img-c717a64e7694.webp",
+      "media_type": "image/webp",
+      "bytes": 64092,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/ba94c767-4e8e-4b6c-be23-df3d3fdfebeb/je/2000xxs.jpg",
+      "file": "img-e102b47ef3be.webp",
+      "media_type": "image/webp",
+      "bytes": 82338,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/df65ca24-6a25-4448-a1ab-43ea95f79aba/je/2000xxs.jpg",
+      "file": "img-8d701df0b434.webp",
+      "media_type": "image/webp",
+      "bytes": 35156,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/048fb5d2-6dbc-4af3-9cd7-12a4065c051a/je/2000xxs.jpg",
+      "file": "img-234331c08ca5.webp",
+      "media_type": "image/webp",
+      "bytes": 80608,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/53f96e0d-078e-45be-9f36-4f864c66d199/je/2000xxs.jpg",
+      "file": "img-7b3d888f1417.webp",
+      "media_type": "image/webp",
+      "bytes": 76158,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/42fddb11-7148-4e85-b6a7-65c289970607/je/2000xxs.jpg",
+      "file": "img-491fb0374402.webp",
+      "media_type": "image/webp",
+      "bytes": 81142,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/e947557e-cbd7-4896-b176-0348ad9363d7/je/2000xxs.jpg",
+      "file": "img-745f46d4ee89.webp",
+      "media_type": "image/webp",
+      "bytes": 89074,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/312a066d-3ce6-4579-a8c1-e2d3a18d15d6/je/2000xxs.jpg",
+      "file": "img-268917e0a3e3.webp",
+      "media_type": "image/webp",
+      "bytes": 155580,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/adea9ff7-5ad3-4817-9fba-66c7fe8dfe41/je/2000xxs.jpg",
+      "file": "img-c65b718149f9.webp",
+      "media_type": "image/webp",
+      "bytes": 74466,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/c9d28e33-ae65-4516-8f02-74306502a0b7/je/2000xxs.jpg",
+      "file": "img-82e7baab5987.webp",
+      "media_type": "image/webp",
+      "bytes": 84892,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/3780ebf7-6d7c-41a6-827d-4096c7ce6a7f/je/2000xxs.jpg",
+      "file": "img-49b6e83f66c6.webp",
+      "media_type": "image/webp",
+      "bytes": 145544,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/55dbdbb7-f0ad-4168-9a98-215640bd12ca/je/2000xxs.jpg",
+      "file": "img-00fd67a97bee.webp",
+      "media_type": "image/webp",
+      "bytes": 155984,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/2b19d32a-1c17-4841-87a2-bd0bdc81a851/je/2000xxs.jpg",
+      "file": "img-2f703e43a819.webp",
+      "media_type": "image/webp",
+      "bytes": 391470,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/d9854038-c8c9-466d-87d4-10dbedeb8326/je/2000xxs.jpg",
+      "file": "img-29f9fc473b6b.webp",
+      "media_type": "image/webp",
+      "bytes": 413026,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b93c658a-ad7d-4db7-8eb1-ae4149e12b1e/je/2000xxs.jpg",
+      "file": "img-e14e13b97e8a.webp",
+      "media_type": "image/webp",
+      "bytes": 333934,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2824%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2825%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2826%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/08/01/11/41/37/ce471f5d-9364-446c-aaf9-cadd0faf349e/je/80x80xc.jpg",
+      "file": "img-af41571d6e85.webp",
+      "media_type": "image/webp",
+      "bytes": 1690,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/portugal",
+              "name": "Portugal"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/algarve-portugal",
+              "name": "Algarve"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/loule-portugal",
+              "name": "Loule"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/almancil-portugal",
+              "name": "Almancil"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/quinta-do-lago-portugal",
+              "name": "Quinta do Lago"
+            },
+            "position": 7
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/loule-portugal/exceptional-newly-built-luxury-villa-with-breathtaking-views-of-the-lake-ocean-and-golf-course-16969685",
+              "name": "Exceptional Newly Built Luxury Villa with Breathtaking Views of the Lake, Ocean, and Golf Course"
+            },
+            "position": 8
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "This exceptional six-bedroom villa, awarded by the European Property Awards in the category of Single Residence for Portugal, is the creation of  architect Maider Neto and redefines modern luxury in Quinta do Lago. A masterpiece of design, the residence blends sophistication, comfort, and practicality in a way that is unparalleled.Set in the highly sought-after and secure resort of Quinta do Lago, the villa enjoys commanding views over the golf course, lake, and sea, and lies within walking distance of the celebrated Ria Formosa Nature Reserve. Its south-facing orientation ensures abundant natural light and uninterrupted panoramic views throughout the day, heightening the sense of serene and luxurious living.The entrance makes a striking first impression, framed by a living wall and tranquil water feature leading to a grand main door. Inside, the carved staircase and lift connect all four levels of the residence. The open-plan living area is a showcase of modern elegance, with double-height ceilings and a statement staircase that separates the grand hall from the refined sitting room.The villa offers six bespoke bedroom suites, each with private en-suite bathrooms. The master suite stands out for its exclusivity, featuring two luxurious bathrooms, a private terrace with sweeping views, a dressing area, and a dedicated laundry room for convenience.At the heart of the home lies the spacious Loxley kitchen, fitted with premium appliances including a Bora induction hob and Siemens and Liebherr products. Adjoining the kitchen, the dining area and cosy sitting room with feature fireplace create the perfect setting for family living and elegant entertaining.The rooftop terrace is a showpiece in itself, offering breathtaking views of the ocean, lake, and golf course. A heated 17sqm pool makes it an ideal retreat for relaxation or social gatherings against the spectacular backdrop.The basement level enhances the villa’s lifestyle credentials, with a private office, state-of-the-art cinema room, gym, large sauna, and space for a golf simulator. The layout also allows for the creation of a self-contained maid’s apartment, offering complete independence and privacy.Every detail has been meticulously considered. The villa is equipped with advanced home technology including a fully integrated sound system, motorised curtains, underfloor heating, and centralised automation. Eco-conscious features, such as a borehole and solar panels for water heating, further enrich the property’s appeal.Positioned in one of the Algarve’s most prestigious enclaves, Quinta do Lago offers world-class golf, pristine beaches, fine dining, and an array of leisure opportunities. This award-winning residence embodies the pinnacle of luxury living in Portugal, combining architectural brilliance, exclusivity, and natural beauty.The Buying Process in Portugal‍A Clear Path to Property OwnershipAt Alina Reis Bespoke Luxury \u0026amp; Advisory, we offer personalised guidance throughout every stage of your purchase, ensuring peace of mind from start to finish. Here is how the process typically unfolds:Step 1: Appoint Legal RepresentationBegin by selecting a reputable Portuguese lawyer. They will carry out all due diligence, confirm the legal status of the property, and handle the transaction on your behalf if needed.Step 2: Obtain a Portuguese Tax Number (NIF)This number is required to purchase property in Portugal. Your lawyer can secure it on your behalf with a simple copy of your passport and proof of address.Step 3: Open a Local Bank AccountTo complete the purchase and manage future running costs, a Portuguese bank account is necessary. We are happy to introduce you to trusted banking contacts who can assist.Step 4: Sign the Promissory Contract (CPCV)Once due diligence is complete, both parties sign a promissory contract which sets out the terms of sale. A deposit of 10 to 30 percent is usually paid at this stage.Step 5: Sign the Final Deed (Escritura)The transaction concludes with the signing of the final deed in front of a notary. At this point, the remaining balance is paid and the property is officially registered in your name.When Buying Through a CompanyIf the property is held by a corporate structure, either offshore or onshore, the transaction may involve the transfer of company shares instead of a traditional property sale. This process must be carefully evaluated by your lawyer and financial advisor. While it can offer tax and inheritance advantages, it also requires specific legal and fiscal due diligence. We work closely with your advisors to ensure full transparency and security.",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/1040x620xc.jpg",
+        "name": "Exceptional Newly Built Luxury Villa with Breathtaking Views of the Lake, Ocean, and Golf Course",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 25042344.33,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alina Reis - Luxury Property Advisory"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/loule-portugal/exceptional-newly-built-luxury-villa-with-breathtaking-views-of-the-lake-ocean-and-golf-course-16969685"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/380xxsxm.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%285%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2824%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2825%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2826%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+}

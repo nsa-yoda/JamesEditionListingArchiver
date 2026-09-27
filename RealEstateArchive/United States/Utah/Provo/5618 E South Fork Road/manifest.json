@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/provo-ut-usa/one-of-the-greatest-estates-in-utah-16540065",
+    "canonical_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/one-of-the-greatest-estates-in-utah-16540065",
+    "site": "jamesedition",
+    "listing_id": "16540065",
+    "listing_reference": "LB7VME",
+    "first_listed": "Oct 30, 2025",
+    "last_updated": "December 4, 2025",
+    "retrieved_at": "2026-06-16T03:43:32.946098Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3087,
+      "sha256": "9f0658c454d79e401372c824ef5a35b25bbd259e8172ecc891b5978ca86935df"
+    },
+    {
+      "path": "images/004-4d92e111.webp",
+      "bytes": 368298,
+      "sha256": "9f5cd75a2a648b2a736b84540a3ef3e52ca90bcda921e831bcd4959de91caf32"
+    },
+    {
+      "path": "images/009-c297ea15.webp",
+      "bytes": 553660,
+      "sha256": "ba12d53b875dcd4e446b53097c11b86180ba6f4d4ea4fddb9c127fb8940af354"
+    },
+    {
+      "path": "images/014-c9ab8a20.webp",
+      "bytes": 343616,
+      "sha256": "50e9e701992c15e39c4dfbc3b43783281923dd3897004b00a07ca4663ec8a4da"
+    },
+    {
+      "path": "images/019-2f1223f2.webp",
+      "bytes": 359866,
+      "sha256": "a5739691fad296d96e09a15ceeef5159090304b7d299c7258f088b81cbf0f696"
+    },
+    {
+      "path": "images/024-9930d51f.webp",
+      "bytes": 317904,
+      "sha256": "566bfd625c64bfcd47b8762cc53cc71e44a417b8d47d9016a393c0b03499c2dd"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17169,
+      "sha256": "87ed43a2b1bd00f09164709dd298d676396ea540a91c13cd0016bd55bf23a58d"
+    },
+    {
+      "path": "source.html",
+      "bytes": 361192,
+      "sha256": "8915c5e32cd7b6294fa54bbb947c36333195f0b13391c1185b19837c13b3a326"
+    },
+    {
+      "path": "source.url",
+      "bytes": 99,
+      "sha256": "699967980da398f517d8b6861312c57962b358d249a5ed391f80058b61ff9160"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/30/11/51/24/fe76cad8-b4c7-4f45-822e-1ab93dbc6ee3/je/2200xxs.jpg",
+      "path": "images/004-4d92e111.webp",
+      "media_type": "image/webp",
+      "bytes": 368298,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/One%20Of%20The%20Greatest%20Estates%20In%20Utah%20In%20Provo,%20Utah,%20United%20States%20For%20Sale%20%2816540065%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/30/11/51/24/623bf127-b666-4688-97ba-9d3eac2ad364/je/2200xxs.jpg",
+      "path": "images/009-c297ea15.webp",
+      "media_type": "image/webp",
+      "bytes": 553660,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/One%20Of%20The%20Greatest%20Estates%20In%20Utah%20In%20Provo,%20Utah,%20United%20States%20For%20Sale%20%2816540065%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/30/11/51/24/c102b044-f68e-4b06-b47d-318c5f4163c7/je/2200xxs.jpg",
+      "path": "images/014-c9ab8a20.webp",
+      "media_type": "image/webp",
+      "bytes": 343616,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/One%20Of%20The%20Greatest%20Estates%20In%20Utah%20In%20Provo,%20Utah,%20United%20States%20For%20Sale%20%2816540065%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/30/11/51/24/89df0101-be95-437f-8a68-93d7833443ae/je/2200xxs.jpg",
+      "path": "images/019-2f1223f2.webp",
+      "media_type": "image/webp",
+      "bytes": 359866,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/One%20Of%20The%20Greatest%20Estates%20In%20Utah%20In%20Provo,%20Utah,%20United%20States%20For%20Sale%20%2816540065%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/30/11/51/24/c1791462-39d9-4a6a-9722-9c6d34a36da2/je/2200xxs.jpg",
+      "path": "images/024-9930d51f.webp",
+      "media_type": "image/webp",
+      "bytes": 317904,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/One%20Of%20The%20Greatest%20Estates%20In%20Utah%20In%20Provo,%20Utah,%20United%20States%20For%20Sale%20%2816540065%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/One%20Of%20The%20Greatest%20Estates%20In%20Utah%20In%20Provo,%20Utah,%20United%20States%20For%20Sale%20%2816540065%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/One%20Of%20The%20Greatest%20Estates%20In%20Utah%20In%20Provo,%20Utah,%20United%20States%20For%20Sale%20%2816540065%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/provo-ut-usa/One%20Of%20The%20Greatest%20Estates%20In%20Utah%20In%20Provo,%20Utah,%20United%20States%20For%20Sale%20%2816540065%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

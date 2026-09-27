@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/single-family-residence-in-warwick-16978139",
+    "canonical_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/single-family-residence-in-warwick-16978139",
+    "site": "jamesedition",
+    "listing_id": "16978139",
+    "listing_reference": "H6171317",
+    "first_listed": "Jan 22",
+    "last_updated": "March 30",
+    "retrieved_at": "2026-06-16T03:43:37.580023Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1533,
+      "sha256": "43e9e7af0edb0683526b835208454a99518b0344c92b1bd1886a4f8d25f2a664"
+    },
+    {
+      "path": "images/004-1dde50f1.webp",
+      "bytes": 87850,
+      "sha256": "d019ab935aa069c5913e8f49f44535cff84cf213fa8879b3a0507b6cb33e06e4"
+    },
+    {
+      "path": "images/009-0feab57c.webp",
+      "bytes": 116158,
+      "sha256": "6afbee0540256ab0f625a8f27a67f271df434d4b7050b98ce7772f48b7fd8b3a"
+    },
+    {
+      "path": "images/014-038cfc9e.webp",
+      "bytes": 93670,
+      "sha256": "826fbccf01b9a1f27b1f8b2996b0e57bee3ff352a1fe779e22207603a49a8b53"
+    },
+    {
+      "path": "images/019-dba8b5b9.webp",
+      "bytes": 194732,
+      "sha256": "f977fc4f70130e1b0054a3c8b72be19e18be7fdffb6557bcdda2aa60e9c2e3fb"
+    },
+    {
+      "path": "images/024-63522e4e.webp",
+      "bytes": 256350,
+      "sha256": "ecd301e27c4032f8631402c37b86fa309d32ed07edf4392fc7ba7d62acd4e1d8"
+    },
+    {
+      "path": "images/031-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/032-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/033-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/034-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 14968,
+      "sha256": "edf9b6cfd90775f615421d1b8d9acfd6cd360e87b5265413749691fe5dfd7e47"
+    },
+    {
+      "path": "source.html",
+      "bytes": 322825,
+      "sha256": "342df323c106aead582db343ebe99691a7ad2afdd692ecfb660d52b4dc992caa"
+    },
+    {
+      "path": "source.url",
+      "bytes": 100,
+      "sha256": "4021769a5c0fe38937bb886f6fcaff823d35de1dc31d43688e4560981db68728"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/2200xxs.jpg",
+      "path": "images/004-1dde50f1.webp",
+      "media_type": "image/webp",
+      "bytes": 87850,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/13fd1766-54d6-4119-98dd-84579c581aa8/je/2200xxs.jpg",
+      "path": "images/009-0feab57c.webp",
+      "media_type": "image/webp",
+      "bytes": 116158,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e97864b6-a04e-49ee-9400-db03b15f1cbf/je/2200xxs.jpg",
+      "path": "images/014-038cfc9e.webp",
+      "media_type": "image/webp",
+      "bytes": 93670,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/d43aee01-c44d-4eff-bffe-26e89ecd8315/je/2200xxs.jpg",
+      "path": "images/019-dba8b5b9.webp",
+      "media_type": "image/webp",
+      "bytes": 194732,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/79f50051-c901-42bc-aedc-d70ba874a556/je/2200xxs.jpg",
+      "path": "images/024-63522e4e.webp",
+      "media_type": "image/webp",
+      "bytes": 256350,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

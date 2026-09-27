@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "path": "Japan/Hyogo/Himeji/Shirahama",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 15086
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 7674
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 2166
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 264578
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 88
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/shirahama-japan/shirahama-guest-house-14651996",
+    "canonical_url": "https://www.jamesedition.com/real_estate/shirahama-japan/shirahama-guest-house-14651996",
+    "site": "jamesedition",
+    "listing_id": "14651996",
+    "listing_reference": "Z3D6SR",
+    "first_listed": "Aug 30, 2024",
+    "last_updated": "November 27, 2025",
+    "retrieved_at": "2026-06-16T03:43:35.730912Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2166,
+      "sha256": "fa8d5fc2560aa4dd0f92cd7f84b26bc0c492da29946e418e02b7a3270bcd9821"
+    },
+    {
+      "path": "images/004-b33f3103.webp",
+      "bytes": 179966,
+      "sha256": "7d4c941919d1ebff16c8fb8efe10213f4a698b42930dc7a3c94dc925d28a6b5e"
+    },
+    {
+      "path": "images/009-76f610bd.webp",
+      "bytes": 150146,
+      "sha256": "55537848de31161cd449cd28195d57446a800e1e0fb4051c092b7a61453018bd"
+    },
+    {
+      "path": "images/014-df44c297.webp",
+      "bytes": 172794,
+      "sha256": "455076ede138c73b84a441340b9e12c5f2bc2c2134ef52c8f6d1d1f430eb1cba"
+    },
+    {
+      "path": "images/019-a169e4d2.webp",
+      "bytes": 148870,
+      "sha256": "a91a82e90af59ee04d1f091b1d385080f813e7910a3d316b3514a9e1e43ce594"
+    },
+    {
+      "path": "images/024-6b1fb11c.webp",
+      "bytes": 254398,
+      "sha256": "3a8e514a6b803c6f8ad1558d3a14bc0b8af7dfd0338373b7f74c38e632c52db2"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15086,
+      "sha256": "73a888c9bd57a43fb6514d033bfe65620594ac10c45508282c3586c9332020c4"
+    },
+    {
+      "path": "source.html",
+      "bytes": 264578,
+      "sha256": "2653ab8a1b8db7a219646109c51d4f2e8454e56e6c043f6a0dc106b8c01bbc9a"
+    },
+    {
+      "path": "source.url",
+      "bytes": 88,
+      "sha256": "ce64433019f27b5d7b76e01adb28bece13e8c0937adb8087b59ad3f4caa11e5e"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/29/14/09/36/e4aac3f6-87dd-4c5c-b149-b5c4b758a86b/je/2200xxs.jpg",
+      "path": "images/004-b33f3103.webp",
+      "media_type": "image/webp",
+      "bytes": 179966,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shirahama-japan/Shirahama%20Guest%20House%20In%20Himeji,%20Hyogo,%20Japan%20For%20Sale%20%2814651996%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/29/14/09/36/19df60a5-6cc3-43ea-aad2-5b6dfcea0287/je/2200xxs.jpg",
+      "path": "images/009-76f610bd.webp",
+      "media_type": "image/webp",
+      "bytes": 150146,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shirahama-japan/Shirahama%20Guest%20House%20In%20Himeji,%20Hyogo,%20Japan%20For%20Sale%20%2814651996%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/29/14/09/36/255632b0-eb54-4e79-b7c9-2bab0c9f3f4b/je/2200xxs.jpg",
+      "path": "images/014-df44c297.webp",
+      "media_type": "image/webp",
+      "bytes": 172794,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shirahama-japan/Shirahama%20Guest%20House%20In%20Himeji,%20Hyogo,%20Japan%20For%20Sale%20%2814651996%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/29/14/09/36/08e00b36-4ecd-4b91-bd95-a88480014d89/je/2200xxs.jpg",
+      "path": "images/019-a169e4d2.webp",
+      "media_type": "image/webp",
+      "bytes": 148870,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shirahama-japan/Shirahama%20Guest%20House%20In%20Himeji,%20Hyogo,%20Japan%20For%20Sale%20%2814651996%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/29/14/09/36/150dda1c-b784-4cc0-b124-8006a4357513/je/2200xxs.jpg",
+      "path": "images/024-6b1fb11c.webp",
+      "media_type": "image/webp",
+      "bytes": 254398,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shirahama-japan/Shirahama%20Guest%20House%20In%20Himeji,%20Hyogo,%20Japan%20For%20Sale%20%2814651996%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shirahama-japan/Shirahama%20Guest%20House%20In%20Himeji,%20Hyogo,%20Japan%20For%20Sale%20%2814651996%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shirahama-japan/Shirahama%20Guest%20House%20In%20Himeji,%20Hyogo,%20Japan%20For%20Sale%20%2814651996%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shirahama-japan/Shirahama%20Guest%20House%20In%20Himeji,%20Hyogo,%20Japan%20For%20Sale%20%2814651996%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

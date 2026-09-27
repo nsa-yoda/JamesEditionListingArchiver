@@ -1,0 +1,543 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/akatsutsumi-3-chome-residence-setagaya-18207923",
+    "canonical_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/akatsutsumi-3-chome-residence-setagaya-18207923",
+    "site": "jamesedition",
+    "listing_id": "18207923",
+    "listing_reference": "D2Y3RX",
+    "first_listed": "Jun 18",
+    "last_updated": "June 18",
+    "retrieved_at": "2026-08-28T00:28:08.135325Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2255,
+      "sha256": "26ef4e8c8deedd0ab647149334b02a0fd29bd45ff3d8e310ee1035e3fb2e3da0"
+    },
+    {
+      "path": "images/img-044fbc6d7865.webp",
+      "bytes": 252776,
+      "sha256": "b2583a4c8eeb8fddbd024f20d25db61e9d2ad8f8ebc0d3591c1bcbea8a554e66"
+    },
+    {
+      "path": "images/img-074d222e88ca.webp",
+      "bytes": 230836,
+      "sha256": "6d7c9a616a5d5eff503f33e9361c57a011da31598fbc54d899371a0c7e92549c"
+    },
+    {
+      "path": "images/img-0ad518e0360e.webp",
+      "bytes": 207030,
+      "sha256": "48031fd280dcee65a8107ec83fc043d96a4c372845a9669edbbc64fdfe59df60"
+    },
+    {
+      "path": "images/img-2619d30278b0.webp",
+      "bytes": 266124,
+      "sha256": "ff080de145dd807ee87be6e38496df851145654a9084a328c0971a678df8b770"
+    },
+    {
+      "path": "images/img-27f35e8084d0.webp",
+      "bytes": 234152,
+      "sha256": "0be41c342551bd348de69990ff2d70d7be1be140769ceae97dfc4a17132a7e62"
+    },
+    {
+      "path": "images/img-2cef7855cd16.webp",
+      "bytes": 303960,
+      "sha256": "60f7370dada1b7c403e164333a9567b350bbdaa9c45df6eb0a138f27eee8d719"
+    },
+    {
+      "path": "images/img-32b3685c3f03.webp",
+      "bytes": 238634,
+      "sha256": "d71436085226c595719f9adfcc75af3f70c0f5787b58c78c7566d6b198a5e194"
+    },
+    {
+      "path": "images/img-3323f32c621e.webp",
+      "bytes": 222158,
+      "sha256": "ef869edd2585546306eeff436c2f65ac68b5f3c5a6375ab61531e7a6180b50d4"
+    },
+    {
+      "path": "images/img-3356b8914a4e.webp",
+      "bytes": 232790,
+      "sha256": "dda6f152bc2e29b6ae0ede1ee0100ee896b4a86481fd851cbf16108429dcae89"
+    },
+    {
+      "path": "images/img-34bd0422e5ce.webp",
+      "bytes": 110278,
+      "sha256": "477441acd6d884e713ca7fcca5bb5d68e4aa0117fee4288d7004ce0b07379262"
+    },
+    {
+      "path": "images/img-45b1551230bf.webp",
+      "bytes": 238030,
+      "sha256": "d0ebdd0c7935bff705642c031ecd6b972a6fbaa58d50512dcbf693d105690f83"
+    },
+    {
+      "path": "images/img-540c4eb272d1.webp",
+      "bytes": 159380,
+      "sha256": "95ffff35a5456bb66c3e9e4f29739bb335a2d82c07fdb7b9dab4b3cb4bf4131e"
+    },
+    {
+      "path": "images/img-54f8a141582a.webp",
+      "bytes": 330666,
+      "sha256": "91f01dbe1c26bab27afd164aedc8037e2bd8f852972312b83c75d5c7ac3ec326"
+    },
+    {
+      "path": "images/img-55954bb86f88.webp",
+      "bytes": 249924,
+      "sha256": "fb4f37887fcded5d13e233a6a68b839e8585b198118339ad2007a3ecbfd1567f"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-62e231b50667.webp",
+      "bytes": 242746,
+      "sha256": "28b7868a1f9d68c207f5d97f7afb09acfe56a3eccf5a19003294475615e59b2f"
+    },
+    {
+      "path": "images/img-780f1c2a3012.webp",
+      "bytes": 293030,
+      "sha256": "090960251856e93e94a92b1dc2778774677fb03948c3af25895909e7f554970c"
+    },
+    {
+      "path": "images/img-7b3bd8ddc6ad.webp",
+      "bytes": 186516,
+      "sha256": "4fea6092f174569dc187676854dce7a470aefc47a8168ecdaa7d425394716294"
+    },
+    {
+      "path": "images/img-7eb97a92764f.webp",
+      "bytes": 153160,
+      "sha256": "5f11666dcd2d431ffbeb2b6ceaf1f1eddff17a249b5c1e87ac5880c94aec1fc6"
+    },
+    {
+      "path": "images/img-7efebf51ee41.webp",
+      "bytes": 227240,
+      "sha256": "cea5c9003a87fe9f873688d2dcb11adfd06ceb8355be38d077a744195f5e24fd"
+    },
+    {
+      "path": "images/img-7fb981b0e164.webp",
+      "bytes": 323888,
+      "sha256": "5bd7d86294098342e23919e4bc17034c065ad02d6d01e5bd511e141f1d608f0a"
+    },
+    {
+      "path": "images/img-8be163bc242c.webp",
+      "bytes": 347682,
+      "sha256": "39d78af4bd818094232136bf4df622f90a9feb152b8e9b139ecc145f87282b22"
+    },
+    {
+      "path": "images/img-a26e7aa6bd25.webp",
+      "bytes": 211978,
+      "sha256": "62a4f7e95f03cdc3db6b15907eca6411b3f4eec58c2b3f47cf33a798d3da2353"
+    },
+    {
+      "path": "images/img-a332bd136d88.webp",
+      "bytes": 205336,
+      "sha256": "8f0cc170fa8418c43c377dac4524388c13610f08c70bb4f9ba035fbfffedbead"
+    },
+    {
+      "path": "images/img-bf460ff9e857.webp",
+      "bytes": 213954,
+      "sha256": "f1758b8176588d7b6d2162f77aaf696c78d05f22cd6653740805f145d636e5b2"
+    },
+    {
+      "path": "images/img-c5e2a5acfee4.webp",
+      "bytes": 217254,
+      "sha256": "56f0383f60c2930f8d69c10f644037fcf2fdc282906bc2d293442169afebe8c7"
+    },
+    {
+      "path": "images/img-d60b6e46d491.webp",
+      "bytes": 146962,
+      "sha256": "cc6a0c78fd62dea471941c1c40c6856c6893c1e2273ef9855f9c0e1acef02382"
+    },
+    {
+      "path": "images/img-e2b6c4ad3255.webp",
+      "bytes": 271640,
+      "sha256": "15fce7396a557e2d34d8abdc1403d1edc9444dfeb4bc9ba6d7337286b80ea170"
+    },
+    {
+      "path": "images/img-e9af0720c8d6.webp",
+      "bytes": 274498,
+      "sha256": "309c286ff1c59ff3a6d84f1bebcead6958c837abab60b98b234f20ee6e726b98"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 28777,
+      "sha256": "85eb7fce627b4dadc1604b75aa7928c42e8f5bedfd42bce8b3db9f8506580a49"
+    },
+    {
+      "path": "source.html",
+      "bytes": 488289,
+      "sha256": "c6ce01a425e805402aac8791a8fc0d5a82ceeac892c21551a330e18dbdcb3a49"
+    },
+    {
+      "path": "source.url",
+      "bytes": 107,
+      "sha256": "ffb21a07239b45d28e3e3e4fbd4a8669b81b37413578f5f6d04ede9bd228af23"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/2200xxs.jpg",
+      "path": "images/img-7fb981b0e164.webp",
+      "media_type": "image/webp",
+      "bytes": 323888,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/2200xxs.jpg",
+      "path": "images/img-8be163bc242c.webp",
+      "media_type": "image/webp",
+      "bytes": 347682,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/2200xxs.jpg",
+      "path": "images/img-54f8a141582a.webp",
+      "media_type": "image/webp",
+      "bytes": 330666,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/2200xxs.jpg",
+      "path": "images/img-62e231b50667.webp",
+      "media_type": "image/webp",
+      "bytes": 242746,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/2200xxs.jpg",
+      "path": "images/img-bf460ff9e857.webp",
+      "media_type": "image/webp",
+      "bytes": 213954,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/3336ef8a-5bb7-40a7-9682-b71629abaacf/je/2000xxs.jpg",
+      "path": "images/img-55954bb86f88.webp",
+      "media_type": "image/webp",
+      "bytes": 249924,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/203dbdf8-b671-4427-bf73-7d7a4065dcb3/je/2000xxs.jpg",
+      "path": "images/img-3356b8914a4e.webp",
+      "media_type": "image/webp",
+      "bytes": 232790,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/0712eebe-ede2-4ede-88aa-17b09d90c420/je/2000xxs.jpg",
+      "path": "images/img-e9af0720c8d6.webp",
+      "media_type": "image/webp",
+      "bytes": 274498,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/85939ce3-7006-43a0-a594-6a35a5d8ed4c/je/2000xxs.jpg",
+      "path": "images/img-e2b6c4ad3255.webp",
+      "media_type": "image/webp",
+      "bytes": 271640,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/4b2309fb-c1af-4d9b-ac22-281ea4e22b74/je/2000xxs.jpg",
+      "path": "images/img-7efebf51ee41.webp",
+      "media_type": "image/webp",
+      "bytes": 227240,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/4b54de69-28ee-4795-83ac-96ac2634cbc6/je/2000xxs.jpg",
+      "path": "images/img-3323f32c621e.webp",
+      "media_type": "image/webp",
+      "bytes": 222158,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab9ac838-f940-4bab-a2f7-36816b968479/je/2000xxs.jpg",
+      "path": "images/img-780f1c2a3012.webp",
+      "media_type": "image/webp",
+      "bytes": 293030,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/a7a0ea5c-5381-47e0-ab9d-6286dc5255e0/je/2000xxs.jpg",
+      "path": "images/img-d60b6e46d491.webp",
+      "media_type": "image/webp",
+      "bytes": 146962,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/edffb676-87c2-43cd-9fce-13383c3f8e4d/je/2000xxs.jpg",
+      "path": "images/img-45b1551230bf.webp",
+      "media_type": "image/webp",
+      "bytes": 238030,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ebb6ffe8-b594-4dd8-abf4-34210a478d59/je/2000xxs.jpg",
+      "path": "images/img-a26e7aa6bd25.webp",
+      "media_type": "image/webp",
+      "bytes": 211978,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/132b3d9c-d533-42d4-8a51-c676766c81ed/je/2000xxs.jpg",
+      "path": "images/img-27f35e8084d0.webp",
+      "media_type": "image/webp",
+      "bytes": 234152,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/3f1bbcd6-9f2c-40c2-8c4a-c3a34c64b317/je/2000xxs.jpg",
+      "path": "images/img-2619d30278b0.webp",
+      "media_type": "image/webp",
+      "bytes": 266124,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/d0f12ccf-c221-4ab9-8c63-7715496f9118/je/2000xxs.jpg",
+      "path": "images/img-2cef7855cd16.webp",
+      "media_type": "image/webp",
+      "bytes": 303960,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/d83d6cac-3cf5-44d6-9f6b-73ea917a3fd4/je/2000xxs.jpg",
+      "path": "images/img-c5e2a5acfee4.webp",
+      "media_type": "image/webp",
+      "bytes": 217254,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/f61e26b6-16d2-42ce-9459-6215858ec462/je/2000xxs.jpg",
+      "path": "images/img-044fbc6d7865.webp",
+      "media_type": "image/webp",
+      "bytes": 252776,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/9765d497-2c16-4b8a-9cb8-36109b8ba0ae/je/2000xxs.jpg",
+      "path": "images/img-540c4eb272d1.webp",
+      "media_type": "image/webp",
+      "bytes": 159380,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/65fab8dd-c311-49d1-b9a5-b5763152d1c1/je/2000xxs.jpg",
+      "path": "images/img-34bd0422e5ce.webp",
+      "media_type": "image/webp",
+      "bytes": 110278,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/854e3783-7e02-48e2-9e3a-fda31e9c330d/je/2000xxs.jpg",
+      "path": "images/img-a332bd136d88.webp",
+      "media_type": "image/webp",
+      "bytes": 205336,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/03550ce4-2d8e-4aa9-a432-b71ed8154e7d/je/2000xxs.jpg",
+      "path": "images/img-7eb97a92764f.webp",
+      "media_type": "image/webp",
+      "bytes": 153160,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/0893d71a-9b55-47a0-ac61-544f93d23c28/je/2000xxs.jpg",
+      "path": "images/img-074d222e88ca.webp",
+      "media_type": "image/webp",
+      "bytes": 230836,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/7f05894a-983d-4922-a7a4-516bee78ec00/je/2000xxs.jpg",
+      "path": "images/img-0ad518e0360e.webp",
+      "media_type": "image/webp",
+      "bytes": 207030,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/0f121d4e-ae86-45b8-b07b-27d917c032fe/je/2000xxs.jpg",
+      "path": "images/img-32b3685c3f03.webp",
+      "media_type": "image/webp",
+      "bytes": 238634,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e10e14b7-5942-407c-9911-21e44b55c443/je/2000xxs.jpg",
+      "path": "images/img-7b3bd8ddc6ad.webp",
+      "media_type": "image/webp",
+      "bytes": 186516,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2200xxsxm%2816%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2200xxsxm%2817%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2200xxsxm%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 29,
+    "images_existing": 0,
+    "images_failed": 20,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

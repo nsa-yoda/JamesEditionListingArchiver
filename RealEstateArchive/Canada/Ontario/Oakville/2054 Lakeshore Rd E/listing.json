@@ -1,0 +1,385 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/oakville-canada/one-of-oakville-s-finest-lakefront-estates-16017322",
+    "canonical_url": "https://www.jamesedition.com/real_estate/oakville-canada/one-of-oakville-s-finest-lakefront-estates-16017322",
+    "site": "jamesedition",
+    "listing_id": "16017322",
+    "listing_reference": "W12323376",
+    "first_listed": "Aug 5, 2025",
+    "last_updated": "December 29, 2025",
+    "retrieved_at": "2026-06-16T03:43:32.55227Z"
+  },
+  "location": {
+    "address": "2054 Lakeshore Rd E, Oakville, ON L6J 1M3, Ontario, Canada",
+    "street": "2054 Lakeshore Rd E",
+    "municipality": "Oakville",
+    "region": "Ontario",
+    "postal_code": "L6J 1M3",
+    "country": "Canada",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=43.4701061,-79.6416446",
+    "latitude": 43.4701061,
+    "longitude": -79.6416446
+  },
+  "property": {
+    "title": "One Of Oakville's Finest Lakefront Estates.",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 27866099.82,
+      "currency": "USD",
+      "display": "$27,866,099"
+    },
+    "price_per_area": {
+      "amount": 1423,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,423"
+    },
+    "bedrooms": 7,
+    "bathrooms": 12,
+    "floors": 3,
+    "interior_area": {
+      "value": 19573,
+      "unit": "sqft",
+      "display": "19,573 Sqft"
+    },
+    "lot_area": {
+      "value": 1.5,
+      "display": "1.5 Ac lot"
+    },
+    "year_built": 2011,
+    "photo_count": 49,
+    "video_url": "https://www.youtube.com/embed/aueQnrwg9F8?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=aueQnrwg9F8\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "2054 Lakeshore Rd. East is one of Oakville’s finest lakefront estates. Situated on 1.5 acres and 166 feet of pristine shoreline, complete with dock, deck, and stairway access to the water. Designed by renowned architect Gren Weis and brought to life by the exceptional craftsmanship of Coulson Fine Homes. This magnificent 7-bedroom, 13-bath home spans an impressive 18,764 square feet. Step into the grand formal entrance where limestone cast walls create a dramatic first impression serving as a prelude to the extraordinary spaces beyond. The residence showcases 12 foot ceilings on the main level, Brazilian walnut flooring thru-out and custom cabinetry adorns this remarkable home. The estate features an expansive living and dining room with breathtaking water views, perfect for intimate gatherings or grand celebrations. Step outside to the covered terrace where you can relax to the sounds of the ”Bellagio” inspired fountains and waterfall. The gourmet open-concept kitchen flows effortlessly into the family room where water views and fireplace create a relaxed and comfortable space. The lower-level transforms into an entertainer’s paradise, with a state-of-the-art home theater, gym with direct access to the infinity edge pool, steam room, golf simulator, wine cellar, billiards area with rec room and catering kit. A private 2-bedroom nanny suite with separate entrance provides additional flexibility. An elevator gives you convenient access to all 5 levels of this thoughtfully designed home. The outdoors offers multiple entertaining areas nestled within the manicured landscaped grounds, the lakefront deck and poolside. The power screened sunroom offers 3 season enjoyment of the stunning surroundings. His and Her double car garages to accommodate 4 vehicles with additional parking for 20 more on the circular driveway and auxiliary parking areas-perfect for hosting memorable events. This waterfront estate represents more than just a home it’s a lifestyle statement where every detail has been carefully curated to create an environment of uncompromising luxury and comfort.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Bar",
+      "Basement",
+      "Cinema",
+      "Elevator",
+      "Fire Pit",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Game Room",
+      "Garage",
+      "Garden",
+      "Gas Stovetop",
+      "Gate",
+      "High Ceiling",
+      "Kitchen island",
+      "Lake View",
+      "Lakefront",
+      "Laundry Room",
+      "Mansion",
+      "Office",
+      "Open Kitchen",
+      "Outdoor Kitchen",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Pergola",
+      "Pool",
+      "Private Beach",
+      "Sauna",
+      "Steam Room",
+      "Stone Countertops",
+      "Terrace",
+      "Walk In Closet",
+      "Washer Dryer",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Alex Irish",
+    "agent_profile_url": "https://www.jamesedition.com/agents/alex-irish-1176276",
+    "agency": "RE/MAX Escarpment \u0026 Niagara Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/re-max-escarpment-niagara-realty-117182",
+    "agency_address": "502 Brant Street, L7R 2G4, Burlington, Canada"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/18/55/07/663de02e-083b-41ff-ae1a-c3b5f1083c8c/je/2200xxs.jpg",
+      "file": "004-385bced8.webp",
+      "media_type": "image/webp",
+      "bytes": 422860,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/06/55/14/d91c2bc3-5176-4814-a04c-66aa3c4127c5/je/2200xxs.jpg",
+      "file": "009-64bbc419.webp",
+      "media_type": "image/webp",
+      "bytes": 367882,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/12/15/58/5ca93616-c494-4574-868e-dfcac12b1832/je/2200xxs.jpg",
+      "file": "014-2f072cec.webp",
+      "media_type": "image/webp",
+      "bytes": 338840,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/18/15/15/e5fc3511-5b29-4912-997f-e9f335b95779/je/2200xxs.jpg",
+      "file": "019-feea8a31.webp",
+      "media_type": "image/webp",
+      "bytes": 344272,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/16/04/08321b98-ca01-4e42-8fab-d3c2836f9511/je/2200xxs.jpg",
+      "file": "024-6eeaf967.webp",
+      "media_type": "image/webp",
+      "bytes": 573702,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/380xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/10/15/20/07/15/169b8110-04a3-44b6-8c10-6d026aa8233a/je/80x80xc.jpg",
+      "file": "040-e54ffa22.webp",
+      "media_type": "image/webp",
+      "bytes": 1448,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/canada",
+              "name": "Canada"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ontario-canada",
+              "name": "Ontario"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/oakville-canada",
+              "name": "Oakville"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/oakville-canada/one-of-oakville-s-finest-lakefront-estates-16017322",
+              "name": "One of Oakville's finest lakefront estates."
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "2054 Lakeshore Rd. East is one of Oakville's finest lakefront estates. Situated on 1.5 acres and 166 feet of pristine shoreline, complete with dock, deck, and stairway access to the water. Designed by renowned architect Gren Weis and brought to life by the exceptional craftsmanship of Coulson Fine Homes. This magnificent 7-bedroom, 13-bath home spans an impressive 18,764 square feet. Step into the grand formal entrance where limestone cast walls create a dramatic first impression serving as a prelude to the extraordinary spaces beyond. The residence showcases 12 foot ceilings on the main level, Brazilian walnut flooring thru-out and custom cabinetry adorns this remarkable home. The estate features an expansive living and dining room with breathtaking water views, perfect for intimate gatherings or grand celebrations. Step outside to the covered terrace where you can relax to the sounds of the 'Bellagio' inspired fountains and waterfall. The gourmet open-concept kitchen flows effortlessly into the family room where water views and fireplace create a relaxed and comfortable space. The lower-level transforms into an entertainer's paradise, with a state-of-the-art home theater, gym with direct access to the infinity edge pool, steam room, golf simulator, wine cellar, billiards area with rec room and catering kit. A private 2-bedroom nanny suite with separate entrance provides additional flexibility. An elevator gives you convenient access to all 5 levels of this thoughtfully designed home. The outdoors offers multiple entertaining areas nestled within the manicured landscaped grounds, the lakefront deck and poolside. The power screened sunroom offers 3 season enjoyment of the stunning surroundings. His and Her double car garages to accommodate 4 vehicles with additional parking for 20 more on the circular driveway and auxiliary parking areas-perfect for hosting memorable events. This waterfront estate represents more than just a home it's a lifestyle statement where every detail has been carefully curated to create an environment of uncompromising luxury and comfort. ",
+        "image": "https://img.jamesedition.com/listing_images/2025/12/29/18/55/07/663de02e-083b-41ff-ae1a-c3b5f1083c8c/je/1040x620xc.jpg",
+        "name": "One of Oakville's finest lakefront estates.",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 27866099.82,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "RE/MAX Escarpment \u0026 Niagara Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/oakville-canada/one-of-oakville-s-finest-lakefront-estates-16017322"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/380xxsxm.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+  ]
+}

@@ -1,0 +1,17 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Scotland",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Argyll and Bute",
+      "href": "Argyll%20and%20Bute/index.html"
+    },
+    {
+      "name": "Helensburgh",
+      "href": "Helensburgh/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

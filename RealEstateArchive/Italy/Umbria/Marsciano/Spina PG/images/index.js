@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Italy/Umbria/Marsciano/Spina PG/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-d2ef0ba7.webp",
+      "href": "004-d2ef0ba7.webp",
+      "size": 621776
+    },
+    {
+      "name": "009-04183d2d.webp",
+      "href": "009-04183d2d.webp",
+      "size": 571036
+    },
+    {
+      "name": "014-234113b4.webp",
+      "href": "014-234113b4.webp",
+      "size": 559432
+    },
+    {
+      "name": "019-f03a3541.webp",
+      "href": "019-f03a3541.webp",
+      "size": 599722
+    },
+    {
+      "name": "024-60941d2f.webp",
+      "href": "024-60941d2f.webp",
+      "size": 567656
+    },
+    {
+      "name": "032-57242b8e.webp",
+      "href": "032-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "033-4055dfde.svg",
+      "href": "033-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "034-272e34fe.svg",
+      "href": "034-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "035-caf7633d.svg",
+      "href": "035-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-17813258",
+    "canonical_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-17813258",
+    "site": "jamesedition",
+    "listing_id": "17813258",
+    "listing_reference": "993197",
+    "first_listed": "May 1",
+    "last_updated": "May 16",
+    "retrieved_at": "2026-06-16T03:43:36.718761Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4205,
+      "sha256": "480b301440ca3dce027ab761cfcb8f240ee2d321709f145c01e914f486ec9b6a"
+    },
+    {
+      "path": "images/004-839a4655.webp",
+      "bytes": 680136,
+      "sha256": "7af6b481ce91a2e97701a6ea01c020d20a8b9354955962475d8f6fe65a0af69b"
+    },
+    {
+      "path": "images/009-4ae23a63.webp",
+      "bytes": 517560,
+      "sha256": "485d1dc4e42284dde1942ef2dac62a44bc782cef54b1625afb72ff9df3d37f60"
+    },
+    {
+      "path": "images/014-3efcee90.webp",
+      "bytes": 361074,
+      "sha256": "0eed20deadb039715010f14383084c1f156c93560eebc673e0757fdb7f6e34d6"
+    },
+    {
+      "path": "images/019-b68666e7.webp",
+      "bytes": 608746,
+      "sha256": "748bea5161f24e0822cf37151388d2e9577117ccb5f80a3179720a75c2aa4a08"
+    },
+    {
+      "path": "images/024-8c88acc1.webp",
+      "bytes": 707682,
+      "sha256": "84de0351a17a8a7e7c3b4b2d6bc5cf11169296021600d1da096cf0240abb438d"
+    },
+    {
+      "path": "images/031-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/032-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/033-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/034-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 20472,
+      "sha256": "9e07f3fa7fbc6bb30bbf67e179d5eb23502e3a0fa35cd2a4d5f15618e4189266"
+    },
+    {
+      "path": "source.html",
+      "bytes": 333760,
+      "sha256": "49c7208158547801824c0268b34c6d99986b845ea429d063aeefd7308357344d"
+    },
+    {
+      "path": "source.url",
+      "bytes": 106,
+      "sha256": "943ff29eb02e1611388a6f11a00b7ac656843dc869c2a764c61b7fb2c614661f"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/edd07a29-1624-4cde-9abc-82424c634005/je/2200xxs.jpg",
+      "path": "images/004-839a4655.webp",
+      "media_type": "image/webp",
+      "bytes": 680136,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/a48bf304-db84-4337-b3ea-8b3febbb8a76/je/2200xxs.jpg",
+      "path": "images/009-4ae23a63.webp",
+      "media_type": "image/webp",
+      "bytes": 517560,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/c53fbe59-fb2f-4c2b-843f-c0cc9aaaca71/je/2200xxs.jpg",
+      "path": "images/014-3efcee90.webp",
+      "media_type": "image/webp",
+      "bytes": 361074,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/5ce0eddc-750e-4149-94c4-54ae98d729e1/je/2200xxs.jpg",
+      "path": "images/019-b68666e7.webp",
+      "media_type": "image/webp",
+      "bytes": 608746,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/09/14/32/30/3f748a63-c8e9-463c-bc9f-c8e1ae92a991/je/2200xxs.jpg",
+      "path": "images/024-8c88acc1.webp",
+      "media_type": "image/webp",
+      "bytes": 707682,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2817813258%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 9,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

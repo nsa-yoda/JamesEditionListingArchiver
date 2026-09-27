@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "Japan/Kyoto",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Kyoto",
+      "href": "Kyoto/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

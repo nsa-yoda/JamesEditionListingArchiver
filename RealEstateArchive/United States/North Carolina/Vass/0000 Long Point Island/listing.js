@@ -1,0 +1,302 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000-long-point-island-barco-nc-27917-15669172",
+    "canonical_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000-long-point-island-barco-nc-27917-15669172",
+    "site": "jamesedition",
+    "listing_id": "15669172",
+    "listing_reference": "23LCBL",
+    "first_listed": "May 22, 2025",
+    "last_updated": "June 10",
+    "retrieved_at": "2026-06-16T03:43:11.262488Z"
+  },
+  "location": {
+    "address": "0000 Long Point Island , Barco, NC 27917-9524, Vass, North Carolina, United States",
+    "street": "0000 Long Point Island",
+    "municipality": "Vass",
+    "region": "North Carolina",
+    "postal_code": "27917",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=35.23747869,-79.27804396",
+    "latitude": 35.23747869,
+    "longitude": -79.27804396
+  },
+  "property": {
+    "title": "0000 Long Point Island, Barco, Nc 27917",
+    "type": "Private Island",
+    "availability": "InStock",
+    "price": {
+      "amount": 675000,
+      "currency": "USD",
+      "display": "$675,000"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "lot_area": {
+      "value": 54,
+      "display": "54.0 Ac lot"
+    },
+    "photo_count": 8,
+    "description": "Unique opportunity to own a private 54 acre Island on the Intercoastal Waterway in Currituck, NC. This rare offering features five separate, expansive 10+ acre lots. Just minutes from the pristine beach of Corolla and Duck, NC. This hidden gem offers ultimate privacy and is steeped in history — once inhabited, it whispers stories from the past (see link listed below). The island is a short boat ride to the mainland access via Coinjock Marina. Once on the mainland you are within minutes to a private airport and under an hour to Norfolk International. Whether you’re building a family estate, creating a hunting retreat, or developing a luxury community, this island is ready for its next chapter. Private, exclusive, and just waiting for the right vision to bring it to life.",
+    "features": [
+      "Coastal",
+      "Privacy",
+      "Private Airport",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Michelle Donahue",
+    "agency": "Landmark Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/landmark-sotheby-s-international-realty-149163",
+    "agency_address": "1176 Duck Road, 27949, Duck, North Carolina, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/2200xxs.jpg",
+      "file": "004-5b062b4e.webp",
+      "media_type": "image/webp",
+      "bytes": 110516,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/f994456d-6320-41e2-930d-61efe66a2d52/je/2200xxs.jpg",
+      "file": "009-5281ad5f.webp",
+      "media_type": "image/webp",
+      "bytes": 108264,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3d61520d-eb76-4543-9b02-c96868bfd1ac/je/2200xxs.jpg",
+      "file": "014-ab07caed.webp",
+      "media_type": "image/webp",
+      "bytes": 216670,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/19ba9a65-3ede-42f4-b604-f44227e347bb/je/2200xxs.jpg",
+      "file": "019-ac4f741c.webp",
+      "media_type": "image/webp",
+      "bytes": 314932,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/cf7605a0-e77c-4923-b2d1-e048413a90ef/je/2200xxs.jpg",
+      "file": "024-76f5cb49.webp",
+      "media_type": "image/webp",
+      "bytes": 122562,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nc-united-states",
+              "name": "North Carolina"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/vass-nc-usa",
+              "name": "Vass"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000-long-point-island-barco-nc-27917-15669172",
+              "name": "0000 Long Point Island, Barco, Nc 27917"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Unique opportunity to own a private 54 acre Island on the Intercoastal Waterway in Currituck, NC. This rare offering features five separate, expansive 10+ acre lots. Just minutes from the pristine beach of Corolla and Duck, NC. This hidden gem offers ultimate privacy and is steeped in history — once inhabited, it whispers stories from the past (see link listed below). The island is a short boat ride to the mainland access via Coinjock Marina. Once on the mainland you are within minutes to a private airport and under an hour to Norfolk International. Whether you’re building a family estate, creating a hunting retreat, or developing a luxury community, this island is ready for its next chapter. Private, exclusive, and just waiting for the right vision to bring it to life. ",
+        "image": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/1040x620xc.jpg",
+        "name": "0000 Long Point Island, Barco, Nc 27917",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 675000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Landmark Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000-long-point-island-barco-nc-27917-15669172"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

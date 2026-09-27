@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "path": "Japan/Tokyo/Shibuya City",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "3-chōme-47-2 Nishihara",
+      "href": "3-ch%C5%8Dme-47-2%20Nishihara/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

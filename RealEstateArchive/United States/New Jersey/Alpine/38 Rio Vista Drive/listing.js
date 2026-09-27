@@ -1,0 +1,542 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38-rio-vista-drive-alpine-nj-07620-17475642",
+    "canonical_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38-rio-vista-drive-alpine-nj-07620-17475642",
+    "site": "jamesedition",
+    "listing_id": "17475642",
+    "listing_reference": "7CFTP4",
+    "first_listed": "Mar 25",
+    "last_updated": "March 25",
+    "retrieved_at": "2026-06-18T07:06:34.824195Z"
+  },
+  "location": {
+    "address": "38 Rio Vista Drive , Alpine, NJ 07620, New Jersey, United States",
+    "street": "38 Rio Vista Drive",
+    "municipality": "Alpine",
+    "region": "New Jersey",
+    "postal_code": "07620",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.9330915,-73.9367111",
+    "latitude": 40.9330915,
+    "longitude": -73.9367111
+  },
+  "property": {
+    "title": "38 Rio Vista Drive, Alpine, Nj 07620",
+    "type": "Other",
+    "availability": "InStock",
+    "price": {
+      "amount": 18500000,
+      "currency": "USD",
+      "display": "$18,500,000"
+    },
+    "price_per_area": {
+      "amount": 1527,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,527"
+    },
+    "bedrooms": 9,
+    "bathrooms": 14,
+    "interior_area": {
+      "value": 12109,
+      "unit": "sqft",
+      "display": "12,109 Sqft"
+    },
+    "lot_area": {
+      "value": 2,
+      "display": "2.0 Ac lot"
+    },
+    "year_built": 2002,
+    "photo_count": 34,
+    "description": "Set in one of Alpine’s most prestigious enclaves just 8 miles north of NYC, this extraordinary 20,000sq.ft. Boris Baranovich designed, Joe DiStaulo built estate embodies refined luxury and grand-scale living. Fully gut-renovated just 3 years ago, the residence seamlessly blends timeless elegance with modern sophistication. The home features 6 expansive family bedroom suites, each thoughtfully designed for comfort and privacy, along with 3 separate staff quarters. Designed for both intimate gatherings and lavish entertaining, the estate boasts 5 impressive public rooms, including a banquet-sized dining room, an elegant living room, and a warm, inviting family room. A standout feature is the spectacular indoor pool complex, housed in its own wing beneath a soaring cathedral ceiling and complete with a water slide for year-round enjoyment. An indoor sports court, 14 seat movie theater, professional gymnasium, playroom and billiards room are all interior recreation spaces. Outdoors, the amenities continue with a beautifully designed pool, a pool house, and a regulation-size tennis court with lighting for evening play. The exterior showcases classic stucco construction topped with a distinguished slate roof, while a gated entrance and sweeping circular driveway provide both privacy and a dramatic sense of arrival. This is a rare opportunity to own a truly exceptional estate in Rio Vista Alpine. Elevator to all levels, four car-garage, and full house generator.",
+    "features": [
+      "Cinema",
+      "Elevator",
+      "Fitness Center / Gym",
+      "Game Room",
+      "Garage",
+      "Gate",
+      "High Ceiling",
+      "Indoor Pool",
+      "Playground",
+      "Pool",
+      "Privacy",
+      "Tennis Court"
+    ]
+  },
+  "broker": {
+    "agent": "Dennis McCormack",
+    "agency": "Prominent Properties Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/prominent-properties-sotheby-s-international-realty-10574",
+    "agency_address": "1022 Closter Dock Road, 07620, Alpine, New Jersey, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/2200xxs.jpg",
+      "file": "004-eb7fe3eb.webp",
+      "media_type": "image/webp",
+      "bytes": 699220,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/2200xxs.jpg",
+      "file": "009-410be88a.webp",
+      "media_type": "image/webp",
+      "bytes": 743280,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/2200xxs.jpg",
+      "file": "014-4c374a78.webp",
+      "media_type": "image/webp",
+      "bytes": 1287568,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/2200xxs.jpg",
+      "file": "019-358821ed.webp",
+      "media_type": "image/webp",
+      "bytes": 229154,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/2200xxs.jpg",
+      "file": "024-53245ab0.webp",
+      "media_type": "image/webp",
+      "bytes": 215420,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/2000xxs.jpg",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/4e50320d-2999-4012-beb1-bbd19d596b22/je/2000xxs.jpg",
+      "file": "034-da0e0172.webp",
+      "media_type": "image/webp",
+      "bytes": 84102,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/b458c9d5-3c2d-4cf4-82d7-d13194452798/je/2000xxs.jpg",
+      "file": "035-9b1ca139.webp",
+      "media_type": "image/webp",
+      "bytes": 157390,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/8b62e9fc-dd44-47d0-8683-d6a46b4d2999/je/2000xxs.jpg",
+      "file": "036-8434a6e0.webp",
+      "media_type": "image/webp",
+      "bytes": 131816,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/f833ea9b-a15d-4ad1-8f04-c446f2048d18/je/2000xxs.jpg",
+      "file": "037-80b2ac43.webp",
+      "media_type": "image/webp",
+      "bytes": 298428,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/43092f3b-8420-4de5-968a-e15b6d462501/je/2000xxs.jpg",
+      "file": "038-def65619.webp",
+      "media_type": "image/webp",
+      "bytes": 263278,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/e55eabea-b6c8-4a98-8368-4c1bcf359e40/je/2000xxs.jpg",
+      "file": "039-bb9adeea.webp",
+      "media_type": "image/webp",
+      "bytes": 449788,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/58fcaaad-38fc-4592-8946-b63760f38553/je/2000xxs.jpg",
+      "file": "040-32062bb0.webp",
+      "media_type": "image/webp",
+      "bytes": 463110,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/ccbee773-40d7-431b-be9c-8ccd82df304c/je/2000xxs.jpg",
+      "file": "041-55d328cb.webp",
+      "media_type": "image/webp",
+      "bytes": 122346,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/65451317-971a-429e-950e-7c1f5033062f/je/2000xxs.jpg",
+      "file": "042-c5dc43bb.webp",
+      "media_type": "image/webp",
+      "bytes": 341232,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/23e655bf-28f8-402f-99cb-48cb2144f07e/je/2000xxs.jpg",
+      "file": "043-e9d3fa3e.webp",
+      "media_type": "image/webp",
+      "bytes": 159842,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/3017bcd1-86df-48d0-8129-ded8896142b5/je/2000xxs.jpg",
+      "file": "044-d9c24759.webp",
+      "media_type": "image/webp",
+      "bytes": 254256,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a0b7a4a1-e306-4eb5-9829-92dc1604e10b/je/2000xxs.jpg",
+      "file": "045-c1f228cd.webp",
+      "media_type": "image/webp",
+      "bytes": 424144,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/e9f0c11d-2394-450f-b721-4ebb46e5f4fd/je/2000xxs.jpg",
+      "file": "046-68074534.webp",
+      "media_type": "image/webp",
+      "bytes": 415522,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/924dcf45-e4ce-452b-93f5-b2e745ff1a2a/je/2000xxs.jpg",
+      "file": "047-a4a6abd2.webp",
+      "media_type": "image/webp",
+      "bytes": 177918,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/baad2198-c825-4dc0-a94b-a32ed08af2b9/je/2000xxs.jpg",
+      "file": "048-15cb0213.webp",
+      "media_type": "image/webp",
+      "bytes": 188830,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/eb73c152-50f5-4d22-998f-a755dedccf95/je/2000xxs.jpg",
+      "file": "049-f8fecdab.webp",
+      "media_type": "image/webp",
+      "bytes": 425732,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/90cd8d15-994d-4bb1-9ecb-d6233720571d/je/2000xxs.jpg",
+      "file": "050-67fab0b6.webp",
+      "media_type": "image/webp",
+      "bytes": 211524,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/958399d0-bd70-4a26-a29f-55260f33408c/je/2000xxs.jpg",
+      "file": "051-8de4a99e.webp",
+      "media_type": "image/webp",
+      "bytes": 315584,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/5b906d4b-e71c-4ff7-879b-066bde7f3307/je/2000xxs.jpg",
+      "file": "052-a6ced121.webp",
+      "media_type": "image/webp",
+      "bytes": 180716,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/6a607133-9105-4d52-ae43-4c388291c657/je/2000xxs.jpg",
+      "file": "053-7801177d.webp",
+      "media_type": "image/webp",
+      "bytes": 243904,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/84d951d0-db4f-488a-9080-cc144b4c580e/je/2000xxs.jpg",
+      "file": "054-c7189e4e.webp",
+      "media_type": "image/webp",
+      "bytes": 504176,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/8bd2a75f-d1ed-49ba-aeea-8af3830c0b0c/je/2000xxs.jpg",
+      "file": "055-62aff87a.webp",
+      "media_type": "image/webp",
+      "bytes": 354012,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/4c5c9c3a-fd08-41d6-ad93-224698181083/je/2000xxs.jpg",
+      "file": "056-da96c390.webp",
+      "media_type": "image/webp",
+      "bytes": 315384,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/b99bc927-30f8-4edd-8753-7eda73ad0a12/je/2000xxs.jpg",
+      "file": "057-ee049594.webp",
+      "media_type": "image/webp",
+      "bytes": 333014,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/e393c29f-e3a1-433c-8d3f-b2b337c45edc/je/2000xxs.jpg",
+      "file": "058-8fa23d6c.webp",
+      "media_type": "image/webp",
+      "bytes": 360824,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a6c2a396-c646-4f0c-9871-147b62eadb51/je/2000xxs.jpg",
+      "file": "059-2daafce8.webp",
+      "media_type": "image/webp",
+      "bytes": 477256,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/264981bf-9635-4dd3-919f-5a747ae5ed39/je/2000xxs.jpg",
+      "file": "060-4e379ab9.webp",
+      "media_type": "image/webp",
+      "bytes": 516880,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/b156b797-669d-4b5c-b074-a967397d8f1c/je/2000xxs.jpg",
+      "file": "061-94690622.webp",
+      "media_type": "image/webp",
+      "bytes": 493556,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/7036050a-4e54-4cb0-bce4-01efbd32eb69/je/2000xxs.jpg",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/7036050a-4e54-4cb0-bce4-01efbd32eb69/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2827%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2826%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2825%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "067-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "068-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "069-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "070-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/alpine-nj-usa",
+              "name": "Alpine"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38-rio-vista-drive-alpine-nj-07620-17475642",
+              "name": "38 Rio Vista Drive, Alpine, Nj 07620"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Set in one of Alpine’s most prestigious enclaves just 8 miles north of NYC, this extraordinary 20,000sq.ft. Boris Baranovich designed, Joe DiStaulo built estate embodies refined luxury and grand-scale living. Fully gut-renovated just 3 years ago, the residence seamlessly blends timeless elegance with modern sophistication. The home features 6 expansive family bedroom suites, each thoughtfully designed for comfort and privacy, along with 3 separate staff quarters. Designed for both intimate gatherings and lavish entertaining, the estate boasts 5 impressive public rooms, including a banquet-sized dining room, an elegant living room, and a warm, inviting family room. A standout feature is the spectacular indoor pool complex, housed in its own wing beneath a soaring cathedral ceiling and complete with a water slide for year-round enjoyment. An indoor sports court, 14 seat movie theater, professional gymnasium, playroom and billiards room are all interior recreation spaces. Outdoors, the amenities continue with a beautifully designed pool, a pool house, and a regulation-size tennis court with lighting for evening play. The exterior showcases classic stucco construction topped with a distinguished slate roof, while a gated entrance and sweeping circular driveway provide both privacy and a dramatic sense of arrival. This is a rare opportunity to own a truly exceptional estate in Rio Vista Alpine. Elevator to all levels, four car-garage, and full house generator.",
+        "image": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/1040x620xc.jpg",
+        "name": "38 Rio Vista Drive, Alpine, Nj 07620",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 18500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Prominent Properties Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38-rio-vista-drive-alpine-nj-07620-17475642"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
+    "image https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/7036050a-4e54-4cb0-bce4-01efbd32eb69/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/7036050a-4e54-4cb0-bce4-01efbd32eb69/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2827%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2826%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2825%29.jpg: HTTP 403 Forbidden"
+  ]
+};

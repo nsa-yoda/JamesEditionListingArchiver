@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/montepulciano-italy/vino-nobile-di-montepulciano-organic-winery-estate-tuscany-12783693",
+    "canonical_url": "https://www.jamesedition.com/real_estate/montepulciano-italy/vino-nobile-di-montepulciano-organic-winery-estate-tuscany-12783693",
+    "site": "jamesedition",
+    "listing_id": "12783693",
+    "listing_reference": "MTP2203",
+    "first_listed": "May 4, 2023",
+    "last_updated": "April 20",
+    "retrieved_at": "2026-06-16T03:43:42.008882Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4535,
+      "sha256": "4929478e13f78c180076be01ac6231128e13b75460321cddc09ac92000f9930a"
+    },
+    {
+      "path": "images/004-d25caf24.webp",
+      "bytes": 174298,
+      "sha256": "f601503d47b83f49c148ab2b0622a9eb9f7c4f93ad6cce3006d9abe12a8c2150"
+    },
+    {
+      "path": "images/009-9f61ea93.webp",
+      "bytes": 493984,
+      "sha256": "bd25244402becf567a923d835486c5456f2653477a2ddaf1eaaa70488362803b"
+    },
+    {
+      "path": "images/014-1e6a5cd2.webp",
+      "bytes": 260850,
+      "sha256": "c8988f79f9f53fce42ed5f3e50453599f8070757485f2c8bd63547a195d9e95e"
+    },
+    {
+      "path": "images/019-f932d67b.webp",
+      "bytes": 239188,
+      "sha256": "d37eee8ca667d2492301ff2b1f43c4b33f61db991b25c57717df7e20a5c12046"
+    },
+    {
+      "path": "images/024-c754a42e.webp",
+      "bytes": 486848,
+      "sha256": "bacbfd660b432610de962111ca41e0097ac6e280b03466eefcb1f302c2f72e45"
+    },
+    {
+      "path": "images/029-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/030-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/031-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/032-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 19957,
+      "sha256": "652e0dd4c46063b732c3b8f9edde9a8141750e3f7f17b06cc887286402c439f2"
+    },
+    {
+      "path": "source.html",
+      "bytes": 380756,
+      "sha256": "1d5cfe9edca045f8e206828cfc6887e3d210916538d5a8c8bb284a9630504675"
+    },
+    {
+      "path": "source.url",
+      "bytes": 129,
+      "sha256": "96136e822faf43aa684dba7198255cabf34a41854c3aa97c16c34e1acf4d863f"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/030b4b31-7b25-429e-9ae7-43da1623c863/je/2200xxs.jpg",
+      "path": "images/004-d25caf24.webp",
+      "media_type": "image/webp",
+      "bytes": 174298,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montepulciano-italy/Vino%20Nobile%20Di%20Montepulciano%20Organic%20Winery%20In%20Montepulciano,%20Tuscany,%20Italy%20For%20Sale%20%2812783693%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/20dee468-efd2-4d6f-aaf5-c57fe78d3abc/je/2200xxs.jpg",
+      "path": "images/009-9f61ea93.webp",
+      "media_type": "image/webp",
+      "bytes": 493984,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montepulciano-italy/Vino%20Nobile%20Di%20Montepulciano%20Organic%20Winery%20In%20Montepulciano,%20Tuscany,%20Italy%20For%20Sale%20%2812783693%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/9e02fba5-1aab-4bda-bd86-0328cee8b558/je/2200xxs.jpg",
+      "path": "images/014-1e6a5cd2.webp",
+      "media_type": "image/webp",
+      "bytes": 260850,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montepulciano-italy/Vino%20Nobile%20Di%20Montepulciano%20Organic%20Winery%20In%20Montepulciano,%20Tuscany,%20Italy%20For%20Sale%20%2812783693%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/7eea3f76-4243-4d1b-a92c-c283266a866c/je/2200xxs.jpg",
+      "path": "images/019-f932d67b.webp",
+      "media_type": "image/webp",
+      "bytes": 239188,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montepulciano-italy/Vino%20Nobile%20Di%20Montepulciano%20Organic%20Winery%20In%20Montepulciano,%20Tuscany,%20Italy%20For%20Sale%20%2812783693%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/236a23f5-0073-4e2e-91ce-9ceae9548876/je/2200xxs.jpg",
+      "path": "images/024-c754a42e.webp",
+      "media_type": "image/webp",
+      "bytes": 486848,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montepulciano-italy/Vino%20Nobile%20Di%20Montepulciano%20Organic%20Winery%20In%20Montepulciano,%20Tuscany,%20Italy%20For%20Sale%20%2812783693%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montepulciano-italy/Vino%20Nobile%20Di%20Montepulciano%20Organic%20Winery%20In%20Montepulciano,%20Tuscany,%20Italy%20For%20Sale%20%2812783693%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/montepulciano-italy/Vino%20Nobile%20Di%20Montepulciano%20Organic%20Winery%20In%20Montepulciano,%20Tuscany,%20Italy%20For%20Sale%20%2812783693%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

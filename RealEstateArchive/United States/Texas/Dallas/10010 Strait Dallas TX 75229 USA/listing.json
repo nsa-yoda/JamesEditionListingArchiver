@@ -1,0 +1,333 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/exquisite-estate-on-billionaires-row-with-luxury-amenities-17336062",
+    "canonical_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/exquisite-estate-on-billionaires-row-with-luxury-amenities-17336062",
+    "site": "jamesedition",
+    "listing_id": "17336062",
+    "listing_reference": "e40ba04b-c9ca-4f41-a20e-37589d1932c2",
+    "first_listed": "Mar 4",
+    "last_updated": "June 12",
+    "retrieved_at": "2026-06-16T03:43:25.070433Z"
+  },
+  "location": {
+    "address": "10010 Strait Dallas TX 75229 USA, Texas, United States",
+    "street": "10010 Strait Dallas TX 75229 USA",
+    "municipality": "Dallas",
+    "region": "Texas",
+    "postal_code": "10010",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=32.8811241,-96.8244328",
+    "latitude": 32.8811241,
+    "longitude": -96.8244328
+  },
+  "property": {
+    "title": "Exquisite Estate On Billionaires Row With Luxury Amenities",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 24999900,
+      "currency": "USD",
+      "display": "$24,999,900"
+    },
+    "price_per_area": {
+      "amount": 1498,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,498"
+    },
+    "bedrooms": 7,
+    "bathrooms": 11,
+    "interior_area": {
+      "value": 16684,
+      "unit": "sqft",
+      "display": "16,684 Sqft"
+    },
+    "year_built": 2026,
+    "photo_count": 38,
+    "description": "NOW COMPLETE, brand new construction on Dallas's most iconic street, known as Billionaires Row. Poised on two point two expansive acres along Bachman Creek, 10010 Strait Lane blends craftsmanship, elegance, and luxury. Interiors feature soaring ceilings, clean lines, and floor-to-ceiling Kolbe windows. Designed for comfort and entertaining, the chef's kitchen boasts two La Cornue dual-fuel ranges (ten burners total), Subzero, Wolf, and Miele appliances, and Thomas O'Brien chandeliers. The catering kitchen includes elevator access to support events with ease. The sunroom and formal living space soar with twenty-four ceilings, glass walls, and a Vida chandelier. The owner's wing features vaulted ceilings, a fireplace, indoor-outdoor sitting areas, a Julie Neill chandelier, a spa bath with Bain Ultra tub, dual water closets, a beverage bar, towel warmer, Nobu Ribbon tile (Spain), Kalta Fiore marble, Kelly Wearstler and Arteriors lighting. Two walk-in closets; hers with an island; hidden shoe; handbag; and jewelry closets; his with safe and luggage storage. Other amenities include an elevator; wellness retreat for massage and fitness; optional one thousand six hundred-bottle glass wine room or lower-level wine vault; golf simulator room; craft and music room; three-tier theater; and study with fireplace. Entry features twenty-five ceilings; twenty-three-light John Richard chandelier; and oak herringbone floors. Three utility rooms (one per floor); mudroom with dog shower. Outside features screened loggia with fireplace and heaters; outdoor kitchen with pass-through window to main kitchen; negative-edge pool; spa; sun deck; and optional fire pit create a resort retreat. Four thousand one hundred eighty-one square feet air-conditioned ten-car garage that doubles as an event venue. Eight terraces include cigar balcony; primary terraces upstairs suites front colonnade \u0026amp; back loggia. Landscape lighting optional tennis or sport court. Surrounded by mature trees \u0026amp; creek offering privacy in prestigious Preston Hollow neighborhood. Built with concrete walls \u0026amp; steel supports ensuring bunker-like strength 10010 Strait Lane offers a once-in-a-lifetime opportunity in the heart of the private school corridor.",
+    "features": [
+      "Balcony",
+      "Bar",
+      "Elevator",
+      "Fire Pit",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Jacuzzi",
+      "Kitchen island",
+      "New Builds",
+      "Outdoor Kitchen",
+      "Pool",
+      "Privacy",
+      "Stone Countertops",
+      "Terrace",
+      "Walk In Closet"
+    ]
+  },
+  "broker": {
+    "agent": "Susie Thompson",
+    "agency": "Allie Beth Allman \u0026 Associates",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/allie-beth-allman-associates-115534",
+    "agency_address": "3838 Oak Lawn, 75219, Dallas, Texas, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/2200xxs.jpg",
+      "file": "004-d3218bdd.webp",
+      "media_type": "image/webp",
+      "bytes": 518412,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/2200xxs.jpg",
+      "file": "009-57c8234a.webp",
+      "media_type": "image/webp",
+      "bytes": 168468,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/2200xxs.jpg",
+      "file": "014-03c4cdd9.webp",
+      "media_type": "image/webp",
+      "bytes": 112608,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/2200xxs.jpg",
+      "file": "019-1a16e7e1.webp",
+      "media_type": "image/webp",
+      "bytes": 244890,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/2200xxs.jpg",
+      "file": "024-78c52a8c.webp",
+      "media_type": "image/webp",
+      "bytes": 530390,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "032-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "033-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "034-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "035-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tx-united-states",
+              "name": "Texas"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/dallas-tx-usa",
+              "name": "Dallas"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/dallas-tx-usa/exquisite-estate-on-billionaires-row-with-luxury-amenities-17336062",
+              "name": "Exquisite estate on Billionaires Row with luxury amenities"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "NOW COMPLETE, brand new construction on Dallas's most iconic street, known as Billionaires Row. Poised on two point two expansive acres along Bachman Creek, 10010 Strait Lane blends craftsmanship, elegance, and luxury. Interiors feature soaring ceilings, clean lines, and floor-to-ceiling Kolbe windows. Designed for comfort and entertaining, the chef's kitchen boasts two La Cornue dual-fuel ranges (ten burners total), Subzero, Wolf, and Miele appliances, and Thomas O'Brien chandeliers. The catering kitchen includes elevator access to support events with ease. The sunroom and formal living space soar with twenty-four ceilings, glass walls, and a Vida chandelier. The owner's wing features vaulted ceilings, a fireplace, indoor-outdoor sitting areas, a Julie Neill chandelier, a spa bath with Bain Ultra tub, dual water closets, a beverage bar, towel warmer, Nobu Ribbon tile (Spain), Kalta Fiore marble, Kelly Wearstler and Arteriors lighting. Two walk-in closets; hers with an island; hidden shoe; handbag; and jewelry closets; his with safe and luggage storage. Other amenities include an elevator; wellness retreat for massage and fitness; optional one thousand six hundred-bottle glass wine room or lower-level wine vault; golf simulator room; craft and music room; three-tier theater; and study with fireplace. Entry features twenty-five ceilings; twenty-three-light John Richard chandelier; and oak herringbone floors. Three utility rooms (one per floor); mudroom with dog shower. Outside features screened loggia with fireplace and heaters; outdoor kitchen with pass-through window to main kitchen; negative-edge pool; spa; sun deck; and optional fire pit create a resort retreat. Four thousand one hundred eighty-one square feet air-conditioned ten-car garage that doubles as an event venue. Eight terraces include cigar balcony; primary terraces upstairs suites front colonnade \u0026amp; back loggia. Landscape lighting optional tennis or sport court. Surrounded by mature trees \u0026amp; creek offering privacy in prestigious Preston Hollow neighborhood. Built with concrete walls \u0026amp; steel supports ensuring bunker-like strength 10010 Strait Lane offers a once-in-a-lifetime opportunity in the heart of the private school corridor.",
+        "image": "https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg",
+        "name": "Exquisite estate on Billionaires Row with luxury amenities",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 24999900,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Allie Beth Allman \u0026 Associates"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/exquisite-estate-on-billionaires-row-with-luxury-amenities-17336062"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden"
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/single-family-residence-in-upper-brookville-16980187",
+    "canonical_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/single-family-residence-in-upper-brookville-16980187",
+    "site": "jamesedition",
+    "listing_id": "16980187",
+    "listing_reference": "885874",
+    "first_listed": "Jan 22",
+    "last_updated": "July 16",
+    "retrieved_at": "2026-08-28T00:31:45.000678Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3220,
+      "sha256": "1888973045e91a6121f5ee8d036962f47a210ddc96d837dc4244836ea8f03291"
+    },
+    {
+      "path": "images/img-014fef55239f.webp",
+      "bytes": 837222,
+      "sha256": "fe93a54f2601737a9b0efec88301097dfe25779ab356c6ba94a8d5ed7734e8ce"
+    },
+    {
+      "path": "images/img-1394f80ea555.webp",
+      "bytes": 180984,
+      "sha256": "4a2501ebe1af6156fcd1c5b4570dffceb575222699255875fee8622cdb364616"
+    },
+    {
+      "path": "images/img-18e0d3389ab9.webp",
+      "bytes": 189406,
+      "sha256": "561dbdcde5681e60fc8e247e2ee327c43643f2d4322d94e91a2c4c65da4dccf9"
+    },
+    {
+      "path": "images/img-1a4fe72c18ed.webp",
+      "bytes": 85336,
+      "sha256": "439b3147b724c54d9ed9f6727fc876b45cdd01cc1914d454973345e380d14b01"
+    },
+    {
+      "path": "images/img-21e6df0dc0f7.webp",
+      "bytes": 503728,
+      "sha256": "534005b67a98168d80ed6695c81899cbf7489d3af5edeabc088a02acb0e4f98f"
+    },
+    {
+      "path": "images/img-2645de4a7cfc.webp",
+      "bytes": 197686,
+      "sha256": "9b13b272d5dab5182fb28b30d4f5d227b771659c189f3b8ccae3224ae72d9818"
+    },
+    {
+      "path": "images/img-291c05f130dd.webp",
+      "bytes": 95664,
+      "sha256": "1bc9a31bca1125c731e7c1ad60e089fa09a51b6e64ff0bcb15c5f4adcc01c6d1"
+    },
+    {
+      "path": "images/img-306b0f181632.webp",
+      "bytes": 220102,
+      "sha256": "88cb724136584497c20068e1a892ee760ef83b702fa4bbd5686936204e501429"
+    },
+    {
+      "path": "images/img-363b83c5dfeb.webp",
+      "bytes": 754698,
+      "sha256": "2a28b860acd0865b2f27a57a64c92f36b882579151b3d1a57ec09329e35ba1c0"
+    },
+    {
+      "path": "images/img-3fc91cc1b73f.webp",
+      "bytes": 1168696,
+      "sha256": "d38a0f3242a67ba77f36435d7397da719b079919193a728f64225d4a120bc015"
+    },
+    {
+      "path": "images/img-442e59f5166b.webp",
+      "bytes": 220896,
+      "sha256": "109a578c42c3aead131283666fd66c09cd4a5083c03846c1b44edfe2c03b5805"
+    },
+    {
+      "path": "images/img-47d52fe014b7.webp",
+      "bytes": 78254,
+      "sha256": "4f485ba9d6fb91f6e2808e926ac638b034f95e90fa5e87623b98794d5357b7d0"
+    },
+    {
+      "path": "images/img-4a2c5060e77b.webp",
+      "bytes": 464264,
+      "sha256": "857d2846c790675d88fbca16b61818ff2460488bfb22b42dc82906dddead153f"
+    },
+    {
+      "path": "images/img-512416114438.webp",
+      "bytes": 185242,
+      "sha256": "e26dcf73099cb7706e064a5a44a2b8dbbeb3aa85111aa26a7b9549d09d562eed"
+    },
+    {
+      "path": "images/img-52b63499af3e.webp",
+      "bytes": 823270,
+      "sha256": "0638df9cd3db968a5d10807f177ce4627d30c28eebdcffb149774f2d938ba212"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-611a0900a981.webp",
+      "bytes": 70540,
+      "sha256": "0ea21a572a5f2e3e5fd06d31b76e74ddcf3edd4a433a9595fb85d5e86f1b9d31"
+    },
+    {
+      "path": "images/img-619e9b5ae26e.webp",
+      "bytes": 254894,
+      "sha256": "2228cd6906ad16b95f1f8cd09832014b0c5b5650d539f661b1c8deb51999ee68"
+    },
+    {
+      "path": "images/img-63daf7131382.webp",
+      "bytes": 864904,
+      "sha256": "5934f7bc7ba12d06e40eed1d5b3c207fcc6e392c3928b8282723a8677101c4b3"
+    },
+    {
+      "path": "images/img-715a6f721aa1.webp",
+      "bytes": 1127608,
+      "sha256": "a7661b19364c2f2bc9d3050f2eb44fd9a4f9370eea834b64c11039c8bdcdac81"
+    },
+    {
+      "path": "images/img-8a9573fff2f1.webp",
+      "bytes": 672056,
+      "sha256": "13abbed6dae57dab1c5362ade26f881d06014e710cfa236152330f6b3c15ab8c"
+    },
+    {
+      "path": "images/img-969bbcd1c68a.webp",
+      "bytes": 126752,
+      "sha256": "3bb3e6e9d911268bc4bdbb84e82809f8487436f6260b46efd9752f870595fed1"
+    },
+    {
+      "path": "images/img-9a411e1a86c6.webp",
+      "bytes": 732920,
+      "sha256": "55758ebcb4f20c2993188664b04db6e03a9f7932d8bc5a5f7073049a3e783c42"
+    },
+    {
+      "path": "images/img-a3aa41255705.webp",
+      "bytes": 278030,
+      "sha256": "fef9ac5082e2554533b9b89551046079a34e6ac97606c6da43246663e653a40e"
+    },
+    {
+      "path": "images/img-af64f3d395a1.webp",
+      "bytes": 1003544,
+      "sha256": "75ed69e4c89505b0dea0e7db6b5477e9d2633623a9b36a8f0a5aa9cacb098205"
+    },
+    {
+      "path": "images/img-c5938979ad48.webp",
+      "bytes": 221572,
+      "sha256": "be41afc1cbe8a892d0c6b71d330f72d4529c8d8f938a2e24330364ed5f5a1c73"
+    },
+    {
+      "path": "images/img-c80f2cc93995.webp",
+      "bytes": 190142,
+      "sha256": "bdb05c211afa02c40e2b16dfeec139979f129283751bcdcf99ecb1e6ec4c57f4"
+    },
+    {
+      "path": "images/img-c934e3231b39.webp",
+      "bytes": 206288,
+      "sha256": "52405afb96f43a03571640be3f228140aad82b0754689d46233f21e74e6a292f"
+    },
+    {
+      "path": "images/img-d0289c16d738.webp",
+      "bytes": 603014,
+      "sha256": "55ba17d979f411e2eae0a6e36d0e5630cdebc78eefc414013cfac3ee160da034"
+    },
+    {
+      "path": "images/img-d4a9c5ceba67.webp",
+      "bytes": 608514,
+      "sha256": "1d6a9daaad8066aa97d8888830847840da50997f14383f369a52e1065e639e0e"
+    },
+    {
+      "path": "images/img-d4bca0d4ccf6.webp",
+      "bytes": 121812,
+      "sha256": "dd9e9be6e7d4609b453b478f934b06dcdaff2ad2f1f3a659fecfc9cbd18dbf64"
+    },
+    {
+      "path": "images/img-d746c8a0f0ff.webp",
+      "bytes": 597904,
+      "sha256": "5e5736c6cfdc7ef097697dae8fa22d1d568bfb3bd39684ccc7932430229893f9"
+    },
+    {
+      "path": "images/img-db4960be1dd5.webp",
+      "bytes": 198830,
+      "sha256": "beb9ea9582c710e5a4646dce7f937537d284c25925dd4cee2b91f00d7ca1becf"
+    },
+    {
+      "path": "images/img-e3e6537f1fac.webp",
+      "bytes": 110088,
+      "sha256": "51e952d50583e73d7e2a08c57dbf1256796a16f458fda74519b4304b0431a90c"
+    },
+    {
+      "path": "images/img-e9cc60681b23.webp",
+      "bytes": 192932,
+      "sha256": "41ec9b8d9b91a311a79bbfafa98bd60c3efd0c975be19f5b6b30b59a407b7a04"
+    },
+    {
+      "path": "images/img-f45f454efdbe.webp",
+      "bytes": 208248,
+      "sha256": "6d0083efd33904d970925fafff5ce1849bf3eeac39bde283e6733cc501f16be0"
+    },
+    {
+      "path": "images/img-fe5d2df22eae.webp",
+      "bytes": 168398,
+      "sha256": "20351967566f97e423ac8281fb63c1263dae24fa1f7da27506f6eed751b245c4"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 29730,
+      "sha256": "874d7491258aa65cf189e2ba4e022b3852c3d2e72fa23fa3d96d3be6746f1115"
+    },
+    {
+      "path": "source.html",
+      "bytes": 565205,
+      "sha256": "8e779b764ed0d94b3127a2a131373f0f712986cc27a1558fc6c62a22993e606d"
+    },
+    {
+      "path": "source.url",
+      "bytes": 118,
+      "sha256": "9aec7ef8831a8cc618a21a2a30b263c557b2673564ca78775f779165c783320d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2200xxs.jpg",
+      "path": "images/img-63daf7131382.webp",
+      "media_type": "image/webp",
+      "bytes": 864904,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2200xxs.jpg",
+      "path": "images/img-d0289c16d738.webp",
+      "media_type": "image/webp",
+      "bytes": 603014,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2200xxs.jpg",
+      "path": "images/img-3fc91cc1b73f.webp",
+      "media_type": "image/webp",
+      "bytes": 1168696,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2200xxs.jpg",
+      "path": "images/img-8a9573fff2f1.webp",
+      "media_type": "image/webp",
+      "bytes": 672056,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2200xxs.jpg",
+      "path": "images/img-363b83c5dfeb.webp",
+      "media_type": "image/webp",
+      "bytes": 754698,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/M00000489.png",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/873cacc0-1160-4f5e-8246-591f3dfa996f/je/2000xxs.jpg",
+      "path": "images/img-d746c8a0f0ff.webp",
+      "media_type": "image/webp",
+      "bytes": 597904,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/781f79bb-c2c5-4b3f-b0ac-be4a77d62016/je/2000xxs.jpg",
+      "path": "images/img-a3aa41255705.webp",
+      "media_type": "image/webp",
+      "bytes": 278030,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/1acc2f7b-a95c-4eac-bba1-7bc0f56474cd/je/2000xxs.jpg",
+      "path": "images/img-f45f454efdbe.webp",
+      "media_type": "image/webp",
+      "bytes": 208248,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/9a34e599-a599-457f-9141-90e31856b600/je/2000xxs.jpg",
+      "path": "images/img-fe5d2df22eae.webp",
+      "media_type": "image/webp",
+      "bytes": 168398,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/58f97aee-1e4b-4815-aa79-8e4886c26f39/je/2000xxs.jpg",
+      "path": "images/img-c80f2cc93995.webp",
+      "media_type": "image/webp",
+      "bytes": 190142,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/20f32abe-4724-4d77-8bf9-7dd4f4f513a7/je/2000xxs.jpg",
+      "path": "images/img-db4960be1dd5.webp",
+      "media_type": "image/webp",
+      "bytes": 198830,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/c353c0cf-b718-4b33-a5c3-a883c2380b91/je/2000xxs.jpg",
+      "path": "images/img-306b0f181632.webp",
+      "media_type": "image/webp",
+      "bytes": 220102,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/68aaa2c9-a396-4fd6-9ae7-7a9e9a5736af/je/2000xxs.jpg",
+      "path": "images/img-442e59f5166b.webp",
+      "media_type": "image/webp",
+      "bytes": 220896,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/48428211-4618-4864-ade0-3dc30b3821ad/je/2000xxs.jpg",
+      "path": "images/img-d4bca0d4ccf6.webp",
+      "media_type": "image/webp",
+      "bytes": 121812,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/c35ce4e5-9703-43a4-99c6-44335d5f9695/je/2000xxs.jpg",
+      "path": "images/img-e3e6537f1fac.webp",
+      "media_type": "image/webp",
+      "bytes": 110088,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9c28f901-89eb-4c6d-9304-30ef1b7f6086/je/2000xxs.jpg",
+      "path": "images/img-512416114438.webp",
+      "media_type": "image/webp",
+      "bytes": 185242,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/cde67dbe-1dad-4896-a8d6-096c1b320016/je/2000xxs.jpg",
+      "path": "images/img-619e9b5ae26e.webp",
+      "media_type": "image/webp",
+      "bytes": 254894,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/0447a6e2-cbaa-4a1b-80c6-39a3e8ab0365/je/2000xxs.jpg",
+      "path": "images/img-47d52fe014b7.webp",
+      "media_type": "image/webp",
+      "bytes": 78254,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/547bc715-1767-45f8-94a0-b77ba1775c79/je/2000xxs.jpg",
+      "path": "images/img-2645de4a7cfc.webp",
+      "media_type": "image/webp",
+      "bytes": 197686,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/93f6ad11-360c-4d81-95af-f6da6633c24d/je/2000xxs.jpg",
+      "path": "images/img-c934e3231b39.webp",
+      "media_type": "image/webp",
+      "bytes": 206288,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/11a612c1-b7b6-40aa-85be-6c3e85420722/je/2000xxs.jpg",
+      "path": "images/img-1394f80ea555.webp",
+      "media_type": "image/webp",
+      "bytes": 180984,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/cdbd57b7-8503-4875-8f8a-742e427ea57b/je/2000xxs.jpg",
+      "path": "images/img-969bbcd1c68a.webp",
+      "media_type": "image/webp",
+      "bytes": 126752,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/e9a6bc70-f568-4e72-a4fe-3f12b601767e/je/2000xxs.jpg",
+      "path": "images/img-c5938979ad48.webp",
+      "media_type": "image/webp",
+      "bytes": 221572,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/bcc5ae30-e112-4ae1-881a-fe41f1ea410e/je/2000xxs.jpg",
+      "path": "images/img-611a0900a981.webp",
+      "media_type": "image/webp",
+      "bytes": 70540,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/b39fc028-06c5-4fba-809f-2bdb8970df90/je/2000xxs.jpg",
+      "path": "images/img-1a4fe72c18ed.webp",
+      "media_type": "image/webp",
+      "bytes": 85336,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/1dc4547e-b4d1-4d68-8f38-db5585e56d4b/je/2000xxs.jpg",
+      "path": "images/img-18e0d3389ab9.webp",
+      "media_type": "image/webp",
+      "bytes": 189406,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f65a19c2-0e52-45bb-b3e0-9ce2696397ff/je/2000xxs.jpg",
+      "path": "images/img-291c05f130dd.webp",
+      "media_type": "image/webp",
+      "bytes": 95664,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9ee00eec-3d66-4c7d-b44f-ae27aecf0b54/je/2000xxs.jpg",
+      "path": "images/img-e9cc60681b23.webp",
+      "media_type": "image/webp",
+      "bytes": 192932,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50c522cc-fbd1-4517-897f-cd7c2af97113/je/2000xxs.jpg",
+      "path": "images/img-014fef55239f.webp",
+      "media_type": "image/webp",
+      "bytes": 837222,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/412bd527-cf75-4e00-870d-8bc47a13216b/je/2000xxs.jpg",
+      "path": "images/img-9a411e1a86c6.webp",
+      "media_type": "image/webp",
+      "bytes": 732920,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9b0b8f96-e1dc-4ebc-8447-7fefb0e10d80/je/2000xxs.jpg",
+      "path": "images/img-21e6df0dc0f7.webp",
+      "media_type": "image/webp",
+      "bytes": 503728,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/53b5492d-1d90-43ad-b025-de03f61d13e9/je/2000xxs.jpg",
+      "path": "images/img-4a2c5060e77b.webp",
+      "media_type": "image/webp",
+      "bytes": 464264,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/d020e47b-665a-4c1a-b8d0-340c8b127a7b/je/2000xxs.jpg",
+      "path": "images/img-d4a9c5ceba67.webp",
+      "media_type": "image/webp",
+      "bytes": 608514,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/7685f204-d4ff-4a26-8772-5c3247f0dc9d/je/2000xxs.jpg",
+      "path": "images/img-715a6f721aa1.webp",
+      "media_type": "image/webp",
+      "bytes": 1127608,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/12402450-2d5f-49b8-b628-1e620951becd/je/2000xxs.jpg",
+      "path": "images/img-52b63499af3e.webp",
+      "media_type": "image/webp",
+      "bytes": 823270,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/a00767b6-b5a3-4126-be42-7233c9edb3a1/je/2000xxs.jpg",
+      "path": "images/img-af64f3d395a1.webp",
+      "media_type": "image/webp",
+      "bytes": 1003544,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 37,
+    "images_existing": 0,
+    "images_failed": 13,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

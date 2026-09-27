@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Sleepy Hollow/48 Raafenberg Road/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-e3e33e6e.webp",
+      "href": "004-e3e33e6e.webp",
+      "size": 643320
+    },
+    {
+      "name": "009-b2afcd11.webp",
+      "href": "009-b2afcd11.webp",
+      "size": 792110
+    },
+    {
+      "name": "014-4a46ce32.webp",
+      "href": "014-4a46ce32.webp",
+      "size": 546706
+    },
+    {
+      "name": "019-968656bf.webp",
+      "href": "019-968656bf.webp",
+      "size": 409482
+    },
+    {
+      "name": "024-99502b4c.webp",
+      "href": "024-99502b4c.webp",
+      "size": 140062
+    },
+    {
+      "name": "031-57242b8e.webp",
+      "href": "031-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "032-4055dfde.svg",
+      "href": "032-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "033-272e34fe.svg",
+      "href": "033-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "034-caf7633d.svg",
+      "href": "034-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

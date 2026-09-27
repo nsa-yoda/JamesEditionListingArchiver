@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/triple-c-cattle-ranch-in-carthage-texas-for-sale-17062617",
+    "canonical_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/triple-c-cattle-ranch-in-carthage-texas-for-sale-17062617",
+    "site": "jamesedition",
+    "listing_id": "17062617",
+    "listing_reference": "42139-202521",
+    "first_listed": "Feb 2",
+    "retrieved_at": "2026-06-16T03:43:40.651785Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4909,
+      "sha256": "0e78516cf8b1f35bdece6ff2b4b0e6f3d539ebbe13293807759fd5e36093169e"
+    },
+    {
+      "path": "images/004-451efeaf.webp",
+      "bytes": 651724,
+      "sha256": "f5b92f021cb84d74a5142e1243a0f4f6956b404df4b0537bc84b470a92efda62"
+    },
+    {
+      "path": "images/009-8ab137e4.webp",
+      "bytes": 504096,
+      "sha256": "52d8778d7b2a374214615cd166eaeee4eeee3ba308a59a5bfbfa30a231ec7698"
+    },
+    {
+      "path": "images/014-4ede8ebd.webp",
+      "bytes": 623868,
+      "sha256": "4fd2a26ee2db012f2c2bb99beab9eb4130e997ad70a903484f711b436c33aad6"
+    },
+    {
+      "path": "images/019-1fb00355.webp",
+      "bytes": 485270,
+      "sha256": "38af0cec6e2ac81c493781f4e972b4a0a91cd653bf3ec7b143889a839e86883a"
+    },
+    {
+      "path": "images/024-f37b0aa5.webp",
+      "bytes": 545426,
+      "sha256": "968778aacc62712c57d5df1fd888f628e1b6f1f8a09021b387856f1bf1c41e0f"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 21423,
+      "sha256": "90b58999417afb58630cc1489474ecf7cd427c05d9ca9f36cefec92ac6a60350"
+    },
+    {
+      "path": "source.html",
+      "bytes": 330423,
+      "sha256": "4771b8e8df1ab322030aa6a57bc42d3dd372fe1a43b5e417dbe229d197eaf8b2"
+    },
+    {
+      "path": "source.url",
+      "bytes": 115,
+      "sha256": "00e94eedf0d815f7fa410d947bc25f3d7142382fbc4b4de6d1c05c099a26ac94"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/2200xxs.jpg",
+      "path": "images/004-451efeaf.webp",
+      "media_type": "image/webp",
+      "bytes": 651724,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/2200xxs.jpg",
+      "path": "images/009-8ab137e4.webp",
+      "media_type": "image/webp",
+      "bytes": 504096,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/2200xxs.jpg",
+      "path": "images/014-4ede8ebd.webp",
+      "media_type": "image/webp",
+      "bytes": 623868,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/2200xxs.jpg",
+      "path": "images/019-1fb00355.webp",
+      "media_type": "image/webp",
+      "bytes": 485270,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/2200xxs.jpg",
+      "path": "images/024-f37b0aa5.webp",
+      "media_type": "image/webp",
+      "bytes": 545426,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577-floyd-st-englewood-cliffs-new-jersey-07632-16396759",
+    "canonical_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577-floyd-st-englewood-cliffs-new-jersey-07632-16396759",
+    "site": "jamesedition",
+    "listing_id": "16396759",
+    "listing_reference": "25034367",
+    "first_listed": "Oct 14, 2025",
+    "last_updated": "February 10",
+    "retrieved_at": "2026-06-16T03:43:18.874963Z"
+  },
+  "location": {
+    "address": "577 Floyd St, Englewood Cliffs, NJ 07632, New Jersey, United States",
+    "street": "577 Floyd St",
+    "municipality": "Englewood Cliffs",
+    "region": "New Jersey",
+    "postal_code": "07632",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=40.8856227,-73.9496641",
+    "latitude": 40.8856227,
+    "longitude": -73.9496641
+  },
+  "property": {
+    "title": "577 Floyd St, Englewood Cliffs, New Jersey 07632",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 4500000,
+      "currency": "USD",
+      "display": "$4,500,000"
+    },
+    "price_per_area": {
+      "amount": 637,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$637"
+    },
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "floors": 2,
+    "interior_area": {
+      "value": 7054,
+      "unit": "sqft",
+      "display": "7,054 Sqft"
+    },
+    "lot_area": {
+      "value": 26202,
+      "unit": "sqft",
+      "display": "26,202 Sqft lot"
+    },
+    "year_built": 2025,
+    "photo_count": 121,
+    "video_url": "https://www.youtube.com/embed/cWnqvZPMc8Q?rel=0\u0026autoplay=1\u0026mute=1\u0026loop=1\u0026playlist=cWnqvZPMc8Q\u0026controls=0\u0026iv_load_policy=3\u0026fs=0\u0026disablekb=1\u0026playsinline=1\u0026t=10",
+    "description": "This Modern mansion is a collaboration between J Morra Management, tuaCASA design group and Zampolin Architects. This 6 bed, 6 full bath, 1 half bath, two car garage estate is situated on a 26,202 sq foot lot (0.6 acre) with the residence boasting 7,054 sq. feet of living area. The first floor starts with a grand oversized pivot door and continues to a foyer, gallery, two story great room with double sided fireplace, a chef’s kitchen with commercial appliances and porcelain countertops, a separate prep kitchen and pantry with a second refrigerator and dishwasher, a breakfast area walking out to a covered patio, a library, mud hall and a guest en suite and powder room. The second floor features the primary suite with radiant heating in the master bath with 3 additional bedrooms - all en suite and walk in closets. The basement features a media room, guest room suite, gym and mechanical room. The fenced in backyard is curated for entertaining with a gunite pool and manicured lawns and a sprinkler system. Additional features include protection from whole house back up generator a central vacuum, porcelanosa vanities and tiles, wide plank white oak floors, and an additional outdoor patio surrounding the pool with 2x2 stone.",
+    "features": [
+      "Air Conditioning",
+      "Basement",
+      "Cinema",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Kitchen island",
+      "Laundry Room",
+      "Mansion",
+      "Modern",
+      "New Builds",
+      "Open Kitchen",
+      "Outdoor Living Space",
+      "Parking",
+      "Pool",
+      "Walk In Closet",
+      "Washer Dryer"
+    ]
+  },
+  "broker": {
+    "agent": "Brian Kim",
+    "agent_profile_url": "https://www.jamesedition.com/agents/brian-kim-1934635",
+    "agent_license": "#0124093",
+    "agency": "Proper Estates, Inc.",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/proper-estates-inc-450123",
+    "agency_address": "2160 N. Central Road, Suite 307, 07024, Fort Lee, New Jersey, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/2200xxs.jpg",
+      "file": "004-583ec5c0.webp",
+      "media_type": "image/webp",
+      "bytes": 408006,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/36/c19b102c-4761-493a-bbbc-c9e20bfcc87c/je/2200xxs.jpg",
+      "file": "009-3ae144c1.webp",
+      "media_type": "image/webp",
+      "bytes": 323194,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/28df849e-3d92-4629-bb92-5d5529a93e33/je/2200xxs.jpg",
+      "file": "014-c52be8a4.webp",
+      "media_type": "image/webp",
+      "bytes": 216862,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/cc51a4e6-d53f-4376-8258-4b6a4acc53b4/je/2200xxs.jpg",
+      "file": "019-7cfe484f.webp",
+      "media_type": "image/webp",
+      "bytes": 211730,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/e5d21f68-3754-4907-afd7-485655958f20/je/2200xxs.jpg",
+      "file": "024-d05767f5.webp",
+      "media_type": "image/webp",
+      "bytes": 167252,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "039-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "040-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "041-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "042-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa",
+              "name": "Englewood Cliffs"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577-floyd-st-englewood-cliffs-new-jersey-07632-16396759",
+              "name": "577 Floyd St, Englewood Cliffs, New Jersey 07632"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "This Modern mansion is a collaboration between J Morra Management, tuaCASA design group and Zampolin Architects. This 6 bed, 6 full bath, 1 half bath, two car garage estate is situated on a 26,202 sq foot lot (0.6 acre) with the residence boasting 7,054 sq. feet of living area. The first floor starts with a grand oversized pivot door and continues to a foyer, gallery, two story great room with double sided fireplace, a chef's kitchen with commercial appliances and porcelain countertops, a separate prep kitchen and pantry with a second refrigerator and dishwasher, a breakfast area walking out to a covered patio, a library, mud hall and a guest en suite and powder room. The second floor features the primary suite with radiant heating in the master bath with 3 additional bedrooms - all en suite and walk in closets. The basement features a media room, guest room suite, gym and mechanical room. The fenced in backyard is curated for entertaining with a gunite pool and manicured lawns and a sprinkler system. Additional features include protection from whole house back up generator a central vacuum, porcelanosa vanities and tiles, wide plank white oak floors, and an additional outdoor patio surrounding the pool with 2x2 stone.",
+        "image": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/1040x620xc.jpg",
+        "name": "577 Floyd St, Englewood Cliffs, New Jersey 07632",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 4500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Proper Estates, Inc."
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577-floyd-st-englewood-cliffs-new-jersey-07632-16396759"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%285%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%286%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%287%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%288%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%289%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+}

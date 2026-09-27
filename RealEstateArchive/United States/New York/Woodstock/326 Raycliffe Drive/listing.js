@@ -1,0 +1,486 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326-raycliffe-drive-woodstock-ny-12498-16267201",
+    "canonical_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326-raycliffe-drive-woodstock-ny-12498-16267201",
+    "site": "jamesedition",
+    "listing_id": "16267201",
+    "listing_reference": "xzy7m2",
+    "first_listed": "Sep 26, 2025",
+    "last_updated": "July 14",
+    "retrieved_at": "2026-08-28T00:27:33.565898Z"
+  },
+  "location": {
+    "address": "326 Raycliffe Drive, Woodstock, NY 12498, New York, United States",
+    "street": "326 Raycliffe Drive",
+    "municipality": "Woodstock",
+    "region": "New York",
+    "postal_code": "12498",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=42.077328,-74.07723",
+    "latitude": 42.077328,
+    "longitude": -74.07723
+  },
+  "property": {
+    "title": "326 Raycliffe Drive, Woodstock, Ny 12498",
+    "type": "Land",
+    "availability": "InStock",
+    "price": {
+      "amount": 600000,
+      "currency": "USD",
+      "display": "$600,000"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "lot_area": {
+      "value": 5.45,
+      "display": "5.45 Ac lot"
+    },
+    "photo_count": 23,
+    "description": "Discover a rare opportunity to own 5.45 acres atop one of Woodstock’s most coveted locations. This private, east-facing lot offers panoramic views that stretch endlessly over the Catskill Mountains, providing an awe-inspiring backdrop for your dream home. With the space and natural beauty to build a sleek, modern estate, this land is the perfect canvas for a luxury retreat.Surrounded by the tranquil, wooded mountaintop, you’ll enjoy ultimate privacy while still being just minutes from Woodstock’s vibrant arts and culture scene. The property is cleared and ready for construction, with Board of Health approval for a 4-bedroom, 3000 sqft home. A winding private drive, which is part of the HOA, ensures seclusion, with a security system in place for added peace of mind.Located on the prestigious Raycliffe Drive, this land not only boasts commanding views but also grants deeded access to a private tennis court, offering both luxury and convenience. With its unique rock ledge feature, the property’s rugged charm sets the stage for a home that feels perfectly at one with the landscape.This is more than just a lot—it’s an extraordinary canvas to build a legacy home. The opportunity to create a mountaintop paradise in Woodstock is rare, and this land offers it all: breathtaking views, ultimate privacy, and the chance to live in one of the most desirable locations in the area. Your future home awaits.*This property is located within a private, security-monitored community. All showings must be scheduled in advance and will be personally accompanied by the listing agent. Unaccompanied visits and drive-bys are strictly prohibited. No exceptions.",
+    "features": [
+      "Panoramic / Scenic View",
+      "Privacy",
+      "Tennis Court"
+    ]
+  },
+  "broker": {
+    "agent": "Alexis Li",
+    "agent_profile_url": "https://www.jamesedition.com/agents/alexis-li-1307578",
+    "agency": "Corcoran Country Living",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/corcoran-country-living-120364",
+    "agency_address": "51-3 East Market Street, 12572, Rhinebeck, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/2200xxs.jpg",
+      "file": "img-9ed7a6501598.webp",
+      "media_type": "image/webp",
+      "bytes": 347620,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/2200xxs.jpg",
+      "file": "img-d8bb6d71d3ac.webp",
+      "media_type": "image/webp",
+      "bytes": 273860,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/2200xxs.jpg",
+      "file": "img-53bcb396a58f.webp",
+      "media_type": "image/webp",
+      "bytes": 356758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/2200xxs.jpg",
+      "file": "img-86fc202b874d.webp",
+      "media_type": "image/webp",
+      "bytes": 441538,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/2200xxs.jpg",
+      "file": "img-e9d89fade1f1.webp",
+      "media_type": "image/webp",
+      "bytes": 289648,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/43c04703-903f-47a6-8e4b-c763b958f494/je/2000xxs.jpg",
+      "file": "img-4299f80ef1d0.webp",
+      "media_type": "image/webp",
+      "bytes": 361862,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/f8e59555-9b64-4c83-8b4c-837056b0b335/je/2000xxs.jpg",
+      "file": "img-a7b982e444bb.webp",
+      "media_type": "image/webp",
+      "bytes": 374520,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/48acd010-730a-4d84-91e5-6e537164cf96/je/2000xxs.jpg",
+      "file": "img-403984612a86.webp",
+      "media_type": "image/webp",
+      "bytes": 425538,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/64f04a09-0fd9-4f2a-b88b-541841266cd7/je/2000xxs.jpg",
+      "file": "img-a0c7df32770e.webp",
+      "media_type": "image/webp",
+      "bytes": 468316,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/2d1ce96c-3079-4fb3-bee8-bf363c339a6b/je/2000xxs.jpg",
+      "file": "img-503a03ed9704.webp",
+      "media_type": "image/webp",
+      "bytes": 435372,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/da1e8ee9-df3b-48b9-a78d-2058aea83882/je/2000xxs.jpg",
+      "file": "img-b480f05cec83.webp",
+      "media_type": "image/webp",
+      "bytes": 401148,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a7695df2-7b06-4a94-b8ee-0d1510630332/je/2000xxs.jpg",
+      "file": "img-9fe5acc3a25a.webp",
+      "media_type": "image/webp",
+      "bytes": 534364,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/5325390a-2811-4e03-9743-b1f13fd380a8/je/2000xxs.jpg",
+      "file": "img-7a063137d0ed.webp",
+      "media_type": "image/webp",
+      "bytes": 467596,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/70af82e5-dc3e-4d96-94f0-b26c057f6601/je/2000xxs.jpg",
+      "file": "img-497931e96949.webp",
+      "media_type": "image/webp",
+      "bytes": 386594,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6674c9ff-d886-46b9-8c17-6dac0bcce19e/je/2000xxs.jpg",
+      "file": "img-df1bd37565c4.webp",
+      "media_type": "image/webp",
+      "bytes": 538686,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/7709dfac-16c9-4789-94db-a68fb7bb87a1/je/2000xxs.jpg",
+      "file": "img-942f86b1fd46.webp",
+      "media_type": "image/webp",
+      "bytes": 379148,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/c9c9098a-37ac-4db9-9530-a60a6085e3b3/je/2000xxs.jpg",
+      "file": "img-96f97310af9d.webp",
+      "media_type": "image/webp",
+      "bytes": 325638,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/1104ee5c-32dd-4c1a-8a36-ba5927a82280/je/2000xxs.jpg",
+      "file": "img-4ecac69e8910.webp",
+      "media_type": "image/webp",
+      "bytes": 368468,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/14201ef9-b666-42e5-a803-ad0131014bd5/je/2000xxs.jpg",
+      "file": "img-adbc0cec8064.webp",
+      "media_type": "image/webp",
+      "bytes": 408246,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/86346ad3-4b9d-43a6-8171-592d9d56daed/je/2000xxs.jpg",
+      "file": "img-c92ac22288b3.webp",
+      "media_type": "image/webp",
+      "bytes": 466110,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6539e6c8-e840-40c6-8923-759e5390a846/je/2000xxs.jpg",
+      "file": "img-5ec64ce5bf1a.webp",
+      "media_type": "image/webp",
+      "bytes": 561958,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/bdde16bb-3381-420e-bf4a-be695c3ed4a3/je/2000xxs.jpg",
+      "file": "img-f57f0f6247f1.webp",
+      "media_type": "image/webp",
+      "bytes": 249076,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/aef6f50e-26a9-4277-b74c-2470ce6954fd/je/2000xxs.jpg",
+      "file": "img-de2cf7cdefef.webp",
+      "media_type": "image/webp",
+      "bytes": 210922,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2820%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2821%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2822%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/02/28/20/30/22/0a4c8b54-27b4-4090-b7df-32ebdc984b48/je/80x80xc.jpg",
+      "file": "img-4bded5cabe0d.webp",
+      "media_type": "image/webp",
+      "bytes": 1408,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/woodstock-ny-usa",
+              "name": "Woodstock"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326-raycliffe-drive-woodstock-ny-12498-16267201",
+              "name": "326 Raycliffe Drive, Woodstock, Ny 12498"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Discover a rare opportunity to own 5.45 acres atop one of Woodstock's most coveted locations. This private, east-facing lot offers panoramic views that stretch endlessly over the Catskill Mountains, providing an awe-inspiring backdrop for your dream home. With the space and natural beauty to build a sleek, modern estate, this land is the perfect canvas for a luxury retreat.\nSurrounded by the tranquil, wooded mountaintop, you'll enjoy ultimate privacy while still being just minutes from Woodstock's vibrant arts and culture scene. The property is cleared and ready for construction, with Board of Health approval for a 4-bedroom, 3000 sqft home. A winding private drive, which is part of the HOA, ensures seclusion, with a security system in place for added peace of mind.\nLocated on the prestigious Raycliffe Drive, this land not only boasts commanding views but also grants deeded access to a private tennis court, offering both luxury and convenience. With its unique rock ledge feature, the property's rugged charm sets the stage for a home that feels perfectly at one with the landscape.\nThis is more than just a lot—it's an extraordinary canvas to build a legacy home. The opportunity to create a mountaintop paradise in Woodstock is rare, and this land offers it all: breathtaking views, ultimate privacy, and the chance to live in one of the most desirable locations in the area. Your future home awaits.\n*This property is located within a private, security-monitored community. All showings must be scheduled in advance and will be personally accompanied by the listing agent. Unaccompanied visits and drive-bys are strictly prohibited. No exceptions.",
+        "image": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/1040x620xc.jpg",
+        "name": "326 Raycliffe Drive, Woodstock, Ny 12498",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 600000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Corcoran Country Living"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326-raycliffe-drive-woodstock-ny-12498-16267201"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2820%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2821%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2822%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+  ]
+};

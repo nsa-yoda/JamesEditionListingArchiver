@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kutchan-japan/odin-hills-k-series-villa-lot-k3-15252204",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kutchan-japan/odin-hills-k-series-villa-lot-k3-15252204",
+    "site": "jamesedition",
+    "listing_id": "15252204",
+    "listing_reference": "4517802",
+    "first_listed": "Feb 22, 2025",
+    "last_updated": "December 17, 2025",
+    "retrieved_at": "2026-06-16T03:43:32.120065Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2401,
+      "sha256": "cfce2cb36c3f1fe2aa9dc7bc0c4838ca4e969c3607d4a9c14c0ed3648fbefd8a"
+    },
+    {
+      "path": "images/004-6f0cf4da.webp",
+      "bytes": 298028,
+      "sha256": "9a427a0816349a7e24925c1dcbba361f0059c26711e8b721f74a7ebb6241b57c"
+    },
+    {
+      "path": "images/009-5b380c01.webp",
+      "bytes": 246896,
+      "sha256": "bc683ad07b7a2b06162eb0b12a92c1c35a9bf2ad8c594b935e75dac755c87e79"
+    },
+    {
+      "path": "images/014-d118c774.webp",
+      "bytes": 243366,
+      "sha256": "40a8bbffab71275ebcc7fd7310ecf5366838a4bee0a92bf600d3b462bd11bb65"
+    },
+    {
+      "path": "images/019-e8e322a6.webp",
+      "bytes": 116830,
+      "sha256": "42bc666768ab58a2cc2ff27f596a9b91b2501b325ac3456f2da3a2ac5a8eebb8"
+    },
+    {
+      "path": "images/024-6afc827c.webp",
+      "bytes": 404390,
+      "sha256": "1e2fd20b3f5f5dd40892befd2ad1560d4205fa1c5f56fec2f18e3a9d1781cf43"
+    },
+    {
+      "path": "images/029-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/030-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/031-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/032-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/033-5e31199e.webp",
+      "bytes": 258,
+      "sha256": "78c2b6a66570c08de5b985428aff328d07c6bfd2cb1aadcccfb643863f977552"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15824,
+      "sha256": "f8b3c2a415d6eb1755e776a05da7e240ca9793bd95d1d0a17da50be93d3ab894"
+    },
+    {
+      "path": "source.html",
+      "bytes": 307820,
+      "sha256": "458bdb116f883ce3faf37fc395b29272b85f66429f39d3a4c99dd9e79606047a"
+    },
+    {
+      "path": "source.url",
+      "bytes": 97,
+      "sha256": "6b0631898073d695befcb10c4237f146d4a2c5f8355fc8c54f6cfa930df1f975"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/2200xxs.jpg",
+      "path": "images/004-6f0cf4da.webp",
+      "media_type": "image/webp",
+      "bytes": 298028,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4d8eda2a-7ffd-47bb-b713-89176fb90e0f/je/2200xxs.jpg",
+      "path": "images/009-5b380c01.webp",
+      "media_type": "image/webp",
+      "bytes": 246896,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/2e1c7343-c844-4e3e-9b28-1f700c9d7f9d/je/2200xxs.jpg",
+      "path": "images/014-d118c774.webp",
+      "media_type": "image/webp",
+      "bytes": 243366,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/af806e7b-2361-4f44-9cfc-166391722f52/je/2200xxs.jpg",
+      "path": "images/019-e8e322a6.webp",
+      "media_type": "image/webp",
+      "bytes": 116830,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4f5c6bea-dace-4d1b-bfbe-b9598e3c4f61/je/2200xxs.jpg",
+      "path": "images/024-6afc827c.webp",
+      "media_type": "image/webp",
+      "bytes": 404390,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/23/08/44/59/c8ee863e-908b-4d5b-b613-4ee6562c5fbf/je/80x80xc.jpg",
+      "path": "images/033-5e31199e.webp",
+      "media_type": "image/webp",
+      "bytes": 258,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

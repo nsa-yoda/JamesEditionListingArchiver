@@ -1,0 +1,59 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Japan/Hokkaido/Furano/Shimogoryo/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-b7eca5b3.webp",
+      "href": "004-b7eca5b3.webp",
+      "size": 558052
+    },
+    {
+      "name": "009-93ec7e2f.webp",
+      "href": "009-93ec7e2f.webp",
+      "size": 226002
+    },
+    {
+      "name": "014-e1e753f6.webp",
+      "href": "014-e1e753f6.webp",
+      "size": 256580
+    },
+    {
+      "name": "019-8f2ef150.webp",
+      "href": "019-8f2ef150.webp",
+      "size": 373412
+    },
+    {
+      "name": "024-5b3ee485.webp",
+      "href": "024-5b3ee485.webp",
+      "size": 156862
+    },
+    {
+      "name": "029-57242b8e.webp",
+      "href": "029-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "030-4055dfde.svg",
+      "href": "030-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "031-272e34fe.svg",
+      "href": "031-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "032-caf7633d.svg",
+      "href": "032-caf7633d.svg",
+      "size": 63710
+    },
+    {
+      "name": "033-5e31199e.webp",
+      "href": "033-5e31199e.webp",
+      "size": 258
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

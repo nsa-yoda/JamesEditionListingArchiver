@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/an-awe-inspiring-retreat-situated-on-forty-private-acres-15841182",
+    "canonical_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/an-awe-inspiring-retreat-situated-on-forty-private-acres-15841182",
+    "site": "jamesedition",
+    "listing_id": "15841182",
+    "listing_reference": "9B7KCP",
+    "first_listed": "Jun 25, 2025",
+    "last_updated": "April 16",
+    "retrieved_at": "2026-06-16T03:43:21.190557Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2907,
+      "sha256": "7786718ac1e368cb7db0d3dd2be83e9c10b4bd0a2e90b49e1366e488e37137d8"
+    },
+    {
+      "path": "images/004-cdad6f2d.webp",
+      "bytes": 340982,
+      "sha256": "52b5b9710ff0e24169ff209a467b02a59ab9e97b222adc688770d702d5ef6030"
+    },
+    {
+      "path": "images/009-f7cff98e.webp",
+      "bytes": 401376,
+      "sha256": "9699ec0eae1fd77eb7b43971b42eebb23899153aec2bc3dd622b68644e8503c1"
+    },
+    {
+      "path": "images/014-08040fa8.webp",
+      "bytes": 383728,
+      "sha256": "6a944ed535211cf0d3487573a17155d4438566e60b328fadf5c80a9aab5ba916"
+    },
+    {
+      "path": "images/019-0afe36a9.webp",
+      "bytes": 253358,
+      "sha256": "270ea5de7a207b1921ac3bad493e46e84a60cd0f01b447f059ef73371f0c59c6"
+    },
+    {
+      "path": "images/024-94229875.webp",
+      "bytes": 277388,
+      "sha256": "79c9f6737cae48f6fe7e77f7db036a481a0ddf68b8328e57bfedb05a69f08ea1"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17183,
+      "sha256": "c59d800c5ba99768480550aab1958781274160d4ac1ef7bed65d6e1a1c6c4119"
+    },
+    {
+      "path": "source.html",
+      "bytes": 348089,
+      "sha256": "58a54075c3487735dc9084574add95c114a4a3a9b30b9dc230c5b53543be97bb"
+    },
+    {
+      "path": "source.url",
+      "bytes": 134,
+      "sha256": "7f1ecfbbc8c6743384ab8ae9ae5779b5a11b9b58471b4f06dd7e414045d7401b"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/2200xxs.jpg",
+      "path": "images/004-cdad6f2d.webp",
+      "media_type": "image/webp",
+      "bytes": 340982,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/1c77e6d7-049c-4f1c-96aa-9c0ec04636dd/je/2200xxs.jpg",
+      "path": "images/009-f7cff98e.webp",
+      "media_type": "image/webp",
+      "bytes": 401376,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/36d69bea-c3aa-4723-889a-2d2026c8d6b1/je/2200xxs.jpg",
+      "path": "images/014-08040fa8.webp",
+      "media_type": "image/webp",
+      "bytes": 383728,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/91b3d246-5c79-4509-979a-5b4c3d45d38a/je/2200xxs.jpg",
+      "path": "images/019-0afe36a9.webp",
+      "media_type": "image/webp",
+      "bytes": 253358,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/492e3ce9-bd86-4917-a961-a07af40e1773/je/2200xxs.jpg",
+      "path": "images/024-94229875.webp",
+      "media_type": "image/webp",
+      "bytes": 277388,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

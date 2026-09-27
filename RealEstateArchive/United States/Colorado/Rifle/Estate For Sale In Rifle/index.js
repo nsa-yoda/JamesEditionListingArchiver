@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Colorado/Rifle/Estate For Sale In Rifle",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 20839
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 10496
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 2483
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 330245
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 97
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912-view-ridge-dr-17829121",
+    "canonical_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912-view-ridge-dr-17829121",
+    "site": "jamesedition",
+    "listing_id": "17829121",
+    "listing_reference": "214535752.0",
+    "first_listed": "May 2",
+    "last_updated": "May 29",
+    "retrieved_at": "2026-06-16T03:43:13.773486Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3698,
+      "sha256": "cea07170be729afdaa3056465d67d1c29e4e8bc5e36085a8d3d184775310c574"
+    },
+    {
+      "path": "images/004-c0dfde00.webp",
+      "bytes": 307770,
+      "sha256": "159000e5ef7b47954e5b2e651544e8c3fc2b5a3eb651a3177232b7c3c24b700b"
+    },
+    {
+      "path": "images/009-efc614eb.webp",
+      "bytes": 574924,
+      "sha256": "832da6408bd9aac0f0e44f125e9e3aab254eb640b85156b2062ff2e6d920768c"
+    },
+    {
+      "path": "images/014-bad31c3e.webp",
+      "bytes": 497706,
+      "sha256": "c467a61990386812454a6ff343f10c2e86e6f2985761689a2ac3d62ac2aa4629"
+    },
+    {
+      "path": "images/019-a4fb0307.webp",
+      "bytes": 431296,
+      "sha256": "e3435cdb13a208c306229e119b6ba986ec7ef8da4430214ee19ebd0913910d3c"
+    },
+    {
+      "path": "images/024-3dc210d0.webp",
+      "bytes": 407652,
+      "sha256": "eaf9b5bc77d3527f1becd32e2769d3bdb5e761ed55bc8e8a6d4507d8d82f4901"
+    },
+    {
+      "path": "images/039-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/040-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/041-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/042-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/043-e1e6d4af.webp",
+      "bytes": 1526,
+      "sha256": "6b26ed44fe6f46d52a2bffb829a2c9d72411f6ceda3a3912e42393bdc5b91d44"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23110,
+      "sha256": "06eda0b0e9029fe9b5bdbcb4e1d3f11229d3e48fa3ef6c4dd820f0947fd3e0f3"
+    },
+    {
+      "path": "source.html",
+      "bytes": 343604,
+      "sha256": "c0379bf7f3d87eaeb0bf37bf71fa9a1b173759936e766c63690e3b20611f3f44"
+    },
+    {
+      "path": "source.url",
+      "bytes": 87,
+      "sha256": "d2c61e03bef52e8e3c4ed538b86ae0883ca67209c8685c56004130328561fa1b"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/2200xxs.jpg",
+      "path": "images/004-c0dfde00.webp",
+      "media_type": "image/webp",
+      "bytes": 307770,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/2200xxs.jpg",
+      "path": "images/009-efc614eb.webp",
+      "media_type": "image/webp",
+      "bytes": 574924,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/2200xxs.jpg",
+      "path": "images/014-bad31c3e.webp",
+      "media_type": "image/webp",
+      "bytes": 497706,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/2200xxs.jpg",
+      "path": "images/019-a4fb0307.webp",
+      "media_type": "image/webp",
+      "bytes": 431296,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/2200xxs.jpg",
+      "path": "images/024-3dc210d0.webp",
+      "media_type": "image/webp",
+      "bytes": 407652,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/039-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/040-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/041-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/042-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/05/03/16/46/19/da70896f-1bb9-47b6-b696-797f0afd2bce/je/80x80xc.jpg",
+      "path": "images/043-e1e6d4af.webp",
+      "media_type": "image/webp",
+      "bytes": 1526,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 17,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

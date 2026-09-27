@@ -1,0 +1,59 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/San Clemente/4130 Calle Isabella/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-0b8431c2.webp",
+      "href": "004-0b8431c2.webp",
+      "size": 787164
+    },
+    {
+      "name": "009-658ee250.webp",
+      "href": "009-658ee250.webp",
+      "size": 239344
+    },
+    {
+      "name": "014-b42a1557.webp",
+      "href": "014-b42a1557.webp",
+      "size": 198066
+    },
+    {
+      "name": "019-56474e5c.webp",
+      "href": "019-56474e5c.webp",
+      "size": 282282
+    },
+    {
+      "name": "024-d9188e08.webp",
+      "href": "024-d9188e08.webp",
+      "size": 148932
+    },
+    {
+      "name": "030-57242b8e.webp",
+      "href": "030-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "031-4055dfde.svg",
+      "href": "031-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "032-272e34fe.svg",
+      "href": "032-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "033-caf7633d.svg",
+      "href": "033-caf7633d.svg",
+      "size": 63710
+    },
+    {
+      "name": "034-dbaf5181.webp",
+      "href": "034-dbaf5181.webp",
+      "size": 936
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

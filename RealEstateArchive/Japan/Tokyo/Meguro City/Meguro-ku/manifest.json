@@ -1,0 +1,407 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/the-yakumo-franck-muller-residence-18186368",
+    "canonical_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/the-yakumo-franck-muller-residence-18186368",
+    "site": "jamesedition",
+    "listing_id": "18186368",
+    "listing_reference": "Q9GJXE",
+    "first_listed": "Jun 16",
+    "last_updated": "June 16",
+    "retrieved_at": "2026-08-28T00:32:02.823102Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2556,
+      "sha256": "c2e183cbe7f8a357f4f69adf98755e6ce3120870d35b5e313321bb1a738e00cd"
+    },
+    {
+      "path": "images/img-02ed18f44345.webp",
+      "bytes": 161298,
+      "sha256": "513ff640b224eb003829e0fcb843cb59a12c15c477b26fb628969a733d8f50b7"
+    },
+    {
+      "path": "images/img-10d5d3213893.webp",
+      "bytes": 233676,
+      "sha256": "36347b481d2b37107f0309f7ad359195f34d4e0cbd0338ea70772a4c2d084185"
+    },
+    {
+      "path": "images/img-1f2268b9d03d.webp",
+      "bytes": 226750,
+      "sha256": "972cea9e6966d8c3b7d46d526e7ce41be421ade4f6435813655f15cd5b2a862a"
+    },
+    {
+      "path": "images/img-2cab146d36be.webp",
+      "bytes": 299354,
+      "sha256": "5f6dd6d66f5116010d077e80d104fe474ba98b4275ae04fd805e47e67966254a"
+    },
+    {
+      "path": "images/img-37de81734b68.webp",
+      "bytes": 215900,
+      "sha256": "e56e15080ed72360ec9f6dc76d205491e52fb258821ef7b26a3fec62280333d5"
+    },
+    {
+      "path": "images/img-4820d0dbe5b4.webp",
+      "bytes": 129984,
+      "sha256": "e99e5890ad27c301d6cb932a643b48b25eedf5403ee51ef32aeacd7c99d577f6"
+    },
+    {
+      "path": "images/img-4b60912e7675.webp",
+      "bytes": 669654,
+      "sha256": "0dad503e814892be359336519b246ec2db0b6f8f8c637877c008946e2e12d436"
+    },
+    {
+      "path": "images/img-569cd9762ad5.webp",
+      "bytes": 107538,
+      "sha256": "ec74c432f03ab3238089745e511b3c3b053f9f7a833826c099ab06781ff3a786"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-68102edfe889.webp",
+      "bytes": 139854,
+      "sha256": "af29e39ce73cce485d45cfec394717bf179bbaa5e90f71526fe65b3ee0bc7529"
+    },
+    {
+      "path": "images/img-74f0317677e8.webp",
+      "bytes": 250032,
+      "sha256": "1380e03fdf182c619edadcd12a1e2faa0740c371dc33223f0c0d6717c03a9bbd"
+    },
+    {
+      "path": "images/img-755e24926b25.webp",
+      "bytes": 179762,
+      "sha256": "9c6786e0dcc851afc46cbbca3423e9eb09f462bf4e9b06a6a94a846d7e66ceda"
+    },
+    {
+      "path": "images/img-7a92e633dbe8.webp",
+      "bytes": 237430,
+      "sha256": "307038824b5c3f8b21863cb76b963b6ba029f22f737031f67dc2674b82de1ac8"
+    },
+    {
+      "path": "images/img-bc6d56f6ade6.webp",
+      "bytes": 244674,
+      "sha256": "651a85676d179e19d05a27d5ad6b15ff54d164af046ecfb18f38fc4ab24cd74a"
+    },
+    {
+      "path": "images/img-c6fc9d312606.webp",
+      "bytes": 111364,
+      "sha256": "7776fe3e9d23bc0ceb782a7eef4a118956cce69de5da11b7e20903f0f878f524"
+    },
+    {
+      "path": "images/img-db0be2a42f12.webp",
+      "bytes": 208686,
+      "sha256": "99ac981ede096fdc6f0ad46017fc86174cab5cc835ad36d5cf32584ad58c6002"
+    },
+    {
+      "path": "images/img-e6f876061c9b.webp",
+      "bytes": 279756,
+      "sha256": "2ae2425a4487b00ebaa8ceebb93ef8f9cb6b13b2b671f6b0e5b13a00e1e173f8"
+    },
+    {
+      "path": "images/img-fb74fae1847d.webp",
+      "bytes": 292190,
+      "sha256": "e395818821ae4fd24b6104224c676e3dc5744b792d9ab5a40178742a66842f91"
+    },
+    {
+      "path": "images/img-fe3df681781e.webp",
+      "bytes": 477912,
+      "sha256": "85c1818f75ee5b277c08dcd0d3382a9b264b148ad5fe0e0e9085fd19fad50ede"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 25804,
+      "sha256": "b80e688b9ac96223b54517f7fb9b17eb09a197f7f5c8bc99432acda63f398d6f"
+    },
+    {
+      "path": "source.html",
+      "bytes": 459892,
+      "sha256": "06b21a971bf9575e6169a26907bf481a1ae8f2e229b66aef1be1352b42a64214"
+    },
+    {
+      "path": "source.url",
+      "bytes": 101,
+      "sha256": "d04c7d70032e77c92b084df654a5cb1ced2b25fac8535253b3aab8fa99172ac4"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/a1baccd9-a85d-4ed7-bd06-509b08f1af93/je/2200xxs.jpg",
+      "path": "images/img-fb74fae1847d.webp",
+      "media_type": "image/webp",
+      "bytes": 292190,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/1c70114f-43a9-4755-8f99-4e540f1147a0/je/2200xxs.jpg",
+      "path": "images/img-2cab146d36be.webp",
+      "media_type": "image/webp",
+      "bytes": 299354,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/3bcf813d-0fa4-43ee-884e-93ab2c6b346b/je/2200xxs.jpg",
+      "path": "images/img-7a92e633dbe8.webp",
+      "media_type": "image/webp",
+      "bytes": 237430,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/0478dbf3-0347-4732-905d-20635e6a7bdf/je/2200xxs.jpg",
+      "path": "images/img-37de81734b68.webp",
+      "media_type": "image/webp",
+      "bytes": 215900,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/99981aa9-15f5-4751-8ae8-1cf6be7e44f5/je/2200xxs.jpg",
+      "path": "images/img-bc6d56f6ade6.webp",
+      "media_type": "image/webp",
+      "bytes": 244674,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/48965fa3-3a0b-42d8-bd2d-51a45a271b2a/je/2000xxs.jpg",
+      "path": "images/img-755e24926b25.webp",
+      "media_type": "image/webp",
+      "bytes": 179762,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/c20bbcf4-8532-4fe4-95dd-21847350d6bf/je/2000xxs.jpg",
+      "path": "images/img-e6f876061c9b.webp",
+      "media_type": "image/webp",
+      "bytes": 279756,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/929111e8-1ab8-434a-b5ce-7a83e2a06966/je/2000xxs.jpg",
+      "path": "images/img-fe3df681781e.webp",
+      "media_type": "image/webp",
+      "bytes": 477912,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/2b4e24e5-338d-4170-8520-753dc1fba1b0/je/2000xxs.jpg",
+      "path": "images/img-db0be2a42f12.webp",
+      "media_type": "image/webp",
+      "bytes": 208686,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/22884e8d-1cac-4a20-81fd-c14e962b1c6b/je/2000xxs.jpg",
+      "path": "images/img-10d5d3213893.webp",
+      "media_type": "image/webp",
+      "bytes": 233676,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/0e7cef33-176a-4200-80a4-40f544fe1014/je/2000xxs.jpg",
+      "path": "images/img-74f0317677e8.webp",
+      "media_type": "image/webp",
+      "bytes": 250032,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/85834282-f96b-44ed-9fb6-5d72d274e1f0/je/2000xxs.jpg",
+      "path": "images/img-1f2268b9d03d.webp",
+      "media_type": "image/webp",
+      "bytes": 226750,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/3f1f99dc-e357-4087-995c-b253fb1ebdeb/je/2000xxs.jpg",
+      "path": "images/img-c6fc9d312606.webp",
+      "media_type": "image/webp",
+      "bytes": 111364,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/f864b362-a6a9-4f2a-9a28-4259835cf422/je/2000xxs.jpg",
+      "path": "images/img-68102edfe889.webp",
+      "media_type": "image/webp",
+      "bytes": 139854,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/db97d69b-e73c-4395-b37a-7ee043bfea28/je/2000xxs.jpg",
+      "path": "images/img-02ed18f44345.webp",
+      "media_type": "image/webp",
+      "bytes": 161298,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/0518cbac-b6b9-47b3-9ed7-4639a3d5c39a/je/2000xxs.jpg",
+      "path": "images/img-569cd9762ad5.webp",
+      "media_type": "image/webp",
+      "bytes": 107538,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/9f65c02a-bd03-48a0-8daf-34eec836c8fd/je/2000xxs.jpg",
+      "path": "images/img-4820d0dbe5b4.webp",
+      "media_type": "image/webp",
+      "bytes": 129984,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/04/1cf01176-2e21-4929-b8ef-5d8cc73c3f58/je/2000xxs.jpg",
+      "path": "images/img-4b60912e7675.webp",
+      "media_type": "image/webp",
+      "bytes": 669654,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/2200xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/meguro-ku-japan/The%20Yakumo%20Franck%20Muller%20Residence%20In%20Meguro%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818186368%29_files/2200xxsxm%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 19,
+    "images_existing": 0,
+    "images_failed": 19,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

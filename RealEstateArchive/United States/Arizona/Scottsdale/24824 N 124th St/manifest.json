@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824-n-124th-st-17564409",
+    "canonical_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824-n-124th-st-17564409",
+    "site": "jamesedition",
+    "listing_id": "17564409",
+    "listing_reference": "213518741.0",
+    "first_listed": "Apr 4",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-06-16T03:43:16.534203Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4005,
+      "sha256": "478f91eb542699cac72329e64819f96ebfcf0552b399dffba4a3169be53b8a76"
+    },
+    {
+      "path": "images/004-29402c4a.webp",
+      "bytes": 407950,
+      "sha256": "2446e600a656b1c3981033441af51e9edc4482f96eb55b98f758d04eecfd121e"
+    },
+    {
+      "path": "images/009-9bba6515.webp",
+      "bytes": 318214,
+      "sha256": "08eb543cd53ebab3bfc1f6980ae42cc4f858b513da815714004518e49d3845e8"
+    },
+    {
+      "path": "images/014-0276a946.webp",
+      "bytes": 371912,
+      "sha256": "ae9c646444bdf0e556cb120f8fb74377b809cf76d8d99d430bbd4fd8ae86c509"
+    },
+    {
+      "path": "images/019-8aeded98.webp",
+      "bytes": 370366,
+      "sha256": "52942b867d28d1a8d12100f64f23c41199fea47e41d4f39eecde7c59686703a8"
+    },
+    {
+      "path": "images/024-07a22a85.webp",
+      "bytes": 309580,
+      "sha256": "85d3ca666b4a9fb82bf8cbeb67af9934f9bd09fc3f7b04b5372724a92e6d71bc"
+    },
+    {
+      "path": "images/039-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/040-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/041-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/042-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/043-f8dcee28.webp",
+      "bytes": 2196,
+      "sha256": "48ac7f2ee1d39078dc5f904fc3857817d6bb1f127ee4bc4473eaf8a5157dd83e"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23393,
+      "sha256": "1a79aa8de0f69202bfab01928e1a51638c9133897fc93b79aa977daf64a856c8"
+    },
+    {
+      "path": "source.html",
+      "bytes": 368108,
+      "sha256": "da186f79e1de733a2d3ec9579f3a7fc0036e52b5b8927fc7d9657c32e5d9696d"
+    },
+    {
+      "path": "source.url",
+      "bytes": 85,
+      "sha256": "b6376be05ffd7f783eb4ebc8bab54a1fc362dc8445c82de441bf34b9a9e69e43"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/2200xxs.jpg",
+      "path": "images/004-29402c4a.webp",
+      "media_type": "image/webp",
+      "bytes": 407950,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/2200xxs.jpg",
+      "path": "images/009-9bba6515.webp",
+      "media_type": "image/webp",
+      "bytes": 318214,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/2200xxs.jpg",
+      "path": "images/014-0276a946.webp",
+      "media_type": "image/webp",
+      "bytes": 371912,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/2200xxs.jpg",
+      "path": "images/019-8aeded98.webp",
+      "media_type": "image/webp",
+      "bytes": 370366,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/2200xxs.jpg",
+      "path": "images/024-07a22a85.webp",
+      "media_type": "image/webp",
+      "bytes": 309580,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/039-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/040-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/041-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/042-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/20/03/07/44/09bfdfcb-9704-4abc-affa-e641ad522381/je/80x80xc.jpg",
+      "path": "images/043-f8dcee28.webp",
+      "media_type": "image/webp",
+      "bytes": 2196,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 17,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

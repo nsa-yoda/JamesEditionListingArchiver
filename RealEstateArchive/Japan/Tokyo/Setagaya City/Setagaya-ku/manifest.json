@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/kamisoshigaya-1-chome-newly-built-house-18322810",
+    "canonical_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/kamisoshigaya-1-chome-newly-built-house-18322810",
+    "site": "jamesedition",
+    "listing_id": "18322810",
+    "listing_reference": "4MLV7G",
+    "first_listed": "Jul 2",
+    "last_updated": "July 2",
+    "retrieved_at": "2026-08-28T00:28:53.082026Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2437,
+      "sha256": "841891c1e4ac6e34c3a609946629c5af52dbd829b87a4cd89582998302ff24d3"
+    },
+    {
+      "path": "images/img-207f254aec1f.webp",
+      "bytes": 187550,
+      "sha256": "8a9358b06d8f8bf8e0470c1a7cf0b41c6bb60b7beabc54d227a27c7c2ca92e21"
+    },
+    {
+      "path": "images/img-42987c706b11.webp",
+      "bytes": 98238,
+      "sha256": "1d1539ed5091046471a2fc813e56d37e9f1d3d18f4120d32f8da7a7d9a89b010"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-629d0797cc0d.webp",
+      "bytes": 124718,
+      "sha256": "6faea632d7d1fccb7a0b250507831385a16f983eaf8822c8615dfb0117654e1c"
+    },
+    {
+      "path": "images/img-7ac155a076ef.webp",
+      "bytes": 121828,
+      "sha256": "77a4b3857214d4c7bda77d994d2e0776439af463d8abba04ccb1e37833ada576"
+    },
+    {
+      "path": "images/img-87d8c2a0716c.webp",
+      "bytes": 123060,
+      "sha256": "d5b6b069f8f5ca418d0c3aacc3884be322cb14c6ead898cfe8c14ab129e04526"
+    },
+    {
+      "path": "images/img-955f8278d06f.webp",
+      "bytes": 118042,
+      "sha256": "95d7b8dbd6b8e82cccf26cc94eae5286df59e9650462830931782413236df0e0"
+    },
+    {
+      "path": "images/img-9aec0008b70f.webp",
+      "bytes": 221838,
+      "sha256": "dbbdccba066f5c5bc403c3c5beb94bac66826bb47e1af9fcf80265f51c3d1198"
+    },
+    {
+      "path": "images/img-a2e0ae8c4c3b.webp",
+      "bytes": 310294,
+      "sha256": "1dcf9f148e3a9168f367bcf57e2642bf8f93dcbfdfe838f367908ad88972f7aa"
+    },
+    {
+      "path": "images/img-b40978d5ccba.webp",
+      "bytes": 191726,
+      "sha256": "fbecd86bfa510dd9848c15e0534553046c19e02ed912f21d65cdc3e3fd973fe2"
+    },
+    {
+      "path": "images/img-b86232cc904a.webp",
+      "bytes": 117600,
+      "sha256": "d06461d85750558e8361a475e8be5612f79c1a04fa968badb71515f145ce5328"
+    },
+    {
+      "path": "images/img-c32a2b48b71d.webp",
+      "bytes": 138720,
+      "sha256": "266044b9b2b81482bd99e578a8adffdee9540915f8f82342d188ed30e1697dcf"
+    },
+    {
+      "path": "images/img-cae33e261cd4.webp",
+      "bytes": 409514,
+      "sha256": "e61607582a9d69cdcdc41ac75cbbe9520440db7da2d86c6ae4cb0c0e71471075"
+    },
+    {
+      "path": "images/img-cfb48104f8c8.webp",
+      "bytes": 157954,
+      "sha256": "bb400f1ad340e3b68bcccc0c4a612cede0a9fb1fe5c03936f3db95bdf40567b9"
+    },
+    {
+      "path": "images/img-db0631288ee0.webp",
+      "bytes": 119704,
+      "sha256": "b57a0ace991e8087ceb5bb587b3e041cc97acd6d7ad419d19dc20c68c9e37b22"
+    },
+    {
+      "path": "images/img-de6838d67bbc.webp",
+      "bytes": 184620,
+      "sha256": "5bdff801e78c34bdbd8cc77fa51c1899980e406dbf6cc2e03383dace5d088600"
+    },
+    {
+      "path": "images/img-e5014c319fd0.webp",
+      "bytes": 425866,
+      "sha256": "e10f74f06f8846c265dc83938e061b971696b673a6ac3bf4bd5fb29e1c08173b"
+    },
+    {
+      "path": "images/img-eb3bc5bc72c2.webp",
+      "bytes": 231642,
+      "sha256": "95cad5fab1965c4c7985bbf1ce76df1a6bfeac56a330196bb2e1a4271d5433be"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 25690,
+      "sha256": "1a991f58fc643c97a99e43f2fc48c5ef8f6e5b4943a86a19e8210b89b528c1ef"
+    },
+    {
+      "path": "source.html",
+      "bytes": 488669,
+      "sha256": "c4823052483ec4d92bace687acdf184c93478217cd151c18023b327151818480"
+    },
+    {
+      "path": "source.url",
+      "bytes": 108,
+      "sha256": "a765c69762dd12f2ae41fd40a4776bed2d7b16a46db4024986934610c614ddbc"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/f4ad968e-b434-465c-b1bb-8b47e3a8234f/je/2200xxs.jpg",
+      "path": "images/img-eb3bc5bc72c2.webp",
+      "media_type": "image/webp",
+      "bytes": 231642,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/42b20f96-cc19-4478-8ffb-61f4267b30bf/je/2200xxs.jpg",
+      "path": "images/img-9aec0008b70f.webp",
+      "media_type": "image/webp",
+      "bytes": 221838,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/9d349e6f-7a51-46d5-a7b8-456ae4e04504/je/2200xxs.jpg",
+      "path": "images/img-42987c706b11.webp",
+      "media_type": "image/webp",
+      "bytes": 98238,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/7b12ae76-569c-4acd-8655-dadb00d610c7/je/2200xxs.jpg",
+      "path": "images/img-b40978d5ccba.webp",
+      "media_type": "image/webp",
+      "bytes": 191726,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/0efacf57-da91-46e7-974b-081f80ba880f/je/2200xxs.jpg",
+      "path": "images/img-7ac155a076ef.webp",
+      "media_type": "image/webp",
+      "bytes": 121828,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/0fbeee0e-ba5d-4d2c-a6c9-7f4f9c059a23/je/2000xxs.jpg",
+      "path": "images/img-cae33e261cd4.webp",
+      "media_type": "image/webp",
+      "bytes": 409514,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/8d0a5e00-ed80-4f99-a407-a153c89492c2/je/2000xxs.jpg",
+      "path": "images/img-b86232cc904a.webp",
+      "media_type": "image/webp",
+      "bytes": 117600,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/68777b1d-3eee-4635-acc7-70c711b97307/je/2000xxs.jpg",
+      "path": "images/img-e5014c319fd0.webp",
+      "media_type": "image/webp",
+      "bytes": 425866,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/35a91937-4e26-41f7-ad10-acbc7a20b043/je/2000xxs.jpg",
+      "path": "images/img-cfb48104f8c8.webp",
+      "media_type": "image/webp",
+      "bytes": 157954,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/13778a12-faa8-44a7-a827-e7ea7ce916d6/je/2000xxs.jpg",
+      "path": "images/img-629d0797cc0d.webp",
+      "media_type": "image/webp",
+      "bytes": 124718,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/e5a96816-f332-4649-aaa8-bb9e53362348/je/2000xxs.jpg",
+      "path": "images/img-207f254aec1f.webp",
+      "media_type": "image/webp",
+      "bytes": 187550,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/3dc67c6d-643a-4109-a7fd-3925054ea4af/je/2000xxs.jpg",
+      "path": "images/img-c32a2b48b71d.webp",
+      "media_type": "image/webp",
+      "bytes": 138720,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/40e80529-a6d5-418f-ac2a-4599ced6a87e/je/2000xxs.jpg",
+      "path": "images/img-87d8c2a0716c.webp",
+      "media_type": "image/webp",
+      "bytes": 123060,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/36dda412-0516-4b9c-b6cb-de1080c64ccf/je/2000xxs.jpg",
+      "path": "images/img-db0631288ee0.webp",
+      "media_type": "image/webp",
+      "bytes": 119704,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/549f09fa-06e8-48df-b62b-d0e97b6846f1/je/2000xxs.jpg",
+      "path": "images/img-955f8278d06f.webp",
+      "media_type": "image/webp",
+      "bytes": 118042,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/144caca7-df14-4ab3-a15f-194111cc6f14/je/2000xxs.jpg",
+      "path": "images/img-de6838d67bbc.webp",
+      "media_type": "image/webp",
+      "bytes": 184620,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/bd655fd0-c9f2-4441-b9c7-0f296df7124e/je/2000xxs.jpg",
+      "path": "images/img-a2e0ae8c4c3b.webp",
+      "media_type": "image/webp",
+      "bytes": 310294,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/2200xxsxm%2816%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Kamisoshigaya%201%20Chome%20Newly%20Built%20House%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818322810%29_files/2200xxsxm%2815%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 18,
+    "images_existing": 0,
+    "images_failed": 19,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,317 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/single-family-residence-in-ancramdale-16979115",
+    "canonical_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/single-family-residence-in-ancramdale-16979115",
+    "site": "jamesedition",
+    "listing_id": "16979115",
+    "listing_reference": "922447",
+    "first_listed": "Jan 22",
+    "last_updated": "March 30",
+    "retrieved_at": "2026-06-18T07:08:49.200411Z"
+  },
+  "location": {
+    "address": "281 County Route 3, Ancramdale, New York, United States",
+    "street": "281 County Route 3",
+    "municipality": "Ancramdale",
+    "region": "New York",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=42.031084,-73.577285",
+    "latitude": 42.031084,
+    "longitude": -73.577285
+  },
+  "property": {
+    "title": "Single Family Residence In Ancramdale",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 90000000,
+      "currency": "USD",
+      "display": "$90,000,000"
+    },
+    "price_per_area": {
+      "amount": 15873,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$15,873"
+    },
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "interior_area": {
+      "value": 5670,
+      "unit": "sqft",
+      "display": "5,670 Sqft"
+    },
+    "lot_area": {
+      "value": 2151.1,
+      "display": "2,151.1 Ac lot"
+    },
+    "year_built": 1990,
+    "photo_count": 40,
+    "description": "For the first time in history, Mill Farm — Spanning more than 2,000 contiguous acres in Ancramdale, New York, — is being offered to the market. Almost all of the farm is surrounded by thousands of acres of adjacent protected conservation land, making it the only 2,000-acre working farm in the region, ensuring a level of privacy and ecological integrity that cannot be duplicated. Steeped in history, The Mill House dates back to the Revolutionary War era and the Livingston family, and is the conversion of the famed Grist Mill “Defiance,” a rare surviving landmark of early American industry that established the region’s first foundation of commerce.  At its core is the Mill House, an approximately 5,600-square-foot architectural treasure set directly on the Punch Brook Stream, where the water flows through the home itself to power its historic hydro turbine mill system. There is a waterfall set close to the Mill House that is an ever present living feature of the environs, as it is closely visible from nearly every room. Adjacent, the former Mill Keeper’s House has been reimagined as a private movie theatre, blending centuries-old character with modern indulgence. Crest Lane, an approximately 3,500-square-foot masterpiece, stands as a second architectural jewel, featuring a windowed living room with sweeping views across the valley. Beyond these primary residences, the property includes 8 single-family homes, including four newly renovated cottages, each on its own deeded parcel, offering unmatched flexibility for family, guests, or future investment. The two main residences, the Mill House and Crest Lane, are connected by a three-mile internal gravel road system. The land itself is a defining asset. This is arguably the largest working farm within two hours of New York City, with organic-certified hay production, fertile valley floors, and rising elevations to both the east and west that frame extraordinary views. Rare 18th-century barns, including a remarkable Dutch Barn, stand as enduring testaments to America’s agrarian history. An active windmill system still feeds water to various points across the farm, while aquifers and tributaries ensure abundant water availability. Recreational and ecological value are equally profound. The farm contains more than 18 miles of perfected, drivable trails that interconnect every corner of the property, creating a network for horse riding, exploration, and access to resources. Three miles of the untouched Punch Brook, a designated New York State trout stream, run through the property—a pristine waterway under private stewardship. The farm is also home to documented bobcat habitats and study areas in partnership with [hidden information]. Its eastern boundary adjoins a vast conservation bird sanctuary, ensuring uninterrupted natural surroundings and extending the feeling of total seclusion for thousands of acres in every direction. Mill Farm uniquely combines agricultural productivity, historical resonance, and ecological significance. With its unmatched scale, legacy, and proximity to New York City, it represents an opportunity that exists nowhere else in the Northeast — a living landmark, never before available on the open market.",
+    "features": [
+      "Investment Property",
+      "Privacy",
+      "Renovated",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Compass Greater NY, LLC - MILLBROOK",
+    "agency": "Compass Greater NY, LLC - MILLBROOK",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/compass-greater-ny-llc-millbrook-558803",
+    "agency_address": "MILLBROOK, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/5401dec4-672a-493f-880b-c2ea91a7e8de/je/2200xxs.jpg",
+      "file": "004-a57ca471.webp",
+      "media_type": "image/webp",
+      "bytes": 515708,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/ad7b1768-6e33-41d4-9527-6ab263924535/je/2200xxs.jpg",
+      "file": "009-4ad5488c.webp",
+      "media_type": "image/webp",
+      "bytes": 211174,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/7032ed2a-f319-43b7-8de6-806d3d1e4a38/je/2200xxs.jpg",
+      "file": "014-cdd6f62e.webp",
+      "media_type": "image/webp",
+      "bytes": 232258,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/3724191a-f19c-4056-adf0-cff5c300e8b1/je/2200xxs.jpg",
+      "file": "019-28691d92.webp",
+      "media_type": "image/webp",
+      "bytes": 151362,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e62e1f1a-a598-45ba-9be6-4c1c9700980a/je/2200xxs.jpg",
+      "file": "024-e374de0b.webp",
+      "media_type": "image/webp",
+      "bytes": 802540,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "031-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "032-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "033-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "034-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa",
+              "name": "Ancramdale"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/single-family-residence-in-ancramdale-16979115",
+              "name": "Single Family Residence in ANCRAMDALE"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "For the first time in history, Mill Farm — Spanning more than 2,000 contiguous acres in Ancramdale, New York, — is being offered to the market. Almost all of the farm is surrounded by thousands of acres of adjacent protected conservation land, making it the only 2,000-acre working farm in the region, ensuring a level of privacy and ecological integrity that cannot be duplicated. Steeped in history, The Mill House dates back to the Revolutionary War era and the Livingston family, and is the conversion of the famed Grist Mill “Defiance,” a rare surviving landmark of early American industry that established the region’s first foundation of commerce.  At its core is the Mill House, an approximately 5,600-square-foot architectural treasure set directly on the Punch Brook Stream, where the water flows through the home itself to power its historic hydro turbine mill system. There is a waterfall set close to the Mill House that is an ever present living feature of the environs, as it is closely visible from nearly every room. Adjacent, the former Mill Keeper’s House has been reimagined as a private movie theatre, blending centuries-old character with modern indulgence. Crest Lane, an approximately 3,500-square-foot masterpiece, stands as a second architectural jewel, featuring a windowed living room with sweeping views across the valley. Beyond these primary residences, the property includes 8 single-family homes, including four newly renovated cottages, each on its own deeded parcel, offering unmatched flexibility for family, guests, or future investment. The two main residences, the Mill House and Crest Lane, are connected by a three-mile internal gravel road system. The land itself is a defining asset. This is arguably the largest working farm within two hours of New York City, with organic-certified hay production, fertile valley floors, and rising elevations to both the east and west that frame extraordinary views. Rare 18th-century barns, including a remarkable Dutch Barn, stand as enduring testaments to America’s agrarian history. An active windmill system still feeds water to various points across the farm, while aquifers and tributaries ensure abundant water availability. Recreational and ecological value are equally profound. The farm contains more than 18 miles of perfected, drivable trails that interconnect every corner of the property, creating a network for horse riding, exploration, and access to resources. Three miles of the untouched Punch Brook, a designated New York State trout stream, run through the property—a pristine waterway under private stewardship. The farm is also home to documented bobcat habitats and study areas in partnership with [hidden information]. Its eastern boundary adjoins a vast conservation bird sanctuary, ensuring uninterrupted natural surroundings and extending the feeling of total seclusion for thousands of acres in every direction. Mill Farm uniquely combines agricultural productivity, historical resonance, and ecological significance. With its unmatched scale, legacy, and proximity to New York City, it represents an opportunity that exists nowhere else in the Northeast — a living landmark, never before available on the open market.",
+        "image": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/5401dec4-672a-493f-880b-c2ea91a7e8de/je/1040x620xc.jpg",
+        "name": "Single Family Residence in ANCRAMDALE",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 90000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Compass Greater NY, LLC - MILLBROOK"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/ancramdale-ny-usa/single-family-residence-in-ancramdale-16979115"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/M00000489.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/ancramdale-ny-usa/Single%20Family%20Residence%20In%20Ancramdale%20In%20Ancramdale,%20New%20York,%20United%20States%20For%20Sale%20%2816979115%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

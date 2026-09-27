@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Massachusetts/Chilmark/64 Squibnocket Farm Road",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 15739
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 8229
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 2157
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 356017
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 113
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

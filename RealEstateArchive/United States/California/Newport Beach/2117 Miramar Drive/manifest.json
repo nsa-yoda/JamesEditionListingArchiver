@@ -1,0 +1,777 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4-bedrooms-single-family-detached-17829396",
+    "canonical_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4-bedrooms-single-family-detached-17829396",
+    "site": "jamesedition",
+    "listing_id": "17829396",
+    "listing_reference": "8tnpdb",
+    "first_listed": "May 2",
+    "last_updated": "May 2",
+    "retrieved_at": "2026-08-28T00:27:37.740819Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3338,
+      "sha256": "07f5941041026238ca153171c67c3cbb310771c35274928979c55baf13607110"
+    },
+    {
+      "path": "images/img-02fea4a047db.webp",
+      "bytes": 67340,
+      "sha256": "245c0511211e82250491b385d943a5a09c203f5c443d07b93b6f3e26aabfd5bc"
+    },
+    {
+      "path": "images/img-04fec73d1d4a.webp",
+      "bytes": 61812,
+      "sha256": "d8d7ec7b31e8530884650ff6f6e9d848553f4083fdd115a2ade5871c5c02a6a6"
+    },
+    {
+      "path": "images/img-0907d70ef2e3.webp",
+      "bytes": 81196,
+      "sha256": "aa90905139285100730060e562e4f8139a4be86b5866eb2ee5f29bd0c7dc43d2"
+    },
+    {
+      "path": "images/img-0b1d7efc27cb.webp",
+      "bytes": 129292,
+      "sha256": "0124fcbc515b1d4c098f854b555e865a8e2452ed2e4c0ce8f0b6083ded8b08cd"
+    },
+    {
+      "path": "images/img-0d07f06e0862.webp",
+      "bytes": 77360,
+      "sha256": "0f7ac805fb51c556a7fcf3eb187bfe9aa525d58477f0bfa2e8cbb9f4c6a58c8c"
+    },
+    {
+      "path": "images/img-0fceecc45d74.webp",
+      "bytes": 48852,
+      "sha256": "e1e5540891e92ce355b81ef15bc6799f5d2ce37cb430559ae19da79969be504c"
+    },
+    {
+      "path": "images/img-1193415cf82d.webp",
+      "bytes": 165044,
+      "sha256": "4797293d7b1f548ca4a2235842097bc8ca280f8762403efef0b73c68740babf6"
+    },
+    {
+      "path": "images/img-140021766284.webp",
+      "bytes": 50006,
+      "sha256": "f2ae5b833e0abbb61844d9002e6b8e2c1b541f463d1e0cb8909fbb3989e6d85c"
+    },
+    {
+      "path": "images/img-17c78c499de6.webp",
+      "bytes": 163928,
+      "sha256": "6e2f16c7e53c8709d10a0cda3d7b45b4be50fed7911d0dd8487c4d09e06ede6b"
+    },
+    {
+      "path": "images/img-25c876ae2e13.webp",
+      "bytes": 51762,
+      "sha256": "4852e9094ad83ad066f972a76450f7997621ee954654232949464b6a2ad4cd5f"
+    },
+    {
+      "path": "images/img-29ffc2af8947.webp",
+      "bytes": 64110,
+      "sha256": "fb9498dafceca3c2a9d9a61caf423e9a0ea9fcf7b42318b6f321447be933cb0e"
+    },
+    {
+      "path": "images/img-2e81b9503315.webp",
+      "bytes": 65836,
+      "sha256": "3460b52e954c257a284d291afdbc81bb1f147a704a388b08d9300a4dc876a8af"
+    },
+    {
+      "path": "images/img-32d48b43f065.webp",
+      "bytes": 182070,
+      "sha256": "89d135dd93d4f652002d2b658dfc908062b3c32c6f447d1c0315b72702e8bed1"
+    },
+    {
+      "path": "images/img-33553663c60b.webp",
+      "bytes": 60714,
+      "sha256": "e4bddeb5891650c30b9270b638f1848ef8780791a32f1209b8fb234fec8a1658"
+    },
+    {
+      "path": "images/img-3a168efcbf29.webp",
+      "bytes": 46964,
+      "sha256": "207e81db18d8406267b6158f4909e9bbb430b6a61a933367422fa42dac19349e"
+    },
+    {
+      "path": "images/img-447da629f999.webp",
+      "bytes": 161392,
+      "sha256": "df49ac439d951297e8c64c4585f256eb2f3ddf0be79492655bad208b6f322ad7"
+    },
+    {
+      "path": "images/img-56ea818f70d9.webp",
+      "bytes": 30182,
+      "sha256": "3f1983993a4a9af9d84afb6107380a1f2584784f176d69130c6f39320422ec65"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-710bb4d6a14e.webp",
+      "bytes": 32576,
+      "sha256": "67ca97404b1502c91782f5a8346c2bb32226cf2fcabb8415fb953eb28a816791"
+    },
+    {
+      "path": "images/img-72661307cd6e.webp",
+      "bytes": 117860,
+      "sha256": "821f13e0741090381a1d04358ce3e0507066b5246d91806dd4556a6b669b2a8b"
+    },
+    {
+      "path": "images/img-805864dc809a.webp",
+      "bytes": 44254,
+      "sha256": "f0763beac6878800cc8f3c897c423c78f5cc074e212580e210784bac7dfb0517"
+    },
+    {
+      "path": "images/img-81058330e02c.webp",
+      "bytes": 52398,
+      "sha256": "ddcd29775717544a740886fc078881194563f8c5968b5d032923be979fcb6362"
+    },
+    {
+      "path": "images/img-8989b1ebbc46.webp",
+      "bytes": 127564,
+      "sha256": "39fc67663dc88dabcd4806ca696133055ccb3b6029a4be76a44f516a03c9d152"
+    },
+    {
+      "path": "images/img-8b2f2dc77191.webp",
+      "bytes": 48848,
+      "sha256": "00c3ad19a06e8f185cc379e83dd303c2576ffbf23aaf241e7749b4bce419747d"
+    },
+    {
+      "path": "images/img-9082e76d5adb.webp",
+      "bytes": 39078,
+      "sha256": "0ecd35680504fd3479b796ed7f01c139768a9a098fa850d32e722177b5355eda"
+    },
+    {
+      "path": "images/img-94a955c9d4f7.webp",
+      "bytes": 44160,
+      "sha256": "e196fcf1dac264db70c3b9f15e0d0e38485545c571458969ab0fcf3ff230483a"
+    },
+    {
+      "path": "images/img-a59aa60698be.webp",
+      "bytes": 54194,
+      "sha256": "aaa3313dd0bbff37717645c79cae1711428a3e961bf47fad9e4616087ed0a637"
+    },
+    {
+      "path": "images/img-a8902c4508a9.webp",
+      "bytes": 125840,
+      "sha256": "826c1dadbc2bdc19b3bfc352f040dfc52381aa10489c26b8961241db0ef13139"
+    },
+    {
+      "path": "images/img-aa64ee019877.webp",
+      "bytes": 156310,
+      "sha256": "e73235e75a1820529bb799435ace447d46c56a8f8d564fc941d43a4ac872cf91"
+    },
+    {
+      "path": "images/img-afea3d56417b.webp",
+      "bytes": 158302,
+      "sha256": "ecbcb2577b9ec9f8bca1acb14e7cf0e39eff907a95c017ee89c48edae14ddf7c"
+    },
+    {
+      "path": "images/img-b1f8d59c98e7.webp",
+      "bytes": 50344,
+      "sha256": "8ad3dc5f66fe35aa9aaa5891caa285a2811ad371db7262c57eeb46cc405799c0"
+    },
+    {
+      "path": "images/img-bb0f6e0add93.webp",
+      "bytes": 52460,
+      "sha256": "f33b9fb8f83cf8ff78a5168fe1fd08ebf41dfeff3660bf4eb4dd243acc15243a"
+    },
+    {
+      "path": "images/img-bc331cef315b.webp",
+      "bytes": 42174,
+      "sha256": "8caa4ba876b880413490f078a148ef0c166e2c85d41dba6cc9af4c8e431dafcf"
+    },
+    {
+      "path": "images/img-bcc6c67f510e.webp",
+      "bytes": 57148,
+      "sha256": "8f8524368bb1c2e38c3a839d5a7aca23fba1ed20176036a350ea439fc8dd8a76"
+    },
+    {
+      "path": "images/img-c02b17be8ac4.webp",
+      "bytes": 66182,
+      "sha256": "6345dae2b2afdc03a230ea97118b62b1ab242acd9d0155a3c9218a82e00d9f0b"
+    },
+    {
+      "path": "images/img-c2d9704b13e6.webp",
+      "bytes": 72166,
+      "sha256": "6b56e977f82be9ab7f82bd30d1ab635f0376ec7b61c5cdb57cceae642e6d00db"
+    },
+    {
+      "path": "images/img-c709af5fc7a9.webp",
+      "bytes": 171434,
+      "sha256": "362069895ea3ac59311f694102ee946d17fe4083e0862e387f3b94bc26ddd96a"
+    },
+    {
+      "path": "images/img-c7fd522e6648.webp",
+      "bytes": 30810,
+      "sha256": "a68f5d92e86199f67f0e58dded4ee90441e3ba21d712ee77593eea7f15cda341"
+    },
+    {
+      "path": "images/img-c955df724a04.webp",
+      "bytes": 43072,
+      "sha256": "c54cdb1d6b5ac4e9d4ebfec59ca30582dc3571f3e03dcfe01c25604b96161c19"
+    },
+    {
+      "path": "images/img-d31629a892c0.webp",
+      "bytes": 80868,
+      "sha256": "798afffca23c6890c27b1b7639896366b3a8622595347922799eacc2498b9d19"
+    },
+    {
+      "path": "images/img-d60c66cc5fac.webp",
+      "bytes": 45534,
+      "sha256": "e2517632a6865595c4f76c9294ea0a7952f901030e609c863107c1a979a3b14b"
+    },
+    {
+      "path": "images/img-d86d5a51a443.webp",
+      "bytes": 54696,
+      "sha256": "ab961a6ed4b6fd7e326e7cc32f14f2ec96f93862774ebafe1ebfac99125e6762"
+    },
+    {
+      "path": "images/img-df23eae37ad1.webp",
+      "bytes": 93182,
+      "sha256": "393e3c9a0e047fd74ae8cf2c25ff4d1f38599b456ac6aad1fa1f7479e104d7e9"
+    },
+    {
+      "path": "images/img-e28211448812.webp",
+      "bytes": 152972,
+      "sha256": "9509da23cf0d6545b8bb6494484a9e6bba992bc24f78e5d6c6345d7f0ab60612"
+    },
+    {
+      "path": "images/img-e74c1774c7fa.webp",
+      "bytes": 154854,
+      "sha256": "d0c378b0153dd1c8c1932149079b6ab353addad20bba5db6ae38be736739f4f7"
+    },
+    {
+      "path": "images/img-eacfab658986.webp",
+      "bytes": 28102,
+      "sha256": "d0ee8ccd5aae2a85d8a0af36d62824eac0a0c20d74a8cb1f2f36812e5716504b"
+    },
+    {
+      "path": "images/img-f07e93fbd4a3.webp",
+      "bytes": 166292,
+      "sha256": "1be266e4dac38804da21e3c790401f89b48edd24141695c0f95599b18927e47e"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 34974,
+      "sha256": "50091d007c6b79f57f19668196b8cca9315502c3a10241f5a749e78a98b1585e"
+    },
+    {
+      "path": "source.html",
+      "bytes": 502124,
+      "sha256": "452477a27afb1da748a2616fb8bc1d920a54850e8d0ee22e8fc9b143044d3f19"
+    },
+    {
+      "path": "source.url",
+      "bytes": 105,
+      "sha256": "6b39b4412ebd70dc2827e358cad0b1892da89d83592bbd6568b2ea876acb9a4c"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/2200xxs.jpg",
+      "path": "images/img-afea3d56417b.webp",
+      "media_type": "image/webp",
+      "bytes": 158302,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/64047a8d-57cc-477d-b328-485932f6bd6f/je/2200xxs.jpg",
+      "path": "images/img-aa64ee019877.webp",
+      "media_type": "image/webp",
+      "bytes": 156310,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/727a1ea4-1b26-4f6f-8224-ba2b6b685f0b/je/2200xxs.jpg",
+      "path": "images/img-c709af5fc7a9.webp",
+      "media_type": "image/webp",
+      "bytes": 171434,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1b3edda9-1eda-431d-8894-f4397c80a4e5/je/2200xxs.jpg",
+      "path": "images/img-447da629f999.webp",
+      "media_type": "image/webp",
+      "bytes": 161392,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/def57d25-4d6c-4dfe-b93c-39b60f80552c/je/2200xxs.jpg",
+      "path": "images/img-2e81b9503315.webp",
+      "media_type": "image/webp",
+      "bytes": 65836,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/8f3f44e1-6311-410d-b37c-034988d2b6c1/je/2000xxs.jpg",
+      "path": "images/img-140021766284.webp",
+      "media_type": "image/webp",
+      "bytes": 50006,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/f718a8b2-e252-4f53-836c-9816f0f6c502/je/2000xxs.jpg",
+      "path": "images/img-04fec73d1d4a.webp",
+      "media_type": "image/webp",
+      "bytes": 61812,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/002b1c87-c96a-45c0-b837-dbe4153adb9b/je/2000xxs.jpg",
+      "path": "images/img-d60c66cc5fac.webp",
+      "media_type": "image/webp",
+      "bytes": 45534,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1059fee6-9134-490e-988b-36762f1f6cb6/je/2000xxs.jpg",
+      "path": "images/img-b1f8d59c98e7.webp",
+      "media_type": "image/webp",
+      "bytes": 50344,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/2a9d2264-0a36-4dd6-8f99-3f3c577db8f3/je/2000xxs.jpg",
+      "path": "images/img-a8902c4508a9.webp",
+      "media_type": "image/webp",
+      "bytes": 125840,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3a443d9b-61c8-49fe-8d0c-04aa702d628f/je/2000xxs.jpg",
+      "path": "images/img-25c876ae2e13.webp",
+      "media_type": "image/webp",
+      "bytes": 51762,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/192af87e-f4d7-4bfa-9363-a089330b3e5f/je/2000xxs.jpg",
+      "path": "images/img-710bb4d6a14e.webp",
+      "media_type": "image/webp",
+      "bytes": 32576,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9ba71b18-deaf-4e14-9e27-d95dc8ba6e2e/je/2000xxs.jpg",
+      "path": "images/img-c2d9704b13e6.webp",
+      "media_type": "image/webp",
+      "bytes": 72166,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/f89e5556-7e80-4f18-b7ea-43fc1dae50b9/je/2000xxs.jpg",
+      "path": "images/img-df23eae37ad1.webp",
+      "media_type": "image/webp",
+      "bytes": 93182,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6fbe4902-eeb2-4042-8154-6315580c12d3/je/2000xxs.jpg",
+      "path": "images/img-17c78c499de6.webp",
+      "media_type": "image/webp",
+      "bytes": 163928,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/28164d32-0da2-41cf-8706-7d7d637fb058/je/2000xxs.jpg",
+      "path": "images/img-e74c1774c7fa.webp",
+      "media_type": "image/webp",
+      "bytes": 154854,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6e92eed4-6621-445f-8efb-9ab72ba1e25d/je/2000xxs.jpg",
+      "path": "images/img-f07e93fbd4a3.webp",
+      "media_type": "image/webp",
+      "bytes": 166292,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7ef22597-3104-4aae-bbfe-f5c85421a156/je/2000xxs.jpg",
+      "path": "images/img-72661307cd6e.webp",
+      "media_type": "image/webp",
+      "bytes": 117860,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6be7bfa3-c505-424c-a8f1-82c7a27c6bb1/je/2000xxs.jpg",
+      "path": "images/img-32d48b43f065.webp",
+      "media_type": "image/webp",
+      "bytes": 182070,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/cc013282-221f-4953-8c44-b58d3489adac/je/2000xxs.jpg",
+      "path": "images/img-0907d70ef2e3.webp",
+      "media_type": "image/webp",
+      "bytes": 81196,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3382879c-7919-4493-b92c-3d7ce4a5d99d/je/2000xxs.jpg",
+      "path": "images/img-0d07f06e0862.webp",
+      "media_type": "image/webp",
+      "bytes": 77360,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1695d5fe-ef34-4cc2-80ba-da828bc0768a/je/2000xxs.jpg",
+      "path": "images/img-29ffc2af8947.webp",
+      "media_type": "image/webp",
+      "bytes": 64110,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c6dc97bd-09b4-4d5f-b5ae-d97e13722484/je/2000xxs.jpg",
+      "path": "images/img-a59aa60698be.webp",
+      "media_type": "image/webp",
+      "bytes": 54194,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3def2eec-7d82-4444-b60c-20ac6d5c87c2/je/2000xxs.jpg",
+      "path": "images/img-0fceecc45d74.webp",
+      "media_type": "image/webp",
+      "bytes": 48852,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7ee9534d-d972-447a-a574-3583bbe114f7/je/2000xxs.jpg",
+      "path": "images/img-94a955c9d4f7.webp",
+      "media_type": "image/webp",
+      "bytes": 44160,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/f3de6816-7265-4f11-8981-288985d6fe12/je/2000xxs.jpg",
+      "path": "images/img-d31629a892c0.webp",
+      "media_type": "image/webp",
+      "bytes": 80868,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6be6268c-95a2-4698-a55c-200a6a4302f5/je/2000xxs.jpg",
+      "path": "images/img-c02b17be8ac4.webp",
+      "media_type": "image/webp",
+      "bytes": 66182,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/4290e384-d12c-47b2-abbf-6b396b1077c4/je/2000xxs.jpg",
+      "path": "images/img-bb0f6e0add93.webp",
+      "media_type": "image/webp",
+      "bytes": 52460,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/fcdf3b9b-9036-4b9f-b659-625a5c284332/je/2000xxs.jpg",
+      "path": "images/img-81058330e02c.webp",
+      "media_type": "image/webp",
+      "bytes": 52398,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b8766565-3a44-4bbc-87d0-acb2999037c6/je/2000xxs.jpg",
+      "path": "images/img-bcc6c67f510e.webp",
+      "media_type": "image/webp",
+      "bytes": 57148,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/e7d4bd1f-f15b-4092-8088-08840e839b78/je/2000xxs.jpg",
+      "path": "images/img-d86d5a51a443.webp",
+      "media_type": "image/webp",
+      "bytes": 54696,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/25896985-801e-49d3-8b17-bbcad5321345/je/2000xxs.jpg",
+      "path": "images/img-33553663c60b.webp",
+      "media_type": "image/webp",
+      "bytes": 60714,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/2c6f0dab-b377-494e-8062-3bbe69ac7969/je/2000xxs.jpg",
+      "path": "images/img-02fea4a047db.webp",
+      "media_type": "image/webp",
+      "bytes": 67340,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/de39d341-b185-451d-b367-ea8aa38dde84/je/2000xxs.jpg",
+      "path": "images/img-c955df724a04.webp",
+      "media_type": "image/webp",
+      "bytes": 43072,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0034576f-34b4-4de4-b3b5-8ed49af268d2/je/2000xxs.jpg",
+      "path": "images/img-3a168efcbf29.webp",
+      "media_type": "image/webp",
+      "bytes": 46964,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/cd6b7321-e65c-4319-b278-2402dd95f754/je/2000xxs.jpg",
+      "path": "images/img-9082e76d5adb.webp",
+      "media_type": "image/webp",
+      "bytes": 39078,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0491791d-c2b6-4e85-bdcd-3cbfecef5943/je/2000xxs.jpg",
+      "path": "images/img-c7fd522e6648.webp",
+      "media_type": "image/webp",
+      "bytes": 30810,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c0c62d99-e243-439d-9e0f-a61d038bade6/je/2000xxs.jpg",
+      "path": "images/img-bc331cef315b.webp",
+      "media_type": "image/webp",
+      "bytes": 42174,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/127e839e-3924-4ddc-9d59-2c1075fd9bdb/je/2000xxs.jpg",
+      "path": "images/img-805864dc809a.webp",
+      "media_type": "image/webp",
+      "bytes": 44254,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1fa9664e-3d2b-4986-8b82-00b8cc3890e8/je/2000xxs.jpg",
+      "path": "images/img-56ea818f70d9.webp",
+      "media_type": "image/webp",
+      "bytes": 30182,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/538258c4-000e-447b-bd0a-befe459d8b48/je/2000xxs.jpg",
+      "path": "images/img-eacfab658986.webp",
+      "media_type": "image/webp",
+      "bytes": 28102,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7fc01c9-5843-49fb-a8a7-2198007226fa/je/2000xxs.jpg",
+      "path": "images/img-8b2f2dc77191.webp",
+      "media_type": "image/webp",
+      "bytes": 48848,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/fa5075e7-021e-4af6-8ed2-42fdc98c09fc/je/2000xxs.jpg",
+      "path": "images/img-e28211448812.webp",
+      "media_type": "image/webp",
+      "bytes": 152972,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6c168ce0-45a2-44b5-9114-dd8bfbc7c058/je/2000xxs.jpg",
+      "path": "images/img-1193415cf82d.webp",
+      "media_type": "image/webp",
+      "bytes": 165044,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3c6fd44f-a988-471e-a737-7d84aea3e996/je/2000xxs.jpg",
+      "path": "images/img-8989b1ebbc46.webp",
+      "media_type": "image/webp",
+      "bytes": 127564,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7fe0ecc3-d924-4c85-ba78-d63a5ac70ce6/je/2000xxs.jpg",
+      "path": "images/img-0b1d7efc27cb.webp",
+      "media_type": "image/webp",
+      "bytes": 129292,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2816%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2817%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2818%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 47,
+    "images_existing": 0,
+    "images_failed": 20,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

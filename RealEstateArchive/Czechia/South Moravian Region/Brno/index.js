@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Czechia/South Moravian Region/Brno",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Unique Organic Shape Villa With Elevator",
+      "href": "Unique%20Organic%20Shape%20Villa%20With%20Elevator/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

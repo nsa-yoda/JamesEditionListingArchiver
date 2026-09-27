@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kyoto-japan/the-silence-furnished-by-armani-casa-owning-the-living-art-of-kyoto-17328170",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kyoto-japan/the-silence-furnished-by-armani-casa-owning-the-living-art-of-kyoto-17328170",
+    "site": "jamesedition",
+    "listing_id": "17328170",
+    "first_listed": "Mar 3",
+    "last_updated": "May 20",
+    "retrieved_at": "2026-08-28T00:31:58.834876Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 7974,
+      "sha256": "b31aba78d780967393b7576ff7b2b364b9ceb23323c448c60d045e04f5f877b9"
+    },
+    {
+      "path": "images/img-20ade8335c8f.webp",
+      "bytes": 1042,
+      "sha256": "77f37f341d2f0527a6c78049990325e7c46c70b4183a83568c0151e78e71a824"
+    },
+    {
+      "path": "images/img-2a55f687d443.webp",
+      "bytes": 527812,
+      "sha256": "225dcbcca7d56c20878a244ef3c7bce4cdbda16179b38018ba5555104013a3bd"
+    },
+    {
+      "path": "images/img-2d33f831b9fa.webp",
+      "bytes": 597308,
+      "sha256": "edce8217b0183323fdf527aec5a70c4d4694b2e62fc999cf9b1bb442147295a4"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-7692472e4db7.webp",
+      "bytes": 119720,
+      "sha256": "fd3039331d0279d0c8fefe8252473a22b44aacf9f6c486437018eaccc48e0a65"
+    },
+    {
+      "path": "images/img-9f5bb646dd7c.webp",
+      "bytes": 440990,
+      "sha256": "1c706f32826d0c46062b64759e1e1116b912023b7b7cad844008c70ef5135063"
+    },
+    {
+      "path": "images/img-e53808c2e008.webp",
+      "bytes": 646468,
+      "sha256": "0f016d3d52f4f1a904ad8cba9f692688d5190337cba17adaa3f91b0b097ec0bd"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 32215,
+      "sha256": "66c0ae32d1aaf12ebc5761c4498d0560a1455606d026fb0391a727d322aabb2c"
+    },
+    {
+      "path": "source.html",
+      "bytes": 311805,
+      "sha256": "216867ebeb84c6009babd9ac5a909a9239e46ca20863a8952385a2cfa0688ae1"
+    },
+    {
+      "path": "source.url",
+      "bytes": 130,
+      "sha256": "0b61f1f3124b88930e1b5dc7b002d5990555ab1c787dfd3de948f5404d1b3339"
+    },
+    {
+      "path": "videos/img-4e928c994008.webp",
+      "bytes": 187206,
+      "sha256": "82f26fd75211ac1d625482301c1f6a115caed596b2671d98e284641f64f498e6"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://player.vimeo.com/video/1175127782?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0\u0026amp;h=dcb7076b69",
+      "status": "failed",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/04/22/13/10/20/80af013d-636a-4e19-9dd1-d12b8cc47254/je/1040x620xc.jpg",
+      "poster_path": "videos/img-4e928c994008.webp",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/22/13/10/20/80af013d-636a-4e19-9dd1-d12b8cc47254/je/2200xxs.jpg",
+      "path": "images/img-2d33f831b9fa.webp",
+      "media_type": "image/webp",
+      "bytes": 597308,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/11/17/23/56e05f87-3633-454f-8184-5f572ea8f714/je/2200xxs.jpg",
+      "path": "images/img-2a55f687d443.webp",
+      "media_type": "image/webp",
+      "bytes": 527812,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/11/55/47/296e3e35-81c8-4d21-a92e-a7e626e97cb8/je/2200xxs.jpg",
+      "path": "images/img-7692472e4db7.webp",
+      "media_type": "image/webp",
+      "bytes": 119720,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/11/17/22/2f7ab212-2cd6-466a-abbc-03a2d2a2bdd5/je/2200xxs.jpg",
+      "path": "images/img-9f5bb646dd7c.webp",
+      "media_type": "image/webp",
+      "bytes": 440990,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/11/17/22/8c119160-143c-4377-ba8a-d19eb659eb64/je/2200xxs.jpg",
+      "path": "images/img-e53808c2e008.webp",
+      "media_type": "image/webp",
+      "bytes": 646468,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/The%20Silence%20%E2%80%94%20Furnished%20By%20Armani_Casa%20_%20Owning%20The%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2817328170%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
+      "path": "images/img-20ade8335c8f.webp",
+      "media_type": "image/webp",
+      "bytes": 1042,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 7,
+    "images_existing": 0,
+    "images_failed": 17,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 1
+  }
+}

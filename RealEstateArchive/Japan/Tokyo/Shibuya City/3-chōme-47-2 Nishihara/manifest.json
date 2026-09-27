@@ -1,0 +1,471 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/shibuya-japan/nishihara-estate-a-private-compound-in-tokyo-s-most-discreet-residential-enclave-17627013",
+    "canonical_url": "https://www.jamesedition.com/real_estate/shibuya-japan/nishihara-estate-a-private-compound-in-tokyo-s-most-discreet-residential-enclave-17627013",
+    "site": "jamesedition",
+    "listing_id": "17627013",
+    "first_listed": "Apr 9",
+    "last_updated": "June 29",
+    "retrieved_at": "2026-08-28T00:29:47.236887Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3946,
+      "sha256": "dc1f1fb2f3d85d46517d3b1a8bd1c9c6bf165abbad257d41024c579a86b1e436"
+    },
+    {
+      "path": "images/img-0062efd9c1ff.webp",
+      "bytes": 65056,
+      "sha256": "836dea4b2e0215c108bb1520a1d4b7cbf4e377d4091e1936f7c38ef1771c9129"
+    },
+    {
+      "path": "images/img-07aae17dba80.webp",
+      "bytes": 119152,
+      "sha256": "62f34e42b69122ce41ac9819cc77734f0890b7bd60e7262aee0458c59affe3eb"
+    },
+    {
+      "path": "images/img-080ca9bdd7a4.webp",
+      "bytes": 203400,
+      "sha256": "95c07338eb80688bd2bf21a96f6b6f2d82ef2b6ea8212479efd8d1019f8ba6da"
+    },
+    {
+      "path": "images/img-0b85fe979ac8.webp",
+      "bytes": 74660,
+      "sha256": "1cd47546c44b7ea0ce81b78731631a076f01fc650ad3f5994931f46edf30a3b4"
+    },
+    {
+      "path": "images/img-0cd889fc7f35.webp",
+      "bytes": 269514,
+      "sha256": "088ccefd64b60385538a47ddaf97e866e3d16bd6abbf11c775e8884d03163999"
+    },
+    {
+      "path": "images/img-11c16f086d96.webp",
+      "bytes": 87896,
+      "sha256": "0df2676af15a8872a05a8de579a4f74a295cb784b40b12e2dbc3eb6915694f5e"
+    },
+    {
+      "path": "images/img-20ade8335c8f.webp",
+      "bytes": 1042,
+      "sha256": "77f37f341d2f0527a6c78049990325e7c46c70b4183a83568c0151e78e71a824"
+    },
+    {
+      "path": "images/img-2ec7d2bdc38d.webp",
+      "bytes": 492332,
+      "sha256": "9a75be4f6b734969ef3ebe78bcb2a4db867243af39b7001022b3470cac15233e"
+    },
+    {
+      "path": "images/img-46695da4e5b2.webp",
+      "bytes": 129190,
+      "sha256": "cb36b46bc65ea7d82b7c5f59b9a8598e6cfb26818f02a3e21cc7c37c2655a40b"
+    },
+    {
+      "path": "images/img-4b2cbacdaa67.webp",
+      "bytes": 207896,
+      "sha256": "e18d3c01464d1d46f949914f070e47375f6cbca49cb89ac4101806f38e4761fd"
+    },
+    {
+      "path": "images/img-4bbdc2d34982.webp",
+      "bytes": 167532,
+      "sha256": "712ea5e346963825cec6f0bccad60563fbf85f601001ee12a92afa947e04d4db"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-759be70e7bf5.webp",
+      "bytes": 168832,
+      "sha256": "aab7eb8938338403e9ac23fc1f1be1ece8094ee4f80a94ab5ef2c20ea11defa1"
+    },
+    {
+      "path": "images/img-8558ea6b3837.webp",
+      "bytes": 166308,
+      "sha256": "ed92aac9ace8afdb570fa5b8a75e58909dcae38e87240c3e2397c8dc16168425"
+    },
+    {
+      "path": "images/img-920adc34a5ee.webp",
+      "bytes": 129572,
+      "sha256": "10dbd423d959d1c58bf3f5d23655130438ff336d3bd2774c02d86761b822e155"
+    },
+    {
+      "path": "images/img-92c3204c9518.webp",
+      "bytes": 178746,
+      "sha256": "70cf8582efc6700271f400769a674f3081cbdf10a9c555bd82bb4825f080dfd3"
+    },
+    {
+      "path": "images/img-9b1dff58bf61.webp",
+      "bytes": 525158,
+      "sha256": "475658fcc0c3b37ba334b5dd3c8291ddd64ec6af1a1cc45a6397a62501781fbe"
+    },
+    {
+      "path": "images/img-b7488cbddea9.webp",
+      "bytes": 180894,
+      "sha256": "0ce71031115824c8038ab565f06a4ee903f7735ee5c45798d0058ad9898605b4"
+    },
+    {
+      "path": "images/img-d53779ab5c30.webp",
+      "bytes": 167516,
+      "sha256": "3b0b42ec9ffef1edc10250d40cd5eb48d2d62515951a83ef1cbb2b6422f222fc"
+    },
+    {
+      "path": "images/img-dc0edb053afa.webp",
+      "bytes": 166308,
+      "sha256": "fa803d674070a0f2af4be367ede5836a422fc512686b8ae60509dadfb3599e38"
+    },
+    {
+      "path": "images/img-ec42dee215c5.webp",
+      "bytes": 496890,
+      "sha256": "06137b93bbd5231d03849d38b955e1672a22c7cb93c1dd786233b1434c48c2f3"
+    },
+    {
+      "path": "images/img-efede17ab301.webp",
+      "bytes": 119888,
+      "sha256": "8eb1045215d51cb97c161a6d6e766d249b1832d11796e8aa77aeee459917b311"
+    },
+    {
+      "path": "images/img-fc61b4be34c4.webp",
+      "bytes": 111008,
+      "sha256": "7df3cce9e705e7e4935ccf9018330139684ce30d860f9ab0c0bd3ac4b4ff1827"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 31415,
+      "sha256": "e66254e39c234dd3e51e2deefa7aecf50a0f9b1ab95ed734f0cf1c15f31c9bfe"
+    },
+    {
+      "path": "source.html",
+      "bytes": 437976,
+      "sha256": "e8ba0a59be61425152c624991fe3d5b9fe7d71a391133cfba97e0346423ca7ef"
+    },
+    {
+      "path": "source.url",
+      "bytes": 145,
+      "sha256": "2894037532564cca63f4fd737f49256771f7bc71cda71bb95e3ab47058288042"
+    },
+    {
+      "path": "videos/img-93f04d68ce85.webp",
+      "bytes": 126334,
+      "sha256": "85a79e14768d202e9e5b734ddf3761617834d2a2951bfcefbea0aeceb974d08e"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://player.vimeo.com/video/1181554582?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "status": "failed",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/ce836d5e-67dd-430f-9849-c4391d9ace7e/je/1040x620xc.jpg",
+      "poster_path": "videos/img-93f04d68ce85.webp",
+      "error": "response is not a recognized video"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/ce836d5e-67dd-430f-9849-c4391d9ace7e/je/2200xxs.jpg",
+      "path": "images/img-9b1dff58bf61.webp",
+      "media_type": "image/webp",
+      "bytes": 525158,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/31/a0324ada-8d6d-49db-a10f-fba241afeedf/je/2200xxs.jpg",
+      "path": "images/img-080ca9bdd7a4.webp",
+      "media_type": "image/webp",
+      "bytes": 203400,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/6f13894c-ada6-4d6f-82a4-bfb97ee43134/je/2200xxs.jpg",
+      "path": "images/img-2ec7d2bdc38d.webp",
+      "media_type": "image/webp",
+      "bytes": 492332,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/66396d5e-ac3e-4e3e-b866-36c728dd54e3/je/2200xxs.jpg",
+      "path": "images/img-4b2cbacdaa67.webp",
+      "media_type": "image/webp",
+      "bytes": 207896,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/5d621f6a-466d-453a-a1f2-83b44c68aafe/je/2200xxs.jpg",
+      "path": "images/img-8558ea6b3837.webp",
+      "media_type": "image/webp",
+      "bytes": 166308,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/31/bbb4a67b-b63f-4b3a-8c9d-1038fee211c7/je/2000xxs.jpg",
+      "path": "images/img-0062efd9c1ff.webp",
+      "media_type": "image/webp",
+      "bytes": 65056,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/10/50/44ac97d4-1cb9-41b7-84fd-56a0abfe4be6/je/2000xxs.jpg",
+      "path": "images/img-b7488cbddea9.webp",
+      "media_type": "image/webp",
+      "bytes": 180894,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/10/55/e5971d53-553a-45f4-9153-169afeef0720/je/2000xxs.jpg",
+      "path": "images/img-ec42dee215c5.webp",
+      "media_type": "image/webp",
+      "bytes": 496890,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/ba83de90-1a8a-4de6-a9dd-232fe1076f77/je/2000xxs.jpg",
+      "path": "images/img-0cd889fc7f35.webp",
+      "media_type": "image/webp",
+      "bytes": 269514,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/286f6416-f8f4-4473-b155-f88a2c3a85bc/je/2000xxs.jpg",
+      "path": "images/img-92c3204c9518.webp",
+      "media_type": "image/webp",
+      "bytes": 178746,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/33/8aa8080b-8327-42c4-9c61-a8a8b053ed1f/je/2000xxs.jpg",
+      "path": "images/img-07aae17dba80.webp",
+      "media_type": "image/webp",
+      "bytes": 119152,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/33/b29d9815-6128-4057-8630-909046c7b902/je/2000xxs.jpg",
+      "path": "images/img-4bbdc2d34982.webp",
+      "media_type": "image/webp",
+      "bytes": 167532,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/33/fb21cc37-55bc-4ef5-bf9d-49227d3a7633/je/2000xxs.jpg",
+      "path": "images/img-0b85fe979ac8.webp",
+      "media_type": "image/webp",
+      "bytes": 74660,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/a1439e26-3eb4-4cb3-8b1f-9caa4dd6c6b7/je/2000xxs.jpg",
+      "path": "images/img-11c16f086d96.webp",
+      "media_type": "image/webp",
+      "bytes": 87896,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/924d7353-28ad-4a79-9de6-29d71167b47e/je/2000xxs.jpg",
+      "path": "images/img-efede17ab301.webp",
+      "media_type": "image/webp",
+      "bytes": 119888,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/76a9b424-53d0-41f9-85ec-00e097730cc1/je/2000xxs.jpg",
+      "path": "images/img-759be70e7bf5.webp",
+      "media_type": "image/webp",
+      "bytes": 168832,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/0a041574-720d-4e23-ab33-7955fb8cab8e/je/2000xxs.jpg",
+      "path": "images/img-d53779ab5c30.webp",
+      "media_type": "image/webp",
+      "bytes": 167516,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/10/55/388b1116-3a30-4d7d-975b-16f43b1b50dd/je/2000xxs.jpg",
+      "path": "images/img-fc61b4be34c4.webp",
+      "media_type": "image/webp",
+      "bytes": 111008,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/d7200d41-eb8b-427f-8e07-81ee27e5046f/je/2000xxs.jpg",
+      "path": "images/img-46695da4e5b2.webp",
+      "media_type": "image/webp",
+      "bytes": 129190,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/31/9b994b00-9cc0-44c9-8e2e-25e62f833ad9/je/2000xxs.jpg",
+      "path": "images/img-920adc34a5ee.webp",
+      "media_type": "image/webp",
+      "bytes": 129572,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/af812ccb-3b01-4cab-9488-50be311696ed/je/2000xxs.jpg",
+      "path": "images/img-dc0edb053afa.webp",
+      "media_type": "image/webp",
+      "bytes": 166308,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2200xxs%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
+      "path": "images/img-20ade8335c8f.webp",
+      "media_type": "image/webp",
+      "bytes": 1042,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 23,
+    "images_existing": 0,
+    "images_failed": 19,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 1
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/corfu-greece/opulent-estate-on-the-nisaki-coastline-corfu-16486484",
+    "canonical_url": "https://www.jamesedition.com/real_estate/corfu-greece/opulent-estate-on-the-nisaki-coastline-corfu-16486484",
+    "site": "jamesedition",
+    "listing_id": "16486484",
+    "listing_reference": "RR7209",
+    "first_listed": "Oct 24, 2025",
+    "last_updated": "November 7, 2025",
+    "retrieved_at": "2026-06-16T03:43:33.248063Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3251,
+      "sha256": "344651707c232f69bda52f00cddf3205718860ecdd35b834255c7870a688cc57"
+    },
+    {
+      "path": "images/004-41e86b64.webp",
+      "bytes": 493666,
+      "sha256": "de18cc9904cc54a3f8071b3dbd0dfad8b3552c84fee1a4281e01e3b7dc8695d4"
+    },
+    {
+      "path": "images/009-f02abc1a.webp",
+      "bytes": 639588,
+      "sha256": "a157d620e2965c1a9f25255b85a278cc5e5b330241d323d8695a23f5f8adee2a"
+    },
+    {
+      "path": "images/014-89837bd2.webp",
+      "bytes": 345018,
+      "sha256": "0dc7e0283b6469f0052e4b582f66b1cde5995aeabd16dc70f4db7314eb211a5f"
+    },
+    {
+      "path": "images/019-b3557d29.webp",
+      "bytes": 131784,
+      "sha256": "b7d3e39fe01107f920d49513241ab005ae4d6b0c2431d4447fa3123985d03197"
+    },
+    {
+      "path": "images/024-827dc372.webp",
+      "bytes": 102678,
+      "sha256": "3ff2cc9136ecc926b946cc9a30fa48b871a695f2e6c97b1a7b16933ac6384e48"
+    },
+    {
+      "path": "images/034-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/035-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/036-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/037-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 20327,
+      "sha256": "dfe73c31e0e8e472e3048f14169e7287e3b0374857d7f78283fd3d759f169ace"
+    },
+    {
+      "path": "source.html",
+      "bytes": 349414,
+      "sha256": "173820b03810f3d0c2c618b160704c332341cd2d72251f4728f9919c87e6a6a9"
+    },
+    {
+      "path": "source.url",
+      "bytes": 108,
+      "sha256": "aaf8c953506ba5319b6913a7e0d483804492297f45f95e24ab97437dc14c2833"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/24/10/07/22/a62fd93f-86b5-4144-8409-e864c2426d1f/je/2200xxs.jpg",
+      "path": "images/004-41e86b64.webp",
+      "media_type": "image/webp",
+      "bytes": 493666,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/24/10/06/54/67770ef6-f796-4b34-87ce-3be1c577d9fa/je/2200xxs.jpg",
+      "path": "images/009-f02abc1a.webp",
+      "media_type": "image/webp",
+      "bytes": 639588,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/24/10/06/54/ff9b5041-808a-446b-8504-21b17ca76b43/je/2200xxs.jpg",
+      "path": "images/014-89837bd2.webp",
+      "media_type": "image/webp",
+      "bytes": 345018,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/24/10/06/54/6c67b2cc-c1e9-41cf-b080-89c771ec169a/je/2200xxs.jpg",
+      "path": "images/019-b3557d29.webp",
+      "media_type": "image/webp",
+      "bytes": 131784,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/24/10/07/22/8dd4edbe-6d70-40ba-b99b-205f9bff7c0c/je/2200xxs.jpg",
+      "path": "images/024-827dc372.webp",
+      "media_type": "image/webp",
+      "bytes": 102678,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Opulent%20Estate%20On%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2816486484%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/034-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/035-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/036-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/037-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 12,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

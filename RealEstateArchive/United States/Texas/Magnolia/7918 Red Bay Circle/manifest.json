@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/residential-magnolia-16842569",
+    "canonical_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/residential-magnolia-16842569",
+    "site": "jamesedition",
+    "listing_id": "16842569",
+    "listing_reference": "2064866500741238",
+    "first_listed": "Dec 23, 2025",
+    "last_updated": "May 28",
+    "retrieved_at": "2026-06-16T03:43:35.067374Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2200,
+      "sha256": "ec94a76292275e50ec0d0fae62a4d293e543e84dffbe862f8f4001cfa050d257"
+    },
+    {
+      "path": "images/004-c5671e10.webp",
+      "bytes": 176362,
+      "sha256": "1fb0266028561e22b853b128c5e6a0db92263a5c2b9deca3c1c67deb0a7c3f96"
+    },
+    {
+      "path": "images/009-e8d937fe.webp",
+      "bytes": 320392,
+      "sha256": "c26054af6d8d054bec9e8d6f147b67a098742f5e57064060555e803d1df4c938"
+    },
+    {
+      "path": "images/014-f1250b98.webp",
+      "bytes": 318512,
+      "sha256": "3841fd4ef21e6f6f96a7bc68b8d18d7ebf4ce31f3a21d4d23c76e4d9e425f64a"
+    },
+    {
+      "path": "images/019-b1906bdb.webp",
+      "bytes": 307410,
+      "sha256": "45839aa9d2db14296d58563e7fc7d7620f10b6c58904be3f49b051cebf7337b1"
+    },
+    {
+      "path": "images/024-ad932527.webp",
+      "bytes": 219144,
+      "sha256": "e983f940bf34fe50a3274192bb74381bc4b4314049f4c4b971a472c51a7f3c9c"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/034-b1378ddf.webp",
+      "bytes": 1286,
+      "sha256": "e705423e227f6e951a8817217dcc5b7b2079a5ecd74d90bfda2d4da99bc98182"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15665,
+      "sha256": "c9da680e2d014526a7fe51a6bd82691b17bf60a95d4b447201421530fbbdaea4"
+    },
+    {
+      "path": "source.html",
+      "bytes": 326195,
+      "sha256": "494dd5a8afb3b665495eaa885dabbe6f14ba0880386de8674117a36bc2f7c2e4"
+    },
+    {
+      "path": "source.url",
+      "bytes": 87,
+      "sha256": "4569140e3caa3a9d1c43a350102a9aa7dc480a58aa8671725e981c33e96d15ce"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/2200xxs.jpg",
+      "path": "images/004-c5671e10.webp",
+      "media_type": "image/webp",
+      "bytes": 176362,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/2200xxs.jpg",
+      "path": "images/009-e8d937fe.webp",
+      "media_type": "image/webp",
+      "bytes": 320392,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/2200xxs.jpg",
+      "path": "images/014-f1250b98.webp",
+      "media_type": "image/webp",
+      "bytes": 318512,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/2200xxs.jpg",
+      "path": "images/019-b1906bdb.webp",
+      "media_type": "image/webp",
+      "bytes": 307410,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/2200xxs.jpg",
+      "path": "images/024-ad932527.webp",
+      "media_type": "image/webp",
+      "bytes": 219144,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/02/20/13/51/08/b32b9454-d469-4af7-aa8b-cd3fa2e24ad8/je/80x80xc.jpg",
+      "path": "images/034-b1378ddf.webp",
+      "media_type": "image/webp",
+      "bytes": 1286,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

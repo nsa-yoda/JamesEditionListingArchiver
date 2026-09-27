@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/umbertide-italy/borgo-in-vendita-a-umbertide-comunaglia-16323504",
+    "canonical_url": "https://www.jamesedition.com/real_estate/umbertide-italy/borgo-in-vendita-a-umbertide-comunaglia-16323504",
+    "site": "jamesedition",
+    "listing_id": "16323504",
+    "listing_reference": "CBI134-2230-197",
+    "first_listed": "Oct 7, 2025",
+    "last_updated": "April 6",
+    "retrieved_at": "2026-06-16T03:43:21.854068Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5097,
+      "sha256": "63f515f18e21c3b4ca4131de4a0192b6144f94418191100515e6b6be59839655"
+    },
+    {
+      "path": "images/004-f6b6915f.webp",
+      "bytes": 423624,
+      "sha256": "f819518111911f4fd0d5e242fb14c481c6123933a185f555f3512fabc1f69833"
+    },
+    {
+      "path": "images/009-c61eb4fe.webp",
+      "bytes": 416660,
+      "sha256": "4301ed5f453290798f1385f692ea51155c48073c8cb7e52cf0e746e9d1b96462"
+    },
+    {
+      "path": "images/014-39275cef.webp",
+      "bytes": 562592,
+      "sha256": "d3c5c7593ce30e710b8389347a2bddcc82f92da5dc4a29703415a0a8537d1943"
+    },
+    {
+      "path": "images/019-61cf75e2.webp",
+      "bytes": 474108,
+      "sha256": "48e8c656390e1f487fe49131ce18dc422944ae881344cfe985eb84fc235d511f"
+    },
+    {
+      "path": "images/024-0e30f352.webp",
+      "bytes": 453852,
+      "sha256": "e5e18da24575b4bcd0bb806169473ac302143edbaff0b79340d101d2e7a517b6"
+    },
+    {
+      "path": "images/035-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/036-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/037-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/038-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/039-e7e6b8b3.webp",
+      "bytes": 1172,
+      "sha256": "a1d98da25d46808349779569755f5ea303409344794e15b35e1dff7e3e3dca8d"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 24173,
+      "sha256": "c6557aa0488b974188d62825999510753b919691b082b96643a2b9b93ced1e64"
+    },
+    {
+      "path": "source.html",
+      "bytes": 374870,
+      "sha256": "ab798255d44c31de302b0eb8283d657d584e778cd0e6abac7ab708db5c004b56"
+    },
+    {
+      "path": "source.url",
+      "bytes": 106,
+      "sha256": "53c5b4747f5295ff67ac666f7359a124912dfe98b0a6855277d76e91334b79e0"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/2200xxs.jpg",
+      "path": "images/004-f6b6915f.webp",
+      "media_type": "image/webp",
+      "bytes": 423624,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/2200xxs.jpg",
+      "path": "images/009-c61eb4fe.webp",
+      "media_type": "image/webp",
+      "bytes": 416660,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/2200xxs.jpg",
+      "path": "images/014-39275cef.webp",
+      "media_type": "image/webp",
+      "bytes": 562592,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/2200xxs.jpg",
+      "path": "images/019-61cf75e2.webp",
+      "media_type": "image/webp",
+      "bytes": 474108,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/2200xxs.jpg",
+      "path": "images/024-0e30f352.webp",
+      "media_type": "image/webp",
+      "bytes": 453852,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2024/10/04/05/07/50/0cd1e026-8a33-4ee0-b922-fb9ccf57a1b3/je/80x80xc.jpg",
+      "path": "images/039-e7e6b8b3.webp",
+      "media_type": "image/webp",
+      "bytes": 1172,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 13,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

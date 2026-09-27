@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850-sea-view-avenue-16150360",
+    "canonical_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850-sea-view-avenue-16150360",
+    "site": "jamesedition",
+    "listing_id": "16150360",
+    "listing_reference": "W6CG9V",
+    "first_listed": "Sep 9, 2025",
+    "last_updated": "April 22",
+    "retrieved_at": "2026-06-16T03:43:19.548364Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3928,
+      "sha256": "fe13b9fa353642fd79b558947ce9d4b19525245d7ec55ff9f4cd07195813d018"
+    },
+    {
+      "path": "images/004-6d6a618b.webp",
+      "bytes": 647264,
+      "sha256": "f9d27c3d473176f69f2c0f0b4edc6a97f00c204c93d0d64224aa32718c4163c2"
+    },
+    {
+      "path": "images/009-afb563a9.webp",
+      "bytes": 668320,
+      "sha256": "16d572cb4d1a0293a2a73c57f05b43145a0625d177becc3b6254dbcfefe21530"
+    },
+    {
+      "path": "images/014-9d2d5958.webp",
+      "bytes": 590154,
+      "sha256": "37a79a4fb911ab90197a67638a8de38a521391fe0431515874a163c59b42d01e"
+    },
+    {
+      "path": "images/019-42937cbf.webp",
+      "bytes": 221260,
+      "sha256": "dce7d60b07b3b447907eb3d28c00a67b761f8a0564f2f9868dcd2da3a347e762"
+    },
+    {
+      "path": "images/024-3ca06b0f.webp",
+      "bytes": 573374,
+      "sha256": "de96c72fd99c35b757d289b743bcdc9dcde29965744eb65056e7810ae83df372"
+    },
+    {
+      "path": "images/039-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/040-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/041-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/042-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/043-70621e48.webp",
+      "bytes": 2046,
+      "sha256": "fd4e8b27682a3d4c7d803f3f6a37f14bf8d4f81795710a7eb62a81ae12f9b19a"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23486,
+      "sha256": "1965ca8c3a036b9e81ad6edd55ee3c11df948b6e7396469fcaf1955fee7d1be2"
+    },
+    {
+      "path": "source.html",
+      "bytes": 360519,
+      "sha256": "e4d45f591a1ca046f1dab42b06b2927cd2f445992726fed5ec0d82e0bd675ac8"
+    },
+    {
+      "path": "source.url",
+      "bytes": 88,
+      "sha256": "0c403b6855d238a674dfdac7f14f91d7804c0493fba019c16368d97188498dd8"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/13/27/02/141a15c6-5ee2-4063-8717-11bd9b29bedc/je/2200xxs.jpg",
+      "path": "images/004-6d6a618b.webp",
+      "media_type": "image/webp",
+      "bytes": 647264,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/13/27/02/969a250d-2f89-47ff-898e-b4b1d9ce3ff3/je/2200xxs.jpg",
+      "path": "images/009-afb563a9.webp",
+      "media_type": "image/webp",
+      "bytes": 668320,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/02/16/32/48/67e534fd-c515-4de0-a3cd-b4abbccd1f8a/je/2200xxs.jpg",
+      "path": "images/014-9d2d5958.webp",
+      "media_type": "image/webp",
+      "bytes": 590154,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/13/27/02/941284cf-13b5-499d-b8e5-77a3244221a9/je/2200xxs.jpg",
+      "path": "images/019-42937cbf.webp",
+      "media_type": "image/webp",
+      "bytes": 221260,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/13/27/02/5275ee2b-22fa-4854-b3ba-544abe6338e7/je/2200xxs.jpg",
+      "path": "images/024-3ca06b0f.webp",
+      "media_type": "image/webp",
+      "bytes": 573374,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/osterville-ma-usa/850%20Sea%20View%20Avenue%20In%20Barnstable,%20Massachusetts,%20United%20States%20For%20Sale%20%2816150360%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/039-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/040-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/041-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/042-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/06/03/10/32/43/c36562cc-2fbf-4d91-8eb4-fea1190303a0/je/80x80xc.jpg",
+      "path": "images/043-70621e48.webp",
+      "media_type": "image/webp",
+      "bytes": 2046,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 17,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

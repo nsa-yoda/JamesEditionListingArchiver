@@ -1,0 +1,342 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/brno-czechia/unique-organic-shape-villa-with-elevator-pool-garden-near-brno-center-15835856",
+    "canonical_url": "https://www.jamesedition.com/real_estate/brno-czechia/unique-organic-shape-villa-with-elevator-pool-garden-near-brno-center-15835856",
+    "site": "jamesedition",
+    "listing_id": "15835856",
+    "listing_reference": "047976",
+    "first_listed": "Jun 25, 2025",
+    "last_updated": "November 26, 2025",
+    "retrieved_at": "2026-06-16T03:43:41.180751Z"
+  },
+  "location": {
+    "address": "Brno, South Moravian Region, Czechia",
+    "street": "Unique Organic Shape Villa With Elevator",
+    "municipality": "Brno",
+    "region": "South Moravian Region",
+    "country": "Czechia",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=49.185947840972,16.537479818862",
+    "latitude": 49.185947840972,
+    "longitude": 16.537479818862
+  },
+  "property": {
+    "title": "Unique Organic Shape Villa With Elevator, Pool \u0026 Garden Near Brno Center",
+    "type": "Townhouse",
+    "availability": "InStock",
+    "price": {
+      "amount": 5748585.61,
+      "currency": "USD",
+      "display": "$5,748,585"
+    },
+    "price_per_area": {
+      "amount": 644,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$644"
+    },
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "interior_area": {
+      "value": 8924,
+      "unit": "sqft",
+      "display": "8,924 Sqft"
+    },
+    "lot_area": {
+      "value": 20689,
+      "unit": "sqft",
+      "display": "20,689 Sqft lot"
+    },
+    "photo_count": 20,
+    "description": "This non-standard villa of organic shapes with a bright and airy interior naturally connected to the outdoor garden offers living in a secure complex of three houses. An absolutely quiet private environment is set within easy reach of the center of the Brno, yet at the edge of the Holedná game reserve.\n\n\n\n\nAll 3 levels of the house are connected by\u0026nbsp;an elevator.\u0026nbsp;The entrance floor consists of a foyer with a staircase hall, a dressing room, a study, a room with an en-suite bathroom and a dressing room, 2 separate toilets and a laundry room. The study and the room are connected to the\u0026nbsp;green\u0026nbsp;terrace. The living floor has a living room with a library, dining room, kitchen, pantry and study. The rooms face the garden. In addition to the necessary utility facilities, the quiet floor has a bedroom with a dressing room and a bathroom, and a\u0026nbsp;swimming pool with heated water.\u0026nbsp;From the pool, you can enter the stairs to the\u0026nbsp;garden,\u0026nbsp;which is optically connected to the interior by a sloping glass wall.Facilities include natural marmoleum floors with\u0026nbsp;underfloor heating,\u0026nbsp;sandstone tiles\u0026nbsp;by the pool, custom-made interior doors, Schüco glazed walls with aluminum frames. Heating is mostly underfloor, complete with recessed convectors; De Dietrich 2 gas boilers are the heat source. Parking is provided in\u0026nbsp;the garage with\u0026nbsp;direct access from the house.\u0026nbsp;The house is guarded by electric security alarms.The residential complex is set in a natural landscape; access from the main road is via a private asphalt road. The location high above the city center is distinguished by the\u0026nbsp;amount of greenery; beautiful surroundings are crossed by hiking and biking trails, which lead to many nearby\u0026nbsp;natural monuments.\u0026nbsp;Easy access by public transport is provided by trolleybuses and buses, and by car, the way to the city center takes about 10 minutes. It can be quickly connected to the D1 motorway. Schools, supermarkets and all other services are a short drive away.\nTotal area 829 m2, of which interior 715 m2and terraces 114 m2, garage 76m2, covered driveway 11 m2, built-up area 654 m2, garden 1,268 m2, land 1,922 m2.",
+    "features": [
+      "Elevator",
+      "Garage",
+      "Garden",
+      "High Ceiling",
+      "Laundry Room",
+      "Library",
+      "Parking",
+      "Pool",
+      "Terrace"
+    ]
+  },
+  "broker": {
+    "agent": "Thomas Lindner",
+    "agency": "Svoboda \u0026 Williams Christie's International Real Estate - Prague",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/svoboda-williams-christie-s-international-real-estate-prague-314241",
+    "agency_address": "Na Zátorce 1 Praha 6, 16000, Prague, Czechia"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/2200xxs.jpg",
+      "file": "004-e21e1ef4.webp",
+      "media_type": "image/webp",
+      "bytes": 1133452,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afff91e-9771-4716-9e8e-31131c010601/je/2200xxs.jpg",
+      "file": "009-b4a15de8.webp",
+      "media_type": "image/webp",
+      "bytes": 731906,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/38ee7cf6-46e8-4b4a-99df-0ef5720d03fc/je/2200xxs.jpg",
+      "file": "014-4f36de86.webp",
+      "media_type": "image/webp",
+      "bytes": 429466,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/42d9520d-153a-4150-a757-0b0e1ae532a4/je/2200xxs.jpg",
+      "file": "019-3abffa5a.webp",
+      "media_type": "image/webp",
+      "bytes": 233850,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/e5219dbc-8ed5-4fbc-9aae-79a92ac22c7e/je/2200xxs.jpg",
+      "file": "024-5ac1ee74.webp",
+      "media_type": "image/webp",
+      "bytes": 83094,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "032-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "033-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "034-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "035-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/17/03/32/07/11b22838-1c8a-412c-a17c-7586e465689f/je/80x80xc.jpg",
+      "file": "036-1a12a20d.webp",
+      "media_type": "image/webp",
+      "bytes": 1278,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/czechia",
+              "name": "Czechia"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/south-moravian-region-czechia",
+              "name": "South Moravian Region"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/brno-czechia",
+              "name": "Brno"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/brno-bosonohy-czechia",
+              "name": "Brno-Bosonohy"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/brno-czechia/unique-organic-shape-villa-with-elevator-pool-garden-near-brno-center-15835856",
+              "name": "Unique Organic-Shape Villa with Elevator, Pool \u0026amp; Garden near Brno Center"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "\n\nThis non-standard villa of organic shapes with a bright and airy interior naturally connected to the outdoor garden offers living in a secure complex of three houses. An absolutely quiet private environment is set within easy reach of the center of the Brno, yet at the edge of the Holedná game reserve.\n\n\n\n\nAll 3 levels of the house are connected by\u0026nbsp;an elevator.\u0026nbsp;The entrance floor consists of a foyer with a staircase hall, a dressing room, a study, a room with an en-suite bathroom and a dressing room, 2 separate toilets and a laundry room. The study and the room are connected to the\u0026nbsp;green\u0026nbsp;terrace. The living floor has a living room with a library, dining room, kitchen, pantry and study. The rooms face the garden. In addition to the necessary utility facilities, the quiet floor has a bedroom with a dressing room and a bathroom, and a\u0026nbsp;swimming pool with heated water.\u0026nbsp;From the pool, you can enter the stairs to the\u0026nbsp;garden,\u0026nbsp;which is optically connected to the interior by a sloping glass wall.Facilities include natural marmoleum floors with\u0026nbsp;underfloor heating,\u0026nbsp;sandstone tiles\u0026nbsp;by the pool, custom-made interior doors, Schüco glazed walls with aluminum frames. Heating is mostly underfloor, complete with recessed convectors; De Dietrich 2 gas boilers are the heat source. Parking is provided in\u0026nbsp;the garage with\u0026nbsp;direct access from the house.\u0026nbsp;The house is guarded by electric security alarms.The residential complex is set in a natural landscape; access from the main road is via a private asphalt road. The location high above the city center is distinguished by the\u0026nbsp;amount of greenery; beautiful surroundings are crossed by hiking and biking trails, which lead to many nearby\u0026nbsp;natural monuments.\u0026nbsp;Easy access by public transport is provided by trolleybuses and buses, and by car, the way to the city center takes about 10 minutes. It can be quickly connected to the D1 motorway. Schools, supermarkets and all other services are a short drive away.\nTotal area 829 m2, of which interior 715 m2and terraces 114 m2, garage 76m2, covered driveway 11 m2, built-up area 654 m2, garden 1,268 m2, land 1,922 m2.\n\n",
+        "image": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/1040x620xc.jpg",
+        "name": "Unique Organic-Shape Villa with Elevator, Pool \u0026 Garden near Brno Center",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 5748585.61,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Svoboda \u0026 Williams Christie's International Real Estate - Prague"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/brno-czechia/unique-organic-shape-villa-with-elevator-pool-garden-near-brno-center-15835856"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden"
+  ]
+};

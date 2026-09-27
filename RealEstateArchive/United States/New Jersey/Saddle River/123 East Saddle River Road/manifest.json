@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123-east-saddle-river-road-saddle-river-nj-07458-16398262",
+    "canonical_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123-east-saddle-river-road-saddle-river-nj-07458-16398262",
+    "site": "jamesedition",
+    "listing_id": "16398262",
+    "listing_reference": "5TQS8M",
+    "first_listed": "Oct 14, 2025",
+    "last_updated": "October 14, 2025",
+    "retrieved_at": "2026-06-16T03:43:12.379536Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4168,
+      "sha256": "1b6414f4ac1ac7cc4cf02544e26bd4d9e48289e9744cb31c1e98bfa8641d852e"
+    },
+    {
+      "path": "images/004-03a2a7a2.webp",
+      "bytes": 621692,
+      "sha256": "39c4fda7afeb8e5ab95405396c1bea50d8a28f168dee9366867a1761debbbedb"
+    },
+    {
+      "path": "images/009-71633f2b.webp",
+      "bytes": 537604,
+      "sha256": "1e9abeb97b053078c82ddafa50a75efa54de58bd99d9960e700f0b229b5e9ada"
+    },
+    {
+      "path": "images/014-71430381.webp",
+      "bytes": 649066,
+      "sha256": "4c96160ee7ceaeb69772ca6fcf158030bc9d131b7680b2d816cbe4972a6d1e59"
+    },
+    {
+      "path": "images/019-793438dc.webp",
+      "bytes": 820560,
+      "sha256": "e1cba28536678254b5ebaec798bcd0427c27d3a9055d54e4022d786026195f27"
+    },
+    {
+      "path": "images/024-6be1abb1.webp",
+      "bytes": 530212,
+      "sha256": "3b4a1f7865bf2acc11c20a29381c48c3559ae8138bc375816538f3cb597c17dc"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 19978,
+      "sha256": "be63b70ccc13cf53bba61a0e04910fa3dd07a2cdfce2163bec42c4c940d28591"
+    },
+    {
+      "path": "source.html",
+      "bytes": 352502,
+      "sha256": "bf38fddb1a0282321987799cc77c11b273908f058c686a68f748054010955aed"
+    },
+    {
+      "path": "source.url",
+      "bytes": 119,
+      "sha256": "cac571803aee98d226b84c07cfa0fb72c37e007976182a22d96f51d08912cfa9"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/34d6aaa1-216b-4153-a815-594db95bf536/je/2200xxs.jpg",
+      "path": "images/004-03a2a7a2.webp",
+      "media_type": "image/webp",
+      "bytes": 621692,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/256ea9a8-f09f-46ff-a22a-bfaa0adcfab4/je/2200xxs.jpg",
+      "path": "images/009-71633f2b.webp",
+      "media_type": "image/webp",
+      "bytes": 537604,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/10fd48d7-a7b1-4f25-82d5-42d2c98f744f/je/2200xxs.jpg",
+      "path": "images/014-71430381.webp",
+      "media_type": "image/webp",
+      "bytes": 649066,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/9e8f176d-0c5d-44d8-b260-3bfbb2b96639/je/2200xxs.jpg",
+      "path": "images/019-793438dc.webp",
+      "media_type": "image/webp",
+      "bytes": 820560,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/14/16/27/40/dd259199-cd0d-4dae-b967-d472cd59ee35/je/2200xxs.jpg",
+      "path": "images/024-6be1abb1.webp",
+      "media_type": "image/webp",
+      "bytes": 530212,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123%20East%20Saddle%20River%20Road,%20Saddle%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816398262%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

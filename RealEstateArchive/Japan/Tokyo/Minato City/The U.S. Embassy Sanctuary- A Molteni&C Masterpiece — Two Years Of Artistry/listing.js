@@ -1,0 +1,484 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/minato-city-japan/the-u-s-embassy-sanctuary-a-molteni-c-masterpiece-two-years-of-artistry-ready-for-tonight-17661569",
+    "canonical_url": "https://www.jamesedition.com/real_estate/minato-city-japan/the-u-s-embassy-sanctuary-a-molteni-c-masterpiece-two-years-of-artistry-ready-for-tonight-17661569",
+    "site": "jamesedition",
+    "listing_id": "17661569",
+    "first_listed": "Apr 13",
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-08-28T00:32:01.460143Z"
+  },
+  "location": {
+    "address": "Saion Sakurazaka, 1-chōme-11-12 Akasaka, Minato City, Tokyo 107-0052, Japan",
+    "street": "The U.S. Embassy Sanctuary: A Molteni\u0026C Masterpiece — Two Years Of Artistry",
+    "municipality": "Minato City",
+    "region": "Tokyo",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=35.6677111,139.7416644",
+    "latitude": 35.6677111,
+    "longitude": 139.7416644
+  },
+  "property": {
+    "title": "The U.S. Embassy Sanctuary: A Molteni\u0026C Masterpiece — Two Years Of Artistry, Ready For Tonight.",
+    "type": "Condo",
+    "availability": "InStock",
+    "price": {
+      "amount": 15370864.37,
+      "currency": "USD",
+      "display": "$15,370,864"
+    },
+    "price_per_area": {
+      "amount": 7700,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$7,700"
+    },
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "floors": 26,
+    "interior_area": {
+      "value": 1997,
+      "unit": "sqft",
+      "display": "1,997 Sqft"
+    },
+    "year_built": 2009,
+    "photo_count": 15,
+    "video_url": "https://player.vimeo.com/video/1185020918?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
+    "description": "①Property Highlights\nOn the 19th floor, with an unobstructed sightline to Tokyo Tower, Nicola Gallizia — acclaimed architect and Art Director of Italy's premier furniture house, Molteni\u0026amp;C — has reconstructed this space as a singular architectural statement. His philosophy does not treat furniture as objects placed within a room. Kitchens, cabinetry, partitions — each is conceived as an architectural component, part of a single coherent whole. Hand-selected Italian marble. Warm brass accents. Rare natural timbers. A sophisticated lighting system that choreographs the sensory experience of the space from morning to night. The result is not an interior. It is livable art — and it required, in its commission, between 18 and 24 months of lead time that this residence has already absorbed.\n\nMove in immediately. The two-year wait has already been served.\n\n2LDK + WIC. 19th floor. Full bespoke renovation completed August 2025. 24-hour bilingual staffed management. Rooftop sky garden and panoramic lounge.\n\nTo own this residence is to hold what others cannot simply build or buy. The embassy security. The Okura hospitality. The Gallizia hand. These three things, in this configuration, at this address — exist here, and nowhere else.\n\n②The Neighbourhood\nThere are addresses in Tokyo defined by proximity to power. And then there is Sakurazaka, Akasaka 1-chome — where the U. S. Embassy and The Okura Tokyo occupy the same immediate neighbourhood, and where the security presence, the discretion, and the quality of daily life that proximity produces are simply part of the address.\n\nThis is not symbolic adjacency. The Okura's world-class dining, refined tea ceremonies, and storied hospitality become, from this residence, a seamless extension of private life — available at the pace and on the terms of the resident, not the guest. The embassy district's heightened security presence is structural and permanent. It does not appear when needed. It simply never leaves.\n\nTameike-Sanno Station is two minutes on foot. Roppongi-itchome Station, five minutes.\n\n③Why TonTon\nThis is the kind of asset that does not reach the open market through conventional channels. As the exclusive Japan licensee of Forbes Global Properties, TonTon operates at the precise intersection of deep local knowledge and a truly global network — giving our clients access not only to properties of this nature, but to the discretion, due diligence, and cross-border expertise that a transaction of this significance demands.\n\nOur advisory team brings together backgrounds in international finance, Japanese property law, and cross-border transaction management — fluent at a native level in Japanese, English, Mandarin, Hindi, and Korean. From corporate structure establishment and tax advisory coordination to post-acquisition asset management, we provide end-to-end support across the full acquisition journey.\n\nFor clients whose ambitions extend beyond the visible, our private portfolio awaits.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "City View",
+      "Elevator",
+      "Fire Pit",
+      "Fireplace",
+      "High Altitude",
+      "Jacuzzi",
+      "Kitchen island",
+      "Laundry Room",
+      "Modern",
+      "Open Kitchen",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Privacy",
+      "Renovated",
+      "Stone Countertops",
+      "Walk In Closet",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Abhinav Sharma",
+    "agent_profile_url": "https://www.jamesedition.com/agents/abhinav-sharma-2282106",
+    "agent_license": "# License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443 # License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443",
+    "agency": "TonTon Forbes GLOBAL PROPERTIES",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/tonton-forbes-global-properties-602649",
+    "agency_address": "〒153-0043 3F, KDX Nakameguro Building, 1-5-4 Higashiyama, Meguro Ward, Tokyo, 153-0043, Meguro City, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/2200xxs.jpg",
+      "file": "img-e3e11a81c332.webp",
+      "media_type": "image/webp",
+      "bytes": 258394,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/c3c264f3-5998-42dc-a70f-6a3342562ec7/je/2200xxs.jpg",
+      "file": "img-10815de1139a.webp",
+      "media_type": "image/webp",
+      "bytes": 200514,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/ee25e463-d0c7-41e0-96d3-95a6333261ef/je/2200xxs.jpg",
+      "file": "img-7364910f90f9.webp",
+      "media_type": "image/webp",
+      "bytes": 149330,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/3a33cd54-62a4-4bc1-8f10-3790a052bad6/je/2200xxs.jpg",
+      "file": "img-31fdd7f80343.webp",
+      "media_type": "image/webp",
+      "bytes": 162652,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/43/0a5f54d3-8c16-48e2-9f6d-3c2ce543fc71/je/2200xxs.jpg",
+      "file": "img-9df0d0a0e661.webp",
+      "media_type": "image/webp",
+      "bytes": 214180,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/380xxsxm.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/45/759fb7fe-8be2-4f6e-895c-94d6415187e2/je/2000xxs.jpg",
+      "file": "img-ef299c698e82.webp",
+      "media_type": "image/webp",
+      "bytes": 177750,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/07/aa99c96d-d74a-4278-8246-5689dc0d066c/je/2000xxs.jpg",
+      "file": "img-98e3f799af39.webp",
+      "media_type": "image/webp",
+      "bytes": 67946,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/21/00/11/22/78dfce83-640f-4634-87da-69ca3b7cbc8b/je/2000xxs.jpg",
+      "file": "img-09cd38e17650.webp",
+      "media_type": "image/webp",
+      "bytes": 96440,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/42/78d8b0c3-a6ae-4247-b3f4-2985979533c6/je/2000xxs.jpg",
+      "file": "img-f7493a530d2d.webp",
+      "media_type": "image/webp",
+      "bytes": 205000,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/2fb94c3b-f321-40ec-af8d-979501ea5d40/je/2000xxs.jpg",
+      "file": "img-9c82c9c62ea4.webp",
+      "media_type": "image/webp",
+      "bytes": 159556,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/b6ec4edf-f9bd-44d9-884e-503bcfda6063/je/2000xxs.jpg",
+      "file": "img-d98b5697af1e.webp",
+      "media_type": "image/webp",
+      "bytes": 145414,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/18/49/31/9dac773c-c981-4491-9f0f-0ef8301ece79/je/2000xxs.jpg",
+      "file": "img-42a61866f0c9.webp",
+      "media_type": "image/webp",
+      "bytes": 52626,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/18/49/31/f1935035-3377-484a-b334-72d167aadb0a/je/2000xxs.jpg",
+      "file": "img-dbe0a77b0a69.webp",
+      "media_type": "image/webp",
+      "bytes": 24730,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/19/10/08/61449673-94ab-493c-9875-d99808ebcc43/je/2000xxs.jpg",
+      "file": "img-33c70b486443.webp",
+      "media_type": "image/webp",
+      "bytes": 56146,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2200xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
+      "file": "img-20ade8335c8f.webp",
+      "media_type": "image/webp",
+      "bytes": 1042,
+      "status": "new"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://player.vimeo.com/video/1185020918?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "status": "failed",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/1040x620xc.jpg",
+      "poster_file": "img-cd19bb29dff3.webp",
+      "error": "response is not a recognized video"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tokyo-japan",
+              "name": "Tokyo"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/minato-city-japan",
+              "name": "Minato City"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/11-japan",
+              "name": "11"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/minato-city-japan/the-u-s-embassy-sanctuary-a-molteni-c-masterpiece-two-years-of-artistry-ready-for-tonight-17661569",
+              "name": "The U.S. Embassy Sanctuary: A Molteni\u0026amp;C Masterpiece — Two Years of Artistry, Ready for Tonight."
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "①Property Highlights\nOn the 19th floor, with an unobstructed sightline to Tokyo Tower, Nicola Gallizia — acclaimed architect and Art Director of Italy's premier furniture house, Molteni\u0026amp;C — has reconstructed this space as a singular architectural statement. His philosophy does not treat furniture as objects placed within a room. Kitchens, cabinetry, partitions — each is conceived as an architectural component, part of a single coherent whole. Hand-selected Italian marble. Warm brass accents. Rare natural timbers. A sophisticated lighting system that choreographs the sensory experience of the space from morning to night. The result is not an interior. It is livable art — and it required, in its commission, between 18 and 24 months of lead time that this residence has already absorbed.\n\nMove in immediately. The two-year wait has already been served.\n\n2LDK + WIC. 19th floor. Full bespoke renovation completed August 2025. 24-hour bilingual staffed management. Rooftop sky garden and panoramic lounge.\n\nTo own this residence is to hold what others cannot simply build or buy. The embassy security. The Okura hospitality. The Gallizia hand. These three things, in this configuration, at this address — exist here, and nowhere else.\n\n②The Neighbourhood\nThere are addresses in Tokyo defined by proximity to power. And then there is Sakurazaka, Akasaka 1-chome — where the U. S. Embassy and The Okura Tokyo occupy the same immediate neighbourhood, and where the security presence, the discretion, and the quality of daily life that proximity produces are simply part of the address.\n\nThis is not symbolic adjacency. The Okura's world-class dining, refined tea ceremonies, and storied hospitality become, from this residence, a seamless extension of private life — available at the pace and on the terms of the resident, not the guest. The embassy district's heightened security presence is structural and permanent. It does not appear when needed. It simply never leaves.\n\nTameike-Sanno Station is two minutes on foot. Roppongi-itchome Station, five minutes.\n\n③Why TonTon\nThis is the kind of asset that does not reach the open market through conventional channels. As the exclusive Japan licensee of Forbes Global Properties, TonTon operates at the precise intersection of deep local knowledge and a truly global network — giving our clients access not only to properties of this nature, but to the discretion, due diligence, and cross-border expertise that a transaction of this significance demands.\n\nOur advisory team brings together backgrounds in international finance, Japanese property law, and cross-border transaction management — fluent at a native level in Japanese, English, Mandarin, Hindi, and Korean. From corporate structure establishment and tax advisory coordination to post-acquisition asset management, we provide end-to-end support across the full acquisition journey.\n\nFor clients whose ambitions extend beyond the visible, our private portfolio awaits.",
+        "image": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/1040x620xc.jpg",
+        "name": "The U.S. Embassy Sanctuary: A Molteni\u0026C Masterpiece — Two Years of Artistry, Ready for Tonight.",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 15370864.37,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "TonTon Forbes GLOBAL PROPERTIES"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/minato-city-japan/the-u-s-embassy-sanctuary-a-molteni-c-masterpiece-two-years-of-artistry-ready-for-tonight-17661569"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/380xxsxm.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2200xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2200xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "video https://player.vimeo.com/video/1185020918?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: response is not a recognized video"
+  ]
+};

@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/pinnacle-of-luxury-living-15715029",
+    "canonical_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/pinnacle-of-luxury-living-15715029",
+    "site": "jamesedition",
+    "listing_id": "15715029",
+    "listing_reference": "8BM236",
+    "first_listed": "May 30, 2025",
+    "last_updated": "April 17",
+    "retrieved_at": "2026-06-16T03:43:33.568154Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2882,
+      "sha256": "d7d4633d89a2104936b8831d362b887ac2e665d3d644cb611ee17af8230004d9"
+    },
+    {
+      "path": "images/004-560c8e8a.webp",
+      "bytes": 494878,
+      "sha256": "bbfad35abb1b53ddac4525dc3eaead5c2a36de3e7214ed929d5343aaf4f5cc57"
+    },
+    {
+      "path": "images/009-6fe2edee.webp",
+      "bytes": 510316,
+      "sha256": "7c100c57eb380e285d1f97bf16a15ef87ec21c203077e0778c8edea7e3f718ad"
+    },
+    {
+      "path": "images/014-70fe27aa.webp",
+      "bytes": 337940,
+      "sha256": "6bd80f604502beaa3f390c3ba25b111e06818abd97c1cf9e01ad77c33d430a84"
+    },
+    {
+      "path": "images/019-ec2fe09c.webp",
+      "bytes": 112348,
+      "sha256": "355e658d2d30d7fc136f815d3649176ea011c492f586074423a8c91be8306418"
+    },
+    {
+      "path": "images/024-b47c550e.webp",
+      "bytes": 176632,
+      "sha256": "f683d273681127709690ddaacb5ef926565bf34678757ae6bce4392fc4d0e4dc"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16725,
+      "sha256": "b549cc11c445970726273873595844ab5bedb61035e3409b7388209ea05abba2"
+    },
+    {
+      "path": "source.html",
+      "bytes": 352194,
+      "sha256": "efde2273f3920d1bc5c04aaf9cc116a879438ea2c8f499a4dc6223427cb39e37"
+    },
+    {
+      "path": "source.url",
+      "bytes": 93,
+      "sha256": "da64b475f4a593f6af5b5c558997940aa4477ef44ae7b58dbadcc7f7df9bc29f"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/a6a0d252-3a36-449f-834f-6e79ad582117/je/2200xxs.jpg",
+      "path": "images/004-560c8e8a.webp",
+      "media_type": "image/webp",
+      "bytes": 494878,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/Pinnacle%20Of%20Luxury%20Living%20In%20Far%20Hills,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815715029%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/d874198e-1742-4b4f-8de7-1d9cfdde2919/je/2200xxs.jpg",
+      "path": "images/009-6fe2edee.webp",
+      "media_type": "image/webp",
+      "bytes": 510316,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/Pinnacle%20Of%20Luxury%20Living%20In%20Far%20Hills,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815715029%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/30/15/17/12/e07b6108-a9af-458a-a239-587a682478f2/je/2200xxs.jpg",
+      "path": "images/014-70fe27aa.webp",
+      "media_type": "image/webp",
+      "bytes": 337940,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/Pinnacle%20Of%20Luxury%20Living%20In%20Far%20Hills,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815715029%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/30/15/17/12/1bd87bec-07b4-4632-a849-e25fa7e36a30/je/2200xxs.jpg",
+      "path": "images/019-ec2fe09c.webp",
+      "media_type": "image/webp",
+      "bytes": 112348,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/Pinnacle%20Of%20Luxury%20Living%20In%20Far%20Hills,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815715029%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/30/15/17/12/b91a3cae-ea2d-4284-807e-60f6b5f4b055/je/2200xxs.jpg",
+      "path": "images/024-b47c550e.webp",
+      "media_type": "image/webp",
+      "bytes": 176632,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/Pinnacle%20Of%20Luxury%20Living%20In%20Far%20Hills,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815715029%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/Pinnacle%20Of%20Luxury%20Living%20In%20Far%20Hills,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815715029%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/Pinnacle%20Of%20Luxury%20Living%20In%20Far%20Hills,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815715029%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/far-hills-nj-usa/Pinnacle%20Of%20Luxury%20Living%20In%20Far%20Hills,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815715029%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

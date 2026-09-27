@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/modern-luxury-estate-in-mesilla-new-mexico-16196983",
+    "canonical_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/modern-luxury-estate-in-mesilla-new-mexico-16196983",
+    "site": "jamesedition",
+    "listing_id": "16196983",
+    "listing_reference": "30068-000053",
+    "first_listed": "Sep 17, 2025",
+    "last_updated": "May 4",
+    "retrieved_at": "2026-06-16T03:43:30.317231Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2797,
+      "sha256": "2bbdc5bd3eeb64e1353fc5a426723b6eb9a6810774447244fdc791fee187b864"
+    },
+    {
+      "path": "images/004-48ebd7c4.webp",
+      "bytes": 80306,
+      "sha256": "03d116a4e3b40646f5cbc0c27960c2b0b6e8fc78b1d2cc1c98dc29f3e60492d4"
+    },
+    {
+      "path": "images/009-bc7992da.webp",
+      "bytes": 126380,
+      "sha256": "454e06cdc167a0570db01314775e61cca17849016c7b459fa001dd1f5742490a"
+    },
+    {
+      "path": "images/014-369ae312.webp",
+      "bytes": 113340,
+      "sha256": "fb5ca517b3e299ee100a0020fa6b9a8dd3da282af0410f449995307a395be85f"
+    },
+    {
+      "path": "images/019-162c05cb.webp",
+      "bytes": 127348,
+      "sha256": "9221835ed79bfcbaee76e514c66b29e5a35c951922cdcbce5139bb775f02fb95"
+    },
+    {
+      "path": "images/024-75c11ffe.webp",
+      "bytes": 66878,
+      "sha256": "90f65833a1caefccd13c1dddf1cf1065f21deb35501aff89b1cb1524d01e2d87"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16913,
+      "sha256": "f7486f530d5efd5ed0db7212be1a493b6615a189153f06ef9285526182b1f12e"
+    },
+    {
+      "path": "source.html",
+      "bytes": 310831,
+      "sha256": "ba9035bed95a80b17a8e852eca924c22fec67e02ff48c436f1bd5e2bfdc921cc"
+    },
+    {
+      "path": "source.url",
+      "bytes": 108,
+      "sha256": "fee52bb119ca1f0662fc89c659038bf4d00e63231b01fbd2b5555226fdbc5e34"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/2200xxs.jpg",
+      "path": "images/004-48ebd7c4.webp",
+      "media_type": "image/webp",
+      "bytes": 80306,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/2200xxs.jpg",
+      "path": "images/009-bc7992da.webp",
+      "media_type": "image/webp",
+      "bytes": 126380,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/2200xxs.jpg",
+      "path": "images/014-369ae312.webp",
+      "media_type": "image/webp",
+      "bytes": 113340,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/2200xxs.jpg",
+      "path": "images/019-162c05cb.webp",
+      "media_type": "image/webp",
+      "bytes": 127348,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/2200xxs.jpg",
+      "path": "images/024-75c11ffe.webp",
+      "media_type": "image/webp",
+      "bytes": 66878,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

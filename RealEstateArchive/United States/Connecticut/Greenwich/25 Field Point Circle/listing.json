@@ -1,0 +1,495 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/field-point-circle-17442077",
+    "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/field-point-circle-17442077",
+    "site": "jamesedition",
+    "listing_id": "17442077",
+    "listing_reference": "VNXK72",
+    "first_listed": "Mar 19",
+    "last_updated": "June 1",
+    "retrieved_at": "2026-06-19T08:18:46.668836Z"
+  },
+  "location": {
+    "address": "25 Field Point Circle, Greenwich, CT 06830, Connecticut, United States",
+    "street": "25 Field Point Circle",
+    "municipality": "Greenwich",
+    "region": "Connecticut",
+    "postal_code": "06830",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.0062685,-73.6290534",
+    "latitude": 41.0062685,
+    "longitude": -73.6290534
+  },
+  "property": {
+    "title": "Field Point Circle",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 19000000,
+      "currency": "USD",
+      "display": "$19,000,000"
+    },
+    "price_per_area": {
+      "amount": 1986,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,986"
+    },
+    "bedrooms": 6,
+    "bathrooms": 9,
+    "interior_area": {
+      "value": 9565,
+      "unit": "sqft",
+      "display": "9,565 Sqft"
+    },
+    "lot_area": {
+      "value": 2.21,
+      "display": "2.21 Ac lot"
+    },
+    "year_built": 1977,
+    "photo_count": 24,
+    "video_url": "https://players.brightcove.net/5782886755001/rJlOfaQNgQ_default/index.html?videoId=ref:sir_listings_2b343d34-e7b7-44dc-9138-0a6c5bc5acff\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+    "description": "Originally a turn of the century horse racing track named Field Point Park, the prestigious Field Point Circle Association is now one of Greenwich’s most coveted guard-gated enclaves. Distinguished by its exclusive address, this grandly proportioned French-inspired manor of 9,565 +/- square feet combines stately elegance on a level 2.2 acres with exquisite privacy and a pool with spa. Clad in limestone with a slate roof, the six bedroom, seven full and two bathroom residence is is distinguished by a flexible floor plan, offering a primary suite option on both the first and second floors. Principal entertaining spaces—an elegant living room, gracious dining room, and refined library—are enhanced by high ceilings and oversized windows that flood the home with natural light.\u0026nbsp;Opening to a grand rotunda with a double-height curved staircase, the marble foyer is the intersection between the east and west wings of the house. On the east side, an elegant formal dining room adjoins the butler’s pantry and opens to the generously sized kitchen with pantry, breakfast area and powder room. There is an attached 3-car garage in this wing, with a laundry room. Formal rooms in the west wing include an airy living room with fireplace and cozy library with fireplace and concealed wet bar which opens through French doors to the private backyard terrace. The ground floor primary suite with dressing room and full bathroom also overlooks the peaceful backyard. There is another first floor en-suite bedroom across the hall. A great room that is perfect for entertaining adjoins the full pool bathroom, kitchenette, bar and dining area which serves as a “pool house” and opens to the main terrace and pool with spa. The great room was originally an indoor pool and the pool is intact below the floor and can be put back into use.Screened by greenery for ultimate privacy, the secluded backyard with verdant level lawn and pool with spa completes this idyllic retreat perfect for all lifestyles.The Field Point Circle Association consists of only 27 homes and offers 24-hour security, while its wide, tree-lined boulevards maintain its glamorous, Gilded Age legacy. In a treasured coastal location, this historic neighborhood offers a compelling mix of proximity to downtown Greenwich, as well as easy access to New York City vis Interstate 95 or the Metro North train.",
+    "features": [
+      "Air Conditioning",
+      "Bar",
+      "Basement",
+      "Coastal",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Gate",
+      "Indoor Pool",
+      "Laundry Room",
+      "Library",
+      "Pool",
+      "Privacy",
+      "Terrace",
+      "Walk In Closet"
+    ]
+  },
+  "broker": {
+    "agent": "Leslie McElwreath",
+    "agent_profile_url": "https://www.jamesedition.com/agents/leslie-mcelwreath-84078",
+    "agency": "Sotheby's International Realty - Greenwich Brokerage",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/sotheby-s-international-realty-greenwich-brokerage-10816",
+    "agency_address": "One Pickwick Plaza, 06830, Greenwich, Connecticut, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2200xxs.jpg",
+      "file": "img-4d8be312662a.webp",
+      "media_type": "image/webp",
+      "bytes": 1097090,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/2200xxs.jpg",
+      "file": "img-09f1556448a7.webp",
+      "media_type": "image/webp",
+      "bytes": 909200,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/2200xxs.jpg",
+      "file": "img-6e74f9d693d7.webp",
+      "media_type": "image/webp",
+      "bytes": 625280,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/2200xxs.jpg",
+      "file": "img-4958d56e9b05.webp",
+      "media_type": "image/webp",
+      "bytes": 263584,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/2200xxs.jpg",
+      "file": "img-a641e839fdf6.webp",
+      "media_type": "image/webp",
+      "bytes": 198082,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/90125f04-b5e0-4084-9663-a1e357ce34d0/je/2000xxs.jpg",
+      "file": "img-a5ceb8b9727f.webp",
+      "media_type": "image/webp",
+      "bytes": 250442,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b8738b34-37d4-4e61-8fb4-fda2eb259e43/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b8738b34-37d4-4e61-8fb4-fda2eb259e43/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/35b8ba60-ba5b-4019-affe-bbec706c5df9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/35b8ba60-ba5b-4019-affe-bbec706c5df9/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/973e16a7-5070-4c17-9483-90d7663ced15/je/2000xxs.jpg",
+      "file": "img-9a605d48a2fa.webp",
+      "media_type": "image/webp",
+      "bytes": 296142,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a4ab3633-4c18-4ef0-aa16-955ed9ac8637/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a4ab3633-4c18-4ef0-aa16-955ed9ac8637/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/6fc38629-1f21-4a10-b453-383a880297a3/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/6fc38629-1f21-4a10-b453-383a880297a3/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/f2e18342-823b-46d0-9b0a-31af1986af17/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/f2e18342-823b-46d0-9b0a-31af1986af17/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/29b61161-726a-49ee-8b69-6091f2b5e4f4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/29b61161-726a-49ee-8b69-6091f2b5e4f4/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d0ea6680-a00e-4d6b-b7c2-ef16e8e1c321/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d0ea6680-a00e-4d6b-b7c2-ef16e8e1c321/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b3dce873-da22-46e7-bb4d-5d916ee9103e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b3dce873-da22-46e7-bb4d-5d916ee9103e/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/3814ede3-7b09-4aa2-8b5f-e744a12b26d0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/3814ede3-7b09-4aa2-8b5f-e744a12b26d0/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/be6b9294-8e97-486e-bac0-7d5a5ab90ac7/je/2000xxs.jpg",
+      "file": "img-b13786794c2b.webp",
+      "media_type": "image/webp",
+      "bytes": 489056,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/3a348143-ac56-47aa-893a-91a978352e74/je/2000xxs.jpg",
+      "file": "img-edae0d501005.webp",
+      "media_type": "image/webp",
+      "bytes": 651180,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/46023ad8-46d8-4002-83a7-5ee837e95bc8/je/2000xxs.jpg",
+      "file": "img-6ec207eb14b1.webp",
+      "media_type": "image/webp",
+      "bytes": 438404,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/cdd32a0b-c8c6-4391-ad4a-ced38b051296/je/2000xxs.jpg",
+      "file": "img-313853209586.webp",
+      "media_type": "image/webp",
+      "bytes": 960216,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d9e78d5b-0e49-4fb7-a890-32e4ff960b5b/je/2000xxs.jpg",
+      "file": "img-c4a31fefc472.webp",
+      "media_type": "image/webp",
+      "bytes": 982916,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/6781c556-ed47-4d61-97b6-4953d06019ff/je/2000xxs.jpg",
+      "file": "img-b08496906aa2.webp",
+      "media_type": "image/webp",
+      "bytes": 880440,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/f6ca7c00-a90c-4a9e-82c4-e48141ddc2a7/je/2000xxs.jpg",
+      "file": "img-8ca1641282aa.webp",
+      "media_type": "image/webp",
+      "bytes": 43326,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/60fd7b29-b987-423c-a5a7-c25f9331b55c/je/2000xxs.jpg",
+      "file": "img-125b330ab8b3.webp",
+      "media_type": "image/webp",
+      "bytes": 51140,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/2200xxsxm%2822%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/2200xxsxm%2823%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/05/23/11/55/48/355f3745-6d0c-4bd0-ad2e-48e5af7e1e29/je/80x80xc.jpg",
+      "file": "img-dd94e60cc610.webp",
+      "media_type": "image/webp",
+      "bytes": 1122,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ct-united-states",
+              "name": "Connecticut"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/greenwich-ct-usa",
+              "name": "Greenwich"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/field-point-circle-17442077",
+              "name": "Field Point Circle"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Originally a turn of the century horse racing track named Field Point Park, the prestigious Field Point Circle Association is now one of Greenwich’s most coveted guard-gated enclaves. Distinguished by its exclusive address, this grandly proportioned French-inspired manor of 9,565 +/- square feet combines stately elegance on a level 2.2 acres with exquisite privacy and a pool with spa. Clad in limestone with a slate roof, the six bedroom, seven full and two bathroom residence is is distinguished by a flexible floor plan, offering a primary suite option on both the first and second floors. Principal entertaining spaces—an elegant living room, gracious dining room, and refined library—are enhanced by high ceilings and oversized windows that flood the home with natural light.\u0026nbsp;Opening to a grand rotunda with a double-height curved staircase, the marble foyer is the intersection between the east and west wings of the house. On the east side, an elegant formal dining room adjoins the butler’s pantry and opens to the generously sized kitchen with pantry, breakfast area and powder room. There is an attached 3-car garage in this wing, with a laundry room. Formal rooms in the west wing include an airy living room with fireplace and cozy library with fireplace and concealed wet bar which opens through French doors to the private backyard terrace. The ground floor primary suite with dressing room and full bathroom also overlooks the peaceful backyard. There is another first floor en-suite bedroom across the hall. A great room that is perfect for entertaining adjoins the full pool bathroom, kitchenette, bar and dining area which serves as a “pool house” and opens to the main terrace and pool with spa. The great room was originally an indoor pool and the pool is intact below the floor and can be put back into use.Screened by greenery for ultimate privacy, the secluded backyard with verdant level lawn and pool with spa completes this idyllic retreat perfect for all lifestyles.The Field Point Circle Association consists of only 27 homes and offers 24-hour security, while its wide, tree-lined boulevards maintain its glamorous, Gilded Age legacy. In a treasured coastal location, this historic neighborhood offers a compelling mix of proximity to downtown Greenwich, as well as easy access to New York City vis Interstate 95 or the Metro North train.",
+        "image": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/1040x620xc.jpg",
+        "name": "Field Point Circle",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 19000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Sotheby's International Realty - Greenwich Brokerage"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/field-point-circle-17442077"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b8738b34-37d4-4e61-8fb4-fda2eb259e43/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b8738b34-37d4-4e61-8fb4-fda2eb259e43/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/35b8ba60-ba5b-4019-affe-bbec706c5df9/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/35b8ba60-ba5b-4019-affe-bbec706c5df9/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a4ab3633-4c18-4ef0-aa16-955ed9ac8637/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a4ab3633-4c18-4ef0-aa16-955ed9ac8637/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/6fc38629-1f21-4a10-b453-383a880297a3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/6fc38629-1f21-4a10-b453-383a880297a3/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/f2e18342-823b-46d0-9b0a-31af1986af17/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/f2e18342-823b-46d0-9b0a-31af1986af17/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/29b61161-726a-49ee-8b69-6091f2b5e4f4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/29b61161-726a-49ee-8b69-6091f2b5e4f4/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d0ea6680-a00e-4d6b-b7c2-ef16e8e1c321/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d0ea6680-a00e-4d6b-b7c2-ef16e8e1c321/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b3dce873-da22-46e7-bb4d-5d916ee9103e/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b3dce873-da22-46e7-bb4d-5d916ee9103e/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/3814ede3-7b09-4aa2-8b5f-e744a12b26d0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/3814ede3-7b09-4aa2-8b5f-e744a12b26d0/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/2200xxsxm%2822%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/2200xxsxm%2823%29.jpg: HTTP 403 Forbidden"
+  ]
+}

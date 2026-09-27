@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United Kingdom/Wales/Haverfordwest/Cwm Mawr/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-445c81e8.webp",
+      "href": "004-445c81e8.webp",
+      "size": 223088
+    },
+    {
+      "name": "009-f906b59f.webp",
+      "href": "009-f906b59f.webp",
+      "size": 143090
+    },
+    {
+      "name": "014-42c813bc.webp",
+      "href": "014-42c813bc.webp",
+      "size": 302960
+    },
+    {
+      "name": "019-cfb274ae.webp",
+      "href": "019-cfb274ae.webp",
+      "size": 169622
+    },
+    {
+      "name": "024-c010f7bd.webp",
+      "href": "024-c010f7bd.webp",
+      "size": 323110
+    },
+    {
+      "name": "035-57242b8e.webp",
+      "href": "035-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "036-4055dfde.svg",
+      "href": "036-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "037-272e34fe.svg",
+      "href": "037-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "038-caf7633d.svg",
+      "href": "038-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

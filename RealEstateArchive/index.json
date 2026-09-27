@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "path": ".",
+  "directories": [
+    {
+      "name": "Canada",
+      "href": "Canada/index.html"
+    },
+    {
+      "name": "Czechia",
+      "href": "Czechia/index.html"
+    },
+    {
+      "name": "Fiji",
+      "href": "Fiji/index.html"
+    },
+    {
+      "name": "France",
+      "href": "France/index.html"
+    },
+    {
+      "name": "Greece",
+      "href": "Greece/index.html"
+    },
+    {
+      "name": "Italy",
+      "href": "Italy/index.html"
+    },
+    {
+      "name": "Japan",
+      "href": "Japan/index.html"
+    },
+    {
+      "name": "Liguria",
+      "href": "Liguria/index.html"
+    },
+    {
+      "name": "New Zealand",
+      "href": "New%20Zealand/index.html"
+    },
+    {
+      "name": "Philippines",
+      "href": "Philippines/index.html"
+    },
+    {
+      "name": "Poland",
+      "href": "Poland/index.html"
+    },
+    {
+      "name": "Portugal",
+      "href": "Portugal/index.html"
+    },
+    {
+      "name": "Romania",
+      "href": "Romania/index.html"
+    },
+    {
+      "name": "Sardinia",
+      "href": "Sardinia/index.html"
+    },
+    {
+      "name": "Scotland",
+      "href": "Scotland/index.html"
+    },
+    {
+      "name": "Spain",
+      "href": "Spain/index.html"
+    },
+    {
+      "name": "Switzerland",
+      "href": "Switzerland/index.html"
+    },
+    {
+      "name": "The Bahamas",
+      "href": "The%20Bahamas/index.html"
+    },
+    {
+      "name": "United Kingdom",
+      "href": "United%20Kingdom/index.html"
+    },
+    {
+      "name": "United States",
+      "href": "United%20States/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": ".DS_Store",
+      "href": ".DS_Store",
+      "size": 6148
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

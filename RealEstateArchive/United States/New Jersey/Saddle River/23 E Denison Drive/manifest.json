@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6-bedrooms-single-family-detached-15575669",
+    "canonical_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6-bedrooms-single-family-detached-15575669",
+    "site": "jamesedition",
+    "listing_id": "15575669",
+    "listing_reference": "26k6sk",
+    "first_listed": "May 2, 2025",
+    "last_updated": "April 6",
+    "retrieved_at": "2026-06-16T03:43:19.146974Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1910,
+      "sha256": "6a8516698d6e569b5b73a52b268d1166be1ee2e61ab5bfb3579edfd8a6934fa2"
+    },
+    {
+      "path": "images/004-9b33aa1e.webp",
+      "bytes": 57288,
+      "sha256": "621355668f8bb1f5d2c37b3082e3b73289206d8f719c29ab15ed25857223c600"
+    },
+    {
+      "path": "images/009-d827812b.webp",
+      "bytes": 51980,
+      "sha256": "237e446656b095c72a9d2c7a8fd90cf2b44d2f48a8d06748ad39a69c0077b924"
+    },
+    {
+      "path": "images/014-2462af53.webp",
+      "bytes": 83640,
+      "sha256": "1978d32f6f73d62ae7080b87820b75de2de3a4843ec062059ae3d81d57049e35"
+    },
+    {
+      "path": "images/019-dbfe4ec5.webp",
+      "bytes": 42092,
+      "sha256": "ee0fff6343a8339be9df03504af79315a9df92e8f79c7e77891599e98f1b94cf"
+    },
+    {
+      "path": "images/024-ae78f486.webp",
+      "bytes": 26582,
+      "sha256": "f1c3a8f56263700f5179ae2ebf7dadd53c1954b411029e0870014747f6366191"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15287,
+      "sha256": "e56de6c483ce597127c4f77f97fcc0a15972c357218598a3eddbd47a89941771"
+    },
+    {
+      "path": "source.html",
+      "bytes": 325937,
+      "sha256": "b0841057a13d8416b79eadecd604f1837c047c29047f181a626d41f1d72ea51b"
+    },
+    {
+      "path": "source.url",
+      "bytes": 104,
+      "sha256": "f8cd92f7e68b8a52ad6b4ee04517d64fd646671ea374f2abc613198de2a14e11"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/2200xxs.jpg",
+      "path": "images/004-9b33aa1e.webp",
+      "media_type": "image/webp",
+      "bytes": 57288,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/2200xxs.jpg",
+      "path": "images/009-d827812b.webp",
+      "media_type": "image/webp",
+      "bytes": 51980,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/2200xxs.jpg",
+      "path": "images/014-2462af53.webp",
+      "media_type": "image/webp",
+      "bytes": 83640,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/2200xxs.jpg",
+      "path": "images/019-dbfe4ec5.webp",
+      "media_type": "image/webp",
+      "bytes": 42092,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/2200xxs.jpg",
+      "path": "images/024-ae78f486.webp",
+      "media_type": "image/webp",
+      "bytes": 26582,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

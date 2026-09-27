@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Wyoming/Dubois",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "169 RAMSHORN RANCH Road",
+      "href": "169%20RAMSHORN%20RANCH%20Road/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

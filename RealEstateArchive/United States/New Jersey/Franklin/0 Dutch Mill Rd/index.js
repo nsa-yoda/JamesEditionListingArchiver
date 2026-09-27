@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New Jersey/Franklin/0 Dutch Mill Rd",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 25603
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 9890
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 5572
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 308519
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 106
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

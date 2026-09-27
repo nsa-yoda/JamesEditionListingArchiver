@@ -1,0 +1,329 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/conifer-co-usa/private-mountain-retreat-with-scenic-mountain-views-and-absolute-privacy-15116459",
+    "canonical_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/private-mountain-retreat-with-scenic-mountain-views-and-absolute-privacy-15116459",
+    "site": "jamesedition",
+    "listing_id": "15116459",
+    "listing_reference": "DBDQKV",
+    "first_listed": "Jan 21, 2025",
+    "last_updated": "December 11, 2025",
+    "retrieved_at": "2026-06-16T03:43:34.224698Z"
+  },
+  "location": {
+    "address": "26269 Richmond Hill Road , Conifer, CO 80433, Colorado, United States",
+    "street": "26269 Richmond Hill Road",
+    "municipality": "Conifer",
+    "region": "Colorado",
+    "postal_code": "26269",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=39.488717,-105.290672",
+    "latitude": 39.488717,
+    "longitude": -105.290672
+  },
+  "property": {
+    "title": "Private Mountain Retreat With Scenic Mountain Views And Absolute Privacy",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 2499000,
+      "currency": "USD",
+      "display": "$2,499,000"
+    },
+    "price_per_area": {
+      "amount": 324,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$324"
+    },
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "interior_area": {
+      "value": 7706,
+      "unit": "sqft",
+      "display": "7,706 Sqft"
+    },
+    "lot_area": {
+      "value": 35,
+      "display": "35.0 Ac lot"
+    },
+    "year_built": 1993,
+    "photo_count": 44,
+    "description": "Private Mountain Retreat with Scenic Mountain Views and Absolute PrivacyExperience unmatched seclusion and the authentic Colorado lifestyle with this expansive mountain retreat, a peaceful sanctuary located just 30 minutes from Denver yet set in a world apart. This property offers awe-inspiring mountain vistas, abundant wildlife, and an idyllic setting for those seeking genuine Colorado mountain living.A private gate accessed via Richmond Hill Road introduces you to the property’s winding 1.2-mile paved driveway, which gently curves through dense forestland to reveal the residence, offering a sense of anticipation and grandeur. A second gate at the home itself ensures enhanced privacy and exclusivity.Featuring 4 bedrooms, 6 bathrooms, an office, and a spacious 3-car garage, the home has been recently renovated to create an inviting and sophisticated mountain escape. Beautiful hardwood floors flow throughout the main level, complemented by a hydronic baseboard heating system that ensures warmth and comfort. The kitchen, ideal for the culinary enthusiast, is equipped with premium stainless steel appliances and opens to the dining area, where panoramic views captivate and inspire during every meal. The primary suite is a sanctuary in itself. Wake up each morning to majestic Colorado landscapes framed by expansive windows. The opulent ensuite bathroom includes a cozy fireplace, a freestanding soaking tub positioned beneath a series of thoughtfully placed windows, a striking chandelier overhead, and a custom glass-enclosed shower—all designed to provide a spa-like experience within your own home. The lower level offers a versatile, walk-out basement, thoughtfully designed with a fitness room, theater room, and ample space for hosting gatherings.  ****Seller will consider owner-carry, subject to negotiation between parties and final contract terms.**********View Property Video Here: [hidden information]",
+    "features": [
+      "Air Conditioning",
+      "Basement",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Gate",
+      "Mountain View",
+      "Office",
+      "Panoramic / Scenic View",
+      "Privacy",
+      "Renovated",
+      "Washer Dryer"
+    ]
+  },
+  "broker": {
+    "agent": "Phillip Booghier",
+    "agency": "LIV Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/liv-sotheby-s-international-realty-101888",
+    "agency_address": "482 W. Happy Canyon Road, 80108, Castle Rock, Colorado, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/2200xxs.jpg",
+      "file": "004-480f8030.webp",
+      "media_type": "image/webp",
+      "bytes": 693360,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/2931a2c1-686b-4e16-943b-30c526eae296/je/2200xxs.jpg",
+      "file": "009-ce60a5a4.webp",
+      "media_type": "image/webp",
+      "bytes": 1067298,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/3f0253b1-7fd5-42da-822d-59b67d0f8c46/je/2200xxs.jpg",
+      "file": "014-4d1128b2.webp",
+      "media_type": "image/webp",
+      "bytes": 667288,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/57f97ce8-7460-47ef-8756-fb631928f89c/je/2200xxs.jpg",
+      "file": "019-4958125e.webp",
+      "media_type": "image/webp",
+      "bytes": 347152,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/ed25e4e9-169c-4d2e-a077-f2a13ed5b3fa/je/2200xxs.jpg",
+      "file": "024-51fa3eb8.webp",
+      "media_type": "image/webp",
+      "bytes": 995870,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/co-united-states",
+              "name": "Colorado"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/denver-co-usa",
+              "name": "Denver"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/conifer-co-usa",
+              "name": "Conifer"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/conifer-co-usa/private-mountain-retreat-with-scenic-mountain-views-and-absolute-privacy-15116459",
+              "name": "Private Mountain Retreat With Scenic Mountain Views And Absolute Privacy"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Private Mountain Retreat with Scenic Mountain Views and Absolute PrivacyExperience unmatched seclusion and the authentic Colorado lifestyle with this expansive mountain retreat, a peaceful sanctuary located just 30 minutes from Denver yet set in a world apart. This property offers awe-inspiring mountain vistas, abundant wildlife, and an idyllic setting for those seeking genuine Colorado mountain living.A private gate accessed via Richmond Hill Road introduces you to the property’s winding 1.2-mile paved driveway, which gently curves through dense forestland to reveal the residence, offering a sense of anticipation and grandeur. A second gate at the home itself ensures enhanced privacy and exclusivity.Featuring 4 bedrooms, 6 bathrooms, an office, and a spacious 3-car garage, the home has been recently renovated to create an inviting and sophisticated mountain escape. Beautiful hardwood floors flow throughout the main level, complemented by a hydronic baseboard heating system that ensures warmth and comfort. The kitchen, ideal for the culinary enthusiast, is equipped with premium stainless steel appliances and opens to the dining area, where panoramic views captivate and inspire during every meal. The primary suite is a sanctuary in itself. Wake up each morning to majestic Colorado landscapes framed by expansive windows. The opulent ensuite bathroom includes a cozy fireplace, a freestanding soaking tub positioned beneath a series of thoughtfully placed windows, a striking chandelier overhead, and a custom glass-enclosed shower—all designed to provide a spa-like experience within your own home. The lower level offers a versatile, walk-out basement, thoughtfully designed with a fitness room, theater room, and ample space for hosting gatherings.  ****Seller will consider owner-carry, subject to negotiation between parties and final contract terms.**********View Property Video Here: [hidden information]",
+        "image": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/1040x620xc.jpg",
+        "name": "Private Mountain Retreat With Scenic Mountain Views And Absolute Privacy",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 2499000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "LIV Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/conifer-co-usa/private-mountain-retreat-with-scenic-mountain-views-and-absolute-privacy-15116459"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

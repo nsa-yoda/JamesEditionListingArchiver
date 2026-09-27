@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/setenil-spain/finca-venta-cadiz-15969984",
+    "canonical_url": "https://www.jamesedition.com/real_estate/setenil-spain/finca-venta-cadiz-15969984",
+    "site": "jamesedition",
+    "listing_id": "15969984",
+    "listing_reference": "8095280952429",
+    "first_listed": "Jul 24, 2025",
+    "last_updated": "April 13",
+    "retrieved_at": "2026-06-16T03:43:25.790156Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1531,
+      "sha256": "55f4a7276fcd1e633c40d4451a670aa2eae120c844c91740bb8653d6efbc9a57"
+    },
+    {
+      "path": "images/004-6d571c37.webp",
+      "bytes": 288582,
+      "sha256": "e481227d927cdf5efc81b5ceae9e5927e85b3b49d0f6ed76127b62aee4f6084f"
+    },
+    {
+      "path": "images/009-9f26776b.webp",
+      "bytes": 351158,
+      "sha256": "740d014ae05842e0a2563d2866b2b8977fe5f19cc339425676588ceafac830d1"
+    },
+    {
+      "path": "images/014-8698b89a.webp",
+      "bytes": 325466,
+      "sha256": "1665af8e31e92c147617f5002ebfa67d4c2feb80bf0c02e1f372bbc71b0c0b9e"
+    },
+    {
+      "path": "images/019-42338c44.webp",
+      "bytes": 332448,
+      "sha256": "40c799fbe78612d0fbf3288fb290e180043affc212c5eba8d4cc3d06d92027c2"
+    },
+    {
+      "path": "images/024-68d6373e.webp",
+      "bytes": 269424,
+      "sha256": "ce1648249f638b9b8cd7d9407fa9727c715b70dccec905ada5d099bbfc03a3fc"
+    },
+    {
+      "path": "images/036-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/037-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/038-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/039-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17635,
+      "sha256": "e80f685d619fe333e44adbef2f2c441310c52e0c3408514dea11c2a9354b285c"
+    },
+    {
+      "path": "source.html",
+      "bytes": 297431,
+      "sha256": "242a59cd3e6a552e0cfedae1feb6272c612a8b0c7a96b9a9eae576348c88f2e9"
+    },
+    {
+      "path": "source.url",
+      "bytes": 82,
+      "sha256": "1a7636aadeab868ffa36968405467feee739569069da3c044206d7a26d677882"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/19/41/02/394cdd5a-ba6e-4bf1-a7d8-13f7202f2a52/je/2200xxs.jpg",
+      "path": "images/004-6d571c37.webp",
+      "media_type": "image/webp",
+      "bytes": 288582,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/19/41/02/c6d7e48c-2c48-419a-a5cc-7d84c6ddb19d/je/2200xxs.jpg",
+      "path": "images/009-9f26776b.webp",
+      "media_type": "image/webp",
+      "bytes": 351158,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/19/41/02/58b69443-5d1b-473a-a5d2-b49e2cc98b03/je/2200xxs.jpg",
+      "path": "images/014-8698b89a.webp",
+      "media_type": "image/webp",
+      "bytes": 325466,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/19/41/02/bc1f0d53-654b-413c-b45f-0f4b4e81a31e/je/2200xxs.jpg",
+      "path": "images/019-42338c44.webp",
+      "media_type": "image/webp",
+      "bytes": 332448,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/19/41/02/d7c8257c-eb16-427c-b453-8b75f3971647/je/2200xxs.jpg",
+      "path": "images/024-68d6373e.webp",
+      "media_type": "image/webp",
+      "bytes": 269424,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/setenil-spain/Finca%20Venta%20Ca%CC%81diz%20In%20Setenil%20De%20Las%20Bodegas,%20Andalusia,%20Spain%20For%20Sale%20%2815969984%29_files/2000xxs%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/036-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/037-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/038-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/039-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 14,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Wassaic",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "365 Tower Hill Road",
+      "href": "365%20Tower%20Hill%20Road/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

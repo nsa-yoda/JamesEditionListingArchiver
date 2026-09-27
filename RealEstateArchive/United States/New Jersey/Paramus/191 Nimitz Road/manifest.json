@@ -1,0 +1,827 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191-nimitz-road-paramus-nj-07652-18323188",
+    "canonical_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191-nimitz-road-paramus-nj-07652-18323188",
+    "site": "jamesedition",
+    "listing_id": "18323188",
+    "listing_reference": "e3bbgh",
+    "first_listed": "Jul 2",
+    "last_updated": "July 7",
+    "retrieved_at": "2026-09-26T18:46:07.159636Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2681,
+      "sha256": "46f0ba18986f28f0c84cdb1a608b4be9666cbf07ab6729be1e57d69bb0e3ffa3"
+    },
+    {
+      "path": "images/img-01c00c2ce7b7.webp",
+      "bytes": 28490,
+      "sha256": "295865207648cb733f5db0deec201a0cbb739df3b55f2ebc11e681e43bd71be0"
+    },
+    {
+      "path": "images/img-08ae040ecb3d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-0d2d87e14377.webp",
+      "bytes": 139770,
+      "sha256": "524dd0ef58abfcc224e49d35f811581047814498faf7ec7fb88b9c3a3aadca21"
+    },
+    {
+      "path": "images/img-119a98c64a45.webp",
+      "bytes": 60044,
+      "sha256": "092d38753a7756ab323e4dc6489ce466d8fb798f13354c87aca2fe68c5a6b7a8"
+    },
+    {
+      "path": "images/img-194c24efc5ac.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-1f0bac8dfe19.webp",
+      "bytes": 55942,
+      "sha256": "82c774dbcf7498ae62fb3081292e4e830126996ee99ce8b766b2c75e6cb5f894"
+    },
+    {
+      "path": "images/img-1f91bfb7bf68.webp",
+      "bytes": 56410,
+      "sha256": "fe2b4fb03981b3c650fc6756fc7232c33ce499b6feaeea6dd241f2e7fa3306de"
+    },
+    {
+      "path": "images/img-246b0dfdb5a8.webp",
+      "bytes": 73378,
+      "sha256": "ac96c2e4884181765d40aeae4f6bf9c11b9286da80dfe7911b3a60d17ccf0fa8"
+    },
+    {
+      "path": "images/img-259186866572.webp",
+      "bytes": 50252,
+      "sha256": "f49eaefa9e4ef8a8e2665ccf74629d1ea692743aa1330403d046f99d54702820"
+    },
+    {
+      "path": "images/img-291bd3630e22.webp",
+      "bytes": 52696,
+      "sha256": "28c740264abaccb02d0eb7f2e45ac510064ec01332312d1cc46233db887f2172"
+    },
+    {
+      "path": "images/img-2efbbe60cebd.webp",
+      "bytes": 39458,
+      "sha256": "630695f2edf06e907d6b8afdc50d719ef18ca077723a89fbaa615fff6cc6201c"
+    },
+    {
+      "path": "images/img-32516c28c2c9.webp",
+      "bytes": 193068,
+      "sha256": "7c061b69269619d62f8d530a348e245707e77366650e8f9559d892129d9455e5"
+    },
+    {
+      "path": "images/img-36da748d80ed.webp",
+      "bytes": 59518,
+      "sha256": "b4272f59f41976561e271a0372ac6d4bb0c68a1f62af8ac8f54aa95144689a12"
+    },
+    {
+      "path": "images/img-38f46769eb37.webp",
+      "bytes": 36872,
+      "sha256": "f39ede8f701ed3c15c551f4d484e9706c511703ee9b08abd4f7bfec42a004c2e"
+    },
+    {
+      "path": "images/img-3a0c5b898ce2.webp",
+      "bytes": 98590,
+      "sha256": "26b3e04902853d4129dece5d1891a73a45b9371d16df144df587c41f05e1200f"
+    },
+    {
+      "path": "images/img-471b34ba47d2.webp",
+      "bytes": 55390,
+      "sha256": "c57800878af5b95c98fcdaf5af133d2c396e48d589f51ec1d2e096df2d4adef1"
+    },
+    {
+      "path": "images/img-476d03cb200e.webp",
+      "bytes": 28112,
+      "sha256": "ea0dca93b3e3b3ddd31bc29ae7fcc46433d9834f025f9eb93568d6fcca15b41a"
+    },
+    {
+      "path": "images/img-4d9d5babc230.webp",
+      "bytes": 49062,
+      "sha256": "64b278f33dc056d4d78f25a4455474a4b5f8791f3cc5302c167c3ab36b9a2c9c"
+    },
+    {
+      "path": "images/img-5000cb8fd672.webp",
+      "bytes": 44472,
+      "sha256": "d3471c673412ef7c5df933197b079cba8654cc6f8e3196b0a26b32cee99d408a"
+    },
+    {
+      "path": "images/img-50dd74843f41.webp",
+      "bytes": 55946,
+      "sha256": "3c51905e9c1351aa86533daa42c3a491388bfdc80ae606dedb47213729dd1fe6"
+    },
+    {
+      "path": "images/img-522eaac9e45e.webp",
+      "bytes": 212560,
+      "sha256": "2d8ca0f5374f840f787a55b5c93f4cffa36b93c8207caf94bf6aa8234a37b2cd"
+    },
+    {
+      "path": "images/img-5394042462d8.webp",
+      "bytes": 64156,
+      "sha256": "1b2751c2851bc0eb53ae080aa5635dbfcb4f608f1cac3e3fc3f4b5afd1319a4d"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5857782187a7.webp",
+      "bytes": 62234,
+      "sha256": "942a37edcb580cb52c30aebd1cd97b770d5fc000c0a82575037ea803ef84fbe6"
+    },
+    {
+      "path": "images/img-65a28db26c05.webp",
+      "bytes": 56322,
+      "sha256": "0eff612f5f355b09c44da0c56b81990bdac9fc29b95c8fc6d82188bc56c5a052"
+    },
+    {
+      "path": "images/img-6f158e6997e9.webp",
+      "bytes": 139832,
+      "sha256": "f92785d8f45cf1ff3e0d4a35ed9aad0ae4e0f549a763a4957ab4cdbfdd166916"
+    },
+    {
+      "path": "images/img-6ffb5e61eec5.webp",
+      "bytes": 116698,
+      "sha256": "5ea70a1b81c012c399566c5c05627cb7f15cb90f85283eec7b6ee5f66b05b12b"
+    },
+    {
+      "path": "images/img-73439ba5432b.webp",
+      "bytes": 36822,
+      "sha256": "a9e49332dfeda63015e1b44a2d6e5f5dc81a8741bf52c22bcf3abbdc8e84be23"
+    },
+    {
+      "path": "images/img-73cbe11e3a15.webp",
+      "bytes": 63380,
+      "sha256": "0c742b23a39a91f73880dff15b437b1e9ea8f8390c2b6eb9572262348fc468d8"
+    },
+    {
+      "path": "images/img-826d60e26a6b.webp",
+      "bytes": 29362,
+      "sha256": "9bfecc48a239308a783a3308374c1baf268fee082921e0ada4e47499d0258b0b"
+    },
+    {
+      "path": "images/img-83cd7e1b8365.webp",
+      "bytes": 77440,
+      "sha256": "01599ad9b93d91cf0cbb9c00fd9889d5847a26317ab87865dafd6c09921a9c44"
+    },
+    {
+      "path": "images/img-85456ee7033a.webp",
+      "bytes": 55734,
+      "sha256": "f0a5c3f7cd8ab0a278930fc9c24e325f9490776c361caf78a572fc14e1becaab"
+    },
+    {
+      "path": "images/img-85e6a336dfa0.webp",
+      "bytes": 68584,
+      "sha256": "18f296e464e3d812a111fb93b4a62091995c1f6a69ddf28525ca5a7a2bbcc0b7"
+    },
+    {
+      "path": "images/img-8b9b9b78cb03.webp",
+      "bytes": 32970,
+      "sha256": "efab5c55ebf7ee798ca54e673ccc927de0901204efd74c60a99bc17f3a30ee3d"
+    },
+    {
+      "path": "images/img-90adbc18c7ba.webp",
+      "bytes": 36840,
+      "sha256": "ea6a8b6fa56f844170fa5b7e954fe6c6dece81ca343399cf448fbacda9cd26c0"
+    },
+    {
+      "path": "images/img-9470dfef9791.webp",
+      "bytes": 73134,
+      "sha256": "6697dd4d0964ec0e7bb5830ac7d8118d7a85aa8f30c13e724cf338fa63b6707c"
+    },
+    {
+      "path": "images/img-96548506569b.webp",
+      "bytes": 141004,
+      "sha256": "976f95a65f4f24233d5e9cc7cb7db0f2d0ac76abc4d61281c1736c6b2644b705"
+    },
+    {
+      "path": "images/img-9ac6c4b448dc.webp",
+      "bytes": 33444,
+      "sha256": "5f65eb701103e6c174f0e76efcd14a27fcc188d5e1766e2afc6e1a5d05e01500"
+    },
+    {
+      "path": "images/img-9d45f19a507b.webp",
+      "bytes": 20444,
+      "sha256": "ec56de813911a85c313089510ccb70bbce36dc67012fd67932bff9d9e9c1dee8"
+    },
+    {
+      "path": "images/img-af5991b802b8.webp",
+      "bytes": 52822,
+      "sha256": "20d98b7deef0f751a5527eefe0763e95454447493ded66c7b22f8a3d24b6fe67"
+    },
+    {
+      "path": "images/img-b6b50cce0edf.webp",
+      "bytes": 29500,
+      "sha256": "7a46230a0b60212cb5e29305ca7bca6e70d80ad837fa096730c7130faef5c4d8"
+    },
+    {
+      "path": "images/img-bbd69a1b994f.webp",
+      "bytes": 148102,
+      "sha256": "3fe9e9066fb5fbe1cea2a88669b2e1f80e31549e4179bfa7efb14d30db533bcf"
+    },
+    {
+      "path": "images/img-c1ab040a9cd3.webp",
+      "bytes": 105418,
+      "sha256": "eb2d32d08cd53a70ba812df3d047ed612df733c0b4e513964610b88628738eae"
+    },
+    {
+      "path": "images/img-c2e4e5549f74.webp",
+      "bytes": 29004,
+      "sha256": "81d53ba37c41dcb322bc5e7c1a7bf42cf23ce2bb30d6f782b76b8ed1b2a287cd"
+    },
+    {
+      "path": "images/img-c2f09c8f0b63.webp",
+      "bytes": 149794,
+      "sha256": "9e449ff1aadf2e796876af0adb57bbe1b1926e69ad38d699c157d2f5b44187ff"
+    },
+    {
+      "path": "images/img-c5760aab2129.webp",
+      "bytes": 24906,
+      "sha256": "5dedb54769f54723cfa10495387ba4e2b7207759a0d3370107a349e08e1838d3"
+    },
+    {
+      "path": "images/img-ca83a5fc20c3.webp",
+      "bytes": 87788,
+      "sha256": "c4489052dcef94445a2971917344c3856c9c573a9054101220bc6bc00b40e1a7"
+    },
+    {
+      "path": "images/img-d8760316d9b5.webp",
+      "bytes": 58560,
+      "sha256": "ed38b0f64380e06a558a6cb5ccb0139009e5d56a1066fff0dce8072d7f84bc3d"
+    },
+    {
+      "path": "images/img-dc90c501bd51.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-e304d3f1f639.webp",
+      "bytes": 43360,
+      "sha256": "a8e3bd3c683ee54e1a13afbe0f42eefec9c8ec3a3d6bae2acc0fd3021682ea1e"
+    },
+    {
+      "path": "images/img-e38d2f6a40cc.webp",
+      "bytes": 48676,
+      "sha256": "b1206ff5c3079500c1e904260de487054871bd66fc13de2f6fba31e954fe7379"
+    },
+    {
+      "path": "images/img-ea4b9b279632.webp",
+      "bytes": 83032,
+      "sha256": "00a361f38c7e9402e76a7e8e1d529c5a0aab7ca8a3913c0272d0fd6906cb6320"
+    },
+    {
+      "path": "images/img-f2d61ba37b04.webp",
+      "bytes": 49390,
+      "sha256": "8689a4eddc69eabec54426f0fe256d11c5b959aa4ac160c8013a27a163596c81"
+    },
+    {
+      "path": "images/img-faada0ee0973.webp",
+      "bytes": 41538,
+      "sha256": "1fc9278ec7406f636473b94b28d4da69fef5c68b4692887434fc060fa96475d0"
+    },
+    {
+      "path": "images/img-fda17e42a5e9.webp",
+      "bytes": 25006,
+      "sha256": "aec8bf9d3a67c465a094ceb0b14d33ec6b41a68ef8ab2699405102aa8eb4a05a"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 32052,
+      "sha256": "02a937f6c5ea12b60e285d6fda7bf1200e217ac2c8b9a81a1506d82d30204627"
+    },
+    {
+      "path": "source.html",
+      "bytes": 474156,
+      "sha256": "7eeea6572f09b6f89366c8a2876d68ede12b62a3af84dec884f01732847846ef"
+    },
+    {
+      "path": "source.url",
+      "bytes": 98,
+      "sha256": "cda7efa78f6a3c7a0106f8fe932748cd862303046eef4e5c8e998ccbee7ef84a"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/2200xxs.jpg",
+      "path": "images/img-bbd69a1b994f.webp",
+      "media_type": "image/webp",
+      "bytes": 148102,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/2200xxs.jpg",
+      "path": "images/img-32516c28c2c9.webp",
+      "media_type": "image/webp",
+      "bytes": 193068,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/2200xxs.jpg",
+      "path": "images/img-f2d61ba37b04.webp",
+      "media_type": "image/webp",
+      "bytes": 49390,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/2200xxs.jpg",
+      "path": "images/img-73439ba5432b.webp",
+      "media_type": "image/webp",
+      "bytes": 36822,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/2200xxs.jpg",
+      "path": "images/img-8b9b9b78cb03.webp",
+      "media_type": "image/webp",
+      "bytes": 32970,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/request_plan_bg-33cc1401.png",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/street_view-b1ba588c.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2b1c753c-223b-4308-8a44-e068f5d0330a/je/2000xxs.jpg",
+      "path": "images/img-85456ee7033a.webp",
+      "media_type": "image/webp",
+      "bytes": 55734,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/ee85553a-885f-4177-aaea-5e368339f7d8/je/2000xxs.jpg",
+      "path": "images/img-50dd74843f41.webp",
+      "media_type": "image/webp",
+      "bytes": 55946,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/59886703-9952-4ad3-9e3f-16811b04da06/je/2000xxs.jpg",
+      "path": "images/img-e38d2f6a40cc.webp",
+      "media_type": "image/webp",
+      "bytes": 48676,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/0c406f41-275f-4fec-b924-3613b6b675ad/je/2000xxs.jpg",
+      "path": "images/img-5394042462d8.webp",
+      "media_type": "image/webp",
+      "bytes": 64156,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/293a7c71-479f-4b9e-8f4e-445b540447e3/je/2000xxs.jpg",
+      "path": "images/img-1f0bac8dfe19.webp",
+      "media_type": "image/webp",
+      "bytes": 55942,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/eb981684-6f6d-49e9-9bd1-220289066c9b/je/2000xxs.jpg",
+      "path": "images/img-259186866572.webp",
+      "media_type": "image/webp",
+      "bytes": 50252,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/9dbae964-e9c9-4c83-b1cb-a0ca9414307f/je/2000xxs.jpg",
+      "path": "images/img-faada0ee0973.webp",
+      "media_type": "image/webp",
+      "bytes": 41538,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/e16225ae-fbdf-4fe3-b22f-32fcf2a7525d/je/2000xxs.jpg",
+      "path": "images/img-d8760316d9b5.webp",
+      "media_type": "image/webp",
+      "bytes": 58560,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/d754cb20-3fa8-4e31-9d21-eb807dce6b2f/je/2000xxs.jpg",
+      "path": "images/img-2efbbe60cebd.webp",
+      "media_type": "image/webp",
+      "bytes": 39458,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/f5e56c86-6dd2-44b9-af9c-019fbae1f42e/je/2000xxs.jpg",
+      "path": "images/img-4d9d5babc230.webp",
+      "media_type": "image/webp",
+      "bytes": 49062,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/268c52a0-3f05-4e2c-9792-3c83b6c5d58b/je/2000xxs.jpg",
+      "path": "images/img-119a98c64a45.webp",
+      "media_type": "image/webp",
+      "bytes": 60044,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/e1565145-36d8-42a6-8a25-444a31758f64/je/2000xxs.jpg",
+      "path": "images/img-826d60e26a6b.webp",
+      "media_type": "image/webp",
+      "bytes": 29362,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/dadcaaf9-3517-4fbb-8dde-4e3815c525df/je/2000xxs.jpg",
+      "path": "images/img-ea4b9b279632.webp",
+      "media_type": "image/webp",
+      "bytes": 83032,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/525c859b-0734-444d-acbc-71fc973f32bc/je/2000xxs.jpg",
+      "path": "images/img-38f46769eb37.webp",
+      "media_type": "image/webp",
+      "bytes": 36872,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/02/20/16/54/ddd212ce-4f6a-4493-be06-c5bce8fbf6dd/je/2000xxs.jpg",
+      "path": "images/img-5857782187a7.webp",
+      "media_type": "image/webp",
+      "bytes": 62234,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/cc53b157-88d2-462a-83f3-361d6435e973/je/2000xxs.jpg",
+      "path": "images/img-36da748d80ed.webp",
+      "media_type": "image/webp",
+      "bytes": 59518,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/7c0abdb5-f0fc-4453-9f63-95169dcd8553/je/2000xxs.jpg",
+      "path": "images/img-9470dfef9791.webp",
+      "media_type": "image/webp",
+      "bytes": 73134,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/b9c0b362-0b37-437c-b83b-c19ddb6db416/je/2000xxs.jpg",
+      "path": "images/img-85e6a336dfa0.webp",
+      "media_type": "image/webp",
+      "bytes": 68584,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34a38dc6-969e-4e47-97a9-3605c13e83fd/je/2000xxs.jpg",
+      "path": "images/img-9ac6c4b448dc.webp",
+      "media_type": "image/webp",
+      "bytes": 33444,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/815381aa-eb3e-4159-bda0-833b0db59004/je/2000xxs.jpg",
+      "path": "images/img-471b34ba47d2.webp",
+      "media_type": "image/webp",
+      "bytes": 55390,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/42edc773-ffde-4985-9228-4e57a52236c4/je/2000xxs.jpg",
+      "path": "images/img-5000cb8fd672.webp",
+      "media_type": "image/webp",
+      "bytes": 44472,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/89140689-b524-45e7-9106-da19d8d8fc7a/je/2000xxs.jpg",
+      "path": "images/img-af5991b802b8.webp",
+      "media_type": "image/webp",
+      "bytes": 52822,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/3bea58b5-d050-41bb-bc6c-5005701b352b/je/2000xxs.jpg",
+      "path": "images/img-c5760aab2129.webp",
+      "media_type": "image/webp",
+      "bytes": 24906,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/4e998da7-947b-49de-bc90-7fac8c2a7975/je/2000xxs.jpg",
+      "path": "images/img-291bd3630e22.webp",
+      "media_type": "image/webp",
+      "bytes": 52696,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/9bf38a05-9dad-4d45-80e1-f45dfe949700/je/2000xxs.jpg",
+      "path": "images/img-83cd7e1b8365.webp",
+      "media_type": "image/webp",
+      "bytes": 77440,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/5fa731b3-b56f-439f-8f4a-7ae9bbebe6dd/je/2000xxs.jpg",
+      "path": "images/img-73cbe11e3a15.webp",
+      "media_type": "image/webp",
+      "bytes": 63380,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/032c4b32-0d08-4a02-a90e-8a672a9d5840/je/2000xxs.jpg",
+      "path": "images/img-c1ab040a9cd3.webp",
+      "media_type": "image/webp",
+      "bytes": 105418,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/16ac929e-ccb2-446e-82e1-022244af23e6/je/2000xxs.jpg",
+      "path": "images/img-ca83a5fc20c3.webp",
+      "media_type": "image/webp",
+      "bytes": 87788,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2cda99c5-5b75-4730-a50c-100c0ad07220/je/2000xxs.jpg",
+      "path": "images/img-3a0c5b898ce2.webp",
+      "media_type": "image/webp",
+      "bytes": 98590,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/56ec52c2-8a54-4864-9024-75173318e491/je/2000xxs.jpg",
+      "path": "images/img-6f158e6997e9.webp",
+      "media_type": "image/webp",
+      "bytes": 139832,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/dcb009c5-66ae-4747-8f69-2bebb572547b/je/2000xxs.jpg",
+      "path": "images/img-65a28db26c05.webp",
+      "media_type": "image/webp",
+      "bytes": 56322,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/02e65d58-fa5d-458c-9ce3-fb85ed06ce29/je/2000xxs.jpg",
+      "path": "images/img-90adbc18c7ba.webp",
+      "media_type": "image/webp",
+      "bytes": 36840,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/cf5d97db-c079-4ea3-bcbb-141d6a7db219/je/2000xxs.jpg",
+      "path": "images/img-fda17e42a5e9.webp",
+      "media_type": "image/webp",
+      "bytes": 25006,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/8e0153cc-6e26-4c92-a0eb-11a83dc8dcdd/je/2000xxs.jpg",
+      "path": "images/img-9d45f19a507b.webp",
+      "media_type": "image/webp",
+      "bytes": 20444,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/bffefb99-1907-4f3e-b5b3-42618c6d9980/je/2000xxs.jpg",
+      "path": "images/img-246b0dfdb5a8.webp",
+      "media_type": "image/webp",
+      "bytes": 73378,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/ab09fe47-9bdd-4164-b782-614f0a909fc6/je/2000xxs.jpg",
+      "path": "images/img-c2e4e5549f74.webp",
+      "media_type": "image/webp",
+      "bytes": 29004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/4e833bc6-daba-47c2-9558-56b3912db965/je/2000xxs.jpg",
+      "path": "images/img-01c00c2ce7b7.webp",
+      "media_type": "image/webp",
+      "bytes": 28490,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/ce3a5f8e-1700-4a18-ad4e-5928d0fa5e43/je/2000xxs.jpg",
+      "path": "images/img-1f91bfb7bf68.webp",
+      "media_type": "image/webp",
+      "bytes": 56410,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/7ec025bc-8d7f-47fe-853a-b7c0e4ed2826/je/2000xxs.jpg",
+      "path": "images/img-96548506569b.webp",
+      "media_type": "image/webp",
+      "bytes": 141004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/593668b7-6fa4-4147-8b5c-d71b366f40e7/je/2000xxs.jpg",
+      "path": "images/img-c2f09c8f0b63.webp",
+      "media_type": "image/webp",
+      "bytes": 149794,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/6e713456-b31b-4f95-a94c-0e2bb40764e4/je/2000xxs.jpg",
+      "path": "images/img-0d2d87e14377.webp",
+      "media_type": "image/webp",
+      "bytes": 139770,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/9dc5bdc0-b9cd-4565-8fc4-1316770b28e0/je/2000xxs.jpg",
+      "path": "images/img-6ffb5e61eec5.webp",
+      "media_type": "image/webp",
+      "bytes": 116698,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/02ac5a28-6e7b-49c5-962a-38fb261f2ad3/je/2000xxs.jpg",
+      "path": "images/img-522eaac9e45e.webp",
+      "media_type": "image/webp",
+      "bytes": 212560,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/10/31/22/e0b8cf63-4e6f-4bad-82bd-6568be864430/je/2000xxs.jpg",
+      "path": "images/img-476d03cb200e.webp",
+      "media_type": "image/webp",
+      "bytes": 28112,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/07/02/50/01/0c09c106-8008-4c6f-af36-b952aa26ab71/je/2000xxs.jpg",
+      "path": "images/img-e304d3f1f639.webp",
+      "media_type": "image/webp",
+      "bytes": 43360,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/2200xxs%2846%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/2200xxs%2847%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/2200xxs%2848%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-d471af4d.svg",
+      "path": "images/img-dc90c501bd51.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-d7afb6cf.svg",
+      "path": "images/img-194c24efc5ac.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-74c4c5d9.svg",
+      "path": "images/img-08ae040ecb3d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/09/05/16/00/14/44aff18b-61a5-4bd3-9ec8-08a681a25602/je/380xxsxm.jpg",
+      "path": "images/img-b6b50cce0edf.webp",
+      "media_type": "image/webp",
+      "bytes": 29500,
+      "status": "new"
+    }
+  ],
+  "summary": {
+    "images_new": 55,
+    "images_existing": 0,
+    "images_failed": 11,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

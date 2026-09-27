@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/your-luxurious-mountain-sanctuary-with-private-views-17831388",
+    "canonical_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/your-luxurious-mountain-sanctuary-with-private-views-17831388",
+    "site": "jamesedition",
+    "listing_id": "17831388",
+    "listing_reference": "69f54ac5-4618-11f1-850c-6045bdd61ac4",
+    "first_listed": "May 3",
+    "last_updated": "June 12",
+    "retrieved_at": "2026-06-16T03:43:43.224117Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2724,
+      "sha256": "d1b4a0b2e0941feabcecc71c5944232da3f1e69f26f461ea2080b9709d6d517d"
+    },
+    {
+      "path": "images/004-4a926b5d.webp",
+      "bytes": 269440,
+      "sha256": "6b8945d2e768e8482fa32346b0135e78d7a339a5a7c3d0ea60196704182a15d3"
+    },
+    {
+      "path": "images/009-004f8e89.webp",
+      "bytes": 451946,
+      "sha256": "4dddbf2417f3cc014ad29ea44ac8bb255a6b5c07cad2a783fc5edac300b07ee4"
+    },
+    {
+      "path": "images/014-2fcfc48c.webp",
+      "bytes": 556022,
+      "sha256": "8992d45acafb8cf4927a566c7f9f780dbbfdade06a5626b20fb821d87e76900b"
+    },
+    {
+      "path": "images/019-579150a8.webp",
+      "bytes": 363268,
+      "sha256": "86d04d39698e4ac405564b25214bb4cd8bdda02f449d46f6ff2593676899119d"
+    },
+    {
+      "path": "images/024-0325f272.webp",
+      "bytes": 465940,
+      "sha256": "c1ac6040a6922859cb0825741fc0ccaf4ff472dfad941e13575c3d5b7741ab33"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16900,
+      "sha256": "af85822fe6bb3473c8832235cd45a6a301eb01eec0bb13b1a0cf24c48454335a"
+    },
+    {
+      "path": "source.html",
+      "bytes": 250561,
+      "sha256": "9426686c50463d0f660a9c66cdbd400fc9a0ce084f992bd45b8fc7db624c03d7"
+    },
+    {
+      "path": "source.url",
+      "bytes": 119,
+      "sha256": "7e4de94f70d58b8c64c5d4b6fc120693392f929c242d011e0322a9359cd3af5a"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/673fedfd-b2c2-4cb0-9af1-1199f4f735ed/je/2200xxs.jpg",
+      "path": "images/004-4a926b5d.webp",
+      "media_type": "image/webp",
+      "bytes": 269440,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/Your%20Luxurious%20Mountain%20Sanctuary%20In%20Fairview,%20North%20Carolina,%20United%20States%20For%20Sale%20%2817831388%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/78d4459a-dd05-48e5-aa11-7ad8c2acaaf0/je/2200xxs.jpg",
+      "path": "images/009-004f8e89.webp",
+      "media_type": "image/webp",
+      "bytes": 451946,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/Your%20Luxurious%20Mountain%20Sanctuary%20In%20Fairview,%20North%20Carolina,%20United%20States%20For%20Sale%20%2817831388%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c6bb3833-2f5e-43e0-ac66-55b79e5aed51/je/2200xxs.jpg",
+      "path": "images/014-2fcfc48c.webp",
+      "media_type": "image/webp",
+      "bytes": 556022,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/Your%20Luxurious%20Mountain%20Sanctuary%20In%20Fairview,%20North%20Carolina,%20United%20States%20For%20Sale%20%2817831388%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/35e2e2db-b971-4495-8e41-3f4b6120e8cc/je/2200xxs.jpg",
+      "path": "images/019-579150a8.webp",
+      "media_type": "image/webp",
+      "bytes": 363268,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/Your%20Luxurious%20Mountain%20Sanctuary%20In%20Fairview,%20North%20Carolina,%20United%20States%20For%20Sale%20%2817831388%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/f3556c5c-e7ac-4fe6-9283-2ed8c6c9fd93/je/2200xxs.jpg",
+      "path": "images/024-0325f272.webp",
+      "media_type": "image/webp",
+      "bytes": 465940,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/Your%20Luxurious%20Mountain%20Sanctuary%20In%20Fairview,%20North%20Carolina,%20United%20States%20For%20Sale%20%2817831388%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/Your%20Luxurious%20Mountain%20Sanctuary%20In%20Fairview,%20North%20Carolina,%20United%20States%20For%20Sale%20%2817831388%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/Your%20Luxurious%20Mountain%20Sanctuary%20In%20Fairview,%20North%20Carolina,%20United%20States%20For%20Sale%20%2817831388%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/fairview-nc-usa/Your%20Luxurious%20Mountain%20Sanctuary%20In%20Fairview,%20North%20Carolina,%20United%20States%20For%20Sale%20%2817831388%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

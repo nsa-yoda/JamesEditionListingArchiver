@@ -1,0 +1,331 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kyoto-japan/suiran-residence-15604801",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kyoto-japan/suiran-residence-15604801",
+    "site": "jamesedition",
+    "listing_id": "15604801",
+    "listing_reference": "RWD8JR",
+    "first_listed": "May 9, 2025",
+    "last_updated": "November 27, 2025",
+    "retrieved_at": "2026-06-16T03:43:37.88088Z"
+  },
+  "location": {
+    "address": "Kyoto, 26 607-8403, Japan",
+    "street": "Kyoto",
+    "municipality": "Kyoto",
+    "region": "Kyoto",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=35.0014676,135.8078074",
+    "latitude": 35.0014676,
+    "longitude": 135.8078074
+  },
+  "property": {
+    "title": "Suiran Residence",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 3588703.39,
+      "currency": "USD",
+      "display": "$3,588,703"
+    },
+    "price_per_area": {
+      "amount": 796,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$796"
+    },
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "interior_area": {
+      "value": 4505,
+      "unit": "sqft",
+      "display": "4,505 Sqft"
+    },
+    "photo_count": 16,
+    "description": "Property OverviewRight: FreeholdAddress: Goryo-Oiwa, Yamashina-ku, Kyoto-shi, Kyoto,JapanAccess: 5 min-walk from 'Goryo' station on Kyoto City Tozai Line.Structure: RC,Wood structured,2-stories above ground with 1 below.Zoning: Category 1 exclusively low-rise residential zone.Land Area/Private road contribution: 557.81 sqm./-sqm.Living Area: 418.49 sqm.Year built: January 1981.BCR/FAR: 40/80%Current Status: Vacant.Delivery Date: Consultation.Mode of Transaction: Brokerage.Last update date: [hidden information]",
+    "features": [
+      "2D Floor Plan",
+      "Balcony",
+      "Garden"
+    ]
+  },
+  "broker": {
+    "agent": "List Sotheby's International Realty Japan",
+    "agency": "List Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/list-sotheby-s-international-realty-100480",
+    "agency_address": "Tokyu Toranomon Bldg. 10F, 1-21-19, Toranomon, Suite 5F, 105-5516, Minato-ku, Tokyo, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/2200xxs.jpg",
+      "file": "004-3e76e02c.webp",
+      "media_type": "image/webp",
+      "bytes": 382372,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/2200xxs.jpg",
+      "file": "009-7a3d765e.webp",
+      "media_type": "image/webp",
+      "bytes": 438592,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/2200xxs.jpg",
+      "file": "014-f3c5f42e.webp",
+      "media_type": "image/webp",
+      "bytes": 317382,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/2200xxs.jpg",
+      "file": "019-15cd188e.webp",
+      "media_type": "image/webp",
+      "bytes": 94104,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/2200xxs.jpg",
+      "file": "024-db689641.webp",
+      "media_type": "image/webp",
+      "bytes": 53586,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/380xxsxm.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "035-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "036-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "037-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "038-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kyoto-japan",
+              "name": "Kyoto"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/misasagioiwa-japan",
+              "name": "Misasagioiwa"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/kyoto-japan/suiran-residence-15604801",
+              "name": "Suiran Residence"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Property OverviewRight: FreeholdAddress: Goryo-Oiwa, Yamashina-ku, Kyoto-shi, Kyoto,JapanAccess: 5 min-walk from 'Goryo' station on Kyoto City Tozai Line.Structure: RC,Wood structured,2-stories above ground with 1 below.Zoning: Category 1 exclusively low-rise residential zone.Land Area/Private road contribution: 557.81 sqm./-sqm.Living Area: 418.49 sqm.Year built: January 1981.BCR/FAR: 40/80%Current Status: Vacant.Delivery Date: Consultation.Mode of Transaction: Brokerage.Last update date: [hidden information]",
+        "image": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg",
+        "name": "Suiran Residence",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 3588703.39,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "List Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/kyoto-japan/suiran-residence-15604801"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/380xxsxm.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden"
+  ]
+}

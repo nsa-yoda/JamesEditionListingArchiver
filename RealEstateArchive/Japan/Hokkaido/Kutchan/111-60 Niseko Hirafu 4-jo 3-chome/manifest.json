@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kutchan-japan/awayuki-villa-ginto-hirafu-15294339",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kutchan-japan/awayuki-villa-ginto-hirafu-15294339",
+    "site": "jamesedition",
+    "listing_id": "15294339",
+    "listing_reference": "4512461",
+    "first_listed": "Mar 5, 2025",
+    "last_updated": "March 9",
+    "retrieved_at": "2026-06-16T03:43:21.552091Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2792,
+      "sha256": "4dcf77a9a469b6df42acbffabaafc17c58784c37b09d3f8969e433c7c0ea02c5"
+    },
+    {
+      "path": "images/004-2611a090.webp",
+      "bytes": 578334,
+      "sha256": "9f4c0c20ca843563164ef96487369b081db495743ba235f6c7ad28f2d8f624d2"
+    },
+    {
+      "path": "images/009-e6546dc9.webp",
+      "bytes": 152704,
+      "sha256": "ef5b9e6b231e0e4fbfeac3246d6a9e49e65f5c40bcc564aad1ab0b6f9abdf7f2"
+    },
+    {
+      "path": "images/014-e69d3147.webp",
+      "bytes": 145764,
+      "sha256": "0818c68bb9014f8dc658d49b5c96d1374094691222912117f4edcac89bf4c6ca"
+    },
+    {
+      "path": "images/019-57aea8e4.webp",
+      "bytes": 174892,
+      "sha256": "9fcf120f3131050f07e0fe0035c2a52c620e8bd03d9ee27efccb369907256ee7"
+    },
+    {
+      "path": "images/024-ebe7210a.webp",
+      "bytes": 121202,
+      "sha256": "84d200e1f16f52dd9a7da77df201e92d877d4c5825c69ecbcbcf2f382719a875"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/034-5e31199e.webp",
+      "bytes": 258,
+      "sha256": "78c2b6a66570c08de5b985428aff328d07c6bfd2cb1aadcccfb643863f977552"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17028,
+      "sha256": "c26e3965cc8230df646075b3f45ddc6a99ff8641714d0de8a16b7b4d115e047c"
+    },
+    {
+      "path": "source.html",
+      "bytes": 332050,
+      "sha256": "8ad81bf6a5b81cf7a2be5ec3782c0e7a1bec783ce84f2fe3110ebe61c12426bc"
+    },
+    {
+      "path": "source.url",
+      "bytes": 91,
+      "sha256": "eedcb375b78e664689a91717560d25ca7214914c438ddeff8d075320676becbc"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/2200xxs.jpg",
+      "path": "images/004-2611a090.webp",
+      "media_type": "image/webp",
+      "bytes": 578334,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/2200xxs.jpg",
+      "path": "images/009-e6546dc9.webp",
+      "media_type": "image/webp",
+      "bytes": 152704,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/2200xxs.jpg",
+      "path": "images/014-e69d3147.webp",
+      "media_type": "image/webp",
+      "bytes": 145764,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/2200xxs.jpg",
+      "path": "images/019-57aea8e4.webp",
+      "media_type": "image/webp",
+      "bytes": 174892,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/2200xxs.jpg",
+      "path": "images/024-ebe7210a.webp",
+      "media_type": "image/webp",
+      "bytes": 121202,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/23/08/44/59/c8ee863e-908b-4d5b-b613-4ee6562c5fbf/je/80x80xc.jpg",
+      "path": "images/034-5e31199e.webp",
+      "media_type": "image/webp",
+      "bytes": 258,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

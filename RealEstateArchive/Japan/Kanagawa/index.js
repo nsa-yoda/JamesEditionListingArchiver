@@ -1,0 +1,17 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Japan/Kanagawa",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Fujisawa",
+      "href": "Fujisawa/index.html"
+    },
+    {
+      "name": "Yokosuka",
+      "href": "Yokosuka/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

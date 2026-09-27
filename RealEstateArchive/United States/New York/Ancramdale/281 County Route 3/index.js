@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New York/Ancramdale/281 County Route 3",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 20732
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 8325
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 4338
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 293408
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 106
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

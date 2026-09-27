@@ -1,0 +1,319 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441-bay-center-rd-rd-south-bend-wa-98586-15942229",
+    "canonical_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441-bay-center-rd-rd-south-bend-wa-98586-15942229",
+    "site": "jamesedition",
+    "listing_id": "15942229",
+    "listing_reference": "ZCYB3F",
+    "first_listed": "Jul 17, 2025",
+    "last_updated": "April 22",
+    "retrieved_at": "2026-06-16T03:43:17.706732Z"
+  },
+  "location": {
+    "address": "441 Bay Center Rd RD , South Bend, WA 98586, Washington, United States",
+    "street": "441 Bay Center Rd Rd South Bend",
+    "municipality": "South Bend",
+    "region": "Washington",
+    "postal_code": "98586",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=46.620498,-123.956846",
+    "latitude": 46.620498,
+    "longitude": -123.956846
+  },
+  "property": {
+    "title": "441 Bay Center Rd Rd South Bend, Wa 98586",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 1295000,
+      "currency": "USD",
+      "display": "$1,295,000"
+    },
+    "price_per_area": {
+      "amount": 1037,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,037"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "interior_area": {
+      "value": 1248,
+      "unit": "sqft",
+      "display": "1,248 Sqft"
+    },
+    "lot_area": {
+      "value": 6.22,
+      "display": "6.22 Ac lot"
+    },
+    "year_built": 1996,
+    "photo_count": 49,
+    "description": "Exquisite waterfront sanctuary: The Vantage Point Estate! Private bayside park with stunning 180+ degree views across Willapa Bay to the Pacific Ocean. 2 parcels for a total of 6.22 acres. Feel yourself relax as you move through idyllic forest to this jewel box cedar home, lovingly customized by artisan owners. 243 ft of waterfront, with stone bulkhead, private stairs to sandy beach and your own clam beds. 2 bedrooms and 2 baths plus loft library, office and mudroom. Warm, bright and meticulously finished kitchen and living area with truly entrancing views. Primary suite with balcony overlooking rear gardens and woods, also opens to bay views.  Attached garage, additional 2 stall garage with 10 ft doors for your boats, RV pad with power and water, 3 stall storage building, guest house, 2 stone fire pits with benches, forest trails, potting area. Paths through western red cedar, spruce, hemlock, alder, and willow forest. Professionally designed and landscaped with more than 50 rhododendrons, heather, ferns, azalea, multiple garden areas. On the Pacific Flyway! Watch the magnificent bird migration, launch your boat on the Palix River, 1 mile up the road in Bay Center. Incredible fishing, crabbing, and wildlife. Spectacular sunsets and sunrises. Turnkey, one of a kind opportunity!",
+    "features": [
+      "Balcony",
+      "Fireplace",
+      "Garage",
+      "Garden",
+      "Library",
+      "Office",
+      "Parking",
+      "Privacy",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Kim Cooper",
+    "agency": "Cascade Hasson Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/cascade-hasson-sotheby-s-international-realty-12406",
+    "agency_address": "130 N. Hemlock Suite 1, PO Box 1425, 97110, Cannon Beach, Oregon, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/2200xxs.jpg",
+      "file": "004-2adca392.webp",
+      "media_type": "image/webp",
+      "bytes": 480914,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/88324f6f-c164-4c43-805b-0557f9c8b19d/je/2200xxs.jpg",
+      "file": "009-28a99fea.webp",
+      "media_type": "image/webp",
+      "bytes": 404562,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/0f44a8dd-c46a-44cc-9ff0-c527a3dee4cc/je/2200xxs.jpg",
+      "file": "014-efdae6d8.webp",
+      "media_type": "image/webp",
+      "bytes": 366138,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/e7a32f69-c367-471e-82de-be892bbe98a7/je/2200xxs.jpg",
+      "file": "019-c2967937.webp",
+      "media_type": "image/webp",
+      "bytes": 602146,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/4e5cd863-b2ee-44c6-adc0-ea3d36f49a60/je/2200xxs.jpg",
+      "file": "024-ba2eea34.webp",
+      "media_type": "image/webp",
+      "bytes": 588952,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/wa-united-states",
+              "name": "Washington"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/south-bend-wa-usa",
+              "name": "South Bend"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441-bay-center-rd-rd-south-bend-wa-98586-15942229",
+              "name": "441 Bay Center Rd Rd South Bend, Wa 98586"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Exquisite waterfront sanctuary: The Vantage Point Estate! Private bayside park with stunning 180+ degree views across Willapa Bay to the Pacific Ocean. 2 parcels for a total of 6.22 acres. Feel yourself relax as you move through idyllic forest to this jewel box cedar home, lovingly customized by artisan owners. 243 ft of waterfront, with stone bulkhead, private stairs to sandy beach and your own clam beds. 2 bedrooms and 2 baths plus loft library, office and mudroom. Warm, bright and meticulously finished kitchen and living area with truly entrancing views. Primary suite with balcony overlooking rear gardens and woods, also opens to bay views.  Attached garage, additional 2 stall garage with 10 ft doors for your boats, RV pad with power and water, 3 stall storage building, guest house, 2 stone fire pits with benches, forest trails, potting area. Paths through western red cedar, spruce, hemlock, alder, and willow forest. Professionally designed and landscaped with more than 50 rhododendrons, heather, ferns, azalea, multiple garden areas. On the Pacific Flyway! Watch the magnificent bird migration, launch your boat on the Palix River, 1 mile up the road in Bay Center. Incredible fishing, crabbing, and wildlife. Spectacular sunsets and sunrises. Turnkey, one of a kind opportunity!",
+        "image": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/1040x620xc.jpg",
+        "name": "441 Bay Center Rd Rd South Bend, Wa 98586",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 1295000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Cascade Hasson Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441-bay-center-rd-rd-south-bend-wa-98586-15942229"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+  ]
+};

@@ -1,0 +1,530 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/stafa-switzerland/exclusive-villa-with-private-lake-access-on-lake-zurich-18143924",
+    "canonical_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/exclusive-villa-with-private-lake-access-on-lake-zurich-18143924",
+    "site": "jamesedition",
+    "listing_id": "18143924",
+    "first_listed": "Jun 11",
+    "last_updated": "June 11",
+    "retrieved_at": "2026-08-28T00:28:27.370102Z"
+  },
+  "location": {
+    "address": "Seestrasse 116, 8712 Stäfa, Zürich, Switzerland",
+    "street": "Seestrasse 116",
+    "municipality": "Stäfa",
+    "region": "Zürich",
+    "country": "Switzerland",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=47.2372615,8.7278262",
+    "latitude": 47.2372615,
+    "longitude": 8.7278262
+  },
+  "property": {
+    "title": "Exclusive Villa With Private Lake Access On Lake Zurich",
+    "type": "Villa",
+    "availability": "InStock",
+    "price": {
+      "amount": 21778358.53,
+      "currency": "USD",
+      "display": "$21,778,358"
+    },
+    "price_per_area": {
+      "amount": 2971,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$2,971"
+    },
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "floors": 4,
+    "interior_area": {
+      "value": 7331,
+      "unit": "sqft",
+      "display": "7,331 Sqft"
+    },
+    "lot_area": {
+      "value": 16781,
+      "unit": "sqft",
+      "display": "16,781 Sqft lot"
+    },
+    "year_built": 2011,
+    "photo_count": 26,
+    "video_url": "https://player.vimeo.com/video/1199431865?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
+    "description": "This exclusive villa in a privileged lakeside setting combines first-class craftsmanship and premium finishes with a spectacular private wellness retreat – an exceptional residence for those with the highest expectations of location, quality, and lifestyle.\nStäfa on Lake Zurich is one of the most sought-after residential communities on the Upper Gold Coast. Sunny vineyards, an attractive tax rate (83%), and an outstanding quality of life make this municipality of around 15,000 residents particularly desirable. Shopping facilities, schools, and excellent restaurants are all nearby, while Zurich, Rapperswil, and Zurich Airport are easily accessible, including by train.\nSeestrasse 116 is among the most exclusive addresses in the region. Hidden behind mature hedges lies a private paradise offering uninterrupted 180° lake views, a stunning mountain panorama, and all-day sunshine.\nBuilt in 2011 by the renowned architect Senn, the villa combines the timeless elegance of a classic country estate with contemporary luxury. Generous, light-filled living spaces, exquisite materials, and a harmonious architectural concept define the living experience. Highlights include the approximately 90 m² main living area, elegant bedroom suites with en-suite bathrooms, and additional private rooms on the top floor. A passenger lift conveniently connects all levels.\nA truly unique feature is the lower ground floor, dedicated to an impressive 200 m² wellness oasis. It includes an indoor swimming pool with counter-current system, Jacuzzi, sauna, fitness area, massage room, lounge, and a sheltered outdoor relaxation space. Additional amenities include guest accommodation, a utility room, a walk-in cold storage room, and an underground garage with car lift providing space for five vehicles. Technical and storage rooms are discreetly located on the second basement level.\nAn exclusive lakeside retreat in one of the most spectacular settings on Lake Zurich.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Basement",
+      "Elevator",
+      "Fireplace",
+      "Fitness Center / Gym",
+      "Garage",
+      "Garden",
+      "Gate",
+      "Indoor Pool",
+      "Jacuzzi",
+      "Kitchen island",
+      "Lake View",
+      "Lakefront",
+      "Laundry Room",
+      "Library",
+      "Modern",
+      "Mountain View",
+      "Office",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Pergola",
+      "Privacy",
+      "Private Beach",
+      "Sauna",
+      "Stone Countertops",
+      "Terrace",
+      "Walk In Closet",
+      "Washer Dryer",
+      "Water View",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Barbara Rinderknecht",
+    "agent_profile_url": "https://www.jamesedition.com/agents/barbara-rinderknecht-2545213",
+    "agency": "Crameri Partner AG",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/crameri-partner-ag-676173",
+    "agency_address": "Bahnhofstrasse 20, 8702, Zollikon, Zürich (de), Switzerland"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/2200xxs.jpg",
+      "file": "img-cd18372193c0.webp",
+      "media_type": "image/webp",
+      "bytes": 122376,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/2200xxs.jpg",
+      "file": "img-a57bbf77cf4f.webp",
+      "media_type": "image/webp",
+      "bytes": 210626,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/2200xxs.jpg",
+      "file": "img-0c68c71c6810.webp",
+      "media_type": "image/webp",
+      "bytes": 616042,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/2200xxs.jpg",
+      "file": "img-c18afcae656f.webp",
+      "media_type": "image/webp",
+      "bytes": 405684,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/2200xxs.jpg",
+      "file": "img-2e0fde95df14.webp",
+      "media_type": "image/webp",
+      "bytes": 829212,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/4f5f2a0f-2c7d-4f8c-8b8d-39fd22271620/je/2000xxs.jpg",
+      "file": "img-7dcd81b07ca4.webp",
+      "media_type": "image/webp",
+      "bytes": 617794,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/40/f06248da-8823-402b-abf4-2eb4e7336202/je/2000xxs.jpg",
+      "file": "img-d9015e7f832f.webp",
+      "media_type": "image/webp",
+      "bytes": 61654,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/40/b0de41e2-4087-4b78-88d5-805b02d8e334/je/2000xxs.jpg",
+      "file": "img-b82491a52860.webp",
+      "media_type": "image/webp",
+      "bytes": 382000,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/40/f61e73b3-8fc3-427f-9383-b9c0e08e56b6/je/2000xxs.jpg",
+      "file": "img-91872db7a86a.webp",
+      "media_type": "image/webp",
+      "bytes": 337398,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/37/8a1f93b4-fb3f-4236-8163-1ecb0f26c3ba/je/2000xxs.jpg",
+      "file": "img-3ff7b3c699f6.webp",
+      "media_type": "image/webp",
+      "bytes": 130592,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/40/4035f38a-b116-4a7e-8b39-1dba8d17d7fe/je/2000xxs.jpg",
+      "file": "img-85a83a438501.webp",
+      "media_type": "image/webp",
+      "bytes": 114802,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/3f7eca30-ef8e-4ccd-8f87-6e4da92cfad7/je/2000xxs.jpg",
+      "file": "img-af0ab302f4a7.webp",
+      "media_type": "image/webp",
+      "bytes": 87412,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/40/4e28e7ce-304b-4cbf-87ff-d73251fb9f9c/je/2000xxs.jpg",
+      "file": "img-9536b5202e3e.webp",
+      "media_type": "image/webp",
+      "bytes": 108892,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/2c29c566-ed27-4028-846e-20c51d261e0b/je/2000xxs.jpg",
+      "file": "img-43a9ed096f11.webp",
+      "media_type": "image/webp",
+      "bytes": 122864,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/5e2f567f-5e27-49cf-a406-3e0b895f4bd2/je/2000xxs.jpg",
+      "file": "img-18196847a7d4.webp",
+      "media_type": "image/webp",
+      "bytes": 61948,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/37/6ae18c52-7570-444a-8cec-95af7fc1d8fb/je/2000xxs.jpg",
+      "file": "img-612d23049ee6.webp",
+      "media_type": "image/webp",
+      "bytes": 156736,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/40/f7a2cc73-10f9-4bcc-a17f-184bff34c4c4/je/2000xxs.jpg",
+      "file": "img-92a1c4762a4d.webp",
+      "media_type": "image/webp",
+      "bytes": 67428,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/02/06/7d2622c8-938b-4a0d-8627-6c83b1f4ec8b/je/2000xxs.jpg",
+      "file": "img-648b64ae4488.webp",
+      "media_type": "image/webp",
+      "bytes": 62118,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/02/06/fb294610-ca89-4bca-bb39-8d46799114d8/je/2000xxs.jpg",
+      "file": "img-506e37e246b9.webp",
+      "media_type": "image/webp",
+      "bytes": 86672,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/55c0fc5b-1768-411a-bbec-204380d69a40/je/2000xxs.jpg",
+      "file": "img-5b403f35a24c.webp",
+      "media_type": "image/webp",
+      "bytes": 104160,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/02/06/884044d2-4fdc-4ced-9bc5-d8f157867d5c/je/2000xxs.jpg",
+      "file": "img-0c5a6965278d.webp",
+      "media_type": "image/webp",
+      "bytes": 71266,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/02/06/93de372b-ffe1-4a6a-bde2-9da08e6e9370/je/2000xxs.jpg",
+      "file": "img-d1a638dcc753.webp",
+      "media_type": "image/webp",
+      "bytes": 120176,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/02/06/767daef6-d11a-4900-9756-76c1a473997c/je/2000xxs.jpg",
+      "file": "img-2172971a9f86.webp",
+      "media_type": "image/webp",
+      "bytes": 70436,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/9a412d46-a005-4317-833c-b225a8150a66/je/2000xxs.jpg",
+      "file": "img-ae774a143821.webp",
+      "media_type": "image/webp",
+      "bytes": 452758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/02/06/a0cc5a1c-0a92-484a-b546-feb9054ac4b4/je/2000xxs.jpg",
+      "file": "img-3a0eec6c3662.webp",
+      "media_type": "image/webp",
+      "bytes": 195202,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/13/44/22/ae7a4cbd-1377-4c62-af4b-9328d2de3e4a/je/2000xxs.jpg",
+      "file": "img-20cddd4e3265.webp",
+      "media_type": "image/webp",
+      "bytes": 238884,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2821%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2822%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2823%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/06/11/15/12/54/e542bd37-cf03-4049-9847-7a6d61df89a0/je/80x80xc.jpg",
+      "file": "img-0763e4185913.webp",
+      "media_type": "image/webp",
+      "bytes": 904,
+      "status": "new"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://player.vimeo.com/video/1199431865?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "status": "failed",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/1040x620xc.jpg",
+      "poster_file": "img-c4b618420466.webp",
+      "error": "response is not a recognized video"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/switzerland",
+              "name": "Switzerland"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/zurich-switzerland",
+              "name": "Zürich"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/stafa-switzerland",
+              "name": "Stäfa"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/stafa-switzerland/exclusive-villa-with-private-lake-access-on-lake-zurich-18143924",
+              "name": "Exclusive Villa with Private Lake Access on Lake Zurich"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "This exclusive villa in a privileged lakeside setting combines first-class craftsmanship and premium finishes with a spectacular private wellness retreat – an exceptional residence for those with the highest expectations of location, quality, and lifestyle.\nStäfa on Lake Zurich is one of the most sought-after residential communities on the Upper Gold Coast. Sunny vineyards, an attractive tax rate (83%), and an outstanding quality of life make this municipality of around 15,000 residents particularly desirable. Shopping facilities, schools, and excellent restaurants are all nearby, while Zurich, Rapperswil, and Zurich Airport are easily accessible, including by train.\nSeestrasse 116 is among the most exclusive addresses in the region. Hidden behind mature hedges lies a private paradise offering uninterrupted 180° lake views, a stunning mountain panorama, and all-day sunshine.\nBuilt in 2011 by the renowned architect Senn, the villa combines the timeless elegance of a classic country estate with contemporary luxury. Generous, light-filled living spaces, exquisite materials, and a harmonious architectural concept define the living experience. Highlights include the approximately 90 m² main living area, elegant bedroom suites with en-suite bathrooms, and additional private rooms on the top floor. A passenger lift conveniently connects all levels.\nA truly unique feature is the lower ground floor, dedicated to an impressive 200 m² wellness oasis. It includes an indoor swimming pool with counter-current system, Jacuzzi, sauna, fitness area, massage room, lounge, and a sheltered outdoor relaxation space. Additional amenities include guest accommodation, a utility room, a walk-in cold storage room, and an underground garage with car lift providing space for five vehicles. Technical and storage rooms are discreetly located on the second basement level.\nAn exclusive lakeside retreat in one of the most spectacular settings on Lake Zurich.\n",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/1040x620xc.jpg",
+        "name": "Exclusive Villa with Private Lake Access on Lake Zurich",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 21778358.53,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Crameri Partner AG"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/stafa-switzerland/exclusive-villa-with-private-lake-access-on-lake-zurich-18143924"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2821%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2822%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2823%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "video https://player.vimeo.com/video/1199431865?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: response is not a recognized video"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/vail-co-usa/alpenstrasse-15178375",
+    "canonical_url": "https://www.jamesedition.com/real_estate/vail-co-usa/alpenstrasse-15178375",
+    "site": "jamesedition",
+    "listing_id": "15178375",
+    "first_listed": "Feb 5, 2025",
+    "last_updated": "February 6, 2025",
+    "retrieved_at": "2026-06-16T03:43:20.897836Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3580,
+      "sha256": "9e9eeb088ab5e6c562d1d67b62047ee9cac0b9e7f8c122e371f3bf0e3348531d"
+    },
+    {
+      "path": "images/004-700164c7.webp",
+      "bytes": 985512,
+      "sha256": "cba8e057aec4f03ebf352e6b105e56686db1c83a2799cbd580e78782dc5badf2"
+    },
+    {
+      "path": "images/009-8af00785.webp",
+      "bytes": 401668,
+      "sha256": "11e4c4fa3cd6a5a716d7d98ed959fdc5bd1bd85a2c5967c7767f1993f143dbb4"
+    },
+    {
+      "path": "images/014-0f030279.webp",
+      "bytes": 633074,
+      "sha256": "d7988104a6934494c0b8d426271575ccb17574e66642dcd5b5032942880de85f"
+    },
+    {
+      "path": "images/019-a090bf93.webp",
+      "bytes": 569052,
+      "sha256": "15155d1004b67531d039a4009607d65d5196b4368acf97648fe47dc85448e378"
+    },
+    {
+      "path": "images/024-cdf733ea.webp",
+      "bytes": 572628,
+      "sha256": "efa73082792c16cb557532c3dec6c7ceee565ad96ca556360e2ff4a52755c9d9"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 17564,
+      "sha256": "726aa3edbb9d83cbcef3696132654b17ee2582d442a7ad34890a1750c733ffdc"
+    },
+    {
+      "path": "source.html",
+      "bytes": 369763,
+      "sha256": "1c1dbd9191b1033fdfd5d04b3b57c9e85e6b5e93b3d06dc62fdc581a28fb3a15"
+    },
+    {
+      "path": "source.url",
+      "bytes": 75,
+      "sha256": "9a3ce4cbccb769048b7c67a6b13d139c81348e19c8609ec798472a8c3557741b"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/2200xxs.jpg",
+      "path": "images/004-700164c7.webp",
+      "media_type": "image/webp",
+      "bytes": 985512,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/2200xxs.jpg",
+      "path": "images/009-8af00785.webp",
+      "media_type": "image/webp",
+      "bytes": 401668,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/2200xxs.jpg",
+      "path": "images/014-0f030279.webp",
+      "media_type": "image/webp",
+      "bytes": 633074,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/2200xxs.jpg",
+      "path": "images/019-a090bf93.webp",
+      "media_type": "image/webp",
+      "bytes": 569052,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/2200xxs.jpg",
+      "path": "images/024-cdf733ea.webp",
+      "media_type": "image/webp",
+      "bytes": 572628,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

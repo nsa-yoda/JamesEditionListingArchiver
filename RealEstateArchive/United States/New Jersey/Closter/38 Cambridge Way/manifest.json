@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38-cambridge-way-alpine-nj-07620-14529630",
+    "canonical_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38-cambridge-way-alpine-nj-07620-14529630",
+    "site": "jamesedition",
+    "listing_id": "14529630",
+    "listing_reference": "l4qbc6",
+    "first_listed": "Jul 26, 2024",
+    "last_updated": "December 16, 2025",
+    "retrieved_at": "2026-06-16T03:43:17.453692Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2238,
+      "sha256": "ec8ecdd0eba4ad3c4194a119d5de705c1c6dfcbbe79029755b73fa0c4ba4d072"
+    },
+    {
+      "path": "images/004-09f6cb0d.webp",
+      "bytes": 222452,
+      "sha256": "aa470eaa727d08a1ca98415e24341baf827734114ffabb2960834698b4281a56"
+    },
+    {
+      "path": "images/009-f52de673.webp",
+      "bytes": 124598,
+      "sha256": "a0fb927abe993c6ed775cd2eb389b00899e73c14ebd8bd05c3d0673d552abfd0"
+    },
+    {
+      "path": "images/014-d3bd3191.webp",
+      "bytes": 113210,
+      "sha256": "fa640891ce22a921d1847e9cd96c92c5bdba4dfd9c8e1ea07258878ab7c54b18"
+    },
+    {
+      "path": "images/019-d85df62a.webp",
+      "bytes": 105986,
+      "sha256": "b547771d40119771083ea408c455d6c1deedd1b39ef7ada6277c06b5184d615f"
+    },
+    {
+      "path": "images/024-e0d63b77.webp",
+      "bytes": 119734,
+      "sha256": "1574daae9f728ea071e9fdffb1dc060ced3340128c49d20c94cfbc9f64ac25ad"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/034-1f4de3e3.webp",
+      "bytes": 1320,
+      "sha256": "5afbd946f996ef9e00d81d777ef62d73ecaaf85d5dd6a64326c2b8822b05ec17"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 16023,
+      "sha256": "51a5d7619366d6fc7b1bb9a007fc8e5c6b07af12c1631b2b2a4c7613bac2e2c5"
+    },
+    {
+      "path": "source.html",
+      "bytes": 348683,
+      "sha256": "aa052ad5bb3935a9c5d69cd7a34d34f48daacfca98b03037008bcaa77adad5fb"
+    },
+    {
+      "path": "source.url",
+      "bytes": 97,
+      "sha256": "b09ee6b62ee7fa3b25c79a9a3a6de53cb80eaabd7416ad52fce3aad665b8010e"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/13/13/46/d80883cf-248e-4b4a-8d1b-83abf598a890/je/2200xxs.jpg",
+      "path": "images/004-09f6cb0d.webp",
+      "media_type": "image/webp",
+      "bytes": 222452,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Cambridge%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814529630%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/26/12/39/44/c37357ef-819a-4349-ab35-8312b037b58c/je/2200xxs.jpg",
+      "path": "images/009-f52de673.webp",
+      "media_type": "image/webp",
+      "bytes": 124598,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Cambridge%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814529630%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/26/12/39/44/e2ee4721-a4d8-4e63-8b12-17176a59a6ec/je/2200xxs.jpg",
+      "path": "images/014-d3bd3191.webp",
+      "media_type": "image/webp",
+      "bytes": 113210,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Cambridge%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814529630%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/26/12/39/44/a6e44662-8250-4356-b7a5-d261f4d2d48d/je/2200xxs.jpg",
+      "path": "images/019-d85df62a.webp",
+      "media_type": "image/webp",
+      "bytes": 105986,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Cambridge%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814529630%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/07/26/12/39/44/6688a682-8271-44ff-aec3-45a5cf9e0011/je/2200xxs.jpg",
+      "path": "images/024-e0d63b77.webp",
+      "media_type": "image/webp",
+      "bytes": 119734,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Cambridge%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814529630%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Cambridge%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814529630%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Cambridge%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814529630%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Cambridge%20Way,%20Alpine,%20Nj,%2007620%20In%20Closter,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814529630%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/05/28/00/02/06/7c08bb08-54c2-4aaf-8d9b-3d0468548ec8/je/80x80xc.jpg",
+      "path": "images/034-1f4de3e3.webp",
+      "media_type": "image/webp",
+      "bytes": 1320,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

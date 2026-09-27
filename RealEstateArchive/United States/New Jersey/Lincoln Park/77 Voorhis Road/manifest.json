@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/lots-and-land-kinnelon-borough-17075854",
+    "canonical_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/lots-and-land-kinnelon-borough-17075854",
+    "site": "jamesedition",
+    "listing_id": "17075854",
+    "listing_reference": "2080424730408472",
+    "first_listed": "Feb 4",
+    "last_updated": "February 4",
+    "retrieved_at": "2026-06-16T03:43:29.178524Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1939,
+      "sha256": "f6388318c62ad2d80c45021dfd8e3b07f1cc103a272b23d2b7a61b70e2d60374"
+    },
+    {
+      "path": "images/004-7c78a7e0.webp",
+      "bytes": 193160,
+      "sha256": "e6144374a8279e2b69386d8b00580121885a1204245c725492a8da2d5c336a75"
+    },
+    {
+      "path": "images/009-5140438d.webp",
+      "bytes": 224398,
+      "sha256": "a9eac33ebdf280712e8f326d7e440d1127b95e48f4880cd8d9a945b46f15c5e3"
+    },
+    {
+      "path": "images/014-54fcd4e2.webp",
+      "bytes": 236454,
+      "sha256": "a4092e60536f38015ae33f1f5a38ab6da2f125252e26f971b942125b4c68f990"
+    },
+    {
+      "path": "images/019-493ea955.webp",
+      "bytes": 227980,
+      "sha256": "4929ac63a5ea464e593a1a656cfbd9789b22f405d3038d9dcaaa11f9510aa95d"
+    },
+    {
+      "path": "images/024-5c51bc59.webp",
+      "bytes": 221492,
+      "sha256": "888125f978b761c5b21a4a3a51facb447b585ebeebee0f88246a39ba820df7e2"
+    },
+    {
+      "path": "images/030-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/031-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/032-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/033-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 15407,
+      "sha256": "6234739351e8bde8514fa7ec39560ff48a10a7de0775e87fffc7f3313c54fe92"
+    },
+    {
+      "path": "source.html",
+      "bytes": 271106,
+      "sha256": "1b544095ab6c557bcb35c37278ac0d930dca0ab682ad02ba95d979e117c0a100"
+    },
+    {
+      "path": "source.url",
+      "bytes": 105,
+      "sha256": "ce04126503300e7a22b5546ccd0e513544caa75bd27ca4154de64a080379c62a"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/52d3ade3-32a6-47f1-be10-1a157d489117/je/2200xxs.jpg",
+      "path": "images/004-7c78a7e0.webp",
+      "media_type": "image/webp",
+      "bytes": 193160,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/e1172d42-2860-48c2-aed6-3a750251af82/je/2200xxs.jpg",
+      "path": "images/009-5140438d.webp",
+      "media_type": "image/webp",
+      "bytes": 224398,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/0c020ff1-c699-450e-951b-7cd13d83a9d4/je/2200xxs.jpg",
+      "path": "images/014-54fcd4e2.webp",
+      "media_type": "image/webp",
+      "bytes": 236454,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/0bc2bf47-94b8-47cd-be32-5f2960333c04/je/2200xxs.jpg",
+      "path": "images/019-493ea955.webp",
+      "media_type": "image/webp",
+      "bytes": 227980,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/04/16/19/05/2c95c7b6-a98e-4792-8d9b-4ad7a79dcf94/je/2200xxs.jpg",
+      "path": "images/024-5c51bc59.webp",
+      "media_type": "image/webp",
+      "bytes": 221492,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/Lots%20And%20Land%20Kinnelon%20Borough%20In%20Lincoln%20Park,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817075854%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/030-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/031-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/032-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/033-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 8,
+    "images_existing": 9,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

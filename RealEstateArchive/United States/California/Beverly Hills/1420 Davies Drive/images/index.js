@@ -1,0 +1,59 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/Beverly Hills/1420 Davies Drive/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-90abb0c3.webp",
+      "href": "004-90abb0c3.webp",
+      "size": 836576
+    },
+    {
+      "name": "009-93061e63.webp",
+      "href": "009-93061e63.webp",
+      "size": 330312
+    },
+    {
+      "name": "014-c2338d71.webp",
+      "href": "014-c2338d71.webp",
+      "size": 576326
+    },
+    {
+      "name": "019-3500984e.webp",
+      "href": "019-3500984e.webp",
+      "size": 416130
+    },
+    {
+      "name": "024-b36bd541.webp",
+      "href": "024-b36bd541.webp",
+      "size": 233600
+    },
+    {
+      "name": "036-57242b8e.webp",
+      "href": "036-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "037-4055dfde.svg",
+      "href": "037-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "038-272e34fe.svg",
+      "href": "038-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "039-caf7633d.svg",
+      "href": "039-caf7633d.svg",
+      "size": 63710
+    },
+    {
+      "name": "040-460fc1c6.webp",
+      "href": "040-460fc1c6.webp",
+      "size": 1274
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

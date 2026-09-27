@@ -1,0 +1,504 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/timeless-elegance-meets-modern-luxury-estate-living-18088422",
+    "canonical_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/timeless-elegance-meets-modern-luxury-estate-living-18088422",
+    "site": "jamesedition",
+    "listing_id": "18088422",
+    "listing_reference": "07d0309a-5fc9-11f1-901e-6045bdd61ac4",
+    "first_listed": "Jun 5",
+    "last_updated": "June 13",
+    "retrieved_at": "2026-06-18T07:09:16.10352Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2118,
+      "sha256": "7f908c6b6cdfa98715594c5492a3108de3a68151dc1e243b49e1981e437a4538"
+    },
+    {
+      "path": "images/004-e8b23fe2.webp",
+      "bytes": 623786,
+      "sha256": "fbe6adaa9b025ff6e0a65002bb3b8160fddf4d4d5b5ac70aa6a8f491e1a0254d"
+    },
+    {
+      "path": "images/009-1ce6e761.webp",
+      "bytes": 500032,
+      "sha256": "50524f8028b7aab0a398d7fa44b30481064022c50424c934336867f049800573"
+    },
+    {
+      "path": "images/014-572036bf.webp",
+      "bytes": 368142,
+      "sha256": "f32172e56fe0bdc011eb39a286b3d2e1cbd495d27cee84272bb53cc1b70562af"
+    },
+    {
+      "path": "images/019-14d23519.webp",
+      "bytes": 141200,
+      "sha256": "de8877bb71fc6570cb92cf1b4c1e271ef37a072927db800406d60a80e7f2ff81"
+    },
+    {
+      "path": "images/024-d0c33e7d.webp",
+      "bytes": 226386,
+      "sha256": "ad34f7a3ee572c0f01fc187a238851890e0da68005a7052b3e4f33874bbc2319"
+    },
+    {
+      "path": "images/034-ad13b8dc.webp",
+      "bytes": 91892,
+      "sha256": "1faa7fd526b342306a2651c12ca5046c29aea5f2fac30d936bc940e2166133b7"
+    },
+    {
+      "path": "images/035-ddeba301.webp",
+      "bytes": 173900,
+      "sha256": "42e12b6f8bee1107e021a833b69c891ef380c15fc30ed90d2699c98a23f0e980"
+    },
+    {
+      "path": "images/036-996eb0e6.webp",
+      "bytes": 157094,
+      "sha256": "6c4a05e2b523be21db6f89c99f8f3675968aca8e57375d52de11483b65531210"
+    },
+    {
+      "path": "images/037-e858825c.webp",
+      "bytes": 269242,
+      "sha256": "ff4d4bfc2da56babe7bc6b4b98a028fa4cd9d50236838c2807bfd3b27dfcaa0b"
+    },
+    {
+      "path": "images/038-5fd1b005.webp",
+      "bytes": 241954,
+      "sha256": "282ec7ea55842191c04bf7716f655b2fb406b2f0393435e00b94af6d4864e1bc"
+    },
+    {
+      "path": "images/039-3328a922.webp",
+      "bytes": 407882,
+      "sha256": "b500ee6dd15f1afa00b1731bc1b9c9086729d239a83c6bde09735e9e393f08ae"
+    },
+    {
+      "path": "images/040-12f19566.webp",
+      "bytes": 386780,
+      "sha256": "0a8e70f2ba643ab53a83c7bd06b539e5f6105a3ca877c2e74996354f3a0185a8"
+    },
+    {
+      "path": "images/041-47bb9c1b.webp",
+      "bytes": 108316,
+      "sha256": "04ab87b12032f392c361a6eda8d5e2ebb0c134b403315129143b2d60c7b26315"
+    },
+    {
+      "path": "images/042-5d2227d1.webp",
+      "bytes": 229394,
+      "sha256": "94919b9a98bffa8c1015d58a61721b21c6430fade3857987baad9bac181f6857"
+    },
+    {
+      "path": "images/043-332e3b6c.webp",
+      "bytes": 183408,
+      "sha256": "84d252d411e8bc4e88731d6cdd579aaf4e67692b313afa605a217d0fb9f2447e"
+    },
+    {
+      "path": "images/044-fcdce050.webp",
+      "bytes": 735038,
+      "sha256": "7c777ce5d30aed8f4aeb4e988831aa65f3c605193a62e72fce3c2e76c4cc2e16"
+    },
+    {
+      "path": "images/045-1dbd8f15.webp",
+      "bytes": 689434,
+      "sha256": "42714a4c7db788a138033b93443bd1ed2ba5eb7a82b70cb938ab977837ab408d"
+    },
+    {
+      "path": "images/046-dd6bcca4.webp",
+      "bytes": 432824,
+      "sha256": "b9aa6f30d24ad848ec1834e54e99247e774a66d24427e7337a0626e55765f628"
+    },
+    {
+      "path": "images/047-5937096c.webp",
+      "bytes": 447434,
+      "sha256": "312e218f4d620aeff6288c2a47f23a5b20e52766c66e2228c7787972d22347d2"
+    },
+    {
+      "path": "images/048-c809eaf5.webp",
+      "bytes": 62182,
+      "sha256": "1567451fc89ebccab44434589975bac713604c701da1f3a04b19c77fd6b599d7"
+    },
+    {
+      "path": "images/049-61977ece.webp",
+      "bytes": 125878,
+      "sha256": "276c3f1a1f40dbfa995f69635e02d9ba659e5ec180ee3546ed9733d731a70297"
+    },
+    {
+      "path": "images/050-9ee18878.webp",
+      "bytes": 137230,
+      "sha256": "f0cfc2bf10ab4eabd241ef7453f91eb69901ac81c8af5cd6ee6c9d7ee1b6042a"
+    },
+    {
+      "path": "images/051-57a5348e.webp",
+      "bytes": 90924,
+      "sha256": "59bf87b789ec661feaa50f67bf441f14010c8c92b68d0aeac50b2521c52b445b"
+    },
+    {
+      "path": "images/052-6ebd26f8.webp",
+      "bytes": 697606,
+      "sha256": "812a00ba534fe8847530f307584a1c5b573322a44fe8100e8ab79e2e1a11d313"
+    },
+    {
+      "path": "images/053-450f0c2e.webp",
+      "bytes": 615904,
+      "sha256": "24b2f5827df1200546cbc159de717de5b404462376bd7615e7f066fc794f4543"
+    },
+    {
+      "path": "images/054-e8ef8d74.webp",
+      "bytes": 800828,
+      "sha256": "837e066b8ad436d2a9a96e9536e519874360a58534b69172bf3092b6c8d0a9e2"
+    },
+    {
+      "path": "images/055-e509c54e.webp",
+      "bytes": 208278,
+      "sha256": "1ed1b48b3ecec672310472969440d658a56fcf7314987c4fd7cdb8e01c63cc2f"
+    },
+    {
+      "path": "images/060-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/061-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/062-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/063-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23560,
+      "sha256": "610f55c2902b93c6340c534243fcd8b78c96dfddaf1742420cf47df34d354a17"
+    },
+    {
+      "path": "source.html",
+      "bytes": 450435,
+      "sha256": "320fe6ca42b1cecf9457a524d9ed3d4a1185cd3094d7f9729d95b1b25f7d8052"
+    },
+    {
+      "path": "source.url",
+      "bytes": 125,
+      "sha256": "84872eeb943f1ba74c53ec0d3a64439d4ed679a7efc5e45b8071623ee5f13e8c"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/2200xxs.jpg",
+      "path": "images/004-e8b23fe2.webp",
+      "media_type": "image/webp",
+      "bytes": 623786,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/2200xxs.jpg",
+      "path": "images/009-1ce6e761.webp",
+      "media_type": "image/webp",
+      "bytes": 500032,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/2200xxs.jpg",
+      "path": "images/014-572036bf.webp",
+      "media_type": "image/webp",
+      "bytes": 368142,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/2200xxs.jpg",
+      "path": "images/019-14d23519.webp",
+      "media_type": "image/webp",
+      "bytes": 141200,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/2200xxs.jpg",
+      "path": "images/024-d0c33e7d.webp",
+      "media_type": "image/webp",
+      "bytes": 226386,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/d2222ce3-c4e7-419f-91cf-f201671738b7/je/2000xxs.jpg",
+      "path": "images/034-ad13b8dc.webp",
+      "media_type": "image/webp",
+      "bytes": 91892,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/8e398e80-24c1-48ab-b376-1b903a437d0b/je/2000xxs.jpg",
+      "path": "images/035-ddeba301.webp",
+      "media_type": "image/webp",
+      "bytes": 173900,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/33284afe-652c-40a8-a0ed-5cc84c25061a/je/2000xxs.jpg",
+      "path": "images/036-996eb0e6.webp",
+      "media_type": "image/webp",
+      "bytes": 157094,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/e3759889-f9e1-4aec-8ca5-b223a890454b/je/2000xxs.jpg",
+      "path": "images/037-e858825c.webp",
+      "media_type": "image/webp",
+      "bytes": 269242,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/5c22a22a-39b3-4bd8-92e6-873274f4ee10/je/2000xxs.jpg",
+      "path": "images/038-5fd1b005.webp",
+      "media_type": "image/webp",
+      "bytes": 241954,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/9789790b-36c9-464a-8948-ea8c41e39ba8/je/2000xxs.jpg",
+      "path": "images/039-3328a922.webp",
+      "media_type": "image/webp",
+      "bytes": 407882,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/f5747afe-64aa-472e-a294-84c9941eefa2/je/2000xxs.jpg",
+      "path": "images/040-12f19566.webp",
+      "media_type": "image/webp",
+      "bytes": 386780,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ef615d58-a326-44e8-8439-efcf459d0081/je/2000xxs.jpg",
+      "path": "images/041-47bb9c1b.webp",
+      "media_type": "image/webp",
+      "bytes": 108316,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/457dccff-ca31-4343-b771-e9fbe3c4d159/je/2000xxs.jpg",
+      "path": "images/042-5d2227d1.webp",
+      "media_type": "image/webp",
+      "bytes": 229394,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ed5ff588-d846-4c13-9fe9-1eadd6d0229f/je/2000xxs.jpg",
+      "path": "images/043-332e3b6c.webp",
+      "media_type": "image/webp",
+      "bytes": 183408,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/27d0c2bb-af57-4f6a-ae13-87e792e7176f/je/2000xxs.jpg",
+      "path": "images/044-fcdce050.webp",
+      "media_type": "image/webp",
+      "bytes": 735038,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/78b87255-0e70-4432-9dc8-d858e5b6c81e/je/2000xxs.jpg",
+      "path": "images/045-1dbd8f15.webp",
+      "media_type": "image/webp",
+      "bytes": 689434,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/8a139045-625a-4154-a0a5-39eef9ae32c4/je/2000xxs.jpg",
+      "path": "images/046-dd6bcca4.webp",
+      "media_type": "image/webp",
+      "bytes": 432824,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/74427f77-ce85-44f1-937f-6f11c5f74907/je/2000xxs.jpg",
+      "path": "images/047-5937096c.webp",
+      "media_type": "image/webp",
+      "bytes": 447434,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/94aae634-1fef-403b-98a5-bbb043bc6540/je/2000xxs.jpg",
+      "path": "images/048-c809eaf5.webp",
+      "media_type": "image/webp",
+      "bytes": 62182,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/0d28564b-7a49-490e-b9e0-be426246b540/je/2000xxs.jpg",
+      "path": "images/049-61977ece.webp",
+      "media_type": "image/webp",
+      "bytes": 125878,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/912ca283-4bc1-4803-8093-123263952373/je/2000xxs.jpg",
+      "path": "images/050-9ee18878.webp",
+      "media_type": "image/webp",
+      "bytes": 137230,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/eb004a47-4931-4bf0-9722-f99ff08c4fd6/je/2000xxs.jpg",
+      "path": "images/051-57a5348e.webp",
+      "media_type": "image/webp",
+      "bytes": 90924,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/55cc85a5-3b0d-4dcd-8f4e-38cd453ed292/je/2000xxs.jpg",
+      "path": "images/052-6ebd26f8.webp",
+      "media_type": "image/webp",
+      "bytes": 697606,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/f1168ca3-6ecf-4c13-8fab-1a3b56c380d9/je/2000xxs.jpg",
+      "path": "images/053-450f0c2e.webp",
+      "media_type": "image/webp",
+      "bytes": 615904,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/dceb3ae1-8a67-41c7-8fc2-bae2eb36ec96/je/2000xxs.jpg",
+      "path": "images/054-e8ef8d74.webp",
+      "media_type": "image/webp",
+      "bytes": 800828,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/d8ba6e5e-2553-465f-8a8e-d0dcc7a02ee0/je/2000xxs.jpg",
+      "path": "images/055-e509c54e.webp",
+      "media_type": "image/webp",
+      "bytes": 208278,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/2200xxs%2825%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/2200xxs%2824%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/2200xxs%2823%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/060-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/061-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/062-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/063-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 11,
+    "images_existing": 31,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

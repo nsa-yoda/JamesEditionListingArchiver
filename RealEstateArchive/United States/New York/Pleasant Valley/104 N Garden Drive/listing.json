@@ -1,0 +1,612 @@
+{
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105",
+    "canonical_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105",
+    "site": "jamesedition",
+    "listing_id": "16853105",
+    "listing_reference": "YF7J5V",
+    "first_listed": "Dec 26, 2025",
+    "last_updated": "March 26",
+    "retrieved_at": "2026-06-18T07:09:20.619652Z"
+  },
+  "location": {
+    "address": "104 N Garden Drive, Pawling, NY 12564, Pleasant Valley, New York, United States",
+    "street": "104 N Garden Drive",
+    "municipality": "Pleasant Valley",
+    "region": "New York",
+    "postal_code": "12564",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.760968,-73.820569",
+    "latitude": 41.760968,
+    "longitude": -73.820569
+  },
+  "property": {
+    "title": "Woodland Waters",
+    "type": "Land",
+    "availability": "InStock",
+    "price": {
+      "amount": 39000000,
+      "currency": "USD",
+      "display": "$39,000,000"
+    },
+    "price_per_area": {
+      "amount": 709,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$709"
+    },
+    "bedrooms": 9,
+    "bathrooms": 15,
+    "interior_area": {
+      "value": 55000,
+      "unit": "sqft",
+      "display": "55,000 Sqft"
+    },
+    "lot_area": {
+      "value": 1337,
+      "display": "1,337.0 Ac lot"
+    },
+    "year_built": 1987,
+    "photo_count": 45,
+    "description": "Offered for the first time, this private estate is a secluded sanctuary where luxury and nature exist in perfect harmony. Over the course of five decades, the same family has shaped and nurtured the property with remarkable care and attention, creating a setting that embodies both artistry and authenticity. With its vast landholdings, exceptional lifestyle offerings, it is a once-in-a-lifetime opportunity.\n\n\n\nNestled in the heart of nature, this extraordinary private estate spans nearly 1,338 acres, offering unparalleled seclusion, natural beauty, and world-class amenities. Designed as a one of-a-kind family sanctuary, the retreat spans 23 tax lots and showcases breathtaking landscapes, luxurious accommodations, and distinctive architectural elements that blend seamlessly with the surrounding environment.\n\n\n\nThe estate is best described with three large property zones. The Garden Parcel, with 17 lots and seven residences, totaling 751.51 acres, forms the centerpiece of the property. Purgatory Hill encompasses three lots and three residences across 337.61 acres. The Northwest Territory offers 248.63 acres of unspoiled vacant land across three lots. Together, these parcels create an estate of remarkable scale and diversity, balancing residential, recreational, and natural elements.\n\n\n\nAt the heart of the Garden Parcel rises the 55,000-square-foot main residence-an architectural masterpiece surrounded by six additional homes. Within its walls are nine bedrooms, nine full baths, six half baths, and twenty fireplaces, each space crafted with extraordinary attention to detail. The grounds embrace the spirit of the Appalachian Trail, with native plantings and curated landscapes creating a harmonious environment.\n\n\n\nThis grand residence is as functional as it is breathtaking. Designed for both everyday living and exceptional entertaining, it features an indoor pool and spa framed by the surrounding natural landscape, expansive gathering spaces, and an indoor basketball court complete with locker rooms. Two secure, climate-controlled art storage areas further reflect the home's thoughtful design and attention to detail.\n\n\n\nComplementing the main residence, the Garden Parcel also features a meticulously maintained 6,000-square-foot guest house with its own pool. Artfully designed, the Japanese Tea House further enhances the parcel, offering a peaceful space for both reflection and intimate gatherings. Over 20 miles of interior roads and trails wind through the landscape, inviting exploration by foot, bike, or vehicle. Comprehensive maps detail the extensive network of roads, streams, ponds, and structures.\n\n\n\nAnchoring the operational side of the estate, the Office Complex features a four-bay machine barn with a lift and wash pad, a multilevel office building, and a dedicated security outpost. This infrastructure ensures seamless management of the property's extensive resources.\n\n\n\nConveniently located just minutes from the charming village of Pawling, NY, the estate enjoys easy access to shops, dining, and recreation, as well as close proximity to the Appalachian Trail. Pawling is celebrated for its scenic beauty, rich history, and vibrant cultural life. Outdoor enthusiasts can explore over 300 acres of parkland, hike the nearby nature reserve or tackle the links at the Quaker Hill Country Club. Combining rural charm with urban accessibility, Pawling provides an ideal backdrop for both relaxation and adventure.\n\n\n\nThe sunsets are nothing short of dramatic, with sweeping views that stretch for miles across the rolling hillsides and open sky, filling each evening with a profound sense of serenity. Beyond its natural beauty, this estate embodies versatility, solitude, and enduring grace - a true legacy property unlike any other in the Hudson Valley. Thoughtfully curated down to its meticulously appointed landscape, Woodland Waters now awaits its next steward to cherish and preserve for generations to come.",
+    "features": [
+      "Basketball Court",
+      "Elevator",
+      "Fireplace",
+      "Garden",
+      "Indoor Pool",
+      "Office",
+      "Pool",
+      "Privacy"
+    ]
+  },
+  "broker": {
+    "agent": "Amy Smith Sroka",
+    "agency": "Julia B. Fee Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/julia-b-fee-sotheby-s-international-realty-226549",
+    "agency_address": "4 Court Rd PO Box 286, 10506, Bedford, New York, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/2200xxs.jpg",
+      "file": "004-5a3e9e44.webp",
+      "media_type": "image/webp",
+      "bytes": 676430,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/2200xxs.jpg",
+      "file": "009-4a1ed70c.webp",
+      "media_type": "image/webp",
+      "bytes": 661462,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/2200xxs.jpg",
+      "file": "014-db7e8e1b.webp",
+      "media_type": "image/webp",
+      "bytes": 1030892,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/2200xxs.jpg",
+      "file": "019-5646cf1e.webp",
+      "media_type": "image/webp",
+      "bytes": 996964,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/2200xxs.jpg",
+      "file": "024-f96bb8bc.webp",
+      "media_type": "image/webp",
+      "bytes": 489832,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/cc99fbe8-9211-457d-8497-2829f833576a/je/2000xxs.jpg",
+      "file": "034-aa77d222.webp",
+      "media_type": "image/webp",
+      "bytes": 913066,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/61f3d072-27f2-48b5-a023-f399136a1d2a/je/2000xxs.jpg",
+      "file": "035-0c6835b2.webp",
+      "media_type": "image/webp",
+      "bytes": 697322,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/3ebea24a-ff7e-492b-9363-f94dea9427ad/je/2000xxs.jpg",
+      "file": "036-322845fa.webp",
+      "media_type": "image/webp",
+      "bytes": 1073734,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76f5de63-0859-4070-826d-88aefe631ac9/je/2000xxs.jpg",
+      "file": "037-093666f4.webp",
+      "media_type": "image/webp",
+      "bytes": 710202,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/c720dd4a-e2a5-435a-8201-dd6ef1fbb8fd/je/2000xxs.jpg",
+      "file": "038-f86e92cb.webp",
+      "media_type": "image/webp",
+      "bytes": 1074902,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/ac3be120-abc6-40e5-a76c-ac3d83a19a34/je/2000xxs.jpg",
+      "file": "039-c328f824.webp",
+      "media_type": "image/webp",
+      "bytes": 601064,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/f0d0d308-2926-4f91-a12e-f5cdce5937cc/je/2000xxs.jpg",
+      "file": "040-ebd9b12e.webp",
+      "media_type": "image/webp",
+      "bytes": 148964,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5d7d6bfb-7c42-406c-8824-23f6a7c229c1/je/2000xxs.jpg",
+      "file": "041-2cb84fcc.webp",
+      "media_type": "image/webp",
+      "bytes": 226774,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/817bbeb2-7a8d-4bb3-8b30-5d23626e0c05/je/2000xxs.jpg",
+      "file": "042-7cdae01f.webp",
+      "media_type": "image/webp",
+      "bytes": 535636,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/f0269812-6f3d-4455-afda-b5df33e5a93c/je/2000xxs.jpg",
+      "file": "043-a2a1755b.webp",
+      "media_type": "image/webp",
+      "bytes": 204924,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/3a66aae8-b573-46ee-871f-f4601cce34bc/je/2000xxs.jpg",
+      "file": "044-0641cc53.webp",
+      "media_type": "image/webp",
+      "bytes": 126904,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/ad59234a-84db-4a06-936d-418be8dbb082/je/2000xxs.jpg",
+      "file": "045-4d10ccd2.webp",
+      "media_type": "image/webp",
+      "bytes": 119668,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/899ef7a4-7c34-4695-941b-6e46785a1a4c/je/2000xxs.jpg",
+      "file": "046-f3aa98c9.webp",
+      "media_type": "image/webp",
+      "bytes": 245976,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/74da4888-744c-4044-8b20-485b707cf0f7/je/2000xxs.jpg",
+      "file": "047-cf32dcd0.webp",
+      "media_type": "image/webp",
+      "bytes": 515762,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/92d00426-a8a1-4e02-b8ec-ce881c442309/je/2000xxs.jpg",
+      "file": "048-72fb9dad.webp",
+      "media_type": "image/webp",
+      "bytes": 285572,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/4f1d22f8-e561-4fa5-a66f-8f3efabcbdfb/je/2000xxs.jpg",
+      "file": "049-23ca9274.webp",
+      "media_type": "image/webp",
+      "bytes": 208564,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/420145d3-fb82-4269-b66c-0f96dde1e5a3/je/2000xxs.jpg",
+      "file": "050-6dc6596d.webp",
+      "media_type": "image/webp",
+      "bytes": 431914,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/18f517b8-33cf-4777-8321-e83529ce77cd/je/2000xxs.jpg",
+      "file": "051-6fc2b973.webp",
+      "media_type": "image/webp",
+      "bytes": 1080518,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/30131d33-9cf9-4774-9c7c-c9146fbfdd74/je/2000xxs.jpg",
+      "file": "052-86343207.webp",
+      "media_type": "image/webp",
+      "bytes": 800012,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a75d0d31-1662-46bb-b6ca-f0402628fdb0/je/2000xxs.jpg",
+      "file": "053-9acafde5.webp",
+      "media_type": "image/webp",
+      "bytes": 884190,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/fd7f1497-d265-4acb-80e7-6a957e9a4fb4/je/2000xxs.jpg",
+      "file": "054-3824ddae.webp",
+      "media_type": "image/webp",
+      "bytes": 737392,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/409e0596-ca57-4517-936b-399b3b0d6c8a/je/2000xxs.jpg",
+      "file": "055-1541247a.webp",
+      "media_type": "image/webp",
+      "bytes": 803272,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/890c721c-3c83-4678-a5de-39ae32db29e7/je/2000xxs.jpg",
+      "file": "056-a8ee51eb.webp",
+      "media_type": "image/webp",
+      "bytes": 356830,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a6f08e9d-4afe-4a55-944a-102fc80ca22b/je/2000xxs.jpg",
+      "file": "057-645ab4c6.webp",
+      "media_type": "image/webp",
+      "bytes": 955638,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a36099ef-9bd1-4a3e-bfa8-5678b3c3498b/je/2000xxs.jpg",
+      "file": "058-05fc645d.webp",
+      "media_type": "image/webp",
+      "bytes": 808358,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5d3cfd74-0ba2-4e10-b062-0dd926fea261/je/2000xxs.jpg",
+      "file": "059-430ceea6.webp",
+      "media_type": "image/webp",
+      "bytes": 964334,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/8a18f9e5-fbda-4189-8af0-26b4e236f3d0/je/2000xxs.jpg",
+      "file": "060-7013fad7.webp",
+      "media_type": "image/webp",
+      "bytes": 1035944,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/02679f55-9654-4135-93fa-c4c65079787d/je/2000xxs.jpg",
+      "file": "061-021079ef.webp",
+      "media_type": "image/webp",
+      "bytes": 1089234,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/966ffca9-709c-42b2-954f-463a82f5ba87/je/2000xxs.jpg",
+      "file": "062-ee985ec6.webp",
+      "media_type": "image/webp",
+      "bytes": 1213330,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/95de1384-9a18-44ad-842f-8e8abfe9319b/je/2000xxs.jpg",
+      "file": "063-a09c7c98.webp",
+      "media_type": "image/webp",
+      "bytes": 1317880,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/50bb9066-9fc4-41e6-b3e5-43c506d2a7f4/je/2000xxs.jpg",
+      "file": "064-e3672a33.webp",
+      "media_type": "image/webp",
+      "bytes": 983842,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6626e95c-4ba8-4e81-af4c-f3e5d91bf879/je/2000xxs.jpg",
+      "file": "065-f009aeae.webp",
+      "media_type": "image/webp",
+      "bytes": 759138,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5bb9cfe4-57ce-459e-9741-0d1863a7f5fc/je/2000xxs.jpg",
+      "file": "066-05da94dd.webp",
+      "media_type": "image/webp",
+      "bytes": 917444,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/3bce1dba-5a59-4e5a-85ed-683b0e4c9d54/je/2000xxs.jpg",
+      "file": "067-924c84c3.webp",
+      "media_type": "image/webp",
+      "bytes": 499528,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6ecabd5e-c844-41af-ba63-506b10b6df85/je/2000xxs.jpg",
+      "file": "068-b2dde0b4.webp",
+      "media_type": "image/webp",
+      "bytes": 772154,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/994d6e17-6442-4174-b704-922c9558a3d2/je/2000xxs.jpg",
+      "file": "069-971a0c14.webp",
+      "media_type": "image/webp",
+      "bytes": 787380,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/cc2759c6-e096-4941-993b-fe60923132bb/je/2000xxs.jpg",
+      "file": "070-13b3dc4c.webp",
+      "media_type": "image/webp",
+      "bytes": 903108,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/9d083651-db0d-42ba-a64e-6cf86c79fd8e/je/2000xxs.jpg",
+      "file": "071-b8085f1d.webp",
+      "media_type": "image/webp",
+      "bytes": 469186,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b4f2e227-f605-4a43-bda7-0a437f4081b2/je/2000xxs.jpg",
+      "file": "072-07c8dc14.webp",
+      "media_type": "image/webp",
+      "bytes": 341098,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/494c1ee5-bd4e-44f5-99bb-c352a5a97b35/je/2000xxs.jpg",
+      "file": "073-95aa3146.webp",
+      "media_type": "image/webp",
+      "bytes": 828980,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2827%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2828%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2829%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "078-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "079-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "080-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "081-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/ny-united-states",
+              "name": "New York"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/pleasant-valley-ny-usa",
+              "name": "Pleasant Valley"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105",
+              "name": "Woodland Waters"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Offered for the first time, this private estate is a secluded sanctuary where luxury and nature exist in perfect harmony. Over the course of five decades, the same family has shaped and nurtured the property with remarkable care and attention, creating a setting that embodies both artistry and authenticity. With its vast landholdings, exceptional lifestyle offerings, it is a once-in-a-lifetime opportunity.\n\n\n\nNestled in the heart of nature, this extraordinary private estate spans nearly 1,338 acres, offering unparalleled seclusion, natural beauty, and world-class amenities. Designed as a one of-a-kind family sanctuary, the retreat spans 23 tax lots and showcases breathtaking landscapes, luxurious accommodations, and distinctive architectural elements that blend seamlessly with the surrounding environment.\n\n\n\nThe estate is best described with three large property zones. The Garden Parcel, with 17 lots and seven residences, totaling 751.51 acres, forms the centerpiece of the property. Purgatory Hill encompasses three lots and three residences across 337.61 acres. The Northwest Territory offers 248.63 acres of unspoiled vacant land across three lots. Together, these parcels create an estate of remarkable scale and diversity, balancing residential, recreational, and natural elements.\n\n\n\nAt the heart of the Garden Parcel rises the 55,000-square-foot main residence-an architectural masterpiece surrounded by six additional homes. Within its walls are nine bedrooms, nine full baths, six half baths, and twenty fireplaces, each space crafted with extraordinary attention to detail. The grounds embrace the spirit of the Appalachian Trail, with native plantings and curated landscapes creating a harmonious environment.\n\n\n\nThis grand residence is as functional as it is breathtaking. Designed for both everyday living and exceptional entertaining, it features an indoor pool and spa framed by the surrounding natural landscape, expansive gathering spaces, and an indoor basketball court complete with locker rooms. Two secure, climate-controlled art storage areas further reflect the home's thoughtful design and attention to detail.\n\n\n\nComplementing the main residence, the Garden Parcel also features a meticulously maintained 6,000-square-foot guest house with its own pool. Artfully designed, the Japanese Tea House further enhances the parcel, offering a peaceful space for both reflection and intimate gatherings. Over 20 miles of interior roads and trails wind through the landscape, inviting exploration by foot, bike, or vehicle. Comprehensive maps detail the extensive network of roads, streams, ponds, and structures.\n\n\n\nAnchoring the operational side of the estate, the Office Complex features a four-bay machine barn with a lift and wash pad, a multilevel office building, and a dedicated security outpost. This infrastructure ensures seamless management of the property's extensive resources.\n\n\n\nConveniently located just minutes from the charming village of Pawling, NY, the estate enjoys easy access to shops, dining, and recreation, as well as close proximity to the Appalachian Trail. Pawling is celebrated for its scenic beauty, rich history, and vibrant cultural life. Outdoor enthusiasts can explore over 300 acres of parkland, hike the nearby nature reserve or tackle the links at the Quaker Hill Country Club. Combining rural charm with urban accessibility, Pawling provides an ideal backdrop for both relaxation and adventure.\n\n\n\nThe sunsets are nothing short of dramatic, with sweeping views that stretch for miles across the rolling hillsides and open sky, filling each evening with a profound sense of serenity. Beyond its natural beauty, this estate embodies versatility, solitude, and enduring grace - a true legacy property unlike any other in the Hudson Valley. Thoughtfully curated down to its meticulously appointed landscape, Woodland Waters now awaits its next steward to cherish and preserve for generations to come.\n",
+        "image": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/1040x620xc.jpg",
+        "name": "Woodland Waters",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 39000000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Julia B. Fee Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2827%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2828%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2829%29.jpg: HTTP 403 Forbidden"
+  ]
+}

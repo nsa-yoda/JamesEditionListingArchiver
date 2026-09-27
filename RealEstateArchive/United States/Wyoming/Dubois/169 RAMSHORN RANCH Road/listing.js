@@ -1,0 +1,444 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/dubois-usa/wyoming-cowboy-starship-reclaimed-american-heritage-18067489",
+    "canonical_url": "https://www.jamesedition.com/real_estate/dubois-usa/wyoming-cowboy-starship-reclaimed-american-heritage-18067489",
+    "site": "jamesedition",
+    "listing_id": "18067489",
+    "listing_reference": "26-1330",
+    "first_listed": "Jun 3",
+    "last_updated": "June 19",
+    "retrieved_at": "2026-06-21T23:01:18.483314Z"
+  },
+  "location": {
+    "address": "169 RAMSHORN RANCH Road, Dubois, Wyoming, United States",
+    "street": "169 RAMSHORN RANCH Road",
+    "municipality": "Dubois",
+    "region": "Wyoming",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=43.65763,-109.77961",
+    "latitude": 43.65763,
+    "longitude": -109.77961
+  },
+  "property": {
+    "title": "Wyoming Cowboy Starship Reclaimed American Heritage",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 7950000,
+      "currency": "USD",
+      "display": "$7,950,000"
+    },
+    "price_per_area": {
+      "amount": 1242,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,242"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "interior_area": {
+      "value": 6400,
+      "unit": "sqft",
+      "display": "6,400 Sqft"
+    },
+    "lot_area": {
+      "value": 40.53,
+      "display": "40.53 Ac lot"
+    },
+    "year_built": 2026,
+    "photo_count": 21,
+    "description": "Set in the pristine Dunoir Valley near Dubois, Wyoming, the Cowboy Starship is a rare convergence of history, design, and natural wonder. Spanning 40 acres of alpine meadows, live-water springs, and sweeping views of the Absaroka and Wind River mountain ranges, the property offers an extraordinary balance of privacy and grandeur. More than a residence, it is a living work of art. It’s an architectural masterpiece crafted from reclaimed timbers and historic materials gathered from across the American West. Every beam, plank, and truss tells a story, creating a home that is as much a celebration of frontier heritage as it is a bold expression of mountain-modern design. The main building spans 9,000 square feet, with 6,400 square feet of heated living space featuring a large grand room which is open to the kitchen along with 4 ensuite bedrooms. The walls are crafted from 12x12 antique timbers salvaged from an 1898 sawmill, standing 12 inches thick, anchoring the home in history. The floors are antique oak planks, beams come from Astoria’s early 1900s docks, and redwood decking is reclaimed from 1800s Napa Valley wine vats. Even the roof trusses hail from a 1902 Washington cannery. Enjoy spectacular 360 degree views of the mountains, not only from the inside but from the large deck areas around the home. In under an hour, you have access to both Grand Teton and Yellowstone National Parks or quick access to airports in both Dubois and Jackson. The home is slated to be finished by August 2026. It’s off-grid by design, powered by solar with diesel back up, ensuring independence with out sacrificing luxury. For the Buyer seeking more than a retreat or for someone who values design with a story and land as legacy, this is a singular Wyoming offering.",
+    "features": [
+      "Pool",
+      "Privacy"
+    ]
+  },
+  "broker": {
+    "agent": "Jo Gathercole",
+    "agent_license": "#10337",
+    "agency": "Engel \u0026 Völkers Jackson Hole",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/engel-volkers-jackson-hole-258895",
+    "agency_address": "83002, Jackson, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/2200xxs.jpg",
+      "file": "img-da8e07a78bd2.webp",
+      "media_type": "image/webp",
+      "bytes": 342950,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/2200xxs.jpg",
+      "file": "img-907e4d4384dc.webp",
+      "media_type": "image/webp",
+      "bytes": 739622,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/2200xxs.jpg",
+      "file": "img-133222a29cc0.webp",
+      "media_type": "image/webp",
+      "bytes": 474380,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/2200xxs.jpg",
+      "file": "img-b8087f37bd03.webp",
+      "media_type": "image/webp",
+      "bytes": 483944,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/2200xxs.jpg",
+      "file": "img-a27424d70a5f.webp",
+      "media_type": "image/webp",
+      "bytes": 246112,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/dd33f18a-464c-4461-897d-908ed4d6172c/je/2000xxs.jpg",
+      "file": "img-a0374bcb7db1.webp",
+      "media_type": "image/webp",
+      "bytes": 195042,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/51e2e22c-3d24-407f-8dd5-3a1625599d4c/je/2000xxs.jpg",
+      "file": "img-097702b393b0.webp",
+      "media_type": "image/webp",
+      "bytes": 174338,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/63ce4192-3e74-42e1-83cd-db64dde5d5ce/je/2000xxs.jpg",
+      "file": "img-68f42b87b8ec.webp",
+      "media_type": "image/webp",
+      "bytes": 267078,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/3c8a839f-3083-40d5-89cb-4a1089f43c61/je/2000xxs.jpg",
+      "file": "img-e4ba673b4464.webp",
+      "media_type": "image/webp",
+      "bytes": 128506,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/834f0d0b-9a1a-464a-b053-d465c5b53725/je/2000xxs.jpg",
+      "file": "img-bd915f86176e.webp",
+      "media_type": "image/webp",
+      "bytes": 281504,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8483b4c9-9189-415b-a3cc-85ba0974d133/je/2000xxs.jpg",
+      "file": "img-0604aba6e72b.webp",
+      "media_type": "image/webp",
+      "bytes": 704052,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/92c34c17-9970-4c23-840f-3f8f62fc1e60/je/2000xxs.jpg",
+      "file": "img-f33947d2f955.webp",
+      "media_type": "image/webp",
+      "bytes": 506466,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/c732587e-329a-4f4f-a93f-1ae964bd496d/je/2000xxs.jpg",
+      "file": "img-8b9cecf57fc0.webp",
+      "media_type": "image/webp",
+      "bytes": 517052,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/3a496e87-2ad1-467f-8489-c3be8ea545bf/je/2000xxs.jpg",
+      "file": "img-b8006ebe9317.webp",
+      "media_type": "image/webp",
+      "bytes": 369684,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/599053f3-d81b-4a7e-8f96-1cb10286087d/je/2000xxs.jpg",
+      "file": "img-6628e5c9442c.webp",
+      "media_type": "image/webp",
+      "bytes": 307464,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/d86bc211-6c2d-4879-9c4e-e9f98763a76b/je/2000xxs.jpg",
+      "file": "img-12eed0b4eaac.webp",
+      "media_type": "image/webp",
+      "bytes": 456134,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/c496360b-ad90-4fc5-b269-f00e69dec057/je/2000xxs.jpg",
+      "file": "img-afca3aba0f7f.webp",
+      "media_type": "image/webp",
+      "bytes": 393196,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/d383824c-0ce7-470a-b3d7-ceb8fe9f29d2/je/2000xxs.jpg",
+      "file": "img-88809eb71abe.webp",
+      "media_type": "image/webp",
+      "bytes": 501440,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/01a2fbbe-a697-4c7a-bc1a-e3413ddaa45d/je/2000xxs.jpg",
+      "file": "img-321eb3985dd8.webp",
+      "media_type": "image/webp",
+      "bytes": 827172,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/19b55ffe-27a2-4c1d-bc61-8bfaa23b6ddd/je/2000xxs.jpg",
+      "file": "img-fd0ef9094995.webp",
+      "media_type": "image/webp",
+      "bytes": 407974,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/21dfd364-50fb-4373-9917-38c2f6e7a040/je/2000xxs.jpg",
+      "file": "img-c8de84278125.webp",
+      "media_type": "image/webp",
+      "bytes": 416492,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2024/06/30/04/15/33/ef0f9861-ba9c-4d37-8f4b-99ec498915c6/je/80x80xc.jpg",
+      "file": "img-9cb0d51ff818.webp",
+      "media_type": "image/webp",
+      "bytes": 1194,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/wy-united-states",
+              "name": "Wyoming"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/dubois-wy-usa",
+              "name": "Dubois"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/dubois-usa/wyoming-cowboy-starship-reclaimed-american-heritage-18067489",
+              "name": "Wyoming Cowboy Starship Reclaimed American Heritage"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Set in the pristine Dunoir Valley near Dubois, Wyoming, the Cowboy Starship is a rare convergence of history, design, and natural wonder. Spanning 40 acres of alpine meadows, live-water springs, and sweeping views of the Absaroka and Wind River mountain ranges, the property offers an extraordinary balance of privacy and grandeur. More than a residence, it is a living work of art. It's an architectural masterpiece crafted from reclaimed timbers and historic materials gathered from across the American West. Every beam, plank, and truss tells a story, creating a home that is as much a celebration of frontier heritage as it is a bold expression of mountain-modern design. The main building spans 9,000 square feet, with 6,400 square feet of heated living space featuring a large grand room which is open to the kitchen along with 4 ensuite bedrooms. The walls are crafted from 12x12 antique timbers salvaged from an 1898 sawmill, standing 12 inches thick, anchoring the home in history. The floors are antique oak planks, beams come from Astoria's early 1900s docks, and redwood decking is reclaimed from 1800s Napa Valley wine vats. Even the roof trusses hail from a 1902 Washington cannery. Enjoy spectacular 360 degree views of the mountains, not only from the inside but from the large deck areas around the home.  In under an hour, you have access to both Grand Teton and Yellowstone National Parks or quick access to airports in both Dubois and Jackson. The home is slated to be finished by August 2026. It's off-grid by design, powered by solar with diesel back up, ensuring independence with out sacrificing luxury.  For the Buyer seeking more than a retreat or for someone who values design with a story and land as legacy, this is a singular Wyoming offering.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/1040x620xc.jpg",
+        "name": "Wyoming Cowboy Starship Reclaimed American Heritage",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 7950000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Engel \u0026 Völkers Jackson Hole"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/dubois-usa/wyoming-cowboy-starship-reclaimed-american-heritage-18067489"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/2200xxs.jpg: HTTP 403 Forbidden"
+  ]
+};

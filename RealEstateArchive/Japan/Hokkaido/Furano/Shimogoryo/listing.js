@@ -1,0 +1,326 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/furano-japan/yuki-jo-furano-luxury-ski-villa-15174379",
+    "canonical_url": "https://www.jamesedition.com/real_estate/furano-japan/yuki-jo-furano-luxury-ski-villa-15174379",
+    "site": "jamesedition",
+    "listing_id": "15174379",
+    "listing_reference": "4516137",
+    "first_listed": "Feb 5, 2025",
+    "last_updated": "February 9",
+    "retrieved_at": "2026-06-16T03:43:43.638069Z"
+  },
+  "location": {
+    "address": "Shimogoryo, Furano, Hokkaido, Japan",
+    "street": "Shimogoryo",
+    "municipality": "Furano",
+    "region": "Hokkaido",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=43.3374057,142.3611374",
+    "latitude": 43.3374057,
+    "longitude": 142.3611374
+  },
+  "property": {
+    "title": "Yuki Jo Furano Luxury Ski Villa",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 5619731.5,
+      "currency": "USD",
+      "display": "$5,619,731"
+    },
+    "price_per_area": {
+      "amount": 538,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$538"
+    },
+    "bedrooms": 9,
+    "bathrooms": 10,
+    "interior_area": {
+      "value": 10432,
+      "unit": "sqft",
+      "display": "10,432 Sqft"
+    },
+    "lot_area": {
+      "value": 14801,
+      "unit": "sqft",
+      "display": "14,801 Sqft lot"
+    },
+    "photo_count": 41,
+    "description": "Nestled in Furano’s most prestigious neighborhood, Yuki-Jo occupies a commanding position overlooking the ski village, Furano town, and the majestic mountain ranges across the valley. Located immediately below the ski slopes and within walking distance to the heart of the ski village, Yuki-Jo offers unparalleled design and breathtaking vistas.Key FeaturesBedrooms: Nine designer rooms, each with a private ensuite, including two penthouse suites featuring a panoramic view lounge and serene Japanese gardens.Exclusive Amenities: Private onsen style bathhouse, sauna, wine cellar, Japanese gardens on 2F \u0026 4F, an interior Japanese bridge feature, interior garaging, elevator, and massive storage spaces.Dining: A fully equipped gourmet kitchen with high-end appliances on 3F, stylish Western dining area on 3F, secondary kitchen on 2F, Japanese dining room on 2F.Entertainment: Spacious lounges and relaxation areas are strategically placed throughout the property for ultimate comfort and privacy. Traditional Japanese tatami rooms are located on 2F.Garaging: A massive internal garage is located behind the castle gates and is suitable for storing a collection of cars.Exceptional DesignYuki-Jo is a Japanese architectural masterpiece crafted to realize the owner’s original vision. Designed by the renowned Sanei-Build Kogyo Co. Ltd., the villa flawlessly merges modern luxury with timeless Japanese aesthetics. The nearly 1,000 sqm of floor space is spread over 4 levels and includes interiors featuring bespoke pieces by renowned local custom manufacturer Conde House. Yuki Jo offers an unprecedented scale of elegance and distinction.Prime LocationYuki-Jo’s sits in a prime location—immediately below the ski slopes and within walking distance of Furano’s vibrant ski village. This position ensures easy access to world-class ski terrain and a dynamic dining scene.Lifestyle \u0026 InvestmentYuki-Jo presents a rare opportunity for those seeking the ultimate private retreat for family and friends. Its perfect blend of luxury, design, and location ensures its status as Furano’s finest property.Contact us to find out more about this exclusive opportunity: [hidden information]",
+    "features": [
+      "Elevator",
+      "Garage",
+      "Investment Property",
+      "Panoramic / Scenic View",
+      "Privacy",
+      "Sauna",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "H2 Sales",
+    "agent_profile_url": "https://www.jamesedition.com/agents/h2-sales-1680745",
+    "agency": "H2 Christie's International Real Estate - Niseko",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/h2-christie-s-international-real-estate-niseko-314231",
+    "agency_address": "11-1 Niseko Hirafu, 5-jo 3 chome Kutchan-cho, Abuta-gun, 044-0086, Niseko, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/cdca35b5-a55c-4f31-8a55-c581293ee617/je/2200xxs.jpg",
+      "file": "004-b7eca5b3.webp",
+      "media_type": "image/webp",
+      "bytes": 558052,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/1ad9a88c-18db-4245-946e-915d1260d93e/je/2200xxs.jpg",
+      "file": "009-93ec7e2f.webp",
+      "media_type": "image/webp",
+      "bytes": 226002,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/59170784-65cb-4d9c-8b66-c95f1b5d1835/je/2200xxs.jpg",
+      "file": "014-e1e753f6.webp",
+      "media_type": "image/webp",
+      "bytes": 256580,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/223d23d9-792a-480e-8f19-1b37c19374a8/je/2200xxs.jpg",
+      "file": "019-8f2ef150.webp",
+      "media_type": "image/webp",
+      "bytes": 373412,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/07/15/14/11/bf601110-0e70-4f50-86c6-3b3d0f30bee3/je/2200xxs.jpg",
+      "file": "024-5b3ee485.webp",
+      "media_type": "image/webp",
+      "bytes": 156862,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "029-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "030-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "031-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "032-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2025/03/23/08/44/59/c8ee863e-908b-4d5b-b613-4ee6562c5fbf/je/80x80xc.jpg",
+      "file": "033-5e31199e.webp",
+      "media_type": "image/webp",
+      "bytes": 258,
+      "status": "existing"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/hokkaido-japan",
+              "name": "Hokkaido"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/furano-japan",
+              "name": "Furano"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/shimogoryo-japan",
+              "name": "Shimogoryo"
+            },
+            "position": 6
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/furano-japan/yuki-jo-furano-luxury-ski-villa-15174379",
+              "name": "Yuki-Jo - Furano Luxury Ski Villa"
+            },
+            "position": 7
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "Nestled in Furano's most prestigious neighborhood, Yuki-Jo occupies a commanding position overlooking the ski village, Furano town, and the majestic mountain ranges across the valley. Located immediately below the ski slopes and within walking distance to the heart of the ski village, Yuki-Jo offers unparalleled design and breathtaking vistas.Key FeaturesBedrooms: Nine designer rooms, each with a private ensuite, including two penthouse suites featuring a panoramic view lounge and serene Japanese gardens.Exclusive Amenities: Private onsen style bathhouse, sauna, wine cellar, Japanese gardens on 2F \u0026amp; 4F, an interior Japanese bridge feature, interior garaging, elevator, and massive storage spaces.Dining: A fully equipped gourmet kitchen with high-end appliances on 3F, stylish Western dining area on 3F, secondary kitchen on 2F, Japanese dining room on 2F.Entertainment: Spacious lounges and relaxation areas are strategically placed throughout the property for ultimate comfort and privacy. Traditional Japanese tatami rooms are located on 2F.Garaging: A massive internal garage is located behind the castle gates and is suitable for storing a collection of cars.Exceptional DesignYuki-Jo is a Japanese architectural masterpiece crafted to realize the owner's original vision. Designed by the renowned Sanei-Build Kogyo Co. Ltd., the villa flawlessly merges modern luxury with timeless Japanese aesthetics. The nearly 1,000 sqm of floor space is spread over 4 levels and includes interiors featuring bespoke pieces by renowned local custom manufacturer Conde House. Yuki Jo offers an unprecedented scale of elegance and distinction.Prime LocationYuki-Jo's sits in a prime location—immediately below the ski slopes and within walking distance of Furano's vibrant ski village. This position ensures easy access to world-class ski terrain and a dynamic dining scene.Lifestyle \u0026amp; InvestmentYuki-Jo presents a rare opportunity for those seeking the ultimate private retreat for family and friends. Its perfect blend of luxury, design, and location ensures its status as Furano's finest property.Contact us to find out more about this exclusive opportunity: [hidden information]",
+        "image": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/cdca35b5-a55c-4f31-8a55-c581293ee617/je/1040x620xc.jpg",
+        "name": "Yuki-Jo - Furano Luxury Ski Villa",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 5619731.5,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "H2 Christie's International Real Estate - Niseko"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/furano-japan/yuki-jo-furano-luxury-ski-villa-15174379"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/furano-japan/Yuki%20Jo%20Furano%20Luxury%20Ski%20Villa%20In%20Furano,%20Hokkaido,%20Japan%20For%20Sale%20%2815174379%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden"
+  ]
+};

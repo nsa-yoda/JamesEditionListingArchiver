@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46-ledgerock-lane-hyde-park-ny-12538-15064503",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46-ledgerock-lane-hyde-park-ny-12538-15064503",
+    "site": "jamesedition",
+    "listing_id": "15064503",
+    "listing_reference": "2c2yzj",
+    "first_listed": "Jan 6, 2025",
+    "last_updated": "June 2",
+    "retrieved_at": "2026-06-16T03:43:18.472372Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3456,
+      "sha256": "0611e13882ca11ab504c3676f4421ef981e94ddb436b27fa5ceb4a43eff3f03b"
+    },
+    {
+      "path": "images/004-c617e031.webp",
+      "bytes": 797446,
+      "sha256": "341aecc3698959895776bb1b5e5a178abd64272eef5abc3c971d6a9f0be64e6d"
+    },
+    {
+      "path": "images/009-f8b54239.webp",
+      "bytes": 443548,
+      "sha256": "f15014fd9760abe0c084a754be6a844ab9c76a28147c113f80f8c95f0ce4c15a"
+    },
+    {
+      "path": "images/014-9d05aa23.webp",
+      "bytes": 394684,
+      "sha256": "39011c3cc0557614e83891fe10e6481e8b7a9cb93da58477bbf62f0108802045"
+    },
+    {
+      "path": "images/019-e4176f25.webp",
+      "bytes": 230356,
+      "sha256": "3ef522c347fd141f668ed8280992068911992d51ec79d8a573fbafd1523a8633"
+    },
+    {
+      "path": "images/024-d08745a7.webp",
+      "bytes": 335254,
+      "sha256": "a96d9eb08964933037f1c18754fb06fed9599cf1181e1e0785523d7c67969c64"
+    },
+    {
+      "path": "images/039-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/040-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/041-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/042-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/043-c9229294.webp",
+      "bytes": 1490,
+      "sha256": "efd4836032d58aa58966a83c3b7712dcad9f68934f72490f426e9ced16afb9ef"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 23410,
+      "sha256": "fb76389a4cfe9b73659210b796e578c22e7d8869507adb1b8c85854455635208"
+    },
+    {
+      "path": "source.html",
+      "bytes": 369585,
+      "sha256": "98d8d9fce28a40cee38cc5880d2115893c2313006a97f498e8a0a5c523ea3ae2"
+    },
+    {
+      "path": "source.url",
+      "bytes": 104,
+      "sha256": "6cc93a1336f60eab8bcbd59540b3bd63a9209caa93d5d79a0bd3d241d8e9ba0d"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/06/10/11/51/5ae1b230-c845-455b-804b-3e0e97886286/je/2200xxs.jpg",
+      "path": "images/004-c617e031.webp",
+      "media_type": "image/webp",
+      "bytes": 797446,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/06/10/11/51/b371f7d1-5cc5-401f-8104-f506daf619e8/je/2200xxs.jpg",
+      "path": "images/009-f8b54239.webp",
+      "media_type": "image/webp",
+      "bytes": 443548,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/19/15/25/16/48752ac8-ed9c-49e3-91a2-b61523b4f93e/je/2200xxs.jpg",
+      "path": "images/014-9d05aa23.webp",
+      "media_type": "image/webp",
+      "bytes": 394684,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/18/16/42/49/7251bfcd-6576-425f-9ed4-fc411d7e28b8/je/2200xxs.jpg",
+      "path": "images/019-e4176f25.webp",
+      "media_type": "image/webp",
+      "bytes": 230356,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/18/16/42/49/734c104b-acdd-422c-84c3-88821caae5ec/je/2200xxs.jpg",
+      "path": "images/024-d08745a7.webp",
+      "media_type": "image/webp",
+      "bytes": 335254,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%285%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%286%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%287%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%288%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/160x120xc%289%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46%20Ledgerock%20Lane,%20Hyde%20Park,%20Ny%2012538%20In%20Hyde%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2815064503%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/039-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/040-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/041-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/042-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/agent_images/2026/06/09/18/03/31/cbf8a846-9225-40bf-95fb-130de623ae5d/je/80x80xc.jpg",
+      "path": "images/043-c9229294.webp",
+      "media_type": "image/webp",
+      "bytes": 1490,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 17,
+    "images_existing": 10,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

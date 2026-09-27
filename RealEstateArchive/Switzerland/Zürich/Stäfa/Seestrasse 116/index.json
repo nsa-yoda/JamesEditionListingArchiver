@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "path": "Switzerland/Zürich/Stäfa/Seestrasse 116",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    },
+    {
+      "name": "videos",
+      "href": "videos/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 27984
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 19737
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3661
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 447460
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 124
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

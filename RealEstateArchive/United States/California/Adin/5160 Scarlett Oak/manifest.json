@@ -1,0 +1,611 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/residential-in-greenwood-16368016",
+    "canonical_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/residential-in-greenwood-16368016",
+    "site": "jamesedition",
+    "listing_id": "16368016",
+    "listing_reference": "11555787",
+    "first_listed": "Oct 10, 2025",
+    "last_updated": "April 14",
+    "retrieved_at": "2026-08-28T00:30:04.834735Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4499,
+      "sha256": "acb8711c8053807191c8ae32e101140e41b0794b836b69987dc05284c0171992"
+    },
+    {
+      "path": "images/img-0f1619e474c7.webp",
+      "bytes": 459082,
+      "sha256": "45c684573a0d6b30b8def4bd0213d7f52e231c1f4624838e7719b2b53bb0402d"
+    },
+    {
+      "path": "images/img-169ea7cc0d18.webp",
+      "bytes": 378588,
+      "sha256": "e4c179ddedd1a5602bde19f47bb2c818eb4f2f3622664e365af4fdc4f2b1637b"
+    },
+    {
+      "path": "images/img-1d55cbc0abd6.webp",
+      "bytes": 813840,
+      "sha256": "609539f62b7a79e367915b5e8873014884648a1a47fb6a8af52e78e7bfa4696c"
+    },
+    {
+      "path": "images/img-227d11473830.webp",
+      "bytes": 460278,
+      "sha256": "a147245b2708a321561e5b2abbacef3dd0127641b815955a93a44a21a00280f2"
+    },
+    {
+      "path": "images/img-27d3f51cacba.webp",
+      "bytes": 478368,
+      "sha256": "75d6a227814bb3c62ad49c08aaa3b9d97c4590be19de16e187c2c7af1bedec86"
+    },
+    {
+      "path": "images/img-2896b89f30ce.webp",
+      "bytes": 415074,
+      "sha256": "ab2817c5201fecd582f1c780d20e5716042b67385e3c6aae2e5d1de487bb5709"
+    },
+    {
+      "path": "images/img-2b826656f502.webp",
+      "bytes": 393534,
+      "sha256": "5fa8ce80440508eb85c9cce9626d1a024afab385b94a9b2b9130ebd488ec6b2b"
+    },
+    {
+      "path": "images/img-30e50c3964fb.webp",
+      "bytes": 661368,
+      "sha256": "93b429de47354d9b8bb96fc788e057d0624405365d132f75e70917ebf35e6727"
+    },
+    {
+      "path": "images/img-3789b6ff3530.webp",
+      "bytes": 467778,
+      "sha256": "441112d85e1b8f46a43530a5c35c800c788fb5a68a7c0e718016a30b4841e905"
+    },
+    {
+      "path": "images/img-38eaf9bf7f63.webp",
+      "bytes": 854448,
+      "sha256": "43f7641848063ace115cfb7a3ceb0e9b0d44d21e01280bfaad27c88f78f79a39"
+    },
+    {
+      "path": "images/img-3b3a7437bbe3.webp",
+      "bytes": 590332,
+      "sha256": "6111903d2848ec5d89aaf38f77c72f290ef7baaa9ca5581df44a41094e7f72b8"
+    },
+    {
+      "path": "images/img-4029d2b5b2c9.webp",
+      "bytes": 632918,
+      "sha256": "4569f7d85685fd0bf840d75367cf0d0ffd20e24e6a59a849f8343bf7d10b202c"
+    },
+    {
+      "path": "images/img-433f0220e1f4.webp",
+      "bytes": 284372,
+      "sha256": "b937adfe69701c1c43a0bba59bf9f13e7b10aa7210d43fd8db545375143761ce"
+    },
+    {
+      "path": "images/img-450bcd4691bc.webp",
+      "bytes": 463560,
+      "sha256": "d4803b5c35f798d384820befffcd226ea588128758f0932143be1823bed6b77f"
+    },
+    {
+      "path": "images/img-4a5c860e7a7a.webp",
+      "bytes": 731308,
+      "sha256": "a8274207db5f75b164f889a694796784b3268291efdce3c84b275df9cd7e0b84"
+    },
+    {
+      "path": "images/img-55da342d76ef.webp",
+      "bytes": 752136,
+      "sha256": "8ec4724330fdb55a4b92539a9cd32c8e7591d6dc7398c619257e9e8e380b2be7"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5eaea45560a9.webp",
+      "bytes": 688440,
+      "sha256": "47cbe3ea97b427982d51abb4a9b95247dc91e917c610e48ded367acbbaa98dfe"
+    },
+    {
+      "path": "images/img-62220a9a8e11.webp",
+      "bytes": 552074,
+      "sha256": "1b69eaf77aa80fcc2c6eee6d2f5c0910656ed4b796876422e59429af23570370"
+    },
+    {
+      "path": "images/img-72cdc4b413de.webp",
+      "bytes": 230040,
+      "sha256": "7ed8cda5afb39f93f6b68b553695479a34bd561e49197b042b22de75905dc84d"
+    },
+    {
+      "path": "images/img-78ccc22b0be8.webp",
+      "bytes": 427326,
+      "sha256": "c94354bb1347783ba679cac10e459556ea697b53d60d6845c6b53cdaae30f07d"
+    },
+    {
+      "path": "images/img-7d4f844bde5f.webp",
+      "bytes": 475014,
+      "sha256": "56bacda61f72cdabee8fb5bbff562cc0078cd285f7820a570679542f8209efc2"
+    },
+    {
+      "path": "images/img-832a90468f25.webp",
+      "bytes": 652824,
+      "sha256": "3fbeb8d65936cb8c0d98217379febd3b90d2fcf2ca3a06a9d5c2284dc4ebdbd8"
+    },
+    {
+      "path": "images/img-8b110522d5f1.webp",
+      "bytes": 616664,
+      "sha256": "88cdc9da44fb3a97a284ac543e84ce5332cb5c427e9c30e9c1d3568c23094207"
+    },
+    {
+      "path": "images/img-943c7e6766ab.webp",
+      "bytes": 513976,
+      "sha256": "e392d43d6c06034929128fb485624937cbf7efea09ac34a7db7ee8df6ed18d45"
+    },
+    {
+      "path": "images/img-97297e138c8e.webp",
+      "bytes": 283806,
+      "sha256": "719d32ccc71e717b2e1e4b0c1b4051758d2c74c1e21efa91cdbdc5d1c71cbc50"
+    },
+    {
+      "path": "images/img-9ca6d831c097.webp",
+      "bytes": 546356,
+      "sha256": "eab4cbb3192bec81146f09bddaa26985ad611c667162dc634dbfeebdca01ad7d"
+    },
+    {
+      "path": "images/img-aeb5a095580f.webp",
+      "bytes": 703910,
+      "sha256": "207f43ac23736ee3e7d9d6cfa6578334c01b33eb5758f692570c0f97edda29fa"
+    },
+    {
+      "path": "images/img-afdf71f0f73a.webp",
+      "bytes": 502478,
+      "sha256": "200a6ca3fefa775caf23b34bb57db1f45d05ca01b640e63fa373ddfb4c955dc6"
+    },
+    {
+      "path": "images/img-caf784ed85af.webp",
+      "bytes": 730194,
+      "sha256": "923e8056dfeb813c3df4e921735ec840691cde4c8c5a22e89b93193b21fb0a2a"
+    },
+    {
+      "path": "images/img-e5e9fa0a38e6.webp",
+      "bytes": 586902,
+      "sha256": "7639e77e406a0d718d2488c20ff56f39622fc404b819a03999cdec8de61cc84e"
+    },
+    {
+      "path": "images/img-ec55475aadc7.webp",
+      "bytes": 731036,
+      "sha256": "1106ea0616eb8d1ef9460b92fe862ea9b6898d111ffefecfd631cc6edcb20531"
+    },
+    {
+      "path": "images/img-ee5d0f634296.webp",
+      "bytes": 546650,
+      "sha256": "7d2b1d9b00f0416051272c22de2f95fb8061e026ee1078daf76b467b92a710e5"
+    },
+    {
+      "path": "images/img-f0120bea4a93.webp",
+      "bytes": 406864,
+      "sha256": "4ef5eb4aaf7910f59cbd777e401ef72668c93277331d86160fb0a854d39a3b14"
+    },
+    {
+      "path": "images/img-f1277d680864.webp",
+      "bytes": 436962,
+      "sha256": "2870d4597a5878a3249685864239f5af977101d5dcf1b60d6c5128df64427b25"
+    },
+    {
+      "path": "images/img-f5f4abc8198e.webp",
+      "bytes": 233436,
+      "sha256": "4146ab02cd8f56b6204c0bbe78a683a26b559a7dcddf03f27df46769c7725e3c"
+    },
+    {
+      "path": "images/img-ff9792ebe332.webp",
+      "bytes": 558200,
+      "sha256": "a0d2433b0708014b2a115892a0b3c2a299e472cf6bd131810f01705e1efd81c1"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 30610,
+      "sha256": "ad1346400b3e1d945aace19920cf7565541217d956a58e3fafbed8833dd6e9fd"
+    },
+    {
+      "path": "source.html",
+      "bytes": 407729,
+      "sha256": "243004fd48c076a3d1d9656f69d967de1bbfa0aab67af330182bd5eb0e20f2c2"
+    },
+    {
+      "path": "source.url",
+      "bytes": 92,
+      "sha256": "a825db6bb0f4001d5d057364d4358852bb53e8863d7422371f6739863877c8e5"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2200xxs.jpg",
+      "path": "images/img-ee5d0f634296.webp",
+      "media_type": "image/webp",
+      "bytes": 546650,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2200xxs.jpg",
+      "path": "images/img-943c7e6766ab.webp",
+      "media_type": "image/webp",
+      "bytes": 513976,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2200xxs.jpg",
+      "path": "images/img-38eaf9bf7f63.webp",
+      "media_type": "image/webp",
+      "bytes": 854448,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2200xxs.jpg",
+      "path": "images/img-1d55cbc0abd6.webp",
+      "media_type": "image/webp",
+      "bytes": 813840,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2200xxs.jpg",
+      "path": "images/img-78ccc22b0be8.webp",
+      "media_type": "image/webp",
+      "bytes": 427326,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/10a7ea4f-d36d-4b10-9186-9cb80aa52a07/je/2000xxs.jpg",
+      "path": "images/img-433f0220e1f4.webp",
+      "media_type": "image/webp",
+      "bytes": 284372,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/b2940750-f0f3-4a2c-9746-07a22233b66d/je/2000xxs.jpg",
+      "path": "images/img-9ca6d831c097.webp",
+      "media_type": "image/webp",
+      "bytes": 546356,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/9beb0866-227b-48b8-bdfc-8d06059ac884/je/2000xxs.jpg",
+      "path": "images/img-27d3f51cacba.webp",
+      "media_type": "image/webp",
+      "bytes": 478368,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/4bb5e889-4d2a-40ff-b847-9d8fd6ae69c6/je/2000xxs.jpg",
+      "path": "images/img-62220a9a8e11.webp",
+      "media_type": "image/webp",
+      "bytes": 552074,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/488198c5-fe2e-48e7-a9eb-6309a1b6442f/je/2000xxs.jpg",
+      "path": "images/img-8b110522d5f1.webp",
+      "media_type": "image/webp",
+      "bytes": 616664,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/40478ffa-5bb5-4a03-a0f9-603a1e41db01/je/2000xxs.jpg",
+      "path": "images/img-832a90468f25.webp",
+      "media_type": "image/webp",
+      "bytes": 652824,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/09c5b76c-bd31-4e8a-b7c8-93a3b9f99230/je/2000xxs.jpg",
+      "path": "images/img-ff9792ebe332.webp",
+      "media_type": "image/webp",
+      "bytes": 558200,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/daad2add-0436-47d4-86b2-e306e696d8ba/je/2000xxs.jpg",
+      "path": "images/img-ec55475aadc7.webp",
+      "media_type": "image/webp",
+      "bytes": 731036,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/6905e796-4dc0-46fc-b558-a1bccd14f0c1/je/2000xxs.jpg",
+      "path": "images/img-4a5c860e7a7a.webp",
+      "media_type": "image/webp",
+      "bytes": 731308,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/856e31f8-b142-43a0-bf84-9005e52503f8/je/2000xxs.jpg",
+      "path": "images/img-5eaea45560a9.webp",
+      "media_type": "image/webp",
+      "bytes": 688440,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/0277c262-36ac-4288-82f1-d5a640b101ef/je/2000xxs.jpg",
+      "path": "images/img-e5e9fa0a38e6.webp",
+      "media_type": "image/webp",
+      "bytes": 586902,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/76542b06-f504-4e1e-948e-dd292bcfd927/je/2000xxs.jpg",
+      "path": "images/img-aeb5a095580f.webp",
+      "media_type": "image/webp",
+      "bytes": 703910,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/bb759bed-63c7-4835-b96f-e6dfa701a6cb/je/2000xxs.jpg",
+      "path": "images/img-4029d2b5b2c9.webp",
+      "media_type": "image/webp",
+      "bytes": 632918,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/5a37d288-fc1f-4f41-97d2-4af948aefef2/je/2000xxs.jpg",
+      "path": "images/img-30e50c3964fb.webp",
+      "media_type": "image/webp",
+      "bytes": 661368,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/f2df6464-3125-4d0a-b2f4-07ef607235a1/je/2000xxs.jpg",
+      "path": "images/img-227d11473830.webp",
+      "media_type": "image/webp",
+      "bytes": 460278,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/1173ed40-9ce3-4769-8145-392bab9ed49b/je/2000xxs.jpg",
+      "path": "images/img-450bcd4691bc.webp",
+      "media_type": "image/webp",
+      "bytes": 463560,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/886cbbe1-ca47-4a96-bf1c-277d642511a3/je/2000xxs.jpg",
+      "path": "images/img-169ea7cc0d18.webp",
+      "media_type": "image/webp",
+      "bytes": 378588,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/6a7e69b9-5f20-4ef9-9e48-60484213169d/je/2000xxs.jpg",
+      "path": "images/img-97297e138c8e.webp",
+      "media_type": "image/webp",
+      "bytes": 283806,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/62f84ec5-1f73-4569-90cd-fc8e7b83ecd0/je/2000xxs.jpg",
+      "path": "images/img-2896b89f30ce.webp",
+      "media_type": "image/webp",
+      "bytes": 415074,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cc4d92f9-bb02-4e37-a8d6-9e1aea9f6fe8/je/2000xxs.jpg",
+      "path": "images/img-0f1619e474c7.webp",
+      "media_type": "image/webp",
+      "bytes": 459082,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/4b817b72-cde8-43c9-ba80-acacd2981430/je/2000xxs.jpg",
+      "path": "images/img-f5f4abc8198e.webp",
+      "media_type": "image/webp",
+      "bytes": 233436,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/fc423fa3-bd1a-4e6e-a7b9-8dd064df4b83/je/2000xxs.jpg",
+      "path": "images/img-72cdc4b413de.webp",
+      "media_type": "image/webp",
+      "bytes": 230040,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/1defb9be-0232-4fb5-87f4-764873303b2b/je/2000xxs.jpg",
+      "path": "images/img-2b826656f502.webp",
+      "media_type": "image/webp",
+      "bytes": 393534,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/e6895617-3021-46b0-a80f-1a2e54fd1565/je/2000xxs.jpg",
+      "path": "images/img-f1277d680864.webp",
+      "media_type": "image/webp",
+      "bytes": 436962,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/1077dce0-cedb-41bb-8113-144ef506c7d2/je/2000xxs.jpg",
+      "path": "images/img-f0120bea4a93.webp",
+      "media_type": "image/webp",
+      "bytes": 406864,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/23f1251b-9795-4afb-aa2d-a9c7eb100bc2/je/2000xxs.jpg",
+      "path": "images/img-7d4f844bde5f.webp",
+      "media_type": "image/webp",
+      "bytes": 475014,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/9c4bb9b0-6bbc-47a4-8765-ab0697fd29f3/je/2000xxs.jpg",
+      "path": "images/img-55da342d76ef.webp",
+      "media_type": "image/webp",
+      "bytes": 752136,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/bd221002-85cd-48f1-8fd5-89402c7fd132/je/2000xxs.jpg",
+      "path": "images/img-afdf71f0f73a.webp",
+      "media_type": "image/webp",
+      "bytes": 502478,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/9c10e497-c711-4f86-bca4-a0251b9bb8f1/je/2000xxs.jpg",
+      "path": "images/img-caf784ed85af.webp",
+      "media_type": "image/webp",
+      "bytes": 730194,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/e05cfe29-46be-493c-b0bc-081fb1f749c1/je/2000xxs.jpg",
+      "path": "images/img-3b3a7437bbe3.webp",
+      "media_type": "image/webp",
+      "bytes": 590332,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/9c6db765-4c0e-476b-b7e2-4fc6da1e002d/je/2000xxs.jpg",
+      "path": "images/img-3789b6ff3530.webp",
+      "media_type": "image/webp",
+      "bytes": 467778,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/2200xxs%2823%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/2200xxs%2824%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/2200xxs%2825%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 37,
+    "images_existing": 0,
+    "images_failed": 14,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

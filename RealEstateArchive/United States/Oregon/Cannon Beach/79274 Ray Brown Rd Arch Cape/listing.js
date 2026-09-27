@@ -1,0 +1,624 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380",
+    "canonical_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380",
+    "site": "jamesedition",
+    "listing_id": "15022380",
+    "listing_reference": "47J8NR",
+    "first_listed": "Dec 16, 2024",
+    "last_updated": "January 16",
+    "retrieved_at": "2026-06-19T08:18:12.413368Z"
+  },
+  "location": {
+    "address": "79274 RAY BROWN RD , Arch Cape, OR 97102, Cannon Beach, Oregon, United States",
+    "street": "79274 Ray Brown Rd Arch Cape",
+    "municipality": "Cannon Beach",
+    "region": "Oregon",
+    "postal_code": "97102",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=45.788673,-123.966886",
+    "latitude": 45.788673,
+    "longitude": -123.966886
+  },
+  "property": {
+    "title": "79274 Ray Brown Rd Arch Cape, Or 97102",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 3500000,
+      "currency": "USD",
+      "display": "$3,500,000"
+    },
+    "price_per_area": {
+      "amount": 868,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$868"
+    },
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "interior_area": {
+      "value": 4032,
+      "unit": "sqft",
+      "display": "4,032 Sqft"
+    },
+    "lot_area": {
+      "value": 1.6,
+      "display": "1.6 Ac lot"
+    },
+    "year_built": 1981,
+    "photo_count": 45,
+    "description": "True oceanfront on 1.6 acres [hidden information],150 sf and beautifully updated/remodeled. Boasting 25’ cedar ceilings, two stories, and a separate-entry conference pavilion. Privacy and protection from the storms. Set on 1.6 private oceanfront acres, this 4,150 sf Arch Cape estate frames the Pacific Ocean with a dramatic 25-foot cedar great room and expansive glass. Indoor-outdoor living unfolds over multi-level decks (3) with wind-shelter and year-round views. A separate-entry conference/guest pavilion adds flexible space for work or hosting, complemented by two-story design, a gourmet granite kitchen with waterfall, and a generous master suite. Lower level features separate spaces with 2 bedrooms, 2 bathrooms, wet bar, family room/game room with dramatic stone fireplace and luxurious sauna!",
+    "features": [
+      "Air Conditioning",
+      "Bar",
+      "Fireplace",
+      "Game Room",
+      "Garage",
+      "Oceanfront",
+      "Privacy",
+      "Sauna",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Michael Hague",
+    "agency": "Cascade Hasson Sotheby's International Realty",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/cascade-hasson-sotheby-s-international-realty-12406",
+    "agency_address": "130 N. Hemlock Suite 1, PO Box 1425, 97110, Cannon Beach, Oregon, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/2200xxs.jpg",
+      "file": "img-28f932be786e.webp",
+      "media_type": "image/webp",
+      "bytes": 344276,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/2200xxs.jpg",
+      "file": "img-4e9fd97cce67.webp",
+      "media_type": "image/webp",
+      "bytes": 239624,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/2200xxs.jpg",
+      "file": "img-b30e0a02f3ed.webp",
+      "media_type": "image/webp",
+      "bytes": 484360,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/2200xxs.jpg",
+      "file": "img-455de970f96d.webp",
+      "media_type": "image/webp",
+      "bytes": 374142,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/2200xxs.jpg",
+      "file": "img-35f9f8c1185a.webp",
+      "media_type": "image/webp",
+      "bytes": 228090,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/250b6bf1-4126-4e80-a5c5-a375f396eecf/je/2000xxs.jpg",
+      "file": "img-1d6e03983842.webp",
+      "media_type": "image/webp",
+      "bytes": 196528,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/a6fcce19-9e05-486a-a44d-0fba0cf7c35d/je/2000xxs.jpg",
+      "file": "img-7b62a61008b5.webp",
+      "media_type": "image/webp",
+      "bytes": 218016,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/82c1492e-68e9-4d67-b0b0-fbb41d573380/je/2000xxs.jpg",
+      "file": "img-1d23918eb016.webp",
+      "media_type": "image/webp",
+      "bytes": 204174,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/a6bf8a2f-9a7c-4218-8f1a-c06e61af7c5f/je/2000xxs.jpg",
+      "file": "img-6257e58501dd.webp",
+      "media_type": "image/webp",
+      "bytes": 189758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/a9bc0b0c-5c91-4253-a520-741fb6b516d1/je/2000xxs.jpg",
+      "file": "img-f12c30a5e876.webp",
+      "media_type": "image/webp",
+      "bytes": 112728,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/98ab2881-12d6-4c48-a98b-1dab4b5eda93/je/2000xxs.jpg",
+      "file": "img-a53644b21041.webp",
+      "media_type": "image/webp",
+      "bytes": 223928,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/367126c0-a9c0-4977-99a5-731c4ad247ad/je/2000xxs.jpg",
+      "file": "img-745ae5c88d21.webp",
+      "media_type": "image/webp",
+      "bytes": 106796,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/b03effb1-d10d-4089-a9e1-257077b1bd18/je/2000xxs.jpg",
+      "file": "img-5def6d16001c.webp",
+      "media_type": "image/webp",
+      "bytes": 199362,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/39109db7-3b91-4ad5-bd29-df858bd07290/je/2000xxs.jpg",
+      "file": "img-397087ea179e.webp",
+      "media_type": "image/webp",
+      "bytes": 172160,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/fd50d171-39be-43f0-a0e1-0edd7426cb29/je/2000xxs.jpg",
+      "file": "img-db066d772696.webp",
+      "media_type": "image/webp",
+      "bytes": 257960,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/1428e095-34b4-4136-af11-4d6676f16ad1/je/2000xxs.jpg",
+      "file": "img-5b28d0c143c1.webp",
+      "media_type": "image/webp",
+      "bytes": 237328,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/20049d85-a135-4670-a1c7-3b14d2d4c47f/je/2000xxs.jpg",
+      "file": "img-7479b3e14873.webp",
+      "media_type": "image/webp",
+      "bytes": 107582,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/4cb4d7f6-51e6-4ec2-96e0-fe455bca5d2e/je/2000xxs.jpg",
+      "file": "img-50084c20ba83.webp",
+      "media_type": "image/webp",
+      "bytes": 184468,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/2cded04c-bd69-4824-8d9f-0cca580a9a7c/je/2000xxs.jpg",
+      "file": "img-d8a13a1caa87.webp",
+      "media_type": "image/webp",
+      "bytes": 185662,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/2fe42d09-cc57-4de5-9deb-d1a3c317be43/je/2000xxs.jpg",
+      "file": "img-e488271ccd53.webp",
+      "media_type": "image/webp",
+      "bytes": 231428,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/f8b64842-38aa-4da0-bc36-a172d292614e/je/2000xxs.jpg",
+      "file": "img-29059930a3f3.webp",
+      "media_type": "image/webp",
+      "bytes": 154790,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/ca325d64-8638-4bbe-acc8-3e4a0c91a211/je/2000xxs.jpg",
+      "file": "img-aa059a7496e3.webp",
+      "media_type": "image/webp",
+      "bytes": 136584,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/a13b1f79-6dbf-4103-a567-487744f89242/je/2000xxs.jpg",
+      "file": "img-83eb0c505ce5.webp",
+      "media_type": "image/webp",
+      "bytes": 126232,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/92008c76-4c9c-4a81-9517-f14eb159d540/je/2000xxs.jpg",
+      "file": "img-bac7e9e88e64.webp",
+      "media_type": "image/webp",
+      "bytes": 130436,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/c785d219-01ec-474b-8757-dad8cbbad724/je/2000xxs.jpg",
+      "file": "img-51426fc0ae62.webp",
+      "media_type": "image/webp",
+      "bytes": 125812,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/6182b68e-6c12-4224-b8d8-87d9abbd6324/je/2000xxs.jpg",
+      "file": "img-d3ebdd454375.webp",
+      "media_type": "image/webp",
+      "bytes": 126998,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/7a7dd0c0-1405-4c61-9548-e7315561b84c/je/2000xxs.jpg",
+      "file": "img-49b7948bf05b.webp",
+      "media_type": "image/webp",
+      "bytes": 129934,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/148a148d-e201-4929-a577-f9dacaf7d0b8/je/2000xxs.jpg",
+      "file": "img-f8987aa7b0a0.webp",
+      "media_type": "image/webp",
+      "bytes": 143332,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/34fef3fb-bf8d-493c-a456-62bebc592289/je/2000xxs.jpg",
+      "file": "img-7e0ffa99c1a2.webp",
+      "media_type": "image/webp",
+      "bytes": 135802,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/66e9bc80-476c-4c0e-bc75-e49b81a74c4b/je/2000xxs.jpg",
+      "file": "img-a1df900c51c7.webp",
+      "media_type": "image/webp",
+      "bytes": 101506,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/3824f6b5-98e1-4675-b0d6-03735e894f9a/je/2000xxs.jpg",
+      "file": "img-9a4b01313fce.webp",
+      "media_type": "image/webp",
+      "bytes": 158552,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/34ca8f36-4aa6-4fd5-b6c6-581d6f3793a6/je/2000xxs.jpg",
+      "file": "img-aff073a6470c.webp",
+      "media_type": "image/webp",
+      "bytes": 175184,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/138ee55e-2454-451c-87c1-13ec42dc25aa/je/2000xxs.jpg",
+      "file": "img-dfde40d86925.webp",
+      "media_type": "image/webp",
+      "bytes": 143980,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/d01c6460-baf5-4b27-9799-60b58182e014/je/2000xxs.jpg",
+      "file": "img-141f950634da.webp",
+      "media_type": "image/webp",
+      "bytes": 118204,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/be76cdd6-0a0d-4486-a377-a53851deba0e/je/2000xxs.jpg",
+      "file": "img-5681e0f7341d.webp",
+      "media_type": "image/webp",
+      "bytes": 83394,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/ef3aedfc-6f18-4bba-8cfd-97799669c14c/je/2000xxs.jpg",
+      "file": "img-dba31c6b3544.webp",
+      "media_type": "image/webp",
+      "bytes": 147652,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/f36780c9-6ffc-4337-9302-ba3a4206e25e/je/2000xxs.jpg",
+      "file": "img-25369a7cc405.webp",
+      "media_type": "image/webp",
+      "bytes": 441260,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/4e0c70e4-2af5-4104-97d7-aaaa5d8be700/je/2000xxs.jpg",
+      "file": "img-c991e10f02df.webp",
+      "media_type": "image/webp",
+      "bytes": 254268,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/906ad596-bc40-4a88-8ffb-e2c84890912b/je/2000xxs.jpg",
+      "file": "img-dedc073e2af1.webp",
+      "media_type": "image/webp",
+      "bytes": 189042,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/89f971a1-81e1-4df1-989d-ce204d32b35d/je/2000xxs.jpg",
+      "file": "img-bc1e36b93acb.webp",
+      "media_type": "image/webp",
+      "bytes": 171472,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/cd1f7a2f-1496-42cd-ba0d-ec62bd921731/je/2000xxs.jpg",
+      "file": "img-c211ee636f3a.webp",
+      "media_type": "image/webp",
+      "bytes": 142968,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/bb371712-3c4e-4bf1-a18a-4ef3cf128bc4/je/2000xxs.jpg",
+      "file": "img-012c8b8a21ba.webp",
+      "media_type": "image/webp",
+      "bytes": 453732,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/0f1986d0-7d11-4162-92ac-ba2d50a65185/je/2000xxs.jpg",
+      "file": "img-f2355d8bedeb.webp",
+      "media_type": "image/webp",
+      "bytes": 322698,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/69fd3106-cbfb-4bec-9ebd-f1c07a50d6a3/je/2000xxs.jpg",
+      "file": "img-9f694c66ffa2.webp",
+      "media_type": "image/webp",
+      "bytes": 161316,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/4f28df0b-023d-4d5e-b26e-1a096da952ab/je/2000xxs.jpg",
+      "file": "img-5e46d5519830.webp",
+      "media_type": "image/webp",
+      "bytes": 187948,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2824%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2825%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2826%29.jpg",
+      "status": "failed",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "file": "img-4055dfde7ac7.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "file": "img-272e34fedba6.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "file": "img-caf7633dd106.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/or-united-states",
+              "name": "Oregon"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/cannon-beach-or-usa",
+              "name": "Cannon Beach"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380",
+              "name": "79274 Ray Brown Rd Arch Cape, Or 97102"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "True oceanfront on 1.6 acres [hidden information],150 sf and beautifully updated/remodeled. Boasting 25' cedar ceilings, two stories, and a separate-entry conference pavilion. Privacy and protection from the storms. Set on 1.6 private oceanfront acres, this 4,150 sf Arch Cape estate frames the Pacific Ocean with a dramatic 25-foot cedar great room and expansive glass. Indoor-outdoor living unfolds over multi-level decks (3) with wind-shelter and year-round views. A separate-entry conference/guest pavilion adds flexible space for work or hosting, complemented by two-story design, a gourmet granite kitchen with waterfall, and a generous master suite. Lower level features separate spaces with 2 bedrooms, 2 bathrooms, wet bar, family room/game room with dramatic stone fireplace and luxurious sauna!",
+        "image": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/1040x620xc.jpg",
+        "name": "79274 Ray Brown Rd Arch Cape, Or 97102",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 3500000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Cascade Hasson Sotheby's International Realty"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1043NX",
+          "streetAddress": "Radarweg 29"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "300",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%282%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/160x120xc.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2824%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2825%29.jpg: HTTP 403 Forbidden",
+    "image https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2826%29.jpg: HTTP 403 Forbidden"
+  ]
+};

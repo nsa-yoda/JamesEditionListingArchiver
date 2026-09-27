@@ -1,0 +1,54 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New Mexico/Mesilla/Modern Luxury Estate In Mesilla/images",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "004-48ebd7c4.webp",
+      "href": "004-48ebd7c4.webp",
+      "size": 80306
+    },
+    {
+      "name": "009-bc7992da.webp",
+      "href": "009-bc7992da.webp",
+      "size": 126380
+    },
+    {
+      "name": "014-369ae312.webp",
+      "href": "014-369ae312.webp",
+      "size": 113340
+    },
+    {
+      "name": "019-162c05cb.webp",
+      "href": "019-162c05cb.webp",
+      "size": 127348
+    },
+    {
+      "name": "024-75c11ffe.webp",
+      "href": "024-75c11ffe.webp",
+      "size": 66878
+    },
+    {
+      "name": "030-57242b8e.webp",
+      "href": "030-57242b8e.webp",
+      "size": 1004
+    },
+    {
+      "name": "031-4055dfde.svg",
+      "href": "031-4055dfde.svg",
+      "size": 63657
+    },
+    {
+      "name": "032-272e34fe.svg",
+      "href": "032-272e34fe.svg",
+      "size": 63675
+    },
+    {
+      "name": "033-caf7633d.svg",
+      "href": "033-caf7633d.svg",
+      "size": 63710
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

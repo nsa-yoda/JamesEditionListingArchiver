@@ -1,0 +1,13 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Portugal/Algarve/Almancil",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "The Most Exclusive Private Estate In The Golden Triangle",
+      "href": "The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20Triangle/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};

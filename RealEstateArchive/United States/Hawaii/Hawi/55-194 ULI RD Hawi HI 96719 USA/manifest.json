@@ -1,0 +1,520 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/exceptional-oceanfront-estate-with-breathtaking-views-17343509",
+    "canonical_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/exceptional-oceanfront-estate-with-breathtaking-views-17343509",
+    "site": "jamesedition",
+    "listing_id": "17343509",
+    "listing_reference": "c4a61f14-74dc-4e3c-93bd-987318f73da4",
+    "first_listed": "Mar 5",
+    "last_updated": "June 19",
+    "retrieved_at": "2026-08-28T00:28:23.267032Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3126,
+      "sha256": "de5634accf44b45907a1d4edb24b2227d9e261085304de1caba72f92026ae1f2"
+    },
+    {
+      "path": "images/img-004603d3118d.webp",
+      "bytes": 453502,
+      "sha256": "5452d35cd4ac53cebb645b1dc4f2f79108536f0926fb8e1341862a74e4611462"
+    },
+    {
+      "path": "images/img-14ebf9704ffc.webp",
+      "bytes": 330464,
+      "sha256": "e801a9f9f41161d2c8d660b5a6f88cae72590a7c2819f3e51480c715505bdcbc"
+    },
+    {
+      "path": "images/img-1efe69c63ebd.webp",
+      "bytes": 485246,
+      "sha256": "843ac47f1784a69a54cc2dc4d78130ed442bd107f9efd2e603f0f8e2337dc808"
+    },
+    {
+      "path": "images/img-239ac8de828a.webp",
+      "bytes": 417948,
+      "sha256": "fb9c1d42311ff8c89055490d33253d214f4c14bf8cb274dbd9df0e3f02153e25"
+    },
+    {
+      "path": "images/img-353147cfe093.webp",
+      "bytes": 64746,
+      "sha256": "e6460b1a230bee297688befcde484f22159f0d4b4e17197db06c72752bc0632b"
+    },
+    {
+      "path": "images/img-37ba1217a905.webp",
+      "bytes": 329652,
+      "sha256": "2b1cf89d0cfbe2fed8c524e043b6d68c7c41117843cb561f1bb1c5dad32295c6"
+    },
+    {
+      "path": "images/img-3ff8c4f9c744.webp",
+      "bytes": 235366,
+      "sha256": "bdb82a062e8ab9a4189760398d87602653dadccece6a61e4e79d27b0933a7367"
+    },
+    {
+      "path": "images/img-4468172c6782.webp",
+      "bytes": 414004,
+      "sha256": "2c0e4b2d0b87140df88cc4c2dd881647acef5db507d7f2de682a052cf4a83566"
+    },
+    {
+      "path": "images/img-557472c6a95e.webp",
+      "bytes": 223556,
+      "sha256": "39cc5d9923dd2c90f903476f9376eabbe8328ecba431cab60d5bcaddf454c35d"
+    },
+    {
+      "path": "images/img-57242b8ef18d.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5ec9cbdbd81e.webp",
+      "bytes": 459422,
+      "sha256": "42d7134788160ca5e956648c8dadfacad76adceb838033ff181ee0f0cd4eced5"
+    },
+    {
+      "path": "images/img-6f17f997ea28.webp",
+      "bytes": 372910,
+      "sha256": "0b19b0f53363d6735f34a3ed677cb34e8cd390bd91067453689872c04371b029"
+    },
+    {
+      "path": "images/img-7837a77a6ac6.webp",
+      "bytes": 232600,
+      "sha256": "e893930ed8a2cfc7d6a9c2234866d01de572631dbd6b6f611aa68983437c3d3d"
+    },
+    {
+      "path": "images/img-7d8263f970f1.webp",
+      "bytes": 494972,
+      "sha256": "4e7d0df4bae123d11eff234d045b6dbd2390631f811d44adda92a0f841c3bcb8"
+    },
+    {
+      "path": "images/img-95c434d5d4a8.webp",
+      "bytes": 313118,
+      "sha256": "5446435f70dc1c9a7330cea7c2b328d4cc6731b84ce2a489c229435543ca5744"
+    },
+    {
+      "path": "images/img-a1c3023a3df5.webp",
+      "bytes": 338898,
+      "sha256": "a82971db01cc9971968b213c71fbc0c3b055603a0e1d92a4428e600b32594194"
+    },
+    {
+      "path": "images/img-a7947399a9bc.webp",
+      "bytes": 344352,
+      "sha256": "7dc36c57992ffe5b19a53c9101c32b6e71b2eceaf03e48a709479470397946a0"
+    },
+    {
+      "path": "images/img-a9c451489958.webp",
+      "bytes": 301994,
+      "sha256": "eea8619c8b1fe63e4a59a693e05723b69524d9226ea65f6920158aa71b17949b"
+    },
+    {
+      "path": "images/img-b86e1f26f30a.webp",
+      "bytes": 277548,
+      "sha256": "ec728801f459129ec57e428190c6ddb78400e2f52cfc47869785636122e198cb"
+    },
+    {
+      "path": "images/img-c6d6c440b4a5.webp",
+      "bytes": 283268,
+      "sha256": "0ecae32da8e68657f80895011d4a340b3a8a96c16d982f712ab4bd1ce5c6360c"
+    },
+    {
+      "path": "images/img-d2b51bd66e58.webp",
+      "bytes": 259570,
+      "sha256": "3b84d5d3b6506bf134da42dec2324025cf0d0d97fff994b3bd94dc37a0a539dc"
+    },
+    {
+      "path": "images/img-d6f5adc87d2b.webp",
+      "bytes": 296806,
+      "sha256": "4f3b4220ff0efc84ce66f6a5b7ba5032639cd793d9b0a5da1416b3068c7545d7"
+    },
+    {
+      "path": "images/img-db4ed08bf6b9.webp",
+      "bytes": 252736,
+      "sha256": "77c290ad37bd4c5fe0ddb9958190bd5dd81122c15d4aae200ffd8449658c1e14"
+    },
+    {
+      "path": "images/img-e2d648030056.webp",
+      "bytes": 285960,
+      "sha256": "0f8c01f5b43fc41025df78d0d1a9f7b3a5a80c9fe01b7741fd44a49fc75bd79c"
+    },
+    {
+      "path": "images/img-e93d4b998aea.webp",
+      "bytes": 224882,
+      "sha256": "cde16420b4a8da933192deecaeb5df549a321cb858807a84c9ea4aa4f7ea5938"
+    },
+    {
+      "path": "images/img-ee0f368db643.webp",
+      "bytes": 367884,
+      "sha256": "7c65bb369d7574aeecc158c382d3c4a14a75465250ffde3007ff16bf3aee955d"
+    },
+    {
+      "path": "images/img-f4709256e9cc.webp",
+      "bytes": 274274,
+      "sha256": "7359962dffdbdee28ac0ee32de012c2156abd027ac4412e970a3b500e091ed39"
+    },
+    {
+      "path": "images/img-f4e7a57ad57f.webp",
+      "bytes": 174820,
+      "sha256": "62fb21ad2546860961ca25390c532fe30108a660402772e00a002164c48682b3"
+    },
+    {
+      "path": "images/img-f7f26cfa4e73.webp",
+      "bytes": 298790,
+      "sha256": "6b50a9fd91b6dd9d2dc503ead5f3a789cf51bec91fa0175e75a16346a4d0aaa4"
+    },
+    {
+      "path": "images/img-fd1802f64055.webp",
+      "bytes": 750880,
+      "sha256": "4ea0c43223c86206497423de9bdccae5b9d2d67d4d14b996ce8ee4654783a17c"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 27853,
+      "sha256": "c4a91963e5e65b2d6684859c08c0451b2a99125b4287054ccae6ef6a32223ace"
+    },
+    {
+      "path": "source.html",
+      "bytes": 463314,
+      "sha256": "b7c2e563fd2ab9423fe053c9cee9eed04b7e50634d509ef799dd091f9f069d79"
+    },
+    {
+      "path": "source.url",
+      "bytes": 116,
+      "sha256": "24e75ee11573ac9ba272347b5e5562289d5eb8e43411fa679fc54c88e2ede918"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/06/15/56/52/15c85e7e-692e-4782-8a35-371f0b02ad5e/je/2200xxs.jpg",
+      "path": "images/img-5ec9cbdbd81e.webp",
+      "media_type": "image/webp",
+      "bytes": 459422,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/a5b47e9f-c9d6-4d7d-8f5e-547e35f45431/je/2200xxs.jpg",
+      "path": "images/img-4468172c6782.webp",
+      "media_type": "image/webp",
+      "bytes": 414004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/941d333f-175f-4fc9-a941-15e652f1e6b6/je/2200xxs.jpg",
+      "path": "images/img-7d8263f970f1.webp",
+      "media_type": "image/webp",
+      "bytes": 494972,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/37a038bd-4e71-4245-b51f-c4a0e3a747fe/je/2200xxs.jpg",
+      "path": "images/img-1efe69c63ebd.webp",
+      "media_type": "image/webp",
+      "bytes": 485246,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/d9d0ff9f-5333-4e90-8060-5d7e49016838/je/2200xxs.jpg",
+      "path": "images/img-6f17f997ea28.webp",
+      "media_type": "image/webp",
+      "bytes": 372910,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/00665af2-4058-4f3f-bbc1-20c48eac8af7/je/2000xxs.jpg",
+      "path": "images/img-f4e7a57ad57f.webp",
+      "media_type": "image/webp",
+      "bytes": 174820,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/126f9bd8-b53a-4db1-ae36-bb4ce5fcfe41/je/2000xxs.jpg",
+      "path": "images/img-c6d6c440b4a5.webp",
+      "media_type": "image/webp",
+      "bytes": 283268,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/796050a1-16f6-4834-8b26-a9e1890b513a/je/2000xxs.jpg",
+      "path": "images/img-7837a77a6ac6.webp",
+      "media_type": "image/webp",
+      "bytes": 232600,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/f55600dd-56ff-4bc7-95a4-aec7c9406ecb/je/2000xxs.jpg",
+      "path": "images/img-a1c3023a3df5.webp",
+      "media_type": "image/webp",
+      "bytes": 338898,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/09d81dbf-f9c1-4520-bcbc-a865026f3cc4/je/2000xxs.jpg",
+      "path": "images/img-a9c451489958.webp",
+      "media_type": "image/webp",
+      "bytes": 301994,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/1c9fd25b-5fbe-49ed-97b8-62b19c888139/je/2000xxs.jpg",
+      "path": "images/img-3ff8c4f9c744.webp",
+      "media_type": "image/webp",
+      "bytes": 235366,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/85b1e42c-ff28-4fea-ae9e-e8dd8e086567/je/2000xxs.jpg",
+      "path": "images/img-239ac8de828a.webp",
+      "media_type": "image/webp",
+      "bytes": 417948,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/f120cb51-cf74-4555-a7d8-163bd57a5327/je/2000xxs.jpg",
+      "path": "images/img-e2d648030056.webp",
+      "media_type": "image/webp",
+      "bytes": 285960,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/1824a6b5-209a-4113-9c6d-917e67693b9a/je/2000xxs.jpg",
+      "path": "images/img-db4ed08bf6b9.webp",
+      "media_type": "image/webp",
+      "bytes": 252736,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/a0749487-3cac-4c40-95f7-4b345cc85ba5/je/2000xxs.jpg",
+      "path": "images/img-353147cfe093.webp",
+      "media_type": "image/webp",
+      "bytes": 64746,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/a5c99902-14af-4be5-b570-b9af5559af4a/je/2000xxs.jpg",
+      "path": "images/img-d6f5adc87d2b.webp",
+      "media_type": "image/webp",
+      "bytes": 296806,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/3ddaa71f-8d6d-4694-ab8d-94bc357c7eed/je/2000xxs.jpg",
+      "path": "images/img-f4709256e9cc.webp",
+      "media_type": "image/webp",
+      "bytes": 274274,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/59e9d4d9-9654-4995-99fc-e12515969079/je/2000xxs.jpg",
+      "path": "images/img-d2b51bd66e58.webp",
+      "media_type": "image/webp",
+      "bytes": 259570,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/26f71f84-83ad-4237-9664-1d3b61f899ea/je/2000xxs.jpg",
+      "path": "images/img-95c434d5d4a8.webp",
+      "media_type": "image/webp",
+      "bytes": 313118,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/127551d7-7f65-4b2a-b52d-aeb9a1e45eeb/je/2000xxs.jpg",
+      "path": "images/img-b86e1f26f30a.webp",
+      "media_type": "image/webp",
+      "bytes": 277548,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/99010826-ad9e-460a-859c-0f9dc106f0ec/je/2000xxs.jpg",
+      "path": "images/img-a7947399a9bc.webp",
+      "media_type": "image/webp",
+      "bytes": 344352,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/35cfdd50-da20-4e3d-9ed7-eac34ef90ac8/je/2000xxs.jpg",
+      "path": "images/img-ee0f368db643.webp",
+      "media_type": "image/webp",
+      "bytes": 367884,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/8bdb8f59-29f9-4487-bf14-76df018a0d53/je/2000xxs.jpg",
+      "path": "images/img-f7f26cfa4e73.webp",
+      "media_type": "image/webp",
+      "bytes": 298790,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/48541b06-eea2-43a7-9206-6681c7eb46e8/je/2000xxs.jpg",
+      "path": "images/img-14ebf9704ffc.webp",
+      "media_type": "image/webp",
+      "bytes": 330464,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/7f2170ca-bc1f-47ca-b4ea-7559b13ed1ee/je/2000xxs.jpg",
+      "path": "images/img-557472c6a95e.webp",
+      "media_type": "image/webp",
+      "bytes": 223556,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/238f5703-569a-4e9a-a1df-ec7cd8794e2f/je/2000xxs.jpg",
+      "path": "images/img-e93d4b998aea.webp",
+      "media_type": "image/webp",
+      "bytes": 224882,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/9dbadc23-f549-419b-a0ea-b6e820b73a1a/je/2000xxs.jpg",
+      "path": "images/img-37ba1217a905.webp",
+      "media_type": "image/webp",
+      "bytes": 329652,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/65d4d0fe-8c0e-4768-818b-558457e7579c/je/2000xxs.jpg",
+      "path": "images/img-fd1802f64055.webp",
+      "media_type": "image/webp",
+      "bytes": 750880,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/08/f0f86dbf-f8c6-4006-a867-4c1a7f65e037/je/2000xxs.jpg",
+      "path": "images/img-004603d3118d.webp",
+      "media_type": "image/webp",
+      "bytes": 453502,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2813%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2814%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/hawi-hi-usa/Exceptional%20Oceanfront%20Estate%20With%20Breathtaking%20In%20Hawi,%20Hawaii,%20United%20States%20For%20Sale%20%2817343509%29_files/2200xxs%2815%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "summary": {
+    "images_new": 30,
+    "images_existing": 0,
+    "images_failed": 14,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

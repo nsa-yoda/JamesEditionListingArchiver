@@ -1,0 +1,658 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/newton-nj-usa/single-family-detached-newton-18450752",
+    "canonical_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/single-family-detached-newton-18450752",
+    "site": "jamesedition",
+    "listing_id": "18450752",
+    "listing_reference": "2137817524479652",
+    "first_listed": "Jul 17",
+    "last_updated": "August 31",
+    "retrieved_at": "2026-09-26T18:46:47.077607Z"
+  },
+  "location": {
+    "address": "936 Dove Island Road, Newton, NJ 07860, Andover Township, New Jersey, United States",
+    "street": "936 Dove Island Road",
+    "municipality": "Andover Township",
+    "region": "New Jersey",
+    "postal_code": "07860",
+    "country": "United States",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=41.066035,-74.814795",
+    "latitude": 41.066035,
+    "longitude": -74.814795
+  },
+  "property": {
+    "title": "Single Family Detached Newton",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 3295000,
+      "currency": "USD",
+      "display": "$3,295,000"
+    },
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "photo_count": 50,
+    "description": "You cannot see Dove Island from the road. You may have already seen it in print. 40+ private acres in Sussex County, published in Great Houses \u0026amp; Gardens of New Jersey, held by one family since 1968, on land first farmed by the Westbrook family, among the earliest pioneers of this frontier. The 1890 farmhouse grew into a roughly 10,000 sq ft residence, redesigned by a Sag Harbor firm known for Hamptons estates. Stone, hand forged iron \u0026amp; deep wood run through the rooms. The two story great room rises around a monumental stone fireplace under a library that wraps the full second floor, \u0026amp; the kitchen is anchored by a cast iron British Aga. Down a gallery hall of lit museum cases sits a 19th century walnut paneled boardroom, dismantled on Wall Street \u0026amp; rebuilt here piece by piece. The primary suite holds dual dressing rooms, a fireplace sitting room \u0026amp; a spiral iron staircase to a hidden solarium under the primary bedroom. Beyond, a heated gunite pool \u0026amp; stone patios, a full pool house, tennis court, dual greenhouses, pond w/ bass, carp, catfish \u0026amp; koi, plus a climate controlled iron barn built to hold cars \u0026amp; collections. Multiple buildings \u0026amp; full generator infrastructure keep it running. The original farmland is ready for pasture, orchard or whatever comes next, w/ miles of equestrian \u0026amp; hiking trails close by. Estates like this are not built anymore. Multiple lots included. Shown by appointment only. Not currently farm assessed but can be, for significant savings.",
+    "features": [
+      "Equestrian",
+      "Fireplace",
+      "Library",
+      "Pool",
+      "Tennis Court",
+      "Waterfront"
+    ]
+  },
+  "broker": {
+    "agent": "Sparta",
+    "agency": "Sparta",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/sparta-123854",
+    "agency_address": "25 Center Street, 07871, Sparta, United States"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/ed0cd1d1-644a-4fc7-ac71-3718839d3386/je/2200xxs.jpg",
+      "file": "img-4a07f5bb6003.webp",
+      "media_type": "image/webp",
+      "bytes": 106878,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/ea7837c5-92cd-476e-a8fb-34222023b93f/je/2200xxs.jpg",
+      "file": "img-ab06a9c1a84e.webp",
+      "media_type": "image/webp",
+      "bytes": 176266,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/7cbf21ff-3090-4df0-b797-ac97b1fdf723/je/2200xxs.jpg",
+      "file": "img-89401bbac9c6.webp",
+      "media_type": "image/webp",
+      "bytes": 121922,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/9290d4cf-4671-424a-82aa-d317cbef3de7/je/2200xxs.jpg",
+      "file": "img-2e723011f217.webp",
+      "media_type": "image/webp",
+      "bytes": 180396,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/269ce069-3099-462a-8f07-b7d5fd084b02/je/2200xxs.jpg",
+      "file": "img-d58e05d2b6dd.webp",
+      "media_type": "image/webp",
+      "bytes": 188334,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/request_plan_bg-33cc1401.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/street_view-b1ba588c.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/9958d099-9253-44eb-b8d8-b4aa1bc638a5/je/2000xxs.jpg",
+      "file": "img-f22dde1ddcc9.webp",
+      "media_type": "image/webp",
+      "bytes": 181614,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/7509296f-15d9-45aa-a64b-e0af03203f11/je/2000xxs.jpg",
+      "file": "img-47dfae6e405e.webp",
+      "media_type": "image/webp",
+      "bytes": 108528,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/c8735725-b2cf-4b8e-9ae6-34222bd3a7ba/je/2000xxs.jpg",
+      "file": "img-2b6c43c3c4cd.webp",
+      "media_type": "image/webp",
+      "bytes": 87170,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/d827dab8-2516-4f48-a5e3-694859aeadfd/je/2000xxs.jpg",
+      "file": "img-2123962aa38e.webp",
+      "media_type": "image/webp",
+      "bytes": 122250,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/30fe6e2d-8bf0-4e5a-b814-04b87f8b9f8f/je/2000xxs.jpg",
+      "file": "img-9216770b47c7.webp",
+      "media_type": "image/webp",
+      "bytes": 175930,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/a87adb14-a468-47d5-b9c3-c70e9953360d/je/2000xxs.jpg",
+      "file": "img-8bcd692fbd75.webp",
+      "media_type": "image/webp",
+      "bytes": 220728,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/150dcac7-8978-49cb-acf1-4806c4c3fda3/je/2000xxs.jpg",
+      "file": "img-0ea5da36edf5.webp",
+      "media_type": "image/webp",
+      "bytes": 235168,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/db1e84ae-94c4-492f-9af8-ffb5ec5bdb86/je/2000xxs.jpg",
+      "file": "img-64ee5ac0571f.webp",
+      "media_type": "image/webp",
+      "bytes": 189644,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/81cb5bee-91d8-4284-a6d6-8f0958a63e9e/je/2000xxs.jpg",
+      "file": "img-89179b3119aa.webp",
+      "media_type": "image/webp",
+      "bytes": 187556,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/78cf90c4-54f7-47c5-a129-00ca7e5a3cc6/je/2000xxs.jpg",
+      "file": "img-edfa2f5aa1ba.webp",
+      "media_type": "image/webp",
+      "bytes": 132726,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/15e04c99-fdfc-4284-9a5f-338ae9cf7ab0/je/2000xxs.jpg",
+      "file": "img-3ff4fb593095.webp",
+      "media_type": "image/webp",
+      "bytes": 100488,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/41772e9c-fef7-4b98-9b0d-be0e07d0eea7/je/2000xxs.jpg",
+      "file": "img-940aa2180bc7.webp",
+      "media_type": "image/webp",
+      "bytes": 128364,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/6bc365f4-f405-4b49-b69c-b4ce2ac7e8a8/je/2000xxs.jpg",
+      "file": "img-e06e7c86d6f8.webp",
+      "media_type": "image/webp",
+      "bytes": 177014,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/6bf313d4-766a-4bbf-9ef5-5e920e89adb5/je/2000xxs.jpg",
+      "file": "img-d4dcadcb41d7.webp",
+      "media_type": "image/webp",
+      "bytes": 109804,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/d0769988-b878-4d9e-b59d-b6d1b8cc54e6/je/2000xxs.jpg",
+      "file": "img-ae6c6f85ea1e.webp",
+      "media_type": "image/webp",
+      "bytes": 177632,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/741d3ca0-11f3-4472-9a7e-c33c04573fee/je/2000xxs.jpg",
+      "file": "img-e05315b2ef4e.webp",
+      "media_type": "image/webp",
+      "bytes": 228500,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/e51d209e-57ca-4f8d-aff0-d7318a349330/je/2000xxs.jpg",
+      "file": "img-1b2f1e0a8d33.webp",
+      "media_type": "image/webp",
+      "bytes": 79294,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/7ab93777-79a3-4937-80ad-895117206b01/je/2000xxs.jpg",
+      "file": "img-f0830f8d80e5.webp",
+      "media_type": "image/webp",
+      "bytes": 96602,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/c3fde820-f3b0-4827-a839-b95c9d5b9ee6/je/2000xxs.jpg",
+      "file": "img-4a6d16dc0280.webp",
+      "media_type": "image/webp",
+      "bytes": 100978,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/47c57fcf-9b94-4f2a-bc27-92605cd4acc0/je/2000xxs.jpg",
+      "file": "img-48e4a859d1c5.webp",
+      "media_type": "image/webp",
+      "bytes": 87442,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/973dfbe0-fbbe-49ee-b149-ba98684d4afe/je/2000xxs.jpg",
+      "file": "img-b6d31ad0feba.webp",
+      "media_type": "image/webp",
+      "bytes": 44508,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/6a0cfd75-59dc-4622-932d-a797fa057b54/je/2000xxs.jpg",
+      "file": "img-ec13828c3066.webp",
+      "media_type": "image/webp",
+      "bytes": 69332,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/d1284956-6daa-4729-94be-c22339aea48e/je/2000xxs.jpg",
+      "file": "img-d34e2a9d2dfa.webp",
+      "media_type": "image/webp",
+      "bytes": 85714,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/0258f0f8-336f-4433-b984-66b5cf3f257d/je/2000xxs.jpg",
+      "file": "img-a16adc7d9688.webp",
+      "media_type": "image/webp",
+      "bytes": 69570,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/23c7a186-dd5e-4ec4-897d-97dadc1b72e4/je/2000xxs.jpg",
+      "file": "img-22694ae9034a.webp",
+      "media_type": "image/webp",
+      "bytes": 71958,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/4a709178-e9d2-42d4-8574-43a010f88051/je/2000xxs.jpg",
+      "file": "img-dc4cfb2d9e14.webp",
+      "media_type": "image/webp",
+      "bytes": 81944,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/5a69f555-a462-492d-ab90-ad168c35e854/je/2000xxs.jpg",
+      "file": "img-d6cedee7a23b.webp",
+      "media_type": "image/webp",
+      "bytes": 95452,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/f5ca3f39-d1e0-4037-af4a-256d66738643/je/2000xxs.jpg",
+      "file": "img-f715ba27d20b.webp",
+      "media_type": "image/webp",
+      "bytes": 87918,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/cfb8b8cc-7e5d-48bb-94f8-4fbe0df2f8ec/je/2000xxs.jpg",
+      "file": "img-689a66a44924.webp",
+      "media_type": "image/webp",
+      "bytes": 159074,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/bd55f231-8701-47c0-95f7-de8ce9ce9493/je/2000xxs.jpg",
+      "file": "img-4f8737383e14.webp",
+      "media_type": "image/webp",
+      "bytes": 62872,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/b964c565-8e32-4b2c-8dd4-1b0e1eaa5510/je/2000xxs.jpg",
+      "file": "img-b43802ea9cdc.webp",
+      "media_type": "image/webp",
+      "bytes": 190736,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/5b582690-3f16-4986-a54f-66f87a4569fb/je/2000xxs.jpg",
+      "file": "img-b0d1d1161644.webp",
+      "media_type": "image/webp",
+      "bytes": 186062,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/b77a22bd-365b-4531-ac44-00d54aa0ea4c/je/2000xxs.jpg",
+      "file": "img-8f05212e013e.webp",
+      "media_type": "image/webp",
+      "bytes": 115618,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/61455e7a-2e0e-4877-b4d3-2717ed408c24/je/2000xxs.jpg",
+      "file": "img-8abe3e45303b.webp",
+      "media_type": "image/webp",
+      "bytes": 58794,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/2305db49-3e49-4189-95d5-4142e012ae7e/je/2000xxs.jpg",
+      "file": "img-5d901294d74e.webp",
+      "media_type": "image/webp",
+      "bytes": 86060,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/97ddf6e2-0bd4-4386-81ec-e58f9ea333f1/je/2000xxs.jpg",
+      "file": "img-e2db10ef1d9e.webp",
+      "media_type": "image/webp",
+      "bytes": 73322,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/1a2f0786-4b74-4403-abeb-6cdc891ec11a/je/2000xxs.jpg",
+      "file": "img-e1056a9f2d0a.webp",
+      "media_type": "image/webp",
+      "bytes": 47446,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/117f716b-3587-442e-b7e7-52b0e434bf60/je/2000xxs.jpg",
+      "file": "img-3dc3a8a8e42a.webp",
+      "media_type": "image/webp",
+      "bytes": 155564,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/e78f0dc0-57fa-4884-bd8a-adcd144aa499/je/2000xxs.jpg",
+      "file": "img-b1ced0a640ec.webp",
+      "media_type": "image/webp",
+      "bytes": 205238,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/aaf9d5ba-214c-4223-904f-954d08d8976a/je/2000xxs.jpg",
+      "file": "img-284c41cf36d2.webp",
+      "media_type": "image/webp",
+      "bytes": 141624,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/c5c09072-0868-487e-9e5b-e94e9c778a22/je/2000xxs.jpg",
+      "file": "img-ed294f3fc128.webp",
+      "media_type": "image/webp",
+      "bytes": 104320,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/51d58eab-e16e-47f5-a610-64d2dce485c8/je/2000xxs.jpg",
+      "file": "img-91e336b74805.webp",
+      "media_type": "image/webp",
+      "bytes": 189074,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/28e3d526-f4f5-4653-ba12-b4441859bf70/je/2000xxs.jpg",
+      "file": "img-af65408c069e.webp",
+      "media_type": "image/webp",
+      "bytes": 189758,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/95a2fb22-f49e-4e90-bcf9-95bd638ad4f3/je/2000xxs.jpg",
+      "file": "img-737b5726abf1.webp",
+      "media_type": "image/webp",
+      "bytes": 182196,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/d29460a5-3b11-43f5-904a-988822a59e8c/je/2000xxs.jpg",
+      "file": "img-fe842b7d8ff6.webp",
+      "media_type": "image/webp",
+      "bytes": 164070,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/2200xxs%2849%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-d471af4d.svg",
+      "file": "img-dc90c501bd51.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-d7afb6cf.svg",
+      "file": "img-194c24efc5ac.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-74c4c5d9.svg",
+      "file": "img-08ae040ecb3d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "new"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/united-states",
+              "name": "United States"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/nj-united-states",
+              "name": "New Jersey"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/andover-township-nj-usa",
+              "name": "Andover Township"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/newton-nj-usa/single-family-detached-newton-18450752",
+              "name": "Single Family Detached Newton"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "You cannot see Dove Island from the road. You may have already seen it in print. 40+ private acres in Sussex County, published in Great Houses \u0026amp; Gardens of New Jersey, held by one family since 1968, on land first farmed by the Westbrook family, among the earliest pioneers of this frontier. The 1890 farmhouse grew into a roughly 10,000 sq ft residence, redesigned by a Sag Harbor firm known for Hamptons estates. Stone, hand forged iron \u0026amp; deep wood run through the rooms. The two story great room rises around a monumental stone fireplace under a library that wraps the full second floor, \u0026amp; the kitchen is anchored by a cast iron British Aga. Down a gallery hall of lit museum cases sits a 19th century walnut paneled boardroom, dismantled on Wall Street \u0026amp; rebuilt here piece by piece. The primary suite holds dual dressing rooms, a fireplace sitting room \u0026amp; a spiral iron staircase to a hidden solarium under the primary bedroom. Beyond, a heated gunite pool \u0026amp; stone patios, a full pool house, tennis court, dual greenhouses, pond w/ bass, carp, catfish \u0026amp; koi, plus a climate controlled iron barn built to hold cars \u0026amp; collections. Multiple buildings \u0026amp; full generator infrastructure keep it running. The original farmland is ready for pasture, orchard or whatever comes next, w/ miles of equestrian \u0026amp; hiking trails close by. Estates like this are not built anymore. Multiple lots included. Shown by appointment only. Not currently farm assessed but can be, for significant savings.",
+        "image": "https://img.jamesedition.com/listing_images/2026/07/16/18/07/52/ed0cd1d1-644a-4fc7-ac71-3718839d3386/je/1040x620xc.jpg",
+        "name": "Single Family Detached Newton",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 3295000,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "Sparta"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/newton-nj-usa/single-family-detached-newton-18450752"
+      },
+      {
+        "@context": "http://schema.org",
+        "@id": "https://www.jamesedition.com/#organization",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/request_plan_bg-33cc1401.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/street_view-b1ba588c.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/2200xxs%2849%29.jpg: HTTP 429 Too Many Requests"
+  ]
+};

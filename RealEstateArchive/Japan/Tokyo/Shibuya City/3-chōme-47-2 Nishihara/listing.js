@@ -1,0 +1,548 @@
+window.listingArchiveListing = {
+  "schema_version": 2,
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/shibuya-japan/nishihara-estate-a-private-compound-in-tokyo-s-most-discreet-residential-enclave-17627013",
+    "canonical_url": "https://www.jamesedition.com/real_estate/shibuya-japan/nishihara-estate-a-private-compound-in-tokyo-s-most-discreet-residential-enclave-17627013",
+    "site": "jamesedition",
+    "listing_id": "17627013",
+    "first_listed": "Apr 9",
+    "last_updated": "June 29",
+    "retrieved_at": "2026-08-28T00:29:47.236887Z"
+  },
+  "location": {
+    "address": "3-chōme-47-2 Nishihara, Shibuya, Tokyo 151-0066, Shibuya City, Japan",
+    "street": "3-chōme-47-2 Nishihara",
+    "municipality": "Shibuya City",
+    "region": "Tokyo",
+    "country": "Japan",
+    "map_url": "https://www.google.com/maps/search/?api=1\u0026query=35.6714126,139.6771589",
+    "latitude": 35.6714126,
+    "longitude": 139.6771589
+  },
+  "property": {
+    "title": "Nishihara Estate – A Private Compound In Tokyo’s Most Discreet Residential Enclave",
+    "type": "House",
+    "availability": "InStock",
+    "price": {
+      "amount": 11375785.23,
+      "currency": "USD",
+      "display": "$11,375,785"
+    },
+    "price_per_area": {
+      "amount": 1526,
+      "currency": "USD",
+      "per_unit": "sqft",
+      "display": "$1,526"
+    },
+    "bedrooms": 4,
+    "bathrooms": 9,
+    "floors": 3,
+    "interior_area": {
+      "value": 7452,
+      "unit": "sqft",
+      "display": "7,452 Sqft"
+    },
+    "lot_area": {
+      "value": 4281,
+      "unit": "sqft",
+      "display": "4,281 Sqft lot"
+    },
+    "year_built": 2009,
+    "photo_count": 21,
+    "video_url": "https://player.vimeo.com/video/1181554582?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
+    "description": "There are addresses in Tokyo that are chosen precisely because they are not obvious. Nishihara is one of them. A low-rise residential enclave within Shibuya-ku, long favoured by diplomats, established families, and senior executives who understand that true discretion is not about security systems — it is about choosing a street that the city has simply never learned to notice. This estate occupies that world entirely. At nearly 700 sqm of interior space across multiple levels of reinforced concrete — bar lounge, private gym, theater room, billiard room, sauna, rooftop garden, garage for two large vehicles, elevator across all floors — this is not a residence in any conventional sense. It is a private compound: a self-contained world within one of Tokyo’s most protected neighbourhoods, where the concept of leaving is entirely optional. The main living and dining area spans approximately 90 sqm — a scale designed for grand entertaining that adapts with equal ease to quiet daily life. The multi-level layout creates clear separation between public entertaining zones, private family quarters, and service areas. The rooftop garden sits above the surrounding neighbourhood — open sky and greenery, entirely your own, with nothing above it and no one around it who was not invited. Yoyogi-Uehara Station is five minutes on foot — Odakyu Line and Tokyo Metro Chiyoda Line, connecting to Omotesando in 10 minutes and Otemachi in 20. First-Class Residential Zoning protects the surrounding area from high-rise development, preserving light, privacy, and the neighbourhood’s long-term character in a way that no agreement or gentleman’s understanding can match. The law says so. It will continue to say so. Freehold land of nearly 400 sqm within Shibuya-ku’s most protected residential zone. Fully renovated. Move-in ready with curated furnishings throughout, while remaining entirely adaptable to the owner’s personal vision. ¥1.85 billion. The city exists around you. It simply never intrudes.",
+    "features": [
+      "Air Conditioning",
+      "Balcony",
+      "Bar",
+      "Basement",
+      "Cinema",
+      "City View",
+      "Elevator",
+      "Fitness Center / Gym",
+      "Game Room",
+      "Garage",
+      "Garden",
+      "Kitchen island",
+      "Library",
+      "Modern",
+      "Office",
+      "Outdoor Living Space",
+      "Panoramic / Scenic View",
+      "Parking",
+      "Privacy",
+      "Renovated",
+      "Sauna",
+      "Stone Countertops",
+      "Terrace",
+      "Walk In Closet",
+      "Wine Cellar"
+    ]
+  },
+  "broker": {
+    "agent": "Abhinav Sharma",
+    "agent_profile_url": "https://www.jamesedition.com/agents/abhinav-sharma-2282106",
+    "agent_license": "# License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443 # License for Real Estate Brokerage granted by the Governor of Tokyo（1）No. 109443",
+    "agency": "TonTon Forbes GLOBAL PROPERTIES",
+    "agency_profile_url": "https://www.jamesedition.com/offices/real_estate/tonton-forbes-global-properties-602649",
+    "agency_address": "〒153-0043 3F, KDX Nakameguro Building, 1-5-4 Higashiyama, Meguro Ward, Tokyo, 153-0043, Meguro City, Japan"
+  },
+  "images": [
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/ce836d5e-67dd-430f-9849-c4391d9ace7e/je/2200xxs.jpg",
+      "file": "img-9b1dff58bf61.webp",
+      "media_type": "image/webp",
+      "bytes": 525158,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/31/a0324ada-8d6d-49db-a10f-fba241afeedf/je/2200xxs.jpg",
+      "file": "img-080ca9bdd7a4.webp",
+      "media_type": "image/webp",
+      "bytes": 203400,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/6f13894c-ada6-4d6f-82a4-bfb97ee43134/je/2200xxs.jpg",
+      "file": "img-2ec7d2bdc38d.webp",
+      "media_type": "image/webp",
+      "bytes": 492332,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/66396d5e-ac3e-4e3e-b866-36c728dd54e3/je/2200xxs.jpg",
+      "file": "img-4b2cbacdaa67.webp",
+      "media_type": "image/webp",
+      "bytes": 207896,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/5d621f6a-466d-453a-a1f2-83b44c68aafe/je/2200xxs.jpg",
+      "file": "img-8558ea6b3837.webp",
+      "media_type": "image/webp",
+      "bytes": 166308,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/160x120xc.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%281%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%282%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%283%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%284%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%285%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/31/bbb4a67b-b63f-4b3a-8c9d-1038fee211c7/je/2000xxs.jpg",
+      "file": "img-0062efd9c1ff.webp",
+      "media_type": "image/webp",
+      "bytes": 65056,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/10/50/44ac97d4-1cb9-41b7-84fd-56a0abfe4be6/je/2000xxs.jpg",
+      "file": "img-b7488cbddea9.webp",
+      "media_type": "image/webp",
+      "bytes": 180894,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/10/55/e5971d53-553a-45f4-9153-169afeef0720/je/2000xxs.jpg",
+      "file": "img-ec42dee215c5.webp",
+      "media_type": "image/webp",
+      "bytes": 496890,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/ba83de90-1a8a-4de6-a9dd-232fe1076f77/je/2000xxs.jpg",
+      "file": "img-0cd889fc7f35.webp",
+      "media_type": "image/webp",
+      "bytes": 269514,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/286f6416-f8f4-4473-b155-f88a2c3a85bc/je/2000xxs.jpg",
+      "file": "img-92c3204c9518.webp",
+      "media_type": "image/webp",
+      "bytes": 178746,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/33/8aa8080b-8327-42c4-9c61-a8a8b053ed1f/je/2000xxs.jpg",
+      "file": "img-07aae17dba80.webp",
+      "media_type": "image/webp",
+      "bytes": 119152,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/33/b29d9815-6128-4057-8630-909046c7b902/je/2000xxs.jpg",
+      "file": "img-4bbdc2d34982.webp",
+      "media_type": "image/webp",
+      "bytes": 167532,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/33/fb21cc37-55bc-4ef5-bf9d-49227d3a7633/je/2000xxs.jpg",
+      "file": "img-0b85fe979ac8.webp",
+      "media_type": "image/webp",
+      "bytes": 74660,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/a1439e26-3eb4-4cb3-8b1f-9caa4dd6c6b7/je/2000xxs.jpg",
+      "file": "img-11c16f086d96.webp",
+      "media_type": "image/webp",
+      "bytes": 87896,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/924d7353-28ad-4a79-9de6-29d71167b47e/je/2000xxs.jpg",
+      "file": "img-efede17ab301.webp",
+      "media_type": "image/webp",
+      "bytes": 119888,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/76a9b424-53d0-41f9-85ec-00e097730cc1/je/2000xxs.jpg",
+      "file": "img-759be70e7bf5.webp",
+      "media_type": "image/webp",
+      "bytes": 168832,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/0a041574-720d-4e23-ab33-7955fb8cab8e/je/2000xxs.jpg",
+      "file": "img-d53779ab5c30.webp",
+      "media_type": "image/webp",
+      "bytes": 167516,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/10/55/388b1116-3a30-4d7d-975b-16f43b1b50dd/je/2000xxs.jpg",
+      "file": "img-fc61b4be34c4.webp",
+      "media_type": "image/webp",
+      "bytes": 111008,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/30/d7200d41-eb8b-427f-8e07-81ee27e5046f/je/2000xxs.jpg",
+      "file": "img-46695da4e5b2.webp",
+      "media_type": "image/webp",
+      "bytes": 129190,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/11/34/31/9b994b00-9cc0-44c9-8e2e-25e62f833ad9/je/2000xxs.jpg",
+      "file": "img-920adc34a5ee.webp",
+      "media_type": "image/webp",
+      "bytes": 129572,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/af812ccb-3b01-4cab-9488-50be311696ed/je/2000xxs.jpg",
+      "file": "img-dc0edb053afa.webp",
+      "media_type": "image/webp",
+      "bytes": 166308,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2200xxs.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2200xxs%286%29.jpg",
+      "status": "failed",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "file": "img-57242b8ef18d.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "new"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "status": "failed",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
+      "file": "img-20ade8335c8f.webp",
+      "media_type": "image/webp",
+      "bytes": 1042,
+      "status": "new"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://player.vimeo.com/video/1181554582?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "status": "failed",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/ce836d5e-67dd-430f-9849-c4391d9ace7e/je/1040x620xc.jpg",
+      "poster_file": "img-93f04d68ce85.webp",
+      "error": "response is not a recognized video"
+    }
+  ],
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/",
+              "name": "JamesEdition"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate",
+              "name": "Real Estate"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/japan",
+              "name": "Japan"
+            },
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/tokyo-japan",
+              "name": "Tokyo"
+            },
+            "position": 4
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/47-japan",
+              "name": "47"
+            },
+            "position": 5
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jamesedition.com/real_estate/shibuya-japan/nishihara-estate-a-private-compound-in-tokyo-s-most-discreet-residential-enclave-17627013",
+              "name": "Nishihara Estate – A Private Compound in Tokyo’s Most Discreet Residential Enclave"
+            },
+            "position": 6
+          }
+        ],
+        "name": "JamesEdition"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "RealEstate",
+        "description": "There are addresses in Tokyo that are chosen precisely because they are not obvious. Nishihara is one of them. A low-rise residential enclave within Shibuya-ku, long favoured by diplomats, established families, and senior executives who understand that true discretion is not about security systems — it is about choosing a street that the city has simply never learned to notice. This estate occupies that world entirely. At nearly 700 sqm of interior space across multiple levels of reinforced concrete — bar lounge, private gym, theater room, billiard room, sauna, rooftop garden, garage for two large vehicles, elevator across all floors — this is not a residence in any conventional sense. It is a private compound: a self-contained world within one of Tokyo's most protected neighbourhoods, where the concept of leaving is entirely optional. The main living and dining area spans approximately 90 sqm — a scale designed for grand entertaining that adapts with equal ease to quiet daily life. The multi-level layout creates clear separation between public entertaining zones, private family quarters, and service areas. The rooftop garden sits above the surrounding neighbourhood — open sky and greenery, entirely your own, with nothing above it and no one around it who was not invited. Yoyogi-Uehara Station is five minutes on foot — Odakyu Line and Tokyo Metro Chiyoda Line, connecting to Omotesando in 10 minutes and Otemachi in 20. First-Class Residential Zoning protects the surrounding area from high-rise development, preserving light, privacy, and the neighbourhood's long-term character in a way that no agreement or gentleman's understanding can match. The law says so. It will continue to say so. Freehold land of nearly 400 sqm within Shibuya-ku's most protected residential zone. Fully renovated. Move-in ready with curated furnishings throughout, while remaining entirely adaptable to the owner's personal vision. ¥1.85 billion. The city exists around you. It simply never intrudes.",
+        "image": "https://img.jamesedition.com/listing_images/2026/06/26/15/11/19/ce836d5e-67dd-430f-9849-c4391d9ace7e/je/1040x620xc.jpg",
+        "name": "Nishihara Estate – A Private Compound in Tokyo’s Most Discreet Residential Enclave",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 11375785.23,
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "TonTon Forbes GLOBAL PROPERTIES"
+          }
+        },
+        "url": "https://www.jamesedition.com/real_estate/shibuya-japan/nishihara-estate-a-private-compound-in-tokyo-s-most-discreet-residential-enclave-17627013"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "The Netherlands",
+          "addressLocality": "Amsterdam",
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
+        },
+        "alternateName": [
+          "JE",
+          "James Edition"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "areaServed": "Worldwide",
+          "contactType": "Customer Service",
+          "telephone": "+31 85 888 5346"
+        },
+        "email": "support@jamesedition.com",
+        "foundingDate": "2008",
+        "foundingLocation": "Stockholm, Sweden",
+        "logo": "https://assets.jamesedition.com/android-chrome-512x512.png",
+        "name": "JamesEdition",
+        "sameAs": [
+          "https://www.facebook.com/thejamesedition",
+          "https://twitter.com/JamesEdition",
+          "https://www.instagram.com/jameseditioncom/",
+          "https://pinterest.com/jamesedition/"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://apps.apple.com/app/jamesedition-luxury-homes/id6737836918",
+        "identifier": "ios:6737836918",
+        "installUrl": "ios-app://6737836918",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      }
+    ]
+  },
+  "warnings": [
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%281%29.jpg: HTTP 404 Not Found",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2000xxs%285%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2200xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/shibuya-japan/Nishihara%20Estate%20%E2%80%93%20A%20Private%20Compound%20In%20Tokyo%E2%80%99s%20In%20Shibuya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627013%29_files/2200xxs%286%29.jpg: HTTP 429 Too Many Requests",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "video https://player.vimeo.com/video/1181554582?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: response is not a recognized video"
+  ]
+};

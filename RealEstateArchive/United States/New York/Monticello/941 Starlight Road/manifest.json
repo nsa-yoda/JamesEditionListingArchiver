@@ -1,0 +1,548 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "source": {
+    "url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380",
+    "canonical_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380",
+    "site": "jamesedition",
+    "listing_id": "16980380",
+    "listing_reference": "H6311954",
+    "first_listed": "Jan 22",
+    "last_updated": "March 30",
+    "retrieved_at": "2026-06-18T07:08:58.957651Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1883,
+      "sha256": "33a309179d33ecdb7d4cd365e69b5cfeb0588e17e5a1425c181373cb4dba7022"
+    },
+    {
+      "path": "images/004-b1a6d3dc.webp",
+      "bytes": 663784,
+      "sha256": "f4ab7b2c36031b2f0a15068a4b79a424bde71c349e82deb2e86e2dc7c9683c58"
+    },
+    {
+      "path": "images/009-ce328129.webp",
+      "bytes": 219850,
+      "sha256": "c908d7f618562c6704361942cdf5fd4029091b147377068f73c283483222b3c5"
+    },
+    {
+      "path": "images/014-c0bcdaf3.webp",
+      "bytes": 223108,
+      "sha256": "4d86ac7f1e0e221f39d3e02f0d95d7eb8d1a0d631dccbb79a62ea71b7a23e3bb"
+    },
+    {
+      "path": "images/019-b48e8330.webp",
+      "bytes": 121186,
+      "sha256": "e0b0830e7d1e718576923ec6d77754e6b2f836fbd5ec5addeccb6fb0a763eaca"
+    },
+    {
+      "path": "images/024-fdcd6995.webp",
+      "bytes": 126202,
+      "sha256": "eedf20e68ff5773a05184c1692070003afc86d72c4550ec5a18ce286439615f2"
+    },
+    {
+      "path": "images/035-49982f5e.webp",
+      "bytes": 155614,
+      "sha256": "bc3a0cec5511540efc179b6fcd28a6fb57236eb6aca1d665d5a78a0296675b4a"
+    },
+    {
+      "path": "images/036-2fad0b83.webp",
+      "bytes": 125984,
+      "sha256": "24e772a080acf431f7b138e967364a727f2e2048e4f7b7075722cd24ecdb3016"
+    },
+    {
+      "path": "images/037-76dd103c.webp",
+      "bytes": 93144,
+      "sha256": "9f6f1544f65156768286ad9c40caf174481af4a7c07559ec0956da4ab6af9f17"
+    },
+    {
+      "path": "images/038-b8864b4d.webp",
+      "bytes": 81414,
+      "sha256": "91b6de68cbbd3d36a730f8c90f36bfd7d2f2f619a57662276f2e3e4144f56cf0"
+    },
+    {
+      "path": "images/039-031ad4d1.webp",
+      "bytes": 100620,
+      "sha256": "3c1ee1a625f40ed649dbbe30e6680ebfb3a360038c93f70a4819701a26f42888"
+    },
+    {
+      "path": "images/040-b4a97568.webp",
+      "bytes": 89944,
+      "sha256": "3c250ef67970da2a93ee51d554aef5420a9160ca129082e483c80625a3c09b08"
+    },
+    {
+      "path": "images/041-0a091b70.webp",
+      "bytes": 124004,
+      "sha256": "8bad4b5f88ea3efa450cdcd8e0f7b556e5c69818c941553799c35e014f9d5207"
+    },
+    {
+      "path": "images/042-feb2f561.webp",
+      "bytes": 113138,
+      "sha256": "04876be4a8fdb4cb3680fa7aefdc445f828d3fca7d02253849abb067370bfe89"
+    },
+    {
+      "path": "images/043-96923e7f.webp",
+      "bytes": 88092,
+      "sha256": "02d7bfee0a75ddbea865d31a7acc224856f3ac470e6f974e1aca224a87158e5d"
+    },
+    {
+      "path": "images/044-edd5a023.webp",
+      "bytes": 105898,
+      "sha256": "dd1367d6c0fd539edb8a3ccaf1c2859bc6f514e485766686065c111b61d594be"
+    },
+    {
+      "path": "images/045-a79c14e8.webp",
+      "bytes": 125822,
+      "sha256": "7e04ee10873c7200f436d0b9592d816749f0bd6ab831e187f1d4f5d2f86858f9"
+    },
+    {
+      "path": "images/046-ed2cb293.webp",
+      "bytes": 72364,
+      "sha256": "081f3dade62f0408c297b8c9cf139c66fbf839628b6a9ff9c04834300dc27bfa"
+    },
+    {
+      "path": "images/047-8b63415f.webp",
+      "bytes": 83344,
+      "sha256": "138527e69315f1552f838c9053e4f998ddf08154dc83041fb65d4490fe2c8651"
+    },
+    {
+      "path": "images/048-0c1bc1d4.webp",
+      "bytes": 105432,
+      "sha256": "b2f2d5028c7c455aa80a1ae8fdbb9c3b366189166a1325019d7a7df54fd2b28c"
+    },
+    {
+      "path": "images/049-333ef2ee.webp",
+      "bytes": 116602,
+      "sha256": "3614ae36de2a3a5bd5a19623bb5a64ab99f82bc0890b25c07213990d8908552f"
+    },
+    {
+      "path": "images/050-e6d4ee82.webp",
+      "bytes": 87818,
+      "sha256": "0d885d899cd59d8ef361224c7329f73d85c1d8db07ba40afab9adbf6273f136a"
+    },
+    {
+      "path": "images/051-11f75c61.webp",
+      "bytes": 116780,
+      "sha256": "2a57837a696b0c0a867cd99a4ae02afecf0169dce645a55d34a077f46c3bcc21"
+    },
+    {
+      "path": "images/052-41de31e6.webp",
+      "bytes": 95232,
+      "sha256": "32c7f0f6c817149e3430f5ae315b370b47da89899d6ea712744754a59d382160"
+    },
+    {
+      "path": "images/053-c64ad86f.webp",
+      "bytes": 94562,
+      "sha256": "0ef73c30e37372faa16542ba83b1d88c7496abe620c7903ec9aa244d4081fcdb"
+    },
+    {
+      "path": "images/054-663f8b16.webp",
+      "bytes": 68192,
+      "sha256": "2086e8f9b4603f6ae4f2603362b278a022f1aaab0c66116bdd605a6a27c4dd18"
+    },
+    {
+      "path": "images/055-04349921.webp",
+      "bytes": 62432,
+      "sha256": "bbf9f76363f30a85ac87824e37732ec09e3760e41f216217d5a1a91d341b304c"
+    },
+    {
+      "path": "images/056-b25c302d.webp",
+      "bytes": 82136,
+      "sha256": "806e1216c0144cba7ef77519d52be8191e3479af2da7b60f671253750119e6fc"
+    },
+    {
+      "path": "images/057-e5a9cee6.webp",
+      "bytes": 107820,
+      "sha256": "16c6dac8ac37eff6ab152b99a744bfbcf7b9ad6161807faeeb7abe423eb64c61"
+    },
+    {
+      "path": "images/058-c31c977a.webp",
+      "bytes": 220342,
+      "sha256": "3a3c88438c4aeae8abeef51c555a47aa30ea4f228e567741d32f72d88d0004d4"
+    },
+    {
+      "path": "images/059-281452ad.webp",
+      "bytes": 121630,
+      "sha256": "f126ab9049e5ca12574d219e73e5decc4602e67269bfd25311103deb07497804"
+    },
+    {
+      "path": "images/064-57242b8e.webp",
+      "bytes": 1004,
+      "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/065-4055dfde.svg",
+      "bytes": 63657,
+      "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/066-272e34fe.svg",
+      "bytes": 63675,
+      "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/067-caf7633d.svg",
+      "bytes": 63710,
+      "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "listing.json",
+      "bytes": 24150,
+      "sha256": "0aa034c052be8194040e8b045fed353c1a274fea11fca0da243cc59a54d31287"
+    },
+    {
+      "path": "source.html",
+      "bytes": 467260,
+      "sha256": "fbac72ba4cd21f09de495d41c0008e0de52620674ea65f288a55edf6cf6e16a2"
+    },
+    {
+      "path": "source.url",
+      "bytes": 106,
+      "sha256": "675477d855775299d2044ff9ad98f1fc35b941d3833775d45f3a43f26bd303d8"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/2200xxs.jpg",
+      "path": "images/004-b1a6d3dc.webp",
+      "media_type": "image/webp",
+      "bytes": 663784,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/2200xxs.jpg",
+      "path": "images/009-ce328129.webp",
+      "media_type": "image/webp",
+      "bytes": 219850,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%281%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/2200xxs.jpg",
+      "path": "images/014-c0bcdaf3.webp",
+      "media_type": "image/webp",
+      "bytes": 223108,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%282%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/2200xxs.jpg",
+      "path": "images/019-b48e8330.webp",
+      "media_type": "image/webp",
+      "bytes": 121186,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%283%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/2200xxs.jpg",
+      "path": "images/024-fdcd6995.webp",
+      "media_type": "image/webp",
+      "bytes": 126202,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%284%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/M00000489.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/160x120xc.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/cb04b0cb-fce4-4bac-b527-54a58f07071f/je/2000xxs.jpg",
+      "path": "images/035-49982f5e.webp",
+      "media_type": "image/webp",
+      "bytes": 155614,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/edb58e37-b6c5-48e2-9c25-15e050ab6197/je/2000xxs.jpg",
+      "path": "images/036-2fad0b83.webp",
+      "media_type": "image/webp",
+      "bytes": 125984,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/c8bf3f86-b896-4eef-a5a4-26fa0997f500/je/2000xxs.jpg",
+      "path": "images/037-76dd103c.webp",
+      "media_type": "image/webp",
+      "bytes": 93144,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/de3380cb-4a57-4aa2-a500-ae3fc49b33ea/je/2000xxs.jpg",
+      "path": "images/038-b8864b4d.webp",
+      "media_type": "image/webp",
+      "bytes": 81414,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5c9872e6-ed3c-4939-a3d9-32a81b7a1c77/je/2000xxs.jpg",
+      "path": "images/039-031ad4d1.webp",
+      "media_type": "image/webp",
+      "bytes": 100620,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/91efd480-387c-4647-8590-952805f199dd/je/2000xxs.jpg",
+      "path": "images/040-b4a97568.webp",
+      "media_type": "image/webp",
+      "bytes": 89944,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f6100213-87d7-4d83-a58d-92f4e3f457b4/je/2000xxs.jpg",
+      "path": "images/041-0a091b70.webp",
+      "media_type": "image/webp",
+      "bytes": 124004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/a5ce1fd6-2e89-4e95-90be-a4afd1fb5439/je/2000xxs.jpg",
+      "path": "images/042-feb2f561.webp",
+      "media_type": "image/webp",
+      "bytes": 113138,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/c815328b-5d4b-46f3-9fca-a1a1afa4085b/je/2000xxs.jpg",
+      "path": "images/043-96923e7f.webp",
+      "media_type": "image/webp",
+      "bytes": 88092,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/e8acc85e-b09d-4eea-a7c7-38ba85ac3f8e/je/2000xxs.jpg",
+      "path": "images/044-edd5a023.webp",
+      "media_type": "image/webp",
+      "bytes": 105898,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/b515b53f-447b-4493-909e-971c93e30273/je/2000xxs.jpg",
+      "path": "images/045-a79c14e8.webp",
+      "media_type": "image/webp",
+      "bytes": 125822,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/cd662f0f-6fc8-4bc5-8ac0-2d6b7f60a466/je/2000xxs.jpg",
+      "path": "images/046-ed2cb293.webp",
+      "media_type": "image/webp",
+      "bytes": 72364,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/52ac3c2a-7bdf-421a-8f4a-b5143f55eab2/je/2000xxs.jpg",
+      "path": "images/047-8b63415f.webp",
+      "media_type": "image/webp",
+      "bytes": 83344,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5cdd53d6-b3dc-4444-9364-36d89b4e87e7/je/2000xxs.jpg",
+      "path": "images/048-0c1bc1d4.webp",
+      "media_type": "image/webp",
+      "bytes": 105432,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/c7548ce0-4728-4371-898f-f5f147c442a4/je/2000xxs.jpg",
+      "path": "images/049-333ef2ee.webp",
+      "media_type": "image/webp",
+      "bytes": 116602,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/ed2d54d2-d2f8-4ac3-aa16-2be49191e393/je/2000xxs.jpg",
+      "path": "images/050-e6d4ee82.webp",
+      "media_type": "image/webp",
+      "bytes": 87818,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/19b4dc76-a6c1-4218-a553-78c18db12c1a/je/2000xxs.jpg",
+      "path": "images/051-11f75c61.webp",
+      "media_type": "image/webp",
+      "bytes": 116780,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/9393e333-4622-4a97-8b11-b2fc8b6f14f0/je/2000xxs.jpg",
+      "path": "images/052-41de31e6.webp",
+      "media_type": "image/webp",
+      "bytes": 95232,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/37cfffdc-3e1a-466f-9589-8a07d3064079/je/2000xxs.jpg",
+      "path": "images/053-c64ad86f.webp",
+      "media_type": "image/webp",
+      "bytes": 94562,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/791f82a6-f49e-4f2b-b844-f645f78efb5b/je/2000xxs.jpg",
+      "path": "images/054-663f8b16.webp",
+      "media_type": "image/webp",
+      "bytes": 68192,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/59ad6085-4ce6-400f-805a-ee3fee251ce1/je/2000xxs.jpg",
+      "path": "images/055-04349921.webp",
+      "media_type": "image/webp",
+      "bytes": 62432,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/245dc731-3c1d-4368-ad67-f5ccffbe3df2/je/2000xxs.jpg",
+      "path": "images/056-b25c302d.webp",
+      "media_type": "image/webp",
+      "bytes": 82136,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/c9761b7f-711c-43e3-a9ac-68ed441f729f/je/2000xxs.jpg",
+      "path": "images/057-e5a9cee6.webp",
+      "media_type": "image/webp",
+      "bytes": 107820,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/3f9dd0bc-e6c3-498f-8977-8f884b4e07b7/je/2000xxs.jpg",
+      "path": "images/058-c31c977a.webp",
+      "media_type": "image/webp",
+      "bytes": 220342,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/dca04cf7-5927-44e8-8903-c67cc95ca780/je/2000xxs.jpg",
+      "path": "images/059-281452ad.webp",
+      "media_type": "image/webp",
+      "bytes": 121630,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2827%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2828%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2829%29.jpg",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
+      "path": "images/064-57242b8e.webp",
+      "media_type": "image/webp",
+      "bytes": 1004,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "path": "images/065-4055dfde.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63657,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "path": "images/066-272e34fe.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63675,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "path": "images/067-caf7633d.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 63710,
+      "status": "existing"
+    }
+  ],
+  "summary": {
+    "images_new": 12,
+    "images_existing": 34,
+    "images_failed": 0,
+    "videos_new": 0,
+    "videos_existing": 0,
+    "videos_failed": 0
+  }
+}

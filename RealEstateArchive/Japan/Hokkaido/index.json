@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "path": "Japan/Hokkaido",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "Furano",
+      "href": "Furano/index.html"
+    },
+    {
+      "name": "Kutchan",
+      "href": "Kutchan/index.html"
+    },
+    {
+      "name": "Makkari",
+      "href": "Makkari/index.html"
+    }
+  ],
+  "files": [],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+}

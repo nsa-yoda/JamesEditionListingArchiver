@@ -1,0 +1,39 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/New Jersey/Toms River/35 Magnolia Lane",
+  "parent": "../index.html",
+  "directories": [
+    {
+      "name": "images",
+      "href": "images/index.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "listing.json",
+      "href": "listing.json",
+      "size": 73719
+    },
+    {
+      "name": "manifest.json",
+      "href": "manifest.json",
+      "size": 95073
+    },
+    {
+      "name": "README.md",
+      "href": "README.md",
+      "size": 3902
+    },
+    {
+      "name": "source.html",
+      "href": "source.html",
+      "size": 612013
+    },
+    {
+      "name": "source.url",
+      "href": "source.url",
+      "size": 106
+    }
+  ],
+  "last_updated": "2026-09-27T22:23:11.98126Z"
+};
