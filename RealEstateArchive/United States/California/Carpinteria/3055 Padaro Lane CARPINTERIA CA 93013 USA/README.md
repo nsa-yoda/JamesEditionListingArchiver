@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/carpinteria-ca-usa/oceanfront-paradise-with-expansive-private-grounds-17150841
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:31Z
+- Retrieved: 2026-09-28T00:23:17Z
 - Address: 3055 Padaro Lane CARPINTERIA CA 93013 USA, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.4138054,-119.5742471
 - Coordinates: 34.41, -119.57
@@ -10,7 +10,7 @@
 - Listing reference: 9a4bf884-c5e9-47a7-b83c-55f3dc525417
 - First listed: Feb 12
 - Last updated: June 12
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

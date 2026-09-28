@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:23.31869Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37-sankaty-head-road-nantucket-ma-02554-16053693",
     "canonical_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37-sankaty-head-road-nantucket-ma-02554-16053693",
@@ -9,13 +9,13 @@
     "listing_reference": "GQKKH5",
     "first_listed": "Aug 14, 2025",
     "last_updated": "March 17",
-    "retrieved_at": "2026-06-19T08:17:48.940833Z"
+    "retrieved_at": "2026-09-28T00:18:22.736867Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2578,
-      "sha256": "6338072a7d7e3cff5dd8d39ad67897021d088327979c70c60b407c0df06cc14a"
+      "sha256": "822774721f323b047953213a5ba9ed699067f1ef974dfad9637faa61d99b3eb3"
     },
     {
       "path": "images/img-01d30ac930d6.webp",
@@ -96,6 +96,11 @@
       "path": "images/img-48489e0d4099.webp",
       "bytes": 109926,
       "sha256": "b4872071e1629db92133a890b99e372212500efb466a2527095e11cc28d05ae6"
+    },
+    {
+      "path": "images/img-4dd212b83763.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-4edaa46c8546.webp",
@@ -238,6 +243,11 @@
       "sha256": "6abf3a7950933f778c6a06f70256e609f4452ec8344647319aeae3d2130699de"
     },
     {
+      "path": "images/img-b6c667d20b90.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-bb4a74a9670a.webp",
       "bytes": 84310,
       "sha256": "a076326fc751a48b2209758ea9e53cc1e2ac2be03fe6cd9bb4671079fb5d058e"
@@ -348,6 +358,11 @@
       "sha256": "9fb5606a0c06742a59c078aa16afae06e12f0b34a6d6d51975b54b650d7e1a15"
     },
     {
+      "path": "images/img-f75d8f969e25.webp",
+      "bytes": 4962,
+      "sha256": "75e3045f54e45644b1d39c032240d14801499f9c54563cbf8386d24b38384236"
+    },
+    {
       "path": "images/img-f9bafcb1a767.webp",
       "bytes": 139724,
       "sha256": "b65984ea84ea2f321839ffea0f7d54360e7e82fd8d5d0a3c8872e6c5fe6f6f97"
@@ -364,8 +379,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 34810,
-      "sha256": "89275aee64459d62d68bd9779a1a6cbfa4b99a4a7998eff571f59c05bef4f543"
+      "bytes": 60162,
+      "sha256": "42e7d29866e91c0e52566e2212e64352037705b3cf73b7186ae64a52d44de9a8"
     },
     {
       "path": "source.html",
@@ -381,17 +396,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/2200xxs.jpg",
       "path": "images/img-ffcfbc28d521.webp",
       "media_type": "image/webp",
       "bytes": 217546,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/a8188e7e-a6bb-4e1f-87a7-bbe4c7c825fc/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/a8188e7e-a6bb-4e1f-87a7-bbe4c7c825fc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/a8188e7e-a6bb-4e1f-87a7-bbe4c7c825fc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/a8188e7e-a6bb-4e1f-87a7-bbe4c7c825fc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/a8188e7e-a6bb-4e1f-87a7-bbe4c7c825fc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/a8188e7e-a6bb-4e1f-87a7-bbe4c7c825fc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -399,13 +444,25 @@
       "path": "images/img-c6b215fb5518.webp",
       "media_type": "image/webp",
       "bytes": 183922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/0c01dc18-8ef1-4b4e-a523-80c596f33ade/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/0c01dc18-8ef1-4b4e-a523-80c596f33ade/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/0c01dc18-8ef1-4b4e-a523-80c596f33ade/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/0c01dc18-8ef1-4b4e-a523-80c596f33ade/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/0c01dc18-8ef1-4b4e-a523-80c596f33ade/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/0c01dc18-8ef1-4b4e-a523-80c596f33ade/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -413,13 +470,25 @@
       "path": "images/img-e84c62d270cf.webp",
       "media_type": "image/webp",
       "bytes": 159822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/00d57d3c-84d5-4126-b9ac-b5fafccd5893/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/00d57d3c-84d5-4126-b9ac-b5fafccd5893/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/00d57d3c-84d5-4126-b9ac-b5fafccd5893/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/00d57d3c-84d5-4126-b9ac-b5fafccd5893/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/00d57d3c-84d5-4126-b9ac-b5fafccd5893/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/00d57d3c-84d5-4126-b9ac-b5fafccd5893/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -427,13 +496,25 @@
       "path": "images/img-b3e23a55a180.webp",
       "media_type": "image/webp",
       "bytes": 212734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/100cda4f-081e-493a-a764-46fabd087180/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/100cda4f-081e-493a-a764-46fabd087180/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/100cda4f-081e-493a-a764-46fabd087180/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/100cda4f-081e-493a-a764-46fabd087180/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/100cda4f-081e-493a-a764-46fabd087180/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/100cda4f-081e-493a-a764-46fabd087180/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -441,31 +522,61 @@
       "path": "images/img-726ef138ba8d.webp",
       "media_type": "image/webp",
       "bytes": 185690,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f75d8f969e25.webp",
+      "media_type": "image/webp",
+      "bytes": 4962,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4dd212b83763.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-b6c667d20b90.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/a8188e7e-a6bb-4e1f-87a7-bbe4c7c825fc/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/a8188e7e-a6bb-4e1f-87a7-bbe4c7c825fc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/0c01dc18-8ef1-4b4e-a523-80c596f33ade/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/0c01dc18-8ef1-4b4e-a523-80c596f33ade/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/00d57d3c-84d5-4126-b9ac-b5fafccd5893/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/00d57d3c-84d5-4126-b9ac-b5fafccd5893/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/100cda4f-081e-493a-a764-46fabd087180/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/100cda4f-081e-493a-a764-46fabd087180/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -473,7 +584,7 @@
       "path": "images/img-78be74e819fb.webp",
       "media_type": "image/webp",
       "bytes": 143206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -481,7 +592,7 @@
       "path": "images/img-40881afe58b5.webp",
       "media_type": "image/webp",
       "bytes": 127846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -489,7 +600,7 @@
       "path": "images/img-51804a607f51.webp",
       "media_type": "image/webp",
       "bytes": 143696,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -497,7 +608,7 @@
       "path": "images/img-72db9329eb8b.webp",
       "media_type": "image/webp",
       "bytes": 134906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -505,7 +616,7 @@
       "path": "images/img-90cdd0b30d05.webp",
       "media_type": "image/webp",
       "bytes": 110854,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -513,7 +624,7 @@
       "path": "images/img-7311484a8cd6.webp",
       "media_type": "image/webp",
       "bytes": 177918,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -521,7 +632,7 @@
       "path": "images/img-8dca8e37e782.webp",
       "media_type": "image/webp",
       "bytes": 119392,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -529,7 +640,7 @@
       "path": "images/img-4fb405a15b99.webp",
       "media_type": "image/webp",
       "bytes": 107776,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -537,7 +648,7 @@
       "path": "images/img-f9bafcb1a767.webp",
       "media_type": "image/webp",
       "bytes": 139724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -545,7 +656,7 @@
       "path": "images/img-48489e0d4099.webp",
       "media_type": "image/webp",
       "bytes": 109926,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -553,7 +664,7 @@
       "path": "images/img-7bdb42d0a431.webp",
       "media_type": "image/webp",
       "bytes": 79342,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -561,7 +672,7 @@
       "path": "images/img-0431222326a2.webp",
       "media_type": "image/webp",
       "bytes": 102816,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -569,7 +680,7 @@
       "path": "images/img-bb4a74a9670a.webp",
       "media_type": "image/webp",
       "bytes": 84310,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -577,7 +688,7 @@
       "path": "images/img-bb7a4aab4f32.webp",
       "media_type": "image/webp",
       "bytes": 152206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -585,7 +696,7 @@
       "path": "images/img-394a67f3a6b4.webp",
       "media_type": "image/webp",
       "bytes": 123294,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -593,7 +704,7 @@
       "path": "images/img-f698356e5b18.webp",
       "media_type": "image/webp",
       "bytes": 126556,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -601,7 +712,7 @@
       "path": "images/img-4edaa46c8546.webp",
       "media_type": "image/webp",
       "bytes": 109820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -609,7 +720,7 @@
       "path": "images/img-ad94de1e8657.webp",
       "media_type": "image/webp",
       "bytes": 120694,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -617,7 +728,7 @@
       "path": "images/img-45585e307e09.webp",
       "media_type": "image/webp",
       "bytes": 123042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -625,7 +736,7 @@
       "path": "images/img-e093f21a4aba.webp",
       "media_type": "image/webp",
       "bytes": 132396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -633,7 +744,7 @@
       "path": "images/img-82f049cd8ff5.webp",
       "media_type": "image/webp",
       "bytes": 106804,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -641,7 +752,7 @@
       "path": "images/img-26c390b8dcf1.webp",
       "media_type": "image/webp",
       "bytes": 68522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -649,7 +760,7 @@
       "path": "images/img-ead1cb7a87f7.webp",
       "media_type": "image/webp",
       "bytes": 73708,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -657,7 +768,7 @@
       "path": "images/img-d3d66f3b9f8a.webp",
       "media_type": "image/webp",
       "bytes": 70008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -665,7 +776,7 @@
       "path": "images/img-8202598518f9.webp",
       "media_type": "image/webp",
       "bytes": 94174,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -673,7 +784,7 @@
       "path": "images/img-989555eb3d76.webp",
       "media_type": "image/webp",
       "bytes": 85068,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -681,7 +792,7 @@
       "path": "images/img-f15abd3d5a2f.webp",
       "media_type": "image/webp",
       "bytes": 109288,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -689,7 +800,7 @@
       "path": "images/img-c184b7559a95.webp",
       "media_type": "image/webp",
       "bytes": 81370,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -697,7 +808,7 @@
       "path": "images/img-91839598b80a.webp",
       "media_type": "image/webp",
       "bytes": 87324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -705,7 +816,7 @@
       "path": "images/img-7452bb0e9af0.webp",
       "media_type": "image/webp",
       "bytes": 47524,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -713,7 +824,7 @@
       "path": "images/img-3450f9495db3.webp",
       "media_type": "image/webp",
       "bytes": 122582,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -721,7 +832,7 @@
       "path": "images/img-8ac32a1b968d.webp",
       "media_type": "image/webp",
       "bytes": 90150,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -729,7 +840,7 @@
       "path": "images/img-c923a17e1c56.webp",
       "media_type": "image/webp",
       "bytes": 93202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -737,7 +848,7 @@
       "path": "images/img-c2eaa0ab0688.webp",
       "media_type": "image/webp",
       "bytes": 99706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -745,7 +856,7 @@
       "path": "images/img-1762725a674f.webp",
       "media_type": "image/webp",
       "bytes": 67678,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -753,7 +864,7 @@
       "path": "images/img-1a68219cfdb7.webp",
       "media_type": "image/webp",
       "bytes": 103814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -761,7 +872,7 @@
       "path": "images/img-bd178fa822d4.webp",
       "media_type": "image/webp",
       "bytes": 76898,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -769,7 +880,7 @@
       "path": "images/img-5a141f7acf23.webp",
       "media_type": "image/webp",
       "bytes": 69372,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -777,7 +888,7 @@
       "path": "images/img-df87b4defa08.webp",
       "media_type": "image/webp",
       "bytes": 72944,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -785,7 +896,7 @@
       "path": "images/img-5029fe55a922.webp",
       "media_type": "image/webp",
       "bytes": 80864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -793,7 +904,7 @@
       "path": "images/img-e10830b18fbf.webp",
       "media_type": "image/webp",
       "bytes": 67332,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -801,7 +912,7 @@
       "path": "images/img-e36ab338cf39.webp",
       "media_type": "image/webp",
       "bytes": 77562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -809,7 +920,7 @@
       "path": "images/img-c050a2b7d20e.webp",
       "media_type": "image/webp",
       "bytes": 51002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -817,7 +928,7 @@
       "path": "images/img-c80508d58309.webp",
       "media_type": "image/webp",
       "bytes": 70382,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -825,7 +936,7 @@
       "path": "images/img-d1952489e085.webp",
       "media_type": "image/webp",
       "bytes": 206576,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -833,7 +944,7 @@
       "path": "images/img-b495a3f7f6bb.webp",
       "media_type": "image/webp",
       "bytes": 217718,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -841,7 +952,7 @@
       "path": "images/img-07b554799c2b.webp",
       "media_type": "image/webp",
       "bytes": 206526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -849,7 +960,7 @@
       "path": "images/img-19312ca57796.webp",
       "media_type": "image/webp",
       "bytes": 156846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -857,7 +968,7 @@
       "path": "images/img-3d137d9d54ce.webp",
       "media_type": "image/webp",
       "bytes": 135736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -865,7 +976,7 @@
       "path": "images/img-01d30ac930d6.webp",
       "media_type": "image/webp",
       "bytes": 136890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -873,7 +984,7 @@
       "path": "images/img-dfd361e65fc0.webp",
       "media_type": "image/webp",
       "bytes": 116010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -881,7 +992,7 @@
       "path": "images/img-3ea88188c176.webp",
       "media_type": "image/webp",
       "bytes": 120976,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -889,7 +1000,7 @@
       "path": "images/img-7b0889b04928.webp",
       "media_type": "image/webp",
       "bytes": 118366,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -897,7 +1008,7 @@
       "path": "images/img-7f2ffe7216f6.webp",
       "media_type": "image/webp",
       "bytes": 98364,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -905,7 +1016,7 @@
       "path": "images/img-84fcb00ef321.webp",
       "media_type": "image/webp",
       "bytes": 107460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -913,7 +1024,7 @@
       "path": "images/img-91bb4a64e59c.webp",
       "media_type": "image/webp",
       "bytes": 115280,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -921,7 +1032,7 @@
       "path": "images/img-ce6731fbe669.webp",
       "media_type": "image/webp",
       "bytes": 105136,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -929,7 +1040,7 @@
       "path": "images/img-ff00a0d0377e.webp",
       "media_type": "image/webp",
       "bytes": 79782,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -937,7 +1048,7 @@
       "path": "images/img-5f27374173af.webp",
       "media_type": "image/webp",
       "bytes": 44820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -945,25 +1056,13 @@
       "path": "images/img-7585f8aab7db.webp",
       "media_type": "image/webp",
       "bytes": 63220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/2200xxsxm%2816%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/2200xxsxm%2817%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/nantucket-ma-usa/37%20Sankaty%20Head%20Road,%20Nantucket,%20Ma,%20In%20Nantucket,%20Massachusetts,%20United%20States%20For%20Sale%20%2816053693%29_files/2200xxsxm%2818%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/34/b1c3dfcc-6da2-44ae-b6cd-d4ceec1a6bb7/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -971,7 +1070,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -979,7 +1078,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -987,7 +1086,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -995,13 +1094,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 69,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 69,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

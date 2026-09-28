@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/franklinville-nj-usa/hybrid-fusion-red-cedar-log-chalet-11087737
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:27Z
+- Retrieved: 2026-09-28T00:21:54Z
 - Address: 0 Dutch Mill Rd , FRANKLINVILLE, NJ 08322, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.583479,-74.990844
 - Coordinates: 39.58, -74.99
@@ -10,8 +10,8 @@
 - Listing reference: FEGPYL
 - First listed: Aug 21, 2020
 - Last updated: February 9
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 18
+- Videos downloaded: 1
 
 ## Property
 

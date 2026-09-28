@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/conifer-co-usa/private-mountain-retreat-with-scenic-mountain-views-and-absolute-privacy-15116459
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:34Z
+- Retrieved: 2026-09-28T00:24:01Z
 - Address: 26269 Richmond Hill Road , Conifer, CO 80433, Colorado, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.488717,-105.290672
 - Coordinates: 39.49, -105.29
@@ -10,7 +10,7 @@
 - Listing reference: DBDQKV
 - First listed: Jan 21, 2025
 - Last updated: December 11, 2025
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

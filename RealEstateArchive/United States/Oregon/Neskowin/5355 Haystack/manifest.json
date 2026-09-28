@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:51.792877Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6-bedrooms-single-family-detached-16820650",
     "canonical_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6-bedrooms-single-family-detached-16820650",
@@ -9,13 +9,13 @@
     "listing_reference": "5mbhhl",
     "first_listed": "Dec 17, 2025",
     "last_updated": "June 1",
-    "retrieved_at": "2026-06-19T08:18:06.301821Z"
+    "retrieved_at": "2026-09-28T00:18:51.302203Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2904,
-      "sha256": "6e3c303fdf5c9ac7071160048bcd5c252510254d61a4207df81670fb3a1648f2"
+      "sha256": "3c61ae1fc77152ad2fe00b3b6a98398ca7d065309dab6f1ed5a5406ca87a6c11"
     },
     {
       "path": "images/img-15a4831132d6.webp",
@@ -43,6 +43,11 @@
       "sha256": "3c943ed57cc5c205384e8d399e210a26c447d44ff87bff532d0c55f9ea8bf910"
     },
     {
+      "path": "images/img-22dbd6ddca78.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-252e93014055.webp",
       "bytes": 160376,
       "sha256": "e9e53f49cfc5fcaa3084c089333551716bd9b7f1e7cdf9ecef6bcb1d729e9c74"
@@ -58,6 +63,11 @@
       "sha256": "384e83842c6aa18ce7526e87910d74f47e0aa7778f3b26fa205c86dd3f76efa9"
     },
     {
+      "path": "images/img-2920db0037d7.webp",
+      "bytes": 3216,
+      "sha256": "3ccbd36945fa71d71ece9ed899187f8345b2534b489a66f8159059e55e43ecce"
+    },
+    {
       "path": "images/img-2f8168565450.webp",
       "bytes": 167330,
       "sha256": "0f325ad2c41a827b86e771feb5ed08145e7a2344d4d5a4606cbf73413cc82971"
@@ -66,6 +76,11 @@
       "path": "images/img-32d6ff4f461a.webp",
       "bytes": 116708,
       "sha256": "be32f47061ecce6dbb82b154afe2d2e057a84abd7f4dc13513dfeedbb5160cad"
+    },
+    {
+      "path": "images/img-34cf2e395a58.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-3a49af388817.webp",
@@ -359,8 +374,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 34706,
-      "sha256": "d23a7266c567f984971fce167499518aa432b5d527fc0270de929fcce36e900a"
+      "bytes": 69900,
+      "sha256": "0006662e40d9fe374760c1c4096741619272253b27d1614d50e70616d6c2173a"
     },
     {
       "path": "source.html",
@@ -376,17 +391,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/2200xxs.jpg",
       "path": "images/img-9710f08ae348.webp",
       "media_type": "image/webp",
       "bytes": 239790,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/e50d1035-d1c0-4b1b-b05c-c8554bbf1ab4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/e50d1035-d1c0-4b1b-b05c-c8554bbf1ab4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/e50d1035-d1c0-4b1b-b05c-c8554bbf1ab4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/e50d1035-d1c0-4b1b-b05c-c8554bbf1ab4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/e50d1035-d1c0-4b1b-b05c-c8554bbf1ab4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/e50d1035-d1c0-4b1b-b05c-c8554bbf1ab4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -394,13 +445,31 @@
       "path": "images/img-fd11551057f7.webp",
       "media_type": "image/webp",
       "bytes": 283704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/0e2329f3-0db4-4851-b16e-9dcf42ea2655/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/0e2329f3-0db4-4851-b16e-9dcf42ea2655/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/0e2329f3-0db4-4851-b16e-9dcf42ea2655/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/0e2329f3-0db4-4851-b16e-9dcf42ea2655/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/0e2329f3-0db4-4851-b16e-9dcf42ea2655/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/0e2329f3-0db4-4851-b16e-9dcf42ea2655/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -408,13 +477,31 @@
       "path": "images/img-1987affb7d69.webp",
       "media_type": "image/webp",
       "bytes": 98764,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/218cd5e2-c586-4559-ac9e-316a35955845/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/218cd5e2-c586-4559-ac9e-316a35955845/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/218cd5e2-c586-4559-ac9e-316a35955845/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/218cd5e2-c586-4559-ac9e-316a35955845/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/218cd5e2-c586-4559-ac9e-316a35955845/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/218cd5e2-c586-4559-ac9e-316a35955845/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -422,13 +509,31 @@
       "path": "images/img-c237cd1ea24e.webp",
       "media_type": "image/webp",
       "bytes": 144794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/8b8493d4-5662-43e8-8e1a-cd0534e80c92/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/8b8493d4-5662-43e8-8e1a-cd0534e80c92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/8b8493d4-5662-43e8-8e1a-cd0534e80c92/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/8b8493d4-5662-43e8-8e1a-cd0534e80c92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/8b8493d4-5662-43e8-8e1a-cd0534e80c92/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/8b8493d4-5662-43e8-8e1a-cd0534e80c92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -436,31 +541,67 @@
       "path": "images/img-b170da88b2b6.webp",
       "media_type": "image/webp",
       "bytes": 134396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2920db0037d7.webp",
+      "media_type": "image/webp",
+      "bytes": 3216,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-22dbd6ddca78.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-34cf2e395a58.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/e50d1035-d1c0-4b1b-b05c-c8554bbf1ab4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/e50d1035-d1c0-4b1b-b05c-c8554bbf1ab4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/0e2329f3-0db4-4851-b16e-9dcf42ea2655/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/0e2329f3-0db4-4851-b16e-9dcf42ea2655/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/218cd5e2-c586-4559-ac9e-316a35955845/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/218cd5e2-c586-4559-ac9e-316a35955845/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/8b8493d4-5662-43e8-8e1a-cd0534e80c92/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/8b8493d4-5662-43e8-8e1a-cd0534e80c92/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -468,7 +609,7 @@
       "path": "images/img-7ea1aecded1f.webp",
       "media_type": "image/webp",
       "bytes": 133618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -476,7 +617,7 @@
       "path": "images/img-15c902968b4d.webp",
       "media_type": "image/webp",
       "bytes": 185752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -484,7 +625,7 @@
       "path": "images/img-75c7b8598bf1.webp",
       "media_type": "image/webp",
       "bytes": 146484,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -492,7 +633,7 @@
       "path": "images/img-ddfd9b655c44.webp",
       "media_type": "image/webp",
       "bytes": 138618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -500,7 +641,7 @@
       "path": "images/img-c89f539ef68c.webp",
       "media_type": "image/webp",
       "bytes": 125488,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -508,7 +649,7 @@
       "path": "images/img-773e5b85da44.webp",
       "media_type": "image/webp",
       "bytes": 158052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -516,7 +657,7 @@
       "path": "images/img-ef09030193dc.webp",
       "media_type": "image/webp",
       "bytes": 121920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -524,7 +665,7 @@
       "path": "images/img-81e9390c94b1.webp",
       "media_type": "image/webp",
       "bytes": 125402,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -532,7 +673,7 @@
       "path": "images/img-c93fce9a18ce.webp",
       "media_type": "image/webp",
       "bytes": 140900,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -540,7 +681,7 @@
       "path": "images/img-99cf7f920b10.webp",
       "media_type": "image/webp",
       "bytes": 142490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -548,7 +689,7 @@
       "path": "images/img-ef8d2c1aff3f.webp",
       "media_type": "image/webp",
       "bytes": 190662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -556,7 +697,7 @@
       "path": "images/img-bc7dd633574a.webp",
       "media_type": "image/webp",
       "bytes": 163508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -564,7 +705,7 @@
       "path": "images/img-252e93014055.webp",
       "media_type": "image/webp",
       "bytes": 160376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -572,7 +713,7 @@
       "path": "images/img-21a1b290a7c6.webp",
       "media_type": "image/webp",
       "bytes": 72160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -580,7 +721,7 @@
       "path": "images/img-28341d7f5fb5.webp",
       "media_type": "image/webp",
       "bytes": 134180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -588,7 +729,7 @@
       "path": "images/img-6fcafe2a0a30.webp",
       "media_type": "image/webp",
       "bytes": 111932,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -596,7 +737,7 @@
       "path": "images/img-c2827a38993c.webp",
       "media_type": "image/webp",
       "bytes": 193348,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -604,7 +745,7 @@
       "path": "images/img-a16d108f8535.webp",
       "media_type": "image/webp",
       "bytes": 309124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -612,7 +753,7 @@
       "path": "images/img-50519e866022.webp",
       "media_type": "image/webp",
       "bytes": 156434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -620,7 +761,7 @@
       "path": "images/img-ee0aece9a056.webp",
       "media_type": "image/webp",
       "bytes": 250368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -628,7 +769,7 @@
       "path": "images/img-b96a506246f8.webp",
       "media_type": "image/webp",
       "bytes": 275048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -636,7 +777,7 @@
       "path": "images/img-8b19f459fc40.webp",
       "media_type": "image/webp",
       "bytes": 96142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -644,7 +785,7 @@
       "path": "images/img-7ad62ebfb333.webp",
       "media_type": "image/webp",
       "bytes": 78130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -652,7 +793,7 @@
       "path": "images/img-b05740519240.webp",
       "media_type": "image/webp",
       "bytes": 89980,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -660,7 +801,7 @@
       "path": "images/img-ac1315f9351e.webp",
       "media_type": "image/webp",
       "bytes": 51682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -668,7 +809,7 @@
       "path": "images/img-d1de5dd5819c.webp",
       "media_type": "image/webp",
       "bytes": 115438,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -676,7 +817,7 @@
       "path": "images/img-61364174a419.webp",
       "media_type": "image/webp",
       "bytes": 83100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -684,7 +825,7 @@
       "path": "images/img-98a875aa1b5c.webp",
       "media_type": "image/webp",
       "bytes": 161640,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -692,7 +833,7 @@
       "path": "images/img-8fa000308e9a.webp",
       "media_type": "image/webp",
       "bytes": 221902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -700,7 +841,7 @@
       "path": "images/img-70af4083e2b3.webp",
       "media_type": "image/webp",
       "bytes": 206208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -708,7 +849,7 @@
       "path": "images/img-a5d0213f9a3e.webp",
       "media_type": "image/webp",
       "bytes": 177914,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -716,7 +857,7 @@
       "path": "images/img-15a4831132d6.webp",
       "media_type": "image/webp",
       "bytes": 123236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -724,7 +865,7 @@
       "path": "images/img-3dab47ff29ce.webp",
       "media_type": "image/webp",
       "bytes": 132908,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -732,7 +873,7 @@
       "path": "images/img-9a915b3d68f7.webp",
       "media_type": "image/webp",
       "bytes": 150168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -740,7 +881,7 @@
       "path": "images/img-d45fd9385bed.webp",
       "media_type": "image/webp",
       "bytes": 155640,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -748,7 +889,7 @@
       "path": "images/img-efc9621d2414.webp",
       "media_type": "image/webp",
       "bytes": 89740,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -756,7 +897,7 @@
       "path": "images/img-83dd19d57e06.webp",
       "media_type": "image/webp",
       "bytes": 170888,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -764,7 +905,7 @@
       "path": "images/img-82256a029f2d.webp",
       "media_type": "image/webp",
       "bytes": 135768,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -772,7 +913,7 @@
       "path": "images/img-c8526a13f2c0.webp",
       "media_type": "image/webp",
       "bytes": 35188,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -780,7 +921,7 @@
       "path": "images/img-a3e8966a8fa0.webp",
       "media_type": "image/webp",
       "bytes": 137846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -788,7 +929,7 @@
       "path": "images/img-cfffd8579884.webp",
       "media_type": "image/webp",
       "bytes": 127708,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -796,7 +937,7 @@
       "path": "images/img-c6df901f4b63.webp",
       "media_type": "image/webp",
       "bytes": 145534,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -804,7 +945,7 @@
       "path": "images/img-2f8168565450.webp",
       "media_type": "image/webp",
       "bytes": 167330,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -812,7 +953,7 @@
       "path": "images/img-6dc675859de7.webp",
       "media_type": "image/webp",
       "bytes": 142958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -820,7 +961,7 @@
       "path": "images/img-4af069943057.webp",
       "media_type": "image/webp",
       "bytes": 155294,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -828,7 +969,7 @@
       "path": "images/img-617ddcf42969.webp",
       "media_type": "image/webp",
       "bytes": 179050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -836,7 +977,7 @@
       "path": "images/img-1a2a0f10d431.webp",
       "media_type": "image/webp",
       "bytes": 247528,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -844,7 +985,7 @@
       "path": "images/img-32d6ff4f461a.webp",
       "media_type": "image/webp",
       "bytes": 116708,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -852,7 +993,7 @@
       "path": "images/img-3d5ab351bcb7.webp",
       "media_type": "image/webp",
       "bytes": 152642,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -860,7 +1001,7 @@
       "path": "images/img-8acc0e43e765.webp",
       "media_type": "image/webp",
       "bytes": 151730,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -868,7 +1009,7 @@
       "path": "images/img-3a49af388817.webp",
       "media_type": "image/webp",
       "bytes": 273620,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -876,7 +1017,7 @@
       "path": "images/img-ba30efc60694.webp",
       "media_type": "image/webp",
       "bytes": 212420,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -884,7 +1025,7 @@
       "path": "images/img-b097efedb242.webp",
       "media_type": "image/webp",
       "bytes": 223214,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -892,7 +1033,7 @@
       "path": "images/img-ef1bf60a8251.webp",
       "media_type": "image/webp",
       "bytes": 217352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -900,7 +1041,7 @@
       "path": "images/img-5e93fa3e3d70.webp",
       "media_type": "image/webp",
       "bytes": 162770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -908,7 +1049,7 @@
       "path": "images/img-bd4d124030ef.webp",
       "media_type": "image/webp",
       "bytes": 294746,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -916,7 +1057,7 @@
       "path": "images/img-a2ec4327019f.webp",
       "media_type": "image/webp",
       "bytes": 249892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -924,7 +1065,7 @@
       "path": "images/img-d84af2eeeb59.webp",
       "media_type": "image/webp",
       "bytes": 549376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -932,25 +1073,13 @@
       "path": "images/img-424cb71ef508.webp",
       "media_type": "image/webp",
       "bytes": 330314,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/2200xxs%2825%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/2200xxs%2826%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/neskowin-or-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Neskowin,%20Oregon,%20United%20States%20For%20Sale%20%2816820650%29_files/2200xxs%2827%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/17/13/54/43/615dadee-8992-44c5-8a6f-09843f25644b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -958,7 +1087,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -966,7 +1095,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -974,7 +1103,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -982,13 +1111,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 68,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 68,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -6,8 +6,11 @@ import (
 	"crypto/sha256"
 	"fmt"
 	"io"
+	"mime"
 	"net/http"
+	"net/url"
 	"os"
+	"os/exec"
 	"path/filepath"
 	"sort"
 	"strings"
@@ -18,6 +21,7 @@ import (
 )
 
 const maxImageBytes = 100 << 20
+const maxVideoBytes = 2 << 30
 
 type AssetKind string
 
@@ -31,6 +35,7 @@ type ImageOptions struct {
 	Overwrite bool
 	Referer   string
 	Existing  map[string]model.Asset
+	LocalDir  string
 }
 
 type assetOptions struct {
@@ -100,10 +105,26 @@ type indexedAsset struct {
 
 func (c *Client) downloadAsset(ctx context.Context, job assetJob, directory string, options assetOptions) model.Asset {
 	result := model.Asset{SourceURL: job.url}
+	var maxBytes int64 = maxImageBytes
+	if options.Kind == AssetKindVideo {
+		maxBytes = maxVideoBytes
+	}
 	if !options.Overwrite {
 		if reused, ok := reuseExistingAsset(directory, job.url, options); ok {
 			return reused
 		}
+		if imported, ok := importLocalAsset(directory, job.url, options); ok {
+			return imported
+		}
+	}
+	if options.Kind == AssetKindVideo && isSupportedVideoPlayerURL(job.url) {
+		videoCtx := ctx
+		cancel := func() {}
+		if c.HTTP != nil && c.HTTP.Timeout > 0 {
+			videoCtx, cancel = context.WithTimeout(ctx, c.HTTP.Timeout)
+		}
+		defer cancel()
+		return downloadWithYtDlp(videoCtx, directory, job.url, options.Referer)
 	}
 
 	hash := sha256.Sum256([]byte(job.url))
@@ -112,7 +133,7 @@ func (c *Client) downloadAsset(ctx context.Context, job assetJob, directory stri
 	offset := int64(0)
 	if info, err := os.Stat(part); err == nil {
 		offset = info.Size()
-		if offset > maxImageBytes {
+		if offset > maxBytes {
 			_ = os.Remove(part)
 			result.Error = fmt.Sprintf("partial %s exceeds size limit", options.Kind)
 			result.Status = "failed"
@@ -193,7 +214,7 @@ func (c *Client) downloadAsset(ctx context.Context, job assetJob, directory stri
 		result.Status = "failed"
 		return result
 	}
-	written, copyErr := io.Copy(file, io.LimitReader(reader, maxImageBytes-offset+1))
+	written, copyErr := io.Copy(file, io.LimitReader(reader, maxBytes-offset+1))
 	closeErr := file.Close()
 	if copyErr != nil {
 		result.Error = copyErr.Error()
@@ -205,7 +226,7 @@ func (c *Client) downloadAsset(ctx context.Context, job assetJob, directory stri
 		result.Status = "failed"
 		return result
 	}
-	if offset+written > maxImageBytes {
+	if offset+written > maxBytes {
 		_ = os.Remove(part)
 		result.Error = fmt.Sprintf("%s exceeds size limit", options.Kind)
 		result.Status = "failed"
@@ -222,6 +243,243 @@ func (c *Client) downloadAsset(ctx context.Context, job assetJob, directory stri
 	result.Bytes = offset + written
 	result.Status = "new"
 	return result
+}
+
+func isSupportedVideoPlayerURL(rawURL string) bool {
+	u, err := url.Parse(rawURL)
+	if err != nil {
+		return false
+	}
+	switch strings.ToLower(u.Hostname()) {
+	case "players.brightcove.net":
+		return u.Query().Get("videoId") != ""
+	case "player.vimeo.com":
+		return strings.HasPrefix(u.Path, "/video/")
+	case "vimeo.com", "www.vimeo.com":
+		return u.Path != "/" && u.Path != ""
+	case "youtube.com", "www.youtube.com", "m.youtube.com":
+		return u.Query().Get("v") != "" || strings.HasPrefix(u.Path, "/embed/") || strings.HasPrefix(u.Path, "/shorts/")
+	case "youtu.be":
+		return len(strings.Trim(u.Path, "/")) > 0
+	default:
+		return false
+	}
+}
+
+func downloadWithYtDlp(ctx context.Context, directory, rawURL, referer string) model.Asset {
+	result := model.Asset{SourceURL: rawURL}
+	ytDlp, err := exec.LookPath("yt-dlp")
+	if err != nil {
+		result.Status = "failed"
+		result.Error = "video player URL requires yt-dlp, which was not found in PATH"
+		return result
+	}
+	hash := sha256.Sum256([]byte(rawURL))
+	base := fmt.Sprintf(".brightcove-%x", hash[:6])
+	template := filepath.Join(directory, base+".%%(ext)s")
+	args := []string{
+		"--no-playlist", "--no-progress", "--no-warnings", "--no-part", "--max-filesize", "2G",
+		"--format", "best[ext=mp4]/best", "--merge-output-format", "mp4",
+		"--output", template,
+	}
+	if referer != "" {
+		args = append(args, "--referer", referer)
+	}
+	args = append(args, rawURL)
+	command := exec.CommandContext(ctx, ytDlp, args...)
+	command.Stdout = io.Discard
+	command.Stderr = io.Discard
+	if err := command.Run(); err != nil {
+		for _, path := range globVideoOutputs(directory, base) {
+			_ = os.Remove(path)
+		}
+		result.Status = "failed"
+		result.Error = "yt-dlp could not download the video player URL"
+		return result
+	}
+	for _, path := range globVideoOutputs(directory, base) {
+		info, err := os.Stat(path)
+		if err != nil || info.Size() == 0 || info.Size() > maxVideoBytes {
+			_ = os.Remove(path)
+			continue
+		}
+		file, err := os.Open(path)
+		if err != nil {
+			_ = os.Remove(path)
+			continue
+		}
+		header := make([]byte, 512)
+		n, readErr := file.Read(header)
+		_ = file.Close()
+		if readErr != nil && readErr != io.EOF {
+			_ = os.Remove(path)
+			continue
+		}
+		mediaType, extension, ok := extract.DetectVideo("", header[:n], path)
+		if !ok || (extension != ".mp4" && extension != ".webm") {
+			_ = os.Remove(path)
+			continue
+		}
+		target := filepath.Join(directory, fmt.Sprintf("vid-%x%s", hash[:6], extension))
+		if err := os.Rename(path, target); err != nil {
+			_ = os.Remove(path)
+			continue
+		}
+		result.File = filepath.Base(target)
+		result.MediaType = mediaType
+		result.Bytes = info.Size()
+		result.Status = "new"
+		return result
+	}
+	result.Status = "failed"
+	result.Error = "yt-dlp produced no recognized local MP4 or WebM file"
+	return result
+}
+
+func globVideoOutputs(directory, base string) []string {
+	paths, _ := filepath.Glob(filepath.Join(directory, base+".*"))
+	return paths
+}
+
+func importLocalAsset(directory, rawURL string, options assetOptions) (model.Asset, bool) {
+	if options.LocalDir == "" {
+		return model.Asset{}, false
+	}
+	u, err := url.Parse(rawURL)
+	if err != nil {
+		return model.Asset{}, false
+	}
+	name, err := url.PathUnescape(filepath.Base(u.Path))
+	if err != nil || name == "." || name == ".." || name == string(filepath.Separator) || name == "" || strings.ContainsAny(name, `/\\`) {
+		return model.Asset{}, false
+	}
+	rootInfo, err := os.Lstat(options.LocalDir)
+	if err != nil || !rootInfo.IsDir() || rootInfo.Mode()&os.ModeSymlink != 0 {
+		return model.Asset{}, false
+	}
+	path := filepath.Join(options.LocalDir, name)
+	info, err := os.Lstat(path)
+	if err != nil || !info.Mode().IsRegular() {
+		alternate, ok := jamesEditionThumbnailVariant(u, name)
+		if !ok {
+			return model.Asset{}, false
+		}
+		path = filepath.Join(options.LocalDir, alternate)
+		info, err = os.Lstat(path)
+	}
+	var maxBytes int64 = maxImageBytes
+	if options.Kind == AssetKindVideo {
+		maxBytes = maxVideoBytes
+	}
+	if err != nil || !info.Mode().IsRegular() || info.Size() > maxBytes {
+		return model.Asset{}, false
+	}
+	source, err := os.Open(path)
+	if err != nil {
+		return model.Asset{}, false
+	}
+	defer source.Close()
+	header := make([]byte, 512)
+	n, err := source.Read(header)
+	if err != nil && err != io.EOF {
+		return model.Asset{}, false
+	}
+	mediaType, extension, ok := options.Kind.detect(mime.TypeByExtension(filepath.Ext(name)), header[:n], rawURL)
+	if !ok {
+		return model.Asset{}, false
+	}
+	if digest, err := hashFile(source); err == nil {
+		if existing, ok := findIdenticalAsset(directory, options.Kind, digest); ok {
+			return model.Asset{SourceURL: rawURL, File: existing.File, MediaType: existing.MediaType, Bytes: existing.Bytes, Status: "existing"}, true
+		}
+	}
+	hash := sha256.Sum256([]byte(rawURL))
+	target := filepath.Join(directory, fmt.Sprintf("%s-%x%s", options.Kind.filePrefix(), hash[:6], extension))
+	if _, _, valid := validateStoredAsset(target, options.Kind); !valid {
+		if _, err := source.Seek(0, io.SeekStart); err != nil {
+			return model.Asset{}, false
+		}
+		temporary := target + ".part"
+		output, err := os.OpenFile(temporary, os.O_CREATE|os.O_TRUNC|os.O_WRONLY, 0o644)
+		if err != nil {
+			return model.Asset{}, false
+		}
+		written, copyErr := io.Copy(output, io.LimitReader(source, maxBytes+1))
+		closeErr := output.Close()
+		if copyErr != nil || closeErr != nil || written != info.Size() || written > maxBytes {
+			_ = os.Remove(temporary)
+			return model.Asset{}, false
+		}
+		if err := os.Rename(temporary, target); err != nil {
+			_ = os.Remove(temporary)
+			return model.Asset{}, false
+		}
+	}
+	return model.Asset{SourceURL: rawURL, File: filepath.Base(target), MediaType: mediaType, Bytes: info.Size(), Status: "new"}, true
+}
+
+func jamesEditionThumbnailVariant(source *url.URL, name string) (string, bool) {
+	if !strings.EqualFold(source.Hostname(), "www.jamesedition.com") || !strings.Contains(source.Path, "_files/") || !strings.HasPrefix(name, "1100xxs") || !strings.HasSuffix(strings.ToLower(name), ".jpg") {
+		return "", false
+	}
+	suffix := strings.TrimSuffix(strings.TrimPrefix(name, "1100xxs"), ".jpg")
+	if suffix != "" {
+		if len(suffix) < 3 || suffix[0] != '(' || suffix[len(suffix)-1] != ')' {
+			return "", false
+		}
+		for _, digit := range suffix[1 : len(suffix)-1] {
+			if digit < '0' || digit > '9' {
+				return "", false
+			}
+		}
+	}
+	return "2200xxsxm" + suffix + ".jpg", true
+}
+
+func findIdenticalAsset(directory string, kind AssetKind, digest [32]byte) (model.Asset, bool) {
+	entries, err := os.ReadDir(directory)
+	if err != nil {
+		return model.Asset{}, false
+	}
+	for _, entry := range entries {
+		if entry.IsDir() || strings.HasSuffix(entry.Name(), ".part") {
+			continue
+		}
+		path := filepath.Join(directory, entry.Name())
+		if _, _, ok := validateStoredAsset(path, kind); !ok {
+			continue
+		}
+		candidate, err := hashFileAtPath(path)
+		if err != nil || candidate != digest {
+			continue
+		}
+		mediaType, size, _ := validateStoredAsset(path, kind)
+		return model.Asset{File: entry.Name(), MediaType: mediaType, Bytes: size, Status: "existing"}, true
+	}
+	return model.Asset{}, false
+}
+
+func hashFile(file *os.File) ([32]byte, error) {
+	if _, err := file.Seek(0, io.SeekStart); err != nil {
+		return [32]byte{}, err
+	}
+	hash := sha256.New()
+	if _, err := io.Copy(hash, file); err != nil {
+		return [32]byte{}, err
+	}
+	var digest [32]byte
+	copy(digest[:], hash.Sum(nil))
+	_, err := file.Seek(0, io.SeekStart)
+	return digest, err
+}
+
+func hashFileAtPath(path string) ([32]byte, error) {
+	file, err := os.Open(path)
+	if err != nil {
+		return [32]byte{}, err
+	}
+	defer file.Close()
+	return hashFile(file)
 }
 
 func reuseExistingAsset(directory, rawURL string, options assetOptions) (model.Asset, bool) {

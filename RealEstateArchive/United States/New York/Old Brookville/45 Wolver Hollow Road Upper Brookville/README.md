@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/45-wolver-hollow-road-upper-brookville-new-york-17828967
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:45Z
+- Retrieved: 2026-09-28T00:18:30Z
 - Address: 45 Wolver Hollow Road, Old Brookville, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.8337193,-73.5742437
 - Coordinates: 40.83, -73.57
@@ -10,7 +10,7 @@
 - Listing reference: 985121
 - First listed: May 2
 - Last updated: June 18
-- Images downloaded: 31
+- Images downloaded: 34
 
 ## Property
 

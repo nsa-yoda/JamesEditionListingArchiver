@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/napa-ca-usa/7-bedrooms-single-family-detached-16673203
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:55Z
+- Retrieved: 2026-09-28T00:18:54Z
 - Address: 1590 Mckinley Rd, Napa, CA 94558, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.3363173,-122.2768965
 - Coordinates: 38.34, -122.28
@@ -10,7 +10,7 @@
 - Listing reference: lj9njh
 - First listed: Nov 21, 2025
 - Last updated: May 20
-- Images downloaded: 51
+- Images downloaded: 54
 
 ## Property
 

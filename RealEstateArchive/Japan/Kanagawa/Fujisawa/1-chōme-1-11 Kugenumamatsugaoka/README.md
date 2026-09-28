@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/fujisawa-japan/a-coastal-legacy-above-shonan-fujisawa-estate-17470271
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:02Z
+- Retrieved: 2026-09-28T00:19:30Z
 - Address: 1-chōme-1-11 Kugenumamatsugaoka, Fujisawa, Kanagawa 251-0038, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.3206581,139.4817259
 - Coordinates: 35.32, 139.48
 - Site listing ID: 17470271
 - First listed: Mar 24
 - Last updated: July 10
-- Images downloaded: 30
+- Images downloaded: 42
 - Videos downloaded: 0
 
 ## Property

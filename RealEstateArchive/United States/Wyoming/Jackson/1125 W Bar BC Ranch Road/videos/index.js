@@ -1,0 +1,19 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Wyoming/Jackson/1125 W Bar BC Ranch Road/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-141657910c9a.webp",
+      "href": "img-141657910c9a.webp",
+      "size": 116578
+    },
+    {
+      "name": "vid-782371145d0e.mp4",
+      "href": "vid-782371145d0e.mp4",
+      "size": 11080184
+    }
+  ],
+  "last_updated": "2026-09-28T00:23:59.984039Z"
+};

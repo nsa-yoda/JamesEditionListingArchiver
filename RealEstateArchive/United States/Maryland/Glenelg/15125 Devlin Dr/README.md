@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/glenelg-md-usa/15125-devlin-dr-17810089
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:14Z
+- Retrieved: 2026-09-28T00:17:32Z
 - Address: 15125 Devlin Dr, MD, Glenelg, Maryland, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.252484,-77.04456499999999
 - Coordinates: 39.25, -77.04
@@ -10,7 +10,7 @@
 - Listing reference: 214489673.0
 - First listed: Apr 30
 - Last updated: May 24
-- Images downloaded: 10
+- Images downloaded: 13
 - Videos downloaded: 0
 
 ## Property

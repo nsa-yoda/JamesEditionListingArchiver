@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/mount-shasta-ca-usa/1395-northridge-drive-mount-shasta-ca-96067-18017274
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:06Z
+- Retrieved: 2026-09-28T00:17:25Z
 - Address: 1395 Northridge Drive , Mount Shasta, CA 96067, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.332428,-122.305506
 - Coordinates: 41.33, -122.31
@@ -10,7 +10,7 @@
 - Listing reference: 57J79X
 - First listed: May 27
 - Last updated: May 29
-- Images downloaded: 45
+- Images downloaded: 48
 
 ## Property
 

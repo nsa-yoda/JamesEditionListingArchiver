@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/cakaudrove-fiji/wavi-island-fabulous-fiji-27-acre-freehold-private-island-residential-resort-development-17695633
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:42Z
+- Retrieved: 2026-09-28T00:26:43Z
 - Address: Hibiscus Hwy, Naidi, Northern Division, Fiji
 - Map: https://www.google.com/maps/search/?api=1&query=-16.802629,179.411613
 - Coordinates: -16.8, 179.41
 - Site listing ID: 17695633
 - First listed: Apr 16
 - Last updated: April 28
-- Images downloaded: 9
+- Images downloaded: 11
 - Videos downloaded: 0
 
 ## Property

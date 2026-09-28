@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/st-helena-usa/elegant-winery-estate-vineyard-with-breathtaking-view-17560759
 - Site: jamesedition
-- Retrieved: 2026-09-26T18:46:21Z
+- Retrieved: 2026-09-28T00:20:46Z
 - Address: 1535 Sage Canyon Road, St. Helena, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.477388,-122.345508
 - Coordinates: 38.48, -122.35
@@ -10,7 +10,7 @@
 - Listing reference: 326027159
 - First listed: Apr 4
 - Last updated: June 19
-- Images downloaded: 36
+- Images downloaded: 39
 
 ## Property
 

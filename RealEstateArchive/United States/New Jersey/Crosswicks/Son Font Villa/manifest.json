@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:32.203025Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/son-font-villa-valldemossa-mallorca-spain-14802153",
     "canonical_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/son-font-villa-valldemossa-mallorca-spain-14802153",
@@ -9,13 +9,13 @@
     "listing_reference": "VRPREN",
     "first_listed": "Oct 12, 2024",
     "last_updated": "October 15, 2024",
-    "retrieved_at": "2026-06-18T07:09:13.286528Z"
+    "retrieved_at": "2026-09-28T00:25:31.565524Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2509,
-      "sha256": "91caf6f34b12d249670d6e0d724b3522aa8a864fe28e32991f924ba3344e65a3"
+      "sha256": "855d9c0ba6f50d913c1c620f74fbec30b502e04c9af3b7de6c7e02648416ab1b"
     },
     {
       "path": "images/004-ce269586.webp",
@@ -158,9 +158,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-78f7f5c8f015.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-f43cc6cdb3db.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-f5619264c217.webp",
+      "bytes": 4282,
+      "sha256": "5e151e7704f50fb87847c7777e94a0b1f1cbc3ad3086c95810397f5b282a41b2"
+    },
+    {
       "path": "listing.json",
-      "bytes": 20137,
-      "sha256": "301709dd35988b77c906dffa2cfdf66be04a47b0d0f0d4035eca22514bda6e65"
+      "bytes": 46002,
+      "sha256": "cb660815fefff17a8b6ef58435b93b06fcebfe796972f33eb4dbf400dd97607a"
     },
     {
       "path": "source.html",
@@ -176,6 +191,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/2200xxs.jpg",
       "path": "images/004-ce269586.webp",
       "media_type": "image/webp",
@@ -184,8 +217,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -197,8 +243,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -210,8 +269,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -223,8 +295,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -236,23 +321,57 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f5619264c217.webp",
+      "media_type": "image/webp",
+      "bytes": 4282,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f43cc6cdb3db.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-78f7f5c8f015.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/f8c5ae06-06e6-47e7-aa32-ce99d53f0892/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/5683be7e-fe86-4c46-b35c-00f98c0fb361/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a33192d6-7be8-429a-9c1b-60af73521b6c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/e69e3ab6-8fb6-40af-82b5-73b417d47f35/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -408,8 +527,9 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/valldemossa-nj-usa/Son%20Font%20Villa,%20Valldemossa,%20Mallorca,%20In%20Crosswicks,%20New%20Jersey,%20United%20States%20For%20Sale%20%2814802153%29_files/2200xxsxm.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/10/11/16/03/13/a6c4deae-66c8-4e0c-84e1-3787e9c266d7/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -445,9 +565,9 @@
     }
   ],
   "summary": {
-    "images_new": 9,
+    "images_new": 3,
     "images_existing": 28,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

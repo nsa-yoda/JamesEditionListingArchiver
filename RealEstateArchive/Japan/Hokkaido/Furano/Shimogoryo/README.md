@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/furano-japan/yuki-jo-furano-luxury-ski-villa-15174379
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:43Z
+- Retrieved: 2026-09-28T00:27:05Z
 - Address: Shimogoryo, Furano, Hokkaido, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=43.3374057,142.3611374
 - Coordinates: 43.34, 142.36
@@ -10,7 +10,7 @@
 - Listing reference: 4516137
 - First listed: Feb 5, 2025
 - Last updated: February 9
-- Images downloaded: 10
+- Images downloaded: 12
 
 ## Property
 

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/saddle-river-nj-usa/38-bridle-way-saddle-river-nj-07458-18650504
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:36Z
+- Retrieved: 2026-09-28T00:18:23Z
 - Address: 38 Bridle Way, Saddle River, NJ 07458, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.0474123,-74.0962377
 - Coordinates: 41.05, -74.1
@@ -10,7 +10,7 @@
 - Listing reference: QW573T
 - First listed: Aug 13
 - Last updated: August 13
-- Images downloaded: 9
+- Images downloaded: 16
 
 ## Property
 

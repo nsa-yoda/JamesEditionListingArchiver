@@ -8,7 +8,7 @@
     "listing_reference": "FEGPYL",
     "first_listed": "Aug 21, 2020",
     "last_updated": "February 9",
-    "retrieved_at": "2026-06-16T03:43:27.581789Z"
+    "retrieved_at": "2026-09-28T00:21:54.025544Z"
   },
   "location": {
     "address": "0 Dutch Mill Rd , FRANKLINVILLE, NJ 08322, New Jersey, United States",
@@ -84,6 +84,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/2200xxs.jpg",
       "file": "004-51fa9142.webp",
       "media_type": "image/webp",
@@ -92,7 +107,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/2200xxs.jpg",
@@ -103,7 +134,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/2200xxs.jpg",
@@ -114,7 +161,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/2200xxs.jpg",
@@ -125,7 +188,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/2200xxs.jpg",
@@ -136,43 +215,76 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-871c5eb73ed8.webp",
+      "media_type": "image/webp",
+      "bytes": 6282,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-b00ede1a20b0.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-63d3a9adb133.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9077dc30c761.webp",
+      "media_type": "image/webp",
+      "bytes": 640652,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-d79ebac7bbb8.webp",
+      "media_type": "image/webp",
+      "bytes": 382908,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-da47c2052023.webp",
+      "media_type": "image/webp",
+      "bytes": 380590,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9489a2309b7c.webp",
+      "media_type": "image/webp",
+      "bytes": 388462,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-f4fd88b4e002.webp",
+      "media_type": "image/webp",
+      "bytes": 235664,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-b4e6d01b96cc.webp",
+      "media_type": "image/webp",
+      "bytes": 655466,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -201,6 +313,17 @@
       "media_type": "image/svg+xml",
       "bytes": 63710,
       "status": "existing"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6204789833001\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "file": "vid-ea0557170ebb.mp4",
+      "media_type": "video/mp4",
+      "bytes": 11611494,
+      "status": "new",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg",
+      "poster_file": "img-ba4f68989216.webp"
     }
   ],
   "metadata": {
@@ -357,6 +480,69 @@
     "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/182e3d96-1b76-4e60-a0de-bf63e8a5dcd3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/8598ba2c-2413-410a-bfa9-cb08d0353b0f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/94463d30-ba77-41a0-a50b-57947f344a61/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/4dd568d9-2c5e-46b8-937f-e130af558afd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklinville-nj-usa/Hybrid%20Fusion%20Red%20Cedar%20Log%20Chalet%20In%20Franklin,%20New%20Jersey,%20United%20States%20For%20Sale%20%2811087737%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2020/08/21/11/38/55/207521a5-c6d6-4caa-8e10-3e9ba0b57b5c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

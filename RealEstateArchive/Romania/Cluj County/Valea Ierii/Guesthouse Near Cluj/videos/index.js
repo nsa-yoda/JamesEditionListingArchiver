@@ -1,0 +1,19 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Romania/Cluj County/Valea Ierii/Guesthouse Near Cluj/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-04bebcf34c97.webp",
+      "href": "img-04bebcf34c97.webp",
+      "size": 227842
+    },
+    {
+      "name": "vid-9184ff93cbf3.mp4",
+      "href": "vid-9184ff93cbf3.mp4",
+      "size": 95746695
+    }
+  ],
+  "last_updated": "2026-09-28T00:21:42.441203Z"
+};

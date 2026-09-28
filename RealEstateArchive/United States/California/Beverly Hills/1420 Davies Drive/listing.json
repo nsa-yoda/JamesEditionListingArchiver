@@ -8,7 +8,7 @@
     "listing_reference": "067520",
     "first_listed": "Mar 17",
     "last_updated": "March 17",
-    "retrieved_at": "2026-06-16T03:43:23.880146Z"
+    "retrieved_at": "2026-09-28T00:20:47.336109Z"
   },
   "location": {
     "address": "1420 Davies Drive, Beverly Hills, California, United States",
@@ -82,6 +82,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/2200xxs.jpg",
       "file": "004-90abb0c3.webp",
       "media_type": "image/webp",
@@ -90,7 +105,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/2200xxs.jpg",
@@ -101,7 +132,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/2200xxs.jpg",
@@ -112,7 +159,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/2200xxs.jpg",
@@ -123,7 +186,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/2200xxs.jpg",
@@ -134,43 +213,76 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-70b332b6a6c5.webp",
+      "media_type": "image/webp",
+      "bytes": 6698,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-6c531851201a.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-52b120284c2d.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a5bdd7b6c78b.webp",
+      "media_type": "image/webp",
+      "bytes": 287662,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-3e20536824b6.webp",
+      "media_type": "image/webp",
+      "bytes": 211004,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-53f4883f20bb.webp",
+      "media_type": "image/webp",
+      "bytes": 123948,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9b083ffd0a6e.webp",
+      "media_type": "image/webp",
+      "bytes": 336846,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9a62b6ae2fcd.webp",
+      "media_type": "image/webp",
+      "bytes": 316816,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-ce599d65fb22.webp",
+      "media_type": "image/webp",
+      "bytes": 704480,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -362,6 +474,69 @@
     "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f29873c5-dfab-464f-ba15-c4c81aeab01d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/2e7341a2-f5fd-4743-908c-24fa492876d2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8e033dbc-9914-4230-9d7d-fe5306125d26/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/f91ef3a3-75f5-4418-aa4f-a117f05023e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/Estate%20Beverly%20Hills%20United%20In%20Beverly%20Hills,%20California,%20United%20States%20For%20Sale%20%2817427404%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/8030c33c-0875-42f8-a764-21ef409dd4e1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

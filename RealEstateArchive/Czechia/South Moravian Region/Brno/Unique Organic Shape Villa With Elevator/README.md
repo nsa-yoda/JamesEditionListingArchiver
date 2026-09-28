@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/brno-czechia/unique-organic-shape-villa-with-elevator-pool-garden-near-brno-center-15835856
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:41Z
+- Retrieved: 2026-09-28T00:26:22Z
 - Address: Brno, South Moravian Region, Czechia
 - Map: https://www.google.com/maps/search/?api=1&query=49.185947840972,16.537479818862
 - Coordinates: 49.19, 16.54
@@ -10,7 +10,7 @@
 - Listing reference: 047976
 - First listed: Jun 25, 2025
 - Last updated: November 26, 2025
-- Images downloaded: 10
+- Images downloaded: 13
 
 ## Property
 

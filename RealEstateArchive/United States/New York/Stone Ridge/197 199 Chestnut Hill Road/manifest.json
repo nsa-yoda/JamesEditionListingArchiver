@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:35.764129Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197-199-chestnut-hill-road-stone-ridge-ny-12484-16152388",
     "canonical_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197-199-chestnut-hill-road-stone-ridge-ny-12484-16152388",
@@ -9,13 +9,13 @@
     "listing_reference": "46tlhg",
     "first_listed": "Sep 9, 2025",
     "last_updated": "June 1",
-    "retrieved_at": "2026-06-18T07:05:35.04808Z"
+    "retrieved_at": "2026-09-28T00:17:35.243898Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 5278,
-      "sha256": "c2b8d9959e092d3948028410fef6e6823b277de87f4109e2525401ca3f677627"
+      "sha256": "70e931fbcc151dea4f6254f90af36f9a98cea1a54e439f5f79bccf26dc06c4a7"
     },
     {
       "path": "images/004-698d0b99.webp",
@@ -333,9 +333,84 @@
       "sha256": "06d0c9710ffd7809d718ae68398483b4d6df43bb34533504f93483225f864a05"
     },
     {
+      "path": "images/img-0558fc03378d.webp",
+      "bytes": 5270,
+      "sha256": "21c44e9481b22e6c6d8ea124e15ff375e47fd3122a312ea84490f96e2bf69c4d"
+    },
+    {
+      "path": "images/img-15cafc34c9e7.webp",
+      "bytes": 661042,
+      "sha256": "cdad76ee5eabe7771436990e59a5df6e6a5faa4c5319fdaafea7c216401547db"
+    },
+    {
+      "path": "images/img-2e46ce85ab80.webp",
+      "bytes": 4706,
+      "sha256": "7beedb2e923c85a84378236c29c1a2ab26adb190f5b366e603eef20297feecb9"
+    },
+    {
+      "path": "images/img-462ff488d352.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-54cbe5128bd0.webp",
+      "bytes": 679682,
+      "sha256": "367bb76d1a32b0159175170c4b7a89f94198981aad8691bfe87583b2dcccd9d4"
+    },
+    {
+      "path": "images/img-5c56ff3317f1.webp",
+      "bytes": 3954,
+      "sha256": "da949e1c244819b2d3f202301bf117e3759b9eadd8d2f418ab24d8eea6239d8a"
+    },
+    {
+      "path": "images/img-6532918c821c.webp",
+      "bytes": 811412,
+      "sha256": "ec4ad58ccc0a1d7151b838f46d7cd9da07d91bcdd6248f552e2f2389d36b0582"
+    },
+    {
+      "path": "images/img-66eeb0cc914f.webp",
+      "bytes": 6112,
+      "sha256": "8fbd6818cecb710701dee90f97ddaf0eb00cc82e91bfc986fe7101ff490961a8"
+    },
+    {
+      "path": "images/img-73c0d816a7d3.webp",
+      "bytes": 5888,
+      "sha256": "6bd2f28f01582dac09c005895db4ef8df35feedd308d79d86bcd72a63dea7137"
+    },
+    {
+      "path": "images/img-7f3b15332351.webp",
+      "bytes": 6940,
+      "sha256": "c99e7c3cff8a5011992ec910619277cdbfde3dd69095be549884590687217fbf"
+    },
+    {
+      "path": "images/img-84ed508de1a1.webp",
+      "bytes": 3840,
+      "sha256": "2aa5e9fcbe1f471119cab258d88ed25235c115df85771eec4ead5eaf46a6126b"
+    },
+    {
+      "path": "images/img-97eacb264737.webp",
+      "bytes": 3666,
+      "sha256": "47f9b512af63661aef49ef5cde25a765ee26829a052946c6bc974eed46d15f9a"
+    },
+    {
+      "path": "images/img-c890c4494950.webp",
+      "bytes": 6314,
+      "sha256": "22cd91f5b89a4f3224135363d5782a2b563bf6a016b863eee47d44657045acda"
+    },
+    {
+      "path": "images/img-d9d35d0548af.webp",
+      "bytes": 5034,
+      "sha256": "78be9c86431f197e34b27982d63be467d40d9441cb66aaddaa4acde01360b162"
+    },
+    {
+      "path": "images/img-e332e269cb89.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 46616,
-      "sha256": "3c37e5609e70a05eb4c433cbfa160d915520b0d49dd0291b89c9df548a3803b1"
+      "bytes": 88649,
+      "sha256": "0b8b54575766241e1cf4ae83cb6d9d4ab528154e276ec7fee33e35e123201b3e"
     },
     {
       "path": "source.html",
@@ -351,6 +426,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/2200xxs.jpg",
       "path": "images/004-698d0b99.webp",
       "media_type": "image/webp",
@@ -360,7 +453,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -373,7 +485,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -386,7 +517,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -399,7 +549,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -412,67 +581,134 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2e46ce85ab80.webp",
+      "media_type": "image/webp",
+      "bytes": 4706,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e332e269cb89.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-66eeb0cc914f.webp",
+      "media_type": "image/webp",
+      "bytes": 6112,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c890c4494950.webp",
+      "media_type": "image/webp",
+      "bytes": 6314,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d9d35d0548af.webp",
+      "media_type": "image/webp",
+      "bytes": 5034,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7f3b15332351.webp",
+      "media_type": "image/webp",
+      "bytes": 6940,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-73c0d816a7d3.webp",
+      "media_type": "image/webp",
+      "bytes": 5888,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%286%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-5c56ff3317f1.webp",
+      "media_type": "image/webp",
+      "bytes": 3954,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%287%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-84ed508de1a1.webp",
+      "media_type": "image/webp",
+      "bytes": 3840,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%288%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-97eacb264737.webp",
+      "media_type": "image/webp",
+      "bytes": 3666,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/160x120xc%289%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0558fc03378d.webp",
+      "media_type": "image/webp",
+      "bytes": 5270,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-462ff488d352.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/f2d885d8-7a22-4a5e-896e-ea674cd5b71d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f0794cee-9c36-46f8-ab31-0226fafa1aa6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/ac70da2b-5b0f-4c03-89ca-98856b4026a4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/5bb10928-9333-4192-969f-40c5da9975ed/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -581,7 +817,8 @@
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/926b9f89-de1a-4470-bd95-f99818c3657a/je/2000xxs.jpg",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/926b9f89-de1a-4470-bd95-f99818c3657a/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/926b9f89-de1a-4470-bd95-f99818c3657a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -682,7 +919,8 @@
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/3e3f31fa-c455-44ef-bbd9-591ca1901fed/je/2000xxs.jpg",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/3e3f31fa-c455-44ef-bbd9-591ca1901fed/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/3e3f31fa-c455-44ef-bbd9-591ca1901fed/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -727,7 +965,8 @@
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/6cda05e4-22b2-4f83-97f4-09365617ac8b/je/2000xxs.jpg",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/6cda05e4-22b2-4f83-97f4-09365617ac8b/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/6cda05e4-22b2-4f83-97f4-09365617ac8b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -876,7 +1115,8 @@
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/870c450a-47f7-48a3-bfd1-52033dfc67ec/je/2000xxs.jpg",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/870c450a-47f7-48a3-bfd1-52033dfc67ec/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/870c450a-47f7-48a3-bfd1-52033dfc67ec/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -921,22 +1161,38 @@
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f6875ad4-8867-4a29-809b-b15d933a3a15/je/2000xxs.jpg",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f6875ad4-8867-4a29-809b-b15d933a3a15/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/03/f6875ad4-8867-4a29-809b-b15d933a3a15/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/2200xxs%2829%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-15cafc34c9e7.webp",
+      "media_type": "image/webp",
+      "bytes": 661042,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/2200xxs%2828%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-54cbe5128bd0.webp",
+      "media_type": "image/webp",
+      "bytes": 679682,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197%20199%20Chestnut%20Hill%20Road,%20Stone%20In%20Stone%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2816152388%29_files/2200xxs%2827%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-6532918c821c.webp",
+      "media_type": "image/webp",
+      "bytes": 811412,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/09/16/51/28/a5315f9c-aba9-430f-9ff9-65609f9a7ebe/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -980,9 +1236,9 @@
     }
   ],
   "summary": {
-    "images_new": 25,
+    "images_new": 15,
     "images_existing": 63,
-    "images_failed": 0,
+    "images_failed": 31,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

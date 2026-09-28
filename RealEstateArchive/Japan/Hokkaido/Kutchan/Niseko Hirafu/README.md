@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kutchan-japan/hakuchozan-award-winning-ski-chalet-in-niseko-hirafu-15174370
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:26Z
+- Retrieved: 2026-09-28T00:21:43Z
 - Address: Niseko Hirafu, Kutchan, Hokkaido, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=42.8576987,140.7089259
 - Coordinates: 42.86, 140.71
@@ -10,7 +10,7 @@
 - Listing reference: 4511556
 - First listed: Feb 5, 2025
 - Last updated: Today
-- Images downloaded: 10
+- Images downloaded: 21
 
 ## Property
 

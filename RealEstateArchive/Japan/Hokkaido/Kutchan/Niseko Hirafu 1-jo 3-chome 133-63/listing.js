@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "4520884",
     "first_listed": "Apr 17, 2025",
     "last_updated": "March 11",
-    "retrieved_at": "2026-06-16T03:43:43.939035Z"
+    "retrieved_at": "2026-09-28T00:27:05.77478Z"
   },
   "location": {
     "address": "Niseko Hirafu 1-jo 3-chome 133-63, Kutchan, Hokkaido, Japan",
@@ -76,6 +76,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/2200xxs.jpg",
       "file": "004-70047a17.webp",
       "media_type": "image/webp",
@@ -84,7 +99,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/2200xxs.jpg",
@@ -95,7 +126,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/2200xxs.jpg",
@@ -106,7 +153,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/2200xxs.jpg",
@@ -117,7 +180,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/2200xxs.jpg",
@@ -128,19 +207,34 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-8f282debf65e.webp",
+      "media_type": "image/webp",
+      "bytes": 4350,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-d9b14e4e164d.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-5b4c7f265342.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -176,6 +270,15 @@ window.listingArchiveListing = {
       "media_type": "image/webp",
       "bytes": 258,
       "status": "existing"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://player.vimeo.com/video/1152877637?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0\u0026h=ff8845e717",
+      "status": "failed",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg",
+      "poster_file": "img-9ce1922a9fec.webp",
+      "error": "yt-dlp could not download the video player URL"
     }
   ],
   "metadata": {
@@ -326,6 +429,72 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1152877637?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0\u0026amp;h=ff8845e717: Get \"https://player.vimeo.com/video/1152877637?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0\u0026amp;h=ff8845e717\": dial tcp: lookup player.vimeo.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1152877637?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0\u0026h=ff8845e717: yt-dlp could not download the video player URL",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/f350a42f-8753-4b4e-be97-088d7643988b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/eb7e88f2-9a60-4691-8a88-1f91bde35f92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/99ab8c91-5655-40b1-893e-bc555f229e59/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/0bb9f139-a861-47cf-b1e8-d1113d4b043d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Yukikage%20\u0026%20The%20Annex%20Award%20Winning%20Dual%20Residence%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815500085%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/20/09/50/02/d12fed32-03c3-4ce0-9c52-ec0643f69ed8/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1152877637?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0\u0026h=ff8845e717: yt-dlp could not download the video player URL"
   ]
 };

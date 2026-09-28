@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:23:39.103872Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/corfu-greece/opulent-estate-on-the-nisaki-coastline-corfu-16486484",
     "canonical_url": "https://www.jamesedition.com/real_estate/corfu-greece/opulent-estate-on-the-nisaki-coastline-corfu-16486484",
@@ -9,13 +9,13 @@
     "listing_reference": "RR7209",
     "first_listed": "Oct 24, 2025",
     "last_updated": "November 7, 2025",
-    "retrieved_at": "2026-06-16T03:43:33.248063Z"
+    "retrieved_at": "2026-09-28T00:23:38.639473Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3251,
-      "sha256": "344651707c232f69bda52f00cddf3205718860ecdd35b834255c7870a688cc57"
+      "sha256": "b17b35b91507bd30f2ca79ff4adcfcb4520af198978525dabd109b8b04dac28c"
     },
     {
       "path": "images/004-41e86b64.webp",
@@ -64,8 +64,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 20327,
-      "sha256": "dfe73c31e0e8e472e3048f14169e7287e3b0374857d7f78283fd3d759f169ace"
+      "bytes": 26253,
+      "sha256": "6b4335b9971920a7e76059f3a01dd9090615e31d9d8be4f7c4b326fa208ea191"
     },
     {
       "path": "source.html",

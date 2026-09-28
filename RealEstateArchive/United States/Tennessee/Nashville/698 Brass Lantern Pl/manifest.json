@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:07.189894Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/single-family-residence-in-brentwood-17858448",
     "canonical_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/single-family-residence-in-brentwood-17858448",
@@ -9,13 +9,13 @@
     "listing_reference": "3189561",
     "first_listed": "May 7",
     "last_updated": "June 18",
-    "retrieved_at": "2026-08-28T00:30:42.04392Z"
+    "retrieved_at": "2026-09-28T00:25:06.701307Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2871,
-      "sha256": "3fb0b3a5996861c4ee3f1398f2ba28d9ca457422003e76bce312055f99ccd028"
+      "sha256": "f82c05306a2c5fded0e2193b815294c83d3389eb68b837e0cc0e20bbd1baf888"
     },
     {
       "path": "images/img-04519d8fb5b0.webp",
@@ -36,6 +36,11 @@
       "path": "images/img-1405868d1342.webp",
       "bytes": 102776,
       "sha256": "8d6a50441f53a12a969cc9488b2db6cad400ae770fa00b89ed50d091436cf5bd"
+    },
+    {
+      "path": "images/img-14cc5ec7d4ee.webp",
+      "bytes": 514018,
+      "sha256": "fa83f16a4618ad54476889167211403b4079a9f7fc59b8e57c61dfa7d2b70f1d"
     },
     {
       "path": "images/img-167a496b17c2.webp",
@@ -118,9 +123,19 @@
       "sha256": "f6e19a42fe3ea294c858c0018f6b6a3b466c27a7732b97338308db6e5e1473fe"
     },
     {
+      "path": "images/img-4affd6f8f152.webp",
+      "bytes": 5628,
+      "sha256": "c8f35ff62da30f5e557f6fc6b1dfecac582e907c1f7477468685d23b4f9d07d7"
+    },
+    {
       "path": "images/img-4bcc7e108509.webp",
       "bytes": 355644,
       "sha256": "65af3867206536d57431d2d689c99dd5578bbe3fae9e97c203691463a586fe6d"
+    },
+    {
+      "path": "images/img-54285c677c18.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-57242b8ef18d.webp",
@@ -158,6 +173,11 @@
       "sha256": "35a9c8b5a703857f34dbe0e1d1d3d5216c033a36a46409ab442fdaae9ee8cf26"
     },
     {
+      "path": "images/img-6c2286111847.png",
+      "bytes": 46139,
+      "sha256": "0bcd3afd6a77d406f1ca79d7c8fd35bae987e28c5accf86bc7f0d097f4cdca74"
+    },
+    {
       "path": "images/img-74d3fd411b5a.webp",
       "bytes": 65946,
       "sha256": "cf8a3cf3a54711bb51b457362dc8b91b135b3925cd6f13c8f202f7c29e1cb7ca"
@@ -186,6 +206,11 @@
       "path": "images/img-7f471977367b.webp",
       "bytes": 276696,
       "sha256": "3a1454b497fbfdab31d8f098778eaf328e312e63e8af5611feb0db3a37d00e18"
+    },
+    {
+      "path": "images/img-81b9278a5b98.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-81d4b65126d0.webp",
@@ -364,8 +389,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 37143,
-      "sha256": "7ff23a0399f65f7f47cd6a9424c2bd0cba6274186331589791e4cf11e994d417"
+      "bytes": 77161,
+      "sha256": "ab5270120052ab0c2a9f8acc0b187a8dc00916fcfc72bcea7fc4d48dd7ba58df"
     },
     {
       "path": "source.html",
@@ -381,17 +406,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/2200xxs.jpg",
       "path": "images/img-3cbc439d34bb.webp",
       "media_type": "image/webp",
       "bytes": 265570,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/52cd54ad-b2a1-4863-81f6-f8c96a8331f8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/52cd54ad-b2a1-4863-81f6-f8c96a8331f8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/52cd54ad-b2a1-4863-81f6-f8c96a8331f8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/52cd54ad-b2a1-4863-81f6-f8c96a8331f8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/52cd54ad-b2a1-4863-81f6-f8c96a8331f8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/52cd54ad-b2a1-4863-81f6-f8c96a8331f8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -399,13 +460,31 @@
       "path": "images/img-4bcc7e108509.webp",
       "media_type": "image/webp",
       "bytes": 355644,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/7f79d618-b913-4390-ba67-1c99a5105106/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/7f79d618-b913-4390-ba67-1c99a5105106/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/7f79d618-b913-4390-ba67-1c99a5105106/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/7f79d618-b913-4390-ba67-1c99a5105106/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/7f79d618-b913-4390-ba67-1c99a5105106/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/7f79d618-b913-4390-ba67-1c99a5105106/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -413,13 +492,31 @@
       "path": "images/img-5e878fb69595.webp",
       "media_type": "image/webp",
       "bytes": 297908,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/77de3d83-21da-476a-88be-da3684631d67/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/77de3d83-21da-476a-88be-da3684631d67/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/77de3d83-21da-476a-88be-da3684631d67/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/77de3d83-21da-476a-88be-da3684631d67/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/77de3d83-21da-476a-88be-da3684631d67/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/77de3d83-21da-476a-88be-da3684631d67/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -427,13 +524,31 @@
       "path": "images/img-fde3cec5acae.webp",
       "media_type": "image/webp",
       "bytes": 243814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/24/01/20/57/e9157c2b-0501-4d94-b18a-5585d274d04a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/24/01/20/57/e9157c2b-0501-4d94-b18a-5585d274d04a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/24/01/20/57/e9157c2b-0501-4d94-b18a-5585d274d04a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/24/01/20/57/e9157c2b-0501-4d94-b18a-5585d274d04a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/24/01/20/57/e9157c2b-0501-4d94-b18a-5585d274d04a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/24/01/20/57/e9157c2b-0501-4d94-b18a-5585d274d04a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -441,37 +556,75 @@
       "path": "images/img-2bc6e5b54147.webp",
       "media_type": "image/webp",
       "bytes": 239434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/M00000574.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-6c2286111847.png",
+      "media_type": "image/png",
+      "bytes": 46139,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-4affd6f8f152.webp",
+      "media_type": "image/webp",
+      "bytes": 5628,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-54285c677c18.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-81b9278a5b98.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/52cd54ad-b2a1-4863-81f6-f8c96a8331f8/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/52cd54ad-b2a1-4863-81f6-f8c96a8331f8/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/7f79d618-b913-4390-ba67-1c99a5105106/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/7f79d618-b913-4390-ba67-1c99a5105106/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/77de3d83-21da-476a-88be-da3684631d67/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/77de3d83-21da-476a-88be-da3684631d67/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/24/01/20/57/e9157c2b-0501-4d94-b18a-5585d274d04a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/24/01/20/57/e9157c2b-0501-4d94-b18a-5585d274d04a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -479,7 +632,7 @@
       "path": "images/img-04519d8fb5b0.webp",
       "media_type": "image/webp",
       "bytes": 272632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -487,7 +640,7 @@
       "path": "images/img-d9134507ad64.webp",
       "media_type": "image/webp",
       "bytes": 229538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -495,7 +648,7 @@
       "path": "images/img-4169bd6a72d1.webp",
       "media_type": "image/webp",
       "bytes": 202692,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -503,7 +656,7 @@
       "path": "images/img-8f1c0766b38d.webp",
       "media_type": "image/webp",
       "bytes": 151526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -511,7 +664,7 @@
       "path": "images/img-e626660c8e8e.webp",
       "media_type": "image/webp",
       "bytes": 166992,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -519,7 +672,7 @@
       "path": "images/img-3b320b339414.webp",
       "media_type": "image/webp",
       "bytes": 157830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -527,7 +680,7 @@
       "path": "images/img-3deeb2ea78dc.webp",
       "media_type": "image/webp",
       "bytes": 169918,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -535,7 +688,7 @@
       "path": "images/img-17f4c335a0c6.webp",
       "media_type": "image/webp",
       "bytes": 134760,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -543,7 +696,7 @@
       "path": "images/img-831bbe645450.webp",
       "media_type": "image/webp",
       "bytes": 179406,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -551,7 +704,7 @@
       "path": "images/img-7f471977367b.webp",
       "media_type": "image/webp",
       "bytes": 276696,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -559,7 +712,7 @@
       "path": "images/img-5d96386d552d.webp",
       "media_type": "image/webp",
       "bytes": 280980,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -567,7 +720,7 @@
       "path": "images/img-33ca1c2f8b55.webp",
       "media_type": "image/webp",
       "bytes": 204342,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -575,7 +728,7 @@
       "path": "images/img-64fc16b84931.webp",
       "media_type": "image/webp",
       "bytes": 226718,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -583,7 +736,7 @@
       "path": "images/img-f9ebcd7a6479.webp",
       "media_type": "image/webp",
       "bytes": 202234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -591,7 +744,7 @@
       "path": "images/img-2bf318e30ff8.webp",
       "media_type": "image/webp",
       "bytes": 164246,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -599,7 +752,7 @@
       "path": "images/img-d0dac5fef530.webp",
       "media_type": "image/webp",
       "bytes": 144656,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -607,7 +760,7 @@
       "path": "images/img-77f451d723b0.webp",
       "media_type": "image/webp",
       "bytes": 189808,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -615,7 +768,7 @@
       "path": "images/img-f0d1feaea7ea.webp",
       "media_type": "image/webp",
       "bytes": 126144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -623,7 +776,7 @@
       "path": "images/img-424c69ecbe0f.webp",
       "media_type": "image/webp",
       "bytes": 156164,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -631,7 +784,7 @@
       "path": "images/img-5c5b98ee5d31.webp",
       "media_type": "image/webp",
       "bytes": 343088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -639,7 +792,7 @@
       "path": "images/img-a52c3750ed02.webp",
       "media_type": "image/webp",
       "bytes": 336958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -647,7 +800,7 @@
       "path": "images/img-f054189eae94.webp",
       "media_type": "image/webp",
       "bytes": 205144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -655,7 +808,7 @@
       "path": "images/img-35da6a924220.webp",
       "media_type": "image/webp",
       "bytes": 310630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -663,7 +816,7 @@
       "path": "images/img-8dd12936ea0b.webp",
       "media_type": "image/webp",
       "bytes": 294166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -671,7 +824,7 @@
       "path": "images/img-0a63588ab33e.webp",
       "media_type": "image/webp",
       "bytes": 202982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -679,7 +832,7 @@
       "path": "images/img-ffdce7a94740.webp",
       "media_type": "image/webp",
       "bytes": 154750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -687,7 +840,7 @@
       "path": "images/img-fb4610df0d97.webp",
       "media_type": "image/webp",
       "bytes": 186534,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -695,7 +848,7 @@
       "path": "images/img-872502c8cad5.webp",
       "media_type": "image/webp",
       "bytes": 155502,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -703,7 +856,7 @@
       "path": "images/img-e27f49772822.webp",
       "media_type": "image/webp",
       "bytes": 188646,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -711,7 +864,7 @@
       "path": "images/img-9449c7e38863.webp",
       "media_type": "image/webp",
       "bytes": 223130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -719,7 +872,7 @@
       "path": "images/img-61d19cd466a4.webp",
       "media_type": "image/webp",
       "bytes": 279728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -727,7 +880,7 @@
       "path": "images/img-167a496b17c2.webp",
       "media_type": "image/webp",
       "bytes": 165282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -735,7 +888,7 @@
       "path": "images/img-74d3fd411b5a.webp",
       "media_type": "image/webp",
       "bytes": 65946,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -743,7 +896,7 @@
       "path": "images/img-fc0f3ace81d1.webp",
       "media_type": "image/webp",
       "bytes": 70394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -751,7 +904,7 @@
       "path": "images/img-db858f8b08ec.webp",
       "media_type": "image/webp",
       "bytes": 72776,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -759,7 +912,7 @@
       "path": "images/img-fd6af8567fea.webp",
       "media_type": "image/webp",
       "bytes": 205122,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -767,7 +920,7 @@
       "path": "images/img-e8e1a4cd5505.webp",
       "media_type": "image/webp",
       "bytes": 225790,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -775,7 +928,7 @@
       "path": "images/img-1a70a3e2dbf1.webp",
       "media_type": "image/webp",
       "bytes": 167164,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -783,7 +936,7 @@
       "path": "images/img-f85feb46c37c.webp",
       "media_type": "image/webp",
       "bytes": 124640,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -791,7 +944,7 @@
       "path": "images/img-5755beb97a94.webp",
       "media_type": "image/webp",
       "bytes": 72536,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -799,7 +952,7 @@
       "path": "images/img-b6a4a9d91adf.webp",
       "media_type": "image/webp",
       "bytes": 161398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -807,7 +960,7 @@
       "path": "images/img-a39ab3707f2c.webp",
       "media_type": "image/webp",
       "bytes": 145172,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -815,7 +968,7 @@
       "path": "images/img-76f6b3e21912.webp",
       "media_type": "image/webp",
       "bytes": 108040,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -823,7 +976,7 @@
       "path": "images/img-fa102ac9534c.webp",
       "media_type": "image/webp",
       "bytes": 93910,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -831,7 +984,7 @@
       "path": "images/img-9a22655a7a73.webp",
       "media_type": "image/webp",
       "bytes": 141136,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -839,7 +992,7 @@
       "path": "images/img-e92cc08951c3.webp",
       "media_type": "image/webp",
       "bytes": 177558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -847,7 +1000,7 @@
       "path": "images/img-12e31c218051.webp",
       "media_type": "image/webp",
       "bytes": 146536,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -855,7 +1008,7 @@
       "path": "images/img-8e9af046539c.webp",
       "media_type": "image/webp",
       "bytes": 180502,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -863,7 +1016,7 @@
       "path": "images/img-a5edae879bbb.webp",
       "media_type": "image/webp",
       "bytes": 174812,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -871,7 +1024,7 @@
       "path": "images/img-99a273559aa6.webp",
       "media_type": "image/webp",
       "bytes": 168012,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -879,7 +1032,7 @@
       "path": "images/img-f2dd71c7c293.webp",
       "media_type": "image/webp",
       "bytes": 91212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -887,7 +1040,7 @@
       "path": "images/img-97c72b199eca.webp",
       "media_type": "image/webp",
       "bytes": 76418,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -895,7 +1048,7 @@
       "path": "images/img-e66e0631d152.webp",
       "media_type": "image/webp",
       "bytes": 79710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -903,7 +1056,7 @@
       "path": "images/img-9bf27ec8e592.webp",
       "media_type": "image/webp",
       "bytes": 198062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -911,7 +1064,7 @@
       "path": "images/img-1a38bf4b2ae2.webp",
       "media_type": "image/webp",
       "bytes": 175788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -919,7 +1072,7 @@
       "path": "images/img-49dac2192c84.webp",
       "media_type": "image/webp",
       "bytes": 153122,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -927,7 +1080,7 @@
       "path": "images/img-17b03c3a1e36.webp",
       "media_type": "image/webp",
       "bytes": 111142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -935,7 +1088,7 @@
       "path": "images/img-1405868d1342.webp",
       "media_type": "image/webp",
       "bytes": 102776,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -943,7 +1096,7 @@
       "path": "images/img-91bb847cd49c.webp",
       "media_type": "image/webp",
       "bytes": 132252,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -951,7 +1104,7 @@
       "path": "images/img-81d4b65126d0.webp",
       "media_type": "image/webp",
       "bytes": 132898,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -959,7 +1112,7 @@
       "path": "images/img-7875bb9fdf91.webp",
       "media_type": "image/webp",
       "bytes": 310440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -967,7 +1120,7 @@
       "path": "images/img-420ce50cdbb2.webp",
       "media_type": "image/webp",
       "bytes": 380512,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -975,13 +1128,21 @@
       "path": "images/img-7beceb84135c.webp",
       "media_type": "image/webp",
       "bytes": 514054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brentwood-tn-usa/Single%20Family%20Residence%20In%20Brentwood%20In%20Nashville,%20Tennessee,%20United%20States%20For%20Sale%20%2817858448%29_files/2200xxs%2867%29.jpg",
+      "path": "images/img-14cc5ec7d4ee.webp",
+      "media_type": "image/webp",
+      "bytes": 514018,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/22/14/25/37/81d29c8b-635d-4a79-ba6d-333ee06ae0c5/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -989,31 +1150,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 69,
-    "images_existing": 0,
-    "images_failed": 13,
+    "images_new": 5,
+    "images_existing": 69,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

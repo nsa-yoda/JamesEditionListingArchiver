@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:23:13.688375Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/kutchan-japan/niseko-hirafu-escarpment-house-15256392",
     "canonical_url": "https://www.jamesedition.com/real_estate/kutchan-japan/niseko-hirafu-escarpment-house-15256392",
@@ -9,13 +9,13 @@
     "listing_reference": "456764",
     "first_listed": "Feb 23, 2025",
     "last_updated": "Today",
-    "retrieved_at": "2026-06-16T03:43:30.962339Z"
+    "retrieved_at": "2026-09-28T00:23:13.19181Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2030,
-      "sha256": "e5f51c152f5c9b4452880cd42cabc43ec081737c380847d77ffacd17087fd08d"
+      "sha256": "51b63e4110ff32745ab50d12ef5dd3444dd2d5d4f8551e66d9d6491e1fcc95ee"
     },
     {
       "path": "images/004-9f43fc37.webp",
@@ -69,8 +69,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 19621,
-      "sha256": "78f257aee47586a455dcfa097be4ebc129bd89c9802852053770ffdc7caf8ba1"
+      "bytes": 26676,
+      "sha256": "73016017001a179da2bd083ebcc2d7401491ed13dd7b225ab862788c503c6ba2"
     },
     {
       "path": "source.html",

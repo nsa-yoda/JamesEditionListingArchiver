@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:30.181803Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441-bay-center-rd-rd-south-bend-wa-98586-15942229",
     "canonical_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441-bay-center-rd-rd-south-bend-wa-98586-15942229",
@@ -9,13 +9,13 @@
     "listing_reference": "ZCYB3F",
     "first_listed": "Jul 17, 2025",
     "last_updated": "April 22",
-    "retrieved_at": "2026-06-16T03:43:17.706732Z"
+    "retrieved_at": "2026-09-28T00:18:29.707294Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2506,
-      "sha256": "0ecc10fe6b3eea1836fad0534070761b44cad78d61b689ae34cae58f90d896cf"
+      "bytes": 2507,
+      "sha256": "432315cf7d3891ec33e28e702a78a8c6f3b6d0af56081fcf3c64dffe3e79cefd"
     },
     {
       "path": "images/004-2adca392.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-044290967d09.webp",
+      "bytes": 6804,
+      "sha256": "24398ba115988c5c867f2d6e0f0972dc613834169f72837e5b95446f0b5450da"
+    },
+    {
+      "path": "images/img-808ec7915387.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-e10f7d6fc4c4.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 16641,
-      "sha256": "64dad081bb702dd960c47d978cb2ad023bba6c55068fabe19ead14e238d14190"
+      "bytes": 46762,
+      "sha256": "67f12f7b237a3b265a2794919b22088e7acbcd70ed55dc772954c55cc5201ec4"
     },
     {
       "path": "source.html",
@@ -81,6 +96,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/2200xxs.jpg",
       "path": "images/004-2adca392.webp",
       "media_type": "image/webp",
@@ -90,7 +123,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/88324f6f-c164-4c43-805b-0557f9c8b19d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/88324f6f-c164-4c43-805b-0557f9c8b19d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/88324f6f-c164-4c43-805b-0557f9c8b19d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/88324f6f-c164-4c43-805b-0557f9c8b19d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/88324f6f-c164-4c43-805b-0557f9c8b19d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/88324f6f-c164-4c43-805b-0557f9c8b19d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +155,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/0f44a8dd-c46a-44cc-9ff0-c527a3dee4cc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/0f44a8dd-c46a-44cc-9ff0-c527a3dee4cc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/0f44a8dd-c46a-44cc-9ff0-c527a3dee4cc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/0f44a8dd-c46a-44cc-9ff0-c527a3dee4cc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/0f44a8dd-c46a-44cc-9ff0-c527a3dee4cc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/0f44a8dd-c46a-44cc-9ff0-c527a3dee4cc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +187,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/e7a32f69-c367-471e-82de-be892bbe98a7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/e7a32f69-c367-471e-82de-be892bbe98a7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/e7a32f69-c367-471e-82de-be892bbe98a7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/e7a32f69-c367-471e-82de-be892bbe98a7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/e7a32f69-c367-471e-82de-be892bbe98a7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/e7a32f69-c367-471e-82de-be892bbe98a7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +219,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/4e5cd863-b2ee-44c6-adc0-ea3d36f49a60/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/4e5cd863-b2ee-44c6-adc0-ea3d36f49a60/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/4e5cd863-b2ee-44c6-adc0-ea3d36f49a60/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/4e5cd863-b2ee-44c6-adc0-ea3d36f49a60/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/4e5cd863-b2ee-44c6-adc0-ea3d36f49a60/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/4e5cd863-b2ee-44c6-adc0-ea3d36f49a60/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +251,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-044290967d09.webp",
+      "media_type": "image/webp",
+      "bytes": 6804,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e10f7d6fc4c4.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/south-bend-wa-usa/441%20Bay%20Center%20Rd%20Rd%20South%20Bend,%20Wa%20In%20South%20Bend,%20Washington,%20United%20States%20For%20Sale%20%2815942229%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-808ec7915387.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/17/14/27/17/53828bd7-98eb-4b7a-bbc9-b06ae7ddd1bf/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,9 +318,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

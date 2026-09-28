@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/briarcliff-manor-ny-usa/24-country-club-lane-15453268
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:16Z
+- Retrieved: 2026-09-28T00:18:02Z
 - Address: 24 Country Club Lane, Briarcliff Manor, NY 10510, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.123818,-73.864437
 - Coordinates: 41.12, -73.86
@@ -10,7 +10,7 @@
 - Listing reference: SQC98K
 - First listed: Apr 7, 2025
 - Last updated: April 7, 2025
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

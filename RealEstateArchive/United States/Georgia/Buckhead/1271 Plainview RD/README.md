@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/madison-ga-usa/single-family-residence-in-madison-18212496
 - Site: jamesedition
-- Retrieved: 2026-06-21T09:21:29Z
+- Retrieved: 2026-09-28T00:25:18Z
 - Address: 1271 Plainview RD, Buckhead, Georgia, United States
 - Map: https://www.google.com/maps/search/?api=1&query=33.565463,-83.427576
 - Coordinates: 33.57, -83.43
@@ -10,7 +10,7 @@
 - Listing reference: 10788238
 - First listed: Jun 18
 - Last updated: Yesterday
-- Images downloaded: 116
+- Images downloaded: 120
 
 ## Property
 

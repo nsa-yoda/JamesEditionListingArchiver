@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:12.115451Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/an-awe-inspiring-retreat-situated-on-forty-private-acres-15841182",
     "canonical_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/an-awe-inspiring-retreat-situated-on-forty-private-acres-15841182",
@@ -9,13 +9,13 @@
     "listing_reference": "9B7KCP",
     "first_listed": "Jun 25, 2025",
     "last_updated": "April 16",
-    "retrieved_at": "2026-06-16T03:43:21.190557Z"
+    "retrieved_at": "2026-09-28T00:19:54.650829Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2907,
-      "sha256": "7786718ac1e368cb7db0d3dd2be83e9c10b4bd0a2e90b49e1366e488e37137d8"
+      "bytes": 2908,
+      "sha256": "6eea99b867bb84047849991e75adf0aef339731ae7ea90b071b9a5f3467b0e06"
     },
     {
       "path": "images/004-cdad6f2d.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-50edca2fe0c0.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-7bfc7710d7b7.webp",
+      "bytes": 6592,
+      "sha256": "933bc2d53ad13f503c9fa719e466c403ce6db51a968e3effeec63266cfe03597"
+    },
+    {
+      "path": "images/img-c98ab7a1991c.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 17183,
-      "sha256": "c59d800c5ba99768480550aab1958781274160d4ac1ef7bed65d6e1a1c6c4119"
+      "bytes": 47783,
+      "sha256": "3429a489fb5926674965cd840fdd422231fefbe430ed81479910e0c9889ab590"
     },
     {
       "path": "source.html",
@@ -76,9 +91,47 @@
       "path": "source.url",
       "bytes": 134,
       "sha256": "7f1ecfbbc8c6743384ab8ae9ae5779b5a11b9b58471b4f06dd7e414045d7401b"
+    },
+    {
+      "path": "videos/img-01a8f2a60919.webp",
+      "bytes": 152036,
+      "sha256": "b2b96ec0b888f9cdc7e0558da0c2d987876f3ae0a6416b6e8193a04301854b1f"
+    },
+    {
+      "path": "videos/vid-e416a7facee9.mp4",
+      "bytes": 130306887,
+      "sha256": "7571c93888dd6e32f44387e19b1a4434c629c7b1f03191e4e47d2234b8e91726"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6375325889112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-e416a7facee9.mp4",
+      "media_type": "video/mp4",
+      "bytes": 130306887,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/1040x620xc.jpg",
+      "poster_path": "videos/img-01a8f2a60919.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/2200xxs.jpg",
@@ -90,7 +143,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/1c77e6d7-049c-4f1c-96aa-9c0ec04636dd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/1c77e6d7-049c-4f1c-96aa-9c0ec04636dd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/1c77e6d7-049c-4f1c-96aa-9c0ec04636dd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/1c77e6d7-049c-4f1c-96aa-9c0ec04636dd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/1c77e6d7-049c-4f1c-96aa-9c0ec04636dd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/1c77e6d7-049c-4f1c-96aa-9c0ec04636dd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +175,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/36d69bea-c3aa-4723-889a-2d2026c8d6b1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/36d69bea-c3aa-4723-889a-2d2026c8d6b1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/36d69bea-c3aa-4723-889a-2d2026c8d6b1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/36d69bea-c3aa-4723-889a-2d2026c8d6b1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/36d69bea-c3aa-4723-889a-2d2026c8d6b1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/36d69bea-c3aa-4723-889a-2d2026c8d6b1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +207,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/91b3d246-5c79-4509-979a-5b4c3d45d38a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/91b3d246-5c79-4509-979a-5b4c3d45d38a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/91b3d246-5c79-4509-979a-5b4c3d45d38a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/91b3d246-5c79-4509-979a-5b4c3d45d38a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/91b3d246-5c79-4509-979a-5b4c3d45d38a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/91b3d246-5c79-4509-979a-5b4c3d45d38a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +239,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/492e3ce9-bd86-4917-a961-a07af40e1773/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/492e3ce9-bd86-4917-a961-a07af40e1773/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/492e3ce9-bd86-4917-a961-a07af40e1773/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/492e3ce9-bd86-4917-a961-a07af40e1773/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/492e3ce9-bd86-4917-a961-a07af40e1773/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/492e3ce9-bd86-4917-a961-a07af40e1773/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +271,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7bfc7710d7b7.webp",
+      "media_type": "image/webp",
+      "bytes": 6592,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-50edca2fe0c0.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/An%20Awe%20Inspiring%20Retreat%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815841182%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c98ab7a1991c.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/17/04/30/0e11b7e8-c3a2-45ff-8e46-fcca0701cd06/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,10 +338,10 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

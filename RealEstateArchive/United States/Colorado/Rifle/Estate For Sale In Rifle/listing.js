@@ -6,7 +6,7 @@ window.listingArchiveListing = {
     "site": "jamesedition",
     "listing_id": "15928363",
     "first_listed": "Jul 14, 2025",
-    "retrieved_at": "2026-06-16T03:43:24.295602Z"
+    "retrieved_at": "2026-09-28T00:20:48.261702Z"
   },
   "location": {
     "address": "164 Booms Pl, Rifle, CO 81650, Colorado, United States",
@@ -61,6 +61,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/2200xxs.jpg",
       "file": "004-efc514e7.webp",
       "media_type": "image/webp",
@@ -69,7 +84,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/2200xxs.jpg",
@@ -80,7 +111,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/2200xxs.jpg",
@@ -91,7 +138,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/2200xxs.jpg",
@@ -102,7 +165,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/2200xxs.jpg",
@@ -113,55 +192,97 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9241fb9534cf.webp",
+      "media_type": "image/webp",
+      "bytes": 4514,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-2c37b1cecd7f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-0100cd11a264.webp",
+      "media_type": "image/webp",
+      "bytes": 6054,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-722950a83a08.webp",
+      "media_type": "image/webp",
+      "bytes": 5840,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-cbd687b348dd.webp",
+      "media_type": "image/webp",
+      "bytes": 4846,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-521ef439a8b7.webp",
+      "media_type": "image/webp",
+      "bytes": 4224,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-031eae443490.webp",
+      "media_type": "image/webp",
+      "bytes": 3842,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%286%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-4ce273ef6a2b.webp",
+      "media_type": "image/webp",
+      "bytes": 4580,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%287%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-b1001e2e262c.webp",
+      "media_type": "image/webp",
+      "bytes": 5274,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%288%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-2a55def229c2.webp",
+      "media_type": "image/webp",
+      "bytes": 4806,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%289%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-0e20bca105d2.webp",
+      "media_type": "image/webp",
+      "bytes": 3748,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-398ab085895f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -349,6 +470,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%287%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%288%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/160x120xc%289%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/23/7c5ef0b0-3e73-44b2-ad42-cb71f7942e9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/136d6af0-7700-4a5b-b249-530ce8a86d9b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/26/42/690b2859-d30f-447b-adbc-9693a4806a40/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/14/51/24/1b13f32a-fb97-4696-81a2-0e3f62edc00f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/rifle-co-usa/Estate%20For%20Sale%20In%20Rifle,%20Colorado%20In%20Rifle,%20Colorado,%20United%20States%20For%20Sale%20%2815928363%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/14/19/20/29/e7cedda8-d13e-47c1-9649-700f77132f7c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

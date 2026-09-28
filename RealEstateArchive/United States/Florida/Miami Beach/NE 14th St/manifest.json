@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:22:01.179437Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/italian-design-meets-miami-skyline-casa-bella-residences-at-downtown-s-popular-omni-neighborhood-17470324",
     "canonical_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/italian-design-meets-miami-skyline-casa-bella-residences-at-downtown-s-popular-omni-neighborhood-17470324",
@@ -8,13 +8,13 @@
     "listing_id": "17470324",
     "first_listed": "Mar 24",
     "last_updated": "June 10",
-    "retrieved_at": "2026-08-28T00:28:51.34777Z"
+    "retrieved_at": "2026-09-28T00:22:00.811436Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 7641,
-      "sha256": "522aae5cff238f28662b7b2478bcc46aaeccc0f12b64dd6e9a37456a09ccce9d"
+      "sha256": "6b40291ab79d652f6882776043b024e3c469bf3bd28c8437bec2714834c877a4"
     },
     {
       "path": "images/img-008aae0bc785.webp",
@@ -137,6 +137,11 @@
       "sha256": "dec371ca3c788b78d2f34f457e7087dda2eb5907036067a35540b2a5ec8bfcfe"
     },
     {
+      "path": "images/img-479552b1729c.webp",
+      "bytes": 15902,
+      "sha256": "a1a65f32a82f6dd29aad4e06fb99f55cec7eb95bc18d366949da143f64248928"
+    },
+    {
       "path": "images/img-56e8305ca395.webp",
       "bytes": 138336,
       "sha256": "afefbb36cf70fbc971c0e520d1286ee02a8970e2fe94af7b273be9481422c413"
@@ -155,6 +160,11 @@
       "path": "images/img-5c07769a347f.webp",
       "bytes": 346458,
       "sha256": "d8940b235bef4e446d5be778042c13c54e2a884d7d83ec11d64ec42547fcfe99"
+    },
+    {
+      "path": "images/img-672a7fd18e7c.webp",
+      "bytes": 3348,
+      "sha256": "4edd77790f68c92b982631c7d69b06e1369ca5ed3034d3a7b69a075b5ae43fa1"
     },
     {
       "path": "images/img-684b15102f0a.webp",
@@ -195,6 +205,11 @@
       "path": "images/img-83912987559f.webp",
       "bytes": 273206,
       "sha256": "ee5bb1d335bb7d3675207c742fd2b479b58647bdac5bef77323eeb17d971f4c2"
+    },
+    {
+      "path": "images/img-8c84a923c2c1.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-8eba40ad08e1.webp",
@@ -242,6 +257,16 @@
       "sha256": "61912914c0ec5f478e331ecbc4d9efbfc7e7d3b67522bbdf852f357e0455fc74"
     },
     {
+      "path": "images/img-c061620a05b9.webp",
+      "bytes": 192630,
+      "sha256": "b6bb56682be1287a983d1e473e47c0802df38bb9c75e8f77930810c11c0e1d34"
+    },
+    {
+      "path": "images/img-c0c9ca2a35e3.webp",
+      "bytes": 325108,
+      "sha256": "81942cd21dc21edd196e68d425b298ff8b9a93ee842b055ad4f08a3ed3aa6d8b"
+    },
+    {
       "path": "images/img-c3aff77ec8c0.webp",
       "bytes": 237660,
       "sha256": "0af405669e363fc2c4307317035123255180d418b228f850ae97c433b00c1cc2"
@@ -270,6 +295,11 @@
       "path": "images/img-d4fe1e77c746.webp",
       "bytes": 135742,
       "sha256": "d8fb1b4a6823587460a34a03260a851cff0a4b3434bd57a321789c7b355f6cf7"
+    },
+    {
+      "path": "images/img-d656f8bcb1ff.webp",
+      "bytes": 208624,
+      "sha256": "b7f735220bf3832ba73cab2d839c2a3ee62a2c1cd493f631ba27cfc4e7300237"
     },
     {
       "path": "images/img-d9eb8c06f92e.webp",
@@ -328,8 +358,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 47807,
-      "sha256": "ff0f7c9a2823a9857ae92da83c41d04e963c825e079eda523b2b8e84dc9517f1"
+      "bytes": 80637,
+      "sha256": "f77259cbcaf0cf7434966d5f00193c7a95078909c675c16ea1cb148f9253d8d5"
     },
     {
       "path": "source.html",
@@ -345,17 +375,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/2200xxs.jpg",
       "path": "images/img-0f0f1eeccf69.webp",
       "media_type": "image/webp",
       "bytes": 247328,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/12/20/47/795f95c8-c7f9-4d5e-9f3c-f721d51716c2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/12/20/47/795f95c8-c7f9-4d5e-9f3c-f721d51716c2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/12/20/47/795f95c8-c7f9-4d5e-9f3c-f721d51716c2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/12/20/47/795f95c8-c7f9-4d5e-9f3c-f721d51716c2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/12/20/47/795f95c8-c7f9-4d5e-9f3c-f721d51716c2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/12/20/47/795f95c8-c7f9-4d5e-9f3c-f721d51716c2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -363,13 +429,31 @@
       "path": "images/img-c3aff77ec8c0.webp",
       "media_type": "image/webp",
       "bytes": 237660,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/00/1f9ab0a2-6c47-446f-8516-7682c93d29e9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/00/1f9ab0a2-6c47-446f-8516-7682c93d29e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/00/1f9ab0a2-6c47-446f-8516-7682c93d29e9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/00/1f9ab0a2-6c47-446f-8516-7682c93d29e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/00/1f9ab0a2-6c47-446f-8516-7682c93d29e9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/00/1f9ab0a2-6c47-446f-8516-7682c93d29e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -377,13 +461,31 @@
       "path": "images/img-dbdae406de20.webp",
       "media_type": "image/webp",
       "bytes": 374708,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/d3829201-987d-41b9-b945-7b608ff5a48a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/d3829201-987d-41b9-b945-7b608ff5a48a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/d3829201-987d-41b9-b945-7b608ff5a48a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/d3829201-987d-41b9-b945-7b608ff5a48a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/d3829201-987d-41b9-b945-7b608ff5a48a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/d3829201-987d-41b9-b945-7b608ff5a48a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -391,13 +493,31 @@
       "path": "images/img-782d0eaedaf9.webp",
       "media_type": "image/webp",
       "bytes": 442774,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/9c1700f0-3d02-4c44-b629-3e6ba5fdf144/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/9c1700f0-3d02-4c44-b629-3e6ba5fdf144/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/9c1700f0-3d02-4c44-b629-3e6ba5fdf144/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/9c1700f0-3d02-4c44-b629-3e6ba5fdf144/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/9c1700f0-3d02-4c44-b629-3e6ba5fdf144/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/9c1700f0-3d02-4c44-b629-3e6ba5fdf144/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -405,92 +525,76 @@
       "path": "images/img-6e457ca3d027.webp",
       "media_type": "image/webp",
       "bytes": 247328,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-672a7fd18e7c.webp",
+      "media_type": "image/webp",
+      "bytes": 3348,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-479552b1729c.webp",
+      "media_type": "image/webp",
+      "bytes": 15902,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-8c84a923c2c1.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-ff792c6c6fa5.webp",
+      "media_type": "image/webp",
+      "bytes": 156884,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-6e3ab2a13795.webp",
+      "media_type": "image/webp",
+      "bytes": 288326,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-8eba40ad08e1.webp",
+      "media_type": "image/webp",
+      "bytes": 81458,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-d9eb8c06f92e.webp",
+      "media_type": "image/webp",
+      "bytes": 315650,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/71e6a292-8529-4606-b9b0-d719ce133282/je/2000xxs.jpg",
-      "path": "images/img-ff792c6c6fa5.webp",
+      "path": "images/img-d656f8bcb1ff.webp",
       "media_type": "image/webp",
-      "bytes": 156884,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/12/20/47/e16973dc-c018-4e94-a041-302e162eec5d/je/2000xxs.jpg",
-      "path": "images/img-6e3ab2a13795.webp",
-      "media_type": "image/webp",
-      "bytes": 288326,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/ee0fefcd-bb98-424e-a8dc-8797c351ef85/je/2000xxs.jpg",
-      "path": "images/img-8eba40ad08e1.webp",
-      "media_type": "image/webp",
-      "bytes": 81458,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/11/30/02/b3aa7b5c-f9b3-4e34-ba76-1bc6d13aa93a/je/2000xxs.jpg",
-      "path": "images/img-d9eb8c06f92e.webp",
-      "media_type": "image/webp",
-      "bytes": 315650,
+      "bytes": 208624,
       "status": "new"
     },
     {
@@ -499,7 +603,7 @@
       "path": "images/img-045ba23f92f3.webp",
       "media_type": "image/webp",
       "bytes": 271970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -507,7 +611,7 @@
       "path": "images/img-02779b870690.webp",
       "media_type": "image/webp",
       "bytes": 228670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -515,7 +619,7 @@
       "path": "images/img-4532955ec72b.webp",
       "media_type": "image/webp",
       "bytes": 162744,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -523,7 +627,7 @@
       "path": "images/img-9256347da435.webp",
       "media_type": "image/webp",
       "bytes": 210360,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -531,7 +635,7 @@
       "path": "images/img-edcefc093ad7.webp",
       "media_type": "image/webp",
       "bytes": 201940,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -539,7 +643,7 @@
       "path": "images/img-0895b20f1ca0.webp",
       "media_type": "image/webp",
       "bytes": 250768,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -547,7 +651,7 @@
       "path": "images/img-282fffc53ff9.webp",
       "media_type": "image/webp",
       "bytes": 223236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -555,7 +659,7 @@
       "path": "images/img-e626e4c95d5f.webp",
       "media_type": "image/webp",
       "bytes": 384908,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -563,7 +667,7 @@
       "path": "images/img-f1ec74ce27a3.webp",
       "media_type": "image/webp",
       "bytes": 143760,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -571,7 +675,7 @@
       "path": "images/img-42f63d236feb.webp",
       "media_type": "image/webp",
       "bytes": 150092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -579,7 +683,7 @@
       "path": "images/img-163ec5351ae2.webp",
       "media_type": "image/webp",
       "bytes": 239208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -587,7 +691,7 @@
       "path": "images/img-a5f187cde08a.webp",
       "media_type": "image/webp",
       "bytes": 287462,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -595,7 +699,7 @@
       "path": "images/img-a78410416bcd.webp",
       "media_type": "image/webp",
       "bytes": 357408,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -603,7 +707,7 @@
       "path": "images/img-0123c844486a.webp",
       "media_type": "image/webp",
       "bytes": 326592,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -611,7 +715,7 @@
       "path": "images/img-1879fc4c05d8.webp",
       "media_type": "image/webp",
       "bytes": 323468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -619,7 +723,7 @@
       "path": "images/img-01c8c35e020a.webp",
       "media_type": "image/webp",
       "bytes": 176202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +731,7 @@
       "path": "images/img-157921dc0762.webp",
       "media_type": "image/webp",
       "bytes": 183718,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +739,7 @@
       "path": "images/img-d4fe1e77c746.webp",
       "media_type": "image/webp",
       "bytes": 135742,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +747,7 @@
       "path": "images/img-008aae0bc785.webp",
       "media_type": "image/webp",
       "bytes": 228890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +755,7 @@
       "path": "images/img-462c908efac5.webp",
       "media_type": "image/webp",
       "bytes": 343372,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +763,7 @@
       "path": "images/img-fc647e970e0d.webp",
       "media_type": "image/webp",
       "bytes": 437362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +771,7 @@
       "path": "images/img-5c07769a347f.webp",
       "media_type": "image/webp",
       "bytes": 346458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +779,7 @@
       "path": "images/img-ccaa56e17024.webp",
       "media_type": "image/webp",
       "bytes": 175194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +787,7 @@
       "path": "images/img-0649f6c7deab.webp",
       "media_type": "image/webp",
       "bytes": 183880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +795,7 @@
       "path": "images/img-908eed9c78e1.webp",
       "media_type": "image/webp",
       "bytes": 129148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +803,7 @@
       "path": "images/img-56e8305ca395.webp",
       "media_type": "image/webp",
       "bytes": 138336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +811,7 @@
       "path": "images/img-575ded1fe110.webp",
       "media_type": "image/webp",
       "bytes": 106556,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +819,7 @@
       "path": "images/img-36ba7e70cc7d.webp",
       "media_type": "image/webp",
       "bytes": 252646,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +827,7 @@
       "path": "images/img-98a637badd70.webp",
       "media_type": "image/webp",
       "bytes": 139468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +835,7 @@
       "path": "images/img-eafe20cbf339.webp",
       "media_type": "image/webp",
       "bytes": 168826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +843,7 @@
       "path": "images/img-a544d8a2fffa.webp",
       "media_type": "image/webp",
       "bytes": 220752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,7 +851,7 @@
       "path": "images/img-cac08dd2e401.webp",
       "media_type": "image/webp",
       "bytes": 280676,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -755,7 +859,7 @@
       "path": "images/img-218ff6e23529.webp",
       "media_type": "image/webp",
       "bytes": 308924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -763,7 +867,7 @@
       "path": "images/img-7aa0ca5065b1.webp",
       "media_type": "image/webp",
       "bytes": 318986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -771,7 +875,7 @@
       "path": "images/img-819db70ac2f7.webp",
       "media_type": "image/webp",
       "bytes": 819042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -779,7 +883,7 @@
       "path": "images/img-18a731a6e731.webp",
       "media_type": "image/webp",
       "bytes": 432626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -787,7 +891,7 @@
       "path": "images/img-83912987559f.webp",
       "media_type": "image/webp",
       "bytes": 273206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -795,7 +899,7 @@
       "path": "images/img-7211650610c5.webp",
       "media_type": "image/webp",
       "bytes": 221944,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -803,7 +907,7 @@
       "path": "images/img-f2498320ffb3.webp",
       "media_type": "image/webp",
       "bytes": 196334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -811,7 +915,7 @@
       "path": "images/img-38e2045afe1a.webp",
       "media_type": "image/webp",
       "bytes": 261154,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -819,7 +923,7 @@
       "path": "images/img-fa7e8617369d.webp",
       "media_type": "image/webp",
       "bytes": 181688,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -827,7 +931,7 @@
       "path": "images/img-1c37f5020fb1.webp",
       "media_type": "image/webp",
       "bytes": 195540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -835,7 +939,7 @@
       "path": "images/img-d239791e455d.webp",
       "media_type": "image/webp",
       "bytes": 229590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -843,7 +947,7 @@
       "path": "images/img-9478e669b8cf.webp",
       "media_type": "image/webp",
       "bytes": 158110,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -851,7 +955,7 @@
       "path": "images/img-f1ea1d89df5e.webp",
       "media_type": "image/webp",
       "bytes": 203832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -859,7 +963,7 @@
       "path": "images/img-684b15102f0a.webp",
       "media_type": "image/webp",
       "bytes": 376350,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -867,7 +971,7 @@
       "path": "images/img-26b3c7ca07ad.webp",
       "media_type": "image/webp",
       "bytes": 355202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -875,7 +979,7 @@
       "path": "images/img-1111a20345a2.webp",
       "media_type": "image/webp",
       "bytes": 364846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -883,7 +987,7 @@
       "path": "images/img-c449cb0f2cd7.webp",
       "media_type": "image/webp",
       "bytes": 533998,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -891,7 +995,7 @@
       "path": "images/img-42c4ba566cf5.webp",
       "media_type": "image/webp",
       "bytes": 290102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -899,19 +1003,29 @@
       "path": "images/img-9b8f3769f54f.webp",
       "media_type": "image/webp",
       "bytes": 461636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/2200xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c061620a05b9.webp",
+      "media_type": "image/webp",
+      "bytes": 192630,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-beach-fl-usa/Italian%20Design%20Meets%20Miami%20Skyline%20_%20In%20Miami%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817470324%29_files/2200xxs%285%29.jpg",
+      "path": "images/img-c0c9ca2a35e3.webp",
+      "media_type": "image/webp",
+      "bytes": 325108,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/24/14/37/53/a367c391-a168-4124-a02c-18fa2c321a42/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -919,25 +1033,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -945,13 +1059,13 @@
       "path": "images/img-09eb044faff7.webp",
       "media_type": "image/webp",
       "bytes": 2120,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 62,
-    "images_existing": 0,
-    "images_failed": 18,
+    "images_new": 6,
+    "images_existing": 62,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

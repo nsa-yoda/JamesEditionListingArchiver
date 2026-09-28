@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "2087969760885224",
     "first_listed": "Feb 26",
     "last_updated": "August 31",
-    "retrieved_at": "2026-09-26T18:46:51.437435Z"
+    "retrieved_at": "2026-09-28T00:25:00.235126Z"
   },
   "location": {
     "address": "15 Copper Ridge Road, Trout Creek, MT 59874, Montana, United States",
@@ -67,782 +67,897 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2200xxs.jpg",
       "file": "img-fba86722f786.webp",
       "media_type": "image/webp",
       "bytes": 704978,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2200xxs.jpg",
       "file": "img-c6dbd4dbfec7.webp",
       "media_type": "image/webp",
       "bytes": 1147018,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2200xxs.jpg",
       "file": "img-cb331a447676.webp",
       "media_type": "image/webp",
       "bytes": 643200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2200xxs.jpg",
       "file": "img-77432d4744f8.webp",
       "media_type": "image/webp",
       "bytes": 916852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2200xxs.jpg",
       "file": "img-68d45e0fbf93.webp",
       "media_type": "image/webp",
       "bytes": 546844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-f998c3d307df.webp",
+      "media_type": "image/webp",
+      "bytes": 6166,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/request_plan_bg-33cc1401.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-9625debeccf5.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/street_view-b1ba588c.jpg",
+      "file": "img-65869fb4f981.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/1b6761a3-d64b-4a64-bb77-1236f2fb28c0/je/2000xxs.jpg",
       "file": "img-d01427205a8a.webp",
       "media_type": "image/webp",
       "bytes": 571520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/fcfaa924-7c0f-43e7-ad23-3393baa965b6/je/2000xxs.jpg",
       "file": "img-f833f55d9edb.webp",
       "media_type": "image/webp",
       "bytes": 170942,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/afcb861e-a9f1-41d8-9d6f-8a5d9ea6e744/je/2000xxs.jpg",
       "file": "img-5155e488edb8.webp",
       "media_type": "image/webp",
       "bytes": 130902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/239a5eb6-e19a-4360-af52-7a89a37231cb/je/2000xxs.jpg",
       "file": "img-6b8600ca99f8.webp",
       "media_type": "image/webp",
       "bytes": 129622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/ab6d3934-b628-487a-8e08-a56843e41282/je/2000xxs.jpg",
       "file": "img-5ece2f988e39.webp",
       "media_type": "image/webp",
       "bytes": 123132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/c1bf9da7-0058-48ca-9834-358062709362/je/2000xxs.jpg",
       "file": "img-e7acc30ab424.webp",
       "media_type": "image/webp",
       "bytes": 260358,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/d7bd7870-7ab0-4797-b1c3-5b25585922a8/je/2000xxs.jpg",
       "file": "img-386754fbaf17.webp",
       "media_type": "image/webp",
       "bytes": 203216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/69b125ad-a262-4867-8395-6f27aee28393/je/2000xxs.jpg",
       "file": "img-de248c3e49b7.webp",
       "media_type": "image/webp",
       "bytes": 256826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36be07bd-b913-4959-9c08-5e2989e89b02/je/2000xxs.jpg",
       "file": "img-9f2aa61ddba6.webp",
       "media_type": "image/webp",
       "bytes": 447692,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b3a18652-52d2-449a-b090-2a7a3e27376d/je/2000xxs.jpg",
       "file": "img-f91b80efc616.webp",
       "media_type": "image/webp",
       "bytes": 232326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/570cc94c-e5ac-48de-ba7d-b667c56ffb92/je/2000xxs.jpg",
       "file": "img-02f1d3799cc5.webp",
       "media_type": "image/webp",
       "bytes": 200258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/5db31c7a-5eff-4d6b-b972-a42aa7e027de/je/2000xxs.jpg",
       "file": "img-122cf3a92bba.webp",
       "media_type": "image/webp",
       "bytes": 256354,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/7479ecfc-81a8-49b6-9ed7-62338071e3c7/je/2000xxs.jpg",
       "file": "img-1e07e85b1aa5.webp",
       "media_type": "image/webp",
       "bytes": 168704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/926b5ceb-ec71-43aa-be40-abda943ae3d4/je/2000xxs.jpg",
       "file": "img-5d7dab9ab894.webp",
       "media_type": "image/webp",
       "bytes": 299888,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/72a43129-d578-47bf-97db-c990dd4516bc/je/2000xxs.jpg",
       "file": "img-d36b51e1d8c7.webp",
       "media_type": "image/webp",
       "bytes": 322900,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/2ea268a8-dc05-48b6-b4ae-d9703ab4a7ef/je/2000xxs.jpg",
       "file": "img-d27d619a223b.webp",
       "media_type": "image/webp",
       "bytes": 266212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/587ef20b-cd61-4899-9d8d-4c2ca4212b42/je/2000xxs.jpg",
       "file": "img-a34ca75e789b.webp",
       "media_type": "image/webp",
       "bytes": 240356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b63f815e-053b-4325-9b2d-25e8c5d124ae/je/2000xxs.jpg",
       "file": "img-232b1b21b9e8.webp",
       "media_type": "image/webp",
       "bytes": 224788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/c333ac97-26ae-4a8f-bb7b-adade4dc85eb/je/2000xxs.jpg",
       "file": "img-bc334307c9ad.webp",
       "media_type": "image/webp",
       "bytes": 308434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/bf7bc250-08aa-45d7-90b5-935af6a8c9a0/je/2000xxs.jpg",
       "file": "img-895b95ee006f.webp",
       "media_type": "image/webp",
       "bytes": 305434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/3ac8a891-46d0-405a-a833-c00d25f7f7f9/je/2000xxs.jpg",
       "file": "img-6cb80e765c59.webp",
       "media_type": "image/webp",
       "bytes": 311058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/192f910b-4312-452b-a13f-802e0953dd97/je/2000xxs.jpg",
       "file": "img-cf3255e3cb14.webp",
       "media_type": "image/webp",
       "bytes": 225208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/1102cb73-3e6c-44a2-8a6f-ae63f04837e0/je/2000xxs.jpg",
       "file": "img-fe1dfb0d5be2.webp",
       "media_type": "image/webp",
       "bytes": 133406,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/6b3038c5-ea02-44e5-8ca6-4d7249ecb584/je/2000xxs.jpg",
       "file": "img-0d16d3e859a4.webp",
       "media_type": "image/webp",
       "bytes": 166698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/4b5f2ed5-b63a-4856-a3ea-4147597c3ba1/je/2000xxs.jpg",
       "file": "img-8055b3161317.webp",
       "media_type": "image/webp",
       "bytes": 227064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/ef2a99d9-9ee8-443f-af37-70a69c605c28/je/2000xxs.jpg",
       "file": "img-55e0ac051b27.webp",
       "media_type": "image/webp",
       "bytes": 154972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/fbdea82d-be7a-4ab6-aa43-6a4d306c16ba/je/2000xxs.jpg",
       "file": "img-14af3b29d53d.webp",
       "media_type": "image/webp",
       "bytes": 658172,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/9594f7ad-714c-4ad7-b872-e4b834bf48ca/je/2000xxs.jpg",
       "file": "img-fb332d39080c.webp",
       "media_type": "image/webp",
       "bytes": 296414,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/84647568-9ffc-40e8-b194-051792ea4dab/je/2000xxs.jpg",
       "file": "img-6ad6540a99fe.webp",
       "media_type": "image/webp",
       "bytes": 279560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/21f41559-e71e-43ca-aa9c-ca59a87f9c70/je/2000xxs.jpg",
       "file": "img-6cc969e070d7.webp",
       "media_type": "image/webp",
       "bytes": 372468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/00f85599-544d-46b8-834c-2570cc4afd1b/je/2000xxs.jpg",
       "file": "img-8a68f6867802.webp",
       "media_type": "image/webp",
       "bytes": 210650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/65ed790b-bdbd-47b4-8829-d2e090f05c41/je/2000xxs.jpg",
       "file": "img-d0bc6f5d5230.webp",
       "media_type": "image/webp",
       "bytes": 265078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/429fb549-a1d0-4ce7-bbfe-f3fe03544a4e/je/2000xxs.jpg",
       "file": "img-5c37e6e0e5ac.webp",
       "media_type": "image/webp",
       "bytes": 286700,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/67da5432-6933-4c94-8b2d-8a3aea0d0e96/je/2000xxs.jpg",
       "file": "img-6acf67d6618b.webp",
       "media_type": "image/webp",
       "bytes": 231326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/bdd787c6-ca00-40a5-86ce-b77e98bb7aef/je/2000xxs.jpg",
       "file": "img-ba59467f2c75.webp",
       "media_type": "image/webp",
       "bytes": 379018,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/ea0e4e05-e96f-4c2c-bc7b-3b718140ef21/je/2000xxs.jpg",
       "file": "img-d5457fc436a7.webp",
       "media_type": "image/webp",
       "bytes": 342392,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/df27dacc-dbce-4953-a6c2-336f81547f87/je/2000xxs.jpg",
       "file": "img-9da40f43338f.webp",
       "media_type": "image/webp",
       "bytes": 333856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/a3485d76-08a2-4e31-aae4-b0e868b74b85/je/2000xxs.jpg",
       "file": "img-c224bf2507ea.webp",
       "media_type": "image/webp",
       "bytes": 281232,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/1f619637-3820-4607-8090-c8a5412cfa1e/je/2000xxs.jpg",
       "file": "img-85e3ee1eb392.webp",
       "media_type": "image/webp",
       "bytes": 362686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/1bbe9781-e655-4ce5-8b52-1a606becefe3/je/2000xxs.jpg",
       "file": "img-7a9f5d65133f.webp",
       "media_type": "image/webp",
       "bytes": 340252,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/770d8a36-9efb-467b-a501-6d8d8f0e20df/je/2000xxs.jpg",
       "file": "img-ff2865faa164.webp",
       "media_type": "image/webp",
       "bytes": 290088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/24cccbf0-3093-4c4d-9a68-24f1ea0e38a6/je/2000xxs.jpg",
       "file": "img-056c94829bf4.webp",
       "media_type": "image/webp",
       "bytes": 317208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/5d192157-fd54-4d1a-9b8b-f45538716f1e/je/2000xxs.jpg",
       "file": "img-5e003ca6b279.webp",
       "media_type": "image/webp",
       "bytes": 309970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/c61a24cc-6e45-40d2-ac69-a241cc5e223e/je/2000xxs.jpg",
       "file": "img-06e0a4b09ddc.webp",
       "media_type": "image/webp",
       "bytes": 388236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/5ce88a48-b05d-40da-97f1-d05cbc564bc3/je/2000xxs.jpg",
       "file": "img-c7ccacacfb4b.webp",
       "media_type": "image/webp",
       "bytes": 213956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/63e011c9-0a1d-40ed-bc05-2f2ae387ab8e/je/2000xxs.jpg",
       "file": "img-79006528be81.webp",
       "media_type": "image/webp",
       "bytes": 164090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/18fd26f9-2189-4944-9b16-8eeef90b1adb/je/2000xxs.jpg",
       "file": "img-3a3186d1fe9e.webp",
       "media_type": "image/webp",
       "bytes": 393626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/a9bcee63-2a1e-46a4-8283-9966dc1afcae/je/2000xxs.jpg",
       "file": "img-15de4e18872e.webp",
       "media_type": "image/webp",
       "bytes": 268396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/fcaf54f8-84c5-44f4-b3a6-763634dc21f0/je/2000xxs.jpg",
       "file": "img-ae6b0c4ef123.webp",
       "media_type": "image/webp",
       "bytes": 267450,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/bccc0817-5af8-46d5-b5f9-faf5214e32d2/je/2000xxs.jpg",
       "file": "img-f976ebd470f4.webp",
       "media_type": "image/webp",
       "bytes": 113984,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/93e68006-f287-4b4b-9186-5d7afbc2d180/je/2000xxs.jpg",
       "file": "img-7190539097da.webp",
       "media_type": "image/webp",
       "bytes": 158826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/165ace06-8d7d-4fb3-ac02-4f534a850371/je/2000xxs.jpg",
       "file": "img-76d2c15fd54a.webp",
       "media_type": "image/webp",
       "bytes": 362614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/880c25f0-f9d8-48a6-b95e-c8a18f33c11d/je/2000xxs.jpg",
       "file": "img-e81239b240db.webp",
       "media_type": "image/webp",
       "bytes": 388672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/bdb42c26-e90d-4e8d-9cd3-6ef158e932a5/je/2000xxs.jpg",
       "file": "img-d9cbe18a882f.webp",
       "media_type": "image/webp",
       "bytes": 240992,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/f70428e8-7aca-412c-b7c8-0517065d409f/je/2000xxs.jpg",
       "file": "img-233a55027d0f.webp",
       "media_type": "image/webp",
       "bytes": 135532,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b3831ffa-857f-47f8-85b8-8aca899278e4/je/2000xxs.jpg",
       "file": "img-552e0634cdb2.webp",
       "media_type": "image/webp",
       "bytes": 208144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/1848a544-b6d6-4ccd-afca-bc5d7e594ad5/je/2000xxs.jpg",
       "file": "img-41022a1f4056.webp",
       "media_type": "image/webp",
       "bytes": 502074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/d41d4d90-d7d8-4e04-a806-6bfb33bf9ba6/je/2000xxs.jpg",
       "file": "img-09635a1e5f6f.webp",
       "media_type": "image/webp",
       "bytes": 590144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/f64614a0-671a-4d38-b50b-b90f1293bbde/je/2000xxs.jpg",
       "file": "img-49e6cc040ae1.webp",
       "media_type": "image/webp",
       "bytes": 536210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/ced61829-29ad-45c3-be2d-abb7ea9b9cea/je/2000xxs.jpg",
       "file": "img-adb741e43556.webp",
       "media_type": "image/webp",
       "bytes": 533282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/285446ee-e48a-4749-8925-fbf725c1d067/je/2000xxs.jpg",
       "file": "img-1ac0b2988c32.webp",
       "media_type": "image/webp",
       "bytes": 564024,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/9ff05959-8176-4b3d-a309-5248928afb14/je/2000xxs.jpg",
       "file": "img-454c9d8a0b9e.webp",
       "media_type": "image/webp",
       "bytes": 708654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/4273177c-4057-4a96-a9de-ca6ca8597df0/je/2000xxs.jpg",
       "file": "img-616ff02bdaae.webp",
       "media_type": "image/webp",
       "bytes": 628322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/a4dde153-7e0a-4697-99d1-b627d4e4cad2/je/2000xxs.jpg",
       "file": "img-3533a4e6b75f.webp",
       "media_type": "image/webp",
       "bytes": 682912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/3e27056d-e40c-4c12-baf0-283fd80b2ea7/je/2000xxs.jpg",
       "file": "img-46976a8e8342.webp",
       "media_type": "image/webp",
       "bytes": 605702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/dd535f5a-cb1e-49a1-824c-6caa176fc453/je/2000xxs.jpg",
       "file": "img-17b7609021e3.webp",
       "media_type": "image/webp",
       "bytes": 644618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/346b1f66-66fe-4d9b-b3aa-deecce69a8ae/je/2000xxs.jpg",
       "file": "img-630157ce38bc.webp",
       "media_type": "image/webp",
       "bytes": 222554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/d1577cc7-d616-41da-b4d8-43d44983fdbf/je/2000xxs.jpg",
       "file": "img-ae55527ceeec.webp",
       "media_type": "image/webp",
       "bytes": 238752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/106c584f-65b4-4b66-952b-1a6959ed4389/je/2000xxs.jpg",
       "file": "img-997a6eb12ac6.webp",
       "media_type": "image/webp",
       "bytes": 371386,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/c276f45b-d556-46d5-aef2-f4ea681aabca/je/2000xxs.jpg",
       "file": "img-39ed8c030df7.webp",
       "media_type": "image/webp",
       "bytes": 283210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/ca4689ae-dcf4-4dbc-ade4-1e5536052272/je/2000xxs.jpg",
       "file": "img-e9d9448356da.webp",
       "media_type": "image/webp",
       "bytes": 900830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/11b414c4-7a4e-422b-b8b0-35713c905309/je/2000xxs.jpg",
       "file": "img-3c344a8f029e.webp",
       "media_type": "image/webp",
       "bytes": 919334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/e8ea716f-5b5d-45b9-abc9-6f35f13d39d2/je/2000xxs.jpg",
       "file": "img-2e6997fd4551.webp",
       "media_type": "image/webp",
       "bytes": 853296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/f70e824a-0ce9-4fbd-a384-e3e530d7441c/je/2000xxs.jpg",
       "file": "img-da4221662232.webp",
       "media_type": "image/webp",
       "bytes": 855498,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/9cbbd54e-f936-40fb-826a-1d68d0a38c67/je/2000xxs.jpg",
       "file": "img-5c3113b6ccf3.webp",
       "media_type": "image/webp",
       "bytes": 919134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/c9625b6a-1f10-4008-adc4-18f01253b1be/je/2000xxs.jpg",
       "file": "img-6be0f5c88610.webp",
       "media_type": "image/webp",
       "bytes": 854490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cf6fbbb0-71c6-4dea-9941-39883164819e/je/2000xxs.jpg",
       "file": "img-0d73af79f945.webp",
       "media_type": "image/webp",
       "bytes": 790986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/a767de66-dfcc-4988-ad4c-2e552dabd427/je/2000xxs.jpg",
       "file": "img-f3bd57503751.webp",
       "media_type": "image/webp",
       "bytes": 850896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/92637acb-e704-4a25-9266-6413910e597a/je/2000xxs.jpg",
       "file": "img-c8ef494307c7.webp",
       "media_type": "image/webp",
       "bytes": 848212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/49e938ad-e752-4351-838b-78db388734da/je/2000xxs.jpg",
       "file": "img-5a8eeaf66794.webp",
       "media_type": "image/webp",
       "bytes": 845530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/6d2556c5-f285-4fea-8341-d8184f67f8f5/je/2000xxs.jpg",
       "file": "img-6398eb050d11.webp",
       "media_type": "image/webp",
       "bytes": 821990,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/7597ee2f-510a-43f8-aac6-13644a961ff9/je/2000xxs.jpg",
       "file": "img-54ef7d767294.webp",
       "media_type": "image/webp",
       "bytes": 883448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/e85f6cf8-9e67-4738-b743-756b66cf01e8/je/2000xxs.jpg",
       "file": "img-6be6f86a8ea9.webp",
       "media_type": "image/webp",
       "bytes": 729824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/a7cf3c4a-0878-4a74-a213-563e78d6b680/je/2000xxs.jpg",
       "file": "img-55268c7e7274.webp",
       "media_type": "image/webp",
       "bytes": 688882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/43f58032-135b-4427-a70a-9e4a787de8ce/je/2000xxs.jpg",
       "file": "img-6f6e2566ff0b.webp",
       "media_type": "image/webp",
       "bytes": 759830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/8879bc37-74d6-4549-92dc-0a751ef44536/je/2000xxs.jpg",
       "file": "img-29ecec390d25.webp",
       "media_type": "image/webp",
       "bytes": 785664,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/8fdd264a-037a-45bd-a35c-a4cd199d03fc/je/2000xxs.jpg",
       "file": "img-03acf96e4efd.webp",
       "media_type": "image/webp",
       "bytes": 736630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/5a520b47-3f65-49be-b379-1759cf56e4fc/je/2000xxs.jpg",
       "file": "img-3fe64affb166.webp",
       "media_type": "image/webp",
       "bytes": 692830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/d04c0788-563a-4ccc-8ceb-141630a31c4d/je/2000xxs.jpg",
       "file": "img-c87154246a24.webp",
       "media_type": "image/webp",
       "bytes": 745318,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/872e87d3-bf6e-4d4d-8a63-a440f377842b/je/2000xxs.jpg",
       "file": "img-4a071c2298f4.webp",
       "media_type": "image/webp",
       "bytes": 813422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/49fcce53-0640-4e6c-b2a7-76f44c199834/je/2000xxs.jpg",
       "file": "img-b8331edbdec7.webp",
       "media_type": "image/webp",
       "bytes": 799422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/baf38793-5391-4683-a89e-6fce45abede4/je/2000xxs.jpg",
       "file": "img-986d8b1f1113.webp",
       "media_type": "image/webp",
       "bytes": 784396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/d0337a5a-e270-4f22-a220-494605e822e1/je/2000xxs.jpg",
       "file": "img-4041aa19be50.webp",
       "media_type": "image/webp",
       "bytes": 775368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/bba22ac9-5b27-49e1-90ba-4d02592e6026/je/2000xxs.jpg",
       "file": "img-b7f8412387f7.webp",
       "media_type": "image/webp",
       "bytes": 692906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/2200xxs%2897%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-d7cb64a7c0b5.webp",
+      "media_type": "image/webp",
+      "bytes": 823884,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/2200xxs%2898%29.jpg",
+      "file": "img-f670641c27f3.webp",
+      "media_type": "image/webp",
+      "bytes": 735864,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-d471af4d.svg",
       "file": "img-dc90c501bd51.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-d7afb6cf.svg",
       "file": "img-194c24efc5ac.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-74c4c5d9.svg",
       "file": "img-08ae040ecb3d.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/agent_images/2026/02/20/14/09/32/9a2b3946-cab3-4659-ab2b-ea9c79d9b7a0/je/380xxsxm.jpg",
       "file": "img-53ac4efe3cd9.webp",
       "media_type": "image/webp",
       "bytes": 2280,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "metadata": {
@@ -1025,6 +1140,84 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/request_plan_bg-33cc1401.png: HTTP 429 Too Many Requests",
     "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/street_view-b1ba588c.jpg: HTTP 429 Too Many Requests",
     "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/2200xxs%2897%29.jpg: HTTP 429 Too Many Requests",
-    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/2200xxs%2898%29.jpg: HTTP 429 Too Many Requests"
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/2200xxs%2898%29.jpg: HTTP 429 Too Many Requests",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

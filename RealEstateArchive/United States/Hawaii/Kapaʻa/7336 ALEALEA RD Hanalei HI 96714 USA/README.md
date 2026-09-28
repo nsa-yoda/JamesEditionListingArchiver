@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/hanalei-hi-usa/serene-beachfront-retreat-with-ultimate-indoor-outdoor-living-17971350
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:12Z
+- Retrieved: 2026-09-28T00:24:53Z
 - Address: 7336 ALEALEA RD Hanalei HI 96714 USA, Kapaʻa, Hawaii, United States
 - Map: https://www.google.com/maps/search/?api=1&query=22.2244863,-159.5510517
 - Coordinates: 22.22, -159.55
@@ -10,7 +10,7 @@
 - Listing reference: 224b2c1e-53fd-11f1-850c-6045bdd61ac4
 - First listed: May 21
 - Last updated: June 19
-- Images downloaded: 6
+- Images downloaded: 9
 
 ## Property
 

@@ -7,7 +7,7 @@ window.listingArchiveListing = {
     "listing_id": "15814055",
     "first_listed": "Jun 20, 2025",
     "last_updated": "June 20, 2025",
-    "retrieved_at": "2026-06-16T03:43:25.375492Z"
+    "retrieved_at": "2026-09-28T00:21:13.318473Z"
   },
   "location": {
     "address": "3315 Windmill Point Rd, White Stone, VA 22578, Virginia, United States",
@@ -86,6 +86,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/2200xxs.jpg",
       "file": "004-966b2872.webp",
       "media_type": "image/webp",
@@ -94,7 +109,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/2200xxs.jpg",
@@ -105,7 +136,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/2200xxs.jpg",
@@ -116,7 +163,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/2200xxs.jpg",
@@ -127,7 +190,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/2200xxs.jpg",
@@ -138,19 +217,34 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-abedea2ae378.webp",
+      "media_type": "image/webp",
+      "bytes": 4698,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-865365de2774.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-c76934313c35.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -336,6 +430,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/e1563f9f-fe77-43f0-a816-9ea86c5b5a5f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/bcf719ff-2f28-4563-953b-2ff70c238050/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/19/b288650b-1516-4ef6-99dc-1eb8f0f4d8df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/3f85f132-badc-4223-b3b3-572082793f68/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/white-stone-va-usa/Extraordinary%20Waterfront%20Estate%20In%20White%20Stone,%20Virginia,%20United%20States%20For%20Sale%20%2815814055%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/20/12/58/18/c3da84bc-3094-40d9-87a8-d3505175ab4d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/south-bend-wa-usa/441-bay-center-rd-rd-south-bend-wa-98586-15942229
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:17Z
+- Retrieved: 2026-09-28T00:18:29Z
 - Address: 441 Bay Center Rd RD , South Bend, WA 98586, Washington, United States
 - Map: https://www.google.com/maps/search/?api=1&query=46.620498,-123.956846
 - Coordinates: 46.62, -123.96
@@ -10,7 +10,7 @@
 - Listing reference: ZCYB3F
 - First listed: Jul 17, 2025
 - Last updated: April 22
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

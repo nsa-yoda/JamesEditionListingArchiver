@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "4512461",
     "first_listed": "Mar 5, 2025",
     "last_updated": "March 9",
-    "retrieved_at": "2026-06-16T03:43:21.552091Z"
+    "retrieved_at": "2026-09-28T00:20:12.861435Z"
   },
   "location": {
     "address": "111-60 Niseko Hirafu 4-jo 3-chome, Kutchan, Hokkaido, Japan",
@@ -65,6 +65,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/2200xxs.jpg",
       "file": "004-2611a090.webp",
       "media_type": "image/webp",
@@ -73,7 +88,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/2200xxs.jpg",
@@ -84,7 +115,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/2200xxs.jpg",
@@ -95,7 +142,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/2200xxs.jpg",
@@ -106,7 +169,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/2200xxs.jpg",
@@ -117,19 +196,34 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-e34c740a74c9.webp",
+      "media_type": "image/webp",
+      "bytes": 4996,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a5a8d94ed538.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-0e8ae6982b27.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -323,6 +417,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/f5cc76dc-a18e-46f9-8cc5-343f8b5f58ed/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/9ce09246-1630-41eb-b98d-395003ed91bb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/a7f4b8ff-9eaf-4128-9ed1-1bcf313ec213/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4b188e6e-ef72-4269-a755-dd42ec0fb420/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Awayuki%20Villa%20Ginto%20Hirafu%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815294339%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/c0c8a2d0-4f7a-48bf-b965-86fca431c1c6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

@@ -8,7 +8,7 @@
     "listing_reference": "YP6KYM",
     "first_listed": "Apr 6",
     "last_updated": "April 6",
-    "retrieved_at": "2026-08-28T00:32:09.627419Z"
+    "retrieved_at": "2026-09-28T00:26:26.64624Z"
   },
   "location": {
     "address": "7020 N Bar B Bar River Road , Jackson, WY 83001, Wyoming, United States",
@@ -73,554 +73,646 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2200xxs.jpg",
       "file": "img-a181727ee6ae.webp",
       "media_type": "image/webp",
       "bytes": 285628,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2200xxs.jpg",
       "file": "img-3b0289a1aeb3.webp",
       "media_type": "image/webp",
       "bytes": 296988,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2200xxs.jpg",
       "file": "img-59849b3d263e.webp",
       "media_type": "image/webp",
       "bytes": 459654,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2200xxs.jpg",
       "file": "img-a1792d89e5fa.webp",
       "media_type": "image/webp",
       "bytes": 218274,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2200xxs.jpg",
       "file": "img-1efaac9ae02c.webp",
       "media_type": "image/webp",
       "bytes": 422222,
-      "status": "new"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-133b20c042b8.webp",
+      "media_type": "image/webp",
+      "bytes": 3214,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-e67231bf0a86.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-99f5b9e72a88.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/dda0c4c9-1e68-4714-9a09-410ab3d540bb/je/2000xxs.jpg",
       "file": "img-729aba447453.webp",
       "media_type": "image/webp",
       "bytes": 125312,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/238bda96-0467-4ba0-abc4-9b92b11a8620/je/2000xxs.jpg",
       "file": "img-878461ee5986.webp",
       "media_type": "image/webp",
       "bytes": 206376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/f5ffe54f-bee6-48b9-af8b-b4b1b740f213/je/2000xxs.jpg",
       "file": "img-fc42bee8b443.webp",
       "media_type": "image/webp",
       "bytes": 123040,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/927898e3-7529-4629-a658-87a80325bca1/je/2000xxs.jpg",
       "file": "img-fe915ccb9418.webp",
       "media_type": "image/webp",
       "bytes": 179800,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/616dbb83-d827-4dd9-af4a-32401366789b/je/2000xxs.jpg",
       "file": "img-98af0a9b5718.webp",
       "media_type": "image/webp",
       "bytes": 207336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/31d564ef-7644-4442-9729-fd49700a1327/je/2000xxs.jpg",
       "file": "img-bb2e6d33dbbc.webp",
       "media_type": "image/webp",
       "bytes": 218752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/a8850794-918f-44fa-8d75-eb49aaaf74df/je/2000xxs.jpg",
       "file": "img-df7eeea302ed.webp",
       "media_type": "image/webp",
       "bytes": 282764,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/ce4a60b2-4d71-492f-b6f7-c215cb2f4795/je/2000xxs.jpg",
       "file": "img-063261978932.webp",
       "media_type": "image/webp",
       "bytes": 171630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/44a40ef0-d2b1-44d8-ae1b-f0157ddb43d6/je/2000xxs.jpg",
       "file": "img-0eae13d22d28.webp",
       "media_type": "image/webp",
       "bytes": 150012,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/c670ce87-bed9-4f29-8d83-60a59476bd10/je/2000xxs.jpg",
       "file": "img-346383eff5ee.webp",
       "media_type": "image/webp",
       "bytes": 188140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/66cbe62b-cb20-4ad9-b8b9-bc7c789d7c59/je/2000xxs.jpg",
       "file": "img-7ae0a8f213b5.webp",
       "media_type": "image/webp",
       "bytes": 275206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/5e6e688e-73b2-417e-88c6-fd085b05d60d/je/2000xxs.jpg",
       "file": "img-a9bc0f5aa69f.webp",
       "media_type": "image/webp",
       "bytes": 272544,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/7ff2acf0-a673-45c8-9108-3aeb1a8c755e/je/2000xxs.jpg",
       "file": "img-d64f47f23447.webp",
       "media_type": "image/webp",
       "bytes": 236228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/7daf0cf0-a862-42db-b4d5-97dc110be68b/je/2000xxs.jpg",
       "file": "img-05706f2d6099.webp",
       "media_type": "image/webp",
       "bytes": 287506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/88e46232-ce77-4bb9-b20e-500196ad3da2/je/2000xxs.jpg",
       "file": "img-ca15b3578458.webp",
       "media_type": "image/webp",
       "bytes": 170920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/387ad4dd-24e5-41b7-94ec-32eefdf4854a/je/2000xxs.jpg",
       "file": "img-96208ee54952.webp",
       "media_type": "image/webp",
       "bytes": 229860,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/10e23096-b0cf-40e7-ae5b-ad09c0f4d35a/je/2000xxs.jpg",
       "file": "img-25980043aab5.webp",
       "media_type": "image/webp",
       "bytes": 263758,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/358a554b-19ac-497c-8b92-4f7f3c60e9f6/je/2000xxs.jpg",
       "file": "img-2071b8a802b2.webp",
       "media_type": "image/webp",
       "bytes": 385166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/622c5026-3fd1-4329-9abc-83f1d0eee044/je/2000xxs.jpg",
       "file": "img-79a9f695084a.webp",
       "media_type": "image/webp",
       "bytes": 271338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/9112c96c-bfe8-424c-a0a8-1380b16c26b0/je/2000xxs.jpg",
       "file": "img-36810b538f71.webp",
       "media_type": "image/webp",
       "bytes": 232912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/ddbab22a-94bd-4731-baff-fcaee29188e7/je/2000xxs.jpg",
       "file": "img-c195aed59cae.webp",
       "media_type": "image/webp",
       "bytes": 250258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2f3d17b8-1878-429e-9461-6b81fd791cd8/je/2000xxs.jpg",
       "file": "img-e89c6ee176d7.webp",
       "media_type": "image/webp",
       "bytes": 179588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/137dfb2b-cf98-4c6a-8d1b-ade09b07208d/je/2000xxs.jpg",
       "file": "img-090b0da51634.webp",
       "media_type": "image/webp",
       "bytes": 235726,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/9d7bd078-2121-4dfd-8e5a-7e287cc25bbd/je/2000xxs.jpg",
       "file": "img-0321a2396b86.webp",
       "media_type": "image/webp",
       "bytes": 210266,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/381662db-8caa-48c3-b1f2-ede231c7608d/je/2000xxs.jpg",
       "file": "img-9952983d6a12.webp",
       "media_type": "image/webp",
       "bytes": 252712,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/15d103e1-12e8-4a41-8847-0a2b596d8c7c/je/2000xxs.jpg",
       "file": "img-333013e636b8.webp",
       "media_type": "image/webp",
       "bytes": 201534,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/1230c3ab-6b8b-464d-a01c-baa5e3c3a53b/je/2000xxs.jpg",
       "file": "img-0281d991fbd7.webp",
       "media_type": "image/webp",
       "bytes": 286218,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/b3728a7a-523a-4036-b824-bd483c10afe4/je/2000xxs.jpg",
       "file": "img-228d6281e959.webp",
       "media_type": "image/webp",
       "bytes": 270490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/c9a7afb7-4e1a-4333-8e3b-881dff8213b5/je/2000xxs.jpg",
       "file": "img-4071d8b8f01e.webp",
       "media_type": "image/webp",
       "bytes": 102660,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/4651d56a-2b8c-441d-89a2-584a79854054/je/2000xxs.jpg",
       "file": "img-4d9d218e3d77.webp",
       "media_type": "image/webp",
       "bytes": 263156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/9e4987fd-f6dc-4636-a3f4-6fa9d1140dd1/je/2000xxs.jpg",
       "file": "img-bdcf89d17d44.webp",
       "media_type": "image/webp",
       "bytes": 89956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3ab70325-897b-4c94-8f5a-08987acbba0b/je/2000xxs.jpg",
       "file": "img-826b9e78abaf.webp",
       "media_type": "image/webp",
       "bytes": 148460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/daab07b3-b1cd-4fc0-bef4-3b7f758f27d9/je/2000xxs.jpg",
       "file": "img-88fec562af90.webp",
       "media_type": "image/webp",
       "bytes": 292988,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/9812dccd-6261-430a-8d4f-b351baf6d5e2/je/2000xxs.jpg",
       "file": "img-dcc14788193f.webp",
       "media_type": "image/webp",
       "bytes": 166370,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/e333f41f-2e8e-40a7-bed3-c2880387f87e/je/2000xxs.jpg",
       "file": "img-f471796f3559.webp",
       "media_type": "image/webp",
       "bytes": 129370,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/eb9a3b0d-57bf-4671-b7dc-d7a3f4299600/je/2000xxs.jpg",
       "file": "img-e50e7edd3f5a.webp",
       "media_type": "image/webp",
       "bytes": 108570,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/5e3ae0a4-16e7-4aa8-bd91-27e933ce2d7f/je/2000xxs.jpg",
       "file": "img-8636bfb50d43.webp",
       "media_type": "image/webp",
       "bytes": 91240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/6aa660b2-e0fc-48c1-8aff-af74ad832a55/je/2000xxs.jpg",
       "file": "img-598645489432.webp",
       "media_type": "image/webp",
       "bytes": 169284,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/d7fe7f9a-9523-4885-b21c-92b74c58e19d/je/2000xxs.jpg",
       "file": "img-d324eca91ee6.webp",
       "media_type": "image/webp",
       "bytes": 98770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2aad2972-e577-4806-9835-b139d83354b9/je/2000xxs.jpg",
       "file": "img-aeb02ad4359b.webp",
       "media_type": "image/webp",
       "bytes": 142182,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2d33b9be-b340-4e6e-883b-77da7054bcb2/je/2000xxs.jpg",
       "file": "img-9a3fd715bd17.webp",
       "media_type": "image/webp",
       "bytes": 108140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/acd02ca3-c198-4136-8dcc-b566cfad0462/je/2000xxs.jpg",
       "file": "img-281627a9a5bb.webp",
       "media_type": "image/webp",
       "bytes": 111924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/adc62060-244b-4fdb-853c-3a0cb77cf52e/je/2000xxs.jpg",
       "file": "img-efd4eadad080.webp",
       "media_type": "image/webp",
       "bytes": 192432,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/745208c5-5b2b-4224-879b-9d4017f792e2/je/2000xxs.jpg",
       "file": "img-9bf720ef4e3b.webp",
       "media_type": "image/webp",
       "bytes": 263716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0fe28a3b-a219-4c22-8b3a-03dac1847027/je/2000xxs.jpg",
       "file": "img-e7a741a200b1.webp",
       "media_type": "image/webp",
       "bytes": 177122,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/ab7f421a-0fa9-4da8-9bef-8cdac3fe3026/je/2000xxs.jpg",
       "file": "img-38d60778b503.webp",
       "media_type": "image/webp",
       "bytes": 133994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/d709db62-e6a4-43b8-8791-44490b7b5450/je/2000xxs.jpg",
       "file": "img-bef9933901cb.webp",
       "media_type": "image/webp",
       "bytes": 143942,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/cb3f5a1d-f56e-4639-8636-f8e7da1260ca/je/2000xxs.jpg",
       "file": "img-06368eb2054d.webp",
       "media_type": "image/webp",
       "bytes": 118180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/8f1b3c52-61a8-4958-a15f-3b27539b8ae4/je/2000xxs.jpg",
       "file": "img-23571b3d5543.webp",
       "media_type": "image/webp",
       "bytes": 571598,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/20382d25-ef1e-45b7-ad61-a5781368028b/je/2000xxs.jpg",
       "file": "img-7306c9529122.webp",
       "media_type": "image/webp",
       "bytes": 423864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/c234d47d-7859-44a6-9e44-813b7b76f07f/je/2000xxs.jpg",
       "file": "img-93e0b0cf9df7.webp",
       "media_type": "image/webp",
       "bytes": 405004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/8063578c-b87c-4893-8d56-c50d28194d8e/je/2000xxs.jpg",
       "file": "img-17ba75158f68.webp",
       "media_type": "image/webp",
       "bytes": 432936,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2d263f44-28e2-4a83-862e-56acd7dddd2c/je/2000xxs.jpg",
       "file": "img-95ef60e107e7.webp",
       "media_type": "image/webp",
       "bytes": 649882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2b060d61-7cb9-4f07-981a-3b4ea7fa367e/je/2000xxs.jpg",
       "file": "img-91445cfe7abc.webp",
       "media_type": "image/webp",
       "bytes": 478794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/4c244268-e9fc-4132-b168-86c2bc6f0355/je/2000xxs.jpg",
       "file": "img-1a2f28fc26dc.webp",
       "media_type": "image/webp",
       "bytes": 308992,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/74fa8494-9640-49c2-8571-4fe2ce29ac12/je/2000xxs.jpg",
       "file": "img-75957c5cc132.webp",
       "media_type": "image/webp",
       "bytes": 595092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/e0323871-cfd2-43d7-b73d-328d1889ebe1/je/2000xxs.jpg",
       "file": "img-fda45eb1a7c5.webp",
       "media_type": "image/webp",
       "bytes": 437852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/02b52b57-40cb-4fc4-9ea5-bc8784a5b432/je/2000xxs.jpg",
       "file": "img-7ebc73fa5ba5.webp",
       "media_type": "image/webp",
       "bytes": 421924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/c8b795b0-81ef-4453-b68f-4eb0b7c3f62e/je/2000xxs.jpg",
       "file": "img-8651b8ea58f7.webp",
       "media_type": "image/webp",
       "bytes": 425370,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/7051cea6-658d-475b-9b21-c6741dd81b34/je/2000xxs.jpg",
       "file": "img-2f4350a2ccb5.webp",
       "media_type": "image/webp",
       "bytes": 442172,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/1a059c3e-d71b-48f3-a401-7a06de4f4ca4/je/2000xxs.jpg",
       "file": "img-476ff7d7458a.webp",
       "media_type": "image/webp",
       "bytes": 454284,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/91a43acd-cc24-4af7-9f62-babee4ab1897/je/2000xxs.jpg",
       "file": "img-c41b45b13fef.webp",
       "media_type": "image/webp",
       "bytes": 550254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/a5b947ef-614e-46ed-a226-62aa6523eb81/je/2000xxs.jpg",
       "file": "img-fb5d72a8cd1f.webp",
       "media_type": "image/webp",
       "bytes": 264246,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/c449295a-c483-4d27-8626-9b8df79f046b/je/2000xxs.jpg",
       "file": "img-ef49c46e700e.webp",
       "media_type": "image/webp",
       "bytes": 401472,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/2200xxsxm%2868%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6385537904112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "file": "vid-bf0f32d5c750.mp4",
+      "media_type": "video/mp4",
+      "bytes": 134167538,
+      "status": "new",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg",
+      "poster_file": "img-3e67011c7583.webp"
     }
   ],
   "metadata": {
@@ -804,6 +896,78 @@
     "image https://www.jamesedition.com/real_estate/jackson-wy-usa/Wapiti%20Retreat%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817572984%29_files/2200xxsxm%2868%29.jpg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/446926f9-d811-4a5c-b5f9-3fa961a375d9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/bcbc3458-3bee-4ff1-9750-f28fe06e2ca1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/3139282f-aa56-4a16-a077-ca7d874eaf2b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/2da03a48-2d80-4917-a57e-5deb02e47314/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/14/0a5e0e27-b682-4a91-9ec2-4057e630f9ae/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 }

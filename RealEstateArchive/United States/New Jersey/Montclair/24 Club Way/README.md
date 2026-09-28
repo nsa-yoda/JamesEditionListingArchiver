@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24-club-way-cedar-grove-nj-07009-18061034
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:06:28Z
+- Retrieved: 2026-09-28T00:18:01Z
 - Address: 24 Club Way , Cedar Grove, NJ 07009, Montclair, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.8357698,-74.2190786
 - Coordinates: 40.84, -74.22
@@ -10,7 +10,7 @@
 - Listing reference: KMN884
 - First listed: Jun 2
 - Last updated: June 2
-- Images downloaded: 29
+- Images downloaded: 34
 
 ## Property
 

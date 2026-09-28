@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/bay-head-nj-usa/single-family-residence-in-bay-head-18477595
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:02Z
+- Retrieved: 2026-09-28T00:25:14Z
 - Address: 634 East Avenue, Point Pleasant Beach, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.065055,-74.044324
 - Coordinates: 40.07, -74.04
@@ -10,7 +10,7 @@
 - Listing reference: 22622049
 - First listed: Jul 21
 - Last updated: Yesterday
-- Images downloaded: 56
+- Images downloaded: 63
 
 ## Property
 

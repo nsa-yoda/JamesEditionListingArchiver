@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/stafa-switzerland/exclusive-villa-with-private-lake-access-on-lake-zurich-18143924
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:27Z
+- Retrieved: 2026-09-28T00:20:54Z
 - Address: Seestrasse 116, 8712 Stäfa, Zürich, Switzerland
 - Map: https://www.google.com/maps/search/?api=1&query=47.2372615,8.7278262
 - Coordinates: 47.24, 8.73
 - Site listing ID: 18143924
 - First listed: Jun 11
 - Last updated: June 11
-- Images downloaded: 28
+- Images downloaded: 31
 - Videos downloaded: 0
 
 ## Property

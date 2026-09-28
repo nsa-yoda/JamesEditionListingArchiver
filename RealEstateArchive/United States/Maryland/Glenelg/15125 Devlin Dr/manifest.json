@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:32.766619Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125-devlin-dr-17810089",
     "canonical_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125-devlin-dr-17810089",
@@ -9,13 +9,13 @@
     "listing_reference": "214489673.0",
     "first_listed": "Apr 30",
     "last_updated": "May 24",
-    "retrieved_at": "2026-06-16T03:43:14.496126Z"
+    "retrieved_at": "2026-09-28T00:17:32.261467Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 4178,
-      "sha256": "9b0009d4d25ab720d44f495caf70aa461c98cd33545e3d5867b1e74f01aa6a9b"
+      "sha256": "09380f8d7e8ad79e91b993b37ac6b686c641b3dc0adb5f997e5bd404dc80b27c"
     },
     {
       "path": "images/004-2181ac2c.webp",
@@ -68,9 +68,24 @@
       "sha256": "36c7b5089cc042b1489d6fcca4a6d743d998f94f1892941b0c6572cab8e1949f"
     },
     {
+      "path": "images/img-044941be4ae0.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-b42f9708a068.webp",
+      "bytes": 3940,
+      "sha256": "f0eecca7f4e9ddd3e6c5289b67d317584c3f41c0261a5f69f91a118e85bc416f"
+    },
+    {
+      "path": "images/img-f2950e9f4b3a.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 19392,
-      "sha256": "aedd5a73efca35f381fe8967e7b7222251916647bbdb62430e1cfc11129414b6"
+      "bytes": 48113,
+      "sha256": "504d086dacdf91ff66e7f9bf172cf0c5769ae8c1c2562d8c20c0e5042ffc40e5"
     },
     {
       "path": "source.html",
@@ -86,6 +101,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/2200xxs.jpg",
       "path": "images/004-2181ac2c.webp",
       "media_type": "image/webp",
@@ -95,7 +128,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/9331cef9-5ecd-47c5-b242-03de0cd98f4d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/9331cef9-5ecd-47c5-b242-03de0cd98f4d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/9331cef9-5ecd-47c5-b242-03de0cd98f4d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/9331cef9-5ecd-47c5-b242-03de0cd98f4d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/9331cef9-5ecd-47c5-b242-03de0cd98f4d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/9331cef9-5ecd-47c5-b242-03de0cd98f4d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -108,7 +160,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/793b6b03-7e62-462e-a971-292c3bb8643d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/793b6b03-7e62-462e-a971-292c3bb8643d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/793b6b03-7e62-462e-a971-292c3bb8643d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/793b6b03-7e62-462e-a971-292c3bb8643d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/793b6b03-7e62-462e-a971-292c3bb8643d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/793b6b03-7e62-462e-a971-292c3bb8643d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -121,7 +192,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/ed976a0a-1455-46dd-805e-07de746e776c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/ed976a0a-1455-46dd-805e-07de746e776c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/ed976a0a-1455-46dd-805e-07de746e776c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/ed976a0a-1455-46dd-805e-07de746e776c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/ed976a0a-1455-46dd-805e-07de746e776c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/ed976a0a-1455-46dd-805e-07de746e776c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -134,7 +224,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/a9100046-9c88-4ddc-be7c-1d91c30f3b88/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/a9100046-9c88-4ddc-be7c-1d91c30f3b88/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/a9100046-9c88-4ddc-be7c-1d91c30f3b88/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/a9100046-9c88-4ddc-be7c-1d91c30f3b88/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/a9100046-9c88-4ddc-be7c-1d91c30f3b88/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/a9100046-9c88-4ddc-be7c-1d91c30f3b88/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -147,22 +256,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b42f9708a068.webp",
+      "media_type": "image/webp",
+      "bytes": 3940,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f2950e9f4b3a.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/glenelg-md-usa/15125%20Devlin%20Dr%20In%20Glenelg,%20Maryland,%20United%20States%20For%20Sale%20%2817810089%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-044941be4ae0.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/30/16/25/18/c9755554-1920-4b8f-8da6-8e80da141b48/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -206,9 +331,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

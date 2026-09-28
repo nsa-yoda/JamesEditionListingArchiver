@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:22:25.488572Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/luxury-farmhouse-with-vineyard-montecatini-val-di-cecina-pisa-tuscany-18148317",
     "canonical_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/luxury-farmhouse-with-vineyard-montecatini-val-di-cecina-pisa-tuscany-18148317",
@@ -9,13 +9,13 @@
     "listing_reference": "PIS3704",
     "first_listed": "Jun 12",
     "last_updated": "June 12",
-    "retrieved_at": "2026-08-28T00:29:17.697013Z"
+    "retrieved_at": "2026-09-28T00:22:25.040527Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 4432,
-      "sha256": "4deffd30ecbd94d16b128bb5436c9756d0d7c4c1230ed2b2b095bac0633cdd43"
+      "sha256": "099ba8255f3b0d1b28951bd0897b5bc9dd0faf19bcbe19c5aace29a8cda28933"
     },
     {
       "path": "images/img-02b733b5f1b0.webp",
@@ -41,6 +41,11 @@
       "path": "images/img-1d886c830e88.webp",
       "bytes": 9316,
       "sha256": "fece5b51d0d704766306b5adbeda39277e358108f59709388ba669baf979cd45"
+    },
+    {
+      "path": "images/img-24bbaebc18f7.webp",
+      "bytes": 7060,
+      "sha256": "3fe4ecf55883a9e81e046a2285e2db04bb66d4db887c1908a29e6a1ec9da0d87"
     },
     {
       "path": "images/img-3059baed5acd.webp",
@@ -113,6 +118,11 @@
       "sha256": "62a511d909e9a250aeaacdb923ed897dded0fd624ec2e221732989d435f04089"
     },
     {
+      "path": "images/img-7fc918859e40.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-8f81c30a304a.webp",
       "bytes": 350836,
       "sha256": "78aad6dcce5f70faeb60e8be90e203593af1f3e25068e03d5bb7c689528650bf"
@@ -126,6 +136,11 @@
       "path": "images/img-a83d3671228e.webp",
       "bytes": 349628,
       "sha256": "040b60a35202ccb830e4eeb1003fc7cd452d79957d0ea93b92c4f1df87c9c19d"
+    },
+    {
+      "path": "images/img-b73403d4abe3.webp",
+      "bytes": 4642,
+      "sha256": "47d4828fb9c52294ca3b337003b910004e9d3da2d6654cb2dfd674a9e1298aed"
     },
     {
       "path": "images/img-c58d52a6fbcc.webp",
@@ -199,8 +214,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 34782,
-      "sha256": "366e12c3a1df109444a0500345175634cc29f9802830ca52eafd3a1c760708d9"
+      "bytes": 66114,
+      "sha256": "ce1e4822906585c2a0fe30ca517ebc55fea997cdaabc13346035f54cc9caf453"
     },
     {
       "path": "source.html",
@@ -216,17 +231,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/2200xxs.jpg",
       "path": "images/img-648a4404b4a5.webp",
       "media_type": "image/webp",
       "bytes": 433572,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/611c7f0c-c56a-4d52-8ad2-268e495c272b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/611c7f0c-c56a-4d52-8ad2-268e495c272b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/611c7f0c-c56a-4d52-8ad2-268e495c272b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/611c7f0c-c56a-4d52-8ad2-268e495c272b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/611c7f0c-c56a-4d52-8ad2-268e495c272b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/611c7f0c-c56a-4d52-8ad2-268e495c272b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -234,13 +285,31 @@
       "path": "images/img-d0572e7db07b.webp",
       "media_type": "image/webp",
       "bytes": 543846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/d326c8dd-13bf-45a0-8c5a-e58eb473ea06/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/d326c8dd-13bf-45a0-8c5a-e58eb473ea06/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/d326c8dd-13bf-45a0-8c5a-e58eb473ea06/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/d326c8dd-13bf-45a0-8c5a-e58eb473ea06/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/d326c8dd-13bf-45a0-8c5a-e58eb473ea06/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/27/00/30/46/d326c8dd-13bf-45a0-8c5a-e58eb473ea06/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -248,13 +317,31 @@
       "path": "images/img-cdefc84382ba.webp",
       "media_type": "image/webp",
       "bytes": 692560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/4df39d74-43a0-4d8c-a1f9-c5ba4d389e45/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/4df39d74-43a0-4d8c-a1f9-c5ba4d389e45/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/4df39d74-43a0-4d8c-a1f9-c5ba4d389e45/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/4df39d74-43a0-4d8c-a1f9-c5ba4d389e45/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/4df39d74-43a0-4d8c-a1f9-c5ba4d389e45/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/4df39d74-43a0-4d8c-a1f9-c5ba4d389e45/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -262,13 +349,31 @@
       "path": "images/img-7d9b0bd23e3c.webp",
       "media_type": "image/webp",
       "bytes": 782478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b971c313-8f75-41d3-af6b-ac6b00724eca/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b971c313-8f75-41d3-af6b-ac6b00724eca/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b971c313-8f75-41d3-af6b-ac6b00724eca/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b971c313-8f75-41d3-af6b-ac6b00724eca/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b971c313-8f75-41d3-af6b-ac6b00724eca/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b971c313-8f75-41d3-af6b-ac6b00724eca/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -276,99 +381,69 @@
       "path": "images/img-49f31a88cb02.webp",
       "media_type": "image/webp",
       "bytes": 260096,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-b73403d4abe3.webp",
+      "media_type": "image/webp",
+      "bytes": 4642,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-24bbaebc18f7.webp",
+      "media_type": "image/webp",
+      "bytes": 7060,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-7fc918859e40.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-7f2cdf4ccf4c.webp",
+      "media_type": "image/webp",
+      "bytes": 177696,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-ed70bef72ee1.webp",
+      "media_type": "image/webp",
+      "bytes": 338544,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f56987d7165b.webp",
+      "media_type": "image/webp",
+      "bytes": 297026,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/fb4a0e20-11bb-46c6-ba38-9b15f4861d66/je/2000xxs.jpg",
-      "path": "images/img-7f2cdf4ccf4c.webp",
-      "media_type": "image/webp",
-      "bytes": 177696,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/65ddb362-bb94-45fd-882c-3ecd6fc8bc4a/je/2000xxs.jpg",
-      "path": "images/img-ed70bef72ee1.webp",
-      "media_type": "image/webp",
-      "bytes": 338544,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/b5ee95f1-9315-4e98-8b19-5af8734d8062/je/2000xxs.jpg",
-      "path": "images/img-f56987d7165b.webp",
-      "media_type": "image/webp",
-      "bytes": 297026,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/858628ef-e9cb-45c3-8a9e-f50d1391e78d/je/2000xxs.jpg",
       "path": "images/img-c58d52a6fbcc.webp",
       "media_type": "image/webp",
       "bytes": 197548,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -376,7 +451,7 @@
       "path": "images/img-dd62d64b0084.webp",
       "media_type": "image/webp",
       "bytes": 808868,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -384,7 +459,7 @@
       "path": "images/img-589c9d37e742.webp",
       "media_type": "image/webp",
       "bytes": 343960,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -392,7 +467,7 @@
       "path": "images/img-a83d3671228e.webp",
       "media_type": "image/webp",
       "bytes": 349628,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -400,7 +475,7 @@
       "path": "images/img-fb38271a4453.webp",
       "media_type": "image/webp",
       "bytes": 165698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -408,7 +483,7 @@
       "path": "images/img-fa29f4afc191.webp",
       "media_type": "image/webp",
       "bytes": 146110,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -416,7 +491,7 @@
       "path": "images/img-47568b9a34ae.webp",
       "media_type": "image/webp",
       "bytes": 258552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -424,7 +499,7 @@
       "path": "images/img-0e0c8b7eb0b8.webp",
       "media_type": "image/webp",
       "bytes": 273176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -432,7 +507,7 @@
       "path": "images/img-19a0131df661.webp",
       "media_type": "image/webp",
       "bytes": 280108,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -440,7 +515,7 @@
       "path": "images/img-eb6bd693bcdf.webp",
       "media_type": "image/webp",
       "bytes": 144570,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -448,7 +523,7 @@
       "path": "images/img-cd1a906409c4.webp",
       "media_type": "image/webp",
       "bytes": 178424,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -456,7 +531,7 @@
       "path": "images/img-5a88c5e0a106.webp",
       "media_type": "image/webp",
       "bytes": 233072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -464,7 +539,7 @@
       "path": "images/img-64bc879daab4.webp",
       "media_type": "image/webp",
       "bytes": 255658,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -472,7 +547,7 @@
       "path": "images/img-3059baed5acd.webp",
       "media_type": "image/webp",
       "bytes": 278534,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -480,7 +555,7 @@
       "path": "images/img-524f641150de.webp",
       "media_type": "image/webp",
       "bytes": 252008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -488,7 +563,7 @@
       "path": "images/img-ee1b3de43674.webp",
       "media_type": "image/webp",
       "bytes": 307288,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -496,7 +571,7 @@
       "path": "images/img-c86dfb21775c.webp",
       "media_type": "image/webp",
       "bytes": 699522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -504,7 +579,7 @@
       "path": "images/img-98dd30c902a2.webp",
       "media_type": "image/webp",
       "bytes": 410166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -512,7 +587,7 @@
       "path": "images/img-fcf5b2ab39ab.webp",
       "media_type": "image/webp",
       "bytes": 158632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -520,7 +595,7 @@
       "path": "images/img-02b733b5f1b0.webp",
       "media_type": "image/webp",
       "bytes": 224970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -528,7 +603,7 @@
       "path": "images/img-40ac6aedabbb.webp",
       "media_type": "image/webp",
       "bytes": 431654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -536,7 +611,7 @@
       "path": "images/img-53137f2ac341.webp",
       "media_type": "image/webp",
       "bytes": 724432,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -544,7 +619,7 @@
       "path": "images/img-0d82065ed5e7.webp",
       "media_type": "image/webp",
       "bytes": 329854,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -552,7 +627,7 @@
       "path": "images/img-8f81c30a304a.webp",
       "media_type": "image/webp",
       "bytes": 350836,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -560,7 +635,7 @@
       "path": "images/img-6cbc258e8274.webp",
       "media_type": "image/webp",
       "bytes": 428102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -568,7 +643,7 @@
       "path": "images/img-cab86cfcf158.webp",
       "media_type": "image/webp",
       "bytes": 506934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -576,25 +651,13 @@
       "path": "images/img-1d886c830e88.webp",
       "media_type": "image/webp",
       "bytes": 9316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2200xxs%2819%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2200xxs%2820%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/Luxury%20Farmhouse%20With%20Vineyard,%20In%20Montecatini%20Val%20Di%20Cecina,%20Tuscany,%20Italy%20For%20Sale%20%2818148317%29_files/2200xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/18/18/53/337b7d1f-6b1e-4340-8f1b-92db715f411b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -602,31 +665,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 36,
-    "images_existing": 0,
-    "images_failed": 20,
+    "images_new": 3,
+    "images_existing": 36,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

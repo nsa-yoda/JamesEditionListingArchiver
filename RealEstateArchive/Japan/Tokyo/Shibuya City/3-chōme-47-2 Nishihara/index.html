@@ -116,12 +116,16 @@
         entry.className = "media-item";
         entry.dataset.kind = subdir;
         entry.dataset.status = item.error ? "failed" : (item.status || (item.file ? "existing" : "discovered"));
-        const href = item.file ? `${subdir}/${item.file}` : item.source_url;
-        const link = item.file ? document.createElement("a") : externalLink(href);
-        link.href = href;
-        link.textContent = item.file || item.source_url || `${title} ${index + 1}`;
-        entry.append(link);
-        addCopyButton(entry, item.source_url);
+        const href = item.file ? `${subdir}/${item.file}` : "";
+        if (item.file) {
+          const link = document.createElement("a");
+          link.href = href;
+          link.textContent = item.file;
+          entry.append(link);
+        } else {
+          entry.append(escapeText(`${title} ${index + 1} is not available locally`));
+        }
+        if (item.file) addCopyButton(entry, item.source_url);
         const metadata = [item.media_type, Number.isFinite(item.bytes) && item.bytes > 0 ? formatBytes(item.bytes) : ""].filter(Boolean).join(", ");
         if (metadata) entry.append(escapeText(` — ${metadata}`));
         if (item.status) entry.append(escapeText(` — ${item.status}`));
@@ -142,17 +146,18 @@
       gallery.dataset.kind = subdir;
       gallery.setAttribute("aria-label", `Listing ${title.toLowerCase()}`);
       items.forEach((item, index) => {
-        const source = item.file ? `${subdir}/${item.file}` : item.source_url;
-        if (!source) return;
         const figure = document.createElement("figure");
         figure.dataset.kind = subdir;
         figure.dataset.status = item.error ? "failed" : (item.status || (item.file ? "existing" : "discovered"));
         const frame = document.createElement("div");
         frame.className = "media-frame";
-        if (tagName === "video") {
+        if (!item.file) {
+          frame.textContent = `${title.slice(0, -1)} ${index + 1} is not available locally`;
+          figure.dataset.status = "failed";
+        } else if (tagName === "video") {
           const video = document.createElement("video");
           video.className = "media-player video-js vjs-default-skin";
-          video.src = source;
+          video.src = `${subdir}/${item.file}`;
           if (item.poster_file) video.poster = `videos/${item.poster_file}`;
           video.controls = true;
           video.preload = "metadata";
@@ -161,9 +166,9 @@
           frame.append(video);
         } else {
           const link = document.createElement("a");
-          link.href = source;
+          link.href = `${subdir}/${item.file}`;
           const image = document.createElement("img");
-          image.src = source;
+          image.src = `${subdir}/${item.file}`;
           image.alt = `${listing.property?.title || "Listing"} image ${index + 1}`;
           image.loading = "lazy";
           image.decoding = "async";

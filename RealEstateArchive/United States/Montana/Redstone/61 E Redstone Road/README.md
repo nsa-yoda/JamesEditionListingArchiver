@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/redstone-mt-usa/lots-and-land-redstone-17006303
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:00Z
+- Retrieved: 2026-09-28T00:22:23Z
 - Address: 61 E Redstone Road, Redstone, MT 59257, Montana, United States
 - Map: https://www.google.com/maps/search/?api=1&query=48.82039142,-104.92537594
 - Coordinates: 48.82, -104.93
@@ -10,7 +10,7 @@
 - Listing reference: 2077271751678062
 - First listed: Jan 27
 - Last updated: May 25
-- Images downloaded: 7
+- Images downloaded: 10
 
 ## Property
 

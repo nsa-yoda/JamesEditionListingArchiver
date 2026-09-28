@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:19:50.255763Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/a-home-like-no-other-16091791",
     "canonical_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/a-home-like-no-other-16091791",
@@ -9,13 +9,13 @@
     "listing_reference": "4JEQD5",
     "first_listed": "Aug 25, 2025",
     "last_updated": "May 18",
-    "retrieved_at": "2026-06-18T07:07:25.56077Z"
+    "retrieved_at": "2026-09-28T00:19:34.261329Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2194,
-      "sha256": "10064f1de64edd1afda1b7be0a922888e497d24f64236ad6ab0ec796d87a4684"
+      "sha256": "8dde837c8a5e98b49fd15b55b30f5b058a8604df47a10d7c395d0577a0759640"
     },
     {
       "path": "images/004-c3613be2.webp",
@@ -348,9 +348,39 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-03ed75ece426.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-06db9b0a7733.webp",
+      "bytes": 395242,
+      "sha256": "9265456ee929f390c802e6b6f104b96234c6d1aa4fa82abd1c36ec29262a4d7d"
+    },
+    {
+      "path": "images/img-39af7bbb2ecd.webp",
+      "bytes": 4062,
+      "sha256": "aa73e410800a7c6847a3aad7d1d6ffcb64c9756cac328a0c113831a7b3e71734"
+    },
+    {
+      "path": "images/img-43b32becf9a6.webp",
+      "bytes": 359602,
+      "sha256": "deabd90a74bd4dce3fbf9e9cf298fe532f2553dfbee5ac13387e9e88a0871e5f"
+    },
+    {
+      "path": "images/img-5a69344ed54f.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-8dda7e194770.webp",
+      "bytes": 246680,
+      "sha256": "061662247c0ee834c0d31bc675f5de3ba8031b465d21da1737363eea8567054b"
+    },
+    {
       "path": "listing.json",
-      "bytes": 32179,
-      "sha256": "5925d3a5b76ffc0872770d1a1208b0a6def3f5a7a96e3d2086b982b6acdfb478"
+      "bytes": 59267,
+      "sha256": "e2e4db468771d9a26eaf1153b54ecf00aed9f095df01757dcaac5da17d132434"
     },
     {
       "path": "source.html",
@@ -361,9 +391,47 @@
       "path": "source.url",
       "bytes": 85,
       "sha256": "fa7a677a9355141688902326d1bbc3049a6f5b37b57083a95700ea1df86e7756"
+    },
+    {
+      "path": "videos/img-0e14b47cc150.webp",
+      "bytes": 107524,
+      "sha256": "3f8403bb73dbfa10064788307746ff1f8dcc833d5db41675736b62a9e728675c"
+    },
+    {
+      "path": "videos/vid-d61daa268994.mp4",
+      "bytes": 105215121,
+      "sha256": "64ab582136110edcf77060008c4be50e64186c005faa539d555a126d6dccdf45"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6377429899112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-d61daa268994.mp4",
+      "media_type": "video/mp4",
+      "bytes": 105215121,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/1040x620xc.jpg",
+      "poster_path": "videos/img-0e14b47cc150.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/2200xxs.jpg",
@@ -374,8 +442,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -387,8 +468,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -400,8 +494,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -413,8 +520,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -426,23 +546,57 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-39af7bbb2ecd.webp",
+      "media_type": "image/webp",
+      "bytes": 4062,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-5a69344ed54f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-03ed75ece426.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/e9fefa94-4ee1-438f-9316-27ee097a4e8d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/777cfa2b-aa00-402b-b791-49fab13be240/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/377f46f8-3206-44db-bfaf-4004001da51b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/5d19ce64-c96f-4bc1-b02f-f095ad42a88f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -903,17 +1057,32 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2817%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8dda7e194770.webp",
+      "media_type": "image/webp",
+      "bytes": 246680,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2818%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-43b32becf9a6.webp",
+      "media_type": "image/webp",
+      "bytes": 359602,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/canaan-ny-usa/A%20Home%20Like%20No%20Other%20In%20Canaan,%20New%20York,%20United%20States%20For%20Sale%20%2816091791%29_files/2200xxsxm%2819%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-06db9b0a7733.webp",
+      "media_type": "image/webp",
+      "bytes": 395242,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/25/13/43/22/1418507c-fda0-4bf0-bd5e-27bb07e7f247/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -949,10 +1118,10 @@
     }
   ],
   "summary": {
-    "images_new": 11,
+    "images_new": 6,
     "images_existing": 66,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

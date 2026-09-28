@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/newton-nj-usa/single-family-detached-newton-18450752
 - Site: jamesedition
-- Retrieved: 2026-09-26T18:46:47Z
+- Retrieved: 2026-09-28T00:24:59Z
 - Address: 936 Dove Island Road, Newton, NJ 07860, Andover Township, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.066035,-74.814795
 - Coordinates: 41.07, -74.81

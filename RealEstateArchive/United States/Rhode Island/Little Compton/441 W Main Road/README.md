@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/little-compton-ri-usa/single-family-residence-in-little-compton-16830839
 - Site: jamesedition
-- Retrieved: 2026-06-21T22:31:51Z
+- Retrieved: 2026-09-28T00:25:12Z
 - Address: 441 W Main Road, Little Compton, Rhode Island, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.503567,-71.20457
 - Coordinates: 41.5, -71.2
@@ -10,7 +10,7 @@
 - Listing reference: 1361988
 - First listed: Dec 19, 2025
 - Last updated: April 7
-- Images downloaded: 54
+- Images downloaded: 58
 
 ## Property
 

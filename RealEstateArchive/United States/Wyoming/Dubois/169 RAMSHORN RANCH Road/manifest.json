@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:27:03.904185Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/dubois-usa/wyoming-cowboy-starship-reclaimed-american-heritage-18067489",
     "canonical_url": "https://www.jamesedition.com/real_estate/dubois-usa/wyoming-cowboy-starship-reclaimed-american-heritage-18067489",
@@ -9,13 +9,18 @@
     "listing_reference": "26-1330",
     "first_listed": "Jun 3",
     "last_updated": "June 19",
-    "retrieved_at": "2026-06-21T23:01:18.483314Z"
+    "retrieved_at": "2026-09-28T00:27:03.510582Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2832,
-      "sha256": "c7e909f1b39852bf73a6440d9fcc0298e5029a3d428dedd4e57c8f7d70003f7c"
+      "sha256": "3bba2a481524cec8d7dc9bcc428d611eba3e9b4d830711d9521edc35c40f8bc7"
+    },
+    {
+      "path": "images/img-031519498354.jpg",
+      "bytes": 524994,
+      "sha256": "73bc38fb24dd476b787aa951effb1c65c17ff45e186f2802785cb871cc245769"
     },
     {
       "path": "images/img-0604aba6e72b.webp",
@@ -36,6 +41,11 @@
       "path": "images/img-133222a29cc0.webp",
       "bytes": 474380,
       "sha256": "259b4883dc57ad2b7c6953b0fbe1bbc1036782ae6e56aacf3679b55d4652e53f"
+    },
+    {
+      "path": "images/img-26af2d187fce.webp",
+      "bytes": 4222,
+      "sha256": "c31977f8410c55b9f9a9be249c024c1a00c33176f58e6b8643e8ecb2e60599f2"
     },
     {
       "path": "images/img-272e34fedba6.svg",
@@ -71,6 +81,11 @@
       "path": "images/img-88809eb71abe.webp",
       "bytes": 501440,
       "sha256": "28fffe9eb3ea3c7b2e942c03d84ef96d9e12aa5b6a769e95615ce53392b27988"
+    },
+    {
+      "path": "images/img-89d971411a7f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-8b9cecf57fc0.webp",
@@ -133,6 +148,11 @@
       "sha256": "7860640a2dc9f3a008349300f82ccda20c7bf2f1355a10c6ed369ec002fd2765"
     },
     {
+      "path": "images/img-dc763236fd21.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-e4ba673b4464.webp",
       "bytes": 128506,
       "sha256": "cac5234b2b2502239dc1246bb4aa4c75ba4eaa9f8a940ca260d3aaf3b18a1de2"
@@ -149,8 +169,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 22429,
-      "sha256": "929fdad1cd521f1aa90e390d655bcd25d083931a6e77fa680872978fa28e4911"
+      "bytes": 58467,
+      "sha256": "2784568ee95fb04b2ddcd36d2eb963442ef51d3bb44f947fa58d2a0187584fc5"
     },
     {
       "path": "source.html",
@@ -166,17 +186,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/2200xxs.jpg",
       "path": "images/img-da8e07a78bd2.webp",
       "media_type": "image/webp",
       "bytes": 342950,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -184,13 +240,31 @@
       "path": "images/img-907e4d4384dc.webp",
       "media_type": "image/webp",
       "bytes": 739622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -198,13 +272,31 @@
       "path": "images/img-133222a29cc0.webp",
       "media_type": "image/webp",
       "bytes": 474380,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -212,13 +304,31 @@
       "path": "images/img-b8087f37bd03.webp",
       "media_type": "image/webp",
       "bytes": 483944,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -226,31 +336,67 @@
       "path": "images/img-a27424d70a5f.webp",
       "media_type": "image/webp",
       "bytes": 246112,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-26af2d187fce.webp",
+      "media_type": "image/webp",
+      "bytes": 4222,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-dc763236fd21.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-89d971411a7f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/4063a157-647e-4e0c-857e-f020dd859517/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/23e6592b-13b1-4d7d-a1e9-6372177d9732/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/37b5b736-29d6-4bb5-a5a0-4e0b36b2f913/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/5b3ed863-be36-42af-be5e-b78c38cefa5b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -258,7 +404,7 @@
       "path": "images/img-a0374bcb7db1.webp",
       "media_type": "image/webp",
       "bytes": 195042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -266,7 +412,7 @@
       "path": "images/img-097702b393b0.webp",
       "media_type": "image/webp",
       "bytes": 174338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -274,7 +420,7 @@
       "path": "images/img-68f42b87b8ec.webp",
       "media_type": "image/webp",
       "bytes": 267078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -282,7 +428,7 @@
       "path": "images/img-e4ba673b4464.webp",
       "media_type": "image/webp",
       "bytes": 128506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -290,7 +436,7 @@
       "path": "images/img-bd915f86176e.webp",
       "media_type": "image/webp",
       "bytes": 281504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -298,7 +444,7 @@
       "path": "images/img-0604aba6e72b.webp",
       "media_type": "image/webp",
       "bytes": 704052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -306,7 +452,7 @@
       "path": "images/img-f33947d2f955.webp",
       "media_type": "image/webp",
       "bytes": 506466,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -314,7 +460,7 @@
       "path": "images/img-8b9cecf57fc0.webp",
       "media_type": "image/webp",
       "bytes": 517052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -322,7 +468,7 @@
       "path": "images/img-b8006ebe9317.webp",
       "media_type": "image/webp",
       "bytes": 369684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -330,7 +476,7 @@
       "path": "images/img-6628e5c9442c.webp",
       "media_type": "image/webp",
       "bytes": 307464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -338,7 +484,7 @@
       "path": "images/img-12eed0b4eaac.webp",
       "media_type": "image/webp",
       "bytes": 456134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -346,7 +492,7 @@
       "path": "images/img-afca3aba0f7f.webp",
       "media_type": "image/webp",
       "bytes": 393196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -354,7 +500,7 @@
       "path": "images/img-88809eb71abe.webp",
       "media_type": "image/webp",
       "bytes": 501440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -362,7 +508,7 @@
       "path": "images/img-321eb3985dd8.webp",
       "media_type": "image/webp",
       "bytes": 827172,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -370,7 +516,7 @@
       "path": "images/img-fd0ef9094995.webp",
       "media_type": "image/webp",
       "bytes": 407974,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -378,13 +524,21 @@
       "path": "images/img-c8de84278125.webp",
       "media_type": "image/webp",
       "bytes": 416492,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/dubois-usa/Wyoming%20Cowboy%20Starship%20Reclaimed%20American%20In%20Dubois,%20Wyoming,%20United%20States%20For%20Sale%20%2818067489%29_files/2200xxs.jpg",
+      "path": "images/img-031519498354.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 524994,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/22/31/38/8dddd9a9-02e3-461a-aa21-d3f8a542b63b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -392,7 +546,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -400,7 +554,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -408,7 +562,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -416,7 +570,7 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -424,13 +578,13 @@
       "path": "images/img-9cb0d51ff818.webp",
       "media_type": "image/webp",
       "bytes": 1194,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 26,
-    "images_existing": 0,
-    "images_failed": 9,
+    "images_new": 4,
+    "images_existing": 26,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

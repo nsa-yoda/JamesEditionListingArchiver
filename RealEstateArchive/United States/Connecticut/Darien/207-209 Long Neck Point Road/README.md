@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/darien-ct-usa/single-family-residence-in-darien-17678460
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:41:39Z
+- Retrieved: 2026-09-28T00:25:08Z
 - Address: 207-209 Long Neck Point Road, Darien, Connecticut, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.04093801,-73.47701096
 - Coordinates: 41.04, -73.48
@@ -10,7 +10,7 @@
 - Listing reference: 24166336
 - First listed: Apr 15
 - Last updated: April 15
-- Images downloaded: 29
+- Images downloaded: 33
 
 ## Property
 

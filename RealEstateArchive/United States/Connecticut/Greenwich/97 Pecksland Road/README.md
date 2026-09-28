@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:08Z
+- Retrieved: 2026-09-28T00:24:30Z
 - Address: 97 Pecksland Road, Greenwich, Connecticut, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.0509895,-73.656011
 - Coordinates: 41.05, -73.66
@@ -10,7 +10,7 @@
 - Listing reference: 2-123736
 - First listed: Dec 4, 2025
 - Last updated: April 15
-- Images downloaded: 5
+- Images downloaded: 8
 
 ## Property
 

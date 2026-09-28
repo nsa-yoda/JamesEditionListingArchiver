@@ -83,19 +83,23 @@ listing page:
 Each file's source URL is discovered from a same-basename `.url` sidecar first,
 then an absolute canonical link or `og:url`. Files without a usable HTTP(S)
 source URL fail individually while the remaining batch continues. Imported
-HTML is preserved exactly as `source.html`.
+HTML is preserved exactly as `source.html`. Matching media files in a
+`<html-basename>_files/` sidecar are used before making a network request.
 
-By default, `-html-dir` skips files whose listing already exists in the
-archive, printing the existing browser page:
+By default, `-html-dir` reprocesses listings already in the archive. New
+non-empty metadata and media are merged into the existing record, and valid
+local files are reused. Use `-skip-existing` only when you explicitly want to
+leave existing listings untouched. In that case, the importer prints the
+existing browser page:
 
 ```text
 Skipped existing: ./imports/listing.html [found: /Canada/Ontario/Oakville/2054 Lakeshore Rd E/index.html]
 ```
 
-Use `-refresh` to intentionally reprocess existing imported HTML and rewrite
-the manifest, retained source, browser page, and image status. If improved
-extraction produces a cleaner address path, the existing archive directory is
-moved before it is rewritten.
+`-refresh` remains accepted as a compatibility flag; reprocessing is already
+the default. Reprocessing rewrites the source, manifest, and browser page. If
+improved extraction produces a cleaner address path, the existing archive
+directory is moved before it is rewritten.
 
 Use `-assets-only` when a listing is already archived and you want to preserve
 the current structured metadata while checking the source again for newly
@@ -119,6 +123,7 @@ Flags:
 -input        newline-delimited URL file, or - for standard input
 -html         import one saved HTML file instead of fetching its page
 -html-dir     import top-level .html files from a directory
+-skip-existing skip listings already in the archive during HTML import
 -source-url   original listing URL required with -html
 -root         archive root (default ./listings)
 -cookies      optional JSON or Netscape-format cookie export
@@ -128,7 +133,8 @@ Flags:
 -metadata-only archive metadata and source HTML without downloading images
 -max-images   maximum images per listing; 0 means unlimited
 -assets-only  refresh only images/videos while preserving existing listing metadata
--refresh      reprocess existing HTML imports instead of skipping them
+-videos-only  refresh videos while preserving existing metadata and images
+-refresh      compatibility flag; HTML imports are reprocessed by default
 -reindex      rebuild browser indexes beneath the archive root
 -verify       verify archive manifests, file hashes, and browser indexes
 -migrate      migrate archives to the current schema and regenerate manifests/indexes
@@ -189,7 +195,7 @@ contain the same current path, parent, child-directory, and file data. The page
 tries `index.json` first and dynamically loads `index.js` when a browser blocks
 local JSON access through `file://`. Generated browser-index files are omitted
 from their own file listings. The `videos/` directory is created only when a
-listing exposes direct `.mp4` or `.webm` media. Indexes are updated atomically
+listing exposes downloadable video media. Indexes are updated atomically
 after successful archives.
 
 At listing directories, the same page also renders the structured manifest.
@@ -202,8 +208,11 @@ player backed by local `video.min.js` and `video-js.min.css` assets stored in
 each listing directory, then render images in bounded full-width frames that
 preserve aspect ratio instead of stretching to the viewport. If Video.js fails
 to initialize for any reason, the same local file still plays through the
-native `<video>` element. All external listing links, including Google Maps
-URLs, open in a new tab. The page header displays the archive path as
+native `<video>` element. Unavailable media is marked in the status list
+without rendering a remote image or video URL. Brightcove, Vimeo, and YouTube
+player URLs are downloaded with `yt-dlp` when installed; direct MP4/WebM links
+use the built-in Go downloader. All external listing links, including Google
+Maps URLs, open in a new tab. The page header displays the archive path as
 `country > region > municipality > address`; the listing title remains in the
 listing detail heading. Large listing pages also expose a sticky toolbar for
 filtering `all`, `videos`, `images`, `failures`, and `warnings`, plus one-click
@@ -268,8 +277,10 @@ HTML must still be treated as sensitive.
 
 Repeated URL runs against the same source reuse valid existing images and
 videos by source URL and update `listing.json`, `manifest.json`, and the
-retained source atomically. Repeated `-html-dir` runs skip already archived
-listings unless `-refresh` is set. The tool refuses to overwrite an archive
+retained source. Repeated `-html-dir` runs reprocess existing listings and
+merge newly available non-empty metadata and media; use `-skip-existing` to
+opt out. Local sidecar media with identical bytes reuses an existing archive
+file instead of adding a duplicate. The tool refuses to overwrite an archive
 directory whose manifest identifies a different source. When separate listings
 resolve to the same address path, the later listing receives a stable
 listing-ID or URL-hash suffix.
@@ -335,7 +346,7 @@ fingerprint spoofing, proxy rotation, or rate-limit evasion.
 - `refuse to overwrite archive for a different source`: two listings resolved
   to the same sanitized fallback path. Choose another root or move the existing
   archive.
-- An imported HTML file is skipped unexpectedly: rerun with `-refresh` to
+- An imported HTML file is skipped unexpectedly: remove `-skip-existing` to
   reprocess existing listings. This may move older title-based archive
   directories to cleaner address-based paths.
 - Timeouts or partial failures: rerun the same command. Completed images are

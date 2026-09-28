@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/far-hills-nj-usa/pinnacle-of-luxury-living-15715029
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:33Z
+- Retrieved: 2026-09-28T00:23:39Z
 - Address: Far Hills, NJ 07931, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.6832668,-74.6369793
 - Coordinates: 40.68, -74.64
@@ -10,8 +10,8 @@
 - Listing reference: 8BM236
 - First listed: May 30, 2025
 - Last updated: April 17
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 12
+- Videos downloaded: 1
 
 ## Property
 

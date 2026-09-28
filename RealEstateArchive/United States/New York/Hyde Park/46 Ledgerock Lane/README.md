@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/hyde-park-ny-usa/46-ledgerock-lane-hyde-park-ny-12538-15064503
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:18Z
+- Retrieved: 2026-09-28T00:18:43Z
 - Address: 46 Ledgerock Lane, Hyde Park, NY 12538, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.8126,-73.94325
 - Coordinates: 41.81, -73.94
@@ -10,7 +10,7 @@
 - Listing reference: 2c2yzj
 - First listed: Jan 6, 2025
 - Last updated: June 2
-- Images downloaded: 10
+- Images downloaded: 22
 - Videos downloaded: 0
 
 ## Property

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:22:21.493071Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/loch-lane-18055633",
     "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/loch-lane-18055633",
@@ -9,13 +9,18 @@
     "listing_reference": "VFCCSR",
     "first_listed": "Jun 1",
     "last_updated": "July 13",
-    "retrieved_at": "2026-08-28T00:29:16.044475Z"
+    "retrieved_at": "2026-09-28T00:22:07.085376Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3821,
-      "sha256": "aef177ac12ebcdf3cfe05b17ba3467f0e9899913f0840eab49ba6c43aef67138"
+      "bytes": 3822,
+      "sha256": "ac6fbc0de703513274caf2b291c5dfbda3efbecbdae44f8dcf5d8e49117e30b4"
+    },
+    {
+      "path": "images/img-1518317fc2c0.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-1b9c4fb79274.webp",
@@ -38,9 +43,19 @@
       "sha256": "badd8566f05b5ccfcd54a958ceabea0b359b14edba102700de7d9a46d750ca5a"
     },
     {
+      "path": "images/img-baeedbf77bdb.webp",
+      "bytes": 4324,
+      "sha256": "199cbee21bb384c692d895656394956b8f40138898cc07b90df76a05c79d8c33"
+    },
+    {
       "path": "images/img-c294627d1ae6.webp",
       "bytes": 150848,
       "sha256": "ab1b009139e7ab2fb5418cfe138c27914fc18b23f1a7d954e9bdf2bad390fa27"
+    },
+    {
+      "path": "images/img-c394ab7f061c.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-e3a0d4f6789e.webp",
@@ -54,8 +69,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 20444,
-      "sha256": "b6e248f7ddbf3f1f01792a568c539e72741a863d8c154f7d3f8e797e22444187"
+      "bytes": 53036,
+      "sha256": "f4181c07a68328c72a0cb26ec6f36a740ba34e0969dcb03c5239264d16e76888"
     },
     {
       "path": "source.html",
@@ -66,22 +81,78 @@
       "path": "source.url",
       "bytes": 77,
       "sha256": "41fb447b4481188ae440ced7abb1d0713522ab26260257b6c963b1e2fb2825f7"
+    },
+    {
+      "path": "videos/img-a12083fdfea3.webp",
+      "bytes": 136116,
+      "sha256": "a454625a5651ea8f47a69a92f9f5fb18d94a5d15901ea4f2fe8d1f92b4b3d169"
+    },
+    {
+      "path": "videos/vid-2a6e43eb60a2.mp4",
+      "bytes": 106540235,
+      "sha256": "29fb3be634a264785894b13a13994635807ca8d8b1ceddbdbb07501189aa975d"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5782886755001/rJlOfaQNgQ_default/index.html?videoId=ref:sir_listings_733386fc-c530-4738-bef7-7cf7ded0d3e5\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-2a6e43eb60a2.mp4",
+      "media_type": "video/mp4",
+      "bytes": 106540235,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/1040x620xc.jpg",
+      "poster_path": "videos/img-a12083fdfea3.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/2200xxs.jpg",
       "path": "images/img-ee8eb04dacad.webp",
       "media_type": "image/webp",
       "bytes": 677704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/7a24839a-50ac-46bc-a637-33788aa6b982/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/7a24839a-50ac-46bc-a637-33788aa6b982/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/7a24839a-50ac-46bc-a637-33788aa6b982/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/7a24839a-50ac-46bc-a637-33788aa6b982/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/7a24839a-50ac-46bc-a637-33788aa6b982/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/7a24839a-50ac-46bc-a637-33788aa6b982/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -89,13 +160,31 @@
       "path": "images/img-8667d7ed2323.webp",
       "media_type": "image/webp",
       "bytes": 1335930,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/ec2a47f2-1743-4034-98b9-ab4bf3c6b847/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/ec2a47f2-1743-4034-98b9-ab4bf3c6b847/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/ec2a47f2-1743-4034-98b9-ab4bf3c6b847/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/ec2a47f2-1743-4034-98b9-ab4bf3c6b847/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/ec2a47f2-1743-4034-98b9-ab4bf3c6b847/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/ec2a47f2-1743-4034-98b9-ab4bf3c6b847/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,13 +192,31 @@
       "path": "images/img-c294627d1ae6.webp",
       "media_type": "image/webp",
       "bytes": 150848,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/272e1b20-4a22-40fa-8f25-b3ec39d45392/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/272e1b20-4a22-40fa-8f25-b3ec39d45392/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/272e1b20-4a22-40fa-8f25-b3ec39d45392/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/272e1b20-4a22-40fa-8f25-b3ec39d45392/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/272e1b20-4a22-40fa-8f25-b3ec39d45392/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/272e1b20-4a22-40fa-8f25-b3ec39d45392/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -117,13 +224,31 @@
       "path": "images/img-1b9c4fb79274.webp",
       "media_type": "image/webp",
       "bytes": 114742,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/9f08dff7-0630-4cae-929a-097535f73d7b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/9f08dff7-0630-4cae-929a-097535f73d7b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/9f08dff7-0630-4cae-929a-097535f73d7b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/9f08dff7-0630-4cae-929a-097535f73d7b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/9f08dff7-0630-4cae-929a-097535f73d7b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/9f08dff7-0630-4cae-929a-097535f73d7b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -131,31 +256,43 @@
       "path": "images/img-e3a0d4f6789e.webp",
       "media_type": "image/webp",
       "bytes": 168662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-baeedbf77bdb.webp",
+      "media_type": "image/webp",
+      "bytes": 4324,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c394ab7f061c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Loch%20Lane%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2818055633%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-1518317fc2c0.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/04/0cacc20f-56b1-4ce4-9e5e-444bb939037f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -163,25 +300,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -189,14 +326,14 @@
       "path": "images/img-802a63e545f9.webp",
       "media_type": "image/webp",
       "bytes": 1122,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 7,
-    "images_existing": 0,
-    "images_failed": 11,
-    "videos_new": 0,
+    "images_new": 3,
+    "images_existing": 7,
+    "images_failed": 24,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

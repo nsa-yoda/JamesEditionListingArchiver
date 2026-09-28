@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/timeless-elegance-meets-modern-luxury-estate-living-18088422
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:09:16Z
+- Retrieved: 2026-09-28T00:26:21Z
 - Address: Bedford Corners NY 10549 USA, Mount Kisco, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.1975016,-73.6664976
 - Coordinates: 41.2, -73.67
@@ -10,7 +10,7 @@
 - Listing reference: 07d0309a-5fc9-11f1-901e-6045bdd61ac4
 - First listed: Jun 5
 - Last updated: June 13
-- Images downloaded: 31
+- Images downloaded: 37
 
 ## Property
 

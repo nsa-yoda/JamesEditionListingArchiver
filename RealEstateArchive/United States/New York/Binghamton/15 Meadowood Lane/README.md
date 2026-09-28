@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/chenango-ny-usa/15-meadowood-lane-17546891
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:05:31Z
+- Retrieved: 2026-09-28T00:17:26Z
 - Address: 15 Meadowood Lane, Binghamton, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=42.1829504,-75.8619114
 - Coordinates: 42.18, -75.86
@@ -10,7 +10,7 @@
 - Listing reference: 225245
 - First listed: Apr 2
 - Last updated: April 25
-- Images downloaded: 40
+- Images downloaded: 43
 - Videos downloaded: 0
 
 ## Property

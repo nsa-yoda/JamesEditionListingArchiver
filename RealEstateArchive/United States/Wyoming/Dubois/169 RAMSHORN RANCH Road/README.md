@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/dubois-usa/wyoming-cowboy-starship-reclaimed-american-heritage-18067489
 - Site: jamesedition
-- Retrieved: 2026-06-21T23:01:18Z
+- Retrieved: 2026-09-28T00:27:03Z
 - Address: 169 RAMSHORN RANCH Road, Dubois, Wyoming, United States
 - Map: https://www.google.com/maps/search/?api=1&query=43.65763,-109.77961
 - Coordinates: 43.66, -109.78
@@ -10,7 +10,7 @@
 - Listing reference: 26-1330
 - First listed: Jun 3
 - Last updated: June 19
-- Images downloaded: 26
+- Images downloaded: 30
 
 ## Property
 

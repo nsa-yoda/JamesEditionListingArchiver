@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:29.547673Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824",
     "canonical_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824",
@@ -9,13 +9,13 @@
     "listing_reference": "1002180",
     "first_listed": "May 22",
     "last_updated": "May 22",
-    "retrieved_at": "2026-06-18T07:09:09.196914Z"
+    "retrieved_at": "2026-09-28T00:25:29.124866Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 5086,
-      "sha256": "e1117a93e2006c36d55b10c15f67cc41fa4339b1f5a644e68644402471fc3269"
+      "sha256": "7e501305e0babb57f34dd8fe0fffaa5810b47b0000f07ea208e791c02b69367e"
     },
     {
       "path": "images/004-4f7d86e8.webp",
@@ -168,9 +168,34 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-041f6cb305bb.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-0bb82283ce3b.webp",
+      "bytes": 3012,
+      "sha256": "ad2abad8c2c9b855ed0ab866e1dab4e39437148ac2181165fad70451d4f731ee"
+    },
+    {
+      "path": "images/img-9e36320aee0a.webp",
+      "bytes": 425732,
+      "sha256": "eaedd678fcb20b812e601f168315f2e5f06f8fb068c90186c376b3b639d42a26"
+    },
+    {
+      "path": "images/img-ee188b4a4c11.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-f00b6ac696e2.png",
+      "bytes": 3564,
+      "sha256": "ad7e16f8e405630ec78ae9c2085714ea2f8cc19fcc1cb9dea9fc73967be9f635"
+    },
+    {
       "path": "listing.json",
-      "bytes": 28712,
-      "sha256": "000a74d0dd09070c1cf287a98f0c0f89707ab29b9c5b5a5d1c1f141198fe1fa0"
+      "bytes": 64658,
+      "sha256": "c5d73bb0c01d81fa3bd12d3b66446baf5d85f45f9b59a7225e3c11b18bb05fe7"
     },
     {
       "path": "source.html",
@@ -186,6 +211,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/2200xxs.jpg",
       "path": "images/004-4f7d86e8.webp",
       "media_type": "image/webp",
@@ -195,7 +238,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -208,7 +270,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -221,7 +302,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -234,7 +334,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -247,27 +366,70 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/M00000489.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f00b6ac696e2.png",
+      "media_type": "image/png",
+      "bytes": 3564,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0bb82283ce3b.webp",
+      "media_type": "image/webp",
+      "bytes": 3012,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-041f6cb305bb.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ee188b4a4c11.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/e01e74dd-b21f-4952-b497-75fe20d3d8e4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b00a61d2-43bf-4d9e-8c81-0438c20e13ee/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/08fdbffb-d154-477d-b0ff-9dadc9cf66b2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/5cc8bbe9-7725-473a-84ba-58242b1bce8a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -440,12 +602,16 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/2200xxs%2825%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9e36320aee0a.webp",
+      "media_type": "image/webp",
+      "bytes": 425732,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/wassaic-ny-usa/Single%20Family%20Residence%20In%20Wassaic%20In%20Wassaic,%20New%20York,%20United%20States%20For%20Sale%20%2817981824%29_files/2200xxs%2824%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/07/35/34/27748622-b77c-44dc-9913-4480cee496eb/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -481,9 +647,9 @@
     }
   ],
   "summary": {
-    "images_new": 11,
+    "images_new": 5,
     "images_existing": 30,
-    "images_failed": 0,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

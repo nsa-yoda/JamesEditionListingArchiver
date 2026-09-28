@@ -1,0 +1,19 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Utah/Provo/5618 E South Fork Road/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-206719550ed4.webp",
+      "href": "img-206719550ed4.webp",
+      "size": 132174
+    },
+    {
+      "name": "vid-85d35177c3d2.mp4",
+      "href": "vid-85d35177c3d2.mp4",
+      "size": 126593211
+    }
+  ],
+  "last_updated": "2026-09-28T00:23:38.008604Z"
+};

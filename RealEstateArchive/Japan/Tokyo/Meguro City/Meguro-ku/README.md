@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/meguro-ku-japan/the-yakumo-franck-muller-residence-18186368
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:32:02Z
+- Retrieved: 2026-09-28T00:26:19Z
 - Address: Meguro-ku, 13 152-0023, Meguro City, Tokyo, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.6207952,139.6694446
 - Coordinates: 35.62, 139.67
@@ -10,7 +10,7 @@
 - Listing reference: Q9GJXE
 - First listed: Jun 16
 - Last updated: June 16
-- Images downloaded: 19
+- Images downloaded: 22
 
 ## Property
 

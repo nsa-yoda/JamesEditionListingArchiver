@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/mesilla-nm-usa/modern-luxury-estate-in-mesilla-new-mexico-16196983
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:30Z
+- Retrieved: 2026-09-28T00:22:44Z
 - Address: Mesilla, NM, New Mexico, United States
 - Map: https://www.google.com/maps/search/?api=1&query=32.2700945,-106.8008376
 - Coordinates: 32.27, -106.8
@@ -10,7 +10,7 @@
 - Listing reference: 30068-000053
 - First listed: Sep 17, 2025
 - Last updated: May 4
-- Images downloaded: 9
+- Images downloaded: 12
 - Videos downloaded: 0
 
 ## Property

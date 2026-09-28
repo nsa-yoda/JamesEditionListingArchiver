@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/corfu-greece/the-cove-seafront-estate-in-northeast-corfu-15161406
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:54Z
+- Retrieved: 2026-09-28T00:25:40Z
 - Address: Barbati, Corfu, 49083, Greece
 - Map: https://www.google.com/maps/search/?api=1&query=39.6249838,19.9223461
 - Coordinates: 39.62, 19.92
 - Site listing ID: 15161406
 - First listed: Feb 3, 2025
 - Last updated: December 13, 2025
-- Images downloaded: 56
+- Images downloaded: 58
 
 ## Property
 

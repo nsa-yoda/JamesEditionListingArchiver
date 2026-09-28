@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/nantucket-ma-usa/37-sankaty-head-road-nantucket-ma-02554-16053693
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:17:48Z
+- Retrieved: 2026-09-28T00:18:22Z
 - Address: 37 Sankaty Head Road, Nantucket, MA 02554, Massachusetts, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.289297,-69.9684914
 - Coordinates: 41.29, -69.97
@@ -10,7 +10,7 @@
 - Listing reference: GQKKH5
 - First listed: Aug 14, 2025
 - Last updated: March 17
-- Images downloaded: 69
+- Images downloaded: 72
 
 ## Property
 

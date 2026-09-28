@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:13.673414Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/single-family-residence-in-mantoloking-17548328",
     "canonical_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/single-family-residence-in-mantoloking-17548328",
@@ -9,13 +9,13 @@
     "listing_reference": "22608737",
     "first_listed": "Apr 2",
     "last_updated": "April 2",
-    "retrieved_at": "2026-06-18T07:08:49.815678Z"
+    "retrieved_at": "2026-09-28T00:25:13.334177Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3014,
-      "sha256": "13cec2cf6107c50f8f58ec1545d48d54aa481c944de6e94a8934c1f4810f8073"
+      "sha256": "66300b594e9b82ad5b6717ba38b5ca5ba9628ea8f4240b506c7ad052a0058537"
     },
     {
       "path": "images/004-1a857df1.webp",
@@ -353,9 +353,44 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-1951ab28e5fb.webp",
+      "bytes": 219836,
+      "sha256": "177e12a7f014d60654c5b814210c609fa80c1e0c54ba48772df45e7478467e43"
+    },
+    {
+      "path": "images/img-2baf3fe5c332.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-3f4345ecacd4.webp",
+      "bytes": 4762,
+      "sha256": "6b3fd12277f3e7ed790c5b14e773c2e3efbe4914753d1e81aea8841f8107ba9e"
+    },
+    {
+      "path": "images/img-4946ce08148d.png",
+      "bytes": 19021,
+      "sha256": "afb43919a416f20d1755c1c76d7cf61d6aab275a031cd086bcee835ef17c9130"
+    },
+    {
+      "path": "images/img-8164474158bf.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-846a2facd150.webp",
+      "bytes": 237824,
+      "sha256": "0682d955a2d3fc86613ca4782ee20f42d2d50863dcf0e2d6bd86c3b41d741f94"
+    },
+    {
+      "path": "images/img-c05df0339714.webp",
+      "bytes": 231194,
+      "sha256": "5ebc2a9f997f663dafe6aec43f7df27ad21ef0ab9c98e5ab623fc5e1219e7740"
+    },
+    {
       "path": "listing.json",
-      "bytes": 35110,
-      "sha256": "c370426c96bd67c6450496baa13832448ce30f482b4236bd166a126152026065"
+      "bytes": 71496,
+      "sha256": "53186f41b9bc6fe21f103c6cb39bb61c62e5272b42b0021209cbd91fd4e7f339"
     },
     {
       "path": "source.html",
@@ -371,6 +406,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/2200xxs.jpg",
       "path": "images/004-1a857df1.webp",
       "media_type": "image/webp",
@@ -380,7 +433,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -393,7 +465,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -406,7 +497,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -419,7 +529,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -432,27 +561,70 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/M00000452.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4946ce08148d.png",
+      "media_type": "image/png",
+      "bytes": 19021,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3f4345ecacd4.webp",
+      "media_type": "image/webp",
+      "bytes": 4762,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2baf3fe5c332.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8164474158bf.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/60c0187b-bfba-4aeb-ac5e-964b52d068bf/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00a6a25d-9fe0-44aa-a845-b3a31a630364/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/8075039d-6acc-4648-bf52-42fd40ea6aab/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/15/56/44/00c5692c-7cee-44b3-b66b-492225abc32a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -921,17 +1093,32 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2817%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c05df0339714.webp",
+      "media_type": "image/webp",
+      "bytes": 231194,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2818%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1951ab28e5fb.webp",
+      "media_type": "image/webp",
+      "bytes": 219836,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mantoloking-nj-usa/Single%20Family%20Residence%20In%20In%20Mantoloking,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817548328%29_files/2200xxs%2819%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-846a2facd150.webp",
+      "media_type": "image/webp",
+      "bytes": 237824,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/13/55/13/37d4ba3b-8691-4f44-9009-4ec9bf69e088/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -967,9 +1154,9 @@
     }
   ],
   "summary": {
-    "images_new": 12,
+    "images_new": 7,
     "images_existing": 67,
-    "images_failed": 0,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:21:14.579686Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/spina-italy/farm-estate-with-xi-century-castle-for-sale-in-umbria-16046987",
     "canonical_url": "https://www.jamesedition.com/real_estate/spina-italy/farm-estate-with-xi-century-castle-for-sale-in-umbria-16046987",
@@ -8,13 +8,13 @@
     "listing_id": "16046987",
     "first_listed": "Aug 13, 2025",
     "last_updated": "August 13, 2025",
-    "retrieved_at": "2026-06-18T07:08:40.191142Z"
+    "retrieved_at": "2026-09-28T00:21:14.188784Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 4726,
-      "sha256": "d2daf91cfb064cf29d8dc7640b927d66321326e4aa1331c5df36cab83c1f9ee9"
+      "bytes": 4727,
+      "sha256": "68bcafbbf9fb351a80dde30ba4f3a0db18022cf5abf2f5ff1c000d3ab0b0cae8"
     },
     {
       "path": "images/004-d2ef0ba7.webp",
@@ -62,9 +62,34 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-66f9bb8a2310.webp",
+      "bytes": 356850,
+      "sha256": "3349d1c43f1910be219008b918a31df2029cee4ddef01b0d69e78a4ad0adc791"
+    },
+    {
+      "path": "images/img-680e8938d985.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-95f40187ef5a.webp",
+      "bytes": 546750,
+      "sha256": "ac401fe8e0cbc96042d1d1de241e36e90d50ca58aead284d816c081541bd395f"
+    },
+    {
+      "path": "images/img-d863070a403b.webp",
+      "bytes": 4340,
+      "sha256": "e81b4c252f51a2d88ac20c70a1ca15a95e827a7966e0d7e3ffd9612cbea4e41c"
+    },
+    {
+      "path": "images/img-f33eb426838d.webp",
+      "bytes": 530440,
+      "sha256": "00b8e648373e4a594a94886bb488a4e50ead98745f00214614868a245bdbe3b2"
+    },
+    {
       "path": "listing.json",
-      "bytes": 21997,
-      "sha256": "57b0c8010b3466cb23271cac8177fb637aa4211f43c4a64b1eeece9931d0bae3"
+      "bytes": 51934,
+      "sha256": "0052a1a44c855a61e821dedf98e12e9e52e766f107fc178d015c63fa624b4fd4"
     },
     {
       "path": "source.html",
@@ -80,6 +105,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/2200xxs.jpg",
       "path": "images/004-d2ef0ba7.webp",
       "media_type": "image/webp",
@@ -89,7 +132,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/25/3563b06f-64d7-464e-b4c1-fa0493c448e9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/25/3563b06f-64d7-464e-b4c1-fa0493c448e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/25/3563b06f-64d7-464e-b4c1-fa0493c448e9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/25/3563b06f-64d7-464e-b4c1-fa0493c448e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/25/3563b06f-64d7-464e-b4c1-fa0493c448e9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/25/3563b06f-64d7-464e-b4c1-fa0493c448e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -102,7 +164,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/958c3665-6874-4aa4-87df-3638544eef34/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/958c3665-6874-4aa4-87df-3638544eef34/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/958c3665-6874-4aa4-87df-3638544eef34/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/958c3665-6874-4aa4-87df-3638544eef34/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/958c3665-6874-4aa4-87df-3638544eef34/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/958c3665-6874-4aa4-87df-3638544eef34/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -115,7 +196,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ea2fa4fb-31ac-4593-a3dc-8eac6a4d25d3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ea2fa4fb-31ac-4593-a3dc-8eac6a4d25d3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ea2fa4fb-31ac-4593-a3dc-8eac6a4d25d3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ea2fa4fb-31ac-4593-a3dc-8eac6a4d25d3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ea2fa4fb-31ac-4593-a3dc-8eac6a4d25d3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ea2fa4fb-31ac-4593-a3dc-8eac6a4d25d3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -128,7 +228,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ceb4f42e-af29-4249-ad9d-926314883da7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ceb4f42e-af29-4249-ad9d-926314883da7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ceb4f42e-af29-4249-ad9d-926314883da7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ceb4f42e-af29-4249-ad9d-926314883da7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ceb4f42e-af29-4249-ad9d-926314883da7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/24/ceb4f42e-af29-4249-ad9d-926314883da7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -141,32 +260,54 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d863070a403b.webp",
+      "media_type": "image/webp",
+      "bytes": 4340,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-680e8938d985.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f33eb426838d.webp",
+      "media_type": "image/webp",
+      "bytes": 530440,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-66f9bb8a2310.webp",
+      "media_type": "image/webp",
+      "bytes": 356850,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/spina-italy/Farm%20Estate%20With%20Xi%20Century%20Castle%20For%20Sale%20In%20In%20Marsciano,%20Umbria,%20Italy%20For%20Sale%20%2816046987%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-95f40187ef5a.webp",
+      "media_type": "image/webp",
+      "bytes": 546750,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/53/81af0f9a-9c02-4e83-8f74-f208f584697e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -202,9 +343,9 @@
     }
   ],
   "summary": {
-    "images_new": 10,
+    "images_new": 5,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

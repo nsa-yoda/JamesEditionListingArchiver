@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:49.629272Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55-s-ely-springs-road-17544603",
     "canonical_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55-s-ely-springs-road-17544603",
@@ -9,13 +9,13 @@
     "listing_reference": "55-s-ely-springs-road-jackson-wy-83001-20251105023655530332000000",
     "first_listed": "Apr 2",
     "last_updated": "May 8",
-    "retrieved_at": "2026-08-28T00:27:49.196215Z"
+    "retrieved_at": "2026-09-28T00:18:49.111768Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 7175,
-      "sha256": "46fec3705e5e58c9a685507dc05b2e5482161d872c697071dfabf608ed56e992"
+      "sha256": "b4e569ae68dbbd60068d879f649dc5ebf0a4534200a1ea24fa29e8138a24d2a0"
     },
     {
       "path": "images/img-0560183f61b8.webp",
@@ -56,6 +56,11 @@
       "path": "images/img-1df712752ecf.webp",
       "bytes": 466570,
       "sha256": "03cdba9db0dfb1deb3d584aaa11f95d19fe669b8501e49e95c07066552fa7059"
+    },
+    {
+      "path": "images/img-23c0b8ccc802.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-2409f5d149bc.webp",
@@ -218,6 +223,11 @@
       "sha256": "6a777a07eb41143b4c5a715fcfb0dff2631fb55cdee1d71a11a97f22d4ad366a"
     },
     {
+      "path": "images/img-80a94882bbf8.webp",
+      "bytes": 6494,
+      "sha256": "36277a080108d130ae03be26986fd1418cd5c5eaf5c18e8ef79f26b88332a7df"
+    },
+    {
       "path": "images/img-81463f6865ef.webp",
       "bytes": 765070,
       "sha256": "b70d3824df88eb1540bdf7d2f277e5119ae66030d91c64fc87ea202d31b756f4"
@@ -276,6 +286,11 @@
       "path": "images/img-befba14ab156.webp",
       "bytes": 744026,
       "sha256": "06c689839441c45b81a0a350fc4680f697914709b8a2fa3120409dc59ecb0f07"
+    },
+    {
+      "path": "images/img-c6413481a43c.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-c70161b9cd92.webp",
@@ -374,8 +389,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 45439,
-      "sha256": "95773a8fd5a07c97047cd5a8ca419952da3b8cfd67a17dcafb52011ab1735105"
+      "bytes": 84297,
+      "sha256": "ff5cda71dae93296c78fee7992e429f8e685e093191986a521a15857d7fd121d"
     },
     {
       "path": "source.html",
@@ -391,17 +406,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/2200xxs.jpg",
       "path": "images/img-ca99a2fb74ad.webp",
       "media_type": "image/webp",
       "bytes": 556712,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/552029ea-467d-4def-bdb8-8685e5112f3f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/552029ea-467d-4def-bdb8-8685e5112f3f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/552029ea-467d-4def-bdb8-8685e5112f3f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/552029ea-467d-4def-bdb8-8685e5112f3f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/552029ea-467d-4def-bdb8-8685e5112f3f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/552029ea-467d-4def-bdb8-8685e5112f3f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -409,13 +460,31 @@
       "path": "images/img-2409f5d149bc.webp",
       "media_type": "image/webp",
       "bytes": 830092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/bc678ac3-a024-42a8-afd1-d645aa39d892/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/bc678ac3-a024-42a8-afd1-d645aa39d892/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/bc678ac3-a024-42a8-afd1-d645aa39d892/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/bc678ac3-a024-42a8-afd1-d645aa39d892/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/bc678ac3-a024-42a8-afd1-d645aa39d892/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/bc678ac3-a024-42a8-afd1-d645aa39d892/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -423,13 +492,31 @@
       "path": "images/img-657274ec610e.webp",
       "media_type": "image/webp",
       "bytes": 422402,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/e1a70421-7f8f-4521-b239-8ee1d9bcdeac/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/e1a70421-7f8f-4521-b239-8ee1d9bcdeac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/e1a70421-7f8f-4521-b239-8ee1d9bcdeac/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/e1a70421-7f8f-4521-b239-8ee1d9bcdeac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/e1a70421-7f8f-4521-b239-8ee1d9bcdeac/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/e1a70421-7f8f-4521-b239-8ee1d9bcdeac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -437,13 +524,31 @@
       "path": "images/img-60fabea90b6a.webp",
       "media_type": "image/webp",
       "bytes": 287590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/dde2e421-67ff-4a41-8059-b01fb3468364/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/dde2e421-67ff-4a41-8059-b01fb3468364/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/dde2e421-67ff-4a41-8059-b01fb3468364/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/dde2e421-67ff-4a41-8059-b01fb3468364/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/dde2e421-67ff-4a41-8059-b01fb3468364/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/dde2e421-67ff-4a41-8059-b01fb3468364/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -451,31 +556,67 @@
       "path": "images/img-a159f7f87c39.webp",
       "media_type": "image/webp",
       "bytes": 954114,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-80a94882bbf8.webp",
+      "media_type": "image/webp",
+      "bytes": 6494,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c6413481a43c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-23c0b8ccc802.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/552029ea-467d-4def-bdb8-8685e5112f3f/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/552029ea-467d-4def-bdb8-8685e5112f3f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/bc678ac3-a024-42a8-afd1-d645aa39d892/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/bc678ac3-a024-42a8-afd1-d645aa39d892/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/e1a70421-7f8f-4521-b239-8ee1d9bcdeac/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/e1a70421-7f8f-4521-b239-8ee1d9bcdeac/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/dde2e421-67ff-4a41-8059-b01fb3468364/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/dde2e421-67ff-4a41-8059-b01fb3468364/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -483,7 +624,7 @@
       "path": "images/img-efa36a1f1435.webp",
       "media_type": "image/webp",
       "bytes": 625356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -491,7 +632,7 @@
       "path": "images/img-78e1c61d0369.webp",
       "media_type": "image/webp",
       "bytes": 330624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -499,7 +640,7 @@
       "path": "images/img-77754d22eaef.webp",
       "media_type": "image/webp",
       "bytes": 835584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -507,7 +648,7 @@
       "path": "images/img-c9a079673c17.webp",
       "media_type": "image/webp",
       "bytes": 898542,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -515,7 +656,7 @@
       "path": "images/img-1df712752ecf.webp",
       "media_type": "image/webp",
       "bytes": 466570,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -523,7 +664,7 @@
       "path": "images/img-ee27b6af51d3.webp",
       "media_type": "image/webp",
       "bytes": 837838,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -531,7 +672,7 @@
       "path": "images/img-8097558d2a6f.webp",
       "media_type": "image/webp",
       "bytes": 780252,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -539,7 +680,7 @@
       "path": "images/img-dde34c1791b1.webp",
       "media_type": "image/webp",
       "bytes": 754074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -547,7 +688,7 @@
       "path": "images/img-92c7b4b54d2b.webp",
       "media_type": "image/webp",
       "bytes": 688248,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -555,7 +696,7 @@
       "path": "images/img-775cc568c2bf.webp",
       "media_type": "image/webp",
       "bytes": 489032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -563,7 +704,7 @@
       "path": "images/img-5b5f5cce720e.webp",
       "media_type": "image/webp",
       "bytes": 651092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -571,7 +712,7 @@
       "path": "images/img-25a9a3f3c5ff.webp",
       "media_type": "image/webp",
       "bytes": 606366,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -579,7 +720,7 @@
       "path": "images/img-c71789b7cdd5.webp",
       "media_type": "image/webp",
       "bytes": 823100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -587,7 +728,7 @@
       "path": "images/img-3fc77d7d8678.webp",
       "media_type": "image/webp",
       "bytes": 631720,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -595,7 +736,7 @@
       "path": "images/img-eb9c2377e5eb.webp",
       "media_type": "image/webp",
       "bytes": 726894,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -603,7 +744,7 @@
       "path": "images/img-a97792b96ed4.webp",
       "media_type": "image/webp",
       "bytes": 400196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -611,7 +752,7 @@
       "path": "images/img-acbc53cf4a34.webp",
       "media_type": "image/webp",
       "bytes": 231892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -619,7 +760,7 @@
       "path": "images/img-248e24130721.webp",
       "media_type": "image/webp",
       "bytes": 353746,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +768,7 @@
       "path": "images/img-cb44febae3b9.webp",
       "media_type": "image/webp",
       "bytes": 433590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +776,7 @@
       "path": "images/img-c70161b9cd92.webp",
       "media_type": "image/webp",
       "bytes": 267856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +784,7 @@
       "path": "images/img-9a3c8add9d9a.webp",
       "media_type": "image/webp",
       "bytes": 227832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +792,7 @@
       "path": "images/img-544e45368eeb.webp",
       "media_type": "image/webp",
       "bytes": 207334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +800,7 @@
       "path": "images/img-3dcf47ff9c96.webp",
       "media_type": "image/webp",
       "bytes": 288532,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +808,7 @@
       "path": "images/img-2daf1b0037e4.webp",
       "media_type": "image/webp",
       "bytes": 158034,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +816,7 @@
       "path": "images/img-7bb8b9ec75ab.webp",
       "media_type": "image/webp",
       "bytes": 208234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +824,7 @@
       "path": "images/img-d2ea593337cc.webp",
       "media_type": "image/webp",
       "bytes": 167478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +832,7 @@
       "path": "images/img-cca41fd4cf1b.webp",
       "media_type": "image/webp",
       "bytes": 179948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +840,7 @@
       "path": "images/img-964d6b5a77d4.webp",
       "media_type": "image/webp",
       "bytes": 318806,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +848,7 @@
       "path": "images/img-480be1dab3e6.webp",
       "media_type": "image/webp",
       "bytes": 298670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +856,7 @@
       "path": "images/img-1c779d3ee0b2.webp",
       "media_type": "image/webp",
       "bytes": 287354,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +864,7 @@
       "path": "images/img-5fc1c7742771.webp",
       "media_type": "image/webp",
       "bytes": 310762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +872,7 @@
       "path": "images/img-c792839243bf.webp",
       "media_type": "image/webp",
       "bytes": 381700,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +880,7 @@
       "path": "images/img-2fa5cb8f43ac.webp",
       "media_type": "image/webp",
       "bytes": 252410,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,7 +888,7 @@
       "path": "images/img-2bf3dd548a8d.webp",
       "media_type": "image/webp",
       "bytes": 246218,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -755,7 +896,7 @@
       "path": "images/img-1c50e9ac73c0.webp",
       "media_type": "image/webp",
       "bytes": 240102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -763,7 +904,7 @@
       "path": "images/img-2e8a66693b89.webp",
       "media_type": "image/webp",
       "bytes": 222622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -771,7 +912,7 @@
       "path": "images/img-a30a15de938d.webp",
       "media_type": "image/webp",
       "bytes": 269488,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -779,7 +920,7 @@
       "path": "images/img-d7c1b4d63369.webp",
       "media_type": "image/webp",
       "bytes": 239110,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -787,7 +928,7 @@
       "path": "images/img-2e018d95a210.webp",
       "media_type": "image/webp",
       "bytes": 206224,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -795,7 +936,7 @@
       "path": "images/img-0560183f61b8.webp",
       "media_type": "image/webp",
       "bytes": 331044,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -803,7 +944,7 @@
       "path": "images/img-66d10c355e6e.webp",
       "media_type": "image/webp",
       "bytes": 389530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -811,7 +952,7 @@
       "path": "images/img-a1929290d9ac.webp",
       "media_type": "image/webp",
       "bytes": 935086,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -819,7 +960,7 @@
       "path": "images/img-befba14ab156.webp",
       "media_type": "image/webp",
       "bytes": 744026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -827,7 +968,7 @@
       "path": "images/img-11524885b91e.webp",
       "media_type": "image/webp",
       "bytes": 721336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -835,7 +976,7 @@
       "path": "images/img-81463f6865ef.webp",
       "media_type": "image/webp",
       "bytes": 765070,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -843,7 +984,7 @@
       "path": "images/img-3525ddc0e98b.webp",
       "media_type": "image/webp",
       "bytes": 241736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -851,7 +992,7 @@
       "path": "images/img-72563d9f5306.webp",
       "media_type": "image/webp",
       "bytes": 231854,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -859,7 +1000,7 @@
       "path": "images/img-7ced0519f151.webp",
       "media_type": "image/webp",
       "bytes": 178900,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -867,7 +1008,7 @@
       "path": "images/img-6aad596d08fa.webp",
       "media_type": "image/webp",
       "bytes": 168732,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -875,7 +1016,7 @@
       "path": "images/img-fc62776b7a9b.webp",
       "media_type": "image/webp",
       "bytes": 487124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -883,7 +1024,7 @@
       "path": "images/img-131d8b00d398.webp",
       "media_type": "image/webp",
       "bytes": 251816,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -891,7 +1032,7 @@
       "path": "images/img-ef408d5df919.webp",
       "media_type": "image/webp",
       "bytes": 140462,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -899,7 +1040,7 @@
       "path": "images/img-05d31f5efd23.webp",
       "media_type": "image/webp",
       "bytes": 534670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -907,7 +1048,7 @@
       "path": "images/img-5cd8247760d9.webp",
       "media_type": "image/webp",
       "bytes": 437674,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -915,7 +1056,7 @@
       "path": "images/img-db7b20103ef0.webp",
       "media_type": "image/webp",
       "bytes": 738622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -923,7 +1064,7 @@
       "path": "images/img-87fa130cf2bf.webp",
       "media_type": "image/webp",
       "bytes": 792496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -931,7 +1072,7 @@
       "path": "images/img-409e028dce9a.webp",
       "media_type": "image/webp",
       "bytes": 790132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -939,7 +1080,7 @@
       "path": "images/img-e58642207405.webp",
       "media_type": "image/webp",
       "bytes": 282358,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -947,7 +1088,7 @@
       "path": "images/img-59c250ec6c9e.webp",
       "media_type": "image/webp",
       "bytes": 158350,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -955,7 +1096,7 @@
       "path": "images/img-8dd60f577af8.webp",
       "media_type": "image/webp",
       "bytes": 95334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -963,7 +1104,7 @@
       "path": "images/img-506c8369bd47.webp",
       "media_type": "image/webp",
       "bytes": 241682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -971,7 +1112,7 @@
       "path": "images/img-0b7bf294e310.webp",
       "media_type": "image/webp",
       "bytes": 271664,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -979,7 +1120,7 @@
       "path": "images/img-6885748d1932.webp",
       "media_type": "image/webp",
       "bytes": 785874,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -987,13 +1128,13 @@
       "path": "images/img-efb3a6799a02.webp",
       "media_type": "image/webp",
       "bytes": 466036,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/jackson-wy-usa/55%20S%20Ely%20Springs%20Road%20In%20Jackson,%20Wyoming,%20United%20States%20For%20Sale%20%2817544603%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/17/03/17/b1eb1d67-3b76-45a3-879e-625cd632fa57/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1001,25 +1142,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1027,13 +1168,13 @@
       "path": "images/img-db76f273eb04.webp",
       "media_type": "image/webp",
       "bytes": 1002,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 71,
-    "images_existing": 0,
-    "images_failed": 12,
+    "images_new": 3,
+    "images_existing": 71,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

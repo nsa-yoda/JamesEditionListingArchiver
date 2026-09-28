@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/loule-portugal/exceptional-newly-built-luxury-villa-with-breathtaking-views-of-the-lake-ocean-and-golf-course-16969685
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:21Z
+- Retrieved: 2026-09-28T00:20:51Z
 - Address: Quinta do Lago, Algarve, Almancil, Portugal
 - Map: https://www.google.com/maps/search/?api=1&query=37.0577544,-8.0231563
 - Coordinates: 37.06, -8.02
@@ -10,7 +10,7 @@
 - Listing reference: AR-51
 - First listed: Jan 21
 - Last updated: January 22
-- Images downloaded: 38
+- Images downloaded: 40
 - Videos downloaded: 0
 
 ## Property

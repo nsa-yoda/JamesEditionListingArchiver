@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/brentwood-tn-usa/single-family-residence-in-brentwood-17858448
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:42Z
+- Retrieved: 2026-09-28T00:25:06Z
 - Address: 698 Brass Lantern Pl, Nashville, Tennessee, United States
 - Map: https://www.google.com/maps/search/?api=1&query=36.015163,-86.820544
 - Coordinates: 36.02, -86.82
@@ -10,7 +10,7 @@
 - Listing reference: 3189561
 - First listed: May 7
 - Last updated: June 18
-- Images downloaded: 69
+- Images downloaded: 74
 
 ## Property
 

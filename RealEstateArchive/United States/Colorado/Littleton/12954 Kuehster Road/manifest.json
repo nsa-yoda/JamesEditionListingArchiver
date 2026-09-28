@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:03.335342Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/littleton-co-usa/rare-800-acre-parcel-in-jeff-co-16076521",
     "canonical_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/rare-800-acre-parcel-in-jeff-co-16076521",
@@ -9,13 +9,13 @@
     "listing_reference": "Z65SJT",
     "first_listed": "Aug 21, 2025",
     "last_updated": "April 30",
-    "retrieved_at": "2026-06-18T07:08:41.906571Z"
+    "retrieved_at": "2026-09-28T00:24:02.951937Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2380,
-      "sha256": "1ac8cb27a6049dd158c965dd7ad5603cc5b836e7457a39c1dac1dd5890728a51"
+      "bytes": 2381,
+      "sha256": "67cc3b876a9fea4a639e74a653afb6a9d44cd7a86137cfd644dcc4f75eec9219"
     },
     {
       "path": "images/004-1b53d66f.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-3c787d8648da.webp",
+      "bytes": 5030,
+      "sha256": "465b3770b457c220dc153f249e30e8f4b3bb53b5d622fcfe127922e8d9541692"
+    },
+    {
+      "path": "images/img-92ae178fe4be.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-bc07d1f795e6.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 16358,
-      "sha256": "f776735ea841cb5750b536257bb809210186eb8f09a0777298cd2fb184665dc1"
+      "bytes": 46164,
+      "sha256": "e87a04bb624ec08d675d3ea3394fffee51701d07ed853267b40e4128f6f44ced"
     },
     {
       "path": "source.html",
@@ -81,6 +96,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/2200xxs.jpg",
       "path": "images/004-1b53d66f.webp",
       "media_type": "image/webp",
@@ -90,7 +123,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/58077699-f0f6-4560-b724-c09f2fe9b465/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/58077699-f0f6-4560-b724-c09f2fe9b465/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/58077699-f0f6-4560-b724-c09f2fe9b465/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/58077699-f0f6-4560-b724-c09f2fe9b465/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/58077699-f0f6-4560-b724-c09f2fe9b465/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/58077699-f0f6-4560-b724-c09f2fe9b465/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +155,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/34534211-cfae-48da-9304-bb5e2eadeea4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/34534211-cfae-48da-9304-bb5e2eadeea4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/34534211-cfae-48da-9304-bb5e2eadeea4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/34534211-cfae-48da-9304-bb5e2eadeea4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/34534211-cfae-48da-9304-bb5e2eadeea4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/34534211-cfae-48da-9304-bb5e2eadeea4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +187,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/c2bd39ae-fb74-4142-acf9-870060914188/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/c2bd39ae-fb74-4142-acf9-870060914188/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/c2bd39ae-fb74-4142-acf9-870060914188/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/c2bd39ae-fb74-4142-acf9-870060914188/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/c2bd39ae-fb74-4142-acf9-870060914188/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/c2bd39ae-fb74-4142-acf9-870060914188/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +219,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/d4d1a160-8f00-45b4-a042-43d3f8cfa5b6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/d4d1a160-8f00-45b4-a042-43d3f8cfa5b6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/d4d1a160-8f00-45b4-a042-43d3f8cfa5b6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/d4d1a160-8f00-45b4-a042-43d3f8cfa5b6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/d4d1a160-8f00-45b4-a042-43d3f8cfa5b6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/d4d1a160-8f00-45b4-a042-43d3f8cfa5b6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +251,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3c787d8648da.webp",
+      "media_type": "image/webp",
+      "bytes": 5030,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-bc07d1f795e6.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/littleton-co-usa/Rare%20800%20Acre%20Parcel%20In%20Jeff%20Co%21%20In%20Littleton,%20Colorado,%20United%20States%20For%20Sale%20%2816076521%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-92ae178fe4be.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/bb4e8ce9-f55e-4cd3-bd94-ac11d8939fab/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,9 +318,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

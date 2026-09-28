@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "2138717",
     "first_listed": "Feb 22",
     "last_updated": "April 29",
-    "retrieved_at": "2026-06-19T08:42:12.292223Z"
+    "retrieved_at": "2026-09-28T00:25:27.468785Z"
   },
   "location": {
     "address": "2849 W 1800 S, Vernal, Utah, United States",
@@ -68,112 +68,200 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/2200xxs.jpg",
       "file": "img-e5e1f9d33c05.webp",
       "media_type": "image/webp",
       "bytes": 150152,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/2200xxs.jpg",
       "file": "img-87b2ca95077f.webp",
       "media_type": "image/webp",
       "bytes": 120662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/2200xxs.jpg",
       "file": "img-24404e5a2258.webp",
       "media_type": "image/webp",
       "bytes": 127988,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/2200xxs.jpg",
       "file": "img-9506d8aeeccb.webp",
       "media_type": "image/webp",
       "bytes": 127402,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/2200xxs.jpg",
       "file": "img-7441c52029cb.webp",
       "media_type": "image/webp",
       "bytes": 217926,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/M00000628.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-af17b500a95f.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 7050,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-7706fa78e117.webp",
+      "media_type": "image/webp",
+      "bytes": 3372,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-96ccd305aafe.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-b6e86653f30a.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "file": "img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "file": "img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "file": "img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "metadata": {
@@ -325,6 +413,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/M00000628.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/06afc575-e2e1-4fa4-8ee4-7c344ec35a5d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/f1ceddfb-a728-4bc8-99c2-d01ecad277a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/bd1929e6-22b4-4e7a-ad63-a4e1335a22e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/576ddba8-cbaf-430a-bcb1-af934815eab7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/vernal-ut-usa/Single%20Family%20Residence%20In%20Vernal%20In%20Vernal,%20Utah,%20United%20States%20For%20Sale%20%2817276710%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/20/16/24/02/29449e80-a1d5-4300-8730-4b5b6d4aa1c1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

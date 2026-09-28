@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:02.593235Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/madison-va-usa/quaker-run-road-madison-va-22727-14003924",
     "canonical_url": "https://www.jamesedition.com/real_estate/madison-va-usa/quaker-run-road-madison-va-22727-14003924",
@@ -9,13 +9,13 @@
     "listing_reference": "9F1D0724-B50A-49E8-97AE-AB612BADBADB",
     "first_listed": "Mar 25, 2024",
     "last_updated": "December 15, 2025",
-    "retrieved_at": "2026-06-16T03:43:34.715962Z"
+    "retrieved_at": "2026-09-28T00:24:02.241245Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 1634,
-      "sha256": "6b96727c7f4fd7b063eb94297979acf4db219cc3b95fb18f41e494bfbe9635d2"
+      "bytes": 1635,
+      "sha256": "9327aa9391a44e7a9da4384e9d8fd196e3e9435f3a9c8d6fc73b88c7459eaacf"
     },
     {
       "path": "images/004-58914ffe.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-5a3406333bfb.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-8ba9616c60a3.webp",
+      "bytes": 4844,
+      "sha256": "70f0e20fa6f45e137e34d61db61539c5169c61f6441e42eb5eeea2e758e373ba"
+    },
+    {
+      "path": "images/img-fed9c90a0aa7.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 14655,
-      "sha256": "e5fa8b8cb7e0dcbf141b97237d8574b758b161e2fa27a41a5c3ea10193bb26da"
+      "bytes": 44496,
+      "sha256": "e2a544a2800e93a07939c2b7c30b4589597eca2166080f0a9f3a1f408d3389eb"
     },
     {
       "path": "source.html",
@@ -81,6 +96,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/2200xxs.jpg",
       "path": "images/004-58914ffe.webp",
       "media_type": "image/webp",
@@ -90,7 +123,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/d1ec8994-c911-47a2-bcde-4c37fe2c4963/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/d1ec8994-c911-47a2-bcde-4c37fe2c4963/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/d1ec8994-c911-47a2-bcde-4c37fe2c4963/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/d1ec8994-c911-47a2-bcde-4c37fe2c4963/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/d1ec8994-c911-47a2-bcde-4c37fe2c4963/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/d1ec8994-c911-47a2-bcde-4c37fe2c4963/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +155,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/9710bb80-83cf-4aa9-bb36-5937c0ca9f64/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/9710bb80-83cf-4aa9-bb36-5937c0ca9f64/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/9710bb80-83cf-4aa9-bb36-5937c0ca9f64/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/9710bb80-83cf-4aa9-bb36-5937c0ca9f64/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/9710bb80-83cf-4aa9-bb36-5937c0ca9f64/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/9710bb80-83cf-4aa9-bb36-5937c0ca9f64/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +187,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/4fdee0e2-3413-4d77-b2fe-2bcdefa9e9ff/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/4fdee0e2-3413-4d77-b2fe-2bcdefa9e9ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/4fdee0e2-3413-4d77-b2fe-2bcdefa9e9ff/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/4fdee0e2-3413-4d77-b2fe-2bcdefa9e9ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/4fdee0e2-3413-4d77-b2fe-2bcdefa9e9ff/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/4fdee0e2-3413-4d77-b2fe-2bcdefa9e9ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +219,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/f8338582-c605-4ee4-b87b-c7fca43e4166/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/f8338582-c605-4ee4-b87b-c7fca43e4166/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/f8338582-c605-4ee4-b87b-c7fca43e4166/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/f8338582-c605-4ee4-b87b-c7fca43e4166/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/f8338582-c605-4ee4-b87b-c7fca43e4166/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/f8338582-c605-4ee4-b87b-c7fca43e4166/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +251,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8ba9616c60a3.webp",
+      "media_type": "image/webp",
+      "bytes": 4844,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-fed9c90a0aa7.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/madison-va-usa/Quaker%20Run%20Road,%20Madison,%20Va,%2022727%20In%20Graves%20Mill,%20Virginia,%20United%20States%20For%20Sale%20%2814003924%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-5a3406333bfb.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/03/27/16/44/06/3d1a8f30-ad94-4d6d-98ad-f6ed32fe37ca/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,9 +318,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

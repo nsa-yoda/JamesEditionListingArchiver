@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:21.384116Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380",
     "canonical_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380",
@@ -9,13 +9,13 @@
     "listing_reference": "H6311954",
     "first_listed": "Jan 22",
     "last_updated": "March 30",
-    "retrieved_at": "2026-06-18T07:08:58.957651Z"
+    "retrieved_at": "2026-09-28T00:25:20.991186Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 1883,
-      "sha256": "33a309179d33ecdb7d4cd365e69b5cfeb0588e17e5a1425c181373cb4dba7022"
+      "sha256": "ac469c19b5db0a03ec9ca1476f587c7f289b009629ca3a7b4000b54254dc3b12"
     },
     {
       "path": "images/004-b1a6d3dc.webp",
@@ -188,9 +188,29 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-44239017ab2f.png",
+      "bytes": 3564,
+      "sha256": "ad7e16f8e405630ec78ae9c2085714ea2f8cc19fcc1cb9dea9fc73967be9f635"
+    },
+    {
+      "path": "images/img-70818beb2fbb.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-8b762dfa68fc.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-cc282e25a240.webp",
+      "bytes": 7402,
+      "sha256": "d190708e7aeea8e9902ab4f05453040c1977d4c91ab139d4e6b32c2de8efef29"
+    },
+    {
       "path": "listing.json",
-      "bytes": 24150,
-      "sha256": "0aa034c052be8194040e8b045fed353c1a274fea11fca0da243cc59a54d31287"
+      "bytes": 59752,
+      "sha256": "4e0185b27e8f8a870a55cfeaf9bdc250a4bb362bec61eb9a75376521655141ad"
     },
     {
       "path": "source.html",
@@ -206,6 +226,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/2200xxs.jpg",
       "path": "images/004-b1a6d3dc.webp",
       "media_type": "image/webp",
@@ -215,7 +253,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -228,7 +285,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -241,7 +317,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -254,7 +349,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -267,27 +381,70 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/M00000489.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-44239017ab2f.png",
+      "media_type": "image/png",
+      "bytes": 3564,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-cc282e25a240.webp",
+      "media_type": "image/webp",
+      "bytes": 7402,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-70818beb2fbb.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8b762dfa68fc.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/5fa652d5-c495-477c-a695-9ba8873a7b7b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/f5033516-fe57-4c6c-9691-4ac46cf46c0e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/15b264fc-1b1a-4d89-9b2e-120c55a805bf/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/caf52acb-ea54-4047-88ee-469d1e29eac8/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -491,18 +648,9 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2827%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2828%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/monticello-ny-usa/Single%20Family%20Residence%20In%20Monticello%20In%20Monticello,%20New%20York,%20United%20States%20For%20Sale%20%2816980380%29_files/2200xxs%2829%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/31/1fa04069-8d68-468f-8d62-a7b7bed0c318/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -538,9 +686,9 @@
     }
   ],
   "summary": {
-    "images_new": 12,
+    "images_new": 4,
     "images_existing": 34,
-    "images_failed": 0,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

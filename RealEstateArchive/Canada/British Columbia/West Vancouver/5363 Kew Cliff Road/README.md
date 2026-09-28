@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/west-vancouver-canada/the-finest-waterfront-estate-13864264
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:56Z
+- Retrieved: 2026-09-28T00:25:51Z
 - Address: 5363 Kew Cliff Road, West Vancouver, BC V7W 1M3, British Columbia, Canada
 - Map: https://www.google.com/maps/search/?api=1&query=49.3495919,-123.2684999
 - Coordinates: 49.35, -123.27
@@ -10,7 +10,7 @@
 - Listing reference: NG453R
 - First listed: Feb 22, 2024
 - Last updated: June 19
-- Images downloaded: 67
+- Images downloaded: 70
 
 ## Property
 

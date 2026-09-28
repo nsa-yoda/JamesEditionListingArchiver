@@ -8,7 +8,7 @@
     "listing_reference": "GLS250102",
     "first_listed": "May 12",
     "last_updated": "May 15",
-    "retrieved_at": "2026-08-28T00:28:39.437222Z"
+    "retrieved_at": "2026-09-28T00:21:45.913647Z"
   },
   "location": {
     "address": "Harbour Island, Crinan, Lochgilphead, Argyll and Bute, Scotland",
@@ -76,386 +76,425 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/2200xxs.jpg",
       "file": "img-00384ad00578.webp",
       "media_type": "image/webp",
       "bytes": 243256,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/2200xxs.jpg",
       "file": "img-4038f89da22f.webp",
       "media_type": "image/webp",
       "bytes": 314564,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/2200xxs.jpg",
       "file": "img-17ebd511e3cf.webp",
       "media_type": "image/webp",
       "bytes": 217288,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/2200xxs.jpg",
       "file": "img-343df0889eea.webp",
       "media_type": "image/webp",
       "bytes": 365670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/2200xxs.jpg",
       "file": "img-5343bb28161a.webp",
       "media_type": "image/webp",
       "bytes": 564346,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-3c37c95d1a2c.webp",
+      "media_type": "image/webp",
+      "bytes": 3456,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-2b60c849e105.webp",
+      "media_type": "image/webp",
+      "bytes": 7754,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/2c93cd4c-fa9a-44b3-a7e7-1ba54702c6d8/je/2000xxs.jpg",
       "file": "img-997a26d1c1ff.webp",
       "media_type": "image/webp",
       "bytes": 175092,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/ec9b0526-4b82-4922-95e0-ac044b077710/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs%282%29.jpg",
       "file": "img-05b4682a6e5b.webp",
       "media_type": "image/webp",
       "bytes": 130184,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/216f2072-19a9-4e45-9463-ed3c9b0fe2e6/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs%283%29.jpg",
       "file": "img-6da6b2923d8c.webp",
       "media_type": "image/webp",
       "bytes": 180902,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/48dca2de-11c3-4b10-a753-104f671be586/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2000xxs%284%29.jpg",
       "file": "img-86d5e3b6ca8e.webp",
       "media_type": "image/webp",
       "bytes": 193956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/564cbaa1-4d50-4191-998c-0aeb6408d114/je/2000xxs.jpg",
       "file": "img-7ffa9ace2b0a.webp",
       "media_type": "image/webp",
       "bytes": 579418,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/f02ad6e0-59a5-4d83-8997-817086a5a2b4/je/2000xxs.jpg",
       "file": "img-19c167e6628c.webp",
       "media_type": "image/webp",
       "bytes": 528736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/8fe98c14-bc74-4779-882f-ff32d71eb2c0/je/2000xxs.jpg",
       "file": "img-4161163c19fd.webp",
       "media_type": "image/webp",
       "bytes": 355198,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/3219913a-4775-4c8c-a69c-68f3693b3653/je/2000xxs.jpg",
       "file": "img-72064cf8c1ec.webp",
       "media_type": "image/webp",
       "bytes": 356590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/b47db4e6-7c6a-4448-84ca-98ea5598589c/je/2000xxs.jpg",
       "file": "img-288e7c0ebf2e.webp",
       "media_type": "image/webp",
       "bytes": 456230,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/270a368a-8ec4-4642-b059-15e53b2df568/je/2000xxs.jpg",
       "file": "img-5dde2ee86a75.webp",
       "media_type": "image/webp",
       "bytes": 593838,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/8ae67699-6cc3-4768-a94a-c5c66aafe710/je/2000xxs.jpg",
       "file": "img-6d90facaa63c.webp",
       "media_type": "image/webp",
       "bytes": 655114,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/55759ac3-4fed-4957-8913-bd4b7022f949/je/2000xxs.jpg",
       "file": "img-ee1019887a6d.webp",
       "media_type": "image/webp",
       "bytes": 196500,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/688c2e97-2651-4de2-950f-0bd466e59cdd/je/2000xxs.jpg",
       "file": "img-4c7c9b944e11.webp",
       "media_type": "image/webp",
       "bytes": 138234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/f5743931-07f9-4d3b-aba4-26037dac0560/je/2000xxs.jpg",
       "file": "img-02cbc0d692b2.webp",
       "media_type": "image/webp",
       "bytes": 212928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/2a5d50ad-5091-4d65-b0bd-b87b4dc4189c/je/2000xxs.jpg",
       "file": "img-7b2ee40d1999.webp",
       "media_type": "image/webp",
       "bytes": 225482,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/711d549c-156a-4985-ab40-68cdd8e976bb/je/2000xxs.jpg",
       "file": "img-f2a30087a7c5.webp",
       "media_type": "image/webp",
       "bytes": 168244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/df647807-b6bd-481d-88d9-0521ea825f7a/je/2000xxs.jpg",
       "file": "img-3546c372033f.webp",
       "media_type": "image/webp",
       "bytes": 196486,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/c8fb89a2-bea1-423a-9c37-8462b4decbf9/je/2000xxs.jpg",
       "file": "img-8bccd0db8863.webp",
       "media_type": "image/webp",
       "bytes": 220004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/2a259cd5-47b8-488b-921f-b9a6fabba3a7/je/2000xxs.jpg",
       "file": "img-77daa8a86064.webp",
       "media_type": "image/webp",
       "bytes": 183338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/0bafa5b1-0ad1-4d69-9f94-003af76cf69b/je/2000xxs.jpg",
       "file": "img-79b0a18b069b.webp",
       "media_type": "image/webp",
       "bytes": 151804,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/57d09512-6642-45cc-9d8b-83d493865265/je/2000xxs.jpg",
       "file": "img-ff8df7f75d30.webp",
       "media_type": "image/webp",
       "bytes": 108496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/603d46aa-a085-451a-9345-a7a8343b6ba4/je/2000xxs.jpg",
       "file": "img-cc21338f701c.webp",
       "media_type": "image/webp",
       "bytes": 107008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4abad00c-7dbc-4c4a-8b08-0d9aa3c19b22/je/2000xxs.jpg",
       "file": "img-e191cd7e6935.webp",
       "media_type": "image/webp",
       "bytes": 597146,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/3013bb4a-5032-4232-96fc-13623f534464/je/2000xxs.jpg",
       "file": "img-bffd5a8ed4bd.webp",
       "media_type": "image/webp",
       "bytes": 231828,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/6a33387e-8803-4b85-b728-1fc4142f113d/je/2000xxs.jpg",
       "file": "img-cdefdb4fa17a.webp",
       "media_type": "image/webp",
       "bytes": 85240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/b86c3274-ffd4-4fab-a3be-54f96ff84445/je/2000xxs.jpg",
       "file": "img-dc1a6513998e.webp",
       "media_type": "image/webp",
       "bytes": 322828,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/e88ee783-18a9-4a42-a31a-ea5ca0d098f4/je/2000xxs.jpg",
       "file": "img-af44ebcf75ac.webp",
       "media_type": "image/webp",
       "bytes": 190888,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/ce891b42-b804-461b-b303-0e1d34488e88/je/2000xxs.jpg",
       "file": "img-a2222220846b.webp",
       "media_type": "image/webp",
       "bytes": 232890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bf5b15c4-2a2d-4a83-bf0c-0971851f21fd/je/2000xxs.jpg",
       "file": "img-7fd483af4588.webp",
       "media_type": "image/webp",
       "bytes": 247482,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/56a59836-c0df-4e9e-bb15-23827e51b66f/je/2000xxs.jpg",
       "file": "img-5db9807662ae.webp",
       "media_type": "image/webp",
       "bytes": 134742,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/2f18dc49-07da-432b-ae5d-2691a1e73056/je/2000xxs.jpg",
       "file": "img-4a397773bcb9.webp",
       "media_type": "image/webp",
       "bytes": 401668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/f512f000-66f5-4175-b9ee-ff8e9afd444b/je/2000xxs.jpg",
       "file": "img-d3b9803cdbdb.webp",
       "media_type": "image/webp",
       "bytes": 233492,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/229b7c17-7bc7-4a99-bfc5-70d1c362b576/je/2000xxs.jpg",
       "file": "img-aab26be69736.webp",
       "media_type": "image/webp",
       "bytes": 319302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/9f463e47-21b3-4c48-a888-e8a73a5b0d2b/je/2000xxs.jpg",
       "file": "img-1ef2f37a4a91.webp",
       "media_type": "image/webp",
       "bytes": 12492,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2200xxs%2835%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2200xxs%2836%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2200xxs%2837%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/agent_images/2025/11/04/17/31/05/351880b0-1992-41f9-acbc-5265ce044a8e/je/80x80xc.jpg",
       "file": "img-685c8fe7b485.webp",
       "media_type": "image/webp",
       "bytes": 1322,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "metadata": {
@@ -625,6 +664,78 @@
     "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/2200xxs%2837%29.jpg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/22cf4cff-b730-48e0-a483-eaf49bd42ebb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/7d5b4b35-cab4-4ead-a020-c88ef00e51fc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/bd7c42f4-6a1a-45d0-a8c7-d4079b299903/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/59f1b001-50b0-47d3-bdb0-afdf56a369a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Harbour%20Island,%20Crinan,%20Lochgilphead,%20Argyll%20And%20Bute%20In%20Lochgilphead,%20Scotland%20For%20Sale%20%2817897454%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/14/4c79d3b3-8f71-461e-8647-6874d09dfa0b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 }

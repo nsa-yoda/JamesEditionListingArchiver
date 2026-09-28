@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/saddle-river-nj-usa/123-east-saddle-river-road-saddle-river-nj-07458-16398262
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:12Z
+- Retrieved: 2026-09-28T00:17:07Z
 - Address: 123 East Saddle River Road , Saddle River, NJ 07458, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.024462,-74.098374
 - Coordinates: 41.02, -74.1
@@ -10,7 +10,7 @@
 - Listing reference: 5TQS8M
 - First listed: Oct 14, 2025
 - Last updated: October 14, 2025
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:14.829005Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/beachside-living-in-a-fully-renovated-and-unusually-expansive-dutch-colonial-12024633",
     "canonical_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/beachside-living-in-a-fully-renovated-and-unusually-expansive-dutch-colonial-12024633",
@@ -9,13 +9,13 @@
     "listing_reference": "EV2WMG",
     "first_listed": "Jun 10, 2022",
     "last_updated": "April 22",
-    "retrieved_at": "2026-06-18T07:07:49.640046Z"
+    "retrieved_at": "2026-09-28T00:20:14.169848Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3692,
-      "sha256": "d48d4c46e82047fc38d112e1b47ec8c0289065a66ec3df48126ad6584f86ad82"
+      "sha256": "f2968437d6a0c506a7a651ffd95b3a2a5d022f12da6ebbc150abbc8489f5c19f"
     },
     {
       "path": "images/004-90e49013.webp",
@@ -273,9 +273,29 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-06b9d0d83ec6.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-9ea67b5264e2.webp",
+      "bytes": 730634,
+      "sha256": "43ba84539fe964339f4797351f847c6585714fa36beece9c3038f8370e27cd23"
+    },
+    {
+      "path": "images/img-d154629d375f.webp",
+      "bytes": 4780,
+      "sha256": "54e9ae23f83a182b99bc6d9527dab857c157d658e565f66fc366332ee0c673c2"
+    },
+    {
+      "path": "images/img-d2f7154d6490.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 30986,
-      "sha256": "0381f19d40f41f12ea64daf3ed4a61352b5e3d8885f4dff68afaccfd5a2e9367"
+      "bytes": 57215,
+      "sha256": "43733240c873d8d05c345ad75b9054aa979ed1b4ba9fdf31b461a6ef50f26edc"
     },
     {
       "path": "source.html",
@@ -291,6 +311,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/2200xxs.jpg",
       "path": "images/004-90e49013.webp",
       "media_type": "image/webp",
@@ -299,8 +337,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/64be192e-a206-4a9d-a8dd-7e532634e9d9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/64be192e-a206-4a9d-a8dd-7e532634e9d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/64be192e-a206-4a9d-a8dd-7e532634e9d9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/64be192e-a206-4a9d-a8dd-7e532634e9d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/64be192e-a206-4a9d-a8dd-7e532634e9d9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/64be192e-a206-4a9d-a8dd-7e532634e9d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -312,8 +363,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/e2fa8ec6-6c6e-4462-870e-a0ab1662a2d8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/e2fa8ec6-6c6e-4462-870e-a0ab1662a2d8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/e2fa8ec6-6c6e-4462-870e-a0ab1662a2d8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/e2fa8ec6-6c6e-4462-870e-a0ab1662a2d8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/e2fa8ec6-6c6e-4462-870e-a0ab1662a2d8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/e2fa8ec6-6c6e-4462-870e-a0ab1662a2d8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -325,8 +389,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/695b5e91-18d9-415e-9b07-550e4731e0e4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/695b5e91-18d9-415e-9b07-550e4731e0e4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/695b5e91-18d9-415e-9b07-550e4731e0e4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/695b5e91-18d9-415e-9b07-550e4731e0e4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/695b5e91-18d9-415e-9b07-550e4731e0e4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/695b5e91-18d9-415e-9b07-550e4731e0e4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -338,8 +415,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/3f18613d-92f3-44e2-b908-9e710dd4f04e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/3f18613d-92f3-44e2-b908-9e710dd4f04e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/3f18613d-92f3-44e2-b908-9e710dd4f04e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/3f18613d-92f3-44e2-b908-9e710dd4f04e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/3f18613d-92f3-44e2-b908-9e710dd4f04e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/3f18613d-92f3-44e2-b908-9e710dd4f04e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -351,23 +441,57 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d154629d375f.webp",
+      "media_type": "image/webp",
+      "bytes": 4780,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d2f7154d6490.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-06b9d0d83ec6.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/64be192e-a206-4a9d-a8dd-7e532634e9d9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/64be192e-a206-4a9d-a8dd-7e532634e9d9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/e2fa8ec6-6c6e-4462-870e-a0ab1662a2d8/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/e2fa8ec6-6c6e-4462-870e-a0ab1662a2d8/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/695b5e91-18d9-415e-9b07-550e4731e0e4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/695b5e91-18d9-415e-9b07-550e4731e0e4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/3f18613d-92f3-44e2-b908-9e710dd4f04e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/3f18613d-92f3-44e2-b908-9e710dd4f04e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -708,7 +832,16 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bay-head-nj-usa/Beachside%20Living%20In%20A%20Fully%20In%20Point%20Pleasant%20Beach,%20New%20Jersey,%20United%20States%20For%20Sale%20%2812024633%29_files/2200xxsxm%2846%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9ea67b5264e2.webp",
+      "media_type": "image/webp",
+      "bytes": 730634,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/29/11/22/58/04c7f006-f292-47f8-9c0e-f3a932620fa0/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -744,9 +877,9 @@
     }
   ],
   "summary": {
-    "images_new": 9,
+    "images_new": 4,
     "images_existing": 51,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

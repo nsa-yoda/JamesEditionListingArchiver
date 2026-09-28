@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:43.616221Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/deep-cove-contemporary-designed-by-frits-de-vries-15920683",
     "canonical_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/deep-cove-contemporary-designed-by-frits-de-vries-15920683",
@@ -8,13 +8,13 @@
     "listing_id": "15920683",
     "first_listed": "Jul 11, 2025",
     "last_updated": "April 8",
-    "retrieved_at": "2026-08-28T00:28:11.909538Z"
+    "retrieved_at": "2026-09-28T00:20:43.129873Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 4072,
-      "sha256": "2f1abdc9174c8ee7e853e793760597ebdaefaaece30fcfb1b030db5f438a3461"
+      "sha256": "dee68db1c020033c0ac1fca5551c556e38a268f614ea0cd0d50870c845924572"
     },
     {
       "path": "images/img-0072d4c44e34.webp",
@@ -47,6 +47,16 @@
       "sha256": "44cdfa3c46ec251e7dfb749a6f9a035ae154e181873a0de8877d0192f11775e6"
     },
     {
+      "path": "images/img-20a5204f6880.webp",
+      "bytes": 296612,
+      "sha256": "a08e29db8c3bb750236a92f6b408083c6319490457d1287f9263731b7bdb2dc7"
+    },
+    {
+      "path": "images/img-2a064d6f591f.webp",
+      "bytes": 847478,
+      "sha256": "540835f1549006f3449bed3ad94026e2c5356bf53dd323ce7ab47f08cd00b9f5"
+    },
+    {
       "path": "images/img-3baea6953204.webp",
       "bytes": 305512,
       "sha256": "cfae4dd40650a026ad4dea9e18042671e646f024340f27a86803c89edb56333a"
@@ -55,6 +65,11 @@
       "path": "images/img-3e1e7233e167.webp",
       "bytes": 349862,
       "sha256": "33333e71af7ef15863e1d6f0c92f3e9405e131902d958e72ba6c0d3fe45f3655"
+    },
+    {
+      "path": "images/img-3ffccecb5af9.webp",
+      "bytes": 592844,
+      "sha256": "d1321e4169b69c119d82fb90d9afe4b804e77dcb0e249cf991d25e18791e969d"
     },
     {
       "path": "images/img-4868eca72276.webp",
@@ -82,6 +97,11 @@
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
     },
     {
+      "path": "images/img-6332fcf812bc.webp",
+      "bytes": 592844,
+      "sha256": "d1321e4169b69c119d82fb90d9afe4b804e77dcb0e249cf991d25e18791e969d"
+    },
+    {
       "path": "images/img-6dbc8204d428.webp",
       "bytes": 467388,
       "sha256": "e6ea61f65279fe62fd1c0316c26d7dadfa8cd3092301440785b45145c70e8904"
@@ -102,6 +122,11 @@
       "sha256": "a3f4bb3683b86e34a81b651a0ea6981d1c0b7d2892edabb20bc229ee179c6621"
     },
     {
+      "path": "images/img-85200989eac1.webp",
+      "bytes": 592844,
+      "sha256": "d1321e4169b69c119d82fb90d9afe4b804e77dcb0e249cf991d25e18791e969d"
+    },
+    {
       "path": "images/img-8cb1fb1f5455.webp",
       "bytes": 355388,
       "sha256": "51e14c4925c1e6bbf6796044378995254c0c6cecb489c048039c14624dddb14b"
@@ -110,6 +135,11 @@
       "path": "images/img-9aa1054baf7e.webp",
       "bytes": 504470,
       "sha256": "c9146238e76dc617e5895639a993fa6b7ca3da40945ba60d14c625f32ff78cae"
+    },
+    {
+      "path": "images/img-9b662bdc7a51.webp",
+      "bytes": 592844,
+      "sha256": "d1321e4169b69c119d82fb90d9afe4b804e77dcb0e249cf991d25e18791e969d"
     },
     {
       "path": "images/img-a00b553527f9.webp",
@@ -132,6 +162,16 @@
       "sha256": "9bbf36a539887b36982a4a2960501a2f65a8c79c8b22e7b2056b8f3a49ead6d1"
     },
     {
+      "path": "images/img-b948dfa28842.webp",
+      "bytes": 592844,
+      "sha256": "d1321e4169b69c119d82fb90d9afe4b804e77dcb0e249cf991d25e18791e969d"
+    },
+    {
+      "path": "images/img-b9e8c32950f2.webp",
+      "bytes": 592844,
+      "sha256": "d1321e4169b69c119d82fb90d9afe4b804e77dcb0e249cf991d25e18791e969d"
+    },
+    {
       "path": "images/img-bcf4d9872f88.webp",
       "bytes": 229726,
       "sha256": "b48e67c1ce324eef64eb3144046da26860693acc3bfac38d8852705bf86d9a4f"
@@ -140,6 +180,11 @@
       "path": "images/img-c60c029c50bf.webp",
       "bytes": 393052,
       "sha256": "1ab766ad040567509a6dcb46a11b48bc8f99ec7fb42aa7f0b9694d4cc97fed74"
+    },
+    {
+      "path": "images/img-cc516e1033b6.webp",
+      "bytes": 336548,
+      "sha256": "4d91f0dd67c908383f39bbb1d59e8a7aed8a8ad92ddf85fbef7359886e81cb21"
     },
     {
       "path": "images/img-d5586d0d6eab.webp",
@@ -152,9 +197,24 @@
       "sha256": "9aafc805e9fd30e24dc4a8c220d44bc712efc569cb80697013cbb062b6baae5d"
     },
     {
+      "path": "images/img-deece555f27c.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-e4ff00eff1c0.webp",
       "bytes": 435750,
       "sha256": "a2fda847eedf066b779652a3e773520b3df55630de36e78cc87ce43ae18f2d0d"
+    },
+    {
+      "path": "images/img-f2ab63a8eec9.webp",
+      "bytes": 7748,
+      "sha256": "8542c0ed1b1e6fa535b71426df6e9ce73abde2a0aafcfd40c0b98b7131c6ec4b"
+    },
+    {
+      "path": "images/img-f4c5154ec030.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-f86e5ee5af45.webp",
@@ -168,13 +228,13 @@
     },
     {
       "path": "listing.json",
-      "bytes": 33592,
-      "sha256": "62b3501168cb958b1f09832748ffea20ed8c25f38cce530fa4aced5210888645"
+      "bytes": 66041,
+      "sha256": "3c3d2303af32d12b1b28f41ea629d7898afee3a0ec9536d8bd200fd4a60112b2"
     },
     {
       "path": "source.html",
-      "bytes": 471249,
-      "sha256": "cdfafdde99af4c0ad86c666cb02e1c9f88e9608ebb06f1842d0a48819eb2a0a9"
+      "bytes": 553883,
+      "sha256": "ec8ea7938f121b44d47ae0219ae51b09bd103065f1401170f5ec5634274b2270"
     },
     {
       "path": "source.url",
@@ -185,17 +245,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/2200xxs.jpg",
       "path": "images/img-4868eca72276.webp",
       "media_type": "image/webp",
       "bytes": 705034,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/23/94c9f28c-2292-45ad-838e-04256522231e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/23/94c9f28c-2292-45ad-838e-04256522231e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/23/94c9f28c-2292-45ad-838e-04256522231e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/23/94c9f28c-2292-45ad-838e-04256522231e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/23/94c9f28c-2292-45ad-838e-04256522231e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/23/94c9f28c-2292-45ad-838e-04256522231e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -203,13 +299,31 @@
       "path": "images/img-3e1e7233e167.webp",
       "media_type": "image/webp",
       "bytes": 349862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/f0c76c73-7daa-478b-a57c-aed40d6ffab2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/f0c76c73-7daa-478b-a57c-aed40d6ffab2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/f0c76c73-7daa-478b-a57c-aed40d6ffab2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/f0c76c73-7daa-478b-a57c-aed40d6ffab2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/f0c76c73-7daa-478b-a57c-aed40d6ffab2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/f0c76c73-7daa-478b-a57c-aed40d6ffab2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -217,13 +331,31 @@
       "path": "images/img-fd38a5794daa.webp",
       "media_type": "image/webp",
       "bytes": 396078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/17989462-9cbd-4ce7-aaa8-5f713ca00471/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/17989462-9cbd-4ce7-aaa8-5f713ca00471/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/17989462-9cbd-4ce7-aaa8-5f713ca00471/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/17989462-9cbd-4ce7-aaa8-5f713ca00471/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/17989462-9cbd-4ce7-aaa8-5f713ca00471/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/17989462-9cbd-4ce7-aaa8-5f713ca00471/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -231,13 +363,31 @@
       "path": "images/img-f86e5ee5af45.webp",
       "media_type": "image/webp",
       "bytes": 176464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/df0d3011-ae9c-4a57-9c00-e021a6613da0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/df0d3011-ae9c-4a57-9c00-e021a6613da0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/df0d3011-ae9c-4a57-9c00-e021a6613da0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/df0d3011-ae9c-4a57-9c00-e021a6613da0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/df0d3011-ae9c-4a57-9c00-e021a6613da0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/df0d3011-ae9c-4a57-9c00-e021a6613da0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -245,90 +395,108 @@
       "path": "images/img-1ae0587796de.webp",
       "media_type": "image/webp",
       "bytes": 254326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f2ab63a8eec9.webp",
+      "media_type": "image/webp",
+      "bytes": 7748,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/request_plan_bg-33cc1401.png",
+      "path": "images/img-deece555f27c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/street_view-b1ba588c.jpg",
+      "path": "images/img-f4c5154ec030.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-b9e8c32950f2.webp",
+      "media_type": "image/webp",
+      "bytes": 592844,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-cc516e1033b6.webp",
+      "media_type": "image/webp",
+      "bytes": 336548,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-b16dd66c84e8.webp",
+      "media_type": "image/webp",
+      "bytes": 134602,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-0072d4c44e34.webp",
+      "media_type": "image/webp",
+      "bytes": 215592,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-5534224e3571.webp",
+      "media_type": "image/webp",
+      "bytes": 112278,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/7ee76e2b-8cf6-432e-abda-ad126cfe2fd3/je/2000xxs.jpg",
-      "path": "images/img-b16dd66c84e8.webp",
+      "path": "images/img-20a5204f6880.webp",
       "media_type": "image/webp",
-      "bytes": 134602,
+      "bytes": 296612,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/23/eea3d368-d6af-4f47-bda8-676aa67f5493/je/2000xxs.jpg",
-      "path": "images/img-0072d4c44e34.webp",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/2000xxs.jpg",
+      "path": "images/img-6332fcf812bc.webp",
       "media_type": "image/webp",
-      "bytes": 215592,
+      "bytes": 592844,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/65ee2356-4d84-4c0d-8012-4cea891c5a88/je/2000xxs.jpg",
-      "path": "images/img-5534224e3571.webp",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/f0c76c73-7daa-478b-a57c-aed40d6ffab2/je/2000xxs.jpg",
+      "path": "images/img-3ffccecb5af9.webp",
       "media_type": "image/webp",
-      "bytes": 112278,
+      "bytes": 592844,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/23/94c9f28c-2292-45ad-838e-04256522231e/je/2000xxs.jpg",
+      "path": "images/img-9b662bdc7a51.webp",
+      "media_type": "image/webp",
+      "bytes": 592844,
       "status": "new"
     },
     {
@@ -337,7 +505,7 @@
       "path": "images/img-b4a2eb374351.webp",
       "media_type": "image/webp",
       "bytes": 305684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -345,7 +513,7 @@
       "path": "images/img-131047afe289.webp",
       "media_type": "image/webp",
       "bytes": 334320,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -353,7 +521,7 @@
       "path": "images/img-555eb37669d1.webp",
       "media_type": "image/webp",
       "bytes": 494300,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -361,7 +529,7 @@
       "path": "images/img-0d51d16c0dfb.webp",
       "media_type": "image/webp",
       "bytes": 481236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -369,7 +537,7 @@
       "path": "images/img-17e529c9cdae.webp",
       "media_type": "image/webp",
       "bytes": 661546,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -377,7 +545,7 @@
       "path": "images/img-d5586d0d6eab.webp",
       "media_type": "image/webp",
       "bytes": 686764,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -385,6 +553,22 @@
       "path": "images/img-6dbc8204d428.webp",
       "media_type": "image/webp",
       "bytes": 467388,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/17989462-9cbd-4ce7-aaa8-5f713ca00471/je/2000xxs.jpg",
+      "path": "images/img-85200989eac1.webp",
+      "media_type": "image/webp",
+      "bytes": 592844,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/df0d3011-ae9c-4a57-9c00-e021a6613da0/je/2000xxs.jpg",
+      "path": "images/img-b948dfa28842.webp",
+      "media_type": "image/webp",
+      "bytes": 592844,
       "status": "new"
     },
     {
@@ -393,7 +577,7 @@
       "path": "images/img-c60c029c50bf.webp",
       "media_type": "image/webp",
       "bytes": 393052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -401,7 +585,7 @@
       "path": "images/img-a3765cdeda87.webp",
       "media_type": "image/webp",
       "bytes": 278456,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -409,7 +593,7 @@
       "path": "images/img-845a5ff9e6e9.webp",
       "media_type": "image/webp",
       "bytes": 250628,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -417,7 +601,7 @@
       "path": "images/img-8cb1fb1f5455.webp",
       "media_type": "image/webp",
       "bytes": 355388,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -425,7 +609,7 @@
       "path": "images/img-3baea6953204.webp",
       "media_type": "image/webp",
       "bytes": 305512,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -433,7 +617,7 @@
       "path": "images/img-a00b553527f9.webp",
       "media_type": "image/webp",
       "bytes": 116822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -441,7 +625,7 @@
       "path": "images/img-d67a8ff1b016.webp",
       "media_type": "image/webp",
       "bytes": 275420,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -449,7 +633,7 @@
       "path": "images/img-e4ff00eff1c0.webp",
       "media_type": "image/webp",
       "bytes": 435750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -457,7 +641,7 @@
       "path": "images/img-bcf4d9872f88.webp",
       "media_type": "image/webp",
       "bytes": 229726,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -465,7 +649,7 @@
       "path": "images/img-9aa1054baf7e.webp",
       "media_type": "image/webp",
       "bytes": 504470,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -473,7 +657,7 @@
       "path": "images/img-01e9962cc4a8.webp",
       "media_type": "image/webp",
       "bytes": 223332,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -481,7 +665,7 @@
       "path": "images/img-6f77f7d54940.webp",
       "media_type": "image/webp",
       "bytes": 329662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -489,7 +673,7 @@
       "path": "images/img-4c3da80f9534.webp",
       "media_type": "image/webp",
       "bytes": 328890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -497,25 +681,21 @@
       "path": "images/img-7a38f58354a5.webp",
       "media_type": "image/webp",
       "bytes": 720498,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2200xxs%2828%29.jpg",
+      "path": "images/img-2a064d6f591f.webp",
+      "media_type": "image/webp",
+      "bytes": 847478,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2200xxs%2824%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2200xxs%2825%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/north-vancouver-canada/Deep%20Cove%20Contemporary%20Designed%20By%20In%20North%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2815920683%29_files/2200xxs%2823%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/11/12/35/27/4a970a63-031d-444e-a711-a7eb6ff0a995/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -523,31 +703,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-d471af4d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-d471af4d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
-      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-d7afb6cf.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-d7afb6cf.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
-      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
+      "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-74c4c5d9.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-74c4c5d9.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 30,
-    "images_existing": 0,
-    "images_failed": 20,
+    "images_new": 12,
+    "images_existing": 30,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

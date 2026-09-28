@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/port-angeles-wa-usa/exquisite-port-angeles-estate-14251123
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:31Z
+- Retrieved: 2026-09-28T00:20:57Z
 - Address: 1744 Gasman Rd, Port Angeles, WA 98362, Washington, United States
 - Map: https://www.google.com/maps/search/?api=1&query=48.1121919,-123.3165482
 - Coordinates: 48.11, -123.32
@@ -10,7 +10,7 @@
 - Listing reference: TFHFEN
 - First listed: May 16, 2024
 - Last updated: March 28
-- Images downloaded: 41
+- Images downloaded: 47
 
 ## Property
 

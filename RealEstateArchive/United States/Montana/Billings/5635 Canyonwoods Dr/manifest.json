@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:01.899131Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/billings-usa/single-family-home-billings-16845021",
     "canonical_url": "https://www.jamesedition.com/real_estate/billings-usa/single-family-home-billings-16845021",
@@ -9,13 +9,13 @@
     "listing_reference": "houghtonr125-356909",
     "first_listed": "Dec 23, 2025",
     "last_updated": "June 8",
-    "retrieved_at": "2026-06-19T08:41:31.699948Z"
+    "retrieved_at": "2026-09-28T00:25:01.34361Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2329,
-      "sha256": "ff8513bc6156679d45f74ceacbd06d41649806e8499a8272823956922b274672"
+      "sha256": "978d089dc8bb176a2c3092d7e3e0a8b52905f9ee8fe83c504e7fdbca8b03472c"
     },
     {
       "path": "images/img-0b806a4df3f4.webp",
@@ -43,6 +43,11 @@
       "sha256": "df6e193648f220c9d47040666565174cd54febf75f91994ad20e94f0d59be266"
     },
     {
+      "path": "images/img-313e992aeef0.webp",
+      "bytes": 5010,
+      "sha256": "8720dd4dafbda31d117301ca0451c4b9727d82a38ceb410ff8a070029a90298c"
+    },
+    {
       "path": "images/img-324786d879ac.webp",
       "bytes": 212786,
       "sha256": "d7bfe2801a5a38cbf1c9a21aac697813439bfee277e681fabb7cd87995a1d8b2"
@@ -53,6 +58,11 @@
       "sha256": "e09f027149b1b50bf39c8a98ba4c627ef8189c77a9e085eaaed87a520c1f7bb9"
     },
     {
+      "path": "images/img-35f7bf581e81.webp",
+      "bytes": 4466,
+      "sha256": "da1f06bd4dca93381f8b1eab5c316fd683d1f66d7e99443134b0ff77e0b2414a"
+    },
+    {
       "path": "images/img-377980cc09da.webp",
       "bytes": 166382,
       "sha256": "4fc5da32eb1a3bd04f18971b6b1ef456b1c0d56191f2aa6642ee25fc80959be2"
@@ -61,6 +71,11 @@
       "path": "images/img-3962a51ec6af.webp",
       "bytes": 235142,
       "sha256": "34ec0c4722ef4992a45a2e5a843a584871535819c77378be9a6d754ace57f38f"
+    },
+    {
+      "path": "images/img-3c562e530f0f.webp",
+      "bytes": 1922,
+      "sha256": "5e25e8a55cf722b2eb6a94873df9bfdd707fd91bc33ad4e076f985f5ef0a7d5c"
     },
     {
       "path": "images/img-3d38eb759b09.webp",
@@ -88,6 +103,11 @@
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
     },
     {
+      "path": "images/img-5954f0d85dec.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-5a032111075c.webp",
       "bytes": 163574,
       "sha256": "b8dfc310446bc8ef4d90c421e8094c66fd7fd74189164daa1b7a28942d5a6c9c"
@@ -96,6 +116,11 @@
       "path": "images/img-5e957e55824e.webp",
       "bytes": 228622,
       "sha256": "d55e213e16a5a32c3bd9af3086ab64046bd99fb4ec84f68a7b4a77ce9e9e82ea"
+    },
+    {
+      "path": "images/img-604a535d8f6b.webp",
+      "bytes": 1492,
+      "sha256": "9ed4af117f9c53b710d960f5bf390f0b652ac730b29c11836384fccc79ea18c4"
     },
     {
       "path": "images/img-620a49725f37.webp",
@@ -123,6 +148,11 @@
       "sha256": "dc0b68a85726ac50ed8ce473f66336c725131b4a1a1455c2aebf33ddd8ef9bde"
     },
     {
+      "path": "images/img-722aaeeb3c8a.webp",
+      "bytes": 4202,
+      "sha256": "a05f6fc12ed1dac8098d788590c160526afd95f856b1cd25403e41e6913bc284"
+    },
+    {
       "path": "images/img-747c3b52c9bb.webp",
       "bytes": 50724,
       "sha256": "15a3173cbe69c5b952e5334dd3e0c567c2bd6a5e76a170b13c4e24c13b87d6f0"
@@ -131,6 +161,11 @@
       "path": "images/img-84da04c40880.webp",
       "bytes": 214794,
       "sha256": "97bd351614b84726923d06f686f5f42883b217b899247891585b5cb04f55c440"
+    },
+    {
+      "path": "images/img-8753b57cd0bb.webp",
+      "bytes": 4268,
+      "sha256": "fb5b509ce29e8ee7ed1110046d2572b853e25e62355ae9a0b508923a46df8ac2"
     },
     {
       "path": "images/img-87cd5ed0ed7c.webp",
@@ -158,6 +193,11 @@
       "sha256": "862fadaabfb670d3fef808467a0df57422562efe1f5ca9c3e6ab683f80bce712"
     },
     {
+      "path": "images/img-ad9dce9c5397.webp",
+      "bytes": 4800,
+      "sha256": "26059cbbeada6669948b0c528333ea061336e41a3a5feecd97c9f32bae409f7d"
+    },
+    {
       "path": "images/img-b1809978b6fc.webp",
       "bytes": 205180,
       "sha256": "a94e33a98f9e83b26f14e6cd6da4dca570ad240dc382cf9813d84a5ad7ea4d4e"
@@ -166,6 +206,11 @@
       "path": "images/img-b25943a3589d.webp",
       "bytes": 182302,
       "sha256": "2a05228d4ca1837a54f4afb4d7537cd37950b2424fa48f7ec051630c46744a21"
+    },
+    {
+      "path": "images/img-b7400a100224.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-b8691783fffc.webp",
@@ -188,6 +233,16 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-cfeb8e662bba.webp",
+      "bytes": 4976,
+      "sha256": "3e954691a352c64cd218f84d08469719c940ba058b5a3e252f2cbc36c9498935"
+    },
+    {
+      "path": "images/img-d5768c4e94ff.webp",
+      "bytes": 4194,
+      "sha256": "3c5ce0529fa733de51ce84e40cf41dd4c16f0864bf9ac4c75f8130c5de4dbaf1"
+    },
+    {
       "path": "images/img-def8172a2d77.webp",
       "bytes": 216114,
       "sha256": "76414cd437b7c7b3c6e026a38a557af394d47f9cfe155d0ca34387c69a95d0a6"
@@ -201,6 +256,11 @@
       "path": "images/img-e19d56c3a581.webp",
       "bytes": 225106,
       "sha256": "f73cb78849d9ebd8a7cdfce6984652567ce90583028fa771340158c9d24ae3c6"
+    },
+    {
+      "path": "images/img-edce485e01e8.webp",
+      "bytes": 4002,
+      "sha256": "e8bcf9674625bd2aff067d203f8e8e09d394104d4e778e71c325b10b1587219e"
     },
     {
       "path": "images/img-ef708d020e35.webp",
@@ -229,8 +289,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 30246,
-      "sha256": "932166ed82cf67a11a245ce71e05095d5d2f0fb9557a3c629e3ed95459423d5f"
+      "bytes": 65772,
+      "sha256": "75df7161000e23f841f64590aef8b381772ef565617aca9293593c262ecdba09"
     },
     {
       "path": "source.html",
@@ -246,17 +306,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/2200xxs.jpg",
       "path": "images/img-620a49725f37.webp",
       "media_type": "image/webp",
       "bytes": 687222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6c68b77f-48ab-4ba7-9fbf-49695029817f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6c68b77f-48ab-4ba7-9fbf-49695029817f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6c68b77f-48ab-4ba7-9fbf-49695029817f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6c68b77f-48ab-4ba7-9fbf-49695029817f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6c68b77f-48ab-4ba7-9fbf-49695029817f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6c68b77f-48ab-4ba7-9fbf-49695029817f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -264,13 +360,31 @@
       "path": "images/img-def8172a2d77.webp",
       "media_type": "image/webp",
       "bytes": 216114,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2f3e2308-cd22-4602-b605-9a030cf9902b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2f3e2308-cd22-4602-b605-9a030cf9902b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2f3e2308-cd22-4602-b605-9a030cf9902b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2f3e2308-cd22-4602-b605-9a030cf9902b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2f3e2308-cd22-4602-b605-9a030cf9902b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2f3e2308-cd22-4602-b605-9a030cf9902b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -278,13 +392,31 @@
       "path": "images/img-6a598dcc9b54.webp",
       "media_type": "image/webp",
       "bytes": 416418,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/97c304ea-3e7b-4155-87f7-58a14b09933f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/97c304ea-3e7b-4155-87f7-58a14b09933f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/97c304ea-3e7b-4155-87f7-58a14b09933f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/97c304ea-3e7b-4155-87f7-58a14b09933f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/97c304ea-3e7b-4155-87f7-58a14b09933f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/97c304ea-3e7b-4155-87f7-58a14b09933f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -292,13 +424,31 @@
       "path": "images/img-747c3b52c9bb.webp",
       "media_type": "image/webp",
       "bytes": 50724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/32182e7f-9335-474b-b7a3-107b5a00e74c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/32182e7f-9335-474b-b7a3-107b5a00e74c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/32182e7f-9335-474b-b7a3-107b5a00e74c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/32182e7f-9335-474b-b7a3-107b5a00e74c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/32182e7f-9335-474b-b7a3-107b5a00e74c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/32182e7f-9335-474b-b7a3-107b5a00e74c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -306,85 +456,139 @@
       "path": "images/img-f572cff14ae2.webp",
       "media_type": "image/webp",
       "bytes": 42492,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-cfeb8e662bba.webp",
+      "media_type": "image/webp",
+      "bytes": 4976,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b7400a100224.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-313e992aeef0.webp",
+      "media_type": "image/webp",
+      "bytes": 5010,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-722aaeeb3c8a.webp",
+      "media_type": "image/webp",
+      "bytes": 4202,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-604a535d8f6b.webp",
+      "media_type": "image/webp",
+      "bytes": 1492,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3c562e530f0f.webp",
+      "media_type": "image/webp",
+      "bytes": 1922,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-35f7bf581e81.webp",
+      "media_type": "image/webp",
+      "bytes": 4466,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%286%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d5768c4e94ff.webp",
+      "media_type": "image/webp",
+      "bytes": 4194,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-edce485e01e8.webp",
+      "media_type": "image/webp",
+      "bytes": 4002,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ad9dce9c5397.webp",
+      "media_type": "image/webp",
+      "bytes": 4800,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/160x120xc%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8753b57cd0bb.webp",
+      "media_type": "image/webp",
+      "bytes": 4268,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-5954f0d85dec.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6c68b77f-48ab-4ba7-9fbf-49695029817f/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/6c68b77f-48ab-4ba7-9fbf-49695029817f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2f3e2308-cd22-4602-b605-9a030cf9902b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/2f3e2308-cd22-4602-b605-9a030cf9902b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/97c304ea-3e7b-4155-87f7-58a14b09933f/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/97c304ea-3e7b-4155-87f7-58a14b09933f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/32182e7f-9335-474b-b7a3-107b5a00e74c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/32182e7f-9335-474b-b7a3-107b5a00e74c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -392,7 +596,7 @@
       "path": "images/img-acf1d3e6cb74.webp",
       "media_type": "image/webp",
       "bytes": 170972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -400,7 +604,7 @@
       "path": "images/img-5e957e55824e.webp",
       "media_type": "image/webp",
       "bytes": 228622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -408,7 +612,7 @@
       "path": "images/img-99d9e9f23161.webp",
       "media_type": "image/webp",
       "bytes": 196392,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -416,7 +620,7 @@
       "path": "images/img-6cca806bdbea.webp",
       "media_type": "image/webp",
       "bytes": 199596,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -424,7 +628,7 @@
       "path": "images/img-e19d56c3a581.webp",
       "media_type": "image/webp",
       "bytes": 225106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -432,7 +636,7 @@
       "path": "images/img-87cd5ed0ed7c.webp",
       "media_type": "image/webp",
       "bytes": 199164,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -440,7 +644,7 @@
       "path": "images/img-fd34d9ce8841.webp",
       "media_type": "image/webp",
       "bytes": 201120,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -448,7 +652,7 @@
       "path": "images/img-b1809978b6fc.webp",
       "media_type": "image/webp",
       "bytes": 205180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -456,7 +660,7 @@
       "path": "images/img-30e8ad2e79c5.webp",
       "media_type": "image/webp",
       "bytes": 186616,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -464,7 +668,7 @@
       "path": "images/img-239c0010c463.webp",
       "media_type": "image/webp",
       "bytes": 571976,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -472,7 +676,7 @@
       "path": "images/img-6353ec82087a.webp",
       "media_type": "image/webp",
       "bytes": 681428,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -480,7 +684,7 @@
       "path": "images/img-b25943a3589d.webp",
       "media_type": "image/webp",
       "bytes": 182302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -488,7 +692,7 @@
       "path": "images/img-aac2ad6e4cc1.webp",
       "media_type": "image/webp",
       "bytes": 197212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -496,7 +700,7 @@
       "path": "images/img-5a032111075c.webp",
       "media_type": "image/webp",
       "bytes": 163574,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -504,7 +708,7 @@
       "path": "images/img-15193a3b77d4.webp",
       "media_type": "image/webp",
       "bytes": 246042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -512,7 +716,7 @@
       "path": "images/img-e0acee141a26.webp",
       "media_type": "image/webp",
       "bytes": 172624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -520,7 +724,7 @@
       "path": "images/img-377980cc09da.webp",
       "media_type": "image/webp",
       "bytes": 166382,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -528,7 +732,7 @@
       "path": "images/img-438ad5cb9ea9.webp",
       "media_type": "image/webp",
       "bytes": 210422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -536,7 +740,7 @@
       "path": "images/img-3d38eb759b09.webp",
       "media_type": "image/webp",
       "bytes": 268240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -544,7 +748,7 @@
       "path": "images/img-45673f0eb2d3.webp",
       "media_type": "image/webp",
       "bytes": 229702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -552,7 +756,7 @@
       "path": "images/img-ef708d020e35.webp",
       "media_type": "image/webp",
       "bytes": 148600,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -560,7 +764,7 @@
       "path": "images/img-3962a51ec6af.webp",
       "media_type": "image/webp",
       "bytes": 235142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -568,7 +772,7 @@
       "path": "images/img-b9e3b35e32e4.webp",
       "media_type": "image/webp",
       "bytes": 239146,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -576,7 +780,7 @@
       "path": "images/img-b8691783fffc.webp",
       "media_type": "image/webp",
       "bytes": 404400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -584,7 +788,7 @@
       "path": "images/img-32e0196de087.webp",
       "media_type": "image/webp",
       "bytes": 397384,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -592,7 +796,7 @@
       "path": "images/img-84da04c40880.webp",
       "media_type": "image/webp",
       "bytes": 214794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -600,7 +804,7 @@
       "path": "images/img-fe7bd3bd975f.webp",
       "media_type": "image/webp",
       "bytes": 250988,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -608,7 +812,7 @@
       "path": "images/img-324786d879ac.webp",
       "media_type": "image/webp",
       "bytes": 212786,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -616,7 +820,7 @@
       "path": "images/img-708a3c32e1a9.webp",
       "media_type": "image/webp",
       "bytes": 157610,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -624,7 +828,7 @@
       "path": "images/img-f3f2e531147d.webp",
       "media_type": "image/webp",
       "bytes": 42492,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -632,7 +836,7 @@
       "path": "images/img-c6be598128be.webp",
       "media_type": "image/webp",
       "bytes": 428930,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -640,7 +844,7 @@
       "path": "images/img-0b806a4df3f4.webp",
       "media_type": "image/webp",
       "bytes": 620950,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -648,19 +852,13 @@
       "path": "images/img-9bae81c8f178.webp",
       "media_type": "image/webp",
       "bytes": 552146,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/billings-usa/Single%20Family%20Home%20Billings%20In%20Billings,%20Montana,%20United%20States%20For%20Sale%20%2816845021%29_files/2200xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/28/885cad68-b3fc-4014-9e5c-03940542409f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -668,7 +866,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -676,7 +874,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -684,7 +882,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -692,13 +890,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 42,
-    "images_existing": 0,
-    "images_failed": 19,
+    "images_new": 12,
+    "images_existing": 42,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

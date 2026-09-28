@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/hummingbird-cay-bahamas/hummingbird-cay-a-private-island-sanctuary-in-the-exumas-mls-63652-16009246
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:27Z
+- Retrieved: 2026-09-28T00:21:52Z
 - Address: Hummingbird Cay, Exuma, Farmer's Hill, The Bahamas
 - Map: https://www.google.com/maps/search/?api=1&query=23.456421,-75.940401
 - Coordinates: 23.46, -75.94
@@ -10,7 +10,7 @@
 - Listing reference: XS11730
 - First listed: Aug 3, 2025
 - Last updated: December 19, 2025
-- Images downloaded: 10
+- Images downloaded: 15
 
 ## Property
 

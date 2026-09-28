@@ -8,7 +8,7 @@
     "listing_reference": "885874",
     "first_listed": "Jan 22",
     "last_updated": "July 16",
-    "retrieved_at": "2026-08-28T00:31:45.000678Z"
+    "retrieved_at": "2026-09-28T00:25:26.589293Z"
   },
   "location": {
     "address": "60 Piping Rock Road, Upper Brookville, New York, United States",
@@ -74,328 +74,436 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2200xxs.jpg",
       "file": "img-63daf7131382.webp",
       "media_type": "image/webp",
       "bytes": 864904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2200xxs.jpg",
       "file": "img-d0289c16d738.webp",
       "media_type": "image/webp",
       "bytes": 603014,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2200xxs.jpg",
       "file": "img-3fc91cc1b73f.webp",
       "media_type": "image/webp",
       "bytes": 1168696,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2200xxs.jpg",
       "file": "img-8a9573fff2f1.webp",
       "media_type": "image/webp",
       "bytes": 672056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2200xxs.jpg",
       "file": "img-363b83c5dfeb.webp",
       "media_type": "image/webp",
       "bytes": 754698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/M00000489.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-1e6597c7a74c.png",
+      "media_type": "image/png",
+      "bytes": 3564,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-29f0f22dd7e1.webp",
+      "media_type": "image/webp",
+      "bytes": 7644,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-204d7f8881c2.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-0d34416f4b38.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/873cacc0-1160-4f5e-8246-591f3dfa996f/je/2000xxs.jpg",
       "file": "img-d746c8a0f0ff.webp",
       "media_type": "image/webp",
       "bytes": 597904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/781f79bb-c2c5-4b3f-b0ac-be4a77d62016/je/2000xxs.jpg",
       "file": "img-a3aa41255705.webp",
       "media_type": "image/webp",
       "bytes": 278030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/1acc2f7b-a95c-4eac-bba1-7bc0f56474cd/je/2000xxs.jpg",
       "file": "img-f45f454efdbe.webp",
       "media_type": "image/webp",
       "bytes": 208248,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/9a34e599-a599-457f-9141-90e31856b600/je/2000xxs.jpg",
       "file": "img-fe5d2df22eae.webp",
       "media_type": "image/webp",
       "bytes": 168398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/58f97aee-1e4b-4815-aa79-8e4886c26f39/je/2000xxs.jpg",
       "file": "img-c80f2cc93995.webp",
       "media_type": "image/webp",
       "bytes": 190142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/20f32abe-4724-4d77-8bf9-7dd4f4f513a7/je/2000xxs.jpg",
       "file": "img-db4960be1dd5.webp",
       "media_type": "image/webp",
       "bytes": 198830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/c353c0cf-b718-4b33-a5c3-a883c2380b91/je/2000xxs.jpg",
       "file": "img-306b0f181632.webp",
       "media_type": "image/webp",
       "bytes": 220102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/68aaa2c9-a396-4fd6-9ae7-7a9e9a5736af/je/2000xxs.jpg",
       "file": "img-442e59f5166b.webp",
       "media_type": "image/webp",
       "bytes": 220896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/48428211-4618-4864-ade0-3dc30b3821ad/je/2000xxs.jpg",
       "file": "img-d4bca0d4ccf6.webp",
       "media_type": "image/webp",
       "bytes": 121812,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/c35ce4e5-9703-43a4-99c6-44335d5f9695/je/2000xxs.jpg",
       "file": "img-e3e6537f1fac.webp",
       "media_type": "image/webp",
       "bytes": 110088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9c28f901-89eb-4c6d-9304-30ef1b7f6086/je/2000xxs.jpg",
       "file": "img-512416114438.webp",
       "media_type": "image/webp",
       "bytes": 185242,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/cde67dbe-1dad-4896-a8d6-096c1b320016/je/2000xxs.jpg",
       "file": "img-619e9b5ae26e.webp",
       "media_type": "image/webp",
       "bytes": 254894,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/0447a6e2-cbaa-4a1b-80c6-39a3e8ab0365/je/2000xxs.jpg",
       "file": "img-47d52fe014b7.webp",
       "media_type": "image/webp",
       "bytes": 78254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/547bc715-1767-45f8-94a0-b77ba1775c79/je/2000xxs.jpg",
       "file": "img-2645de4a7cfc.webp",
       "media_type": "image/webp",
       "bytes": 197686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/93f6ad11-360c-4d81-95af-f6da6633c24d/je/2000xxs.jpg",
       "file": "img-c934e3231b39.webp",
       "media_type": "image/webp",
       "bytes": 206288,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/11a612c1-b7b6-40aa-85be-6c3e85420722/je/2000xxs.jpg",
       "file": "img-1394f80ea555.webp",
       "media_type": "image/webp",
       "bytes": 180984,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/cdbd57b7-8503-4875-8f8a-742e427ea57b/je/2000xxs.jpg",
       "file": "img-969bbcd1c68a.webp",
       "media_type": "image/webp",
       "bytes": 126752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/e9a6bc70-f568-4e72-a4fe-3f12b601767e/je/2000xxs.jpg",
       "file": "img-c5938979ad48.webp",
       "media_type": "image/webp",
       "bytes": 221572,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/39/bcc5ae30-e112-4ae1-881a-fe41f1ea410e/je/2000xxs.jpg",
       "file": "img-611a0900a981.webp",
       "media_type": "image/webp",
       "bytes": 70540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/b39fc028-06c5-4fba-809f-2bdb8970df90/je/2000xxs.jpg",
       "file": "img-1a4fe72c18ed.webp",
       "media_type": "image/webp",
       "bytes": 85336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/1dc4547e-b4d1-4d68-8f38-db5585e56d4b/je/2000xxs.jpg",
       "file": "img-18e0d3389ab9.webp",
       "media_type": "image/webp",
       "bytes": 189406,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f65a19c2-0e52-45bb-b3e0-9ce2696397ff/je/2000xxs.jpg",
       "file": "img-291c05f130dd.webp",
       "media_type": "image/webp",
       "bytes": 95664,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9ee00eec-3d66-4c7d-b44f-ae27aecf0b54/je/2000xxs.jpg",
       "file": "img-e9cc60681b23.webp",
       "media_type": "image/webp",
       "bytes": 192932,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50c522cc-fbd1-4517-897f-cd7c2af97113/je/2000xxs.jpg",
       "file": "img-014fef55239f.webp",
       "media_type": "image/webp",
       "bytes": 837222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/412bd527-cf75-4e00-870d-8bc47a13216b/je/2000xxs.jpg",
       "file": "img-9a411e1a86c6.webp",
       "media_type": "image/webp",
       "bytes": 732920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/9b0b8f96-e1dc-4ebc-8447-7fefb0e10d80/je/2000xxs.jpg",
       "file": "img-21e6df0dc0f7.webp",
       "media_type": "image/webp",
       "bytes": 503728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/53b5492d-1d90-43ad-b025-de03f61d13e9/je/2000xxs.jpg",
       "file": "img-4a2c5060e77b.webp",
       "media_type": "image/webp",
       "bytes": 464264,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/d020e47b-665a-4c1a-b8d0-340c8b127a7b/je/2000xxs.jpg",
       "file": "img-d4a9c5ceba67.webp",
       "media_type": "image/webp",
       "bytes": 608514,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/7685f204-d4ff-4a26-8772-5c3247f0dc9d/je/2000xxs.jpg",
       "file": "img-715a6f721aa1.webp",
       "media_type": "image/webp",
       "bytes": 1127608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/12402450-2d5f-49b8-b628-1e620951becd/je/2000xxs.jpg",
       "file": "img-52b63499af3e.webp",
       "media_type": "image/webp",
       "bytes": 823270,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/a00767b6-b5a3-4126-be42-7233c9edb3a1/je/2000xxs.jpg",
       "file": "img-af64f3d395a1.webp",
       "media_type": "image/webp",
       "bytes": 1003544,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -588,6 +696,93 @@
     "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/2200xxs.jpg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/Single%20Family%20Residence%20In%20Upper%20In%20Upper%20Brookville,%20New%20York,%20United%20States%20For%20Sale%20%2816980187%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/4c6bcc5f-c6cc-4f42-b8cd-57fa96ee6fbe/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/543bd9e2-96c0-4162-8ef7-f41cf6f6aa9c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/50a5bd20-03dc-48ac-891d-bfef36de1035/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/18aadf38-491e-4a88-a4e8-10eddd06ea32/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/33/f5e8e521-ba17-4210-911d-dd0639762237/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 }

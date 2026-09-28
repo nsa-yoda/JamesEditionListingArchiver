@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/stone-ridge-ny-usa/197-199-chestnut-hill-road-stone-ridge-ny-12484-16152388
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:05:35Z
+- Retrieved: 2026-09-28T00:17:35Z
 - Address: 197-199 Chestnut Hill Road, Stone Ridge, NY 12484, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.865524,-74.18478
 - Coordinates: 41.87, -74.18
@@ -10,7 +10,7 @@
 - Listing reference: 46tlhg
 - First listed: Sep 9, 2025
 - Last updated: June 1
-- Images downloaded: 63
+- Images downloaded: 78
 
 ## Property
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:55.088259Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7-bedrooms-single-family-detached-16673203",
     "canonical_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7-bedrooms-single-family-detached-16673203",
@@ -9,13 +9,13 @@
     "listing_reference": "lj9njh",
     "first_listed": "Nov 21, 2025",
     "last_updated": "May 20",
-    "retrieved_at": "2026-08-28T00:27:55.591721Z"
+    "retrieved_at": "2026-09-28T00:18:54.501371Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2345,
-      "sha256": "12ec20f842f51e5432441a20f451a335739e460c7f2f639ab8906aaa8099b827"
+      "sha256": "4c871817626adf242dbc19857ed2eeab9fee67d6a5ed53af39fc3e958c571913"
     },
     {
       "path": "images/img-0c6710100f1a.webp",
@@ -76,6 +76,11 @@
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5a71966e48be.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-63d4536a7db5.webp",
@@ -198,6 +203,11 @@
       "sha256": "097d8cf2960259e13d04683914b513d1675c941142659aea60263d9f6c25ba56"
     },
     {
+      "path": "images/img-c0c4138892a3.webp",
+      "bytes": 5922,
+      "sha256": "31f8dcd7e43083a9c77309c767d7bac2aa930846376a00ec4a84cbb0de703636"
+    },
+    {
       "path": "images/img-c7027716268f.webp",
       "bytes": 288530,
       "sha256": "471136aaad8be83bf0253b478376e34bd4dab4a09455166219178320d9cf32ff"
@@ -273,9 +283,14 @@
       "sha256": "980d22afc3614e79dd42772f614652ae09d69a84e776e67040ce9fa1cd56ed13"
     },
     {
+      "path": "images/img-ff4aabba46b7.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 30253,
-      "sha256": "970c9243494c453da456dc1f7192862b805cee2c901a6f91daeec392ab667fc7"
+      "bytes": 68705,
+      "sha256": "d354f4ed6feec128efc2c905e969bfd86b2ca57344ac0ed98afd49b153d0d387"
     },
     {
       "path": "source.html",
@@ -291,17 +306,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/2200xxs.jpg",
       "path": "images/img-9a263459bbb4.webp",
       "media_type": "image/webp",
       "bytes": 479580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/9322f825-98d9-40dc-be7c-432b9de5946b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/9322f825-98d9-40dc-be7c-432b9de5946b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/9322f825-98d9-40dc-be7c-432b9de5946b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/9322f825-98d9-40dc-be7c-432b9de5946b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/9322f825-98d9-40dc-be7c-432b9de5946b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/9322f825-98d9-40dc-be7c-432b9de5946b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -309,13 +360,31 @@
       "path": "images/img-b28fe42ea3b1.webp",
       "media_type": "image/webp",
       "bytes": 177770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/a545cb82-dae2-43dd-83a1-8db57c234600/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/a545cb82-dae2-43dd-83a1-8db57c234600/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/a545cb82-dae2-43dd-83a1-8db57c234600/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/a545cb82-dae2-43dd-83a1-8db57c234600/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/a545cb82-dae2-43dd-83a1-8db57c234600/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/a545cb82-dae2-43dd-83a1-8db57c234600/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -323,13 +392,31 @@
       "path": "images/img-654b8027fd72.webp",
       "media_type": "image/webp",
       "bytes": 141032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/fb468598-bb2f-4f6d-8883-b149aba23c64/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/fb468598-bb2f-4f6d-8883-b149aba23c64/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/fb468598-bb2f-4f6d-8883-b149aba23c64/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/fb468598-bb2f-4f6d-8883-b149aba23c64/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/fb468598-bb2f-4f6d-8883-b149aba23c64/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/fb468598-bb2f-4f6d-8883-b149aba23c64/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -337,13 +424,31 @@
       "path": "images/img-93f3acfdb02d.webp",
       "media_type": "image/webp",
       "bytes": 181434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/0cf766bc-d681-44be-ac05-a23e5e9d2ea9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/0cf766bc-d681-44be-ac05-a23e5e9d2ea9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/0cf766bc-d681-44be-ac05-a23e5e9d2ea9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/0cf766bc-d681-44be-ac05-a23e5e9d2ea9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/0cf766bc-d681-44be-ac05-a23e5e9d2ea9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/0cf766bc-d681-44be-ac05-a23e5e9d2ea9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -351,31 +456,67 @@
       "path": "images/img-77bff09f1bac.webp",
       "media_type": "image/webp",
       "bytes": 114800,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c0c4138892a3.webp",
+      "media_type": "image/webp",
+      "bytes": 5922,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-5a71966e48be.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-ff4aabba46b7.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/9322f825-98d9-40dc-be7c-432b9de5946b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/9322f825-98d9-40dc-be7c-432b9de5946b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/a545cb82-dae2-43dd-83a1-8db57c234600/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/a545cb82-dae2-43dd-83a1-8db57c234600/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/fb468598-bb2f-4f6d-8883-b149aba23c64/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/fb468598-bb2f-4f6d-8883-b149aba23c64/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/0cf766bc-d681-44be-ac05-a23e5e9d2ea9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/0cf766bc-d681-44be-ac05-a23e5e9d2ea9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -383,7 +524,7 @@
       "path": "images/img-5428ba122e5d.webp",
       "media_type": "image/webp",
       "bytes": 321588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -391,7 +532,7 @@
       "path": "images/img-e1fbda098b36.webp",
       "media_type": "image/webp",
       "bytes": 359886,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -399,7 +540,7 @@
       "path": "images/img-8de670a4b8fc.webp",
       "media_type": "image/webp",
       "bytes": 320210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -407,7 +548,7 @@
       "path": "images/img-f6e9136e31d2.webp",
       "media_type": "image/webp",
       "bytes": 111038,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -415,7 +556,7 @@
       "path": "images/img-936fc9d03e5a.webp",
       "media_type": "image/webp",
       "bytes": 112238,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -423,7 +564,7 @@
       "path": "images/img-df76aa2f604b.webp",
       "media_type": "image/webp",
       "bytes": 133074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -431,7 +572,7 @@
       "path": "images/img-838c1145ad80.webp",
       "media_type": "image/webp",
       "bytes": 127636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -439,7 +580,7 @@
       "path": "images/img-84b10eb78e72.webp",
       "media_type": "image/webp",
       "bytes": 154508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -447,7 +588,7 @@
       "path": "images/img-8c52384d67a4.webp",
       "media_type": "image/webp",
       "bytes": 100302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -455,7 +596,7 @@
       "path": "images/img-30e8787e676d.webp",
       "media_type": "image/webp",
       "bytes": 153130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -463,7 +604,7 @@
       "path": "images/img-72a9977b944a.webp",
       "media_type": "image/webp",
       "bytes": 87876,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -471,7 +612,7 @@
       "path": "images/img-eba1264d6b6e.webp",
       "media_type": "image/webp",
       "bytes": 81824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -479,7 +620,7 @@
       "path": "images/img-97fbf93ae2f9.webp",
       "media_type": "image/webp",
       "bytes": 77720,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -487,7 +628,7 @@
       "path": "images/img-ad63146310fd.webp",
       "media_type": "image/webp",
       "bytes": 116496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -495,7 +636,7 @@
       "path": "images/img-6c2806a05676.webp",
       "media_type": "image/webp",
       "bytes": 156706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -503,7 +644,7 @@
       "path": "images/img-63d4536a7db5.webp",
       "media_type": "image/webp",
       "bytes": 178776,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -511,7 +652,7 @@
       "path": "images/img-e2b6f2152564.webp",
       "media_type": "image/webp",
       "bytes": 132680,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -519,7 +660,7 @@
       "path": "images/img-8849c8d6d7f0.webp",
       "media_type": "image/webp",
       "bytes": 88350,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -527,7 +668,7 @@
       "path": "images/img-f0174a9c06e3.webp",
       "media_type": "image/webp",
       "bytes": 243662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -535,7 +676,7 @@
       "path": "images/img-dd2ea7974d3b.webp",
       "media_type": "image/webp",
       "bytes": 229244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -543,7 +684,7 @@
       "path": "images/img-a9970d96c1bf.webp",
       "media_type": "image/webp",
       "bytes": 109634,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -551,7 +692,7 @@
       "path": "images/img-18f37ebf7187.webp",
       "media_type": "image/webp",
       "bytes": 231270,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -559,7 +700,7 @@
       "path": "images/img-6e7df0a9560d.webp",
       "media_type": "image/webp",
       "bytes": 83958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -567,7 +708,7 @@
       "path": "images/img-3a49ae310195.webp",
       "media_type": "image/webp",
       "bytes": 69686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -575,7 +716,7 @@
       "path": "images/img-7d65ce2d4e64.webp",
       "media_type": "image/webp",
       "bytes": 99562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -583,7 +724,7 @@
       "path": "images/img-3d4b8ac53df7.webp",
       "media_type": "image/webp",
       "bytes": 98382,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -591,7 +732,7 @@
       "path": "images/img-ce4c7090f852.webp",
       "media_type": "image/webp",
       "bytes": 72906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -599,7 +740,7 @@
       "path": "images/img-7bfb08e5ce79.webp",
       "media_type": "image/webp",
       "bytes": 91872,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -607,7 +748,7 @@
       "path": "images/img-51c6c6e6070f.webp",
       "media_type": "image/webp",
       "bytes": 79878,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -615,7 +756,7 @@
       "path": "images/img-db363f43c42c.webp",
       "media_type": "image/webp",
       "bytes": 136112,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -623,7 +764,7 @@
       "path": "images/img-6b655be1f84c.webp",
       "media_type": "image/webp",
       "bytes": 82408,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -631,7 +772,7 @@
       "path": "images/img-a53a513f4a88.webp",
       "media_type": "image/webp",
       "bytes": 96530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -639,7 +780,7 @@
       "path": "images/img-cb91dee57172.webp",
       "media_type": "image/webp",
       "bytes": 88298,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -647,7 +788,7 @@
       "path": "images/img-aad58607a9a4.webp",
       "media_type": "image/webp",
       "bytes": 197460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -655,7 +796,7 @@
       "path": "images/img-db2911187d62.webp",
       "media_type": "image/webp",
       "bytes": 162174,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -663,7 +804,7 @@
       "path": "images/img-12a7fb98257c.webp",
       "media_type": "image/webp",
       "bytes": 102166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -671,7 +812,7 @@
       "path": "images/img-e5a35d975bd3.webp",
       "media_type": "image/webp",
       "bytes": 167796,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -679,7 +820,7 @@
       "path": "images/img-44a6fd0daf74.webp",
       "media_type": "image/webp",
       "bytes": 107350,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -687,7 +828,7 @@
       "path": "images/img-d97b17ce6520.webp",
       "media_type": "image/webp",
       "bytes": 339892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -695,7 +836,7 @@
       "path": "images/img-508ce8d7073a.webp",
       "media_type": "image/webp",
       "bytes": 167588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -703,7 +844,7 @@
       "path": "images/img-c7027716268f.webp",
       "media_type": "image/webp",
       "bytes": 288530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -711,7 +852,7 @@
       "path": "images/img-fb1db8726290.webp",
       "media_type": "image/webp",
       "bytes": 203732,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -719,7 +860,7 @@
       "path": "images/img-16fb8f94b1ed.webp",
       "media_type": "image/webp",
       "bytes": 223980,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -727,7 +868,7 @@
       "path": "images/img-6859b01bce84.webp",
       "media_type": "image/webp",
       "bytes": 97936,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -735,25 +876,13 @@
       "path": "images/img-0c6710100f1a.webp",
       "media_type": "image/webp",
       "bytes": 308290,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/2200xxs%2832%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/2200xxs%2833%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/7%20Bedrooms%20Single%20Family%20Detached%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2816673203%29_files/2200xxs%2834%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/57/38/7187be04-d476-479c-b0eb-6db8e021a2d3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -761,31 +890,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 51,
-    "images_existing": 0,
-    "images_failed": 14,
+    "images_new": 3,
+    "images_existing": 51,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

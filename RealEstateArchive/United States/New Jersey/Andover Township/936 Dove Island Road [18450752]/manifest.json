@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:59.649852Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/newton-nj-usa/single-family-detached-newton-18450752",
     "canonical_url": "https://www.jamesedition.com/real_estate/newton-nj-usa/single-family-detached-newton-18450752",
@@ -9,13 +9,13 @@
     "listing_reference": "2137817524479652",
     "first_listed": "Jul 17",
     "last_updated": "August 31",
-    "retrieved_at": "2026-09-26T18:46:47.077607Z"
+    "retrieved_at": "2026-09-28T00:24:59.197574Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2474,
-      "sha256": "ccb2ace7ae8d359769d734a4befc0e78f24b5904b020755ca9b442aa2cfde74f"
+      "sha256": "b1a83c36480ae25a1a9c5a65a9dcb996159188f9fc739770d6c29aec52229302"
     },
     {
       "path": "images/img-08ae040ecb3d.svg",
@@ -289,8 +289,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 30471,
-      "sha256": "fdd9409a80608eaa17e15589cec719d93dec8920b558a3d3525f1597a457ef5f"
+      "bytes": 34945,
+      "sha256": "bfd9fdfdae408e96adf86487c36515deef24003b92a390e85ac8e77b91e548fe"
     },
     {
       "path": "source.html",

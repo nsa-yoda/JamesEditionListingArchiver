@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:19:29.88561Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/constanta-romania/hrisicos-house-architect-louis-givert-the-emblematic-seaside-landmark-16946093",
     "canonical_url": "https://www.jamesedition.com/real_estate/constanta-romania/hrisicos-house-architect-louis-givert-the-emblematic-seaside-landmark-16946093",
@@ -9,13 +9,13 @@
     "listing_reference": "736ZL8",
     "first_listed": "Jan 16",
     "last_updated": "April 29",
-    "retrieved_at": "2026-06-16T03:43:20.008989Z"
+    "retrieved_at": "2026-09-28T00:19:19.633613Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 4795,
-      "sha256": "b030ce95f19a3d78797a04cc2f42a062a0aeb7f2aa55879ae32feb417d3f3256"
+      "bytes": 4796,
+      "sha256": "bed5d02ff688f4c016c1662bf1458da39342391505091c1353be190e2e906d9e"
     },
     {
       "path": "images/004-1ba4ddfa.webp",
@@ -63,9 +63,49 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-1ad9e0486fd8.webp",
+      "bytes": 630386,
+      "sha256": "5860b0a277eaf097d2f24370a2d0e9280553579921f4308eda08ba58324e7dc5"
+    },
+    {
+      "path": "images/img-2a5a5c11744a.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-462b4fcdd81f.webp",
+      "bytes": 5934,
+      "sha256": "d813847eebd10c0ad864816b328f6926597efed3510df6e1d2fa8311382d5b24"
+    },
+    {
+      "path": "images/img-5856acd46e55.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-6dd52a9c6dcf.webp",
+      "bytes": 168304,
+      "sha256": "b84cc77ee99d550e4db1712651e3c6d92331798cfa866a4877172b706c7d6b8b"
+    },
+    {
+      "path": "images/img-7e5f27e0041c.webp",
+      "bytes": 154262,
+      "sha256": "3ff7cb40c48f1060d328d046ac23dafa93c70775f685ff4c21941af6ac859ce0"
+    },
+    {
+      "path": "images/img-8891ff9fa91f.webp",
+      "bytes": 200534,
+      "sha256": "9c6baa2d8c403683270461297001e0a28af9c42905c9136af0440d80a3e011ad"
+    },
+    {
+      "path": "images/img-f1af4bd9becb.webp",
+      "bytes": 448702,
+      "sha256": "a59335c0a22c99bed9daae013082233d7bb832bf956552f35460ebf5b435a040"
+    },
+    {
       "path": "listing.json",
-      "bytes": 23734,
-      "sha256": "056fd44381c9bc53f85f3fb87e09d4fe913b83d018dc34c57eb838ca90174d7c"
+      "bytes": 54778,
+      "sha256": "85597f668ebc3ed97164e957cf25b5f4a8515303e9b7317982e036d672c35fa6"
     },
     {
       "path": "source.html",
@@ -76,9 +116,47 @@
       "path": "source.url",
       "bytes": 138,
       "sha256": "cb0df2dfbc0817d77f824243f5303aeea453199d9c879806448f230f02763ff6"
+    },
+    {
+      "path": "videos/img-6a99c9f65211.webp",
+      "bytes": 139638,
+      "sha256": "f23dfd2b50e27acc119c3adaa64697ca2954bdf4690376d41471688198ae8f14"
+    },
+    {
+      "path": "videos/vid-c0cef6401835.mp4",
+      "bytes": 57493908,
+      "sha256": "f0725a11fdbbe961930658a31faa6144c85930e5c7a92752fbb04ed40f87e246"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6379742802112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-c0cef6401835.mp4",
+      "media_type": "video/mp4",
+      "bytes": 57493908,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/1040x620xc.jpg",
+      "poster_path": "videos/img-6a99c9f65211.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/2200xxs.jpg",
@@ -90,7 +168,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/0aa78278-dacb-4989-95ba-b38407e135ba/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/0aa78278-dacb-4989-95ba-b38407e135ba/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/0aa78278-dacb-4989-95ba-b38407e135ba/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/0aa78278-dacb-4989-95ba-b38407e135ba/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/0aa78278-dacb-4989-95ba-b38407e135ba/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/0aa78278-dacb-4989-95ba-b38407e135ba/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +200,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/ad1400ed-f4c5-4423-8b96-c496349c14de/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/ad1400ed-f4c5-4423-8b96-c496349c14de/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/ad1400ed-f4c5-4423-8b96-c496349c14de/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/ad1400ed-f4c5-4423-8b96-c496349c14de/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/ad1400ed-f4c5-4423-8b96-c496349c14de/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/ad1400ed-f4c5-4423-8b96-c496349c14de/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +232,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/58e27f4a-0959-4e5f-be55-cdfb25a4917d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/58e27f4a-0959-4e5f-be55-cdfb25a4917d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/58e27f4a-0959-4e5f-be55-cdfb25a4917d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/58e27f4a-0959-4e5f-be55-cdfb25a4917d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/58e27f4a-0959-4e5f-be55-cdfb25a4917d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/58e27f4a-0959-4e5f-be55-cdfb25a4917d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +264,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/44966d25-0d89-482f-8092-ccfcb5fa69ac/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/44966d25-0d89-482f-8092-ccfcb5fa69ac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/44966d25-0d89-482f-8092-ccfcb5fa69ac/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/44966d25-0d89-482f-8092-ccfcb5fa69ac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/44966d25-0d89-482f-8092-ccfcb5fa69ac/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/44966d25-0d89-482f-8092-ccfcb5fa69ac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,47 +296,78 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-462b4fcdd81f.webp",
+      "media_type": "image/webp",
+      "bytes": 5934,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-5856acd46e55.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2a5a5c11744a.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f1af4bd9becb.webp",
+      "media_type": "image/webp",
+      "bytes": 448702,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8891ff9fa91f.webp",
+      "media_type": "image/webp",
+      "bytes": 200534,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7e5f27e0041c.webp",
+      "media_type": "image/webp",
+      "bytes": 154262,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-6dd52a9c6dcf.webp",
+      "media_type": "image/webp",
+      "bytes": 168304,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/constanta-romania/_Hrisicos%20House_,%20Architect%20Louis%20In%20Constant%CC%A6a,%20Constant%CC%A6a%20County,%20Romania%20For%20Sale%20%2816946093%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1ad9e0486fd8.webp",
+      "media_type": "image/webp",
+      "bytes": 630386,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/16/15/17/13/b54f09ca-d79d-4668-b3ef-b66884559d8e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -218,10 +403,10 @@
     }
   ],
   "summary": {
-    "images_new": 13,
+    "images_new": 8,
     "images_existing": 9,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

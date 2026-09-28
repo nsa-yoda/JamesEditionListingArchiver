@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:55.321519Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000-de-mille-dr-17836208",
     "canonical_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000-de-mille-dr-17836208",
@@ -9,13 +9,13 @@
     "listing_reference": "YEP7DN",
     "first_listed": "May 4",
     "last_updated": "May 15",
-    "retrieved_at": "2026-06-16T03:43:15.735819Z"
+    "retrieved_at": "2026-09-28T00:17:38.31349Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3451,
-      "sha256": "fa21947be6db1d6f28cdeb650eafa10b9d242f274c3685c27107625393437ee4"
+      "bytes": 3452,
+      "sha256": "4996d54f686926f2148c9662234b870df0f56723326b3f9f379371c6be4df34b"
     },
     {
       "path": "images/004-590a9b89.webp",
@@ -63,9 +63,34 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-54802ff9c0bc.webp",
+      "bytes": 594462,
+      "sha256": "6e277b8eac5910b794dea3693cd1dff3cf3c4401b660e2fae0a9d02fb8f2e860"
+    },
+    {
+      "path": "images/img-792f90633b2d.webp",
+      "bytes": 4678,
+      "sha256": "306e5411808892d141b9c73d916125579b6e1f1e3bd99c2f37c49efeb0385db1"
+    },
+    {
+      "path": "images/img-8e5068176e76.webp",
+      "bytes": 427312,
+      "sha256": "d4745b61b59e025b68d4578aa11b2dec7f1b37f0ca91655358aebe7f9faf4eda"
+    },
+    {
+      "path": "images/img-ad55fa99ca45.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-f7eb95e5fe3f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 18723,
-      "sha256": "b07782904f0e8489425165adf9bddbd9ab1403508e0c7f0aaefda92e0f124ba6"
+      "bytes": 48724,
+      "sha256": "94fc9a3bbdd19a7f47b7942d40827b0443e217851f4b51cb653584ebfbce29ea"
     },
     {
       "path": "source.html",
@@ -76,9 +101,47 @@
       "path": "source.url",
       "bytes": 86,
       "sha256": "bc92cd417d5e676a3a0f170b762fb7eb301fb714f204c66ad13d3b6c48a91685"
+    },
+    {
+      "path": "videos/img-5447a9bde5c6.webp",
+      "bytes": 112482,
+      "sha256": "e14d288d320e8c0de17f77ae3eedb80ca6fb2d35126a47e85d9edb9d7fa53558"
+    },
+    {
+      "path": "videos/vid-67177d9499ad.mp4",
+      "bytes": 140023352,
+      "sha256": "48271b1c6120927578a44cce683d08ec027690369f3dd13db38b69c82fe0dba4"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5782886755001/rJlOfaQNgQ_default/index.html?videoId=ref:sir_listings_02bdf9ff-a362-48bf-b0b4-28f574bace81\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-67177d9499ad.mp4",
+      "media_type": "video/mp4",
+      "bytes": 140023352,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/1040x620xc.jpg",
+      "poster_path": "videos/img-5447a9bde5c6.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/2200xxs.jpg",
@@ -90,7 +153,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/2142d75f-64eb-4c68-b47a-9c76780c638d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/2142d75f-64eb-4c68-b47a-9c76780c638d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/2142d75f-64eb-4c68-b47a-9c76780c638d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/2142d75f-64eb-4c68-b47a-9c76780c638d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/2142d75f-64eb-4c68-b47a-9c76780c638d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/2142d75f-64eb-4c68-b47a-9c76780c638d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +185,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/56dd0055-b22e-4b7b-b0dc-06543c502393/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/56dd0055-b22e-4b7b-b0dc-06543c502393/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/56dd0055-b22e-4b7b-b0dc-06543c502393/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/56dd0055-b22e-4b7b-b0dc-06543c502393/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/56dd0055-b22e-4b7b-b0dc-06543c502393/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/56dd0055-b22e-4b7b-b0dc-06543c502393/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +217,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/38dc74f2-8286-4d48-8312-f48d09326e86/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/38dc74f2-8286-4d48-8312-f48d09326e86/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/38dc74f2-8286-4d48-8312-f48d09326e86/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/38dc74f2-8286-4d48-8312-f48d09326e86/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/38dc74f2-8286-4d48-8312-f48d09326e86/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/38dc74f2-8286-4d48-8312-f48d09326e86/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +249,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/2857bab8-e81a-4a19-953a-cc70026f0231/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/2857bab8-e81a-4a19-953a-cc70026f0231/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/2857bab8-e81a-4a19-953a-cc70026f0231/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/2857bab8-e81a-4a19-953a-cc70026f0231/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/2857bab8-e81a-4a19-953a-cc70026f0231/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/25/2857bab8-e81a-4a19-953a-cc70026f0231/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,32 +281,54 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-792f90633b2d.webp",
+      "media_type": "image/webp",
+      "bytes": 4678,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ad55fa99ca45.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f7eb95e5fe3f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8e5068176e76.webp",
+      "media_type": "image/webp",
+      "bytes": 427312,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000%20De%20Mille%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817836208%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-54802ff9c0bc.webp",
+      "media_type": "image/webp",
+      "bytes": 594462,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/04/15/02/22/c2ae26f7-7c25-472a-96d9-bcd462f6af7f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -203,10 +364,10 @@
     }
   ],
   "summary": {
-    "images_new": 10,
+    "images_new": 5,
     "images_existing": 9,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

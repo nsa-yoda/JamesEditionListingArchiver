@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "MGPMHH",
     "first_listed": "Apr 6",
     "last_updated": "April 6",
-    "retrieved_at": "2026-08-28T00:26:55.59383Z"
+    "retrieved_at": "2026-09-28T00:17:04.617151Z"
   },
   "location": {
     "address": "1000 Biscayne Blvd Unit# 2702, Miami, FL 33132, Florida, United States",
@@ -72,136 +72,211 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/2200xxs.jpg",
       "file": "img-e071e9d5c0da.webp",
       "media_type": "image/webp",
       "bytes": 203670,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/2200xxs.jpg",
       "file": "img-cd96266c2280.webp",
       "media_type": "image/webp",
       "bytes": 209188,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/2200xxs.jpg",
       "file": "img-d1c80ea7df5b.webp",
       "media_type": "image/webp",
       "bytes": 297652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs%282%29.jpg",
+      "file": "img-3b40a830c83a.webp",
+      "media_type": "image/webp",
+      "bytes": 184392,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/2200xxs.jpg",
       "file": "img-f02f8adfcf18.webp",
       "media_type": "image/webp",
       "bytes": 230662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs%283%29.jpg",
+      "file": "img-e5cb4d3b5d52.webp",
+      "media_type": "image/webp",
+      "bytes": 133318,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/2200xxs.jpg",
       "file": "img-907f419e9c57.webp",
       "media_type": "image/webp",
       "bytes": 219620,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-005564cbef56.webp",
+      "media_type": "image/webp",
+      "bytes": 65648,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-5593eec07614.webp",
+      "media_type": "image/webp",
+      "bytes": 3900,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-6f7820f5cf56.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-d4cda6b3933a.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-ee46dd368df4.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-fa3f1f17ab4b.webp",
+      "media_type": "image/webp",
+      "bytes": 178534,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d31136ef-47f4-41e3-b869-221d218ca21d/je/2000xxs.jpg",
       "file": "img-32fa74a07bf4.webp",
       "media_type": "image/webp",
       "bytes": 162338,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/2600147d-e868-459f-9593-4e082c7db9eb/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%283%29.jpg",
       "file": "img-3cdbded74855.webp",
       "media_type": "image/webp",
       "bytes": 116130,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/2dd400e0-d24d-48a1-9c14-feb592e01184/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%284%29.jpg",
       "file": "img-6f76e4660515.webp",
       "media_type": "image/webp",
       "bytes": 57454,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/fd208ffd-5291-4398-8a2a-eb640b2d3ec8/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%285%29.jpg",
       "file": "img-b77ef8a67c7a.webp",
       "media_type": "image/webp",
       "bytes": 211578,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/2000xxs.jpg",
+      "file": "img-486f222c0a63.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/2000xxs.jpg",
+      "file": "img-592943cc6b4d.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
       "status": "new"
     },
     {
@@ -209,76 +284,90 @@ window.listingArchiveListing = {
       "file": "img-c3de3d526e7f.webp",
       "media_type": "image/webp",
       "bytes": 142858,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/ade8c96a-b840-453c-8bfc-c2d39df4f51f/je/2000xxs.jpg",
       "file": "img-777551e3a633.webp",
       "media_type": "image/webp",
       "bytes": 132882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/1e4648de-bfe6-48c0-8482-6b37821c5299/je/2000xxs.jpg",
       "file": "img-7c3cf927431d.webp",
       "media_type": "image/webp",
       "bytes": 127368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/ef4122e7-9183-4219-830e-bc88db37043a/je/2000xxs.jpg",
       "file": "img-f52f3bf9ee02.webp",
       "media_type": "image/webp",
       "bytes": 143190,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/3d4b04a3-dbea-4a60-9dc3-33911ac54054/je/2000xxs.jpg",
       "file": "img-8d4776ffeaab.webp",
       "media_type": "image/webp",
       "bytes": 142842,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/74fe4a3f-bb2b-4580-b6f8-3fc885a43726/je/2000xxs.jpg",
       "file": "img-81fa31bcdc83.webp",
       "media_type": "image/webp",
       "bytes": 111728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/66a5884c-c4e4-47b9-862a-6a17c5393f33/je/2000xxs.jpg",
       "file": "img-e7c32de7d92f.webp",
       "media_type": "image/webp",
       "bytes": 93158,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/72e241b5-6833-46cd-a67c-879127242440/je/2000xxs.jpg",
       "file": "img-f12f0fba63a2.webp",
       "media_type": "image/webp",
       "bytes": 127148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/49eeb2fc-d402-4bf0-a72b-b71861dfea68/je/2000xxs.jpg",
       "file": "img-2c6de0894031.webp",
       "media_type": "image/webp",
       "bytes": 123026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/9244f65b-c46d-4863-9f51-6a75b8f4dcaf/je/2000xxs.jpg",
       "file": "img-724016d6b0f2.webp",
       "media_type": "image/webp",
       "bytes": 137766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d6fc9d28-57f9-4d65-be19-42fc03951275/je/2000xxs.jpg",
       "file": "img-bdaa269b8759.webp",
       "media_type": "image/webp",
       "bytes": 144686,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/2000xxs.jpg",
+      "file": "img-4577df3a8a51.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/2000xxs.jpg",
+      "file": "img-7751e4106f4d.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
       "status": "new"
     },
     {
@@ -286,268 +375,279 @@ window.listingArchiveListing = {
       "file": "img-173606e1d1d1.webp",
       "media_type": "image/webp",
       "bytes": 222902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/50d34062-673f-436c-bebb-d7e8e827dd8b/je/2000xxs.jpg",
       "file": "img-efd72824eafd.webp",
       "media_type": "image/webp",
       "bytes": 216378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/e1021008-b03e-4491-ab58-e46bf2d85b8e/je/2000xxs.jpg",
       "file": "img-f53dd770b650.webp",
       "media_type": "image/webp",
       "bytes": 180458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/6e68ccb2-5702-45ff-a63f-6015044a8ad8/je/2000xxs.jpg",
       "file": "img-87e1ddc47e16.webp",
       "media_type": "image/webp",
       "bytes": 614210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/122bfad6-c7ba-4f16-87f7-2d96d241d17d/je/2000xxs.jpg",
       "file": "img-d22fcda5f006.webp",
       "media_type": "image/webp",
       "bytes": 539278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/4d59673a-38e7-41b0-acdf-b03830aef5da/je/2000xxs.jpg",
       "file": "img-dfb067da0b28.webp",
       "media_type": "image/webp",
       "bytes": 198474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/3cdf7f2e-64c1-4244-abbd-46853d172f12/je/2000xxs.jpg",
       "file": "img-8244f96f4317.webp",
       "media_type": "image/webp",
       "bytes": 232562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/e953412c-4f74-41bd-bf05-d1c565e1662f/je/2000xxs.jpg",
       "file": "img-062ec5285755.webp",
       "media_type": "image/webp",
       "bytes": 77676,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/c331adc3-50ad-4d18-9d2f-468800ea8216/je/2000xxs.jpg",
       "file": "img-48ffd5eb4aac.webp",
       "media_type": "image/webp",
       "bytes": 137374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/068213d4-60f7-4c6e-b345-04114e22cf47/je/2000xxs.jpg",
       "file": "img-0f43dde9b450.webp",
       "media_type": "image/webp",
       "bytes": 97020,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/40a621d4-a55f-4daa-a3c0-01e1a813a0cb/je/2000xxs.jpg",
       "file": "img-a2c2de58f7c2.webp",
       "media_type": "image/webp",
       "bytes": 125684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/aae499ae-7ed5-4902-8600-0bf73a790151/je/2000xxs.jpg",
       "file": "img-23cd307d27e4.webp",
       "media_type": "image/webp",
       "bytes": 50276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/badd6fcd-97cc-45fd-a326-861c01ff9586/je/2000xxs.jpg",
       "file": "img-0e2e83132632.webp",
       "media_type": "image/webp",
       "bytes": 109154,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/ff878983-20a6-438b-816c-2cd6b98556f8/je/2000xxs.jpg",
       "file": "img-263c93de08fa.webp",
       "media_type": "image/webp",
       "bytes": 162048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/e17a1551-55e2-4ffc-a60c-20064585e9a2/je/2000xxs.jpg",
       "file": "img-dcb0d671a76c.webp",
       "media_type": "image/webp",
       "bytes": 147682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/c428a2ad-f5c4-4b79-85ea-d6cfdb6a04c0/je/2000xxs.jpg",
       "file": "img-b31eb7029a9f.webp",
       "media_type": "image/webp",
       "bytes": 179994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d5e5c984-98ca-4ef3-b07b-be31976d8459/je/2000xxs.jpg",
       "file": "img-057413c1cd97.webp",
       "media_type": "image/webp",
       "bytes": 191872,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/ecac280e-c318-4d87-8656-ff079e080da7/je/2000xxs.jpg",
       "file": "img-7c0032de674f.webp",
       "media_type": "image/webp",
       "bytes": 131216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/7b197fc8-47c3-4619-a6f1-c11e6c69a9b8/je/2000xxs.jpg",
       "file": "img-32aeaaebe383.webp",
       "media_type": "image/webp",
       "bytes": 119302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/7ca94116-fa8b-410f-b6e0-5959171d5552/je/2000xxs.jpg",
       "file": "img-9adbc516136c.webp",
       "media_type": "image/webp",
       "bytes": 91090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/888c500b-c54d-4b1a-b7e3-0fdf72b8a48c/je/2000xxs.jpg",
       "file": "img-82c15c42de3d.webp",
       "media_type": "image/webp",
       "bytes": 69734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d5b824b5-e843-4534-989e-702fcd9c444c/je/2000xxs.jpg",
       "file": "img-132b3bb677ed.webp",
       "media_type": "image/webp",
       "bytes": 98442,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/f92d7c00-ad50-4444-80fb-844f55d8da1a/je/2000xxs.jpg",
       "file": "img-48f7c6c03e65.webp",
       "media_type": "image/webp",
       "bytes": 209516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/b6f3dbd5-3491-4d7b-9085-401896e18d41/je/2000xxs.jpg",
       "file": "img-c8a4b97dd86e.webp",
       "media_type": "image/webp",
       "bytes": 104814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/59316b04-3f61-4744-8f82-c9f3bf518026/je/2000xxs.jpg",
       "file": "img-537890ad6755.webp",
       "media_type": "image/webp",
       "bytes": 121168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/1ba02c4e-9076-496b-b2b0-08f785dc11cb/je/2000xxs.jpg",
       "file": "img-bfb3015fc539.webp",
       "media_type": "image/webp",
       "bytes": 72874,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/cf04e593-e436-43cc-b088-ca0eb2cd86a2/je/2000xxs.jpg",
       "file": "img-e501cba3cc61.webp",
       "media_type": "image/webp",
       "bytes": 52942,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/e3632341-9fa9-4407-9556-d9ff07b833fe/je/2000xxs.jpg",
       "file": "img-f407fb04ba50.webp",
       "media_type": "image/webp",
       "bytes": 89748,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/489d806b-5e92-47dc-b755-faf3be7150e7/je/2000xxs.jpg",
       "file": "img-ebd36eb94248.webp",
       "media_type": "image/webp",
       "bytes": 93538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/11b4bee7-9409-4b91-9dc2-1a023b928daa/je/2000xxs.jpg",
       "file": "img-07e70bcd9250.webp",
       "media_type": "image/webp",
       "bytes": 167880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/72268a8b-b61e-4273-b7fa-2ce4b13133fc/je/2000xxs.jpg",
       "file": "img-f83343064ba8.webp",
       "media_type": "image/webp",
       "bytes": 76202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/25d77cd3-f5c7-4284-b532-91f95b1bb8f5/je/2000xxs.jpg",
       "file": "img-3ab3b41ff0e8.webp",
       "media_type": "image/webp",
       "bytes": 407756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/a83fbf5f-5dde-4cfb-b99f-9ce512c3fbb9/je/2000xxs.jpg",
       "file": "img-0e649cbad609.webp",
       "media_type": "image/webp",
       "bytes": 312756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2200xxsxm%2823%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-51f55dc8341e.webp",
+      "media_type": "image/webp",
+      "bytes": 712736,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2200xxsxm%2824%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-9abf946c0b1f.webp",
+      "media_type": "image/webp",
+      "bytes": 620534,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2200xxsxm%2825%29.jpg",
+      "file": "img-a060a2072f33.webp",
+      "media_type": "image/webp",
+      "bytes": 224244,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -739,6 +839,63 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2200xxsxm%2825%29.jpg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 };

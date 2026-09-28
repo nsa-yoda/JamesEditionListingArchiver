@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/kutchan-japan/niseko-a-private-world-in-the-kingdom-of-powder-snow-17464003
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:31Z
+- Retrieved: 2026-09-28T00:23:14Z
 - Address: Kabayama, Kutchan, Abuta District, Hokkaido 044-0078, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=42.8453675,140.7067271
 - Coordinates: 42.85, 140.71
 - Site listing ID: 17464003
 - First listed: Mar 23
 - Last updated: May 20
-- Images downloaded: 10
+- Images downloaded: 19
 
 ## Property
 

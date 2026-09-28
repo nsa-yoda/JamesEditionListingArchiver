@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/single-family-residence-in-upper-brookville-16980187
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:45Z
+- Retrieved: 2026-09-28T00:25:26Z
 - Address: 60 Piping Rock Road, Upper Brookville, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.841255,-73.575111
 - Coordinates: 40.84, -73.58
@@ -10,7 +10,7 @@
 - Listing reference: 885874
 - First listed: Jan 22
 - Last updated: July 16
-- Images downloaded: 37
+- Images downloaded: 41
 
 ## Property
 

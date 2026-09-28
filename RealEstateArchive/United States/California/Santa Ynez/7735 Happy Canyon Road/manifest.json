@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:21:45.207518Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/happy-canyon-retreat-18727813",
     "canonical_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/happy-canyon-retreat-18727813",
@@ -9,13 +9,13 @@
     "listing_reference": "CFFFY4",
     "first_listed": "Aug 26",
     "last_updated": "August 28",
-    "retrieved_at": "2026-09-26T18:46:28.812498Z"
+    "retrieved_at": "2026-09-28T00:21:43.754141Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3707,
-      "sha256": "86d49a9ea8ae32d83c45e4a6e06bebcbadee28833f1dcc2acaf09e41202cff0a"
+      "sha256": "2d72ed4944034f7735b25a0fe45e8f4723bf587ddce97b48e845cfe5a3ef5bfd"
     },
     {
       "path": "images/img-026d9a011b1e.webp",
@@ -36,6 +36,11 @@
       "path": "images/img-0c00fabe1c53.webp",
       "bytes": 623444,
       "sha256": "8f21f7610ea1ec226c13ef3cad51cb4a84b33a6c868f234764a31c3332d8bf18"
+    },
+    {
+      "path": "images/img-0d995e150e13.webp",
+      "bytes": 913488,
+      "sha256": "f3cb4ec29b9f5090da77d22f96917dc653b216b693f9fc980b0e95bf2a4b58c5"
     },
     {
       "path": "images/img-0f28b3016016.webp",
@@ -78,6 +83,11 @@
       "sha256": "cf5789491fb23ea35b31784531c25da56983ffabb029b8bc77d77e161a08e591"
     },
     {
+      "path": "images/img-281ef3d09c09.webp",
+      "bytes": 488404,
+      "sha256": "0dd8f99099540f77ebaf076fbed64ab82fcf6bbae53f337d060e80f9d6bf788d"
+    },
+    {
       "path": "images/img-2beb84280bed.webp",
       "bytes": 150696,
       "sha256": "9dea8e61cef8c6b5979704d48810819041e35891e5beccf71699eaca81a8c2d1"
@@ -103,9 +113,19 @@
       "sha256": "504af9b6830a9a994cfbe6dd98c1eb71954aa5de7136094a2543a66c93a690c8"
     },
     {
+      "path": "images/img-332abe6d054b.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-3444b223dba5.webp",
       "bytes": 473884,
       "sha256": "6ac7ea0d1d7070919b5ae3d2db9e87c1128671374577cda57cf782c17eb4abb1"
+    },
+    {
+      "path": "images/img-37fc59b0fe06.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-392fe344de05.webp",
@@ -118,6 +138,11 @@
       "sha256": "193568ff9e6a9fcb87419845ecdbbc8732c8887f6a5203249390189431579d23"
     },
     {
+      "path": "images/img-3fc99d1709b2.webp",
+      "bytes": 913488,
+      "sha256": "f3cb4ec29b9f5090da77d22f96917dc653b216b693f9fc980b0e95bf2a4b58c5"
+    },
+    {
       "path": "images/img-4c139edb7c3c.webp",
       "bytes": 315722,
       "sha256": "688b8c2fb141ea29a523c5a1fbe34dec4b100a697e07e1d36ffb1d3f136e01fa"
@@ -126,6 +151,11 @@
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5c3e4ef9ddf1.webp",
+      "bytes": 335242,
+      "sha256": "5687976e56184f331906debeea1d572a42748bd15ec02aac20be6a5eb7751f42"
     },
     {
       "path": "images/img-61dba7b61e7b.webp",
@@ -138,6 +168,11 @@
       "sha256": "b68c4a5f8eb01c2eb9b5a1996b6972b40dda859318cec1a5d29200978f8f72f2"
     },
     {
+      "path": "images/img-683bf1db2f2e.webp",
+      "bytes": 913488,
+      "sha256": "f3cb4ec29b9f5090da77d22f96917dc653b216b693f9fc980b0e95bf2a4b58c5"
+    },
+    {
       "path": "images/img-691c349c81a0.webp",
       "bytes": 578250,
       "sha256": "0cd4e1d59ea7ea089e7c26c9cc1eb09f5668626f855c35ab19abe57f1feaa8e4"
@@ -148,6 +183,16 @@
       "sha256": "29de920b43f1ccaa41ea14ae4f0449da570d1663b50e492a98a2fa817fc7ff04"
     },
     {
+      "path": "images/img-6d6285d20a22.webp",
+      "bytes": 6382,
+      "sha256": "8cbb52d8510fcb858ac3c9d68d7f794acba2b215c889362d27ff35368123fc17"
+    },
+    {
+      "path": "images/img-6f4a74ab6726.webp",
+      "bytes": 401768,
+      "sha256": "9b1308679901c435d472cd2974c5938241ed391441c057d079f7cde56d94a416"
+    },
+    {
       "path": "images/img-6f644561760b.webp",
       "bytes": 363506,
       "sha256": "5d548d977c3967b82acaeb7f1112f9759b6d03170a57bf34e65ba0eac661ecbc"
@@ -156,6 +201,11 @@
       "path": "images/img-6fa1dc990fa6.webp",
       "bytes": 299394,
       "sha256": "761ad0a6d801e0d5c0b61c790c36cd87f1810dc6ba549ea8b36c65d58b824d16"
+    },
+    {
+      "path": "images/img-73aa52a8ba76.webp",
+      "bytes": 456166,
+      "sha256": "d77d14b67658ff80b987483758a9634190cd99223231d9ef3ef86963999e7ff1"
     },
     {
       "path": "images/img-87be3bf912a0.webp",
@@ -201,6 +251,11 @@
       "path": "images/img-a8abaf2904e8.webp",
       "bytes": 144500,
       "sha256": "5cf518182d5c831407f763c0e5930a6e7afa6957887abace46ea308d3d704625"
+    },
+    {
+      "path": "images/img-aa34c76be93f.webp",
+      "bytes": 913488,
+      "sha256": "f3cb4ec29b9f5090da77d22f96917dc653b216b693f9fc980b0e95bf2a4b58c5"
     },
     {
       "path": "images/img-ab80ca90cf6a.webp",
@@ -293,14 +348,19 @@
       "sha256": "8ebef0698785ea6d4d35dc970acb664c07f8e4905d483369ca93843533a5618a"
     },
     {
+      "path": "images/img-fd2ac04857ad.webp",
+      "bytes": 913488,
+      "sha256": "f3cb4ec29b9f5090da77d22f96917dc653b216b693f9fc980b0e95bf2a4b58c5"
+    },
+    {
       "path": "images/img-ff3b26c9c590.webp",
       "bytes": 391728,
       "sha256": "5a5fe567b62e297f5889ec54ad9f74dce268d2acc0c922faa4b6b129ac99a432"
     },
     {
       "path": "listing.json",
-      "bytes": 36786,
-      "sha256": "7ab3c1a8a97957b8b851583a51dd9024862336fb383c4de5b1fa568719f2b51a"
+      "bytes": 58594,
+      "sha256": "8e2c3b10583f277cfcdf52b4a925e635959e23dcab3f57f6ce7e97940f22338b"
     },
     {
       "path": "source.html",
@@ -321,11 +381,29 @@
   "assets": [
     {
       "kind": "video",
-      "source_url": "https://player.vimeo.com/video/1202936862?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/1202936862?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/1040x620xc.jpg",
       "poster_path": "videos/img-bba4b5f02439.webp",
-      "error": "HTTP 401 Unauthorized"
+      "error": "yt-dlp could not download the video player URL"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -333,13 +411,25 @@
       "path": "images/img-cdb8760ab644.webp",
       "media_type": "image/webp",
       "bytes": 1090680,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/98891775-cfd6-470b-a979-372ef07e9b3a/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/98891775-cfd6-470b-a979-372ef07e9b3a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/98891775-cfd6-470b-a979-372ef07e9b3a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/98891775-cfd6-470b-a979-372ef07e9b3a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/98891775-cfd6-470b-a979-372ef07e9b3a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/98891775-cfd6-470b-a979-372ef07e9b3a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -347,13 +437,33 @@
       "path": "images/img-14aaaa28679b.webp",
       "media_type": "image/webp",
       "bytes": 806170,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs%281%29.jpg",
+      "path": "images/img-87be3bf912a0.webp",
+      "media_type": "image/webp",
+      "bytes": 603342,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/718ecafc-9eac-4ba3-9d2c-124bae2893be/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/718ecafc-9eac-4ba3-9d2c-124bae2893be/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/718ecafc-9eac-4ba3-9d2c-124bae2893be/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/718ecafc-9eac-4ba3-9d2c-124bae2893be/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/718ecafc-9eac-4ba3-9d2c-124bae2893be/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/718ecafc-9eac-4ba3-9d2c-124bae2893be/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -361,13 +471,33 @@
       "path": "images/img-9d81f75514ca.webp",
       "media_type": "image/webp",
       "bytes": 966060,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs%282%29.jpg",
+      "path": "images/img-73aa52a8ba76.webp",
+      "media_type": "image/webp",
+      "bytes": 456166,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/4e41a4c1-1cc4-49e4-b9a4-cecbe2615f26/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/4e41a4c1-1cc4-49e4-b9a4-cecbe2615f26/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/4e41a4c1-1cc4-49e4-b9a4-cecbe2615f26/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/4e41a4c1-1cc4-49e4-b9a4-cecbe2615f26/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/4e41a4c1-1cc4-49e4-b9a4-cecbe2615f26/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/4e41a4c1-1cc4-49e4-b9a4-cecbe2615f26/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -375,104 +505,136 @@
       "path": "images/img-0f28b3016016.webp",
       "media_type": "image/webp",
       "bytes": 947672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-5c3e4ef9ddf1.webp",
+      "media_type": "image/webp",
+      "bytes": 335242,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/2200xxs.jpg",
-      "path": "images/img-87be3bf912a0.webp",
-      "media_type": "image/webp",
-      "bytes": 603342,
-      "status": "new"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-6f4a74ab6726.webp",
+      "media_type": "image/webp",
+      "bytes": 401768,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-6d6285d20a22.webp",
+      "media_type": "image/webp",
+      "bytes": 6382,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/request_plan_bg-33cc1401.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-332abe6d054b.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/street_view-b1ba588c.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-37fc59b0fe06.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-aa34c76be93f.webp",
+      "media_type": "image/webp",
+      "bytes": 913488,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-281ef3d09c09.webp",
+      "media_type": "image/webp",
+      "bytes": 488404,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-6f644561760b.webp",
+      "media_type": "image/webp",
+      "bytes": 363506,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-adc010b9fcda.webp",
+      "media_type": "image/webp",
+      "bytes": 256410,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/085e4a3d-d065-4d8a-aef0-67602072d52d/je/2000xxs.jpg",
-      "path": "images/img-6f644561760b.webp",
-      "media_type": "image/webp",
-      "bytes": 363506,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/9583e4be-c1ee-42a3-95f5-38ed0862e6a7/je/2000xxs.jpg",
-      "path": "images/img-adc010b9fcda.webp",
-      "media_type": "image/webp",
-      "bytes": 256410,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/fa2a74d7-b68c-4de2-a04b-a409367befc0/je/2000xxs.jpg",
       "path": "images/img-4c139edb7c3c.webp",
       "media_type": "image/webp",
       "bytes": 315722,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/2000xxs.jpg",
+      "path": "images/img-0d995e150e13.webp",
+      "media_type": "image/webp",
+      "bytes": 913488,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/df618501-f07f-4d44-862a-b85d555adfe9/je/2000xxs.jpg",
+      "path": "images/img-3fc99d1709b2.webp",
+      "media_type": "image/webp",
+      "bytes": 913488,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/98891775-cfd6-470b-a979-372ef07e9b3a/je/2000xxs.jpg",
+      "path": "images/img-683bf1db2f2e.webp",
+      "media_type": "image/webp",
+      "bytes": 913488,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/718ecafc-9eac-4ba3-9d2c-124bae2893be/je/2000xxs.jpg",
+      "path": "images/img-fd2ac04857ad.webp",
+      "media_type": "image/webp",
+      "bytes": 913488,
       "status": "new"
     },
     {
@@ -481,7 +643,7 @@
       "path": "images/img-be8fc79ebf23.webp",
       "media_type": "image/webp",
       "bytes": 1194016,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -489,7 +651,7 @@
       "path": "images/img-a780c95e71b1.webp",
       "media_type": "image/webp",
       "bytes": 854790,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -497,7 +659,7 @@
       "path": "images/img-691c349c81a0.webp",
       "media_type": "image/webp",
       "bytes": 578250,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -505,7 +667,7 @@
       "path": "images/img-3d1a7330d1b6.webp",
       "media_type": "image/webp",
       "bytes": 488862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -513,7 +675,7 @@
       "path": "images/img-0c00fabe1c53.webp",
       "media_type": "image/webp",
       "bytes": 623444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -521,7 +683,7 @@
       "path": "images/img-b4f6fa1a9160.webp",
       "media_type": "image/webp",
       "bytes": 641706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -529,7 +691,7 @@
       "path": "images/img-322b7e773c2b.webp",
       "media_type": "image/webp",
       "bytes": 579828,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -537,7 +699,7 @@
       "path": "images/img-b5cef3cc8307.webp",
       "media_type": "image/webp",
       "bytes": 860298,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -545,7 +707,7 @@
       "path": "images/img-3444b223dba5.webp",
       "media_type": "image/webp",
       "bytes": 473884,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -553,7 +715,7 @@
       "path": "images/img-b68325722630.webp",
       "media_type": "image/webp",
       "bytes": 197126,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -561,7 +723,7 @@
       "path": "images/img-c8647e3f8394.webp",
       "media_type": "image/webp",
       "bytes": 246490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -569,7 +731,7 @@
       "path": "images/img-e893e23ae8c1.webp",
       "media_type": "image/webp",
       "bytes": 179748,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -577,7 +739,7 @@
       "path": "images/img-940e5dea4b6c.webp",
       "media_type": "image/webp",
       "bytes": 129360,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -585,7 +747,7 @@
       "path": "images/img-b387fe9afb80.webp",
       "media_type": "image/webp",
       "bytes": 146244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -593,7 +755,7 @@
       "path": "images/img-c411dd50a851.webp",
       "media_type": "image/webp",
       "bytes": 483568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -601,7 +763,7 @@
       "path": "images/img-6a020092c253.webp",
       "media_type": "image/webp",
       "bytes": 349766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -609,7 +771,7 @@
       "path": "images/img-f1dbeea57be9.webp",
       "media_type": "image/webp",
       "bytes": 191244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -617,7 +779,7 @@
       "path": "images/img-a584d833ebe0.webp",
       "media_type": "image/webp",
       "bytes": 330580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -625,7 +787,7 @@
       "path": "images/img-63568e6823d8.webp",
       "media_type": "image/webp",
       "bytes": 209096,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -633,7 +795,7 @@
       "path": "images/img-3224fc4ce0a6.webp",
       "media_type": "image/webp",
       "bytes": 153626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -641,7 +803,7 @@
       "path": "images/img-f6bd443e6623.webp",
       "media_type": "image/webp",
       "bytes": 435678,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -649,7 +811,7 @@
       "path": "images/img-ff3b26c9c590.webp",
       "media_type": "image/webp",
       "bytes": 391728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -657,7 +819,7 @@
       "path": "images/img-a8abaf2904e8.webp",
       "media_type": "image/webp",
       "bytes": 144500,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -665,7 +827,7 @@
       "path": "images/img-09f7a754c74e.webp",
       "media_type": "image/webp",
       "bytes": 207440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -673,7 +835,7 @@
       "path": "images/img-6fa1dc990fa6.webp",
       "media_type": "image/webp",
       "bytes": 299394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -681,7 +843,7 @@
       "path": "images/img-1699cad85f3f.webp",
       "media_type": "image/webp",
       "bytes": 1402858,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -689,7 +851,7 @@
       "path": "images/img-bfe0883fc0d7.webp",
       "media_type": "image/webp",
       "bytes": 909684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -697,7 +859,7 @@
       "path": "images/img-92c4b66b3ac1.webp",
       "media_type": "image/webp",
       "bytes": 1069052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -705,7 +867,7 @@
       "path": "images/img-32679275b5b0.webp",
       "media_type": "image/webp",
       "bytes": 457622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -713,7 +875,7 @@
       "path": "images/img-2beb84280bed.webp",
       "media_type": "image/webp",
       "bytes": 150696,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -721,7 +883,7 @@
       "path": "images/img-bf772c3926f4.webp",
       "media_type": "image/webp",
       "bytes": 485200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -729,7 +891,7 @@
       "path": "images/img-272421c4827b.webp",
       "media_type": "image/webp",
       "bytes": 412846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -737,7 +899,7 @@
       "path": "images/img-0f649a8e6330.webp",
       "media_type": "image/webp",
       "bytes": 564156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -745,7 +907,7 @@
       "path": "images/img-026d9a011b1e.webp",
       "media_type": "image/webp",
       "bytes": 529756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -753,7 +915,7 @@
       "path": "images/img-ab80ca90cf6a.webp",
       "media_type": "image/webp",
       "bytes": 544234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -761,7 +923,7 @@
       "path": "images/img-a5efeb32367b.webp",
       "media_type": "image/webp",
       "bytes": 344608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -769,7 +931,7 @@
       "path": "images/img-61dba7b61e7b.webp",
       "media_type": "image/webp",
       "bytes": 298434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -777,7 +939,7 @@
       "path": "images/img-392fe344de05.webp",
       "media_type": "image/webp",
       "bytes": 652058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -785,7 +947,7 @@
       "path": "images/img-adcc37b5d145.webp",
       "media_type": "image/webp",
       "bytes": 464900,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -793,7 +955,7 @@
       "path": "images/img-1d21dd707266.webp",
       "media_type": "image/webp",
       "bytes": 536414,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -801,7 +963,7 @@
       "path": "images/img-322c9a54b1d1.webp",
       "media_type": "image/webp",
       "bytes": 487308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -809,7 +971,7 @@
       "path": "images/img-17e671f860a9.webp",
       "media_type": "image/webp",
       "bytes": 534270,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -817,7 +979,7 @@
       "path": "images/img-ef822d59a24a.webp",
       "media_type": "image/webp",
       "bytes": 554652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -825,13 +987,13 @@
       "path": "images/img-9c0f23c62bbc.webp",
       "media_type": "image/webp",
       "bytes": 528060,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/Happy%20Canyon%20Retreat%20In%20Santa%20Ynez,%20California,%20United%20States%20For%20Sale%20%2818727813%29_files/2200xxsxm.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/08/25/09/22/23/034f803c-220b-4438-a59e-037afa9b51a6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -839,7 +1001,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -847,7 +1009,7 @@
       "path": "images/img-dc90c501bd51.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -855,7 +1017,7 @@
       "path": "images/img-194c24efc5ac.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -863,13 +1025,13 @@
       "path": "images/img-08ae040ecb3d.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 56,
-    "images_existing": 0,
-    "images_failed": 15,
+    "images_new": 12,
+    "images_existing": 56,
+    "images_failed": 16,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 1

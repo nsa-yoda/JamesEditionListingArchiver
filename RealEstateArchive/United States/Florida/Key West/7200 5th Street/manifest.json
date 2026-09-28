@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:01.103846Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/private-island-cow-key-14553253",
     "canonical_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/private-island-cow-key-14553253",
@@ -9,13 +9,13 @@
     "listing_reference": "QSR8Y2",
     "first_listed": "Aug 2, 2024",
     "last_updated": "January 22",
-    "retrieved_at": "2026-06-16T03:43:33.878468Z"
+    "retrieved_at": "2026-09-28T00:24:00.622507Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 1973,
-      "sha256": "10a0a8715e5381930f8a70c358f8a99136dd59d23a1efdca1d2e3feda0d6058c"
+      "bytes": 1974,
+      "sha256": "22c7b7409ce4a0ff559e909dc5cc63a576147ab62ffcce69f16fb3e086fe5530"
     },
     {
       "path": "images/004-4546fd4e.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-722b7d79f8c9.webp",
+      "bytes": 3518,
+      "sha256": "e16c8c07951542c22ddf75977fe556ec19d72c40f81269dc98d6baf16e19c286"
+    },
+    {
+      "path": "images/img-ac6ca592f17e.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-e46cfb60e688.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 14993,
-      "sha256": "7803f6f6259635ce0f40c75352f4c609a2cf6e555de682a61f46e1e546d2e255"
+      "bytes": 44274,
+      "sha256": "c6115c1ae1e9748651b16f05888750f0b5874e271901a47771c38a714eff5ed0"
     },
     {
       "path": "source.html",
@@ -81,6 +96,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/2200xxs.jpg",
       "path": "images/004-4546fd4e.webp",
       "media_type": "image/webp",
@@ -90,7 +123,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/5962bf5c-78de-4e6d-90cd-57cdef1d18fe/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/5962bf5c-78de-4e6d-90cd-57cdef1d18fe/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/5962bf5c-78de-4e6d-90cd-57cdef1d18fe/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/5962bf5c-78de-4e6d-90cd-57cdef1d18fe/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/5962bf5c-78de-4e6d-90cd-57cdef1d18fe/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/5962bf5c-78de-4e6d-90cd-57cdef1d18fe/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +155,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/f9c4915f-6dfe-420f-bb8e-ab32bcbaeb5f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/f9c4915f-6dfe-420f-bb8e-ab32bcbaeb5f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/f9c4915f-6dfe-420f-bb8e-ab32bcbaeb5f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/f9c4915f-6dfe-420f-bb8e-ab32bcbaeb5f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/f9c4915f-6dfe-420f-bb8e-ab32bcbaeb5f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/f9c4915f-6dfe-420f-bb8e-ab32bcbaeb5f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +187,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/c9b2654e-2337-428b-ac04-f3ed0cb37614/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/c9b2654e-2337-428b-ac04-f3ed0cb37614/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/c9b2654e-2337-428b-ac04-f3ed0cb37614/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/c9b2654e-2337-428b-ac04-f3ed0cb37614/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/c9b2654e-2337-428b-ac04-f3ed0cb37614/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/c9b2654e-2337-428b-ac04-f3ed0cb37614/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +219,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/208ddcfb-5052-4120-bbee-f484cd6f2849/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/208ddcfb-5052-4120-bbee-f484cd6f2849/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/208ddcfb-5052-4120-bbee-f484cd6f2849/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/208ddcfb-5052-4120-bbee-f484cd6f2849/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/208ddcfb-5052-4120-bbee-f484cd6f2849/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/208ddcfb-5052-4120-bbee-f484cd6f2849/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +251,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-722b7d79f8c9.webp",
+      "media_type": "image/webp",
+      "bytes": 3518,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ac6ca592f17e.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stock-island-fl-usa/Private%20Island%20Cow%20Key%20In%20Key%20West,%20Florida,%20United%20States%20For%20Sale%20%2814553253%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e46cfb60e688.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/08/02/10/05/13/709f581a-5637-4f9f-848c-a97dd7ca2cfb/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,9 +318,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

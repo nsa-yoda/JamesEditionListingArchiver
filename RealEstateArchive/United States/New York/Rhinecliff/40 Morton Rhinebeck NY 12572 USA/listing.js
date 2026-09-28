@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "e198eb40-c561-4a49-9e00-57818bd12724",
     "first_listed": "Sep 30, 2025",
     "last_updated": "June 12",
-    "retrieved_at": "2026-06-18T07:07:54.532354Z"
+    "retrieved_at": "2026-09-28T00:20:44.236118Z"
   },
   "location": {
     "address": "40 Morton Rhinebeck NY 12572 USA, Rhinecliff, New York, United States",
@@ -68,6 +68,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2200xxs.jpg",
       "file": "004-4e775197.webp",
       "media_type": "image/webp",
@@ -76,7 +91,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2200xxs.jpg",
@@ -87,7 +118,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2200xxs.jpg",
@@ -98,7 +145,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2200xxs.jpg",
@@ -109,7 +172,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2200xxs.jpg",
@@ -120,23 +199,54 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-2024c5fb3948.webp",
+      "media_type": "image/webp",
+      "bytes": 6750,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-573fdc0bda18.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-76c0b3359672.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/1d04c9b5-4f96-4334-8f88-aa4a8f73c16e/je/2000xxs.jpg",
@@ -392,15 +502,29 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2827%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-11cbb48d9f04.webp",
+      "media_type": "image/webp",
+      "bytes": 413882,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2826%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-8c90fcf2cd0d.webp",
+      "media_type": "image/webp",
+      "bytes": 415682,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2825%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-8af5bba394a8.webp",
+      "media_type": "image/webp",
+      "bytes": 548214,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -583,6 +707,84 @@ window.listingArchiveListing = {
     "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
     "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2827%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2826%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2825%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/2200xxs%2825%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/Elegance%20Meets%20Nature%20At%20Stonecrest%20On%20In%20Rhinecliff,%20New%20York,%20United%20States%20For%20Sale%20%2816280122%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/daac1c72-9534-472a-b746-d6229106f841/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/dd06ca9d-6648-4f9e-9c40-9270064d170c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/791a31ce-a3c6-4627-b316-b80e7bec271f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/15/16/07/7608d30b-38d7-4457-9a01-a5c5b80bbc39/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/29/18/37/50/46a663f4-0f0d-4633-ad86-922070e7cb6e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

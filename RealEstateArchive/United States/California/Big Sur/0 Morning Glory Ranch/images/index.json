@@ -40,6 +40,11 @@
       "size": 63675
     },
     {
+      "name": "img-308774bcb4a6.png",
+      "href": "img-308774bcb4a6.png",
+      "size": 8627
+    },
+    {
       "name": "img-3d2fea4f09b5.webp",
       "href": "img-3d2fea4f09b5.webp",
       "size": 181468
@@ -73,6 +78,11 @@
       "name": "img-57242b8ef18d.webp",
       "href": "img-57242b8ef18d.webp",
       "size": 1004
+    },
+    {
+      "name": "img-59252930c78f.png",
+      "href": "img-59252930c78f.png",
+      "size": 767001
     },
     {
       "name": "img-59a6ed44cb46.webp",
@@ -125,6 +135,11 @@
       "size": 154148
     },
     {
+      "name": "img-b7946d087ad0.webp",
+      "href": "img-b7946d087ad0.webp",
+      "size": 3912
+    },
+    {
       "name": "img-b85ffd154704.webp",
       "href": "img-b85ffd154704.webp",
       "size": 208422
@@ -170,6 +185,11 @@
       "size": 205988
     },
     {
+      "name": "img-e67bc2176212.png",
+      "href": "img-e67bc2176212.png",
+      "size": 4795
+    },
+    {
       "name": "img-eb93d8e7182d.webp",
       "href": "img-eb93d8e7182d.webp",
       "size": 208312
@@ -190,5 +210,5 @@
       "size": 179100
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:22:42.756913Z"
 }

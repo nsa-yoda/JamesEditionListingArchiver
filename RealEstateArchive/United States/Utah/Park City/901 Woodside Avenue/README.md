@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/park-city-ut-usa/where-old-town-s-history-meets-modern-new-construction-18477235
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:32:17Z
+- Retrieved: 2026-09-28T00:26:53Z
 - Address: 901 Woodside Avenue, Park City, UT 84060, Utah, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.64787919,-111.5002099
 - Coordinates: 40.65, -111.5
@@ -10,8 +10,8 @@
 - Listing reference: YDT5GG
 - First listed: Jul 20
 - Last updated: Yesterday
-- Images downloaded: 69
-- Videos downloaded: 0
+- Images downloaded: 81
+- Videos downloaded: 1
 
 ## Property
 

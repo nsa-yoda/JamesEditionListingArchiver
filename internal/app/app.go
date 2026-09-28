@@ -65,10 +65,10 @@ func RunWithInput(ctx context.Context, args []string, stdin io.Reader, stdout, s
 	}
 	options := archive.Options{
 		Root: cfg.Root, Workers: cfg.Workers, Overwrite: cfg.Overwrite,
-		MetadataOnly: cfg.MetadataOnly, MaxImages: cfg.MaxImages, AssetsOnly: cfg.AssetsOnly,
+		MetadataOnly: cfg.MetadataOnly, MaxImages: cfg.MaxImages, AssetsOnly: cfg.AssetsOnly, VideosOnly: cfg.VideosOnly,
 	}
 	existing := archive.ExistingIndex{}
-	if len(imports) > 0 || cfg.AssetsOnly {
+	if len(imports) > 0 || cfg.AssetsOnly || cfg.VideosOnly {
 		existing, err = archive.BuildExistingIndex(cfg.Root)
 		if err != nil {
 			fmt.Fprintf(stderr, "error: inspect existing archive: %v\n", err)
@@ -115,12 +115,12 @@ func RunWithInput(ctx context.Context, args []string, stdin io.Reader, stdout, s
 		listing, _, inspectErr := service.InspectHTML(ctx, item.SourceURL, item.HTML)
 		if inspectErr == nil {
 			if directory, ok := existing.Find(listing); ok {
-				if !cfg.Refresh && !cfg.AssetsOnly {
+				if cfg.SkipExisting && !cfg.AssetsOnly && !cfg.VideosOnly {
 					fmt.Fprintf(stdout, "Skipped existing: %s [found: %s]\n", item.Filename, archivePageReference(cfg.Root, directory))
 					skipped++
 					continue
 				}
-				if !cfg.AssetsOnly {
+				if !cfg.AssetsOnly && !cfg.VideosOnly {
 					movedTo, moved, err := archive.MoveExistingArchive(cfg.Root, directory, listing)
 					if err != nil {
 						fmt.Fprintf(stderr, "error: import %s: %v\n", item.Filename, err)
@@ -134,7 +134,9 @@ func RunWithInput(ctx context.Context, args []string, stdin io.Reader, stdout, s
 				}
 			}
 		}
-		result, err := service.ImportHTML(ctx, item.SourceURL, item.HTML, options)
+		itemOptions := options
+		itemOptions.LocalMediaDir = item.MediaDir
+		result, err := service.ImportHTML(ctx, item.SourceURL, item.HTML, itemOptions)
 		if err != nil {
 			fmt.Fprintf(stderr, "error: import %s: %v\n", item.Filename, err)
 			importFailures++

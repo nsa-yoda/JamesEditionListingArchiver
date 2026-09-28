@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:01.862968Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/conifer-co-usa/private-mountain-retreat-with-scenic-mountain-views-and-absolute-privacy-15116459",
     "canonical_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/private-mountain-retreat-with-scenic-mountain-views-and-absolute-privacy-15116459",
@@ -9,13 +9,13 @@
     "listing_reference": "DBDQKV",
     "first_listed": "Jan 21, 2025",
     "last_updated": "December 11, 2025",
-    "retrieved_at": "2026-06-16T03:43:34.224698Z"
+    "retrieved_at": "2026-09-28T00:24:01.503584Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3247,
-      "sha256": "c533b71953ea1ef3a7b61632bf1d5169fe9ec5a299b15585521af2feba726bcd"
+      "bytes": 3248,
+      "sha256": "ecdabc4444668f23a66faec4ff3aca761e3bbaad55a2129c88fea7c27340f901"
     },
     {
       "path": "images/004-480f8030.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-1dcbb3a62dbc.webp",
+      "bytes": 5238,
+      "sha256": "6ae73d8cf01d0cd54ad47309517c944ebfb6895e74c2838df6c2464c16a4547b"
+    },
+    {
+      "path": "images/img-650c48a71b77.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-6b4b065f2f57.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 18139,
-      "sha256": "404c869a2b8e052bd2b14aab6e9a04e375342f698533583900169b428b928e5f"
+      "bytes": 47735,
+      "sha256": "7525ab3cfd6720dba1226f9254bfc8030f3341bedbf7b3af5e86d4c54e3315db"
     },
     {
       "path": "source.html",
@@ -81,6 +96,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/2200xxs.jpg",
       "path": "images/004-480f8030.webp",
       "media_type": "image/webp",
@@ -90,7 +123,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/2931a2c1-686b-4e16-943b-30c526eae296/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/2931a2c1-686b-4e16-943b-30c526eae296/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/2931a2c1-686b-4e16-943b-30c526eae296/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/2931a2c1-686b-4e16-943b-30c526eae296/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/2931a2c1-686b-4e16-943b-30c526eae296/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/2931a2c1-686b-4e16-943b-30c526eae296/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +155,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/3f0253b1-7fd5-42da-822d-59b67d0f8c46/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/3f0253b1-7fd5-42da-822d-59b67d0f8c46/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/3f0253b1-7fd5-42da-822d-59b67d0f8c46/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/3f0253b1-7fd5-42da-822d-59b67d0f8c46/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/3f0253b1-7fd5-42da-822d-59b67d0f8c46/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/3f0253b1-7fd5-42da-822d-59b67d0f8c46/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +187,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/57f97ce8-7460-47ef-8756-fb631928f89c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/57f97ce8-7460-47ef-8756-fb631928f89c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/57f97ce8-7460-47ef-8756-fb631928f89c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/57f97ce8-7460-47ef-8756-fb631928f89c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/57f97ce8-7460-47ef-8756-fb631928f89c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/57f97ce8-7460-47ef-8756-fb631928f89c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +219,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/ed25e4e9-169c-4d2e-a077-f2a13ed5b3fa/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/ed25e4e9-169c-4d2e-a077-f2a13ed5b3fa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/ed25e4e9-169c-4d2e-a077-f2a13ed5b3fa/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/ed25e4e9-169c-4d2e-a077-f2a13ed5b3fa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/ed25e4e9-169c-4d2e-a077-f2a13ed5b3fa/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/ed25e4e9-169c-4d2e-a077-f2a13ed5b3fa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +251,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1dcbb3a62dbc.webp",
+      "media_type": "image/webp",
+      "bytes": 5238,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-6b4b065f2f57.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/conifer-co-usa/Private%20Mountain%20Retreat%20With%20Scenic%20In%20Conifer,%20Colorado,%20United%20States%20For%20Sale%20%2815116459%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-650c48a71b77.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/21/14/44/54/a83462ae-169b-4113-8222-bd1090f7b5f0/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,9 +318,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/point-arena-usa/schooner-s-ranch-coastal-beauty-refined-living-17900235
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:21Z
+- Retrieved: 2026-09-28T00:24:50Z
 - Address: 28651 S Highway 1, Gualala, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.862814,-123.650783
 - Coordinates: 38.86, -123.65
@@ -10,7 +10,7 @@
 - Listing reference: C1-11385
 - First listed: May 13
 - Last updated: Today
-- Images downloaded: 58
+- Images downloaded: 61
 
 ## Property
 

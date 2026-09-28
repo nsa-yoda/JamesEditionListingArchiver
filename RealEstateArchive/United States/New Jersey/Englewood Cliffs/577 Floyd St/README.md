@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577-floyd-st-englewood-cliffs-new-jersey-07632-16396759
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:18Z
+- Retrieved: 2026-09-28T00:18:50Z
 - Address: 577 Floyd St, Englewood Cliffs, NJ 07632, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.8856227,-73.9496641
 - Coordinates: 40.89, -73.95
@@ -10,7 +10,7 @@
 - Listing reference: 25034367
 - First listed: Oct 14, 2025
 - Last updated: February 10
-- Images downloaded: 9
+- Images downloaded: 21
 - Videos downloaded: 0
 
 ## Property

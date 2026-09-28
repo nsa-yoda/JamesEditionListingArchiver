@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:22:41.96244Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/madrigal-ayala-alabang-village-15363595",
     "canonical_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/madrigal-ayala-alabang-village-15363595",
@@ -9,13 +9,13 @@
     "listing_reference": "HRQR2S",
     "first_listed": "Mar 18, 2025",
     "last_updated": "January 29",
-    "retrieved_at": "2026-06-16T03:43:29.872035Z"
+    "retrieved_at": "2026-09-28T00:22:41.488651Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2842,
-      "sha256": "2be995f7c9d50a4b51c108c39adb9984a8ee42079cebdb68daebe27dc0f50880"
+      "bytes": 2843,
+      "sha256": "be384ad03d230e68d8709d502d911e56ab833b2a1f21600125448d8a66cb952e"
     },
     {
       "path": "images/004-d75dfa2d.webp",
@@ -63,9 +63,49 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-1ae93907b1ba.webp",
+      "bytes": 3116,
+      "sha256": "8cc6e050a96f67c01ec3056cbf28fbf4107c57c4a142ce12a51a8ffd056bd15d"
+    },
+    {
+      "path": "images/img-36b487125a3a.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-430a4646541d.webp",
+      "bytes": 251766,
+      "sha256": "6575e265aa346e8d069b7d25bebcfabdcb2e7ff4be435746c9b86d28813815d1"
+    },
+    {
+      "path": "images/img-4be296386f58.webp",
+      "bytes": 126558,
+      "sha256": "93f000342b767335b96492a36f2b316432faff4e72c4b8f0620483493bf60423"
+    },
+    {
+      "path": "images/img-717b619270b5.webp",
+      "bytes": 150410,
+      "sha256": "0847c2f8ca140d6d451eca3704a929e002dcf5f36578aad2b08563d62f1b69da"
+    },
+    {
+      "path": "images/img-78e3dd559c83.webp",
+      "bytes": 112024,
+      "sha256": "f5f676ea4c38dc8e9359ecd8ef3713232f6c6e609f60addee2a9b1378846daf9"
+    },
+    {
+      "path": "images/img-7bd532fc3493.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-7f6f607745b9.webp",
+      "bytes": 244044,
+      "sha256": "a13a02caa5d858a96b6c1fa736324edecb59acd685903b5d3ff665f912ef4b2e"
+    },
+    {
       "path": "listing.json",
-      "bytes": 19633,
-      "sha256": "5b72376b66697dc52c5e219bded71d45391648feaac973b43e3ce77447c40c9f"
+      "bytes": 49814,
+      "sha256": "b2d4f3c9ca14d230f8d6dfa3a35a8986425a6eacd3b44811ecb55b8d62db9da4"
     },
     {
       "path": "source.html",
@@ -81,6 +121,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/2200xxs.jpg",
       "path": "images/004-d75dfa2d.webp",
       "media_type": "image/webp",
@@ -90,7 +148,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/be91faa5-b636-4722-8fac-a57de55862f2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/be91faa5-b636-4722-8fac-a57de55862f2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/be91faa5-b636-4722-8fac-a57de55862f2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/be91faa5-b636-4722-8fac-a57de55862f2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/be91faa5-b636-4722-8fac-a57de55862f2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/be91faa5-b636-4722-8fac-a57de55862f2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +180,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/81fbc56b-8ec8-4c53-be1c-7c5f581804de/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/81fbc56b-8ec8-4c53-be1c-7c5f581804de/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/81fbc56b-8ec8-4c53-be1c-7c5f581804de/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/81fbc56b-8ec8-4c53-be1c-7c5f581804de/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/81fbc56b-8ec8-4c53-be1c-7c5f581804de/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/81fbc56b-8ec8-4c53-be1c-7c5f581804de/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +212,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/d222f513-c10d-4c01-b401-812254683347/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/d222f513-c10d-4c01-b401-812254683347/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/d222f513-c10d-4c01-b401-812254683347/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/d222f513-c10d-4c01-b401-812254683347/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/d222f513-c10d-4c01-b401-812254683347/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/d222f513-c10d-4c01-b401-812254683347/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +244,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/b8ec3e76-7658-4f08-999a-7219497de690/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/b8ec3e76-7658-4f08-999a-7219497de690/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/b8ec3e76-7658-4f08-999a-7219497de690/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/b8ec3e76-7658-4f08-999a-7219497de690/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/b8ec3e76-7658-4f08-999a-7219497de690/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/b8ec3e76-7658-4f08-999a-7219497de690/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,47 +276,78 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1ae93907b1ba.webp",
+      "media_type": "image/webp",
+      "bytes": 3116,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-36b487125a3a.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7bd532fc3493.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-717b619270b5.webp",
+      "media_type": "image/webp",
+      "bytes": 150410,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-78e3dd559c83.webp",
+      "media_type": "image/webp",
+      "bytes": 112024,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-430a4646541d.webp",
+      "media_type": "image/webp",
+      "bytes": 251766,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7f6f607745b9.webp",
+      "media_type": "image/webp",
+      "bytes": 244044,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/muntinlupa-philippines/Madrigal%20Ayala%20Alabang%20Village%20In%20Muntinlupa,%20Metro%20Manila,%20Philippines%20For%20Sale%20%2815363595%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4be296386f58.webp",
+      "media_type": "image/webp",
+      "bytes": 126558,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/03/17/17/39/10/e5f53273-a98a-4f67-8bee-a6ca7d8ccf91/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -218,9 +383,9 @@
     }
   ],
   "summary": {
-    "images_new": 13,
+    "images_new": 8,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

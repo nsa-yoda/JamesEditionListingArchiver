@@ -2,15 +2,15 @@
 
 - Source: https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6-bedrooms-single-family-detached-15575669
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:19Z
+- Retrieved: 2026-09-28T00:18:52Z
 - Address: 23 E Denison Drive, Saddle River, NJ 07458, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.027549,-74.078523
 - Coordinates: 41.03, -74.08
 - Site listing ID: 15575669
 - Listing reference: 26k6sk
 - First listed: May 2, 2025
-- Last updated: April 6
-- Images downloaded: 9
+- Last updated: June 16
+- Images downloaded: 15
 
 ## Property
 

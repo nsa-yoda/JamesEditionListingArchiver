@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/addison-vt-usa/single-family-home-house-addison-united-states-18061154
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:20Z
+- Retrieved: 2026-09-28T00:25:02Z
 - Address: 6954 Vermont Route 17 West, Addison, United States
 - Map: https://www.google.com/maps/search/?api=1&query=44.051636000001,-73.419454
 - Coordinates: 44.05, -73.42
@@ -10,7 +10,7 @@
 - Listing reference: PrimeMLS5091992
 - First listed: Jun 2
 - Last updated: June 18
-- Images downloaded: 51
+- Images downloaded: 55
 
 ## Property
 

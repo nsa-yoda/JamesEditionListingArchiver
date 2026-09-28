@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/bay-head-nj-usa/beachside-living-in-a-fully-renovated-and-unusually-expansive-dutch-colonial-12024633
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:07:49Z
+- Retrieved: 2026-09-28T00:20:14Z
 - Address: 409 East Avenue, Bay Head, NJ 08742, Point Pleasant Beach, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.0709017,-74.0424317
 - Coordinates: 40.07, -74.04
@@ -10,7 +10,7 @@
 - Listing reference: EV2WMG
 - First listed: Jun 10, 2022
 - Last updated: April 22
-- Images downloaded: 51
+- Images downloaded: 55
 
 ## Property
 

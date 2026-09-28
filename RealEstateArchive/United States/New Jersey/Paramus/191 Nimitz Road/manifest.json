@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:34.687291Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191-nimitz-road-paramus-nj-07652-18323188",
     "canonical_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191-nimitz-road-paramus-nj-07652-18323188",
@@ -9,13 +9,13 @@
     "listing_reference": "e3bbgh",
     "first_listed": "Jul 2",
     "last_updated": "July 7",
-    "retrieved_at": "2026-09-26T18:46:07.159636Z"
+    "retrieved_at": "2026-09-28T00:17:34.155453Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2681,
-      "sha256": "46f0ba18986f28f0c84cdb1a608b4be9666cbf07ab6729be1e57d69bb0e3ffa3"
+      "sha256": "6c85679efc16fdca01c6242979663925264de1f821d35e015ee251558e00e9d4"
     },
     {
       "path": "images/img-01c00c2ce7b7.webp",
@@ -188,6 +188,11 @@
       "sha256": "efab5c55ebf7ee798ca54e673ccc927de0901204efd74c60a99bc17f3a30ee3d"
     },
     {
+      "path": "images/img-9004f4b4ac60.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-90adbc18c7ba.webp",
       "bytes": 36840,
       "sha256": "ea6a8b6fa56f844170fa5b7e954fe6c6dece81ca343399cf448fbacda9cd26c0"
@@ -253,6 +258,11 @@
       "sha256": "c4489052dcef94445a2971917344c3856c9c573a9054101220bc6bc00b40e1a7"
     },
     {
+      "path": "images/img-d37de2bffe59.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-d8760316d9b5.webp",
       "bytes": 58560,
       "sha256": "ed38b0f64380e06a558a6cb5ccb0139009e5d56a1066fff0dce8072d7f84bc3d"
@@ -283,6 +293,11 @@
       "sha256": "8689a4eddc69eabec54426f0fe256d11c5b959aa4ac160c8013a27a163596c81"
     },
     {
+      "path": "images/img-f9a4483f3d18.webp",
+      "bytes": 4996,
+      "sha256": "d06554b596a8a98b68f65450ccf4b9879c106697866a51556157f23b7aa65278"
+    },
+    {
       "path": "images/img-faada0ee0973.webp",
       "bytes": 41538,
       "sha256": "1fc9278ec7406f636473b94b28d4da69fef5c68b4692887434fc060fa96475d0"
@@ -294,8 +309,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 32052,
-      "sha256": "02a937f6c5ea12b60e285d6fda7bf1200e217ac2c8b9a81a1506d82d30204627"
+      "bytes": 67437,
+      "sha256": "5f5329787d88c5cc1239354532f192ef6efe2d1cda66eb4e67d586aeb46c8233"
     },
     {
       "path": "source.html",
@@ -311,17 +326,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/2200xxs.jpg",
       "path": "images/img-bbd69a1b994f.webp",
       "media_type": "image/webp",
       "bytes": 148102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -329,13 +380,31 @@
       "path": "images/img-32516c28c2c9.webp",
       "media_type": "image/webp",
       "bytes": 193068,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -343,13 +412,31 @@
       "path": "images/img-f2d61ba37b04.webp",
       "media_type": "image/webp",
       "bytes": 49390,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -357,13 +444,31 @@
       "path": "images/img-73439ba5432b.webp",
       "media_type": "image/webp",
       "bytes": 36822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -371,31 +476,67 @@
       "path": "images/img-8b9b9b78cb03.webp",
       "media_type": "image/webp",
       "bytes": 32970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-f9a4483f3d18.webp",
+      "media_type": "image/webp",
+      "bytes": 4996,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/request_plan_bg-33cc1401.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-9004f4b4ac60.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/street_view-b1ba588c.jpg",
+      "path": "images/img-d37de2bffe59.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/c6791e51-d3d2-4972-9836-67c6cc6bf4f6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/2ad2560c-724e-4600-9c21-c3c092038355/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/a8ce3990-2bc7-4792-985b-e8ee44e1bb1b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/61425e90-61a1-4796-8e27-001f49f2ff0c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -403,7 +544,7 @@
       "path": "images/img-85456ee7033a.webp",
       "media_type": "image/webp",
       "bytes": 55734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -411,7 +552,7 @@
       "path": "images/img-50dd74843f41.webp",
       "media_type": "image/webp",
       "bytes": 55946,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -419,7 +560,7 @@
       "path": "images/img-e38d2f6a40cc.webp",
       "media_type": "image/webp",
       "bytes": 48676,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -427,7 +568,7 @@
       "path": "images/img-5394042462d8.webp",
       "media_type": "image/webp",
       "bytes": 64156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -435,7 +576,7 @@
       "path": "images/img-1f0bac8dfe19.webp",
       "media_type": "image/webp",
       "bytes": 55942,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -443,7 +584,7 @@
       "path": "images/img-259186866572.webp",
       "media_type": "image/webp",
       "bytes": 50252,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -451,7 +592,7 @@
       "path": "images/img-faada0ee0973.webp",
       "media_type": "image/webp",
       "bytes": 41538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -459,7 +600,7 @@
       "path": "images/img-d8760316d9b5.webp",
       "media_type": "image/webp",
       "bytes": 58560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -467,7 +608,7 @@
       "path": "images/img-2efbbe60cebd.webp",
       "media_type": "image/webp",
       "bytes": 39458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -475,7 +616,7 @@
       "path": "images/img-4d9d5babc230.webp",
       "media_type": "image/webp",
       "bytes": 49062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -483,7 +624,7 @@
       "path": "images/img-119a98c64a45.webp",
       "media_type": "image/webp",
       "bytes": 60044,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -491,7 +632,7 @@
       "path": "images/img-826d60e26a6b.webp",
       "media_type": "image/webp",
       "bytes": 29362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -499,7 +640,7 @@
       "path": "images/img-ea4b9b279632.webp",
       "media_type": "image/webp",
       "bytes": 83032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -507,7 +648,7 @@
       "path": "images/img-38f46769eb37.webp",
       "media_type": "image/webp",
       "bytes": 36872,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -515,7 +656,7 @@
       "path": "images/img-5857782187a7.webp",
       "media_type": "image/webp",
       "bytes": 62234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -523,7 +664,7 @@
       "path": "images/img-36da748d80ed.webp",
       "media_type": "image/webp",
       "bytes": 59518,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -531,7 +672,7 @@
       "path": "images/img-9470dfef9791.webp",
       "media_type": "image/webp",
       "bytes": 73134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -539,7 +680,7 @@
       "path": "images/img-85e6a336dfa0.webp",
       "media_type": "image/webp",
       "bytes": 68584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -547,7 +688,7 @@
       "path": "images/img-9ac6c4b448dc.webp",
       "media_type": "image/webp",
       "bytes": 33444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -555,7 +696,7 @@
       "path": "images/img-471b34ba47d2.webp",
       "media_type": "image/webp",
       "bytes": 55390,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -563,7 +704,7 @@
       "path": "images/img-5000cb8fd672.webp",
       "media_type": "image/webp",
       "bytes": 44472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -571,7 +712,7 @@
       "path": "images/img-af5991b802b8.webp",
       "media_type": "image/webp",
       "bytes": 52822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -579,7 +720,7 @@
       "path": "images/img-c5760aab2129.webp",
       "media_type": "image/webp",
       "bytes": 24906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -587,7 +728,7 @@
       "path": "images/img-291bd3630e22.webp",
       "media_type": "image/webp",
       "bytes": 52696,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -595,7 +736,7 @@
       "path": "images/img-83cd7e1b8365.webp",
       "media_type": "image/webp",
       "bytes": 77440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -603,7 +744,7 @@
       "path": "images/img-73cbe11e3a15.webp",
       "media_type": "image/webp",
       "bytes": 63380,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -611,7 +752,7 @@
       "path": "images/img-c1ab040a9cd3.webp",
       "media_type": "image/webp",
       "bytes": 105418,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -619,7 +760,7 @@
       "path": "images/img-ca83a5fc20c3.webp",
       "media_type": "image/webp",
       "bytes": 87788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +768,7 @@
       "path": "images/img-3a0c5b898ce2.webp",
       "media_type": "image/webp",
       "bytes": 98590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +776,7 @@
       "path": "images/img-6f158e6997e9.webp",
       "media_type": "image/webp",
       "bytes": 139832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +784,7 @@
       "path": "images/img-65a28db26c05.webp",
       "media_type": "image/webp",
       "bytes": 56322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +792,7 @@
       "path": "images/img-90adbc18c7ba.webp",
       "media_type": "image/webp",
       "bytes": 36840,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +800,7 @@
       "path": "images/img-fda17e42a5e9.webp",
       "media_type": "image/webp",
       "bytes": 25006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +808,7 @@
       "path": "images/img-9d45f19a507b.webp",
       "media_type": "image/webp",
       "bytes": 20444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +816,7 @@
       "path": "images/img-246b0dfdb5a8.webp",
       "media_type": "image/webp",
       "bytes": 73378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +824,7 @@
       "path": "images/img-c2e4e5549f74.webp",
       "media_type": "image/webp",
       "bytes": 29004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +832,7 @@
       "path": "images/img-01c00c2ce7b7.webp",
       "media_type": "image/webp",
       "bytes": 28490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +840,7 @@
       "path": "images/img-1f91bfb7bf68.webp",
       "media_type": "image/webp",
       "bytes": 56410,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +848,7 @@
       "path": "images/img-96548506569b.webp",
       "media_type": "image/webp",
       "bytes": 141004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +856,7 @@
       "path": "images/img-c2f09c8f0b63.webp",
       "media_type": "image/webp",
       "bytes": 149794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +864,7 @@
       "path": "images/img-0d2d87e14377.webp",
       "media_type": "image/webp",
       "bytes": 139770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +872,7 @@
       "path": "images/img-6ffb5e61eec5.webp",
       "media_type": "image/webp",
       "bytes": 116698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +880,7 @@
       "path": "images/img-522eaac9e45e.webp",
       "media_type": "image/webp",
       "bytes": 212560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,7 +888,7 @@
       "path": "images/img-476d03cb200e.webp",
       "media_type": "image/webp",
       "bytes": 28112,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -755,25 +896,13 @@
       "path": "images/img-e304d3f1f639.webp",
       "media_type": "image/webp",
       "bytes": 43360,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/2200xxs%2846%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/2200xxs%2847%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/paramus-nj-usa/191%20Nimitz%20Road,%20Paramus,%20Nj,%2007652%20In%20Paramus,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818323188%29_files/2200xxs%2848%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/34d73ba8-6f4e-409f-81c8-a2e2b8dac572/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -781,7 +910,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -789,7 +918,7 @@
       "path": "images/img-dc90c501bd51.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -797,7 +926,7 @@
       "path": "images/img-194c24efc5ac.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -805,7 +934,7 @@
       "path": "images/img-08ae040ecb3d.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -813,13 +942,13 @@
       "path": "images/img-b6b50cce0edf.webp",
       "media_type": "image/webp",
       "bytes": 29500,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 55,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 55,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

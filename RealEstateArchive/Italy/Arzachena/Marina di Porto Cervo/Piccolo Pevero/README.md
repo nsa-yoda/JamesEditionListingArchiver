@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/porto-cervo-italy/waterfront-villa-serenity-in-porto-cervo-16295932
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:32:15Z
+- Retrieved: 2026-09-28T00:26:43Z
 - Address: Piccolo Pevero, Porto Cervo, 07021, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=41.1315336,9.535745
 - Coordinates: 41.13, 9.54
@@ -10,7 +10,7 @@
 - Listing reference: 06607
 - First listed: Oct 2, 2025
 - Last updated: November 8, 2025
-- Images downloaded: 33
+- Images downloaded: 38
 
 ## Property
 

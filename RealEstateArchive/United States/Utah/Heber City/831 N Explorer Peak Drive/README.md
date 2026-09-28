@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/heber-city-ut-usa/single-family-home-house-heber-city-united-states-17983025
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:27Z
+- Retrieved: 2026-09-28T00:25:03Z
 - Address: 831 N Explorer Peak Drive, Heber City, Utah, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.517926,-111.375196
 - Coordinates: 40.52, -111.38
@@ -10,7 +10,7 @@
 - Listing reference: ParkCity12602132
 - First listed: May 22
 - Last updated: June 18
-- Images downloaded: 128
+- Images downloaded: 131
 
 ## Property
 

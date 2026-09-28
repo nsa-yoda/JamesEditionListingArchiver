@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824-n-124th-st-17564409
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:16Z
+- Retrieved: 2026-09-28T00:18:02Z
 - Address: 24824 N 124th St, AZ, Scottsdale, Arizona, United States
 - Map: https://www.google.com/maps/search/?api=1&query=33.710495,-111.8162368
 - Coordinates: 33.71, -111.82
@@ -10,7 +10,7 @@
 - Listing reference: 213518741.0
 - First listed: Apr 4
 - Last updated: Yesterday
-- Images downloaded: 10
+- Images downloaded: 22
 - Videos downloaded: 0
 
 ## Property

@@ -86,16 +86,15 @@ func NormalizeAndDedupe(baseURL string, values []string) []string {
 func DetectImage(contentType string, header []byte, rawURL string) (mediaType, extension string, ok bool) {
 	detected := http.DetectContentType(header)
 	declared, _, _ := mime.ParseMediaType(contentType)
-	mediaType = detected
-	if strings.HasPrefix(declared, "image/") && (strings.HasPrefix(detected, "image/") || declared == "image/svg+xml") {
-		mediaType = declared
-	}
 	extensions := map[string]string{
 		"image/jpeg": ".jpg", "image/png": ".png", "image/gif": ".gif",
 		"image/webp": ".webp", "image/avif": ".avif", "image/svg+xml": ".svg",
 	}
-	if ext := extensions[mediaType]; ext != "" {
-		return mediaType, ext, true
+	if ext := extensions[detected]; ext != "" {
+		return detected, ext, true
+	}
+	if declared == "image/svg+xml" {
+		return declared, extensions[declared], true
 	}
 	if bytes.HasPrefix(header, []byte("\x00\x00\x00")) && bytes.Contains(header[:min(len(header), 32)], []byte("avif")) {
 		return "image/avif", ".avif", true
@@ -106,7 +105,7 @@ func DetectImage(contentType string, header []byte, rawURL string) (mediaType, e
 			return declared, ext, true
 		}
 	}
-	return mediaType, "", false
+	return detected, "", false
 }
 
 func DetectVideo(contentType string, header []byte, rawURL string) (mediaType, extension string, ok bool) {

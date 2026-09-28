@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:29:35.129616Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602",
     "canonical_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602",
@@ -9,13 +9,13 @@
     "listing_reference": "RMS295",
     "first_listed": "Jun 10",
     "last_updated": "June 10",
-    "retrieved_at": "2026-06-21T09:21:16.588469Z"
+    "retrieved_at": "2026-09-28T00:29:34.648958Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2378,
-      "sha256": "aefbdcd396506d8456bf07044a9f18db95495e85d844aa4ef4640b8f795698f8"
+      "bytes": 2379,
+      "sha256": "65a5c8f8d63c1803806e6c4d78286bc41dc553a60f45bfd362be31bda7ec32f9"
     },
     {
       "path": "images/img-174751c43a1b.webp",
@@ -26,6 +26,11 @@
       "path": "images/img-272e34fedba6.svg",
       "bytes": 63675,
       "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
+    },
+    {
+      "path": "images/img-39c03549e1cb.webp",
+      "bytes": 5864,
+      "sha256": "fe869ffb7afa46ba6e12fbbaa5ae229966f5c796919a12ea02220c0b3eafa04e"
     },
     {
       "path": "images/img-4055dfde7ac7.svg",
@@ -63,9 +68,19 @@
       "sha256": "e4e558fdfbbafa2ccaa347dc4677ef107b2d4bd7d608a241347ff675d8fc23e7"
     },
     {
+      "path": "images/img-d4ff6c8dfe4a.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-dfda55d57b2f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 16207,
-      "sha256": "6f7c4deb2d1dbb3299fcab28cdab7865a1c1b72e584e92335661ccad976cc444"
+      "bytes": 54007,
+      "sha256": "b93750292339f368ee724bb449008f67af595b2d62c83fd2cde786431fce9cc0"
     },
     {
       "path": "source.html",
@@ -76,22 +91,72 @@
       "path": "source.url",
       "bytes": 102,
       "sha256": "d56d346c397928310ae81afd34d09f983ca0dcb87c7b56d94a8554c102f081b8"
+    },
+    {
+      "path": "videos/vid-7a2992e85d34.mp4",
+      "bytes": 88507541,
+      "sha256": "505cb003518fab9b8155a7c92aff2961630259a9e168069fc4264f1fc6b2b857"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6398781933112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-7a2992e85d34.mp4",
+      "media_type": "video/mp4",
+      "bytes": 88507541,
+      "status": "existing",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/1040x620xc.jpg"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/2200xxs.jpg",
       "path": "images/img-ad88a162ea0b.webp",
       "media_type": "image/webp",
       "bytes": 1036164,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/ab2f37d9-8083-4bf2-9380-8a1ffa2f7aab/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/ab2f37d9-8083-4bf2-9380-8a1ffa2f7aab/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/ab2f37d9-8083-4bf2-9380-8a1ffa2f7aab/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/ab2f37d9-8083-4bf2-9380-8a1ffa2f7aab/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/ab2f37d9-8083-4bf2-9380-8a1ffa2f7aab/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/ab2f37d9-8083-4bf2-9380-8a1ffa2f7aab/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -99,13 +164,31 @@
       "path": "images/img-92caf6e934d4.webp",
       "media_type": "image/webp",
       "bytes": 917948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/0269def3-4646-4d8b-b7c2-71e6fe9b9775/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/0269def3-4646-4d8b-b7c2-71e6fe9b9775/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/0269def3-4646-4d8b-b7c2-71e6fe9b9775/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/0269def3-4646-4d8b-b7c2-71e6fe9b9775/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/0269def3-4646-4d8b-b7c2-71e6fe9b9775/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/0269def3-4646-4d8b-b7c2-71e6fe9b9775/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -113,13 +196,31 @@
       "path": "images/img-625d5dc5fa01.webp",
       "media_type": "image/webp",
       "bytes": 1221452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/01aaf48f-b4b8-453b-8236-073f31409e77/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/01aaf48f-b4b8-453b-8236-073f31409e77/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/01aaf48f-b4b8-453b-8236-073f31409e77/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/01aaf48f-b4b8-453b-8236-073f31409e77/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/01aaf48f-b4b8-453b-8236-073f31409e77/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/01aaf48f-b4b8-453b-8236-073f31409e77/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -127,13 +228,31 @@
       "path": "images/img-d18f4ba0a623.webp",
       "media_type": "image/webp",
       "bytes": 644856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/8ba181f9-487a-43db-a990-86828ab57e89/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/8ba181f9-487a-43db-a990-86828ab57e89/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/8ba181f9-487a-43db-a990-86828ab57e89/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/8ba181f9-487a-43db-a990-86828ab57e89/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/8ba181f9-487a-43db-a990-86828ab57e89/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/8ba181f9-487a-43db-a990-86828ab57e89/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -141,31 +260,43 @@
       "path": "images/img-174751c43a1b.webp",
       "media_type": "image/webp",
       "bytes": 800628,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-39c03549e1cb.webp",
+      "media_type": "image/webp",
+      "bytes": 5864,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d4ff6c8dfe4a.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10%20Andrea%20Drive,%20Hopkinton,%20Ma,%20In%20Hopkinton,%20Massachusetts,%20United%20States%20For%20Sale%20%2818129602%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-dfda55d57b2f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/10/15/02/26/7675e0cd-3684-41f2-aed5-388afe5e1b6e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -173,7 +304,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -181,7 +312,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -189,7 +320,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -197,15 +328,15 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 9,
-    "images_existing": 0,
-    "images_failed": 8,
+    "images_new": 3,
+    "images_existing": 9,
+    "images_failed": 21,
     "videos_new": 0,
-    "videos_existing": 0,
+    "videos_existing": 1,
     "videos_failed": 0
   }
 }

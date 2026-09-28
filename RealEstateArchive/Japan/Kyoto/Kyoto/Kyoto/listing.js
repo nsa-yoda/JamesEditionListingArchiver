@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "RWD8JR",
     "first_listed": "May 9, 2025",
     "last_updated": "November 27, 2025",
-    "retrieved_at": "2026-06-16T03:43:37.88088Z"
+    "retrieved_at": "2026-09-28T00:25:36.188856Z"
   },
   "location": {
     "address": "Kyoto, 26 607-8403, Japan",
@@ -58,6 +58,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/2200xxs.jpg",
       "file": "004-3e76e02c.webp",
       "media_type": "image/webp",
@@ -66,7 +81,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/2200xxs.jpg",
@@ -77,7 +108,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/2200xxs.jpg",
@@ -88,7 +135,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/2200xxs.jpg",
@@ -99,7 +162,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/2200xxs.jpg",
@@ -110,39 +189,41 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-564cc7f19f08.webp",
+      "media_type": "image/webp",
+      "bytes": 5994,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/380xxsxm.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-5d820e063110.webp",
+      "media_type": "image/webp",
+      "bytes": 9776,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-35f145a00ac2.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-407b34e38c76.webp",
+      "media_type": "image/webp",
+      "bytes": 100160,
+      "status": "new"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -326,6 +407,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/812c5027-b2ee-479c-b3ab-a6b699a04293/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/d92dd739-7431-47b7-8372-2e27a863205b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/4fbbaa8c-c3ee-4d31-9c34-17342c3bbdcc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/f3d37d8c-553d-4cf3-94ef-54b71ec1a732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/kyoto-japan/Suiran%20Residence%20In%20Kyoto,%20Kyoto,%20Japan%20For%20Sale%20%2815604801%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/05/08/15/09/46/57b3e85a-c51b-44d2-a883-adc89acba429/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

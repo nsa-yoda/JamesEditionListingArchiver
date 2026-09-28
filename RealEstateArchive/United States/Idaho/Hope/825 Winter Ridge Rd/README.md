@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/hope-id-usa/single-family-residence-in-hope-18184196
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:41:44Z
+- Retrieved: 2026-09-28T00:25:10Z
 - Address: 825 Winter Ridge Rd, Hope, Idaho, United States
 - Map: https://www.google.com/maps/search/?api=1&query=48.260498,-116.322123
 - Coordinates: 48.26, -116.32
@@ -10,7 +10,7 @@
 - Listing reference: 26-6168
 - First listed: Jun 16
 - Last updated: June 16
-- Images downloaded: 97
+- Images downloaded: 104
 
 ## Property
 

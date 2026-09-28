@@ -12,12 +12,12 @@ window.listingArchiveIndex = {
     {
       "name": "listing.json",
       "href": "listing.json",
-      "size": 33003
+      "size": 69326
     },
     {
       "name": "manifest.json",
       "href": "manifest.json",
-      "size": 26052
+      "size": 36910
     },
     {
       "name": "README.md",
@@ -35,5 +35,5 @@ window.listingArchiveIndex = {
       "size": 117
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:20:44.737068Z"
 };

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:27.452888Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15-meadowood-lane-17546891",
     "canonical_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15-meadowood-lane-17546891",
@@ -9,13 +9,13 @@
     "listing_reference": "225245",
     "first_listed": "Apr 2",
     "last_updated": "April 25",
-    "retrieved_at": "2026-06-18T07:05:31.29335Z"
+    "retrieved_at": "2026-09-28T00:17:26.912115Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3439,
-      "sha256": "47da68a102ba52d792dda8013082dc182436b1ade5fb574cf49c5bafe85ff6ff"
+      "sha256": "348245ecedb785e11e2fdd00875d9a7c12eb1a8ee004ff0e069e271590a23cd3"
     },
     {
       "path": "images/004-43e8aa8d.webp",
@@ -218,9 +218,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-19e390aff914.webp",
+      "bytes": 4344,
+      "sha256": "6f2e9eab7e6ed5d32a925e87a0db32c8764d0b33fa7ec5197eea1f3a2530acbf"
+    },
+    {
+      "path": "images/img-53b6540f480a.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-a0acd069b30f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 27087,
-      "sha256": "dc45b038a64dc002baa7490907841126326565e3f273fd0826162201660bb529"
+      "bytes": 62038,
+      "sha256": "6257cbef70d0a32e173505dd8e6ebf536cde5e7a61ba1beb31464987d32a440d"
     },
     {
       "path": "source.html",
@@ -236,6 +251,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/2200xxs.jpg",
       "path": "images/004-43e8aa8d.webp",
       "media_type": "image/webp",
@@ -245,7 +278,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -258,7 +310,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -271,7 +342,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -284,7 +374,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -297,22 +406,62 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-19e390aff914.webp",
+      "media_type": "image/webp",
+      "bytes": 4344,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-53b6540f480a.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a0acd069b30f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/b945d610-84d7-43bb-bf7d-537af7a3e0a0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/f2e14ce6-1702-461d-b48c-cf69a450505b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/24099369-e531-48bc-9656-1b6874d6a338/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/242afbaa-a2ec-4127-a70a-3b0e1777e60c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -564,13 +713,9 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/2200xxs%2835%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/chenango-ny-usa/15%20Meadowood%20Lane%20In%20Binghamton,%20New%20York,%20United%20States%20For%20Sale%20%2817546891%29_files/2200xxs%2834%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/02/08/16/21/690a0209-659c-4154-882e-8fa62a9ff3b7/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -606,9 +751,9 @@
     }
   ],
   "summary": {
-    "images_new": 10,
+    "images_new": 3,
     "images_existing": 40,
-    "images_failed": 0,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

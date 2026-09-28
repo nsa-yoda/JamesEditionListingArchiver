@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:04.900485Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/single-family-home-house-park-city-united-states-16207035",
     "canonical_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/single-family-home-house-park-city-united-states-16207035",
@@ -9,13 +9,13 @@
     "listing_reference": "ParkCity12504165",
     "first_listed": "Sep 19, 2025",
     "last_updated": "May 1",
-    "retrieved_at": "2026-06-16T03:43:36.065085Z"
+    "retrieved_at": "2026-09-28T00:25:04.544126Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2408,
-      "sha256": "494096b203668a81428f3a833dd82f8251ddc3869619912e40b8a7faefd75dc6"
+      "sha256": "56407e68d6a62b8f348c54723c20d21973490d7f596c435e1822825f998b067c"
     },
     {
       "path": "images/004-f89e8f2d.webp",
@@ -68,9 +68,24 @@
       "sha256": "1f1d1677f4dc11e2c7c9d429658083201a3aaf32747fa56b6bbb7bcc206c7f00"
     },
     {
+      "path": "images/img-016bab37a2b9.webp",
+      "bytes": 5410,
+      "sha256": "a5dde78724c831d01dc01bb4822ed811bd1eeab6c68b4bc18f59dc370c262bda"
+    },
+    {
+      "path": "images/img-37f06cda4aad.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-f591cde6c931.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 16517,
-      "sha256": "b5e4ff88b5ffc00ca26b662818b5758fc72c43db05acfac71703238d75e490f1"
+      "bytes": 46428,
+      "sha256": "e52b410b4acd9c9a7aa132f1365b42dbec459ded4d489b9ed9421c6e152e2882"
     },
     {
       "path": "source.html",
@@ -86,6 +101,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/2200xxs.jpg",
       "path": "images/004-f89e8f2d.webp",
       "media_type": "image/webp",
@@ -95,7 +128,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/b784ecb7-357e-4bf0-8494-31bcf85d5772/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/b784ecb7-357e-4bf0-8494-31bcf85d5772/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/b784ecb7-357e-4bf0-8494-31bcf85d5772/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/b784ecb7-357e-4bf0-8494-31bcf85d5772/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/b784ecb7-357e-4bf0-8494-31bcf85d5772/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/b784ecb7-357e-4bf0-8494-31bcf85d5772/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -108,7 +160,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/29bcba62-a452-4b31-8d65-47864d2273eb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/29bcba62-a452-4b31-8d65-47864d2273eb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/29bcba62-a452-4b31-8d65-47864d2273eb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/29bcba62-a452-4b31-8d65-47864d2273eb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/29bcba62-a452-4b31-8d65-47864d2273eb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/29bcba62-a452-4b31-8d65-47864d2273eb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -121,7 +192,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/9b8a6687-309e-4d56-be48-8a37fe7bf59a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/9b8a6687-309e-4d56-be48-8a37fe7bf59a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/9b8a6687-309e-4d56-be48-8a37fe7bf59a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/9b8a6687-309e-4d56-be48-8a37fe7bf59a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/9b8a6687-309e-4d56-be48-8a37fe7bf59a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/9b8a6687-309e-4d56-be48-8a37fe7bf59a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -134,7 +224,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/103dbecd-d420-4583-8868-67344c869308/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/103dbecd-d420-4583-8868-67344c869308/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/103dbecd-d420-4583-8868-67344c869308/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/103dbecd-d420-4583-8868-67344c869308/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/103dbecd-d420-4583-8868-67344c869308/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/103dbecd-d420-4583-8868-67344c869308/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -147,22 +256,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-016bab37a2b9.webp",
+      "media_type": "image/webp",
+      "bytes": 5410,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f591cde6c931.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Single%20Family%20Home_House%20Park%20City%20United%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816207035%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-37f06cda4aad.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/18/12/54/04/e2cab72b-3534-456e-8654-53546aad3c4a/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -206,9 +331,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

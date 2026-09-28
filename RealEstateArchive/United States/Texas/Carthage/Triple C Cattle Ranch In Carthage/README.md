@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/carthage-tx-usa/triple-c-cattle-ranch-in-carthage-texas-for-sale-17062617
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:40Z
+- Retrieved: 2026-09-28T00:26:22Z
 - Address: 688 Co Rd 108, Carthage, TX 75633, Texas, United States
 - Map: https://www.google.com/maps/search/?api=1&query=32.109665,-94.3990772
 - Coordinates: 32.11, -94.4
 - Site listing ID: 17062617
 - Listing reference: 42139-202521
 - First listed: Feb 2
-- Images downloaded: 9
+- Images downloaded: 12
 - Videos downloaded: 0
 
 ## Property

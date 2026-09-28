@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:44.329469Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/saddle-rock-18200757",
     "canonical_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/saddle-rock-18200757",
@@ -9,13 +9,13 @@
     "listing_reference": "2SKPZR",
     "first_listed": "Jun 17",
     "last_updated": "June 17",
-    "retrieved_at": "2026-06-19T08:34:13.224876Z"
+    "retrieved_at": "2026-09-28T00:24:36.972244Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3784,
-      "sha256": "c9097ecb04455f84f9843a1653962aa1abd1d8fc81f24a56b7c10594800a6f63"
+      "sha256": "d2e4ea215a03a96342848bbd4decdea37199fbd2e999518dbeee589eea6494ac"
     },
     {
       "path": "images/img-02dc686efafc.webp",
@@ -123,9 +123,19 @@
       "sha256": "aaeb18aa5998068497098c261b4ac35e73e721a663e5e08ad934deff5d3f319f"
     },
     {
+      "path": "images/img-4521759e0353.webp",
+      "bytes": 321468,
+      "sha256": "fdebdb58bc692ae3b67482b94e58a56f976f6afe3aeaac8b7abf3e6c155c3af4"
+    },
+    {
       "path": "images/img-530e0a6f94d3.webp",
       "bytes": 338558,
       "sha256": "704ea285b95a51488b51bfd7859386bc8696d5ea131c782cbbc03e4b1fb63128"
+    },
+    {
+      "path": "images/img-56e8560c7f2c.webp",
+      "bytes": 2406,
+      "sha256": "cffff1573260b532dba0a17f570aca17be4e881d768bc123ec82649c52851662"
     },
     {
       "path": "images/img-57242b8ef18d.webp",
@@ -218,6 +228,11 @@
       "sha256": "fea8331529a681db64eadb32de5aec6e84864fb316aaab3c8c62ba8b5188f254"
     },
     {
+      "path": "images/img-bb618ae91105.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-c20cee1b4f5b.webp",
       "bytes": 683916,
       "sha256": "a5565dcf2f702d4f1e3450b030fca55be9415b4d684883cfedf398fc0cc0c444"
@@ -258,6 +273,11 @@
       "sha256": "d60b8284536e7bc147eb536414054f28fe665779d6662a8e15599f4816aa5ac7"
     },
     {
+      "path": "images/img-e1978f8bcaf6.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-e308a27bbf6b.webp",
       "bytes": 350126,
       "sha256": "023a497711cc0f9c8b766dfa2c77343671eea25c4adf72bb3831f881492dae0b"
@@ -294,8 +314,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 31234,
-      "sha256": "9a9f92eb8376cb264fd6def363b041d32c3785fa657eeebc0913762473a8be64"
+      "bytes": 58290,
+      "sha256": "a0941c2cf118033dacccc3cd3d678c4ab92f4b5e9654f5b241a6cda3e0119dee"
     },
     {
       "path": "source.html",
@@ -306,22 +326,72 @@
       "path": "source.url",
       "bytes": 78,
       "sha256": "217475fa9e2eac59eeb634ee3cd651ea1f40207081942ec8fbf990d146e72ab8"
+    },
+    {
+      "path": "videos/img-18eccdd02fe9.webp",
+      "bytes": 78046,
+      "sha256": "312ee9f7e1e453daa8b44174f4fdeec7fbea483bf7bfd9cbaecfad7b93941983"
+    },
+    {
+      "path": "videos/vid-761aaeab1ce6.mp4",
+      "bytes": 45757987,
+      "sha256": "eb1d7389bb9f2a151cf6134b05cc53734d9ecc95f0de73b8b73da2b32521b503"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5782886755001/rJlOfaQNgQ_default/index.html?videoId=ref:sir_listings_901a5296-03b3-41a9-8342-b9ec2c54f33a\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-761aaeab1ce6.mp4",
+      "media_type": "video/mp4",
+      "bytes": 45757987,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/1040x620xc.jpg",
+      "poster_path": "videos/img-18eccdd02fe9.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/2200xxs.jpg",
       "path": "images/img-7001d0278fc0.webp",
       "media_type": "image/webp",
       "bytes": 385538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/206c1036-aecd-40fc-8ea0-612ebfad4779/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/206c1036-aecd-40fc-8ea0-612ebfad4779/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/206c1036-aecd-40fc-8ea0-612ebfad4779/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/206c1036-aecd-40fc-8ea0-612ebfad4779/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/206c1036-aecd-40fc-8ea0-612ebfad4779/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/206c1036-aecd-40fc-8ea0-612ebfad4779/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -329,13 +399,25 @@
       "path": "images/img-70fab45b6335.webp",
       "media_type": "image/webp",
       "bytes": 512510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/4a50a2cb-713f-450e-b81a-586acfde5979/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/4a50a2cb-713f-450e-b81a-586acfde5979/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/4a50a2cb-713f-450e-b81a-586acfde5979/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/4a50a2cb-713f-450e-b81a-586acfde5979/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/4a50a2cb-713f-450e-b81a-586acfde5979/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/4a50a2cb-713f-450e-b81a-586acfde5979/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -343,13 +425,25 @@
       "path": "images/img-8298bd1f02e4.webp",
       "media_type": "image/webp",
       "bytes": 625836,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/af934413-5a35-412f-9a61-ae5124185eab/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/af934413-5a35-412f-9a61-ae5124185eab/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/af934413-5a35-412f-9a61-ae5124185eab/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/af934413-5a35-412f-9a61-ae5124185eab/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/af934413-5a35-412f-9a61-ae5124185eab/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/af934413-5a35-412f-9a61-ae5124185eab/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -357,13 +451,25 @@
       "path": "images/img-eb83d46852a6.webp",
       "media_type": "image/webp",
       "bytes": 359508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/0be7fbf6-d3b7-49a5-adbf-d0455c818e2c/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/0be7fbf6-d3b7-49a5-adbf-d0455c818e2c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/0be7fbf6-d3b7-49a5-adbf-d0455c818e2c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/0be7fbf6-d3b7-49a5-adbf-d0455c818e2c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/0be7fbf6-d3b7-49a5-adbf-d0455c818e2c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/0be7fbf6-d3b7-49a5-adbf-d0455c818e2c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -371,31 +477,61 @@
       "path": "images/img-2ab6aec390bc.webp",
       "media_type": "image/webp",
       "bytes": 770352,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-56e8560c7f2c.webp",
+      "media_type": "image/webp",
+      "bytes": 2406,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-bb618ae91105.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-e1978f8bcaf6.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/206c1036-aecd-40fc-8ea0-612ebfad4779/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/206c1036-aecd-40fc-8ea0-612ebfad4779/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/4a50a2cb-713f-450e-b81a-586acfde5979/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/4a50a2cb-713f-450e-b81a-586acfde5979/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/af934413-5a35-412f-9a61-ae5124185eab/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/af934413-5a35-412f-9a61-ae5124185eab/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/0be7fbf6-d3b7-49a5-adbf-d0455c818e2c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/0be7fbf6-d3b7-49a5-adbf-d0455c818e2c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -403,7 +539,7 @@
       "path": "images/img-5a63b0b86106.webp",
       "media_type": "image/webp",
       "bytes": 187076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -411,7 +547,7 @@
       "path": "images/img-33124a9a226f.webp",
       "media_type": "image/webp",
       "bytes": 291424,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -419,7 +555,7 @@
       "path": "images/img-c9c1b21eaf27.webp",
       "media_type": "image/webp",
       "bytes": 280674,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -427,7 +563,7 @@
       "path": "images/img-442fc71a1e7c.webp",
       "media_type": "image/webp",
       "bytes": 271750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -435,7 +571,7 @@
       "path": "images/img-02dc686efafc.webp",
       "media_type": "image/webp",
       "bytes": 212030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -443,7 +579,7 @@
       "path": "images/img-802bafb12a26.webp",
       "media_type": "image/webp",
       "bytes": 143128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -451,7 +587,7 @@
       "path": "images/img-934a9c7f394e.webp",
       "media_type": "image/webp",
       "bytes": 160156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -459,7 +595,7 @@
       "path": "images/img-e041bd373612.webp",
       "media_type": "image/webp",
       "bytes": 161404,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -467,7 +603,7 @@
       "path": "images/img-189ccdbf335c.webp",
       "media_type": "image/webp",
       "bytes": 128936,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -475,7 +611,7 @@
       "path": "images/img-fe0991c71875.webp",
       "media_type": "image/webp",
       "bytes": 144652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -483,7 +619,7 @@
       "path": "images/img-36ff84cb524b.webp",
       "media_type": "image/webp",
       "bytes": 208586,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -491,7 +627,7 @@
       "path": "images/img-5efa76a2f10e.webp",
       "media_type": "image/webp",
       "bytes": 149364,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -499,7 +635,7 @@
       "path": "images/img-9880fb3f7530.webp",
       "media_type": "image/webp",
       "bytes": 291784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -507,7 +643,7 @@
       "path": "images/img-943777b5912a.webp",
       "media_type": "image/webp",
       "bytes": 228708,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -515,7 +651,7 @@
       "path": "images/img-a6f4f7673821.webp",
       "media_type": "image/webp",
       "bytes": 167166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -523,7 +659,7 @@
       "path": "images/img-8812a8574011.webp",
       "media_type": "image/webp",
       "bytes": 77882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -531,7 +667,7 @@
       "path": "images/img-59987abeb774.webp",
       "media_type": "image/webp",
       "bytes": 452520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -539,7 +675,7 @@
       "path": "images/img-82f9fa40e557.webp",
       "media_type": "image/webp",
       "bytes": 328642,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -547,7 +683,7 @@
       "path": "images/img-03252ee0d6ef.webp",
       "media_type": "image/webp",
       "bytes": 202290,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -555,7 +691,7 @@
       "path": "images/img-404b1f06d8ae.webp",
       "media_type": "image/webp",
       "bytes": 95384,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -563,7 +699,7 @@
       "path": "images/img-28ffb9f41bad.webp",
       "media_type": "image/webp",
       "bytes": 106026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -571,7 +707,7 @@
       "path": "images/img-12b4bb29d992.webp",
       "media_type": "image/webp",
       "bytes": 128900,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -579,7 +715,7 @@
       "path": "images/img-e9a0ffe40e6a.webp",
       "media_type": "image/webp",
       "bytes": 136386,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -587,7 +723,7 @@
       "path": "images/img-c864f2507c40.webp",
       "media_type": "image/webp",
       "bytes": 234586,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -595,7 +731,7 @@
       "path": "images/img-36d4503f4823.webp",
       "media_type": "image/webp",
       "bytes": 141902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -603,7 +739,7 @@
       "path": "images/img-0ca46777272f.webp",
       "media_type": "image/webp",
       "bytes": 231738,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -611,7 +747,7 @@
       "path": "images/img-2fecaa043712.webp",
       "media_type": "image/webp",
       "bytes": 123856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -619,7 +755,7 @@
       "path": "images/img-c20cee1b4f5b.webp",
       "media_type": "image/webp",
       "bytes": 683916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +763,7 @@
       "path": "images/img-f432ef3c0511.webp",
       "media_type": "image/webp",
       "bytes": 193170,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +771,7 @@
       "path": "images/img-7c25a68effa3.webp",
       "media_type": "image/webp",
       "bytes": 285582,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +779,7 @@
       "path": "images/img-9452dd1cfe78.webp",
       "media_type": "image/webp",
       "bytes": 292474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +787,7 @@
       "path": "images/img-1bf85420a7e0.webp",
       "media_type": "image/webp",
       "bytes": 256678,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +795,7 @@
       "path": "images/img-f7410f3b3a6e.webp",
       "media_type": "image/webp",
       "bytes": 141194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +803,7 @@
       "path": "images/img-35f3196f4ebf.webp",
       "media_type": "image/webp",
       "bytes": 286508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +811,7 @@
       "path": "images/img-530e0a6f94d3.webp",
       "media_type": "image/webp",
       "bytes": 338558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +819,7 @@
       "path": "images/img-f7ed332093e6.webp",
       "media_type": "image/webp",
       "bytes": 388992,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +827,7 @@
       "path": "images/img-da9cacf6d2d5.webp",
       "media_type": "image/webp",
       "bytes": 443852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +835,7 @@
       "path": "images/img-0b4bf09428cc.webp",
       "media_type": "image/webp",
       "bytes": 330950,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +843,7 @@
       "path": "images/img-69ca7db83026.webp",
       "media_type": "image/webp",
       "bytes": 439552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +851,7 @@
       "path": "images/img-725be922bc38.webp",
       "media_type": "image/webp",
       "bytes": 245924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +859,7 @@
       "path": "images/img-df75ae6b1d60.webp",
       "media_type": "image/webp",
       "bytes": 224706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +867,7 @@
       "path": "images/img-06b2452ff3ae.webp",
       "media_type": "image/webp",
       "bytes": 385276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +875,7 @@
       "path": "images/img-e308a27bbf6b.webp",
       "media_type": "image/webp",
       "bytes": 350126,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,7 +883,7 @@
       "path": "images/img-41dec6877619.webp",
       "media_type": "image/webp",
       "bytes": 283156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -755,13 +891,21 @@
       "path": "images/img-1d95f8b679fd.webp",
       "media_type": "image/webp",
       "bytes": 268294,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stamford-ct-usa/Saddle%20Rock%20In%20Stamford,%20Connecticut,%20United%20States%20For%20Sale%20%2818200757%29_files/2200xxsxm%2849%29.jpg",
+      "path": "images/img-4521759e0353.webp",
+      "media_type": "image/webp",
+      "bytes": 321468,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/17/16/37/53/16ae7702-4986-4b64-b409-3237fe9c3f45/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -769,7 +913,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -777,7 +921,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -785,7 +929,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -793,7 +937,7 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -801,14 +945,14 @@
       "path": "images/img-dd94e60cc610.webp",
       "media_type": "image/webp",
       "bytes": 1122,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 55,
-    "images_existing": 0,
-    "images_failed": 9,
-    "videos_new": 0,
+    "images_new": 4,
+    "images_existing": 55,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

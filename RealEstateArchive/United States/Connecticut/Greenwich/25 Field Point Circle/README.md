@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/greenwich-ct-usa/field-point-circle-17442077
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:18:46Z
+- Retrieved: 2026-09-28T00:21:15Z
 - Address: 25 Field Point Circle, Greenwich, CT 06830, Connecticut, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.0062685,-73.6290534
 - Coordinates: 41.01, -73.63
@@ -10,8 +10,8 @@
 - Listing reference: VNXK72
 - First listed: Mar 19
 - Last updated: June 1
-- Images downloaded: 20
-- Videos downloaded: 0
+- Images downloaded: 25
+- Videos downloaded: 1
 
 ## Property
 

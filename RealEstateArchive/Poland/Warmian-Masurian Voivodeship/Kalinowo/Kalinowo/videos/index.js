@@ -1,0 +1,14 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "Poland/Warmian-Masurian Voivodeship/Kalinowo/Kalinowo/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "vid-b0e507e1e4fd.mp4",
+      "href": "vid-b0e507e1e4fd.mp4",
+      "size": 112459772
+    }
+  ],
+  "last_updated": "2026-09-28T00:29:38.988887Z"
+};

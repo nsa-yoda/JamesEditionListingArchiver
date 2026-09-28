@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/pasig-philippines/2-bedrooms-in-empress-at-capitol-commons-smart-elegant-homes-designed-for-wellness-and-investment-15601413
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:14Z
+- Retrieved: 2026-09-28T00:17:36Z
 - Address: Capitol Commons, Camino Verde Rd, Pasig, Kalakhang Maynila, Metro Manila, Philippines
 - Map: https://www.google.com/maps/search/?api=1&query=14.5746279,121.0626899
 - Coordinates: 14.57, 121.06
 - Site listing ID: 15601413
 - First listed: May 8, 2025
 - Last updated: July 27, 2025
-- Images downloaded: 9
+- Images downloaded: 16
 - Videos downloaded: 0
 
 ## Property

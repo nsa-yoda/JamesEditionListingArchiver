@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917-durand-dr-17993520
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:16Z
+- Retrieved: 2026-09-28T00:18:04Z
 - Address: 2917 Durand Dr, CA, Los Angeles, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.122048,-118.3240898
 - Coordinates: 34.12, -118.32
@@ -10,7 +10,7 @@
 - Listing reference: 215586439.0
 - First listed: May 23
 - Last updated: Yesterday
-- Images downloaded: 10
+- Images downloaded: 27
 - Videos downloaded: 0
 
 ## Property

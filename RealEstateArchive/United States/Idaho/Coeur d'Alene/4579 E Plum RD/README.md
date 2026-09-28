@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579-e-plum-rd-17757016
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:18Z
+- Retrieved: 2026-09-28T00:18:31Z
 - Address: 4579 E Plum RD, Coeur d'Alene, ID 83814, Idaho, United States
 - Map: https://www.google.com/maps/search/?api=1&query=47.6519165,-116.7224121
 - Coordinates: 47.65, -116.72
@@ -10,8 +10,8 @@
 - Listing reference: B2QJY4
 - First listed: Apr 24
 - Last updated: June 9
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 21
+- Videos downloaded: 1
 
 ## Property
 

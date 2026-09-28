@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/hopkinton-ma-usa/10-andrea-drive-hopkinton-ma-01748-18129602
 - Site: jamesedition
-- Retrieved: 2026-06-21T09:21:16Z
+- Retrieved: 2026-09-28T00:29:34Z
 - Address: 10 Andrea Drive , Hopkinton, MA 01748, Massachusetts, United States
 - Map: https://www.google.com/maps/search/?api=1&query=42.205954,-71.582167
 - Coordinates: 42.21, -71.58
@@ -10,8 +10,8 @@
 - Listing reference: RMS295
 - First listed: Jun 10
 - Last updated: June 10
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 12
+- Videos downloaded: 1
 
 ## Property
 

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/palmer-ak-usa/residential-in-palmer-18176725
 - Site: jamesedition
-- Retrieved: 2026-06-21T09:21:22Z
+- Retrieved: 2026-09-28T00:24:33Z
 - Address: L20 B2 E Vista Ridge Circle, Palmer, Alaska, United States
 - Map: https://www.google.com/maps/search/?api=1&query=61.611925,-149.198748
 - Coordinates: 61.61, -149.2
@@ -10,7 +10,7 @@
 - Listing reference: 26-4676
 - First listed: Jun 15
 - Last updated: June 15
-- Images downloaded: 56
+- Images downloaded: 60
 
 ## Property
 

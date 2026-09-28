@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/port-orford-or-usa/the-point-16199256
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:42:32Z
+- Retrieved: 2026-09-28T00:25:54Z
 - Address: 409 Jackson Street, Port Orford, OR 97465, Oregon, United States
 - Map: https://www.google.com/maps/search/?api=1&query=42.7423531,-124.4948663
 - Coordinates: 42.74, -124.49
@@ -10,7 +10,7 @@
 - Listing reference: NQHZR2
 - First listed: Sep 18, 2025
 - Last updated: June 8
-- Images downloaded: 52
+- Images downloaded: 58
 
 ## Property
 

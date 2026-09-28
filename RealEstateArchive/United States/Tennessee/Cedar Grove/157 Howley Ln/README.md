@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/single-family-residence-in-cedar-grove-18349993
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:49Z
+- Retrieved: 2026-09-28T00:25:07Z
 - Address: 157 Howley Ln, Cedar Grove, Tennessee, United States
 - Map: https://www.google.com/maps/search/?api=1&query=35.891761,-88.527471
 - Coordinates: 35.89, -88.53
@@ -10,7 +10,7 @@
 - Listing reference: 3260574
 - First listed: Jul 6
 - Last updated: July 6
-- Images downloaded: 44
+- Images downloaded: 51
 
 ## Property
 

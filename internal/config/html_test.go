@@ -19,6 +19,9 @@ func TestResolveSingleHTMLImport(t *testing.T) {
 	if len(imports) != 1 || imports[0].SourceURL == "" || string(imports[0].HTML) != "<html>saved</html>" {
 		t.Fatalf("imports = %#v", imports)
 	}
+	if imports[0].MediaDir != strings.TrimSuffix(filename, filepath.Ext(filename))+"_files" {
+		t.Fatalf("media sidecar directory = %q", imports[0].MediaDir)
+	}
 }
 
 func TestResolveHTMLDirectoryUsesSidecarAndCanonical(t *testing.T) {

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/big-sur-usa/a-coastal-masterpiece-beyond-compare-18133308
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:18:31Z
+- Retrieved: 2026-09-28T00:19:33Z
 - Address: 54722 Highway 1, Big Sur, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=36.129891,-121.644661
 - Coordinates: 36.13, -121.64
@@ -10,7 +10,7 @@
 - Listing reference: ML82050424
 - First listed: Jun 11
 - Last updated: Yesterday
-- Images downloaded: 51
+- Images downloaded: 54
 
 ## Property
 

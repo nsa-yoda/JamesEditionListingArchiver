@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:36.506789Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/elk-usa/saddle-point-estate-where-history-meets-horizon-16993217",
     "canonical_url": "https://www.jamesedition.com/real_estate/elk-usa/saddle-point-estate-where-history-meets-horizon-16993217",
@@ -9,13 +9,13 @@
     "listing_reference": "C1-11238",
     "first_listed": "Jan 24",
     "last_updated": "Today",
-    "retrieved_at": "2026-06-19T08:34:10.836578Z"
+    "retrieved_at": "2026-09-28T00:24:35.917073Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3315,
-      "sha256": "b70a616380eb691051a9127213dbeae66f50deee52f40b41f256a8cf928d3f99"
+      "sha256": "3a78d37ba2b2ccf5d97f2129a4b4d3bfc45cc47354cf54947a32ab7a32a66c2e"
     },
     {
       "path": "images/img-014a1d4098b5.webp",
@@ -56,6 +56,11 @@
       "path": "images/img-20a6477c29c9.webp",
       "bytes": 189120,
       "sha256": "91ac72cf6522ec04a7bd5692bd8ccd446a585db256a8731576516fea32da7bb1"
+    },
+    {
+      "path": "images/img-257af06f4a13.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-272e34fedba6.svg",
@@ -213,6 +218,11 @@
       "sha256": "69ce5137b1c0dbf74a4402bada1afd2a4b000cf016b71830cdadbc374c23846f"
     },
     {
+      "path": "images/img-838164f8bb1f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-84360d7cd441.webp",
       "bytes": 87618,
       "sha256": "8a9feb2aa261d946155ae3ea5b06a8d7d7c8c14804a9a1d139083122a98a2e8b"
@@ -251,6 +261,11 @@
       "path": "images/img-acdf21810505.webp",
       "bytes": 130984,
       "sha256": "66178866f91f43a00f6c0027afabb6444d2bce122ed36855738e2db961c6fcde"
+    },
+    {
+      "path": "images/img-adfd5b447bab.webp",
+      "bytes": 4298,
+      "sha256": "5c134254c5f1d83031dcdff842ddf2b2596429ce5d618c8e9786e92b7606f242"
     },
     {
       "path": "images/img-aec22ae85b71.webp",
@@ -329,8 +344,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 34176,
-      "sha256": "6d5f13552c2aa0462c311f8d697d6b9d4ce69af1f7b64a36e312925e8196d8ff"
+      "bytes": 69532,
+      "sha256": "e16d94bd714b227a6f0fa373dc34fa74cff8fe911108671e112d2a4d63547f88"
     },
     {
       "path": "source.html",
@@ -346,17 +361,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/2200xxs.jpg",
       "path": "images/img-68c1e9a87b37.webp",
       "media_type": "image/webp",
       "bytes": 116078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/615ddbd1-bd70-4232-ac4e-5e93cb09c5ad/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/615ddbd1-bd70-4232-ac4e-5e93cb09c5ad/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/615ddbd1-bd70-4232-ac4e-5e93cb09c5ad/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/615ddbd1-bd70-4232-ac4e-5e93cb09c5ad/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/615ddbd1-bd70-4232-ac4e-5e93cb09c5ad/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/615ddbd1-bd70-4232-ac4e-5e93cb09c5ad/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -364,13 +415,31 @@
       "path": "images/img-2ec8620187fc.webp",
       "media_type": "image/webp",
       "bytes": 103008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/0c179c97-30e1-434e-9958-6c01c3c04250/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/0c179c97-30e1-434e-9958-6c01c3c04250/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/0c179c97-30e1-434e-9958-6c01c3c04250/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/0c179c97-30e1-434e-9958-6c01c3c04250/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/0c179c97-30e1-434e-9958-6c01c3c04250/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/0c179c97-30e1-434e-9958-6c01c3c04250/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -378,13 +447,31 @@
       "path": "images/img-7f92b31bd7d9.webp",
       "media_type": "image/webp",
       "bytes": 199528,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8ddba3b0-75fc-46f5-857b-d08b9a194f3c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8ddba3b0-75fc-46f5-857b-d08b9a194f3c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8ddba3b0-75fc-46f5-857b-d08b9a194f3c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8ddba3b0-75fc-46f5-857b-d08b9a194f3c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8ddba3b0-75fc-46f5-857b-d08b9a194f3c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8ddba3b0-75fc-46f5-857b-d08b9a194f3c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -392,13 +479,31 @@
       "path": "images/img-c9f8932b2452.webp",
       "media_type": "image/webp",
       "bytes": 151734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/acab70b2-3f34-469a-a8e3-e128624f2c31/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/acab70b2-3f34-469a-a8e3-e128624f2c31/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/acab70b2-3f34-469a-a8e3-e128624f2c31/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/acab70b2-3f34-469a-a8e3-e128624f2c31/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/acab70b2-3f34-469a-a8e3-e128624f2c31/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/acab70b2-3f34-469a-a8e3-e128624f2c31/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -406,31 +511,67 @@
       "path": "images/img-1655d02dd448.webp",
       "media_type": "image/webp",
       "bytes": 101094,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-adfd5b447bab.webp",
+      "media_type": "image/webp",
+      "bytes": 4298,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-257af06f4a13.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-838164f8bb1f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/615ddbd1-bd70-4232-ac4e-5e93cb09c5ad/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/615ddbd1-bd70-4232-ac4e-5e93cb09c5ad/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/0c179c97-30e1-434e-9958-6c01c3c04250/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/0c179c97-30e1-434e-9958-6c01c3c04250/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8ddba3b0-75fc-46f5-857b-d08b9a194f3c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8ddba3b0-75fc-46f5-857b-d08b9a194f3c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/acab70b2-3f34-469a-a8e3-e128624f2c31/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/acab70b2-3f34-469a-a8e3-e128624f2c31/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -438,7 +579,7 @@
       "path": "images/img-461562aa03d8.webp",
       "media_type": "image/webp",
       "bytes": 112324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -446,7 +587,7 @@
       "path": "images/img-4d4ac38a820d.webp",
       "media_type": "image/webp",
       "bytes": 182920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -454,7 +595,7 @@
       "path": "images/img-1cf7e536a78f.webp",
       "media_type": "image/webp",
       "bytes": 90442,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -462,7 +603,7 @@
       "path": "images/img-5ac46096b12b.webp",
       "media_type": "image/webp",
       "bytes": 247536,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -470,7 +611,7 @@
       "path": "images/img-a1bc04c9fdae.webp",
       "media_type": "image/webp",
       "bytes": 112644,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -478,7 +619,7 @@
       "path": "images/img-b345ec9e7110.webp",
       "media_type": "image/webp",
       "bytes": 161582,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -486,7 +627,7 @@
       "path": "images/img-78b7f35fa998.webp",
       "media_type": "image/webp",
       "bytes": 151592,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -494,7 +635,7 @@
       "path": "images/img-69ca7461f60b.webp",
       "media_type": "image/webp",
       "bytes": 194570,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -502,7 +643,7 @@
       "path": "images/img-712be8dda578.webp",
       "media_type": "image/webp",
       "bytes": 157896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -510,7 +651,7 @@
       "path": "images/img-6d03cc4ebdb5.webp",
       "media_type": "image/webp",
       "bytes": 244646,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -518,7 +659,7 @@
       "path": "images/img-446d7e91ab7e.webp",
       "media_type": "image/webp",
       "bytes": 126216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -526,7 +667,7 @@
       "path": "images/img-0b896ff00897.webp",
       "media_type": "image/webp",
       "bytes": 70126,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -534,7 +675,7 @@
       "path": "images/img-0d4d61ebabf2.webp",
       "media_type": "image/webp",
       "bytes": 82546,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -542,7 +683,7 @@
       "path": "images/img-37ab66ed1d55.webp",
       "media_type": "image/webp",
       "bytes": 72746,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -550,7 +691,7 @@
       "path": "images/img-602989b137bf.webp",
       "media_type": "image/webp",
       "bytes": 69612,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -558,7 +699,7 @@
       "path": "images/img-119d8c2b2a03.webp",
       "media_type": "image/webp",
       "bytes": 90702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -566,7 +707,7 @@
       "path": "images/img-84360d7cd441.webp",
       "media_type": "image/webp",
       "bytes": 87618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -574,7 +715,7 @@
       "path": "images/img-67aadd20edef.webp",
       "media_type": "image/webp",
       "bytes": 72436,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -582,7 +723,7 @@
       "path": "images/img-37fefa55e519.webp",
       "media_type": "image/webp",
       "bytes": 79554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -590,7 +731,7 @@
       "path": "images/img-409eca1c2c3d.webp",
       "media_type": "image/webp",
       "bytes": 75286,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -598,7 +739,7 @@
       "path": "images/img-8062b7262282.webp",
       "media_type": "image/webp",
       "bytes": 75762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -606,7 +747,7 @@
       "path": "images/img-95057428952c.webp",
       "media_type": "image/webp",
       "bytes": 57346,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -614,7 +755,7 @@
       "path": "images/img-44f33e335a7c.webp",
       "media_type": "image/webp",
       "bytes": 71548,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -622,7 +763,7 @@
       "path": "images/img-3f0f3a2d0145.webp",
       "media_type": "image/webp",
       "bytes": 142684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -630,7 +771,7 @@
       "path": "images/img-650d6f5840e2.webp",
       "media_type": "image/webp",
       "bytes": 225824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -638,7 +779,7 @@
       "path": "images/img-3b17fd8a220e.webp",
       "media_type": "image/webp",
       "bytes": 214708,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -646,7 +787,7 @@
       "path": "images/img-20a6477c29c9.webp",
       "media_type": "image/webp",
       "bytes": 189120,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -654,7 +795,7 @@
       "path": "images/img-896c10b4f7a4.webp",
       "media_type": "image/webp",
       "bytes": 64222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -662,7 +803,7 @@
       "path": "images/img-36876ae0ae85.webp",
       "media_type": "image/webp",
       "bytes": 56824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -670,7 +811,7 @@
       "path": "images/img-014a1d4098b5.webp",
       "media_type": "image/webp",
       "bytes": 74846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -678,7 +819,7 @@
       "path": "images/img-c235087a2d11.webp",
       "media_type": "image/webp",
       "bytes": 62122,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -686,7 +827,7 @@
       "path": "images/img-4cd82c46cd37.webp",
       "media_type": "image/webp",
       "bytes": 73318,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -694,7 +835,7 @@
       "path": "images/img-e60e7d3e0ea0.webp",
       "media_type": "image/webp",
       "bytes": 61736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -702,7 +843,7 @@
       "path": "images/img-acdf21810505.webp",
       "media_type": "image/webp",
       "bytes": 130984,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -710,7 +851,7 @@
       "path": "images/img-780a847bc15f.webp",
       "media_type": "image/webp",
       "bytes": 221420,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -718,7 +859,7 @@
       "path": "images/img-aec22ae85b71.webp",
       "media_type": "image/webp",
       "bytes": 80970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -726,7 +867,7 @@
       "path": "images/img-6c66f94ddd72.webp",
       "media_type": "image/webp",
       "bytes": 71776,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -734,7 +875,7 @@
       "path": "images/img-d2907dea281e.webp",
       "media_type": "image/webp",
       "bytes": 58888,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -742,7 +883,7 @@
       "path": "images/img-eda96546447b.webp",
       "media_type": "image/webp",
       "bytes": 142626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -750,7 +891,7 @@
       "path": "images/img-af470ee6a288.webp",
       "media_type": "image/webp",
       "bytes": 190698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -758,7 +899,7 @@
       "path": "images/img-953c4d82a57d.webp",
       "media_type": "image/webp",
       "bytes": 144324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -766,7 +907,7 @@
       "path": "images/img-35589aa4ab2d.webp",
       "media_type": "image/webp",
       "bytes": 205304,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -774,7 +915,7 @@
       "path": "images/img-bfc542cfe882.webp",
       "media_type": "image/webp",
       "bytes": 146442,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -782,7 +923,7 @@
       "path": "images/img-4c56567f78ff.webp",
       "media_type": "image/webp",
       "bytes": 209476,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -790,7 +931,7 @@
       "path": "images/img-fb28bbec4481.webp",
       "media_type": "image/webp",
       "bytes": 65168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -798,7 +939,7 @@
       "path": "images/img-f3516f4ffd42.webp",
       "media_type": "image/webp",
       "bytes": 158144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -806,7 +947,7 @@
       "path": "images/img-fe3477746e72.webp",
       "media_type": "image/webp",
       "bytes": 142976,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -814,7 +955,7 @@
       "path": "images/img-506f5752c7ba.webp",
       "media_type": "image/webp",
       "bytes": 180098,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -822,7 +963,7 @@
       "path": "images/img-1af0639fa7f3.webp",
       "media_type": "image/webp",
       "bytes": 149292,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -830,7 +971,7 @@
       "path": "images/img-d716f962a050.webp",
       "media_type": "image/webp",
       "bytes": 118926,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -838,7 +979,7 @@
       "path": "images/img-9c1d017a1ea5.webp",
       "media_type": "image/webp",
       "bytes": 156364,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -846,25 +987,13 @@
       "path": "images/img-9b8bdb4244e4.webp",
       "media_type": "image/webp",
       "bytes": 167852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/2200xxs%2814%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/2200xxs%2815%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/elk-usa/Saddle%20Point%20Estate%20_%20Where%20History%20Meets%20In%20Albion,%20California,%20United%20States%20For%20Sale%20%2816993217%29_files/2200xxs%2816%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/23/11/43/15/8a36c111-10df-4cda-84b9-7a8633c4be9a/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -872,7 +1001,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -880,7 +1009,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -888,7 +1017,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -896,7 +1025,7 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -904,13 +1033,13 @@
       "path": "images/img-c0b963805a60.webp",
       "media_type": "image/webp",
       "bytes": 1074,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 62,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 62,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

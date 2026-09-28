@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/gardnerville-nv-usa/nevada-mountain-compound-with-lake-tahoe-access-within-10-min-on-10-acres-17102877
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:39Z
+- Retrieved: 2026-09-28T00:23:08Z
 - Address: 164 Mott Creek Lane, Gardnerville, Nevada, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.929195,-119.84711
 - Coordinates: 38.93, -119.85
@@ -10,7 +10,7 @@
 - Listing reference: 250006254
 - First listed: Feb 7
 - Last updated: May 28
-- Images downloaded: 80
+- Images downloaded: 87
 - Videos downloaded: 0
 
 ## Property

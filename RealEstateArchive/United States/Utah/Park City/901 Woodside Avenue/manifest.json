@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:27:01.216955Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/where-old-town-s-history-meets-modern-new-construction-18477235",
     "canonical_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/where-old-town-s-history-meets-modern-new-construction-18477235",
@@ -9,13 +9,13 @@
     "listing_reference": "YDT5GG",
     "first_listed": "Jul 20",
     "last_updated": "Yesterday",
-    "retrieved_at": "2026-08-28T00:32:17.043592Z"
+    "retrieved_at": "2026-09-28T00:26:53.996922Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3126,
-      "sha256": "1ec3a22225445ff8b788c1ac00e77da6aec39b54b419e3e61d532bd9a71f411e"
+      "sha256": "2626ff95f674c1f38b0d4aed01033afab133ddd22b5e77e4d8027a617e0cda22"
     },
     {
       "path": "images/img-045b63e521c4.webp",
@@ -78,6 +78,11 @@
       "sha256": "68e4512b3bbf0944b0fc25f3e43bebaec07abe7455d2a44746da750f798dc9f8"
     },
     {
+      "path": "images/img-34b70eb838d3.webp",
+      "bytes": 4300,
+      "sha256": "2708255529dbaa76f2f9a5c3a7c719d7d7cba84fac8b8684e597663aea2a6bce"
+    },
+    {
       "path": "images/img-38b21e4e8fce.webp",
       "bytes": 391562,
       "sha256": "3acdce12c3b429d05d84e6d2cbe97391ac0c552c215eeab47b2693789c729363"
@@ -118,6 +123,11 @@
       "sha256": "f5413118b7b7cae372745ffedd8fed2c70e0a2eb1c141825c5c374932d7f4ac8"
     },
     {
+      "path": "images/img-485264b1936d.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-4b535b53e211.webp",
       "bytes": 238986,
       "sha256": "fad6795ebbaec79f06d72fe250fc95819611398c7b266f804699923eb89703b3"
@@ -131,6 +141,11 @@
       "path": "images/img-5169a3846a0a.webp",
       "bytes": 159580,
       "sha256": "66cc702d2713ef254272a52562b16ab6a000f542269ff725077becd5aa0539d0"
+    },
+    {
+      "path": "images/img-55297de23782.webp",
+      "bytes": 5004,
+      "sha256": "e1ae91223607c3c4aa199564216b72be8af8fe3936f920e3bb26ae5838e70e35"
     },
     {
       "path": "images/img-57242b8ef18d.webp",
@@ -213,9 +228,19 @@
       "sha256": "0a1af51d1168a57dd4bfb2833a0a949fcfa65a1416f65e43a39ee6630c8630ab"
     },
     {
+      "path": "images/img-9335a0f5ebd0.webp",
+      "bytes": 3078,
+      "sha256": "519e5e7bfdada5bf8c114feb70ec0f8bb687f027237118e53329ad52672105fa"
+    },
+    {
       "path": "images/img-95077c85d04f.webp",
       "bytes": 183126,
       "sha256": "ab5410fada14fb811e0934626ebd1e747b5cc25205f484a52ed3e59534cd8f4f"
+    },
+    {
+      "path": "images/img-965885be7236.webp",
+      "bytes": 6854,
+      "sha256": "b1c00820cc103a55ef3b9254ec079ccdb619f89006b9bd766e7a7e01ed120fdb"
     },
     {
       "path": "images/img-96dcc7cf25f8.webp",
@@ -248,6 +273,11 @@
       "sha256": "0f51d9efc641d20618e2023db00a5185d578a94a33f7cc583ece037407d87c0d"
     },
     {
+      "path": "images/img-ab4f596b2a31.webp",
+      "bytes": 3890,
+      "sha256": "d4663469327be97c8f6fc9f0dd790dfbf50ef354af959c0b89ab87dd875eca3c"
+    },
+    {
       "path": "images/img-ad57e911316e.webp",
       "bytes": 139360,
       "sha256": "e342fa948a94c3de5379667f358afab65134d20ee0114f52ce1f61529656ebc6"
@@ -273,6 +303,11 @@
       "sha256": "84412896396487d3875b5a9d5c6a0420f1801a9a020ff936608baad3b3572adf"
     },
     {
+      "path": "images/img-b74acea256ca.webp",
+      "bytes": 4246,
+      "sha256": "82c117afd35d2c728b53ce8a558172ec250bd23de1039ccb6941def587392263"
+    },
+    {
       "path": "images/img-b93585c63dfa.webp",
       "bytes": 232332,
       "sha256": "bff5454f553837e79e176569eac56306901a141fc56fc9c602e5bd2db467fe8a"
@@ -283,9 +318,19 @@
       "sha256": "bfc0117e00a95b39bf0ca00c107286186754c1618548043f25fca4e4bfbb4e18"
     },
     {
+      "path": "images/img-baffba630059.webp",
+      "bytes": 4286,
+      "sha256": "8d039a7f337916f939548613c334208b8bfa57ae067a75df46a113f912efaadb"
+    },
+    {
       "path": "images/img-be04fa3019b2.webp",
       "bytes": 118386,
       "sha256": "fab15e15f44819f1f95bfa8df200b2537f6bde1c10388e5f92b6ce61782bbd1e"
+    },
+    {
+      "path": "images/img-c796084cf89e.webp",
+      "bytes": 3994,
+      "sha256": "2cee7c49984689edfc9b5fd70c636bf78efd7cb43c5c5a952d499ac0138526ed"
     },
     {
       "path": "images/img-c9998c1be20b.webp",
@@ -333,6 +378,11 @@
       "sha256": "f501a6394b9241ce69a33b9f94335ac51a25112b8e657a698cf61435a803671f"
     },
     {
+      "path": "images/img-dc0ad42c50dd.webp",
+      "bytes": 5130,
+      "sha256": "122b513499cc9f66c24b7e4fa772e559f8536cab0817ffd1e074a9fd5933f19a"
+    },
+    {
       "path": "images/img-e49ad33542b9.webp",
       "bytes": 608196,
       "sha256": "8fa1c017d1b01f30d2ca6c2c33101d3f2f1d9472ca99533ac23c587132994f9c"
@@ -341,6 +391,11 @@
       "path": "images/img-e9f1a2d7cd04.webp",
       "bytes": 56374,
       "sha256": "bfe65810b208bd08b1dc8976458752b7a450b6b34ead096dce26201c626842c7"
+    },
+    {
+      "path": "images/img-ebd6ee27e673.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-f0651cc6332b.webp",
@@ -363,9 +418,14 @@
       "sha256": "4a3d18b0a0bcbde03719340bff562047aef180963f83897050c562e7b40a73c1"
     },
     {
+      "path": "images/img-fbbabd9e52b2.webp",
+      "bytes": 4940,
+      "sha256": "8dd3fb1c181f2a6106993ba58624b26f88e7f3e9e5543c368e81f845abad01ef"
+    },
+    {
       "path": "listing.json",
-      "bytes": 43673,
-      "sha256": "60de69bc21384d531067b7f1097e77ad233d04d8cc30d7ea26ebcbc69a139d96"
+      "bytes": 73426,
+      "sha256": "3fd2f6cb3eb96228cda851403ae6c04182395c1b11222af2e2423466d380a8c9"
     },
     {
       "path": "source.html",
@@ -376,22 +436,72 @@
       "path": "source.url",
       "bytes": 122,
       "sha256": "80c060141beed51caaf25ba476c4ec6cfce200ff3bbce7cd840f534632f26cc6"
+    },
+    {
+      "path": "videos/img-c8088c6c17b9.webp",
+      "bytes": 119142,
+      "sha256": "d65a9514b8136bd3417c5210d14a91245404f2fd1a1cdb945715005a22bb81a8"
+    },
+    {
+      "path": "videos/vid-b993b583a387.mp4",
+      "bytes": 45692598,
+      "sha256": "889b94bb2ebd13f7deec93341f3c197a44ee519302c2ed7a9f06829276cbe803"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6401747694112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-b993b583a387.mp4",
+      "media_type": "video/mp4",
+      "bytes": 45692598,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/1040x620xc.jpg",
+      "poster_path": "videos/img-c8088c6c17b9.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/2200xxs.jpg",
       "path": "images/img-5b4f15085fdf.webp",
       "media_type": "image/webp",
       "bytes": 324102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/4f011265-8e81-4b51-970e-95ffec1d7007/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/4f011265-8e81-4b51-970e-95ffec1d7007/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/4f011265-8e81-4b51-970e-95ffec1d7007/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/4f011265-8e81-4b51-970e-95ffec1d7007/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/4f011265-8e81-4b51-970e-95ffec1d7007/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/4f011265-8e81-4b51-970e-95ffec1d7007/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -399,13 +509,25 @@
       "path": "images/img-780f2221bac6.webp",
       "media_type": "image/webp",
       "bytes": 292766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2a37213e-532a-4457-9ccf-28fd68bc2105/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2a37213e-532a-4457-9ccf-28fd68bc2105/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2a37213e-532a-4457-9ccf-28fd68bc2105/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2a37213e-532a-4457-9ccf-28fd68bc2105/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2a37213e-532a-4457-9ccf-28fd68bc2105/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2a37213e-532a-4457-9ccf-28fd68bc2105/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -413,13 +535,25 @@
       "path": "images/img-b4a95ab27bc2.webp",
       "media_type": "image/webp",
       "bytes": 249744,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/b9e0c193-a125-4900-b036-286416fcdc48/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/b9e0c193-a125-4900-b036-286416fcdc48/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/b9e0c193-a125-4900-b036-286416fcdc48/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/b9e0c193-a125-4900-b036-286416fcdc48/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/b9e0c193-a125-4900-b036-286416fcdc48/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/b9e0c193-a125-4900-b036-286416fcdc48/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -427,13 +561,25 @@
       "path": "images/img-64f2c624a0a1.webp",
       "media_type": "image/webp",
       "bytes": 211358,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/3e8fd043-8eae-42e3-86da-4d733410dc54/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/3e8fd043-8eae-42e3-86da-4d733410dc54/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/3e8fd043-8eae-42e3-86da-4d733410dc54/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/3e8fd043-8eae-42e3-86da-4d733410dc54/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/3e8fd043-8eae-42e3-86da-4d733410dc54/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/3e8fd043-8eae-42e3-86da-4d733410dc54/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -441,85 +587,133 @@
       "path": "images/img-e49ad33542b9.webp",
       "media_type": "image/webp",
       "bytes": 608196,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-dc0ad42c50dd.webp",
+      "media_type": "image/webp",
+      "bytes": 5130,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-ebd6ee27e673.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-55297de23782.webp",
+      "media_type": "image/webp",
+      "bytes": 5004,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-b74acea256ca.webp",
+      "media_type": "image/webp",
+      "bytes": 4246,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-34b70eb838d3.webp",
+      "media_type": "image/webp",
+      "bytes": 4300,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-965885be7236.webp",
+      "media_type": "image/webp",
+      "bytes": 6854,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-fbbabd9e52b2.webp",
+      "media_type": "image/webp",
+      "bytes": 4940,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%286%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c796084cf89e.webp",
+      "media_type": "image/webp",
+      "bytes": 3994,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-9335a0f5ebd0.webp",
+      "media_type": "image/webp",
+      "bytes": 3078,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-ab4f596b2a31.webp",
+      "media_type": "image/webp",
+      "bytes": 3890,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/160x120xc%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-baffba630059.webp",
+      "media_type": "image/webp",
+      "bytes": 4286,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-485264b1936d.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/4f011265-8e81-4b51-970e-95ffec1d7007/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/4f011265-8e81-4b51-970e-95ffec1d7007/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2a37213e-532a-4457-9ccf-28fd68bc2105/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2a37213e-532a-4457-9ccf-28fd68bc2105/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/b9e0c193-a125-4900-b036-286416fcdc48/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/b9e0c193-a125-4900-b036-286416fcdc48/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/3e8fd043-8eae-42e3-86da-4d733410dc54/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/3e8fd043-8eae-42e3-86da-4d733410dc54/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -527,7 +721,7 @@
       "path": "images/img-9aafda0a4477.webp",
       "media_type": "image/webp",
       "bytes": 321710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -535,7 +729,7 @@
       "path": "images/img-b93585c63dfa.webp",
       "media_type": "image/webp",
       "bytes": 232332,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -543,7 +737,7 @@
       "path": "images/img-be04fa3019b2.webp",
       "media_type": "image/webp",
       "bytes": 118386,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -551,7 +745,7 @@
       "path": "images/img-3d186831166e.webp",
       "media_type": "image/webp",
       "bytes": 296156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -559,7 +753,7 @@
       "path": "images/img-38b21e4e8fce.webp",
       "media_type": "image/webp",
       "bytes": 391562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -567,7 +761,7 @@
       "path": "images/img-cb6935de1f71.webp",
       "media_type": "image/webp",
       "bytes": 115974,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -575,7 +769,7 @@
       "path": "images/img-95077c85d04f.webp",
       "media_type": "image/webp",
       "bytes": 183126,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -583,7 +777,7 @@
       "path": "images/img-3e8ff43c1da1.webp",
       "media_type": "image/webp",
       "bytes": 173820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -591,7 +785,7 @@
       "path": "images/img-e9f1a2d7cd04.webp",
       "media_type": "image/webp",
       "bytes": 56374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -599,7 +793,7 @@
       "path": "images/img-b9d91f39c80c.webp",
       "media_type": "image/webp",
       "bytes": 184668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -607,7 +801,7 @@
       "path": "images/img-cad51b1799ae.webp",
       "media_type": "image/webp",
       "bytes": 403990,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -615,7 +809,7 @@
       "path": "images/img-27d67499655a.webp",
       "media_type": "image/webp",
       "bytes": 223024,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -623,7 +817,7 @@
       "path": "images/img-aff1dd32ceb6.webp",
       "media_type": "image/webp",
       "bytes": 389314,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -631,7 +825,7 @@
       "path": "images/img-96dcc7cf25f8.webp",
       "media_type": "image/webp",
       "bytes": 305904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -639,7 +833,7 @@
       "path": "images/img-429b16b7c06b.webp",
       "media_type": "image/webp",
       "bytes": 352598,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -647,7 +841,7 @@
       "path": "images/img-fa6cffa263e4.webp",
       "media_type": "image/webp",
       "bytes": 259268,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -655,7 +849,7 @@
       "path": "images/img-d3090c33d719.webp",
       "media_type": "image/webp",
       "bytes": 217636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -663,7 +857,7 @@
       "path": "images/img-332f323d001e.webp",
       "media_type": "image/webp",
       "bytes": 217968,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -671,7 +865,7 @@
       "path": "images/img-8ff666b7f0c4.webp",
       "media_type": "image/webp",
       "bytes": 354036,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -679,7 +873,7 @@
       "path": "images/img-5cf3d9acc54a.webp",
       "media_type": "image/webp",
       "bytes": 231226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -687,7 +881,7 @@
       "path": "images/img-a92daadf9381.webp",
       "media_type": "image/webp",
       "bytes": 201778,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -695,7 +889,7 @@
       "path": "images/img-784df5544ed1.webp",
       "media_type": "image/webp",
       "bytes": 150626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -703,7 +897,7 @@
       "path": "images/img-09a3031ff389.webp",
       "media_type": "image/webp",
       "bytes": 168148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -711,7 +905,7 @@
       "path": "images/img-3c4c940b7c70.webp",
       "media_type": "image/webp",
       "bytes": 229938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -719,7 +913,7 @@
       "path": "images/img-b0fe83812fb4.webp",
       "media_type": "image/webp",
       "bytes": 135378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -727,7 +921,7 @@
       "path": "images/img-9dd11d6dbf2d.webp",
       "media_type": "image/webp",
       "bytes": 101522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -735,7 +929,7 @@
       "path": "images/img-ce5416cf8339.webp",
       "media_type": "image/webp",
       "bytes": 124052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -743,7 +937,7 @@
       "path": "images/img-045b63e521c4.webp",
       "media_type": "image/webp",
       "bytes": 178170,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -751,7 +945,7 @@
       "path": "images/img-2f1f5a7cba54.webp",
       "media_type": "image/webp",
       "bytes": 83542,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -759,7 +953,7 @@
       "path": "images/img-5169a3846a0a.webp",
       "media_type": "image/webp",
       "bytes": 159580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -767,7 +961,7 @@
       "path": "images/img-b38dc7ea8ce2.webp",
       "media_type": "image/webp",
       "bytes": 155520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -775,7 +969,7 @@
       "path": "images/img-90c212c5a58f.webp",
       "media_type": "image/webp",
       "bytes": 173180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -783,7 +977,7 @@
       "path": "images/img-92fef3e0ac4a.webp",
       "media_type": "image/webp",
       "bytes": 152480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -791,7 +985,7 @@
       "path": "images/img-2ef7276f019f.webp",
       "media_type": "image/webp",
       "bytes": 169768,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -799,7 +993,7 @@
       "path": "images/img-ad57e911316e.webp",
       "media_type": "image/webp",
       "bytes": 139360,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -807,7 +1001,7 @@
       "path": "images/img-760cf718b012.webp",
       "media_type": "image/webp",
       "bytes": 170384,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -815,7 +1009,7 @@
       "path": "images/img-f0651cc6332b.webp",
       "media_type": "image/webp",
       "bytes": 94898,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -823,7 +1017,7 @@
       "path": "images/img-2f4576eb3510.webp",
       "media_type": "image/webp",
       "bytes": 234504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -831,7 +1025,7 @@
       "path": "images/img-5f07aaca97d1.webp",
       "media_type": "image/webp",
       "bytes": 167418,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -839,7 +1033,7 @@
       "path": "images/img-98ca41e0410e.webp",
       "media_type": "image/webp",
       "bytes": 117866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -847,7 +1041,7 @@
       "path": "images/img-76949318d0c9.webp",
       "media_type": "image/webp",
       "bytes": 97166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -855,7 +1049,7 @@
       "path": "images/img-09fa55fac447.webp",
       "media_type": "image/webp",
       "bytes": 273066,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -863,7 +1057,7 @@
       "path": "images/img-d458329ad090.webp",
       "media_type": "image/webp",
       "bytes": 112810,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -871,7 +1065,7 @@
       "path": "images/img-dab6f0fc092d.webp",
       "media_type": "image/webp",
       "bytes": 82740,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -879,7 +1073,7 @@
       "path": "images/img-7b18df0486b6.webp",
       "media_type": "image/webp",
       "bytes": 141814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -887,7 +1081,7 @@
       "path": "images/img-d46ba80ef1e1.webp",
       "media_type": "image/webp",
       "bytes": 555246,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -895,7 +1089,7 @@
       "path": "images/img-c9998c1be20b.webp",
       "media_type": "image/webp",
       "bytes": 335588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -903,7 +1097,7 @@
       "path": "images/img-5f5bbba47f30.webp",
       "media_type": "image/webp",
       "bytes": 451580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -911,7 +1105,7 @@
       "path": "images/img-401558433c70.webp",
       "media_type": "image/webp",
       "bytes": 428050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -919,7 +1113,7 @@
       "path": "images/img-f1b80224dd1c.webp",
       "media_type": "image/webp",
       "bytes": 531056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -927,7 +1121,7 @@
       "path": "images/img-5f5b36235788.webp",
       "media_type": "image/webp",
       "bytes": 419998,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -935,7 +1129,7 @@
       "path": "images/img-0e4ab06e4b5d.webp",
       "media_type": "image/webp",
       "bytes": 470098,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -943,7 +1137,7 @@
       "path": "images/img-0fed034ae93a.webp",
       "media_type": "image/webp",
       "bytes": 567178,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -951,7 +1145,7 @@
       "path": "images/img-4f1cf37810c6.webp",
       "media_type": "image/webp",
       "bytes": 426840,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -959,7 +1153,7 @@
       "path": "images/img-a800e3e18c9a.webp",
       "media_type": "image/webp",
       "bytes": 487308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -967,7 +1161,7 @@
       "path": "images/img-0a5ea18c3b4e.webp",
       "media_type": "image/webp",
       "bytes": 586200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -975,7 +1169,7 @@
       "path": "images/img-39eef4c466d6.webp",
       "media_type": "image/webp",
       "bytes": 551308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -983,7 +1177,7 @@
       "path": "images/img-4684d3828d75.webp",
       "media_type": "image/webp",
       "bytes": 540750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -991,7 +1185,7 @@
       "path": "images/img-2ba4f9e390f5.webp",
       "media_type": "image/webp",
       "bytes": 271076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -999,7 +1193,7 @@
       "path": "images/img-4b535b53e211.webp",
       "media_type": "image/webp",
       "bytes": 238986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1007,7 +1201,7 @@
       "path": "images/img-629b83bdde30.webp",
       "media_type": "image/webp",
       "bytes": 405472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1015,7 +1209,7 @@
       "path": "images/img-f1aa86b6c357.webp",
       "media_type": "image/webp",
       "bytes": 563462,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1023,25 +1217,13 @@
       "path": "images/img-cdcd34dcf4e9.webp",
       "media_type": "image/webp",
       "bytes": 188232,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/2200xxsxm%2832%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/2200xxsxm%2831%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/Where%20Old%20Town%27s%20History%20Meets%20Modern%20New%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2818477235%29_files/2200xxsxm%2830%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/20/17/07/45/2d7edb55-114b-4591-872c-4c84f5cc4cb9/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1049,32 +1231,32 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 69,
-    "images_existing": 0,
-    "images_failed": 23,
-    "videos_new": 0,
+    "images_new": 12,
+    "images_existing": 69,
+    "images_failed": 24,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

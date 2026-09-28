@@ -2,13 +2,13 @@
 
 - Source: https://www.jamesedition.com/real_estate/boca-raton-fl-usa/sanctuary-on-the-water-16731331
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:35Z
+- Retrieved: 2026-09-28T00:24:45Z
 - Address: 701 NE 45th Rd, Boca Raton, FL 33431, Florida, United States
 - Map: https://www.google.com/maps/search/?api=1&query=26.3907003,-80.0738192
 - Coordinates: 26.39, -80.07
 - Site listing ID: 16731331
 - First listed: Dec 2, 2025
-- Images downloaded: 9
+- Images downloaded: 18
 
 ## Property
 

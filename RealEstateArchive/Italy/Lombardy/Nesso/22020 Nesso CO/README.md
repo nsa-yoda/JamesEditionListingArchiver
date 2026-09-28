@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/nesso-italy/lake-como-exclusive-villa-with-rare-lake-access-and-garden-in-nesso-18297944
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:03Z
+- Retrieved: 2026-09-28T00:22:05Z
 - Address: 22020 Nesso CO, Lombardy, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=45.9119679,9.1571875
 - Coordinates: 45.91, 9.16
@@ -10,7 +10,7 @@
 - Listing reference: ILO3441
 - First listed: Jun 29
 - Last updated: July 1
-- Images downloaded: 89
+- Images downloaded: 103
 
 ## Property
 

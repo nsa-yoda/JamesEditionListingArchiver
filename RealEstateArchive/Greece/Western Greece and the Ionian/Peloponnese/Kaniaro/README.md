@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/corfu-greece/kaniaro-seafront-estate-in-northeast-corfu-15484572
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:28Z
+- Retrieved: 2026-09-28T00:22:02Z
 - Address: Kaniaro, Corfu, 49100, Greece
 - Map: https://www.google.com/maps/search/?api=1&query=39.6249838,19.9223461
 - Coordinates: 39.62, 19.92
 - Site listing ID: 15484572
 - First listed: Apr 14, 2025
 - Last updated: December 10, 2025
-- Images downloaded: 9
+- Images downloaded: 11
 - Videos downloaded: 0
 
 ## Property

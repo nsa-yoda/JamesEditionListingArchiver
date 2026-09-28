@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/jackson-wy-usa/wapiti-retreat-17572984
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:32:09Z
+- Retrieved: 2026-09-28T00:26:26Z
 - Address: 7020 N Bar B Bar River Road , Jackson, WY 83001, Wyoming, United States
 - Map: https://www.google.com/maps/search/?api=1&query=43.5804024,-110.778046
 - Coordinates: 43.58, -110.78
@@ -10,8 +10,8 @@
 - Listing reference: YP6KYM
 - First listed: Apr 6
 - Last updated: April 6
-- Images downloaded: 70
-- Videos downloaded: 0
+- Images downloaded: 73
+- Videos downloaded: 1
 
 ## Property
 

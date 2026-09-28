@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:35.412397Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/residential-tenafly-18123231",
     "canonical_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/residential-tenafly-18123231",
@@ -9,13 +9,13 @@
     "listing_reference": "2124754989349210",
     "first_listed": "Jun 10",
     "last_updated": "June 10",
-    "retrieved_at": "2026-06-18T07:08:46.050087Z"
+    "retrieved_at": "2026-09-28T00:24:34.991795Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2603,
-      "sha256": "8730bb61d7ae4d50a7f014faa3ece4bbf98634226f6e2be6a35562ff18dfd7de"
+      "sha256": "f7c105f58dbb0a8da58a95178455e774c1643d03456bd3a46e2d061fa2bd4043"
     },
     {
       "path": "images/004-649ec49b.webp",
@@ -283,9 +283,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-270bf99ae42f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-de644619dc2b.webp",
+      "bytes": 7684,
+      "sha256": "52a7780c4d1cf6aaa00fa7e2e1402bf89d39e5492d4e176bde5baf2531a83deb"
+    },
+    {
+      "path": "images/img-e58f4d850e15.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 29531,
-      "sha256": "c891f161d3363caa101c53232f5723867e6a7b4ac4d5cd2043bf89653ec438d7"
+      "bytes": 64159,
+      "sha256": "d391c3d658fee71566f6a17a0c233382a6c93ef8d3423f68e04571221e78f94f"
     },
     {
       "path": "source.html",
@@ -301,6 +316,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/2200xxs.jpg",
       "path": "images/004-649ec49b.webp",
       "media_type": "image/webp",
@@ -310,7 +343,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -323,7 +375,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -336,7 +407,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -349,7 +439,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -362,22 +471,62 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-de644619dc2b.webp",
+      "media_type": "image/webp",
+      "bytes": 7684,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e58f4d850e15.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-270bf99ae42f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/85a22732-1ba9-43cf-9861-795a2e332762/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/e409accc-a6aa-4edb-a7df-76f96e5c4e6e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/32d340e4-8b9c-49ea-a2b9-26578954971a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/476bb245-09b5-4521-bf5e-2030e838f08b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -733,18 +882,9 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2831%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2830%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tenafly-nj-usa/Residential%20Tenafly%20In%20Tenafly,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818123231%29_files/2200xxs%2829%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/09/16/40/04/7e3323ff-2dae-464f-b647-fc45144e68c6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -780,9 +920,9 @@
     }
   ],
   "summary": {
-    "images_new": 11,
+    "images_new": 3,
     "images_existing": 53,
-    "images_failed": 0,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

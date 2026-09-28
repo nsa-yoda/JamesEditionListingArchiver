@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/little-river-ca-usa/stillwell-point-11044164
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:42:28Z
+- Retrieved: 2026-09-28T00:25:34Z
 - Address: 50500 W Buckhorn Cove Road, Little River, CA 95456, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.253724,-123.78554
 - Coordinates: 39.25, -123.79
 - Site listing ID: 11044164
 - Listing reference: WZB9W6
 - First listed: Jul 17, 2020
-- Images downloaded: 10
+- Images downloaded: 14
 
 ## Property
 

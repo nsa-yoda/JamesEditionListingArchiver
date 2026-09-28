@@ -149,7 +149,7 @@ func TestRunHTMLDirectoryContinuesAfterMissingSource(t *testing.T) {
 	}
 }
 
-func TestRunHTMLDirectorySkipsExistingUnlessRefresh(t *testing.T) {
+func TestRunHTMLDirectoryReprocessesExistingUnlessSkipExisting(t *testing.T) {
 	dir := t.TempDir()
 	fixture, err := os.ReadFile(filepath.Join("..", "site", "jamesedition", "testdata", "listing.html"))
 	if err != nil {
@@ -164,20 +164,20 @@ func TestRunHTMLDirectorySkipsExistingUnlessRefresh(t *testing.T) {
 		t.Fatalf("first code = %d, stderr = %q", code, firstErr.String())
 	}
 
+	var refreshOut, refreshErr bytes.Buffer
+	if code := Run(context.Background(), []string{"-html-dir", dir, "-metadata-only", "-root", root}, &refreshOut, &refreshErr); code != 0 {
+		t.Fatalf("reprocess code = %d, stderr = %q", code, refreshErr.String())
+	}
+	if strings.Contains(refreshOut.String(), "Skipped existing:") || !strings.Contains(refreshOut.String(), "Imported HTML archive to:") {
+		t.Fatalf("reprocess stdout = %q", refreshOut.String())
+	}
+
 	var skipOut, skipErr bytes.Buffer
-	if code := Run(context.Background(), []string{"-html-dir", dir, "-metadata-only", "-root", root}, &skipOut, &skipErr); code != 0 {
+	if code := Run(context.Background(), []string{"-html-dir", dir, "-metadata-only", "-skip-existing", "-root", root}, &skipOut, &skipErr); code != 0 {
 		t.Fatalf("skip code = %d, stderr = %q", code, skipErr.String())
 	}
 	if !strings.Contains(skipOut.String(), "Skipped existing: ") || !strings.Contains(skipOut.String(), "[found: /") || strings.Contains(skipOut.String(), "Imported HTML archive to:") {
 		t.Fatalf("skip stdout = %q", skipOut.String())
-	}
-
-	var refreshOut, refreshErr bytes.Buffer
-	if code := Run(context.Background(), []string{"-html-dir", dir, "-metadata-only", "-refresh", "-root", root}, &refreshOut, &refreshErr); code != 0 {
-		t.Fatalf("refresh code = %d, stderr = %q", code, refreshErr.String())
-	}
-	if strings.Contains(refreshOut.String(), "Skipped existing:") || !strings.Contains(refreshOut.String(), "Imported HTML archive to:") {
-		t.Fatalf("refresh stdout = %q", refreshOut.String())
 	}
 }
 

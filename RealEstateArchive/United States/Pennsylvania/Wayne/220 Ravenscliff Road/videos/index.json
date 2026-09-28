@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "path": "United States/Pennsylvania/Wayne/220 Ravenscliff Road/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-8ce18c2895ae.webp",
+      "href": "img-8ce18c2895ae.webp",
+      "size": 218532
+    },
+    {
+      "name": "vid-28edd827043c.mp4",
+      "href": "vid-28edd827043c.mp4",
+      "size": 11777637
+    }
+  ],
+  "last_updated": "2026-09-28T00:18:00.213663Z"
+}

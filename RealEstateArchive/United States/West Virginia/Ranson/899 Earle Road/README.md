@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/charles-town-wv-usa/shotwell-farm-15435674
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:13Z
+- Retrieved: 2026-09-28T00:24:54Z
 - Address: 899 Earle Road , Charles Town, WV 25414, Ranson, West Virginia, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.28091187,-77.92434708
 - Coordinates: 39.28, -77.92
@@ -10,8 +10,8 @@
 - Listing reference: 45KT5K
 - First listed: Apr 3, 2025
 - Last updated: May 18
-- Images downloaded: 74
-- Videos downloaded: 0
+- Images downloaded: 77
+- Videos downloaded: 1
 
 ## Property
 

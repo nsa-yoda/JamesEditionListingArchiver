@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/elk-ca-usa/st-anthony-s-point-16757280
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:42:15Z
+- Retrieved: 2026-09-28T00:25:32Z
 - Address: 5420 South Highway 1, Elk, CA 95432, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.1362621,-123.7225015
 - Coordinates: 39.14, -123.72
@@ -10,7 +10,7 @@
 - Listing reference: LHQY3X
 - First listed: Dec 5, 2025
 - Last updated: December 5, 2025
-- Images downloaded: 81
+- Images downloaded: 87
 
 ## Property
 

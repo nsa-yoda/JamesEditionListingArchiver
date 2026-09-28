@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-17813258
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:36Z
+- Retrieved: 2026-09-28T00:25:21Z
 - Address: 235 Cantrell Road, Monticello, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.621557,-74.684835
 - Coordinates: 41.62, -74.68
@@ -10,7 +10,7 @@
 - Listing reference: 993197
 - First listed: May 1
 - Last updated: May 16
-- Images downloaded: 9
+- Images downloaded: 13
 
 ## Property
 

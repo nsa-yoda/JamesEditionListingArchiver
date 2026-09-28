@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/corfu-greece/ionian-grace-15938535
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:28Z
+- Retrieved: 2026-09-28T00:21:59Z
 - Address: Corfu, Peloponnese, Western Greece and the Ionian, Greece
 - Map: https://www.google.com/maps/search/?api=1&query=39.7178176,19.8685523
 - Coordinates: 39.72, 19.87
@@ -10,7 +10,7 @@
 - Listing reference: 1633307
 - First listed: Jul 17, 2025
 - Last updated: May 2
-- Images downloaded: 10
+- Images downloaded: 17
 
 ## Property
 

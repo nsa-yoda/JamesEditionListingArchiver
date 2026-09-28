@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:07:52Z
+- Retrieved: 2026-09-28T00:20:18Z
 - Address: Loc. Carpineto 5, Castelnuovo Berardenga, Tuscany, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=43.34552,11.50189
 - Coordinates: 43.35, 11.5
@@ -10,7 +10,7 @@
 - Listing reference: CNT3014
 - First listed: Jun 23, 2024
 - Last updated: April 28
-- Images downloaded: 9
+- Images downloaded: 12
 - Videos downloaded: 0
 
 ## Property

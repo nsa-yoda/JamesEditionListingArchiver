@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "CBI134-2230-197",
     "first_listed": "Oct 7, 2025",
     "last_updated": "April 6",
-    "retrieved_at": "2026-06-16T03:43:21.854068Z"
+    "retrieved_at": "2026-09-28T00:20:15.294378Z"
   },
   "location": {
     "address": "Umbertide, Umbria, Italy",
@@ -76,6 +76,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/2200xxs.jpg",
       "file": "004-f6b6915f.webp",
       "media_type": "image/webp",
@@ -84,7 +99,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/2200xxs.jpg",
@@ -95,7 +126,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/2200xxs.jpg",
@@ -106,7 +153,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/2200xxs.jpg",
@@ -117,7 +180,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/2200xxs.jpg",
@@ -128,39 +207,55 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-65836f1eac9d.webp",
+      "media_type": "image/webp",
+      "bytes": 5684,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-2bdf6d5e903c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-49ca498f567d.webp",
+      "media_type": "image/webp",
+      "bytes": 261426,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-6025923e032c.webp",
+      "media_type": "image/webp",
+      "bytes": 196790,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-5887a37dfa45.webp",
+      "media_type": "image/webp",
+      "bytes": 288882,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-305ec48dbe04.webp",
+      "media_type": "image/webp",
+      "bytes": 101060,
+      "status": "new"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -359,6 +454,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/15720614-9d77-45c4-a59e-4a056d5e396c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f715488a-c626-473c-a16e-c94af10d785b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/c2001b55-7d8e-42d9-bf46-5c58f2c42609/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/af250fe9-0172-4430-9089-8f7fefd3524a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/umbertide-italy/Borgo%20In%20Vendita%20A%20Umbertide,%20Comunaglia%20In%20Umbertide,%20Umbria,%20Italy%20For%20Sale%20%2816323504%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/06/13/23/07/f14855cd-53f4-4b7f-bbdb-c1c3d9857d0e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

@@ -283,6 +283,94 @@ func TestAssetsOnlyRefreshPreservesExistingMetadata(t *testing.T) {
 	}
 }
 
+func TestVideosOnlyRefreshPreservesListingMetadataAndImages(t *testing.T) {
+	var imageRequests, videoRequests atomic.Int32
+	video := append([]byte{0x00, 0x00, 0x00, 0x18, 'f', 't', 'y', 'p', 'i', 's', 'o', 'm'}, make([]byte, 128)...)
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, request *http.Request) {
+		switch request.URL.Path {
+		case "/one.jpg":
+			imageRequests.Add(1)
+			w.Header().Set("Content-Type", "image/png")
+			_, _ = w.Write(append([]byte("\x89PNG\r\n\x1a\n"), make([]byte, 600)...))
+		case "/tour.mp4":
+			videoRequests.Add(1)
+			w.Header().Set("Content-Type", "video/mp4")
+			_, _ = w.Write(video)
+		default:
+			http.Error(w, "unexpected request", http.StatusInternalServerError)
+		}
+	}))
+	defer server.Close()
+	client, err := downloader.NewClient(downloader.ClientConfig{Timeout: time.Second, UserAgent: "test"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	root := t.TempDir()
+	service := Service{Client: client, Extractors: []site.Extractor{localExtractor{Extractor: jamesedition.Extractor{}}}}
+	sourceURL := server.URL + "/listing"
+	firstHTML := []byte(`<html><head><meta property="og:title" content="10 Main St, Example, New Jersey 07000"></head><body><img src="/one.jpg"></body></html>`)
+	first, err := service.ImportHTML(context.Background(), sourceURL, firstHTML, Options{Root: root, Workers: 1})
+	if err != nil {
+		t.Fatal(err)
+	}
+	secondHTML := []byte(`<html><head><meta property="og:title" content="Changed title"></head><body><img src="/one.jpg"><video><source src="/tour.mp4" type="video/mp4"></video></body></html>`)
+	second, err := service.ImportHTML(context.Background(), sourceURL, secondHTML, Options{Root: root, Workers: 1, VideosOnly: true})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if second.Listing.Property.Title != first.Listing.Property.Title || len(second.Listing.Images) != 1 || second.Listing.Images[0].File != first.Listing.Images[0].File {
+		t.Fatalf("videos-only refresh changed metadata or images: %#v", second.Listing)
+	}
+	if len(second.Listing.Videos) != 1 || second.Listing.Videos[0].File == "" || imageRequests.Load() != 1 || videoRequests.Load() != 1 {
+		t.Fatalf("videos-only refresh result=%#v, image requests=%d, video requests=%d", second.Listing.Videos, imageRequests.Load(), videoRequests.Load())
+	}
+}
+
+func TestMissingVideoPosterDoesNotMarkDownloadedVideoFailed(t *testing.T) {
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
+		http.Error(w, "missing", http.StatusNotFound)
+	}))
+	defer server.Close()
+	client, err := downloader.NewClient(downloader.ClientConfig{Timeout: time.Second, UserAgent: "test"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	videos := []model.Asset{{SourceURL: "https://player.example/video", File: "video.mp4", Status: "new", PosterSourceURL: server.URL + "/missing.jpg"}}
+	service := Service{Client: client}
+	if err := service.downloadVideoPosters(context.Background(), t.TempDir(), "", Options{Workers: 1}, existingAssetLookups{}, videos); err != nil {
+		t.Fatal(err)
+	}
+	if videos[0].File != "video.mp4" || videos[0].Status != "new" || videos[0].Error != "" {
+		t.Fatalf("missing poster changed video status: %#v", videos[0])
+	}
+}
+
+func TestMergeListingAddsNewValuesAndRetainsEarlierValuesAndFiles(t *testing.T) {
+	old := model.New("https://example.test/listing", "JamesEdition", time.Unix(1, 0))
+	old.Property.Title = "Earlier title"
+	old.Property.Description = "Retained description"
+	old.Property.Features = []string{"Pool"}
+	old.Images = []model.Asset{
+		{SourceURL: "https://example.test/old.jpg", File: "old.webp", Status: "existing"},
+		{SourceURL: "https://example.test/same.jpg", File: "same.webp", Status: "existing"},
+	}
+	current := model.New("https://example.test/listing", "JamesEdition", time.Unix(2, 0))
+	current.Property.Title = "Updated title"
+	current.Property.Features = []string{"Pool", "Garden"}
+	current.Images = []model.Asset{
+		{SourceURL: "https://example.test/same.jpg", File: "same.webp", Status: "existing"},
+		{SourceURL: "https://example.test/same-file-other-url.jpg", File: "same.webp", Status: "existing"},
+	}
+	merged := mergeListing(old, current)
+	merged.Images = mergeAssets(merged.Images, old.Images)
+	if merged.Property.Title != "Updated title" || merged.Property.Description != "Retained description" || strings.Join(merged.Property.Features, ",") != "Pool,Garden" {
+		t.Fatalf("merged metadata = %#v", merged.Property)
+	}
+	if len(merged.Images) != 2 || merged.Images[0].File != "same.webp" || merged.Images[1].File != "old.webp" {
+		t.Fatalf("merged images = %#v", merged.Images)
+	}
+}
+
 func assertBrowserIndexHierarchy(t *testing.T, root, listingDirectory string) {
 	t.Helper()
 	source, err := os.ReadFile("index.html")

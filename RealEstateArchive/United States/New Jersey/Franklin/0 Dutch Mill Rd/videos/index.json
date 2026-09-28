@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "path": "United States/New Jersey/Franklin/0 Dutch Mill Rd/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-ba4f68989216.webp",
+      "href": "img-ba4f68989216.webp",
+      "size": 159536
+    },
+    {
+      "name": "vid-ea0557170ebb.mp4",
+      "href": "vid-ea0557170ebb.mp4",
+      "size": 11611494
+    }
+  ],
+  "last_updated": "2026-09-28T00:21:58.393882Z"
+}

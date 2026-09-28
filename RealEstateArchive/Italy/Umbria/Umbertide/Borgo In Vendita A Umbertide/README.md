@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/umbertide-italy/borgo-in-vendita-a-umbertide-comunaglia-16323504
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:21Z
+- Retrieved: 2026-09-28T00:20:15Z
 - Address: Umbertide, Umbria, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=43.3370095,12.235166
 - Coordinates: 43.34, 12.24
@@ -10,7 +10,7 @@
 - Listing reference: CBI134-2230-197
 - First listed: Oct 7, 2025
 - Last updated: April 6
-- Images downloaded: 10
+- Images downloaded: 16
 - Videos downloaded: 0
 
 ## Property

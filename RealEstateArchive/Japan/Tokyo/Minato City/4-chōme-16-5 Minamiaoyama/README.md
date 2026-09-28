@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/minato-city-japan/minami-aoyama-estate-a-private-domain-behind-omotesando-17627349
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:20Z
+- Retrieved: 2026-09-28T00:22:43Z
 - Address: 4-chōme-16-5 Minamiaoyama, Minato City, Tokyo 107-0062, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.6658151,139.7173948
 - Coordinates: 35.67, 139.72
 - Site listing ID: 17627349
 - First listed: Apr 9
 - Last updated: Yesterday
-- Images downloaded: 25
+- Images downloaded: 29
 
 ## Property
 

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/napa-ca-usa/residential-in-napa-16496924
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:09Z
+- Retrieved: 2026-09-28T00:24:32Z
 - Address: 3000 Mount Veeder Road, Napa, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.375364,-122.412871
 - Coordinates: 38.38, -122.41
@@ -10,7 +10,7 @@
 - Listing reference: 325060896
 - First listed: Oct 27, 2025
 - Last updated: April 7
-- Images downloaded: 86
+- Images downloaded: 90
 
 ## Property
 

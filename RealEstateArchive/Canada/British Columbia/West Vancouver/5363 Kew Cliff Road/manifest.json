@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:52.423394Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/the-finest-waterfront-estate-13864264",
     "canonical_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/the-finest-waterfront-estate-13864264",
@@ -9,13 +9,13 @@
     "listing_reference": "NG453R",
     "first_listed": "Feb 22, 2024",
     "last_updated": "June 19",
-    "retrieved_at": "2026-08-28T00:31:56.747548Z"
+    "retrieved_at": "2026-09-28T00:25:51.866916Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3473,
-      "sha256": "230ca9f418ef18680f245d5947843de1343a9d6ba24b2a74da665472d01447b0"
+      "sha256": "394a065d7bca61ba16d370f12849eaf76e75db8201b8479d51a3fec5bc2cd356"
     },
     {
       "path": "images/img-00a83dbb238a.webp",
@@ -228,6 +228,11 @@
       "sha256": "be1251a1cd4bd36d25a51aa394c585ff97949a6e7ac6f630726ba38a15d10ef1"
     },
     {
+      "path": "images/img-a23fa6743d4b.webp",
+      "bytes": 4566,
+      "sha256": "febfc6f242dba4e287f16c79602422695186ca97d8a8aa5710eb9dfa6a1ced81"
+    },
+    {
       "path": "images/img-a2e389b58b08.webp",
       "bytes": 375472,
       "sha256": "7e1d4b0df749675b275749f1009ffddbd2c415cee8c9de69cb6364baeefa6040"
@@ -281,6 +286,11 @@
       "path": "images/img-c6902e84acdb.webp",
       "bytes": 320714,
       "sha256": "6e0f41cbb101fedf53b241bb5f02c2881f6147aa94b0630940149a9e31d39907"
+    },
+    {
+      "path": "images/img-cafc73f1118d.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-cbcc7ec8d8d6.webp",
@@ -338,6 +348,11 @@
       "sha256": "37eb4f9318d9fdd6fbe5ab1cd2ba2eda7505034bd9d7b8d46610cd82ded1db41"
     },
     {
+      "path": "images/img-f6c66ecb1fd2.webp",
+      "bytes": 27882,
+      "sha256": "d609eb66cc4b2df374c027409ec46c71ae624b2b49a6430afd1e9f49bc369661"
+    },
+    {
       "path": "images/img-f8b583533d49.webp",
       "bytes": 342002,
       "sha256": "9e35877c30081f40a22889dd47279a1f6c0f1894e3dd2b7e805b56b34e407ed8"
@@ -354,8 +369,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 41817,
-      "sha256": "b44ba132a068fabbac2e1d3552e2e0dd247c1e68d4a55898cdc4327823deaa60"
+      "bytes": 62767,
+      "sha256": "57b24d5f19dcb4dd5515d43d1e9ce57e477be1031c5fce23babbd1c6be1318f4"
     },
     {
       "path": "source.html",
@@ -371,17 +386,55 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/2200xxs.jpg",
       "path": "images/img-eea263ad1c60.webp",
       "media_type": "image/webp",
       "bytes": 765372,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs.jpg",
+      "path": "images/img-f2ceed285e99.webp",
+      "media_type": "image/webp",
+      "bytes": 362842,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/34b6f558-d677-4f9c-9836-5463a3745b1a/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/34b6f558-d677-4f9c-9836-5463a3745b1a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/34b6f558-d677-4f9c-9836-5463a3745b1a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/34b6f558-d677-4f9c-9836-5463a3745b1a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/34b6f558-d677-4f9c-9836-5463a3745b1a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/34b6f558-d677-4f9c-9836-5463a3745b1a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -389,13 +442,33 @@
       "path": "images/img-4f87bc919b31.webp",
       "media_type": "image/webp",
       "bytes": 590594,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs%281%29.jpg",
+      "path": "images/img-fbf877c0cbed.webp",
+      "media_type": "image/webp",
+      "bytes": 365934,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/978448fe-2e54-4e74-a0e7-48b93cec339b/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/978448fe-2e54-4e74-a0e7-48b93cec339b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/978448fe-2e54-4e74-a0e7-48b93cec339b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/978448fe-2e54-4e74-a0e7-48b93cec339b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/978448fe-2e54-4e74-a0e7-48b93cec339b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/978448fe-2e54-4e74-a0e7-48b93cec339b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -403,13 +476,33 @@
       "path": "images/img-aaeaf3b9c745.webp",
       "media_type": "image/webp",
       "bytes": 539948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs%282%29.jpg",
+      "path": "images/img-098e42c6619f.webp",
+      "media_type": "image/webp",
+      "bytes": 293552,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/0053950d-f738-4c46-a6cb-a41052b84691/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/0053950d-f738-4c46-a6cb-a41052b84691/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/0053950d-f738-4c46-a6cb-a41052b84691/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/0053950d-f738-4c46-a6cb-a41052b84691/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/0053950d-f738-4c46-a6cb-a41052b84691/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/0053950d-f738-4c46-a6cb-a41052b84691/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -417,13 +510,33 @@
       "path": "images/img-b235bbeca30f.webp",
       "media_type": "image/webp",
       "bytes": 610816,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs%283%29.jpg",
+      "path": "images/img-682040e7c07a.webp",
+      "media_type": "image/webp",
+      "bytes": 244474,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/01983147-8ce8-4d38-b787-6de211202177/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/01983147-8ce8-4d38-b787-6de211202177/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/01983147-8ce8-4d38-b787-6de211202177/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/01983147-8ce8-4d38-b787-6de211202177/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/01983147-8ce8-4d38-b787-6de211202177/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/01983147-8ce8-4d38-b787-6de211202177/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -431,106 +544,38 @@
       "path": "images/img-ad34bdaeda2a.webp",
       "media_type": "image/webp",
       "bytes": 479234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-38ce8c731d5a.webp",
+      "media_type": "image/webp",
+      "bytes": 612376,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-a23fa6743d4b.webp",
+      "media_type": "image/webp",
+      "bytes": 4566,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f6c66ecb1fd2.webp",
+      "media_type": "image/webp",
+      "bytes": 27882,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/02/28/17/44/36/91776db7-68c0-45ff-b13f-8d5689871034/je/2000xxs.jpg",
-      "path": "images/img-f2ceed285e99.webp",
-      "media_type": "image/webp",
-      "bytes": 362842,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/05/20/14/37/04/9398bf92-a31e-439c-b611-4397dc101b01/je/2000xxs.jpg",
-      "path": "images/img-fbf877c0cbed.webp",
-      "media_type": "image/webp",
-      "bytes": 365934,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/03/07/53/5c90d8ed-a098-477e-84f8-40080990d6e1/je/2000xxs.jpg",
-      "path": "images/img-098e42c6619f.webp",
-      "media_type": "image/webp",
-      "bytes": 293552,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/52/2db6ee11-eca0-4ca3-9c5f-83626ea8be97/je/2000xxs.jpg",
-      "path": "images/img-682040e7c07a.webp",
-      "media_type": "image/webp",
-      "bytes": 244474,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/05/22/14/40/11/81273b0c-49ca-47cd-8f6b-627bd2d0da6d/je/2000xxs.jpg",
-      "path": "images/img-38ce8c731d5a.webp",
-      "media_type": "image/webp",
-      "bytes": 612376,
+      "path": "images/img-cafc73f1118d.png",
+      "media_type": "image/png",
+      "bytes": 767001,
       "status": "new"
     },
     {
@@ -539,7 +584,7 @@
       "path": "images/img-77b900aa4c11.webp",
       "media_type": "image/webp",
       "bytes": 256850,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -547,7 +592,7 @@
       "path": "images/img-7b337b4266ba.webp",
       "media_type": "image/webp",
       "bytes": 425510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -555,7 +600,7 @@
       "path": "images/img-8547cb40fa8f.webp",
       "media_type": "image/webp",
       "bytes": 342274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -563,7 +608,7 @@
       "path": "images/img-f60366471ff2.webp",
       "media_type": "image/webp",
       "bytes": 599774,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -571,7 +616,7 @@
       "path": "images/img-d6c159840c68.webp",
       "media_type": "image/webp",
       "bytes": 471800,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -579,7 +624,7 @@
       "path": "images/img-3ef377edd01f.webp",
       "media_type": "image/webp",
       "bytes": 478360,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -587,7 +632,7 @@
       "path": "images/img-00a83dbb238a.webp",
       "media_type": "image/webp",
       "bytes": 545374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -595,7 +640,7 @@
       "path": "images/img-8efecb54ae9b.webp",
       "media_type": "image/webp",
       "bytes": 426092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -603,7 +648,7 @@
       "path": "images/img-6b2f3766955b.webp",
       "media_type": "image/webp",
       "bytes": 414440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -611,7 +656,7 @@
       "path": "images/img-f8b583533d49.webp",
       "media_type": "image/webp",
       "bytes": 342002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -619,7 +664,7 @@
       "path": "images/img-626267390565.webp",
       "media_type": "image/webp",
       "bytes": 399542,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +672,7 @@
       "path": "images/img-c4d48e9e19e7.webp",
       "media_type": "image/webp",
       "bytes": 437864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +680,7 @@
       "path": "images/img-49a9c0dea6f7.webp",
       "media_type": "image/webp",
       "bytes": 367934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +688,7 @@
       "path": "images/img-0b15467f7af2.webp",
       "media_type": "image/webp",
       "bytes": 334310,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +696,7 @@
       "path": "images/img-384231caee69.webp",
       "media_type": "image/webp",
       "bytes": 324914,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +704,7 @@
       "path": "images/img-80abc9f17a9d.webp",
       "media_type": "image/webp",
       "bytes": 370044,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +712,7 @@
       "path": "images/img-17338a98151d.webp",
       "media_type": "image/webp",
       "bytes": 486124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +720,7 @@
       "path": "images/img-7ec0cf96b1ee.webp",
       "media_type": "image/webp",
       "bytes": 155744,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +728,7 @@
       "path": "images/img-cdba92ea1016.webp",
       "media_type": "image/webp",
       "bytes": 435132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +736,7 @@
       "path": "images/img-8eaee391af2f.webp",
       "media_type": "image/webp",
       "bytes": 428324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +744,7 @@
       "path": "images/img-b8f2bb9b5e5b.webp",
       "media_type": "image/webp",
       "bytes": 431638,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +752,7 @@
       "path": "images/img-33edf3c160e1.webp",
       "media_type": "image/webp",
       "bytes": 518186,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +760,7 @@
       "path": "images/img-68c58b7a252b.webp",
       "media_type": "image/webp",
       "bytes": 478026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +768,7 @@
       "path": "images/img-74c75270936b.webp",
       "media_type": "image/webp",
       "bytes": 307278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +776,7 @@
       "path": "images/img-806d641ef72c.webp",
       "media_type": "image/webp",
       "bytes": 292176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +784,7 @@
       "path": "images/img-c33a318ad5f9.webp",
       "media_type": "image/webp",
       "bytes": 250186,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,7 +792,7 @@
       "path": "images/img-14cbda7a2078.webp",
       "media_type": "image/webp",
       "bytes": 258398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -755,7 +800,7 @@
       "path": "images/img-1b8e13904caf.webp",
       "media_type": "image/webp",
       "bytes": 176400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -763,7 +808,7 @@
       "path": "images/img-c276fd6d8750.webp",
       "media_type": "image/webp",
       "bytes": 346932,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -771,7 +816,7 @@
       "path": "images/img-6e80ad8fbdfc.webp",
       "media_type": "image/webp",
       "bytes": 312814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -779,7 +824,7 @@
       "path": "images/img-e886f987cd93.webp",
       "media_type": "image/webp",
       "bytes": 168050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -787,7 +832,7 @@
       "path": "images/img-2f0f6d7e666b.webp",
       "media_type": "image/webp",
       "bytes": 326564,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -795,7 +840,7 @@
       "path": "images/img-8c579322bfcb.webp",
       "media_type": "image/webp",
       "bytes": 310096,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -803,7 +848,7 @@
       "path": "images/img-8b632d2138ba.webp",
       "media_type": "image/webp",
       "bytes": 324068,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -811,7 +856,7 @@
       "path": "images/img-bdac9dc58d22.webp",
       "media_type": "image/webp",
       "bytes": 337346,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -819,7 +864,7 @@
       "path": "images/img-72a10d9dbcc6.webp",
       "media_type": "image/webp",
       "bytes": 184286,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -827,7 +872,7 @@
       "path": "images/img-904b153daeb2.webp",
       "media_type": "image/webp",
       "bytes": 369542,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -835,7 +880,7 @@
       "path": "images/img-3e4781fad959.webp",
       "media_type": "image/webp",
       "bytes": 291694,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -843,7 +888,7 @@
       "path": "images/img-35758e0b968a.webp",
       "media_type": "image/webp",
       "bytes": 200276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -851,7 +896,7 @@
       "path": "images/img-a2e389b58b08.webp",
       "media_type": "image/webp",
       "bytes": 375472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -859,7 +904,7 @@
       "path": "images/img-1d6aeb40d9d0.webp",
       "media_type": "image/webp",
       "bytes": 315368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -867,7 +912,7 @@
       "path": "images/img-048183bd611f.webp",
       "media_type": "image/webp",
       "bytes": 468208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -875,7 +920,7 @@
       "path": "images/img-15db326b6544.webp",
       "media_type": "image/webp",
       "bytes": 350528,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -883,7 +928,7 @@
       "path": "images/img-85dc39a422ec.webp",
       "media_type": "image/webp",
       "bytes": 400976,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -891,7 +936,7 @@
       "path": "images/img-cbcc7ec8d8d6.webp",
       "media_type": "image/webp",
       "bytes": 586644,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -899,7 +944,7 @@
       "path": "images/img-e2a2fd0eab79.webp",
       "media_type": "image/webp",
       "bytes": 557770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -907,7 +952,7 @@
       "path": "images/img-ad4b0e036a49.webp",
       "media_type": "image/webp",
       "bytes": 533568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -915,7 +960,7 @@
       "path": "images/img-23511e28edd1.webp",
       "media_type": "image/webp",
       "bytes": 204786,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -923,7 +968,7 @@
       "path": "images/img-d874dfa4ac01.webp",
       "media_type": "image/webp",
       "bytes": 203778,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -931,7 +976,7 @@
       "path": "images/img-ff9833e99f90.webp",
       "media_type": "image/webp",
       "bytes": 263014,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -939,7 +984,7 @@
       "path": "images/img-046ea1b5ba38.webp",
       "media_type": "image/webp",
       "bytes": 901756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -947,7 +992,7 @@
       "path": "images/img-84ac55fe7314.webp",
       "media_type": "image/webp",
       "bytes": 857702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -955,7 +1000,7 @@
       "path": "images/img-c6902e84acdb.webp",
       "media_type": "image/webp",
       "bytes": 320714,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -963,7 +1008,7 @@
       "path": "images/img-9a13a492fbc6.webp",
       "media_type": "image/webp",
       "bytes": 571956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -971,7 +1016,7 @@
       "path": "images/img-f00d8af3a68b.webp",
       "media_type": "image/webp",
       "bytes": 771756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -979,25 +1024,13 @@
       "path": "images/img-d436cd537691.webp",
       "media_type": "image/webp",
       "bytes": 604938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2200xxsxm%2853%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2200xxsxm%2852%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/west-vancouver-canada/The%20Finest%20Waterfront%20Estate%20In%20West%20Vancouver,%20British%20Columbia,%20Canada%20For%20Sale%20%2813864264%29_files/2200xxsxm%2851%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/21/15/32/14/dafd6b53-e4a5-4e13-b01b-684d05165412/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1005,31 +1038,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 67,
-    "images_existing": 0,
-    "images_failed": 20,
+    "images_new": 3,
+    "images_existing": 67,
+    "images_failed": 19,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

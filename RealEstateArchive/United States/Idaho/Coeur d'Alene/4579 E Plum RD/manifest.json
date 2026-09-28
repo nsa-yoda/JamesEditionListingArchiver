@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:42.606747Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579-e-plum-rd-17757016",
     "canonical_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579-e-plum-rd-17757016",
@@ -9,13 +9,13 @@
     "listing_reference": "B2QJY4",
     "first_listed": "Apr 24",
     "last_updated": "June 9",
-    "retrieved_at": "2026-06-16T03:43:18.139499Z"
+    "retrieved_at": "2026-09-28T00:18:31.603186Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3646,
-      "sha256": "b385e19e631e333127405a440110c320c943603b05d7be66e35ff648a0441869"
+      "bytes": 3647,
+      "sha256": "4796416ae5a2e934f5a7cbdd10b4991831472c922b10bca2374fff1e2d121d4b"
     },
     {
       "path": "images/004-6977027f.webp",
@@ -63,9 +63,69 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-117b84f68eb9.webp",
+      "bytes": 4174,
+      "sha256": "b0d1c79058bf3eda9accdff6d8d0199f8877b0553bf41422dceef6d0a09d5f71"
+    },
+    {
+      "path": "images/img-1347946a9b10.webp",
+      "bytes": 5260,
+      "sha256": "7b3d5aae867d20b1e3c77e50a499b7898ce120195fd2a90d06febdc709b4ca8d"
+    },
+    {
+      "path": "images/img-4357c98a5081.webp",
+      "bytes": 4176,
+      "sha256": "f874b167792feb7b29311e725902252c160585ffd334b6262efe8ca776622dff"
+    },
+    {
+      "path": "images/img-4a037ffefacf.webp",
+      "bytes": 5466,
+      "sha256": "8d3e19755a7c1dbbdc461ad5ca5d37a387e04f8d507800515c045660ac3060bd"
+    },
+    {
+      "path": "images/img-a2d077cb9482.webp",
+      "bytes": 5378,
+      "sha256": "6d1f3141c0734665aa56ca017fc56a23c3c9528625508353dc265cdc1476f6b0"
+    },
+    {
+      "path": "images/img-b38517c9b9c6.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-c0e4f58bd999.webp",
+      "bytes": 4818,
+      "sha256": "7c93a48700cd530d1c2af5368c7f0dee7cb309b70dba9fa0e55a9f29bca27c33"
+    },
+    {
+      "path": "images/img-d0fab39cb5af.webp",
+      "bytes": 4746,
+      "sha256": "72a5bb887e6f021ab1d6602a8adebf111c53a249c4f7fe99fad9f6ffddf1492b"
+    },
+    {
+      "path": "images/img-d6e5421a302b.webp",
+      "bytes": 3526,
+      "sha256": "65795a94fd6df9b5d9bb9c8f1322eabbd69c86a9b23263dea18ecca178604895"
+    },
+    {
+      "path": "images/img-d77547850f27.webp",
+      "bytes": 5466,
+      "sha256": "702c3accbfe04aab2282a61b3a4fe6154f7ac853887a6102375fdeadc80dd0a7"
+    },
+    {
+      "path": "images/img-ddb1158fc2b2.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-f8c97dbfe3ff.webp",
+      "bytes": 4110,
+      "sha256": "97ea0377739b4edc2872e87fc91b267578f85611bb96ac388c06ca6880e2c687"
+    },
+    {
       "path": "listing.json",
-      "bytes": 22609,
-      "sha256": "545ee4ae6f7f17c1673727f72e89ae986f1f6f741b1b07e58ef5ad0aa5e1acea"
+      "bytes": 53088,
+      "sha256": "7ce391fd05cffd127637a8b84b5204b16f9cf29a23fae1dcee97a743795c291e"
     },
     {
       "path": "source.html",
@@ -76,9 +136,47 @@
       "path": "source.url",
       "bytes": 86,
       "sha256": "b367a94df13f3834439aa0d92c0ce52d2b0df816e9a92ffaf7bfc6b00b2ba6d4"
+    },
+    {
+      "path": "videos/img-68bfba1374f1.webp",
+      "bytes": 80856,
+      "sha256": "a09e865ef71301b7473879799c8182efc7e28b3b80bc23df938bfa59cced8346"
+    },
+    {
+      "path": "videos/vid-76541a757d23.mp4",
+      "bytes": 85526276,
+      "sha256": "6412717e45b15d6a97343896a406b1f261b2bbd3e3d767edd20d312defe29fb7"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6394721249112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-76541a757d23.mp4",
+      "media_type": "video/mp4",
+      "bytes": 85526276,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/1040x620xc.jpg",
+      "poster_path": "videos/img-68bfba1374f1.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/2200xxs.jpg",
@@ -90,7 +188,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/07b50974-8846-43b2-b98f-67ea02fd5ca7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/07b50974-8846-43b2-b98f-67ea02fd5ca7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/07b50974-8846-43b2-b98f-67ea02fd5ca7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/07b50974-8846-43b2-b98f-67ea02fd5ca7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/07b50974-8846-43b2-b98f-67ea02fd5ca7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/07b50974-8846-43b2-b98f-67ea02fd5ca7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +220,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1ca3c2bb-0ccb-4d63-bb0f-5db45eb044d8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1ca3c2bb-0ccb-4d63-bb0f-5db45eb044d8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1ca3c2bb-0ccb-4d63-bb0f-5db45eb044d8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1ca3c2bb-0ccb-4d63-bb0f-5db45eb044d8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1ca3c2bb-0ccb-4d63-bb0f-5db45eb044d8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1ca3c2bb-0ccb-4d63-bb0f-5db45eb044d8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +252,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/5f1656a4-72c9-4cbf-ba45-ad140d28a157/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/5f1656a4-72c9-4cbf-ba45-ad140d28a157/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/5f1656a4-72c9-4cbf-ba45-ad140d28a157/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/5f1656a4-72c9-4cbf-ba45-ad140d28a157/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/5f1656a4-72c9-4cbf-ba45-ad140d28a157/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/5f1656a4-72c9-4cbf-ba45-ad140d28a157/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +284,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/703248c8-0547-4feb-ac2b-6889bca5b258/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/703248c8-0547-4feb-ac2b-6889bca5b258/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/703248c8-0547-4feb-ac2b-6889bca5b258/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/703248c8-0547-4feb-ac2b-6889bca5b258/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/703248c8-0547-4feb-ac2b-6889bca5b258/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/703248c8-0547-4feb-ac2b-6889bca5b258/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,67 +316,110 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-117b84f68eb9.webp",
+      "media_type": "image/webp",
+      "bytes": 4174,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ddb1158fc2b2.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f8c97dbfe3ff.webp",
+      "media_type": "image/webp",
+      "bytes": 4110,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d0fab39cb5af.webp",
+      "media_type": "image/webp",
+      "bytes": 4746,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4a037ffefacf.webp",
+      "media_type": "image/webp",
+      "bytes": 5466,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a2d077cb9482.webp",
+      "media_type": "image/webp",
+      "bytes": 5378,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d6e5421a302b.webp",
+      "media_type": "image/webp",
+      "bytes": 3526,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%286%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4357c98a5081.webp",
+      "media_type": "image/webp",
+      "bytes": 4176,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%287%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c0e4f58bd999.webp",
+      "media_type": "image/webp",
+      "bytes": 4818,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%288%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d77547850f27.webp",
+      "media_type": "image/webp",
+      "bytes": 5466,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/160x120xc%289%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1347946a9b10.webp",
+      "media_type": "image/webp",
+      "bytes": 5260,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/coeur-d-alene-id-usa/4579%20E%20Plum%20Rd%20In%20Coeur%20D%27alene,%20Idaho,%20United%20States%20For%20Sale%20%2817757016%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b38517c9b9c6.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/24/15/57/18/1edf4df9-2e89-4a09-8efb-e2a7fb60d7b9/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -238,10 +455,10 @@
     }
   ],
   "summary": {
-    "images_new": 17,
+    "images_new": 12,
     "images_existing": 9,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

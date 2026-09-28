@@ -1,0 +1,19 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/Utah/Park City/125 White Pine Canyon Road/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-33f8c0ed796d.webp",
+      "href": "img-33f8c0ed796d.webp",
+      "size": 219362
+    },
+    {
+      "name": "vid-4e175e40c56f.mp4",
+      "href": "vid-4e175e40c56f.mp4",
+      "size": 54758848
+    }
+  ],
+  "last_updated": "2026-09-28T00:25:51.23991Z"
+};

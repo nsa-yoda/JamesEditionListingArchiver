@@ -8,7 +8,7 @@
     "listing_reference": "06607",
     "first_listed": "Oct 2, 2025",
     "last_updated": "November 8, 2025",
-    "retrieved_at": "2026-08-28T00:32:15.549502Z"
+    "retrieved_at": "2026-09-28T00:26:43.213873Z"
   },
   "location": {
     "address": "Piccolo Pevero, Porto Cervo, 07021, Italy",
@@ -72,300 +72,415 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2200xxs.jpg",
       "file": "img-b4572a9414cd.webp",
       "media_type": "image/webp",
       "bytes": 666254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2200xxs.jpg",
       "file": "img-a97cea00b41e.webp",
       "media_type": "image/webp",
       "bytes": 731062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2200xxs.jpg",
       "file": "img-9d09545bfa3b.webp",
       "media_type": "image/webp",
       "bytes": 705190,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2200xxs.jpg",
       "file": "img-7e2de99907bb.webp",
       "media_type": "image/webp",
       "bytes": 821896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2200xxs.jpg",
       "file": "img-26813acb43ae.webp",
       "media_type": "image/webp",
       "bytes": 789550,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-cd214579a22b.webp",
+      "media_type": "image/webp",
+      "bytes": 5196,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "file": "img-982ac2afa2db.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f2ca572d-d94e-49ee-84ff-f965827bc92d/je/2000xxs.jpg",
       "file": "img-8e4cfa28f555.webp",
       "media_type": "image/webp",
       "bytes": 838454,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c6016d1b-6b88-4fcd-90a3-64fd3389e31a/je/2000xxs.jpg",
       "file": "img-4fdf2805f7d6.webp",
       "media_type": "image/webp",
       "bytes": 571260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/476c6d9e-270f-4f44-aef5-f314c3859d12/je/2000xxs.jpg",
       "file": "img-de3d9b5d0801.webp",
       "media_type": "image/webp",
       "bytes": 416842,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/94a6ff60-36a5-4924-88a8-b0b8b067c2a4/je/2000xxs.jpg",
       "file": "img-aef49d722ab3.webp",
       "media_type": "image/webp",
       "bytes": 226520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5d154073-d9da-494d-901e-9276766d8967/je/2000xxs.jpg",
       "file": "img-6e57918c5688.webp",
       "media_type": "image/webp",
       "bytes": 245820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/f4e0c0d8-cdca-454a-ba8b-25f81123bbf2/je/2000xxs.jpg",
       "file": "img-ac73e0e7921f.webp",
       "media_type": "image/webp",
       "bytes": 220068,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/4b4d1cd8-7fa8-440e-96cf-389e0f1aad64/je/2000xxs.jpg",
       "file": "img-d637acd04db2.webp",
       "media_type": "image/webp",
       "bytes": 426450,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/36a7edf3-ed9e-43e5-9079-1d05eaa864ef/je/2000xxs.jpg",
       "file": "img-bba28057da19.webp",
       "media_type": "image/webp",
       "bytes": 184438,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/c2cdb3c2-3207-414c-9087-500c24666f72/je/2000xxs.jpg",
       "file": "img-5d69d37e82ee.webp",
       "media_type": "image/webp",
       "bytes": 204820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/b9450919-7113-4b44-a2b1-74b59a99fb87/je/2000xxs.jpg",
       "file": "img-fa2f1764970c.webp",
       "media_type": "image/webp",
       "bytes": 432060,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/83e4f719-61df-4cb1-9e88-b347e3bf5ad0/je/2000xxs.jpg",
       "file": "img-262fa6be5a1a.webp",
       "media_type": "image/webp",
       "bytes": 449848,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/25c92afa-2d4f-43d4-87fc-40bc35615ab9/je/2000xxs.jpg",
       "file": "img-4d50c66f42c6.webp",
       "media_type": "image/webp",
       "bytes": 271490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/dc4b48ba-b658-48ad-a343-f4bc5f88bc97/je/2000xxs.jpg",
       "file": "img-8fae5aa20b36.webp",
       "media_type": "image/webp",
       "bytes": 442962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/b3e2b412-5c18-4731-8820-fe1decff1f09/je/2000xxs.jpg",
       "file": "img-47a64baea439.webp",
       "media_type": "image/webp",
       "bytes": 330944,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/01a4dab8-e036-4a08-ba6f-f67ab4950418/je/2000xxs.jpg",
       "file": "img-5d2b54565c44.webp",
       "media_type": "image/webp",
       "bytes": 391584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/943e2606-b5bf-462a-b804-14854619e317/je/2000xxs.jpg",
       "file": "img-7b2a0ce98534.webp",
       "media_type": "image/webp",
       "bytes": 164314,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/7c244a19-5765-4f86-88a2-9b8b8c8483be/je/2000xxs.jpg",
       "file": "img-f5244835a03e.webp",
       "media_type": "image/webp",
       "bytes": 250188,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/10f9c44f-6550-40fc-b8db-7e42319c7d13/je/2000xxs.jpg",
       "file": "img-8732c4f5c294.webp",
       "media_type": "image/webp",
       "bytes": 285308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/37beba51-f4c9-40b9-8bab-8ce77f94d929/je/2000xxs.jpg",
       "file": "img-2085b1c7c597.webp",
       "media_type": "image/webp",
       "bytes": 405472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/2f886419-1fc5-44fe-9d0f-b9b182f6b548/je/2000xxs.jpg",
       "file": "img-12ae9f4632e2.webp",
       "media_type": "image/webp",
       "bytes": 393062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f8f2e774-555e-470f-af3a-14bfba2945c3/je/2000xxs.jpg",
       "file": "img-6ae776a31546.webp",
       "media_type": "image/webp",
       "bytes": 418490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/71c50a3d-3648-4784-8a09-d786486b8beb/je/2000xxs.jpg",
       "file": "img-310747c5216f.webp",
       "media_type": "image/webp",
       "bytes": 121694,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c6c32d7f-5510-4808-b243-20e7ee3ea9ea/je/2000xxs.jpg",
       "file": "img-d0992a797703.webp",
       "media_type": "image/webp",
       "bytes": 165986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/ba029f80-30fe-4fbe-9529-5263e32f8c5a/je/2000xxs.jpg",
       "file": "img-5414ad4ca34f.webp",
       "media_type": "image/webp",
       "bytes": 193784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/491a33b5-66a4-4e68-afd5-181f997d9cf2/je/2000xxs.jpg",
       "file": "img-6c36849de8fb.webp",
       "media_type": "image/webp",
       "bytes": 155316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/c5cdfa9d-d831-4f38-95c5-488bff267a39/je/2000xxs.jpg",
       "file": "img-13ebe4f38fc8.webp",
       "media_type": "image/webp",
       "bytes": 245128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/25/38/ab7d8c82-46f7-4305-8852-0e012d5aa32a/je/2000xxs.jpg",
       "file": "img-676579845eb6.webp",
       "media_type": "image/webp",
       "bytes": 119430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2827%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-df578b891fde.webp",
+      "media_type": "image/webp",
+      "bytes": 191808,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2828%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-9977a9de770e.webp",
+      "media_type": "image/webp",
+      "bytes": 226294,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2829%29.jpg",
+      "file": "img-78c6850bc74b.webp",
+      "media_type": "image/webp",
+      "bytes": 179146,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -556,6 +671,93 @@
     "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/2200xxs%2829%29.jpg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/porto-cervo-italy/Waterfront%20Villa%20Serenity%20In%20Porto%20In%20Marina%20Di%20Porto%20Cervo,%20Arzachena,%20Italy%20For%20Sale%20%2816295932%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/f6e71d2c-900f-44cb-af04-f5df0aa0d7e6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/e318401e-4285-4a8c-a36c-9f648dbe6682/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/25/42/db8abe64-17d8-4b98-aa63-885d557ec4b4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/140bbc3b-6968-4f3f-96d1-14d0a77d06a4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/02/14/26/08/5653c85b-9568-4cfb-ad29-5becb5416d52/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 }

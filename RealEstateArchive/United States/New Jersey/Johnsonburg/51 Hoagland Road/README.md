@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/blairstown-nj-usa/51-hoagland-road-blairstown-nj-07825-18838779
 - Site: jamesedition
-- Retrieved: 2026-09-26T18:46:13Z
+- Retrieved: 2026-09-28T00:18:48Z
 - Address: 51 Hoagland Road , Blairstown, NJ 07825, Johnsonburg, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.9482048,-74.9981206
 - Coordinates: 40.95, -75
@@ -10,7 +10,7 @@
 - Listing reference: Q5LQC9
 - First listed: Sep 11
 - Last updated: September 11
-- Images downloaded: 38
+- Images downloaded: 50
 
 ## Property
 

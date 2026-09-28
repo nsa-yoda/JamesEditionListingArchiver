@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/hawi-hi-usa/exceptional-oceanfront-estate-with-breathtaking-views-17343509
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:23Z
+- Retrieved: 2026-09-28T00:20:52Z
 - Address: 55-194 ULI RD Hawi HI 96719 USA, Hawaii, United States
 - Map: https://www.google.com/maps/search/?api=1&query=20.25894,-155.82032
 - Coordinates: 20.26, -155.82
@@ -10,7 +10,7 @@
 - Listing reference: c4a61f14-74dc-4e3c-93bd-987318f73da4
 - First listed: Mar 5
 - Last updated: June 19
-- Images downloaded: 30
+- Images downloaded: 36
 
 ## Property
 

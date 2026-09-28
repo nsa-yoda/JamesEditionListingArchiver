@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/barnard-vt-usa/monsalvat-farm-one-of-the-finest-properties-in-the-country-18056533
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:21Z
+- Retrieved: 2026-09-28T00:22:45Z
 - Address: Barnard, VT, Vermont, United States
 - Map: https://www.google.com/maps/search/?api=1&query=43.728679,-72.6189876
 - Coordinates: 43.73, -72.62
 - Site listing ID: 18056533
 - First listed: Jun 1
 - Last updated: June 2
-- Images downloaded: 65
+- Images downloaded: 69
 - Videos downloaded: 0
 
 ## Property

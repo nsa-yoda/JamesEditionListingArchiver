@@ -17,6 +17,7 @@ const MaxImportedHTMLBytes = 32 << 20
 type HTMLImport struct {
 	Filename  string
 	SourceURL string
+	MediaDir  string
 	HTML      []byte
 	Err       error
 }
@@ -30,7 +31,7 @@ func ResolveHTMLImports(cfg Config) ([]HTMLImport, error) {
 		if err := downloader.SafeURL(cfg.SourceURL); err != nil {
 			return nil, fmt.Errorf("invalid -source-url: %w", err)
 		}
-		return []HTMLImport{{Filename: cfg.HTMLFile, SourceURL: cfg.SourceURL, HTML: html}}, nil
+		return []HTMLImport{{Filename: cfg.HTMLFile, SourceURL: cfg.SourceURL, MediaDir: sidecarMediaDir(cfg.HTMLFile), HTML: html}}, nil
 	}
 	if cfg.HTMLDir == "" {
 		return nil, nil
@@ -64,9 +65,13 @@ func ResolveHTMLImports(cfg Config) ([]HTMLImport, error) {
 			imports = append(imports, HTMLImport{Filename: filename, HTML: html, Err: err})
 			continue
 		}
-		imports = append(imports, HTMLImport{Filename: filename, SourceURL: sourceURL, HTML: html})
+		imports = append(imports, HTMLImport{Filename: filename, SourceURL: sourceURL, MediaDir: sidecarMediaDir(filename), HTML: html})
 	}
 	return imports, nil
+}
+
+func sidecarMediaDir(filename string) string {
+	return strings.TrimSuffix(filename, filepath.Ext(filename)) + "_files"
 }
 
 func readHTMLFile(filename string) ([]byte, error) {

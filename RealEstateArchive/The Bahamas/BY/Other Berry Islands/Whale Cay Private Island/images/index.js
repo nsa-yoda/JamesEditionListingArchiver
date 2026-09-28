@@ -48,7 +48,17 @@ window.listingArchiveIndex = {
       "name": "032-caf7633d.svg",
       "href": "032-caf7633d.svg",
       "size": 63710
+    },
+    {
+      "name": "img-25dff38651db.png",
+      "href": "img-25dff38651db.png",
+      "size": 8627
+    },
+    {
+      "name": "img-ef16385c2aec.webp",
+      "href": "img-ef16385c2aec.webp",
+      "size": 3348
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:26:53.481011Z"
 };

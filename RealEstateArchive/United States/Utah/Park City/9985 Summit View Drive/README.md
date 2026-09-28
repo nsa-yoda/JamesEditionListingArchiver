@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/park-city-ut-usa/single-family-home-house-park-city-united-states-16207035
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:36Z
+- Retrieved: 2026-09-28T00:25:04Z
 - Address: 9985 Summit View Drive, Park City, Utah, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.631608,-111.470108
 - Coordinates: 40.63, -111.47
@@ -10,7 +10,7 @@
 - Listing reference: ParkCity12504165
 - First listed: Sep 19, 2025
 - Last updated: May 1
-- Images downloaded: 10
+- Images downloaded: 13
 
 ## Property
 

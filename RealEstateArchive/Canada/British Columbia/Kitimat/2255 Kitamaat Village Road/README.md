@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kitimat-canada/refined-coastal-estate-16848348
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:58Z
+- Retrieved: 2026-09-28T00:24:03Z
 - Address: 2255 Kitamaat Village Road, Kitimat, BC V8C 2P4, British Columbia, Canada
 - Map: https://www.google.com/maps/search/?api=1&query=54.032501,-128.623407
 - Coordinates: 54.03, -128.62
@@ -10,8 +10,8 @@
 - Listing reference: E57624
 - First listed: Dec 24, 2025
 - Last updated: April 7
-- Images downloaded: 80
-- Videos downloaded: 0
+- Images downloaded: 95
+- Videos downloaded: 1
 
 ## Property
 

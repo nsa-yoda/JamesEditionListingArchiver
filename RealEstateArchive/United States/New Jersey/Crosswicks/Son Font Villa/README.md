@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/valldemossa-nj-usa/son-font-villa-valldemossa-mallorca-spain-14802153
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:09:13Z
+- Retrieved: 2026-09-28T00:25:31Z
 - Address: Son Font Villa Valldemossa, Mallorca, Spain , Valldemossa, NJ 07170, Crosswicks, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.13909531,-74.6785202
 - Coordinates: 40.14, -74.68
@@ -10,7 +10,7 @@
 - Listing reference: VRPREN
 - First listed: Oct 12, 2024
 - Last updated: October 15, 2024
-- Images downloaded: 28
+- Images downloaded: 31
 
 ## Property
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:16.325408Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/single-family-residence-in-lloyd-neck-17620500",
     "canonical_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/single-family-residence-in-lloyd-neck-17620500",
@@ -9,13 +9,13 @@
     "listing_reference": "980600",
     "first_listed": "Apr 9",
     "last_updated": "May 28",
-    "retrieved_at": "2026-08-28T00:31:15.152999Z"
+    "retrieved_at": "2026-09-28T00:25:15.894137Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3590,
-      "sha256": "aceaa56bf4685ae3b52cbb936d591c94524a256cfa690924206743ac8ec60df6"
+      "sha256": "43c40bbc97c2d948d392c677f2423f153754374f6ed3c02e322132495fdbf05b"
     },
     {
       "path": "images/img-010be4d6ba05.webp",
@@ -88,6 +88,11 @@
       "sha256": "73f0afabfac8f321d349e2e1d574ea8213289a103fb9164e8275ead19363538a"
     },
     {
+      "path": "images/img-454f2b5f76b1.webp",
+      "bytes": 647130,
+      "sha256": "cf8646328b74a6a00fb38eebb52c7dcd2a91b9aa683c23bd4d6560c22162e0fd"
+    },
+    {
       "path": "images/img-48b825159b0f.webp",
       "bytes": 428030,
       "sha256": "ebc2dd66cff387f406ef94cae7de0514327e9c82b92ddf611b04ff8beae2892a"
@@ -146,6 +151,21 @@
       "path": "images/img-70841bc6681b.webp",
       "bytes": 622464,
       "sha256": "08d40160a4b4a17b986c3bbaa3dd2fae0bded8b452552fb1f78046f422bc8ad4"
+    },
+    {
+      "path": "images/img-70f1b75d6c97.png",
+      "bytes": 3564,
+      "sha256": "ad7e16f8e405630ec78ae9c2085714ea2f8cc19fcc1cb9dea9fc73967be9f635"
+    },
+    {
+      "path": "images/img-73d8e0cb4d9c.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-7cbd3ade4570.webp",
+      "bytes": 413004,
+      "sha256": "8a5373ea0cd64838c72ecd3222df3e89485f754a1f4d010e3c0477844dd2c786"
     },
     {
       "path": "images/img-7f803556b901.webp",
@@ -218,6 +238,16 @@
       "sha256": "2e5ec155570f7a077a931e12822ea70145ecc8f52da3e1fb96ce64d01a867f0e"
     },
     {
+      "path": "images/img-cb1d8af7fb77.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-cc5a712e1ac9.webp",
+      "bytes": 4362,
+      "sha256": "43fac281be4b6b852a573c493e71929065e1446463bf5cb40363c6e62a6292e2"
+    },
+    {
       "path": "images/img-cce7c4f1237d.webp",
       "bytes": 87648,
       "sha256": "094f3af32c2f0805c8b00d7d3979b96880ec204c60dc73105f7fab088b47439d"
@@ -269,8 +299,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 32839,
-      "sha256": "ab3db4e91766c961e08ed33545d2e41d9340c9bf672962689746adeba61ad0aa"
+      "bytes": 73094,
+      "sha256": "eb734aa17f7719228afae860d5be0d3adf181f45e3be3c14523d0f4382d346b5"
     },
     {
       "path": "source.html",
@@ -286,17 +316,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/2200xxs.jpg",
       "path": "images/img-bbd99955ca35.webp",
       "media_type": "image/webp",
       "bytes": 347342,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/324d886f-a713-4f93-9255-6633627a7bfc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/324d886f-a713-4f93-9255-6633627a7bfc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/324d886f-a713-4f93-9255-6633627a7bfc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/324d886f-a713-4f93-9255-6633627a7bfc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/324d886f-a713-4f93-9255-6633627a7bfc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/324d886f-a713-4f93-9255-6633627a7bfc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -304,13 +370,31 @@
       "path": "images/img-22988a642a53.webp",
       "media_type": "image/webp",
       "bytes": 417174,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/33467ea4-2cc2-4521-8a14-1f16ac881984/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/33467ea4-2cc2-4521-8a14-1f16ac881984/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/33467ea4-2cc2-4521-8a14-1f16ac881984/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/33467ea4-2cc2-4521-8a14-1f16ac881984/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/33467ea4-2cc2-4521-8a14-1f16ac881984/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/33467ea4-2cc2-4521-8a14-1f16ac881984/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -318,13 +402,31 @@
       "path": "images/img-48b825159b0f.webp",
       "media_type": "image/webp",
       "bytes": 428030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/152b0198-0616-4ed7-9c1d-59ca88049aa9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/152b0198-0616-4ed7-9c1d-59ca88049aa9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/152b0198-0616-4ed7-9c1d-59ca88049aa9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/152b0198-0616-4ed7-9c1d-59ca88049aa9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/152b0198-0616-4ed7-9c1d-59ca88049aa9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/152b0198-0616-4ed7-9c1d-59ca88049aa9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -332,13 +434,31 @@
       "path": "images/img-d529da9d4b86.webp",
       "media_type": "image/webp",
       "bytes": 275456,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/e6657c29-2e88-47f4-bbe2-25b01053f3f4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/e6657c29-2e88-47f4-bbe2-25b01053f3f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/e6657c29-2e88-47f4-bbe2-25b01053f3f4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/e6657c29-2e88-47f4-bbe2-25b01053f3f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/e6657c29-2e88-47f4-bbe2-25b01053f3f4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/e6657c29-2e88-47f4-bbe2-25b01053f3f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -346,37 +466,75 @@
       "path": "images/img-b5da7ba64c65.webp",
       "media_type": "image/webp",
       "bytes": 192254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/M00000489.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-70f1b75d6c97.png",
+      "media_type": "image/png",
+      "bytes": 3564,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-cc5a712e1ac9.webp",
+      "media_type": "image/webp",
+      "bytes": 4362,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-73d8e0cb4d9c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-cb1d8af7fb77.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/324d886f-a713-4f93-9255-6633627a7bfc/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/324d886f-a713-4f93-9255-6633627a7bfc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/33467ea4-2cc2-4521-8a14-1f16ac881984/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/33467ea4-2cc2-4521-8a14-1f16ac881984/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/152b0198-0616-4ed7-9c1d-59ca88049aa9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/152b0198-0616-4ed7-9c1d-59ca88049aa9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/e6657c29-2e88-47f4-bbe2-25b01053f3f4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/18/28/49/e6657c29-2e88-47f4-bbe2-25b01053f3f4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -384,7 +542,7 @@
       "path": "images/img-4c01502e9bf5.webp",
       "media_type": "image/webp",
       "bytes": 680624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -392,7 +550,7 @@
       "path": "images/img-0491a11e4727.webp",
       "media_type": "image/webp",
       "bytes": 109590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -400,7 +558,7 @@
       "path": "images/img-841aa99c038d.webp",
       "media_type": "image/webp",
       "bytes": 478690,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -408,7 +566,7 @@
       "path": "images/img-7f803556b901.webp",
       "media_type": "image/webp",
       "bytes": 427766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -416,7 +574,7 @@
       "path": "images/img-ae3a441dc174.webp",
       "media_type": "image/webp",
       "bytes": 297290,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -424,7 +582,7 @@
       "path": "images/img-df8fa229ad44.webp",
       "media_type": "image/webp",
       "bytes": 159774,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -432,7 +590,7 @@
       "path": "images/img-13f299400970.webp",
       "media_type": "image/webp",
       "bytes": 242562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -440,7 +598,7 @@
       "path": "images/img-010be4d6ba05.webp",
       "media_type": "image/webp",
       "bytes": 263932,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -448,7 +606,7 @@
       "path": "images/img-ca043376eb65.webp",
       "media_type": "image/webp",
       "bytes": 409290,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -456,7 +614,7 @@
       "path": "images/img-e60eab766ce9.webp",
       "media_type": "image/webp",
       "bytes": 497394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -464,7 +622,7 @@
       "path": "images/img-66f0e0b04327.webp",
       "media_type": "image/webp",
       "bytes": 610300,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -472,7 +630,7 @@
       "path": "images/img-3984fc8b7a7d.webp",
       "media_type": "image/webp",
       "bytes": 189876,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -480,7 +638,7 @@
       "path": "images/img-6b8c7dd8cd4b.webp",
       "media_type": "image/webp",
       "bytes": 325336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -488,7 +646,7 @@
       "path": "images/img-e91d9f718ac5.webp",
       "media_type": "image/webp",
       "bytes": 284002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -496,7 +654,7 @@
       "path": "images/img-70841bc6681b.webp",
       "media_type": "image/webp",
       "bytes": 622464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -504,7 +662,7 @@
       "path": "images/img-4ef35a2dedd5.webp",
       "media_type": "image/webp",
       "bytes": 194742,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -512,7 +670,7 @@
       "path": "images/img-576553cd7a9d.webp",
       "media_type": "image/webp",
       "bytes": 56790,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -520,7 +678,7 @@
       "path": "images/img-0c022d182ff6.webp",
       "media_type": "image/webp",
       "bytes": 537384,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -528,7 +686,7 @@
       "path": "images/img-66de6235546e.webp",
       "media_type": "image/webp",
       "bytes": 342960,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -536,7 +694,7 @@
       "path": "images/img-e7073561d89a.webp",
       "media_type": "image/webp",
       "bytes": 423254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -544,7 +702,7 @@
       "path": "images/img-c34f7521af96.webp",
       "media_type": "image/webp",
       "bytes": 368850,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -552,7 +710,7 @@
       "path": "images/img-13a64fa44d60.webp",
       "media_type": "image/webp",
       "bytes": 629946,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -560,7 +718,7 @@
       "path": "images/img-872a7ff0a315.webp",
       "media_type": "image/webp",
       "bytes": 525286,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -568,7 +726,7 @@
       "path": "images/img-cce7c4f1237d.webp",
       "media_type": "image/webp",
       "bytes": 87648,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -576,7 +734,7 @@
       "path": "images/img-b15a940f1721.webp",
       "media_type": "image/webp",
       "bytes": 228954,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -584,7 +742,7 @@
       "path": "images/img-f47eb43b0618.webp",
       "media_type": "image/webp",
       "bytes": 371768,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -592,7 +750,7 @@
       "path": "images/img-58eded6eeda2.webp",
       "media_type": "image/webp",
       "bytes": 158536,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -600,7 +758,7 @@
       "path": "images/img-3f3ae19e31a3.webp",
       "media_type": "image/webp",
       "bytes": 232912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -608,7 +766,7 @@
       "path": "images/img-31b04ba5114e.webp",
       "media_type": "image/webp",
       "bytes": 169890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -616,7 +774,7 @@
       "path": "images/img-023572bb7474.webp",
       "media_type": "image/webp",
       "bytes": 197200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -624,7 +782,7 @@
       "path": "images/img-33f73e0d5ba4.webp",
       "media_type": "image/webp",
       "bytes": 426266,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -632,7 +790,7 @@
       "path": "images/img-f6522f35a4fd.webp",
       "media_type": "image/webp",
       "bytes": 344168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -640,7 +798,7 @@
       "path": "images/img-8f3b1ad37e64.webp",
       "media_type": "image/webp",
       "bytes": 444530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -648,7 +806,7 @@
       "path": "images/img-a2cc9cafd413.webp",
       "media_type": "image/webp",
       "bytes": 191412,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -656,7 +814,7 @@
       "path": "images/img-0e0173dbf29f.webp",
       "media_type": "image/webp",
       "bytes": 208724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -664,7 +822,7 @@
       "path": "images/img-0e12b11ee0f5.webp",
       "media_type": "image/webp",
       "bytes": 152122,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -672,7 +830,7 @@
       "path": "images/img-b2e7b25b44f2.webp",
       "media_type": "image/webp",
       "bytes": 248496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -680,7 +838,7 @@
       "path": "images/img-ea7d7f3f6e01.webp",
       "media_type": "image/webp",
       "bytes": 113224,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -688,7 +846,7 @@
       "path": "images/img-fa8788a38251.webp",
       "media_type": "image/webp",
       "bytes": 308606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -696,7 +854,7 @@
       "path": "images/img-8ec9988349e4.webp",
       "media_type": "image/webp",
       "bytes": 214564,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -704,7 +862,7 @@
       "path": "images/img-6a84d6a11efc.webp",
       "media_type": "image/webp",
       "bytes": 343530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -712,7 +870,7 @@
       "path": "images/img-11d3543cafaa.webp",
       "media_type": "image/webp",
       "bytes": 286694,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -720,7 +878,7 @@
       "path": "images/img-4be7f40bae9c.webp",
       "media_type": "image/webp",
       "bytes": 395102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -728,19 +886,29 @@
       "path": "images/img-8d72e3753044.webp",
       "media_type": "image/webp",
       "bytes": 625668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/2200xxs%2847%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-7cbd3ade4570.webp",
+      "media_type": "image/webp",
+      "bytes": 413004,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/Single%20Family%20Residence%20In%20Lloyd%20Neck%20In%20Lloyd%20Harbor,%20New%20York,%20United%20States%20For%20Sale%20%2817620500%29_files/2200xxs%2848%29.jpg",
+      "path": "images/img-454f2b5f76b1.webp",
+      "media_type": "image/webp",
+      "bytes": 647130,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/27/08/18/23/54010e24-a098-49fa-b4c4-c62d9e6c9c2f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -748,31 +916,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 50,
-    "images_existing": 0,
-    "images_failed": 14,
+    "images_new": 6,
+    "images_existing": 50,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

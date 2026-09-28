@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:08.116386Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/single-family-residence-in-cedar-grove-18349993",
     "canonical_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/single-family-residence-in-cedar-grove-18349993",
@@ -9,13 +9,13 @@
     "listing_reference": "3260574",
     "first_listed": "Jul 6",
     "last_updated": "July 6",
-    "retrieved_at": "2026-08-28T00:30:49.462827Z"
+    "retrieved_at": "2026-09-28T00:25:07.649512Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2808,
-      "sha256": "4584aeda4c2bde766dffc3b64497ae5029e5282463d7f8af00c976cbd82f38eb"
+      "sha256": "a3afb52cc23fc17e1067eeaa9e6926c8ae12da44abea03eac8f32c12c208c606"
     },
     {
       "path": "images/img-005addab0a3b.webp",
@@ -38,6 +38,11 @@
       "sha256": "b0b0bbf63683fd7ef7cfd12a55a19fccff9c97e119f3a8ba37fcc0fa02900ea4"
     },
     {
+      "path": "images/img-1f54ae236a67.webp",
+      "bytes": 4132,
+      "sha256": "136295089b80141ff8faa22cc4cc9c23fd5922bb18231b54f55cfe2c77b1a03a"
+    },
+    {
       "path": "images/img-34ff3f9444d6.webp",
       "bytes": 221106,
       "sha256": "6ba05cc13690a74a9f56962810bc770a540fe5df905e2ea6d06c682118a9379b"
@@ -53,9 +58,19 @@
       "sha256": "038809b3924fc21aae6d6c823bdc4d90353ef64150c140d44204f8d498b527ce"
     },
     {
+      "path": "images/img-414e0bbac06d.png",
+      "bytes": 46139,
+      "sha256": "0bcd3afd6a77d406f1ca79d7c8fd35bae987e28c5accf86bc7f0d097f4cdca74"
+    },
+    {
       "path": "images/img-44148558ded4.webp",
       "bytes": 248756,
       "sha256": "d95546e8a99461090861cebe8ba8d373c75611604d8e23fefa2fede58eec119a"
+    },
+    {
+      "path": "images/img-4871ae75e16d.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-48fbc244cdd6.webp",
@@ -108,6 +123,11 @@
       "sha256": "fb5a28a03501837b868365d9b7aaa4334d77ddb12465a768e937e2d133466c7c"
     },
     {
+      "path": "images/img-739d0aee7a8e.webp",
+      "bytes": 196894,
+      "sha256": "0154d4838b76f77c07dcc4c1820f29a97b7e478fcdc1d1b0853cb4084332a2ab"
+    },
+    {
       "path": "images/img-7f8ed7718bfc.webp",
       "bytes": 122052,
       "sha256": "33ae331d178db33968d7ed1ae0215c10f2f4a3ffdd587eea6eb8faf750186028"
@@ -121,6 +141,11 @@
       "path": "images/img-810a9c613912.webp",
       "bytes": 216898,
       "sha256": "83cd64c6888cb7fe909a11f341befd7c9087d90ba4048a0d4d71b81c1162e6ac"
+    },
+    {
+      "path": "images/img-87103bf58b49.webp",
+      "bytes": 273322,
+      "sha256": "e8365d7d3ce8215259923706ae98a59a8818a16ff2d2606ce2ec783b37a9543e"
     },
     {
       "path": "images/img-8934b359fb55.webp",
@@ -141,6 +166,11 @@
       "path": "images/img-9205849b27d6.webp",
       "bytes": 398094,
       "sha256": "1588940a0c4813545b36bcafdebaca1c808349e177858c7aaba5364013fb3ca6"
+    },
+    {
+      "path": "images/img-938547c5af09.webp",
+      "bytes": 130432,
+      "sha256": "84a562e39e71fbf439dfa89f77a16c911c9ac06c2c18b9a295eb586cae8af6bc"
     },
     {
       "path": "images/img-94452d2e5d8e.webp",
@@ -208,6 +238,11 @@
       "sha256": "944022a3de99f4803ca689fd717b73a4955750c2e17197003c8c99d11e40f09b"
     },
     {
+      "path": "images/img-e9583bcfffee.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-e9c87158de64.webp",
       "bytes": 225486,
       "sha256": "c3c76e47ac3c924b1f71e440839c1586f66758099a67c7a15862554e49fd2afc"
@@ -239,8 +274,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 31706,
-      "sha256": "0d844e20cc7ca7ab89969f0d2005c0d9a28ea5476da3ad9f4ebe90dff43bcb42"
+      "bytes": 72004,
+      "sha256": "96733f401ddd0cd24a1ad4084d4ad8132d688676d91ee85d3ca2eb1fa46eb585"
     },
     {
       "path": "source.html",
@@ -256,17 +291,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/2200xxs.jpg",
       "path": "images/img-d92e61e71590.webp",
       "media_type": "image/webp",
       "bytes": 464652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a8f95a26-9baa-42de-a2ea-2a9ddf8da9ce/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a8f95a26-9baa-42de-a2ea-2a9ddf8da9ce/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a8f95a26-9baa-42de-a2ea-2a9ddf8da9ce/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a8f95a26-9baa-42de-a2ea-2a9ddf8da9ce/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a8f95a26-9baa-42de-a2ea-2a9ddf8da9ce/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a8f95a26-9baa-42de-a2ea-2a9ddf8da9ce/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -274,13 +345,31 @@
       "path": "images/img-f1bdc7fa89b8.webp",
       "media_type": "image/webp",
       "bytes": 600276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/b11ab569-0996-4cc7-a7b8-438a7a281041/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/b11ab569-0996-4cc7-a7b8-438a7a281041/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/b11ab569-0996-4cc7-a7b8-438a7a281041/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/b11ab569-0996-4cc7-a7b8-438a7a281041/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/b11ab569-0996-4cc7-a7b8-438a7a281041/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/b11ab569-0996-4cc7-a7b8-438a7a281041/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -288,13 +377,31 @@
       "path": "images/img-3e62501deb2e.webp",
       "media_type": "image/webp",
       "bytes": 573228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a5e9176b-bc11-404f-bc7d-0f9b1928322a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a5e9176b-bc11-404f-bc7d-0f9b1928322a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a5e9176b-bc11-404f-bc7d-0f9b1928322a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a5e9176b-bc11-404f-bc7d-0f9b1928322a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a5e9176b-bc11-404f-bc7d-0f9b1928322a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a5e9176b-bc11-404f-bc7d-0f9b1928322a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -302,13 +409,31 @@
       "path": "images/img-03805feb11ac.webp",
       "media_type": "image/webp",
       "bytes": 777668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/4fabe7e2-710c-4b2d-a87c-c2af240a3c78/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/4fabe7e2-710c-4b2d-a87c-c2af240a3c78/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/4fabe7e2-710c-4b2d-a87c-c2af240a3c78/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/4fabe7e2-710c-4b2d-a87c-c2af240a3c78/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/4fabe7e2-710c-4b2d-a87c-c2af240a3c78/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/4fabe7e2-710c-4b2d-a87c-c2af240a3c78/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -316,37 +441,75 @@
       "path": "images/img-9a2e6f253159.webp",
       "media_type": "image/webp",
       "bytes": 500374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/M00000574.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-414e0bbac06d.png",
+      "media_type": "image/png",
+      "bytes": 46139,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-1f54ae236a67.webp",
+      "media_type": "image/webp",
+      "bytes": 4132,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-4871ae75e16d.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-e9583bcfffee.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a8f95a26-9baa-42de-a2ea-2a9ddf8da9ce/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a8f95a26-9baa-42de-a2ea-2a9ddf8da9ce/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/b11ab569-0996-4cc7-a7b8-438a7a281041/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/b11ab569-0996-4cc7-a7b8-438a7a281041/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a5e9176b-bc11-404f-bc7d-0f9b1928322a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/a5e9176b-bc11-404f-bc7d-0f9b1928322a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/4fabe7e2-710c-4b2d-a87c-c2af240a3c78/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/4fabe7e2-710c-4b2d-a87c-c2af240a3c78/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -354,7 +517,7 @@
       "path": "images/img-a13adb0f0c77.webp",
       "media_type": "image/webp",
       "bytes": 365688,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -362,7 +525,7 @@
       "path": "images/img-ca095dce49ca.webp",
       "media_type": "image/webp",
       "bytes": 353648,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -370,7 +533,7 @@
       "path": "images/img-005addab0a3b.webp",
       "media_type": "image/webp",
       "bytes": 357134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -378,7 +541,7 @@
       "path": "images/img-b8a159bcd087.webp",
       "media_type": "image/webp",
       "bytes": 225886,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -386,7 +549,7 @@
       "path": "images/img-e9c87158de64.webp",
       "media_type": "image/webp",
       "bytes": 225486,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -394,7 +557,7 @@
       "path": "images/img-6947878728b4.webp",
       "media_type": "image/webp",
       "bytes": 231148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -402,7 +565,7 @@
       "path": "images/img-94f189651665.webp",
       "media_type": "image/webp",
       "bytes": 309748,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -410,7 +573,7 @@
       "path": "images/img-5b26d141e0a9.webp",
       "media_type": "image/webp",
       "bytes": 268340,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -418,7 +581,7 @@
       "path": "images/img-67983262892f.webp",
       "media_type": "image/webp",
       "bytes": 313472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -426,7 +589,7 @@
       "path": "images/img-48fbc244cdd6.webp",
       "media_type": "image/webp",
       "bytes": 204912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -434,7 +597,7 @@
       "path": "images/img-f19a0891279c.webp",
       "media_type": "image/webp",
       "bytes": 250738,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -442,7 +605,7 @@
       "path": "images/img-8934b359fb55.webp",
       "media_type": "image/webp",
       "bytes": 238106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -450,7 +613,7 @@
       "path": "images/img-810a9c613912.webp",
       "media_type": "image/webp",
       "bytes": 216898,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -458,7 +621,7 @@
       "path": "images/img-7f8ed7718bfc.webp",
       "media_type": "image/webp",
       "bytes": 122052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -466,7 +629,7 @@
       "path": "images/img-d46c38d28949.webp",
       "media_type": "image/webp",
       "bytes": 245590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -474,7 +637,7 @@
       "path": "images/img-ed6cfc493d60.webp",
       "media_type": "image/webp",
       "bytes": 180458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -482,7 +645,7 @@
       "path": "images/img-44148558ded4.webp",
       "media_type": "image/webp",
       "bytes": 248756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -490,7 +653,7 @@
       "path": "images/img-5e9eb6efacab.webp",
       "media_type": "image/webp",
       "bytes": 119302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -498,7 +661,7 @@
       "path": "images/img-94452d2e5d8e.webp",
       "media_type": "image/webp",
       "bytes": 171652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -506,7 +669,7 @@
       "path": "images/img-8b763f27820d.webp",
       "media_type": "image/webp",
       "bytes": 163794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -514,7 +677,7 @@
       "path": "images/img-3c2de481dec4.webp",
       "media_type": "image/webp",
       "bytes": 143814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -522,7 +685,7 @@
       "path": "images/img-9cfd5abe17ad.webp",
       "media_type": "image/webp",
       "bytes": 349178,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -530,7 +693,7 @@
       "path": "images/img-d8ba109e4ab9.webp",
       "media_type": "image/webp",
       "bytes": 139740,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -538,7 +701,7 @@
       "path": "images/img-809392faaadf.webp",
       "media_type": "image/webp",
       "bytes": 214832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -546,7 +709,7 @@
       "path": "images/img-4aba7ab52703.webp",
       "media_type": "image/webp",
       "bytes": 262760,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -554,7 +717,7 @@
       "path": "images/img-08242ea7048e.webp",
       "media_type": "image/webp",
       "bytes": 245024,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -562,7 +725,7 @@
       "path": "images/img-67e22fd5b834.webp",
       "media_type": "image/webp",
       "bytes": 277374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -570,7 +733,7 @@
       "path": "images/img-34ff3f9444d6.webp",
       "media_type": "image/webp",
       "bytes": 221106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -578,7 +741,7 @@
       "path": "images/img-d5ddb95af02e.webp",
       "media_type": "image/webp",
       "bytes": 276588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -586,7 +749,7 @@
       "path": "images/img-d436b2f661b1.webp",
       "media_type": "image/webp",
       "bytes": 189942,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -594,7 +757,7 @@
       "path": "images/img-4cfd730cb8f4.webp",
       "media_type": "image/webp",
       "bytes": 100766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -602,7 +765,7 @@
       "path": "images/img-54738a971a4d.webp",
       "media_type": "image/webp",
       "bytes": 175844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -610,7 +773,7 @@
       "path": "images/img-fff92fb5f13f.webp",
       "media_type": "image/webp",
       "bytes": 280904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -618,7 +781,7 @@
       "path": "images/img-f6b03e69dfc1.webp",
       "media_type": "image/webp",
       "bytes": 90698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -626,7 +789,7 @@
       "path": "images/img-095cf9b3f9cd.webp",
       "media_type": "image/webp",
       "bytes": 180196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -634,7 +797,7 @@
       "path": "images/img-9205849b27d6.webp",
       "media_type": "image/webp",
       "bytes": 398094,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -642,7 +805,7 @@
       "path": "images/img-90d5469d43b1.webp",
       "media_type": "image/webp",
       "bytes": 610388,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -650,25 +813,37 @@
       "path": "images/img-c800dbedaa26.webp",
       "media_type": "image/webp",
       "bytes": 769526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/2200xxs%2820%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-739d0aee7a8e.webp",
+      "media_type": "image/webp",
+      "bytes": 196894,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/2200xxs%2821%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-87103bf58b49.webp",
+      "media_type": "image/webp",
+      "bytes": 273322,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-tn-usa/Single%20Family%20Residence%20In%20Cedar%20Grove%20In%20Cedar%20Grove,%20Tennessee,%20United%20States%20For%20Sale%20%2818349993%29_files/2200xxs%2822%29.jpg",
+      "path": "images/img-938547c5af09.webp",
+      "media_type": "image/webp",
+      "bytes": 130432,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/06/12/27/31/08d85b59-f86e-4c1c-8f99-86d7c804b72c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -676,31 +851,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 44,
-    "images_existing": 0,
-    "images_failed": 15,
+    "images_new": 7,
+    "images_existing": 44,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

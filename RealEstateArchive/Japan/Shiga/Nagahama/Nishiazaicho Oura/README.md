@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:40Z
+- Retrieved: 2026-09-28T00:26:20Z
 - Address: Nishiazaicho Oura, Nagahama, Shiga 529-0721, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.4825472,136.1111378
 - Coordinates: 35.48, 136.11
 - Site listing ID: 17467303
 - First listed: Mar 24
 - Last updated: April 24
-- Images downloaded: 10
+- Images downloaded: 19
 
 ## Property
 

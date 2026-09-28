@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:22.187853Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326-raycliffe-drive-woodstock-ny-12498-16267201",
     "canonical_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326-raycliffe-drive-woodstock-ny-12498-16267201",
@@ -9,13 +9,23 @@
     "listing_reference": "xzy7m2",
     "first_listed": "Sep 26, 2025",
     "last_updated": "July 14",
-    "retrieved_at": "2026-08-28T00:27:33.565898Z"
+    "retrieved_at": "2026-09-28T00:18:21.569478Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2753,
-      "sha256": "f07745ea97191cd4c5d43ff5906243e39b1e9ea6d25f10e14fd04d52a61b4569"
+      "sha256": "1249f4403963e8165266a27e4938b4368ab629e99a29d4262f282478b336b93b"
+    },
+    {
+      "path": "images/img-3b0fd7999ff3.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-3c34aa5765cb.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-403984612a86.webp",
@@ -63,6 +73,11 @@
       "sha256": "57110a0aff4ee743e171a9978000ec55f1089944b7880466aab7ab233f997253"
     },
     {
+      "path": "images/img-76b006fa06e8.webp",
+      "bytes": 222328,
+      "sha256": "c3033734fb9824d59c2ba2db30dedd84f687566fb45bbcc3df6d96e90f81aeef"
+    },
+    {
       "path": "images/img-7a063137d0ed.webp",
       "bytes": 467596,
       "sha256": "abf050600f28892cd362f56c6e2ab35554ab4b9588c06bfba30c48352a35f1ba"
@@ -91,6 +106,11 @@
       "path": "images/img-9fe5acc3a25a.webp",
       "bytes": 534364,
       "sha256": "9a1324767eaddfa8f68fb82220daf5ea1b65fa0ce09040737ffc36508e76d6ac"
+    },
+    {
+      "path": "images/img-a01e99679c46.webp",
+      "bytes": 3880,
+      "sha256": "8b826dd53af1b7f0d9202717768e983b7a21d989c8555f425c80df8b9c97d11e"
     },
     {
       "path": "images/img-a0c7df32770e.webp",
@@ -138,14 +158,19 @@
       "sha256": "a9f286bc9e7ed87b6a42ba04b6837371a58b5e31818e26177dc22cfb6104f6e8"
     },
     {
+      "path": "images/img-f527e34f28d0.webp",
+      "bytes": 568176,
+      "sha256": "a02d4cc9a4ee603484fa14c73ba3b1308ff5ff1c48148e652b7ddd077aa167d1"
+    },
+    {
       "path": "images/img-f57f0f6247f1.webp",
       "bytes": 249076,
       "sha256": "176c0110746d0da1b382b8b96ff5225ba373b44247dc577dd386cf1b032f334f"
     },
     {
       "path": "listing.json",
-      "bytes": 25802,
-      "sha256": "dd7856c89a26a616d4e2b5ce1fe3270914a85ea156dde913df599da7f8973b77"
+      "bytes": 65446,
+      "sha256": "2f60ce2954082afad9e9312f9dd1a88e0e03e4a675fe2aa53eaf4d1e1d34489b"
     },
     {
       "path": "source.html",
@@ -161,17 +186,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/2200xxs.jpg",
       "path": "images/img-9ed7a6501598.webp",
       "media_type": "image/webp",
       "bytes": 347620,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -179,13 +240,31 @@
       "path": "images/img-d8bb6d71d3ac.webp",
       "media_type": "image/webp",
       "bytes": 273860,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,13 +272,31 @@
       "path": "images/img-53bcb396a58f.webp",
       "media_type": "image/webp",
       "bytes": 356758,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -207,13 +304,31 @@
       "path": "images/img-86fc202b874d.webp",
       "media_type": "image/webp",
       "bytes": 441538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -221,31 +336,67 @@
       "path": "images/img-e9d89fade1f1.webp",
       "media_type": "image/webp",
       "bytes": 289648,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-a01e99679c46.webp",
+      "media_type": "image/webp",
+      "bytes": 3880,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-3b0fd7999ff3.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-3c34aa5765cb.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/6bf1fd01-88c4-4576-8f17-2579bdd2fc14/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/b5197b8a-0dab-4a85-8aba-7423f99c8b95/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/ee1cc283-c294-41b5-9046-669b7923180d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/a0bf855f-40d9-468d-b641-a93c5ff89311/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -253,7 +404,7 @@
       "path": "images/img-4299f80ef1d0.webp",
       "media_type": "image/webp",
       "bytes": 361862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -261,7 +412,7 @@
       "path": "images/img-a7b982e444bb.webp",
       "media_type": "image/webp",
       "bytes": 374520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -269,7 +420,7 @@
       "path": "images/img-403984612a86.webp",
       "media_type": "image/webp",
       "bytes": 425538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -277,7 +428,7 @@
       "path": "images/img-a0c7df32770e.webp",
       "media_type": "image/webp",
       "bytes": 468316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -285,7 +436,7 @@
       "path": "images/img-503a03ed9704.webp",
       "media_type": "image/webp",
       "bytes": 435372,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -293,7 +444,7 @@
       "path": "images/img-b480f05cec83.webp",
       "media_type": "image/webp",
       "bytes": 401148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -301,7 +452,7 @@
       "path": "images/img-9fe5acc3a25a.webp",
       "media_type": "image/webp",
       "bytes": 534364,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -309,7 +460,7 @@
       "path": "images/img-7a063137d0ed.webp",
       "media_type": "image/webp",
       "bytes": 467596,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -317,7 +468,7 @@
       "path": "images/img-497931e96949.webp",
       "media_type": "image/webp",
       "bytes": 386594,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -325,7 +476,7 @@
       "path": "images/img-df1bd37565c4.webp",
       "media_type": "image/webp",
       "bytes": 538686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -333,7 +484,7 @@
       "path": "images/img-942f86b1fd46.webp",
       "media_type": "image/webp",
       "bytes": 379148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -341,7 +492,7 @@
       "path": "images/img-96f97310af9d.webp",
       "media_type": "image/webp",
       "bytes": 325638,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -349,7 +500,7 @@
       "path": "images/img-4ecac69e8910.webp",
       "media_type": "image/webp",
       "bytes": 368468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -357,7 +508,7 @@
       "path": "images/img-adbc0cec8064.webp",
       "media_type": "image/webp",
       "bytes": 408246,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -365,7 +516,7 @@
       "path": "images/img-c92ac22288b3.webp",
       "media_type": "image/webp",
       "bytes": 466110,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -373,7 +524,7 @@
       "path": "images/img-5ec64ce5bf1a.webp",
       "media_type": "image/webp",
       "bytes": 561958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -381,7 +532,7 @@
       "path": "images/img-f57f0f6247f1.webp",
       "media_type": "image/webp",
       "bytes": 249076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -389,25 +540,29 @@
       "path": "images/img-de2cf7cdefef.webp",
       "media_type": "image/webp",
       "bytes": 210922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2820%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2821%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f527e34f28d0.webp",
+      "media_type": "image/webp",
+      "bytes": 568176,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/woodstock-ny-usa/326%20Raycliffe%20Drive,%20Woodstock,%20Ny%2012498%20In%20Woodstock,%20New%20York,%20United%20States%20For%20Sale%20%2816267201%29_files/2200xxs%2822%29.jpg",
+      "path": "images/img-76b006fa06e8.webp",
+      "media_type": "image/webp",
+      "bytes": 222328,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/8abb7fb8-119a-488f-85a3-771ce78da557/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -415,25 +570,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -441,13 +596,13 @@
       "path": "images/img-4bded5cabe0d.webp",
       "media_type": "image/webp",
       "bytes": 1408,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 25,
-    "images_existing": 0,
-    "images_failed": 14,
+    "images_new": 5,
+    "images_existing": 25,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

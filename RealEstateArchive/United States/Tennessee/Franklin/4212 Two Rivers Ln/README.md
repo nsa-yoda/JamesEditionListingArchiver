@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/franklin-tn-usa/single-family-residence-in-franklin-18387209
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:55Z
+- Retrieved: 2026-09-28T00:25:09Z
 - Address: 4212 Two Rivers Ln, Franklin, Tennessee, United States
 - Map: https://www.google.com/maps/search/?api=1&query=35.964124,-86.921617
 - Coordinates: 35.96, -86.92
@@ -10,7 +10,7 @@
 - Listing reference: 3264050
 - First listed: Jul 9
 - Last updated: July 9
-- Images downloaded: 77
+- Images downloaded: 84
 
 ## Property
 

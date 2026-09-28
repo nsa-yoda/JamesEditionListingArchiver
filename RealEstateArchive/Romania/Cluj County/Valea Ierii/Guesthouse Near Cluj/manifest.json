@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:21:42.441203Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/guesthouse-near-cluj-the-gem-of-the-apuseni-mountains-12257223",
     "canonical_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/guesthouse-near-cluj-the-gem-of-the-apuseni-mountains-12257223",
@@ -9,13 +9,13 @@
     "listing_reference": "P3KB25",
     "first_listed": "Sep 30, 2022",
     "last_updated": "November 27, 2025",
-    "retrieved_at": "2026-06-16T03:43:26.082108Z"
+    "retrieved_at": "2026-09-28T00:21:28.085692Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 4151,
-      "sha256": "5f256f456f36a64a8487b29e2102d704891b42e7e60027138b517e06f765c65a"
+      "bytes": 4152,
+      "sha256": "68f849c1a2268b86e5582d1ed9327949143c8bd7acd198776935e8f8f3709b6c"
     },
     {
       "path": "images/004-5f0e9590.webp",
@@ -63,9 +63,39 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-8f7e14bd82f3.webp",
+      "bytes": 260358,
+      "sha256": "25c40cf03214c88419e10a1453a29e9c576a9f22d37acc1460dfa4d9edbd3b19"
+    },
+    {
+      "path": "images/img-97992ccc3675.webp",
+      "bytes": 5996,
+      "sha256": "62a1cba49e0a7bb67aa7b002e4ea7743c2bb3c9487793f1b92aa7dc37863efc6"
+    },
+    {
+      "path": "images/img-c6198a58ebaa.webp",
+      "bytes": 428724,
+      "sha256": "b20a2e0e2a414ee0df9430084ccec62e8055b55d8d99fb6b857f7885e97b9fbd"
+    },
+    {
+      "path": "images/img-c7c37cc67932.webp",
+      "bytes": 371364,
+      "sha256": "0f1a94090dbda5e538565d08d7549543752b7de209e89973b5c1723963a07d3d"
+    },
+    {
+      "path": "images/img-f41fb647868f.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-f9e4fb2fc3fa.webp",
+      "bytes": 224044,
+      "sha256": "b344fd81dcf5796a6614fd3edbc5e573e2d8cae476d49e5599e59d4c3c288a5a"
+    },
+    {
       "path": "listing.json",
-      "bytes": 18569,
-      "sha256": "82215a4fcb352d8bc6b9973549b3b250c2bd435d2b5bb9f915345f17b3891fed"
+      "bytes": 48816,
+      "sha256": "05b2246aff98e9df065c2a49794af71aa7370d9a214a6efbef4970dd3436a7d5"
     },
     {
       "path": "source.html",
@@ -76,9 +106,47 @@
       "path": "source.url",
       "bytes": 124,
       "sha256": "4404f2042096b9bc40f91cd6ecea49128ff82a480a227ac7c28cbb3c55e3453a"
+    },
+    {
+      "path": "videos/img-04bebcf34c97.webp",
+      "bytes": 227842,
+      "sha256": "71c0ebee300a995b132a1518300e96252f816700aa8679fc813640b5a4f49290"
+    },
+    {
+      "path": "videos/vid-9184ff93cbf3.mp4",
+      "bytes": 95746695,
+      "sha256": "c87c92543d34571066cab038866517946f100817bb95442b7800a5acb5a1936a"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6312964798112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-9184ff93cbf3.mp4",
+      "media_type": "video/mp4",
+      "bytes": 95746695,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/1040x620xc.jpg",
+      "poster_path": "videos/img-04bebcf34c97.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/2200xxs.jpg",
@@ -90,7 +158,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/6036d1de-09e2-4a91-85b1-b9b201dd8e23/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/6036d1de-09e2-4a91-85b1-b9b201dd8e23/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/6036d1de-09e2-4a91-85b1-b9b201dd8e23/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/6036d1de-09e2-4a91-85b1-b9b201dd8e23/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/6036d1de-09e2-4a91-85b1-b9b201dd8e23/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/6036d1de-09e2-4a91-85b1-b9b201dd8e23/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +190,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/06/13/24/16/7a9d6fee-940e-434e-a0ea-0deabab105be/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/06/13/24/16/7a9d6fee-940e-434e-a0ea-0deabab105be/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/06/13/24/16/7a9d6fee-940e-434e-a0ea-0deabab105be/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/06/13/24/16/7a9d6fee-940e-434e-a0ea-0deabab105be/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/06/13/24/16/7a9d6fee-940e-434e-a0ea-0deabab105be/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/06/13/24/16/7a9d6fee-940e-434e-a0ea-0deabab105be/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +222,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b269bbae-f6f1-4cbe-af85-143d2a271301/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b269bbae-f6f1-4cbe-af85-143d2a271301/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b269bbae-f6f1-4cbe-af85-143d2a271301/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b269bbae-f6f1-4cbe-af85-143d2a271301/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b269bbae-f6f1-4cbe-af85-143d2a271301/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b269bbae-f6f1-4cbe-af85-143d2a271301/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +254,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b9626a87-c9ec-45e3-b9b9-dacee0de16bd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b9626a87-c9ec-45e3-b9b9-dacee0de16bd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b9626a87-c9ec-45e3-b9b9-dacee0de16bd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b9626a87-c9ec-45e3-b9b9-dacee0de16bd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b9626a87-c9ec-45e3-b9b9-dacee0de16bd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/b9626a87-c9ec-45e3-b9b9-dacee0de16bd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,47 +286,62 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-97992ccc3675.webp",
+      "media_type": "image/webp",
+      "bytes": 5996,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f41fb647868f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c6198a58ebaa.webp",
+      "media_type": "image/webp",
+      "bytes": 428724,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c7c37cc67932.webp",
+      "media_type": "image/webp",
+      "bytes": 371364,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f9e4fb2fc3fa.webp",
+      "media_type": "image/webp",
+      "bytes": 224044,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8f7e14bd82f3.webp",
+      "media_type": "image/webp",
+      "bytes": 260358,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/valea-ierii-romania/Guesthouse%20Near%20Cluj,%20The%20Gem%20Of%20The%20In%20Valea%20Ierii,%20Cluj%20County,%20Romania%20For%20Sale%20%2812257223%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2022/09/30/12/29/04/cede642e-646d-4283-bd88-37c46320765e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -218,10 +377,10 @@
     }
   ],
   "summary": {
-    "images_new": 13,
+    "images_new": 6,
     "images_existing": 9,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/au-sable-forks-ny-usa/200-black-mountain-road-au-sable-forks-ny-12912-16859388
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:15Z
+- Retrieved: 2026-09-28T00:17:37Z
 - Address: 200 Black Mountain Road , Au Sable Forks, NY 12912, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=44.3995134672355,-73.6361287299505
 - Coordinates: 44.4, -73.64
@@ -10,7 +10,7 @@
 - Listing reference: F9K428
 - First listed: Dec 29, 2025
 - Last updated: December 29, 2025
-- Images downloaded: 8
+- Images downloaded: 11
 
 ## Property
 

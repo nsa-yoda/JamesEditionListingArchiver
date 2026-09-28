@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:05.338153Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000-biscayne-blvd-miami-fl-33132-17572071",
     "canonical_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000-biscayne-blvd-miami-fl-33132-17572071",
@@ -9,13 +9,18 @@
     "listing_reference": "MGPMHH",
     "first_listed": "Apr 6",
     "last_updated": "April 6",
-    "retrieved_at": "2026-08-28T00:26:55.59383Z"
+    "retrieved_at": "2026-09-28T00:17:04.617151Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2612,
-      "sha256": "0cb98635d383215b5864c01feb38b66608d98767b3b34ca074ae2bf629dae1a8"
+      "sha256": "d993732e2cc5ca90215609ca94a4749f1900ad9dfb527fb461fa7266c9478175"
+    },
+    {
+      "path": "images/img-005564cbef56.webp",
+      "bytes": 65648,
+      "sha256": "65affdfd1e2e867aea1868cef2b32afecc353f395d3f630006964b8b19976d34"
     },
     {
       "path": "images/img-057413c1cd97.webp",
@@ -88,9 +93,24 @@
       "sha256": "924e7e985d7ef715f362b9798892518ba05854e481083473eb0d4def088eed4c"
     },
     {
+      "path": "images/img-3b40a830c83a.webp",
+      "bytes": 184392,
+      "sha256": "1c8b88a189cbf51b9d2a265bb39a04002a7decb40de5c338c34a2587a140bf90"
+    },
+    {
       "path": "images/img-3cdbded74855.webp",
       "bytes": 116130,
       "sha256": "65bf970ba2d1ad3c37a3c6f0dd883e2c8bd5954b087cc53a436d0a435f6dad15"
+    },
+    {
+      "path": "images/img-4577df3a8a51.webp",
+      "bytes": 176952,
+      "sha256": "b5d06437f2e4afe26ae49a11a2157b906cc37af3040de8b514bd02fb322b19d0"
+    },
+    {
+      "path": "images/img-486f222c0a63.webp",
+      "bytes": 176952,
+      "sha256": "b5d06437f2e4afe26ae49a11a2157b906cc37af3040de8b514bd02fb322b19d0"
     },
     {
       "path": "images/img-48f7c6c03e65.webp",
@@ -103,9 +123,19 @@
       "sha256": "db7152a8891032ad18d91e81d2686e9116183ba8dd200a17b285a3cda3afd617"
     },
     {
+      "path": "images/img-51f55dc8341e.webp",
+      "bytes": 712736,
+      "sha256": "2e50723a092d1f2c2ad1501e27d4eccd203ad7cc8ef3bf52542659ec23b7d88a"
+    },
+    {
       "path": "images/img-537890ad6755.webp",
       "bytes": 121168,
       "sha256": "2289979e92dab2efec55e034531409b87b47731c2d5c6c4f6527a55831a4b7cc"
+    },
+    {
+      "path": "images/img-5593eec07614.webp",
+      "bytes": 3900,
+      "sha256": "8edb2b3e477095fe7d9578017426b6851c8473e4388b28434ee7ccc5e65e6dce"
     },
     {
       "path": "images/img-57242b8ef18d.webp",
@@ -113,14 +143,29 @@
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
     },
     {
+      "path": "images/img-592943cc6b4d.webp",
+      "bytes": 176952,
+      "sha256": "b5d06437f2e4afe26ae49a11a2157b906cc37af3040de8b514bd02fb322b19d0"
+    },
+    {
       "path": "images/img-6f76e4660515.webp",
       "bytes": 57454,
       "sha256": "896bd1c3d5d6e1c830192447e82038680ac7b7b367ebba620e2b8b28b508c488"
     },
     {
+      "path": "images/img-6f7820f5cf56.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-724016d6b0f2.webp",
       "bytes": 137766,
       "sha256": "7baa7e82478633227d91e7cd8161cf397fc3b996d1a57e8e00764106c1921658"
+    },
+    {
+      "path": "images/img-7751e4106f4d.webp",
+      "bytes": 176952,
+      "sha256": "b5d06437f2e4afe26ae49a11a2157b906cc37af3040de8b514bd02fb322b19d0"
     },
     {
       "path": "images/img-777551e3a633.webp",
@@ -168,9 +213,19 @@
       "sha256": "fe1339a327392dab904bf678b67f94562baa000d90be54cd20e752876144fc1b"
     },
     {
+      "path": "images/img-9abf946c0b1f.webp",
+      "bytes": 620534,
+      "sha256": "0813b144b14e7c7df6ceb29ee6a46f0a0bdf144b64ae60c5954be270da421247"
+    },
+    {
       "path": "images/img-9adbc516136c.webp",
       "bytes": 91090,
       "sha256": "7dc0b8fc730939939e463a573eff83f45c96f6dfc1a99dfda21b2eb618b23479"
+    },
+    {
+      "path": "images/img-a060a2072f33.webp",
+      "bytes": 224244,
+      "sha256": "3f9b73411f8f52214bdd470b0393728f5095c1c80b25d9501123bbf19842ae45"
     },
     {
       "path": "images/img-a2c2de58f7c2.webp",
@@ -223,6 +278,11 @@
       "sha256": "46796e3d776bc03332150cec5df2a1f3b680a6289a731acc161aec990165c137"
     },
     {
+      "path": "images/img-d4cda6b3933a.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-dcb0d671a76c.webp",
       "bytes": 147682,
       "sha256": "9be6d95bf517ec425cd2abc54eee245da93b0ec456ed870c28f69ffc441c2cd8"
@@ -243,6 +303,11 @@
       "sha256": "13950752f32401d268e223a3637b35a60643cfc5c1fa942a44f4f2df1ab2d359"
     },
     {
+      "path": "images/img-e5cb4d3b5d52.webp",
+      "bytes": 133318,
+      "sha256": "42dd4981561f0d97292305beda75712181023b57f4a9b8ac395e91e8e0abd6af"
+    },
+    {
       "path": "images/img-e7c32de7d92f.webp",
       "bytes": 93158,
       "sha256": "c5c3ee82b11c03df12c3f7d4e31e9d935a643e72ea210ba5dc53523013199a7c"
@@ -251,6 +316,11 @@
       "path": "images/img-ebd36eb94248.webp",
       "bytes": 93538,
       "sha256": "75bfb8f5bed3fc37a4fff477a79cda38a84e587bf54b3b8648cdf3c54c865a6a"
+    },
+    {
+      "path": "images/img-ee46dd368df4.webp",
+      "bytes": 176952,
+      "sha256": "b5d06437f2e4afe26ae49a11a2157b906cc37af3040de8b514bd02fb322b19d0"
     },
     {
       "path": "images/img-efd72824eafd.webp",
@@ -288,9 +358,14 @@
       "sha256": "2a011f06af3114436de0c3d7be0f2ab67fd788a44d98d34aa0b715c00da0b7b7"
     },
     {
+      "path": "images/img-fa3f1f17ab4b.webp",
+      "bytes": 178534,
+      "sha256": "a97062e6bb485143a7f245576b2754d258b45a46e0ebb411464596e2a75739a8"
+    },
+    {
       "path": "listing.json",
-      "bytes": 36026,
-      "sha256": "55b24e269f7903f44e296a6ec241bd9981690416d862d3bdbc8d6f0509226708"
+      "bytes": 60948,
+      "sha256": "4b31c9a48d9fd7f3f969c04a76955ae1eaf6f6326d8e1421768caf3b416bb342"
     },
     {
       "path": "source.html",
@@ -306,17 +381,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/2200xxs.jpg",
       "path": "images/img-e071e9d5c0da.webp",
       "media_type": "image/webp",
       "bytes": 203670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -324,13 +429,25 @@
       "path": "images/img-cd96266c2280.webp",
       "media_type": "image/webp",
       "bytes": 209188,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -338,13 +455,33 @@
       "path": "images/img-d1c80ea7df5b.webp",
       "media_type": "image/webp",
       "bytes": 297652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs%282%29.jpg",
+      "path": "images/img-3b40a830c83a.webp",
+      "media_type": "image/webp",
+      "bytes": 184392,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -352,13 +489,33 @@
       "path": "images/img-f02f8adfcf18.webp",
       "media_type": "image/webp",
       "bytes": 230662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs%283%29.jpg",
+      "path": "images/img-e5cb4d3b5d52.webp",
+      "media_type": "image/webp",
+      "bytes": 133318,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/def77931-9cb9-441a-97cb-36dbd70e86fb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -366,98 +523,102 @@
       "path": "images/img-907f419e9c57.webp",
       "media_type": "image/webp",
       "bytes": 219620,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-005564cbef56.webp",
+      "media_type": "image/webp",
+      "bytes": 65648,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-5593eec07614.webp",
+      "media_type": "image/webp",
+      "bytes": 3900,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-6f7820f5cf56.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-d4cda6b3933a.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-ee46dd368df4.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-fa3f1f17ab4b.webp",
+      "media_type": "image/webp",
+      "bytes": 178534,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-32fa74a07bf4.webp",
+      "media_type": "image/webp",
+      "bytes": 162338,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-3cdbded74855.webp",
+      "media_type": "image/webp",
+      "bytes": 116130,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-6f76e4660515.webp",
+      "media_type": "image/webp",
+      "bytes": 57454,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d31136ef-47f4-41e3-b869-221d218ca21d/je/2000xxs.jpg",
-      "path": "images/img-32fa74a07bf4.webp",
-      "media_type": "image/webp",
-      "bytes": 162338,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/2600147d-e868-459f-9593-4e082c7db9eb/je/2000xxs.jpg",
-      "path": "images/img-3cdbded74855.webp",
-      "media_type": "image/webp",
-      "bytes": 116130,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/2dd400e0-d24d-48a1-9c14-feb592e01184/je/2000xxs.jpg",
-      "path": "images/img-6f76e4660515.webp",
-      "media_type": "image/webp",
-      "bytes": 57454,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/fd208ffd-5291-4398-8a2a-eb640b2d3ec8/je/2000xxs.jpg",
       "path": "images/img-b77ef8a67c7a.webp",
       "media_type": "image/webp",
       "bytes": 211578,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/2000xxs.jpg",
+      "path": "images/img-486f222c0a63.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/76cbcd87-a204-4773-8f1f-f4aec59ed8ea/je/2000xxs.jpg",
+      "path": "images/img-592943cc6b4d.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
       "status": "new"
     },
     {
@@ -466,7 +627,7 @@
       "path": "images/img-c3de3d526e7f.webp",
       "media_type": "image/webp",
       "bytes": 142858,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -474,7 +635,7 @@
       "path": "images/img-777551e3a633.webp",
       "media_type": "image/webp",
       "bytes": 132882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -482,7 +643,7 @@
       "path": "images/img-7c3cf927431d.webp",
       "media_type": "image/webp",
       "bytes": 127368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -490,7 +651,7 @@
       "path": "images/img-f52f3bf9ee02.webp",
       "media_type": "image/webp",
       "bytes": 143190,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -498,7 +659,7 @@
       "path": "images/img-8d4776ffeaab.webp",
       "media_type": "image/webp",
       "bytes": 142842,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -506,7 +667,7 @@
       "path": "images/img-81fa31bcdc83.webp",
       "media_type": "image/webp",
       "bytes": 111728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -514,7 +675,7 @@
       "path": "images/img-e7c32de7d92f.webp",
       "media_type": "image/webp",
       "bytes": 93158,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -522,7 +683,7 @@
       "path": "images/img-f12f0fba63a2.webp",
       "media_type": "image/webp",
       "bytes": 127148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -530,7 +691,7 @@
       "path": "images/img-2c6de0894031.webp",
       "media_type": "image/webp",
       "bytes": 123026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -538,7 +699,7 @@
       "path": "images/img-724016d6b0f2.webp",
       "media_type": "image/webp",
       "bytes": 137766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -546,6 +707,22 @@
       "path": "images/img-bdaa269b8759.webp",
       "media_type": "image/webp",
       "bytes": 144686,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/550bd369-8f31-4214-85f2-6318c95a3bf2/je/2000xxs.jpg",
+      "path": "images/img-4577df3a8a51.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/076e6d2d-51ef-43e0-9440-99dc26d982c1/je/2000xxs.jpg",
+      "path": "images/img-7751e4106f4d.webp",
+      "media_type": "image/webp",
+      "bytes": 176952,
       "status": "new"
     },
     {
@@ -554,7 +731,7 @@
       "path": "images/img-173606e1d1d1.webp",
       "media_type": "image/webp",
       "bytes": 222902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -562,7 +739,7 @@
       "path": "images/img-efd72824eafd.webp",
       "media_type": "image/webp",
       "bytes": 216378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -570,7 +747,7 @@
       "path": "images/img-f53dd770b650.webp",
       "media_type": "image/webp",
       "bytes": 180458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -578,7 +755,7 @@
       "path": "images/img-87e1ddc47e16.webp",
       "media_type": "image/webp",
       "bytes": 614210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -586,7 +763,7 @@
       "path": "images/img-d22fcda5f006.webp",
       "media_type": "image/webp",
       "bytes": 539278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -594,7 +771,7 @@
       "path": "images/img-dfb067da0b28.webp",
       "media_type": "image/webp",
       "bytes": 198474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -602,7 +779,7 @@
       "path": "images/img-8244f96f4317.webp",
       "media_type": "image/webp",
       "bytes": 232562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -610,7 +787,7 @@
       "path": "images/img-062ec5285755.webp",
       "media_type": "image/webp",
       "bytes": 77676,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -618,7 +795,7 @@
       "path": "images/img-48ffd5eb4aac.webp",
       "media_type": "image/webp",
       "bytes": 137374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -626,7 +803,7 @@
       "path": "images/img-0f43dde9b450.webp",
       "media_type": "image/webp",
       "bytes": 97020,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -634,7 +811,7 @@
       "path": "images/img-a2c2de58f7c2.webp",
       "media_type": "image/webp",
       "bytes": 125684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -642,7 +819,7 @@
       "path": "images/img-23cd307d27e4.webp",
       "media_type": "image/webp",
       "bytes": 50276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -650,7 +827,7 @@
       "path": "images/img-0e2e83132632.webp",
       "media_type": "image/webp",
       "bytes": 109154,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -658,7 +835,7 @@
       "path": "images/img-263c93de08fa.webp",
       "media_type": "image/webp",
       "bytes": 162048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -666,7 +843,7 @@
       "path": "images/img-dcb0d671a76c.webp",
       "media_type": "image/webp",
       "bytes": 147682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -674,7 +851,7 @@
       "path": "images/img-b31eb7029a9f.webp",
       "media_type": "image/webp",
       "bytes": 179994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -682,7 +859,7 @@
       "path": "images/img-057413c1cd97.webp",
       "media_type": "image/webp",
       "bytes": 191872,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -690,7 +867,7 @@
       "path": "images/img-7c0032de674f.webp",
       "media_type": "image/webp",
       "bytes": 131216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -698,7 +875,7 @@
       "path": "images/img-32aeaaebe383.webp",
       "media_type": "image/webp",
       "bytes": 119302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -706,7 +883,7 @@
       "path": "images/img-9adbc516136c.webp",
       "media_type": "image/webp",
       "bytes": 91090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -714,7 +891,7 @@
       "path": "images/img-82c15c42de3d.webp",
       "media_type": "image/webp",
       "bytes": 69734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -722,7 +899,7 @@
       "path": "images/img-132b3bb677ed.webp",
       "media_type": "image/webp",
       "bytes": 98442,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -730,7 +907,7 @@
       "path": "images/img-48f7c6c03e65.webp",
       "media_type": "image/webp",
       "bytes": 209516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -738,7 +915,7 @@
       "path": "images/img-c8a4b97dd86e.webp",
       "media_type": "image/webp",
       "bytes": 104814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -746,7 +923,7 @@
       "path": "images/img-537890ad6755.webp",
       "media_type": "image/webp",
       "bytes": 121168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -754,7 +931,7 @@
       "path": "images/img-bfb3015fc539.webp",
       "media_type": "image/webp",
       "bytes": 72874,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -762,7 +939,7 @@
       "path": "images/img-e501cba3cc61.webp",
       "media_type": "image/webp",
       "bytes": 52942,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -770,7 +947,7 @@
       "path": "images/img-f407fb04ba50.webp",
       "media_type": "image/webp",
       "bytes": 89748,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -778,7 +955,7 @@
       "path": "images/img-ebd36eb94248.webp",
       "media_type": "image/webp",
       "bytes": 93538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -786,7 +963,7 @@
       "path": "images/img-07e70bcd9250.webp",
       "media_type": "image/webp",
       "bytes": 167880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -794,7 +971,7 @@
       "path": "images/img-f83343064ba8.webp",
       "media_type": "image/webp",
       "bytes": 76202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -802,7 +979,7 @@
       "path": "images/img-3ab3b41ff0e8.webp",
       "media_type": "image/webp",
       "bytes": 407756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -810,25 +987,37 @@
       "path": "images/img-0e649cbad609.webp",
       "media_type": "image/webp",
       "bytes": 312756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2200xxsxm%2823%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-51f55dc8341e.webp",
+      "media_type": "image/webp",
+      "bytes": 712736,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2200xxsxm%2824%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-9abf946c0b1f.webp",
+      "media_type": "image/webp",
+      "bytes": 620534,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/miami-fl-usa/1000%20Biscayne%20Blvd,%20Miami,%20Fl,%2033132%20In%20Miami,%20Florida,%20United%20States%20For%20Sale%20%2817572071%29_files/2200xxsxm%2825%29.jpg",
+      "path": "images/img-a060a2072f33.webp",
+      "media_type": "image/webp",
+      "bytes": 224244,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/06/12/38/30/d729ddf9-1c7f-4bee-93b8-a630484e2aca/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -836,31 +1025,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 54,
-    "images_existing": 0,
-    "images_failed": 20,
+    "images_new": 15,
+    "images_existing": 54,
+    "images_failed": 19,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

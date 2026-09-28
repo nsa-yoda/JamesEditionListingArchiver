@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:58.234567Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405",
     "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405",
@@ -9,13 +9,13 @@
     "listing_reference": "124865",
     "first_listed": "May 1",
     "last_updated": "Yesterday",
-    "retrieved_at": "2026-06-19T08:18:17.121632Z"
+    "retrieved_at": "2026-09-28T00:18:57.659911Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2016,
-      "sha256": "8a49ae025ad8d98f34c6a296eb7a8a1aecc91c297a9adb21feb61e00c003d6ed"
+      "sha256": "129227c2c663ce7c3a6f2b1b73d2004d4187bb551e3feea9bbe0d85a68309f35"
     },
     {
       "path": "images/img-0615e79edbde.webp",
@@ -26,6 +26,11 @@
       "path": "images/img-072f94879724.webp",
       "bytes": 671156,
       "sha256": "9c2e67a27b0800de7d83dbce49b562a0a3e22be5d1690839b7648a6a14bf1e19"
+    },
+    {
+      "path": "images/img-148670a48a2d.webp",
+      "bytes": 801012,
+      "sha256": "ba2e866dbc9412b86f2d50ae3c9284cec1074614def43f4020f3315c37f4f54b"
     },
     {
       "path": "images/img-1c3112066ceb.webp",
@@ -168,6 +173,11 @@
       "sha256": "88855257ecdf8c29b51d7f664c36a051d97d96b35ea9afa743f071209af8513e"
     },
     {
+      "path": "images/img-91fe567cd1cc.webp",
+      "bytes": 4352,
+      "sha256": "b64991189cb5c74e1ef1649f1cd433da6dfb5ccbc7fed58c5fa9a9b6171eebc6"
+    },
+    {
       "path": "images/img-9442716414a9.webp",
       "bytes": 678864,
       "sha256": "9e4602ed59185c0421a3c5b7b70c702fdb9365660812c18d8d02c44257eef656"
@@ -181,6 +191,11 @@
       "path": "images/img-9e45794d2984.webp",
       "bytes": 400662,
       "sha256": "52cff5e9bbfec5dd9bf25cfae909f4a2b769e2716a580c25d10b7d201f393df4"
+    },
+    {
+      "path": "images/img-ac687f69bfbb.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-bb3ea980dda3.webp",
@@ -223,6 +238,21 @@
       "sha256": "159cc2bd5d3eb231c0dfd01cc885ac6dbda0429b8ba75d74cb1f887ee5a352d8"
     },
     {
+      "path": "images/img-d86e949251e9.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-e56d5b02f986.webp",
+      "bytes": 907382,
+      "sha256": "475752cf5c021983e33158036f147920b81d5064f3a8dd44f87dcac268c8c8ff"
+    },
+    {
+      "path": "images/img-ecfd477c786b.webp",
+      "bytes": 621316,
+      "sha256": "da4d2389102382af32b452d653d2824ffad7f6847152a5e7096fc3637dbeaeff"
+    },
+    {
       "path": "images/img-ed62b2824b7c.webp",
       "bytes": 92792,
       "sha256": "08f088f91354700e62387e4dd06d2b3513756827242c889b0641599ff1f80eb1"
@@ -239,8 +269,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 26556,
-      "sha256": "6079589d10aba3019a10edd346b2d30e330c02049baad3962524bbee87e27fc3"
+      "bytes": 62657,
+      "sha256": "a930ecd575c0d9cdbab39e49a67ac084d5e860825b5f6f07036646c0c20bbd00"
     },
     {
       "path": "source.html",
@@ -256,17 +286,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/2200xxs.jpg",
       "path": "images/img-072f94879724.webp",
       "media_type": "image/webp",
       "bytes": 671156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -274,13 +340,31 @@
       "path": "images/img-bcea89336c75.webp",
       "media_type": "image/webp",
       "bytes": 667430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -288,13 +372,31 @@
       "path": "images/img-36e4db0bf791.webp",
       "media_type": "image/webp",
       "bytes": 430866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -302,13 +404,31 @@
       "path": "images/img-cdf6faadb808.webp",
       "media_type": "image/webp",
       "bytes": 226930,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -316,31 +436,67 @@
       "path": "images/img-5e48bd0736ab.webp",
       "media_type": "image/webp",
       "bytes": 158596,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-91fe567cd1cc.webp",
+      "media_type": "image/webp",
+      "bytes": 4352,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ac687f69bfbb.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-d86e949251e9.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/11f27229-2e59-4787-bce8-3b694e3b6d42/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5c37826e-a599-4552-a335-70b2a3fcfd04/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9b986a15-a024-42f3-b1bf-70d43824ac91/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/19/14/41/51/6b3c0dc5-c268-48e0-8a80-bcb0f69c3618/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -348,7 +504,7 @@
       "path": "images/img-5cbe077b5d42.webp",
       "media_type": "image/webp",
       "bytes": 183652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -356,7 +512,7 @@
       "path": "images/img-4d8f12b12d5f.webp",
       "media_type": "image/webp",
       "bytes": 234420,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -364,7 +520,7 @@
       "path": "images/img-7742078c7dff.webp",
       "media_type": "image/webp",
       "bytes": 208124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -372,7 +528,7 @@
       "path": "images/img-edd0ef2845ae.webp",
       "media_type": "image/webp",
       "bytes": 173668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -380,7 +536,7 @@
       "path": "images/img-712bdef12f47.webp",
       "media_type": "image/webp",
       "bytes": 222496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -388,7 +544,7 @@
       "path": "images/img-8bc047a24521.webp",
       "media_type": "image/webp",
       "bytes": 282222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -396,7 +552,7 @@
       "path": "images/img-8fcca90eaddb.webp",
       "media_type": "image/webp",
       "bytes": 185556,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -404,7 +560,7 @@
       "path": "images/img-50af0f8a3420.webp",
       "media_type": "image/webp",
       "bytes": 255352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -412,7 +568,7 @@
       "path": "images/img-2c42860e006f.webp",
       "media_type": "image/webp",
       "bytes": 206050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -420,7 +576,7 @@
       "path": "images/img-7d26d55c155c.webp",
       "media_type": "image/webp",
       "bytes": 140148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -428,7 +584,7 @@
       "path": "images/img-ed62b2824b7c.webp",
       "media_type": "image/webp",
       "bytes": 92792,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -436,7 +592,7 @@
       "path": "images/img-44dee6afcdd1.webp",
       "media_type": "image/webp",
       "bytes": 173250,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -444,7 +600,7 @@
       "path": "images/img-3e5c8afbad6e.webp",
       "media_type": "image/webp",
       "bytes": 188934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -452,7 +608,7 @@
       "path": "images/img-9b6f9112df9f.webp",
       "media_type": "image/webp",
       "bytes": 304594,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -460,7 +616,7 @@
       "path": "images/img-3d2577ff5b6d.webp",
       "media_type": "image/webp",
       "bytes": 218618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -468,7 +624,7 @@
       "path": "images/img-bb6679853588.webp",
       "media_type": "image/webp",
       "bytes": 165518,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -476,7 +632,7 @@
       "path": "images/img-61ef6560995d.webp",
       "media_type": "image/webp",
       "bytes": 77774,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -484,7 +640,7 @@
       "path": "images/img-8924e072d9b5.webp",
       "media_type": "image/webp",
       "bytes": 199894,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -492,7 +648,7 @@
       "path": "images/img-4864418e8bc7.webp",
       "media_type": "image/webp",
       "bytes": 172098,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -500,7 +656,7 @@
       "path": "images/img-0615e79edbde.webp",
       "media_type": "image/webp",
       "bytes": 81056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -508,7 +664,7 @@
       "path": "images/img-671ed03f51a8.webp",
       "media_type": "image/webp",
       "bytes": 114086,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -516,7 +672,7 @@
       "path": "images/img-f174d94b17ac.webp",
       "media_type": "image/webp",
       "bytes": 229852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -524,7 +680,7 @@
       "path": "images/img-28eed71f9291.webp",
       "media_type": "image/webp",
       "bytes": 229198,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -532,7 +688,7 @@
       "path": "images/img-cbca9135c813.webp",
       "media_type": "image/webp",
       "bytes": 76580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -540,7 +696,7 @@
       "path": "images/img-1c65a5fc2ddc.webp",
       "media_type": "image/webp",
       "bytes": 61502,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -548,7 +704,7 @@
       "path": "images/img-7e73ec13238a.webp",
       "media_type": "image/webp",
       "bytes": 169452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -556,7 +712,7 @@
       "path": "images/img-9e45794d2984.webp",
       "media_type": "image/webp",
       "bytes": 400662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -564,7 +720,7 @@
       "path": "images/img-c62c1a13ac7a.webp",
       "media_type": "image/webp",
       "bytes": 275150,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -572,7 +728,7 @@
       "path": "images/img-674cb38217f9.webp",
       "media_type": "image/webp",
       "bytes": 405584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -580,7 +736,7 @@
       "path": "images/img-57334b9173cf.webp",
       "media_type": "image/webp",
       "bytes": 467530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -588,7 +744,7 @@
       "path": "images/img-c9dae74ce0c6.webp",
       "media_type": "image/webp",
       "bytes": 521350,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -596,7 +752,7 @@
       "path": "images/img-1c3112066ceb.webp",
       "media_type": "image/webp",
       "bytes": 675468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -604,7 +760,7 @@
       "path": "images/img-8c67bd26444d.webp",
       "media_type": "image/webp",
       "bytes": 763176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -612,7 +768,7 @@
       "path": "images/img-bb3ea980dda3.webp",
       "media_type": "image/webp",
       "bytes": 615118,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -620,25 +776,37 @@
       "path": "images/img-9442716414a9.webp",
       "media_type": "image/webp",
       "bytes": 678864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2835%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ecfd477c786b.webp",
+      "media_type": "image/webp",
+      "bytes": 621316,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2836%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-148670a48a2d.webp",
+      "media_type": "image/webp",
+      "bytes": 801012,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/8%20Fox%20Run%20Lane%20Greenwich,%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817820405%29_files/2200xxs%2837%29.jpg",
+      "path": "images/img-e56d5b02f986.webp",
+      "media_type": "image/webp",
+      "bytes": 907382,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/ae85b32c-2ddf-43e8-ab16-294234faba85/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -646,7 +814,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -654,7 +822,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -662,7 +830,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -670,13 +838,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 44,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 6,
+    "images_existing": 44,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

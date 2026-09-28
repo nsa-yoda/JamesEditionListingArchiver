@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/burns-or-usa/house-attached-in-burns-16366378
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:42Z
+- Retrieved: 2026-09-28T00:21:51Z
 - Address: 37215 Dead End Lane, Burns, Oregon, United States
 - Map: https://www.google.com/maps/search/?api=1&query=43.519563,-118.796993
 - Coordinates: 43.52, -118.8
@@ -10,7 +10,7 @@
 - Listing reference: 11349051
 - First listed: Oct 10, 2025
 - Last updated: April 29
-- Images downloaded: 97
+- Images downloaded: 100
 
 ## Property
 

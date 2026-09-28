@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:20.010029Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415",
     "canonical_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/chianti-classico-estate-with-historic-mansion-siena-tuscany-14410415",
@@ -9,13 +9,13 @@
     "listing_reference": "CNT3014",
     "first_listed": "Jun 23, 2024",
     "last_updated": "April 28",
-    "retrieved_at": "2026-06-18T07:07:52.813206Z"
+    "retrieved_at": "2026-09-28T00:20:18.384423Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 5784,
-      "sha256": "ef64365c2c8500edf254926dbe27bc36e67d64679302e19a1b54c8078a216751"
+      "bytes": 5785,
+      "sha256": "3672583f868444146a84a957b9b12274a2b8b98c2344dbac6fb2029c0e07ed35"
     },
     {
       "path": "images/004-6ec21649.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-5f0a560b010f.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-6492a14a7a1a.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-9a55e3cfb6fd.webp",
+      "bytes": 6438,
+      "sha256": "ef78b5ae96709ba124e77ed4fb34ce4f57faff0c147264937e53afcebfa2eeff"
+    },
+    {
       "path": "listing.json",
-      "bytes": 23374,
-      "sha256": "410d9b3b5353a53ef6d43b4ff198b4eaf232d553a56ef2080e4459720b8931b4"
+      "bytes": 55136,
+      "sha256": "a5cec5d0cf659c4020add39b67f3f4786a67e4dcd3dde67c7221b202a973a3da"
     },
     {
       "path": "source.html",
@@ -76,9 +91,40 @@
       "path": "source.url",
       "bytes": 139,
       "sha256": "4d1c2801b6f13ff7a502dcc27f4f5c7d44930057b9f4749f326dd414f214b6a7"
+    },
+    {
+      "path": "videos/img-bd58548b4cd1.webp",
+      "bytes": 210682,
+      "sha256": "727838698675253979de77020d64606ae3c86e7f8be8c7192e2395df5db24588"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://player.vimeo.com/video/967720690?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
+      "status": "failed",
+      "poster_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/1040x620xc.jpg",
+      "poster_path": "videos/img-bd58548b4cd1.webp",
+      "error": "yt-dlp could not download the video player URL"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/2200xxs.jpg",
@@ -90,7 +136,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/b5faddd3-102e-4aac-a7bd-742a87237fe4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/b5faddd3-102e-4aac-a7bd-742a87237fe4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/b5faddd3-102e-4aac-a7bd-742a87237fe4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/b5faddd3-102e-4aac-a7bd-742a87237fe4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/b5faddd3-102e-4aac-a7bd-742a87237fe4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/b5faddd3-102e-4aac-a7bd-742a87237fe4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +168,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/6ac52a04-dc0b-4e28-ac04-cb35c3182a06/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/6ac52a04-dc0b-4e28-ac04-cb35c3182a06/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/6ac52a04-dc0b-4e28-ac04-cb35c3182a06/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/6ac52a04-dc0b-4e28-ac04-cb35c3182a06/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/6ac52a04-dc0b-4e28-ac04-cb35c3182a06/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/6ac52a04-dc0b-4e28-ac04-cb35c3182a06/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +200,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/a340a799-0bff-42d1-bae4-8932e2c65761/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/a340a799-0bff-42d1-bae4-8932e2c65761/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/a340a799-0bff-42d1-bae4-8932e2c65761/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/a340a799-0bff-42d1-bae4-8932e2c65761/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/a340a799-0bff-42d1-bae4-8932e2c65761/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/a340a799-0bff-42d1-bae4-8932e2c65761/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +232,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/9688024e-29df-469d-91e7-5cae992e357b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/9688024e-29df-469d-91e7-5cae992e357b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/9688024e-29df-469d-91e7-5cae992e357b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/9688024e-29df-469d-91e7-5cae992e357b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/9688024e-29df-469d-91e7-5cae992e357b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/01/26/9688024e-29df-469d-91e7-5cae992e357b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +264,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9a55e3cfb6fd.webp",
+      "media_type": "image/webp",
+      "bytes": 6438,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-5f0a560b010f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castelnuovo-berardenga-italy/Chianti%20Classico%20Estate%20With%20Historic%20In%20Castelnuovo%20Berardenga,%20Tuscany,%20Italy%20For%20Sale%20%2814410415%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-6492a14a7a1a.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/13/08/16/12/a3bc43cb-8258-4fa8-8fd6-a753dc357b72/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,11 +331,11 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
-    "videos_failed": 0
+    "videos_failed": 1
   }
 }

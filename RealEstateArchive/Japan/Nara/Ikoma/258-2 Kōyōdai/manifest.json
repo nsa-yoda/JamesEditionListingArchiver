@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:45.835674Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/ikoma-japan/elegant-japanese-mansion-with-garden-cottage-in-scenic-ikoma-city-a-rare-retreat-near-osaka-15621311",
     "canonical_url": "https://www.jamesedition.com/real_estate/ikoma-japan/elegant-japanese-mansion-with-garden-cottage-in-scenic-ikoma-city-a-rare-retreat-near-osaka-15621311",
@@ -8,13 +8,13 @@
     "listing_id": "15621311",
     "first_listed": "May 13, 2025",
     "last_updated": "May 26, 2025",
-    "retrieved_at": "2026-06-16T03:43:23.493365Z"
+    "retrieved_at": "2026-09-28T00:20:45.300807Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3624,
-      "sha256": "975bcb96896b96270e929adefdf2e9860de64122816489e20f265a7c4701dc2d"
+      "bytes": 3625,
+      "sha256": "024655674dd684ad1408dddb05d99412df201191b1128aedfca44d752b1b9f4c"
     },
     {
       "path": "images/004-07b90d16.webp",
@@ -62,9 +62,49 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-184f9d6d3989.webp",
+      "bytes": 161070,
+      "sha256": "68617cc9114fb6ac46d430bce45a75e018b33d079be8f460294ffa614fa0fd7a"
+    },
+    {
+      "path": "images/img-35349acc4f69.webp",
+      "bytes": 422650,
+      "sha256": "9ab23da26293139211d4ae5181a6e8aafe9747d9c460fe200eaadb0bb2a2613f"
+    },
+    {
+      "path": "images/img-397eda710adb.webp",
+      "bytes": 179762,
+      "sha256": "431683440acf4017a6cfdae87f5352134738248f6d21d936af2e7b820790b286"
+    },
+    {
+      "path": "images/img-826da69d1d33.webp",
+      "bytes": 236028,
+      "sha256": "b33fdddcaf318afbc77fd4284a334ca3863b274f2b7c5171bb55baf9c4a6810c"
+    },
+    {
+      "path": "images/img-af9387a3c6ff.webp",
+      "bytes": 6154,
+      "sha256": "dfeec13cc3b5e17ad5596be40829216cd2a17068a4f94ace44fc7a9ebfb7d0e2"
+    },
+    {
+      "path": "images/img-b0038c789e3e.webp",
+      "bytes": 184412,
+      "sha256": "fe251f1752313aef63fa4ceaa3b9e57e73cda87f5d9e20543a72c6412868a880"
+    },
+    {
+      "path": "images/img-b9b9cb04b8a3.webp",
+      "bytes": 10806,
+      "sha256": "a3c47100d7562947e95531083d6495f6e2e3a315b111500716d02bf8ca7673fd"
+    },
+    {
+      "path": "images/img-e798aa72d05c.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 21896,
-      "sha256": "b71e8d66aed57efb8db0d9083d5a27382e8747c0e69eb4dd65ee4b3f9eccbfdb"
+      "bytes": 52395,
+      "sha256": "adafb814b295c0149b18f2820d114573a0b4a0e3ba100838901cb4980c7d9372"
     },
     {
       "path": "source.html",
@@ -80,6 +120,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/2200xxs.jpg",
       "path": "images/004-07b90d16.webp",
       "media_type": "image/webp",
@@ -89,7 +147,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/bc10a44a-32cc-45aa-b91b-f51eb32a56a6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/bc10a44a-32cc-45aa-b91b-f51eb32a56a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/bc10a44a-32cc-45aa-b91b-f51eb32a56a6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/bc10a44a-32cc-45aa-b91b-f51eb32a56a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/bc10a44a-32cc-45aa-b91b-f51eb32a56a6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/bc10a44a-32cc-45aa-b91b-f51eb32a56a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -102,7 +179,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/13/01/30/44/747dcf46-62cd-4a94-acff-af83a39f43f8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/13/01/30/44/747dcf46-62cd-4a94-acff-af83a39f43f8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/13/01/30/44/747dcf46-62cd-4a94-acff-af83a39f43f8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/13/01/30/44/747dcf46-62cd-4a94-acff-af83a39f43f8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/13/01/30/44/747dcf46-62cd-4a94-acff-af83a39f43f8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/13/01/30/44/747dcf46-62cd-4a94-acff-af83a39f43f8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -115,7 +211,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/ebeca443-ef46-4f1c-a302-b60deed8252a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/ebeca443-ef46-4f1c-a302-b60deed8252a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/ebeca443-ef46-4f1c-a302-b60deed8252a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/ebeca443-ef46-4f1c-a302-b60deed8252a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/ebeca443-ef46-4f1c-a302-b60deed8252a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/ebeca443-ef46-4f1c-a302-b60deed8252a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -128,7 +243,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/19/16/54/57e42836-24d3-4807-ab57-82f247fcdf84/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/19/16/54/57e42836-24d3-4807-ab57-82f247fcdf84/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/19/16/54/57e42836-24d3-4807-ab57-82f247fcdf84/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/19/16/54/57e42836-24d3-4807-ab57-82f247fcdf84/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/19/16/54/57e42836-24d3-4807-ab57-82f247fcdf84/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/19/16/54/57e42836-24d3-4807-ab57-82f247fcdf84/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -141,47 +275,78 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-af9387a3c6ff.webp",
+      "media_type": "image/webp",
+      "bytes": 6154,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/380xxsxm.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b9b9cb04b8a3.webp",
+      "media_type": "image/webp",
+      "bytes": 10806,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e798aa72d05c.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-397eda710adb.webp",
+      "media_type": "image/webp",
+      "bytes": 179762,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-35349acc4f69.webp",
+      "media_type": "image/webp",
+      "bytes": 422650,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b0038c789e3e.webp",
+      "media_type": "image/webp",
+      "bytes": 184412,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-184f9d6d3989.webp",
+      "media_type": "image/webp",
+      "bytes": 161070,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/ikoma-japan/Elegant%20Japanese%20Mansion%20With%20Garden%20\u0026%20Cottage%20In%20Scenic%20In%20Ikoma,%20Nara,%20Japan%20For%20Sale%20%2815621311%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-826da69d1d33.webp",
+      "media_type": "image/webp",
+      "bytes": 236028,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/12/16/30/20/598d819c-0fe7-41c7-b682-2e210f039f9c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -217,9 +382,9 @@
     }
   ],
   "summary": {
-    "images_new": 13,
+    "images_new": 8,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

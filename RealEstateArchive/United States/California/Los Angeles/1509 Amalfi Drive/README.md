@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509-amalfi-drive-17503065
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:14Z
+- Retrieved: 2026-09-28T00:17:27Z
 - Address: 1509 Amalfi Drive , Pacific Palisades, CA 90272, Los Angeles, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.057537,-118.504036
 - Coordinates: 34.06, -118.5
@@ -10,8 +10,8 @@
 - Listing reference: Z6T76K
 - First listed: Mar 27
 - Last updated: May 11
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 16
+- Videos downloaded: 1
 
 ## Property
 

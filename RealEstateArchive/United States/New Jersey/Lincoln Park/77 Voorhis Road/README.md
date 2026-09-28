@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kinnelon-borough-nj-usa/lots-and-land-kinnelon-borough-17075854
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:29Z
+- Retrieved: 2026-09-28T00:22:22Z
 - Address: 77 Voorhis Road, Kinnelon Borough, NJ 07035, Lincoln Park, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.955872,-74.335592
 - Coordinates: 40.96, -74.34
@@ -10,7 +10,7 @@
 - Listing reference: 2080424730408472
 - First listed: Feb 4
 - Last updated: February 4
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:47.613803Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010-cabrillo-highway-13182949",
     "canonical_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010-cabrillo-highway-13182949",
@@ -9,13 +9,13 @@
     "listing_reference": "4CL4JQ",
     "first_listed": "Aug 24, 2023",
     "last_updated": "February 1, 2025",
-    "retrieved_at": "2026-06-19T08:18:02.323131Z"
+    "retrieved_at": "2026-09-28T00:18:47.086055Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2857,
-      "sha256": "c1b2c07322d72678c83afa0d7cc53b9e383d67c4d681b7b067f439d80160a755"
+      "sha256": "257b2c2dbc8babd9f1b508f94fb39f4de34d801d9c7ba566067bc022542f178a"
     },
     {
       "path": "images/img-064b48c7d91b.webp",
@@ -123,6 +123,11 @@
       "sha256": "2a920555bba7ca01d40c6098c3e15198de81b81b2c30eb4ed9f3263e613ac65b"
     },
     {
+      "path": "images/img-524df49962d4.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
@@ -151,6 +156,11 @@
       "path": "images/img-7860dc84848c.webp",
       "bytes": 299516,
       "sha256": "eae0b6464084dbad77dc83843c6c4bd1a1302de313f1bb2f9a00682fee09be22"
+    },
+    {
+      "path": "images/img-7b12bc45e6df.webp",
+      "bytes": 3352,
+      "sha256": "93d2ce7ead6478c63c1da77ed95b2a633a51486c1e81fbad63a7bd6869d5b59f"
     },
     {
       "path": "images/img-8435580443fc.webp",
@@ -186,6 +196,11 @@
       "path": "images/img-8fe7f9cc20b1.webp",
       "bytes": 636742,
       "sha256": "2edb673a92799360325fbc56ea8708557481adc75151ce50de94f3dc9b298429"
+    },
+    {
+      "path": "images/img-945b2459de88.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-9a02d67d4d72.webp",
@@ -289,8 +304,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 30636,
-      "sha256": "f1ea40a861b9b96059667b891352569768a702d78d3cfed6588c45782f4fba05"
+      "bytes": 56137,
+      "sha256": "a676e29716be89927e53cda2072e3237b2c3dea04a98fd3bbfeb1193e1be77ba"
     },
     {
       "path": "source.html",
@@ -306,17 +321,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/2200xxs.jpg",
       "path": "images/img-c6d34cf5df3f.webp",
       "media_type": "image/webp",
       "bytes": 352124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -324,13 +369,25 @@
       "path": "images/img-c00fd866bfb0.webp",
       "media_type": "image/webp",
       "bytes": 495756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -338,13 +395,25 @@
       "path": "images/img-8d26fe381314.webp",
       "media_type": "image/webp",
       "bytes": 379390,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -352,13 +421,25 @@
       "path": "images/img-ca7b511afad5.webp",
       "media_type": "image/webp",
       "bytes": 576736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -366,31 +447,61 @@
       "path": "images/img-8fe7f9cc20b1.webp",
       "media_type": "image/webp",
       "bytes": 636742,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7b12bc45e6df.webp",
+      "media_type": "image/webp",
+      "bytes": 3352,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-945b2459de88.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-524df49962d4.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/72167df0-d856-4d52-b8f0-54040edd5556/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/06d58db1-e6e0-48be-9c36-160066d01d2a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/536bc8c8-d682-4956-b695-67bd70a4d70e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/e15cf80d-0ad1-4cbd-8145-4601b279450c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -398,7 +509,7 @@
       "path": "images/img-0b1a54f0bf8c.webp",
       "media_type": "image/webp",
       "bytes": 721734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -406,7 +517,7 @@
       "path": "images/img-8d552fde49c5.webp",
       "media_type": "image/webp",
       "bytes": 753120,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -414,7 +525,7 @@
       "path": "images/img-9a02d67d4d72.webp",
       "media_type": "image/webp",
       "bytes": 695816,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -422,7 +533,7 @@
       "path": "images/img-2c43fad11d9c.webp",
       "media_type": "image/webp",
       "bytes": 587770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -430,7 +541,7 @@
       "path": "images/img-f2f56fdae268.webp",
       "media_type": "image/webp",
       "bytes": 854192,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -438,7 +549,7 @@
       "path": "images/img-064bbca23756.webp",
       "media_type": "image/webp",
       "bytes": 694002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -446,7 +557,7 @@
       "path": "images/img-781afebf4cc4.webp",
       "media_type": "image/webp",
       "bytes": 681150,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -454,7 +565,7 @@
       "path": "images/img-76479775b6a8.webp",
       "media_type": "image/webp",
       "bytes": 662280,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -462,7 +573,7 @@
       "path": "images/img-324aa0086208.webp",
       "media_type": "image/webp",
       "bytes": 762316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -470,7 +581,7 @@
       "path": "images/img-1a989424e42e.webp",
       "media_type": "image/webp",
       "bytes": 582760,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -478,7 +589,7 @@
       "path": "images/img-516ab1b1047f.webp",
       "media_type": "image/webp",
       "bytes": 472986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -486,7 +597,7 @@
       "path": "images/img-392ed8ae590e.webp",
       "media_type": "image/webp",
       "bytes": 516422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -494,7 +605,7 @@
       "path": "images/img-a7c5d0713100.webp",
       "media_type": "image/webp",
       "bytes": 431514,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -502,7 +613,7 @@
       "path": "images/img-b80c93f0f62a.webp",
       "media_type": "image/webp",
       "bytes": 452412,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -510,7 +621,7 @@
       "path": "images/img-4325b163b1ca.webp",
       "media_type": "image/webp",
       "bytes": 442160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -518,7 +629,7 @@
       "path": "images/img-ba408380e953.webp",
       "media_type": "image/webp",
       "bytes": 536452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -526,7 +637,7 @@
       "path": "images/img-888641931533.webp",
       "media_type": "image/webp",
       "bytes": 613470,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -534,7 +645,7 @@
       "path": "images/img-1970a739d645.webp",
       "media_type": "image/webp",
       "bytes": 399162,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -542,7 +653,7 @@
       "path": "images/img-8435580443fc.webp",
       "media_type": "image/webp",
       "bytes": 633320,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -550,7 +661,7 @@
       "path": "images/img-7860dc84848c.webp",
       "media_type": "image/webp",
       "bytes": 299516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -558,7 +669,7 @@
       "path": "images/img-8ba95fa1dfe1.webp",
       "media_type": "image/webp",
       "bytes": 190314,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -566,7 +677,7 @@
       "path": "images/img-c017f41ff9da.webp",
       "media_type": "image/webp",
       "bytes": 149474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -574,7 +685,7 @@
       "path": "images/img-43bd64c94b38.webp",
       "media_type": "image/webp",
       "bytes": 298872,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -582,7 +693,7 @@
       "path": "images/img-5e13b4908565.webp",
       "media_type": "image/webp",
       "bytes": 141716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -590,7 +701,7 @@
       "path": "images/img-106dfb49ce16.webp",
       "media_type": "image/webp",
       "bytes": 142506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -598,7 +709,7 @@
       "path": "images/img-fd3e9d05f3eb.webp",
       "media_type": "image/webp",
       "bytes": 194684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -606,7 +717,7 @@
       "path": "images/img-ac59c2b6089f.webp",
       "media_type": "image/webp",
       "bytes": 245744,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -614,7 +725,7 @@
       "path": "images/img-064b48c7d91b.webp",
       "media_type": "image/webp",
       "bytes": 210000,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -622,7 +733,7 @@
       "path": "images/img-ccb6d49184b2.webp",
       "media_type": "image/webp",
       "bytes": 272704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -630,7 +741,7 @@
       "path": "images/img-1f5542ea23d9.webp",
       "media_type": "image/webp",
       "bytes": 316500,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -638,7 +749,7 @@
       "path": "images/img-0a7c28c3187d.webp",
       "media_type": "image/webp",
       "bytes": 377446,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -646,7 +757,7 @@
       "path": "images/img-fa1688256686.webp",
       "media_type": "image/webp",
       "bytes": 710906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -654,7 +765,7 @@
       "path": "images/img-2ac5812bbf78.webp",
       "media_type": "image/webp",
       "bytes": 515228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -662,7 +773,7 @@
       "path": "images/img-d63ff6bc4407.webp",
       "media_type": "image/webp",
       "bytes": 523866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -670,7 +781,7 @@
       "path": "images/img-44b7f1564a54.webp",
       "media_type": "image/webp",
       "bytes": 638672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -678,7 +789,7 @@
       "path": "images/img-c16f9cc400dc.webp",
       "media_type": "image/webp",
       "bytes": 525660,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -686,7 +797,7 @@
       "path": "images/img-e1e140790800.webp",
       "media_type": "image/webp",
       "bytes": 585896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -694,7 +805,7 @@
       "path": "images/img-add2b63bc60b.webp",
       "media_type": "image/webp",
       "bytes": 397420,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -702,7 +813,7 @@
       "path": "images/img-6f5b633229f6.webp",
       "media_type": "image/webp",
       "bytes": 406272,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -710,7 +821,7 @@
       "path": "images/img-8cbacdac75cf.webp",
       "media_type": "image/webp",
       "bytes": 431706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -718,7 +829,7 @@
       "path": "images/img-390ef86049c2.webp",
       "media_type": "image/webp",
       "bytes": 509738,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -726,7 +837,7 @@
       "path": "images/img-2e815f5bb20f.webp",
       "media_type": "image/webp",
       "bytes": 517844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -734,7 +845,7 @@
       "path": "images/img-f6d760cb78d2.webp",
       "media_type": "image/webp",
       "bytes": 722192,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -742,7 +853,7 @@
       "path": "images/img-4dc82f16c104.webp",
       "media_type": "image/webp",
       "bytes": 508748,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -750,25 +861,13 @@
       "path": "images/img-9af7472612c3.webp",
       "media_type": "image/webp",
       "bytes": 508444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/2200xxsxm%2822%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/2200xxsxm%2821%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010%20Cabrillo%20Highway%20In%20Cayucos,%20California,%20United%20States%20For%20Sale%20%2813182949%29_files/2200xxsxm%2820%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/22/16/36/51/5ec2e5e5-af9e-46b4-b430-5a30c6b0e6bb/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -776,7 +875,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -784,7 +883,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -792,7 +891,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -800,13 +899,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 54,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 54,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

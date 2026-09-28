@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "e40ba04b-c9ca-4f41-a20e-37589d1932c2",
     "first_listed": "Mar 4",
     "last_updated": "June 12",
-    "retrieved_at": "2026-06-16T03:43:25.070433Z"
+    "retrieved_at": "2026-09-28T00:20:56.361034Z"
   },
   "location": {
     "address": "10010 Strait Dallas TX 75229 USA, Texas, United States",
@@ -75,6 +75,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/2200xxs.jpg",
       "file": "004-d3218bdd.webp",
       "media_type": "image/webp",
@@ -83,7 +98,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/2200xxs.jpg",
@@ -94,7 +125,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/2200xxs.jpg",
@@ -105,7 +152,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/2200xxs.jpg",
@@ -116,7 +179,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/2200xxs.jpg",
@@ -127,27 +206,41 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-60eb1f5bfa85.webp",
+      "media_type": "image/webp",
+      "bytes": 5580,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-19f5b745264f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-75abd3164e7b.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a7279d119b05.webp",
+      "media_type": "image/webp",
+      "bytes": 442346,
+      "status": "new"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -328,6 +421,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/db5efc4c-303d-4635-95c1-323b17941229/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a3496e8f-1bb2-4cfe-ad4b-5ca1862f27a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/edcfd6d5-7782-4084-bd3f-3e6e5dd77ebc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/b4a63a8d-dc7a-4a61-ae60-97c03e840e5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/dallas-tx-usa/Exquisite%20Estate%20On%20Billionaires%20Row%20With%20In%20Dallas,%20Texas,%20United%20States%20For%20Sale%20%2817336062%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/03/18/00/57/d3e558b6-d8c5-4fbe-96e2-7061bc9d38c3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

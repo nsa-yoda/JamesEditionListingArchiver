@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:08.83313Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321-fort-king-hwy-tampa-fl-33592-17772228",
     "canonical_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321-fort-king-hwy-tampa-fl-33592-17772228",
@@ -9,13 +9,13 @@
     "listing_reference": "4CMS2B",
     "first_listed": "Apr 27",
     "last_updated": "April 28",
-    "retrieved_at": "2026-06-16T03:43:12.707923Z"
+    "retrieved_at": "2026-09-28T00:17:08.129611Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2852,
-      "sha256": "bff8b62cbacc5c331ffab6ca3a8dedadb902d2f6c769a04330c4a0d044907a9f"
+      "bytes": 2853,
+      "sha256": "f51118d617bcc77c80a15c8e81dc1b80c3668c4a62df9415508aceb4bce8e3c7"
     },
     {
       "path": "images/004-c9ff5314.webp",
@@ -503,9 +503,84 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-114dff62224a.webp",
+      "bytes": 998784,
+      "sha256": "a047f7ef98edab191104e909dd50443459a5700c0dd7f6494577de75ea3e0758"
+    },
+    {
+      "path": "images/img-11db6db16bb2.webp",
+      "bytes": 7504,
+      "sha256": "e5112ef6fa6b4cd76c3b1ffa1a506078f847eea6af541b4833f769eed1e27440"
+    },
+    {
+      "path": "images/img-207d09c0b7b9.webp",
+      "bytes": 306812,
+      "sha256": "2abd2172a8a78ce7d2a46588ee6bd1b0f7ef3b5aa81b767c5fc847ecfa81046e"
+    },
+    {
+      "path": "images/img-2e30f9af4039.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-6f091936d13d.webp",
+      "bytes": 387388,
+      "sha256": "c583cf1b882eb506f066ca98636f904943c81e18f87e56d3d9a70ac1385fda1e"
+    },
+    {
+      "path": "images/img-91a60cef1783.webp",
+      "bytes": 656548,
+      "sha256": "53feeb5e9bebba3bc051760c755709453859d4235c0761b3387d7841644716ec"
+    },
+    {
+      "path": "images/img-966273238ca7.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-a53a5f37b831.webp",
+      "bytes": 435866,
+      "sha256": "048159e4fa380003decbd84834addf10226c60863f317c708ca83135e9463338"
+    },
+    {
+      "path": "images/img-aaf0403a5407.webp",
+      "bytes": 210298,
+      "sha256": "672fad6f0ebf44bf2ea91253670208b6c958f54d61c2f775c7b28195ee4b62a1"
+    },
+    {
+      "path": "images/img-b815b3635528.webp",
+      "bytes": 998784,
+      "sha256": "a047f7ef98edab191104e909dd50443459a5700c0dd7f6494577de75ea3e0758"
+    },
+    {
+      "path": "images/img-c1889ed0d9df.webp",
+      "bytes": 998784,
+      "sha256": "a047f7ef98edab191104e909dd50443459a5700c0dd7f6494577de75ea3e0758"
+    },
+    {
+      "path": "images/img-e2f942cb4cb4.webp",
+      "bytes": 298856,
+      "sha256": "81f86bc43b979c5d1448c6ceee19f5bc2dee49d1b3233b02f37edd4df34d3332"
+    },
+    {
+      "path": "images/img-e83c67caf470.webp",
+      "bytes": 998784,
+      "sha256": "a047f7ef98edab191104e909dd50443459a5700c0dd7f6494577de75ea3e0758"
+    },
+    {
+      "path": "images/img-fa322ee3c9bf.webp",
+      "bytes": 509108,
+      "sha256": "63b4af6edd0c313c0748a60ede723a9c293b732d95335aac07c2029d681f337b"
+    },
+    {
+      "path": "images/img-ffb8881a5e24.webp",
+      "bytes": 301264,
+      "sha256": "7bf55cbadebf2d13e0741797c398852552489dae540d98999e67d81fd4a7adc0"
+    },
+    {
       "path": "listing.json",
-      "bytes": 45350,
-      "sha256": "0c537293aaf163ebf331019832ed3bfc249906a6e47e3e0f09e40cbd2c109e7e"
+      "bytes": 66989,
+      "sha256": "a45eca63ce4b962dbd89447c6effced3492ff7d79acd0bda2333cf4322adecd3"
     },
     {
       "path": "source.html",
@@ -521,6 +596,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/2200xxs.jpg",
       "path": "images/004-c9ff5314.webp",
       "media_type": "image/webp",
@@ -529,8 +622,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/77fee85a-87b7-474f-a604-64924f6e3df2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/77fee85a-87b7-474f-a604-64924f6e3df2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/77fee85a-87b7-474f-a604-64924f6e3df2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/77fee85a-87b7-474f-a604-64924f6e3df2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/77fee85a-87b7-474f-a604-64924f6e3df2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/77fee85a-87b7-474f-a604-64924f6e3df2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -543,7 +649,28 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a53a5f37b831.webp",
+      "media_type": "image/webp",
+      "bytes": 435866,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/ffe50303-b7ef-41a8-a74f-db6a89ccbef0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/ffe50303-b7ef-41a8-a74f-db6a89ccbef0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/ffe50303-b7ef-41a8-a74f-db6a89ccbef0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/ffe50303-b7ef-41a8-a74f-db6a89ccbef0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/ffe50303-b7ef-41a8-a74f-db6a89ccbef0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/ffe50303-b7ef-41a8-a74f-db6a89ccbef0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -556,7 +683,28 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e2f942cb4cb4.webp",
+      "media_type": "image/webp",
+      "bytes": 298856,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/942f17ec-3b50-4d5a-a29b-d27bb2057d69/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/942f17ec-3b50-4d5a-a29b-d27bb2057d69/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/942f17ec-3b50-4d5a-a29b-d27bb2057d69/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/942f17ec-3b50-4d5a-a29b-d27bb2057d69/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/942f17ec-3b50-4d5a-a29b-d27bb2057d69/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/942f17ec-3b50-4d5a-a29b-d27bb2057d69/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -569,7 +717,28 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-6f091936d13d.webp",
+      "media_type": "image/webp",
+      "bytes": 387388,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/bace89ec-bf64-45bd-b675-4023c3397117/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/bace89ec-bf64-45bd-b675-4023c3397117/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/bace89ec-bf64-45bd-b675-4023c3397117/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/bace89ec-bf64-45bd-b675-4023c3397117/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/bace89ec-bf64-45bd-b675-4023c3397117/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/bace89ec-bf64-45bd-b675-4023c3397117/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -582,56 +751,46 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ffb8881a5e24.webp",
+      "media_type": "image/webp",
+      "bytes": 301264,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-11db6db16bb2.webp",
+      "media_type": "image/webp",
+      "bytes": 7504,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2e30f9af4039.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-966273238ca7.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c1889ed0d9df.webp",
+      "media_type": "image/webp",
+      "bytes": 998784,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/df0e9269-1234-4e64-aa75-ac301eb32132/je/2000xxs.jpg",
       "path": "images/036-77cd6a5d.webp",
       "media_type": "image/webp",
       "bytes": 376466,
@@ -639,7 +798,7 @@
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/fbd06628-1ce6-4d1f-b920-5803e627f24f/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%282%29.jpg",
       "path": "images/037-bbb6a35c.webp",
       "media_type": "image/webp",
       "bytes": 254812,
@@ -647,7 +806,7 @@
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/af7fbfd8-c383-476d-8db4-b26c4d035f88/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%283%29.jpg",
       "path": "images/038-bf3ddaaf.webp",
       "media_type": "image/webp",
       "bytes": 333406,
@@ -655,11 +814,43 @@
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/3bfb2ea1-1b88-480c-8170-7f069709cde9/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%284%29.jpg",
       "path": "images/039-649d3468.webp",
       "media_type": "image/webp",
       "bytes": 257290,
       "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2000xxs%285%29.jpg",
+      "path": "images/img-207d09c0b7b9.webp",
+      "media_type": "image/webp",
+      "bytes": 306812,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/2000xxs.jpg",
+      "path": "images/img-114dff62224a.webp",
+      "media_type": "image/webp",
+      "bytes": 998784,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/bace89ec-bf64-45bd-b675-4023c3397117/je/2000xxs.jpg",
+      "path": "images/img-b815b3635528.webp",
+      "media_type": "image/webp",
+      "bytes": 998784,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/77fee85a-87b7-474f-a604-64924f6e3df2/je/2000xxs.jpg",
+      "path": "images/img-e83c67caf470.webp",
+      "media_type": "image/webp",
+      "bytes": 998784,
+      "status": "new"
     },
     {
       "kind": "image",
@@ -1336,17 +1527,32 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2200xxsxm%2845%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-91a60cef1783.webp",
+      "media_type": "image/webp",
+      "bytes": 656548,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2200xxsxm%2846%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-aaf0403a5407.webp",
+      "media_type": "image/webp",
+      "bytes": 210298,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tampa-fl-usa/12321%20Fort%20King%20Hwy,%20Tampa,%20Fl,%2033592%20In%20Tampa,%20Florida,%20United%20States%20For%20Sale%20%2817772228%29_files/2200xxsxm%2847%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-fa322ee3c9bf.webp",
+      "media_type": "image/webp",
+      "bytes": 509108,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/27/16/33/04/144cbfbe-f669-4d02-8f4f-fca9430e0f4d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1382,9 +1588,9 @@
     }
   ],
   "summary": {
-    "images_new": 17,
+    "images_new": 15,
     "images_existing": 97,
-    "images_failed": 0,
+    "images_failed": 16,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

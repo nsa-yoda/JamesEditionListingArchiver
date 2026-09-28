@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kyoto-japan/suiran-residence-15604801
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:37Z
+- Retrieved: 2026-09-28T00:25:36Z
 - Address: Kyoto, 26 607-8403, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.0014676,135.8078074
 - Coordinates: 35, 135.81
@@ -10,7 +10,7 @@
 - Listing reference: RWD8JR
 - First listed: May 9, 2025
 - Last updated: November 27, 2025
-- Images downloaded: 9
+- Images downloaded: 13
 
 ## Property
 

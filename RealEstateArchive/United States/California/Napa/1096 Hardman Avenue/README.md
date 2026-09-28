@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/napa-ca-usa/krupp-brothers-estate-17705935
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:54Z
+- Retrieved: 2026-09-28T00:22:04Z
 - Address: 1096 Hardman Avenue , Napa, CA 94558, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.349537,-122.280265
 - Coordinates: 38.35, -122.28
@@ -10,7 +10,7 @@
 - Listing reference: 7Z4DVG
 - First listed: Apr 17
 - Last updated: April 25
-- Images downloaded: 56
+- Images downloaded: 59
 
 ## Property
 

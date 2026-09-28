@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:50.789404Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/vernon-canada/european-inspired-luxury-estate-above-swan-lake-15970475",
     "canonical_url": "https://www.jamesedition.com/real_estate/vernon-canada/european-inspired-luxury-estate-above-swan-lake-15970475",
@@ -8,13 +8,18 @@
     "listing_id": "15970475",
     "first_listed": "Jul 24, 2025",
     "last_updated": "November 19, 2025",
-    "retrieved_at": "2026-08-28T00:28:16.289608Z"
+    "retrieved_at": "2026-09-28T00:20:50.283181Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3364,
-      "sha256": "43dfe75503fcaedc57aaf534ea2f4667a768fb9b98f4b25508174a53ad608bcc"
+      "sha256": "577a6b7d3bb4b02a81ffd23aa17747720e3fd5a18452a68a89febd5d1d85befe"
+    },
+    {
+      "path": "images/img-04bb38753b3b.webp",
+      "bytes": 5134,
+      "sha256": "dfa4889a8082edabfdc46d177498961f14d5f8681276bc725d88584c0af2a221"
     },
     {
       "path": "images/img-0e140ee71b35.webp",
@@ -22,9 +27,44 @@
       "sha256": "17f799d92576641ea0cb801e02f66c305c01bfb31eaec139ee0094ca815e1333"
     },
     {
+      "path": "images/img-104e1cde0844.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-10e59fa21500.webp",
+      "bytes": 600756,
+      "sha256": "02aa397a0d2a267542e621e28403ef9690a98982338917dafc6fc4ccd1e8f391"
+    },
+    {
+      "path": "images/img-135946b70a08.webp",
+      "bytes": 5740,
+      "sha256": "7850289616f3dbc3f7e1121622efeca39f6470186e9267accb59fd457315560c"
+    },
+    {
       "path": "images/img-16c511ba6819.webp",
       "bytes": 432572,
       "sha256": "0a5b7eab6ae8b900d13000b3e60d09ab7372929405fdaa04420404597ea6c901"
+    },
+    {
+      "path": "images/img-1a23c0a88024.webp",
+      "bytes": 402442,
+      "sha256": "7a9fe6d994b2e90c479d9cfd3779aef07435f803c8ad785569e89e5caf2a9db8"
+    },
+    {
+      "path": "images/img-2294a91cb862.webp",
+      "bytes": 4828,
+      "sha256": "5b73846d6d679fea1d4ecd794bb0e29fc7ce0ac12f6dc2a49be92efb2609fb67"
+    },
+    {
+      "path": "images/img-2822b15439cb.webp",
+      "bytes": 591822,
+      "sha256": "8c8eb79c11659d84dcb5b57974bcdd64260197373e920720f8f360c84e0910cf"
+    },
+    {
+      "path": "images/img-2d57b4251bbe.webp",
+      "bytes": 5568,
+      "sha256": "08b57a9014d91cad029fcd7cfb78fc8c84013367642f3da9c12db94625afec6b"
     },
     {
       "path": "images/img-2e15763a7244.webp",
@@ -37,9 +77,24 @@
       "sha256": "d4b4d7d6a2b6e59e50c4f9733ba12e6f783368d3868a65c3871d81f3a91e911b"
     },
     {
+      "path": "images/img-3b8ec7c08b58.webp",
+      "bytes": 5576,
+      "sha256": "36428c95e5498f8b6ca581a08997667fc18c7f1ae3bcd029b3813b04dfd9c14c"
+    },
+    {
       "path": "images/img-3f7d9096fbd0.webp",
       "bytes": 364234,
       "sha256": "b83e041800c278c7785337bf75dc4550a38ab6cde25354c428bdcff8eef9b5ee"
+    },
+    {
+      "path": "images/img-4547bdcafd5a.webp",
+      "bytes": 4042,
+      "sha256": "799c8e0c0aa0beb296e995425d423f51c1095dcbae499e8239eb8ff528cd6eeb"
+    },
+    {
+      "path": "images/img-46936aee48d0.webp",
+      "bytes": 2818,
+      "sha256": "673c8573f8b6342c03f8778ac98722ff2c431ec0daed5f7428dd56cf0aa395ef"
     },
     {
       "path": "images/img-48a2dfffdbb5.webp",
@@ -55,6 +110,11 @@
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-576d7c959c36.webp",
+      "bytes": 402442,
+      "sha256": "7a9fe6d994b2e90c479d9cfd3779aef07435f803c8ad785569e89e5caf2a9db8"
     },
     {
       "path": "images/img-64a959ccf433.webp",
@@ -77,9 +137,19 @@
       "sha256": "414e8fc0553c231c25d6277dd756b077795591b4def8ff5a315e312d9f223893"
     },
     {
+      "path": "images/img-6ec06e294d7d.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-76790721cc36.webp",
       "bytes": 530380,
       "sha256": "872f62c720d458a6872d5f9bb7a7688e94c2ed7a99cddf3002c65451c0379dfa"
+    },
+    {
+      "path": "images/img-7aea05150c80.webp",
+      "bytes": 402442,
+      "sha256": "7a9fe6d994b2e90c479d9cfd3779aef07435f803c8ad785569e89e5caf2a9db8"
     },
     {
       "path": "images/img-7f5004e3e8be.webp",
@@ -137,9 +207,24 @@
       "sha256": "2c6840f8f68e44e3526662c2a6bb4108666812a9dc3e4e566fce4c0775df148b"
     },
     {
+      "path": "images/img-b2d772f962ce.webp",
+      "bytes": 402442,
+      "sha256": "7a9fe6d994b2e90c479d9cfd3779aef07435f803c8ad785569e89e5caf2a9db8"
+    },
+    {
+      "path": "images/img-b50d0bc3fef4.webp",
+      "bytes": 5330,
+      "sha256": "99abbf993fd3fee66615c9113683b7e9e27b5a5a22f52e4e925292a417a51599"
+    },
+    {
       "path": "images/img-b60239ecc32d.webp",
       "bytes": 171940,
       "sha256": "91223600fd4179c77b4019ce3adb8c49ef931ded6de6f33022420ff67233d24d"
+    },
+    {
+      "path": "images/img-c1176beccd22.webp",
+      "bytes": 402442,
+      "sha256": "7a9fe6d994b2e90c479d9cfd3779aef07435f803c8ad785569e89e5caf2a9db8"
     },
     {
       "path": "images/img-c4b10040ddb0.webp",
@@ -167,9 +252,24 @@
       "sha256": "c4873da63322374eed8aa3b205b2ed9eaf8f46055ef6401114e85cddda627e3f"
     },
     {
+      "path": "images/img-d0a5af418767.webp",
+      "bytes": 186828,
+      "sha256": "834bce63e601672db7e17d79cc93add9a6bfa770040426bcb57dc68b8768a447"
+    },
+    {
       "path": "images/img-d0a856483741.webp",
       "bytes": 363444,
       "sha256": "f714b1deb17943b5055663f2752f31f1df0944d91e049aac29c05630ac88623c"
+    },
+    {
+      "path": "images/img-d49f05ddf765.webp",
+      "bytes": 5608,
+      "sha256": "1fa4b25a4a1663c34e37102ea7e60bdb19ad30b0fb0b2acc0965ab355d652780"
+    },
+    {
+      "path": "images/img-da0df74025eb.webp",
+      "bytes": 3238,
+      "sha256": "218152cdce26130a436b9b9c1aed57abf2148693e921bedbe55e7d87152e9e61"
     },
     {
       "path": "images/img-dabac7d18dde.webp",
@@ -202,6 +302,11 @@
       "sha256": "dd624fa4451dc6f4ac7a8572076965ffe329f836615e303775dfcbec1bd9b67c"
     },
     {
+      "path": "images/img-f1c9c0ec5cd5.webp",
+      "bytes": 402442,
+      "sha256": "7a9fe6d994b2e90c479d9cfd3779aef07435f803c8ad785569e89e5caf2a9db8"
+    },
+    {
       "path": "images/img-f490c99d9528.webp",
       "bytes": 253016,
       "sha256": "ffd889b40edd1b4ed935ad1ef166fd5b8761f3cff5dee9b24b6938fcea88d111"
@@ -223,8 +328,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 38307,
-      "sha256": "3a21a81494d52dd2f514f94c39180f37cd03c03a8766c603839abf5ad85ed56d"
+      "bytes": 72408,
+      "sha256": "b1ca2faa1025d20bad9361e7acf94e68eff74ad976a350a4c9dc217b377090b5"
     },
     {
       "path": "source.html",
@@ -240,17 +345,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/2200xxs.jpg",
       "path": "images/img-dd908277183b.webp",
       "media_type": "image/webp",
       "bytes": 227054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/1bc4b182-1ad3-4c99-b8e3-7bd2493a423b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/1bc4b182-1ad3-4c99-b8e3-7bd2493a423b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/1bc4b182-1ad3-4c99-b8e3-7bd2493a423b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/1bc4b182-1ad3-4c99-b8e3-7bd2493a423b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/1bc4b182-1ad3-4c99-b8e3-7bd2493a423b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/1bc4b182-1ad3-4c99-b8e3-7bd2493a423b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -258,13 +399,31 @@
       "path": "images/img-c570c64836dc.webp",
       "media_type": "image/webp",
       "bytes": 487228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/3ca630f4-45cc-4bc8-b5e3-d34dad3454cc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/3ca630f4-45cc-4bc8-b5e3-d34dad3454cc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/3ca630f4-45cc-4bc8-b5e3-d34dad3454cc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/3ca630f4-45cc-4bc8-b5e3-d34dad3454cc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/3ca630f4-45cc-4bc8-b5e3-d34dad3454cc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/3ca630f4-45cc-4bc8-b5e3-d34dad3454cc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -272,13 +431,31 @@
       "path": "images/img-48a2dfffdbb5.webp",
       "media_type": "image/webp",
       "bytes": 610594,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/b0df166e-c5c6-408b-a404-207d0d259c70/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/b0df166e-c5c6-408b-a404-207d0d259c70/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/b0df166e-c5c6-408b-a404-207d0d259c70/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/b0df166e-c5c6-408b-a404-207d0d259c70/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/b0df166e-c5c6-408b-a404-207d0d259c70/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/b0df166e-c5c6-408b-a404-207d0d259c70/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -286,13 +463,31 @@
       "path": "images/img-f7759bbaad78.webp",
       "media_type": "image/webp",
       "bytes": 676202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/03/b2389974-73a5-45c7-8944-41021b59b53c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/03/b2389974-73a5-45c7-8944-41021b59b53c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/03/b2389974-73a5-45c7-8944-41021b59b53c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/03/b2389974-73a5-45c7-8944-41021b59b53c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/03/b2389974-73a5-45c7-8944-41021b59b53c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/03/b2389974-73a5-45c7-8944-41021b59b53c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -300,152 +495,188 @@
       "path": "images/img-80dc6cafa917.webp",
       "media_type": "image/webp",
       "bytes": 978012,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-46936aee48d0.webp",
+      "media_type": "image/webp",
+      "bytes": 2818,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-104e1cde0844.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-da0df74025eb.webp",
+      "media_type": "image/webp",
+      "bytes": 3238,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-b50d0bc3fef4.webp",
+      "media_type": "image/webp",
+      "bytes": 5330,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-4547bdcafd5a.webp",
+      "media_type": "image/webp",
+      "bytes": 4042,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-135946b70a08.webp",
+      "media_type": "image/webp",
+      "bytes": 5740,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-2294a91cb862.webp",
+      "media_type": "image/webp",
+      "bytes": 4828,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%286%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-2d57b4251bbe.webp",
+      "media_type": "image/webp",
+      "bytes": 5568,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-04bb38753b3b.webp",
+      "media_type": "image/webp",
+      "bytes": 5134,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-3b8ec7c08b58.webp",
+      "media_type": "image/webp",
+      "bytes": 5576,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/160x120xc%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-d49f05ddf765.webp",
+      "media_type": "image/webp",
+      "bytes": 5608,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-6ec06e294d7d.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-7aea05150c80.webp",
+      "media_type": "image/webp",
+      "bytes": 402442,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c90ddfa8b887.webp",
+      "media_type": "image/webp",
+      "bytes": 450790,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f490c99d9528.webp",
+      "media_type": "image/webp",
+      "bytes": 253016,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-7f8f22299130.webp",
+      "media_type": "image/webp",
+      "bytes": 276328,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-ad4e9350d57b.webp",
+      "media_type": "image/webp",
+      "bytes": 268486,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/24a0a368-8fb6-4f05-9cc8-8e111dede7f8/je/2000xxs.jpg",
-      "path": "images/img-c90ddfa8b887.webp",
+      "path": "images/img-d0a5af418767.webp",
       "media_type": "image/webp",
-      "bytes": 450790,
+      "bytes": 186828,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/03/e2199b8e-f3fb-4427-9451-fe49fe567d9a/je/2000xxs.jpg",
-      "path": "images/img-f490c99d9528.webp",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/1bc4b182-1ad3-4c99-b8e3-7bd2493a423b/je/2000xxs.jpg",
+      "path": "images/img-1a23c0a88024.webp",
       "media_type": "image/webp",
-      "bytes": 253016,
+      "bytes": 402442,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/9506b372-f0ba-4455-908a-f6b2ddd6e868/je/2000xxs.jpg",
-      "path": "images/img-7f8f22299130.webp",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/2000xxs.jpg",
+      "path": "images/img-f1c9c0ec5cd5.webp",
       "media_type": "image/webp",
-      "bytes": 276328,
+      "bytes": 402442,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/cd95260e-774c-4555-965a-dece342d4986/je/2000xxs.jpg",
-      "path": "images/img-ad4e9350d57b.webp",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/b0df166e-c5c6-408b-a404-207d0d259c70/je/2000xxs.jpg",
+      "path": "images/img-576d7c959c36.webp",
       "media_type": "image/webp",
-      "bytes": 268486,
+      "bytes": 402442,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/03/b2389974-73a5-45c7-8944-41021b59b53c/je/2000xxs.jpg",
+      "path": "images/img-c1176beccd22.webp",
+      "media_type": "image/webp",
+      "bytes": 402442,
       "status": "new"
     },
     {
@@ -454,7 +685,7 @@
       "path": "images/img-f11848a1867e.webp",
       "media_type": "image/webp",
       "bytes": 689274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -462,7 +693,7 @@
       "path": "images/img-a7b29f9a71f6.webp",
       "media_type": "image/webp",
       "bytes": 628392,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -470,7 +701,7 @@
       "path": "images/img-903466ad447b.webp",
       "media_type": "image/webp",
       "bytes": 314644,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -478,7 +709,7 @@
       "path": "images/img-0e140ee71b35.webp",
       "media_type": "image/webp",
       "bytes": 658610,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -486,7 +717,7 @@
       "path": "images/img-7f5004e3e8be.webp",
       "media_type": "image/webp",
       "bytes": 479724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -494,7 +725,7 @@
       "path": "images/img-679b74ecf263.webp",
       "media_type": "image/webp",
       "bytes": 617734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -502,7 +733,7 @@
       "path": "images/img-dabac7d18dde.webp",
       "media_type": "image/webp",
       "bytes": 543034,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -510,7 +741,7 @@
       "path": "images/img-e3cce122b402.webp",
       "media_type": "image/webp",
       "bytes": 184558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -518,7 +749,7 @@
       "path": "images/img-e0fd060c529e.webp",
       "media_type": "image/webp",
       "bytes": 356460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -526,7 +757,7 @@
       "path": "images/img-16c511ba6819.webp",
       "media_type": "image/webp",
       "bytes": 432572,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -534,7 +765,7 @@
       "path": "images/img-64a959ccf433.webp",
       "media_type": "image/webp",
       "bytes": 147092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -542,7 +773,7 @@
       "path": "images/img-3f7d9096fbd0.webp",
       "media_type": "image/webp",
       "bytes": 364234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -550,7 +781,7 @@
       "path": "images/img-66cd73a20d6f.webp",
       "media_type": "image/webp",
       "bytes": 213334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -558,7 +789,7 @@
       "path": "images/img-fbe13fd1ecb1.webp",
       "media_type": "image/webp",
       "bytes": 113562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -566,7 +797,7 @@
       "path": "images/img-e410c6c05e9d.webp",
       "media_type": "image/webp",
       "bytes": 138810,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -574,7 +805,7 @@
       "path": "images/img-30c11ae3443d.webp",
       "media_type": "image/webp",
       "bytes": 280422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -582,7 +813,7 @@
       "path": "images/img-b60239ecc32d.webp",
       "media_type": "image/webp",
       "bytes": 171940,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -590,7 +821,7 @@
       "path": "images/img-b21f47ddb7f0.webp",
       "media_type": "image/webp",
       "bytes": 249362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -598,6 +829,14 @@
       "path": "images/img-9b1a2236a05c.webp",
       "media_type": "image/webp",
       "bytes": 159602,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/02/3ca630f4-45cc-4bc8-b5e3-d34dad3454cc/je/2000xxs.jpg",
+      "path": "images/img-b2d772f962ce.webp",
+      "media_type": "image/webp",
+      "bytes": 402442,
       "status": "new"
     },
     {
@@ -606,7 +845,7 @@
       "path": "images/img-56a0585c6fda.webp",
       "media_type": "image/webp",
       "bytes": 476374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -614,7 +853,7 @@
       "path": "images/img-f84599961f05.webp",
       "media_type": "image/webp",
       "bytes": 480006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -622,7 +861,7 @@
       "path": "images/img-cdd486eb9556.webp",
       "media_type": "image/webp",
       "bytes": 382718,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -630,7 +869,7 @@
       "path": "images/img-66f206ac92fc.webp",
       "media_type": "image/webp",
       "bytes": 455460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -638,7 +877,7 @@
       "path": "images/img-946d3a289e25.webp",
       "media_type": "image/webp",
       "bytes": 444970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -646,7 +885,7 @@
       "path": "images/img-ce5174e34878.webp",
       "media_type": "image/webp",
       "bytes": 467096,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -654,7 +893,7 @@
       "path": "images/img-d0a856483741.webp",
       "media_type": "image/webp",
       "bytes": 363444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -662,7 +901,7 @@
       "path": "images/img-8aa4e7263f75.webp",
       "media_type": "image/webp",
       "bytes": 306580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -670,7 +909,7 @@
       "path": "images/img-a67c11b13f72.webp",
       "media_type": "image/webp",
       "bytes": 334318,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -678,7 +917,7 @@
       "path": "images/img-2e15763a7244.webp",
       "media_type": "image/webp",
       "bytes": 295394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -686,7 +925,7 @@
       "path": "images/img-76790721cc36.webp",
       "media_type": "image/webp",
       "bytes": 530380,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -694,25 +933,29 @@
       "path": "images/img-c4b10040ddb0.webp",
       "media_type": "image/webp",
       "bytes": 184128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2200xxs%2829%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-10e59fa21500.webp",
+      "media_type": "image/webp",
+      "bytes": 600756,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2200xxs%2828%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-2822b15439cb.webp",
+      "media_type": "image/webp",
+      "bytes": 591822,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/vernon-canada/European%20Inspired%20Luxury%20Estate%20Above%20Swan%20In%20Vernon,%20British%20Columbia,%20Canada%20For%20Sale%20%2815970475%29_files/2200xxs%2827%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/23/11/23/07/df15f568-c838-4bdd-a475-c018f972384f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -720,31 +963,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 41,
-    "images_existing": 0,
-    "images_failed": 29,
+    "images_new": 21,
+    "images_existing": 41,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

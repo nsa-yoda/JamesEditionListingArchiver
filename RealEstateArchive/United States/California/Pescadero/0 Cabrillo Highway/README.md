@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/pescadero-ca-usa/exceptional-oceanfront-property-14723586
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:18:39Z
+- Retrieved: 2026-09-28T00:20:53Z
 - Address: 0 Cabrillo Highway , Pescadero, CA 94060, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=37.2099954,-122.404381
 - Coordinates: 37.21, -122.4
@@ -10,7 +10,7 @@
 - Listing reference: SLMSNE
 - First listed: Sep 20, 2024
 - Last updated: April 8
-- Images downloaded: 19
+- Images downloaded: 25
 
 ## Property
 

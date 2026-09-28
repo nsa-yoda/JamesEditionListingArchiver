@@ -8,7 +8,7 @@
     "listing_reference": "0105",
     "first_listed": "May 1",
     "last_updated": "May 20",
-    "retrieved_at": "2026-06-16T03:43:39.410485Z"
+    "retrieved_at": "2026-09-28T00:25:52.935976Z"
   },
   "location": {
     "address": "R. do Farol 402, 8135-027 Almancil, Algarve, Portugal",
@@ -97,6 +97,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/2200xxs.jpg",
       "file": "004-167979c6.webp",
       "media_type": "image/webp",
@@ -105,7 +120,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/2200xxs.jpg",
@@ -116,7 +147,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/2200xxs.jpg",
@@ -127,7 +174,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/2200xxs.jpg",
@@ -138,7 +201,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/2200xxs.jpg",
@@ -149,19 +228,34 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-eba495bc0ec5.webp",
+      "media_type": "image/webp",
+      "bytes": 5966,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-0dfde8e70362.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-4ca04a4f3ae6.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -348,6 +442,69 @@
     "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/feedc8b5-9b16-45d3-996a-d013a78273b8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/a8cb9ebd-ab6c-4206-befa-652360be021a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/6dfcfffb-0b7f-4d86-a156-2243f5fe2d32/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/42/59/5db63657-ecc7-4e59-bc11-f2febdad66e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/almancil-portugal/The%20Most%20Exclusive%20Private%20Estate%20In%20The%20Golden%20In%20Almancil,%20Algarve,%20Portugal%20For%20Sale%20%2817815850%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/27/5f4d3e1a-abf4-4043-bd27-c035ee9807ff/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

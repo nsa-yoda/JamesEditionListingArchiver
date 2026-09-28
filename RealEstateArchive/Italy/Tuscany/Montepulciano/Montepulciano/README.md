@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/montepulciano-italy/vino-nobile-di-montepulciano-organic-winery-estate-tuscany-12783693
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:42Z
+- Retrieved: 2026-09-28T00:26:25Z
 - Address: Montepulciano, 53045, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=43.0945,11.7827
 - Coordinates: 43.09, 11.78
@@ -10,7 +10,7 @@
 - Listing reference: MTP2203
 - First listed: May 4, 2023
 - Last updated: April 20
-- Images downloaded: 9
+- Images downloaded: 11
 - Videos downloaded: 0
 
 ## Property

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:35.002109Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/stillwell-point-11044164",
     "canonical_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/stillwell-point-11044164",
@@ -8,18 +8,28 @@
     "listing_id": "11044164",
     "listing_reference": "WZB9W6",
     "first_listed": "Jul 17, 2020",
-    "retrieved_at": "2026-06-19T08:42:28.704292Z"
+    "retrieved_at": "2026-09-28T00:25:34.074036Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 1453,
-      "sha256": "79587be4722b744678ac3893f6decd843c8ac909ff03069543ed9b33d7966d1b"
+      "sha256": "a0b12b2eafeb356d71291dbc88cb995a80e1615b3edeeb9070c9fca21998941b"
     },
     {
       "path": "images/img-06a02698aa73.webp",
       "bytes": 685496,
       "sha256": "75b5cafa01599fe9043d4861029c00db58dcd4ab52bd7898784a739959766376"
+    },
+    {
+      "path": "images/img-12d806167d62.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-17b6ea62239e.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-272e34fedba6.svg",
@@ -42,6 +52,11 @@
       "sha256": "fc5f0ee885eb85fafb1d2df9eb489018144f7c0e237587dcbf250069ae7248e3"
     },
     {
+      "path": "images/img-559f120e8f22.webp",
+      "bytes": 7688,
+      "sha256": "fe4f36ffdc09332b2fdbc67f752b5847aabc1fe8731f8c8892f6d5962a297e2e"
+    },
+    {
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
@@ -62,14 +77,19 @@
       "sha256": "7d3ec36ad946cb2b1e84ed725d3d4558ab6c28ca2ec2d99e37c67bc2ee0257ea"
     },
     {
+      "path": "images/img-7d17b266c447.webp",
+      "bytes": 681722,
+      "sha256": "c6b6a05bb9e2f919a8c61c51d9e1c479eef4107ed554921a2ad34efa1c53e35d"
+    },
+    {
       "path": "images/img-caf7633dd106.svg",
       "bytes": 63710,
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
       "path": "listing.json",
-      "bytes": 14928,
-      "sha256": "d52d96a792a1bbaa2a64b3dd066c21158dd5e040452add452f666b3bf10433a5"
+      "bytes": 41103,
+      "sha256": "1fe121ecf601f4bf338dedfaee9ba464621be58c5310220b6ec82f444cd363a9"
     },
     {
       "path": "source.html",
@@ -85,17 +105,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/2200xxs.jpg",
       "path": "images/img-4489d61347be.webp",
       "media_type": "image/webp",
       "bytes": 756344,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,13 +153,25 @@
       "path": "images/img-67f7427fdc16.webp",
       "media_type": "image/webp",
       "bytes": 1010160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -117,13 +179,25 @@
       "path": "images/img-7010018e06d8.webp",
       "media_type": "image/webp",
       "bytes": 646006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -131,13 +205,25 @@
       "path": "images/img-06a02698aa73.webp",
       "media_type": "image/webp",
       "bytes": 685496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -145,31 +231,61 @@
       "path": "images/img-2d79b3db7e57.webp",
       "media_type": "image/webp",
       "bytes": 544300,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-559f120e8f22.webp",
+      "media_type": "image/webp",
+      "bytes": 7688,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-12d806167d62.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-17b6ea62239e.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/92fd1746-1d9e-4d84-beef-580576458008/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c86c4239-11d2-49cd-9a8f-699263d153a6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/093f692d-ec97-4ebf-a054-3f35817933e0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/6a78572e-bf4d-44f4-8bcb-5c9c68b03ce4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -177,13 +293,21 @@
       "path": "images/img-5c251a9f85c4.webp",
       "media_type": "image/webp",
       "bytes": 583886,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-river-ca-usa/Stillwell%20Point%20In%20Little%20River,%20California,%20United%20States%20For%20Sale%20%2811044164%29_files/2200xxsxm%285%29.jpg",
+      "path": "images/img-7d17b266c447.webp",
+      "media_type": "image/webp",
+      "bytes": 681722,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2020/07/17/08/39/58/c38c909a-7b23-4569-ab07-19345e73669e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -191,7 +315,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -199,7 +323,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -207,7 +331,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -215,13 +339,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 10,
-    "images_existing": 0,
-    "images_failed": 9,
+    "images_new": 4,
+    "images_existing": 10,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

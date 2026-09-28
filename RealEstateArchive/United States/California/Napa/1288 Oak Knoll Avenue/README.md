@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/napa-ca-usa/1288-oak-knoll-lane-16283745
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:26:57Z
+- Retrieved: 2026-09-28T00:29:37Z
 - Address: 1288 Oak Knoll Avenue , Napa, CA 94558, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.359516,-122.3202475
 - Coordinates: 38.36, -122.32
@@ -10,8 +10,8 @@
 - Listing reference: 5GGGSF
 - First listed: Sep 30, 2025
 - Last updated: April 14
-- Images downloaded: 60
-- Videos downloaded: 0
+- Images downloaded: 66
+- Videos downloaded: 1
 
 ## Property
 

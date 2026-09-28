@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/stamford-ct-usa/saddle-rock-18200757
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:13Z
+- Retrieved: 2026-09-28T00:24:36Z
 - Address: 123 Saddle Rock Road, Stamford, CT 06902, Connecticut, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.017661,-73.529543
 - Coordinates: 41.02, -73.53
@@ -10,8 +10,8 @@
 - Listing reference: 2SKPZR
 - First listed: Jun 17
 - Last updated: June 17
-- Images downloaded: 55
-- Videos downloaded: 0
+- Images downloaded: 59
+- Videos downloaded: 1
 
 ## Property
 

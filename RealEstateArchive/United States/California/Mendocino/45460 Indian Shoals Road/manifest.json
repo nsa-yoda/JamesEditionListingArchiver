@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:20.500833Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/single-family-residence-in-mendocino-18088869",
     "canonical_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/single-family-residence-in-mendocino-18088869",
@@ -9,13 +9,13 @@
     "listing_reference": "C1-11418",
     "first_listed": "Jun 5",
     "last_updated": "June 5",
-    "retrieved_at": "2026-06-19T08:42:08.7852Z"
+    "retrieved_at": "2026-09-28T00:25:19.95284Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 1947,
-      "sha256": "ce5c5ff66f663d9cbff791e6e5179ed549221217610e785d87874c43a49c7e79"
+      "sha256": "297f90000ad0fe353e0a6760b7e772b99d1ada66284945764a2f695655d0ceb0"
     },
     {
       "path": "images/img-023c887baa80.webp",
@@ -148,9 +148,24 @@
       "sha256": "fbd99467b6e8c132c6a89354624e5f02387a1af5a47d730a28e3c0895864aad0"
     },
     {
+      "path": "images/img-88cc2bb38995.png",
+      "bytes": 4795,
+      "sha256": "63d0fa424fdab4dcab3653755a6775630225546baa15fc53e736532813e913cf"
+    },
+    {
       "path": "images/img-89bd9062a9cf.webp",
       "bytes": 162400,
       "sha256": "f497752c2384c9182a04e0ee5a61599ecee22ed812a8f9601e4e50ddf655046c"
+    },
+    {
+      "path": "images/img-97a44c157cb1.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-9a1f1ff0f427.webp",
+      "bytes": 3512,
+      "sha256": "c4b03448785a7c1602ab647dbfdbc18af35bfe4deed8308f27b625d9adc5cdee"
     },
     {
       "path": "images/img-9b08123dd6f1.webp",
@@ -278,6 +293,11 @@
       "sha256": "ba39d834d5f2d61a281292b3895f8b746d29d78516d90556071d7d3b08105b14"
     },
     {
+      "path": "images/img-fc9e81324cf1.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-fd1c410d557c.webp",
       "bytes": 61300,
       "sha256": "8c41a40c4a8cc8c202eef0302e71a6d6bbc4679ae6c5f7e9302c437e8c3c3526"
@@ -289,8 +309,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 29863,
-      "sha256": "a3c6ced000238183259827af6828af193400091ff4a50aedcea76765a172868e"
+      "bytes": 65328,
+      "sha256": "2ed1ecb3fa9b2a9fef0c90fae6bc1fd803e2f69110bb41a0b30057d272bf5926"
     },
     {
       "path": "source.html",
@@ -306,17 +326,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/2200xxs.jpg",
       "path": "images/img-b1dfa8a4c5a9.webp",
       "media_type": "image/webp",
       "bytes": 78200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -324,13 +380,31 @@
       "path": "images/img-816c027b08b5.webp",
       "media_type": "image/webp",
       "bytes": 133576,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -338,13 +412,31 @@
       "path": "images/img-87257a80c592.webp",
       "media_type": "image/webp",
       "bytes": 70650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -352,13 +444,31 @@
       "path": "images/img-aa536f3b184f.webp",
       "media_type": "image/webp",
       "bytes": 58276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -366,37 +476,75 @@
       "path": "images/img-63c72b9fb6be.webp",
       "media_type": "image/webp",
       "bytes": 76504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/M00000846.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-88cc2bb38995.png",
+      "media_type": "image/png",
+      "bytes": 4795,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9a1f1ff0f427.webp",
+      "media_type": "image/webp",
+      "bytes": 3512,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-97a44c157cb1.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-fc9e81324cf1.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/9fbc2ada-c98a-4bf0-b7f8-8328e663f06d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/212e8c15-365e-4ee8-85ed-70e3848e3c17/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/101072d8-7137-45ae-b03f-a54eac43fc65/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/68d9c875-a526-47a9-b2e9-07818b36827f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -404,7 +552,7 @@
       "path": "images/img-fd1c410d557c.webp",
       "media_type": "image/webp",
       "bytes": 61300,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -412,7 +560,7 @@
       "path": "images/img-e1fc30dfae9a.webp",
       "media_type": "image/webp",
       "bytes": 53274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -420,7 +568,7 @@
       "path": "images/img-b1c3ebb779b4.webp",
       "media_type": "image/webp",
       "bytes": 57910,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -428,7 +576,7 @@
       "path": "images/img-b211ef42cb2d.webp",
       "media_type": "image/webp",
       "bytes": 68976,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -436,7 +584,7 @@
       "path": "images/img-ce95390f95cb.webp",
       "media_type": "image/webp",
       "bytes": 41308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -444,7 +592,7 @@
       "path": "images/img-9d867fe190ae.webp",
       "media_type": "image/webp",
       "bytes": 96482,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -452,7 +600,7 @@
       "path": "images/img-64ea9c9e83cc.webp",
       "media_type": "image/webp",
       "bytes": 84806,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -460,7 +608,7 @@
       "path": "images/img-6f16cecd0ba4.webp",
       "media_type": "image/webp",
       "bytes": 50670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -468,7 +616,7 @@
       "path": "images/img-9b08123dd6f1.webp",
       "media_type": "image/webp",
       "bytes": 37062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -476,7 +624,7 @@
       "path": "images/img-a0abc226216d.webp",
       "media_type": "image/webp",
       "bytes": 58768,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -484,7 +632,7 @@
       "path": "images/img-eba59fb9b78b.webp",
       "media_type": "image/webp",
       "bytes": 42336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -492,7 +640,7 @@
       "path": "images/img-9f0785b60bb8.webp",
       "media_type": "image/webp",
       "bytes": 26506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -500,7 +648,7 @@
       "path": "images/img-ade8bc30cc17.webp",
       "media_type": "image/webp",
       "bytes": 31706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -508,7 +656,7 @@
       "path": "images/img-72d7fce081c8.webp",
       "media_type": "image/webp",
       "bytes": 39974,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -516,7 +664,7 @@
       "path": "images/img-ed409701c046.webp",
       "media_type": "image/webp",
       "bytes": 61282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -524,7 +672,7 @@
       "path": "images/img-63dec9dd2e1c.webp",
       "media_type": "image/webp",
       "bytes": 130028,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -532,7 +680,7 @@
       "path": "images/img-e759a6427647.webp",
       "media_type": "image/webp",
       "bytes": 116214,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -540,7 +688,7 @@
       "path": "images/img-459ec71fdf4d.webp",
       "media_type": "image/webp",
       "bytes": 91322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -548,7 +696,7 @@
       "path": "images/img-75af796d388e.webp",
       "media_type": "image/webp",
       "bytes": 114848,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -556,7 +704,7 @@
       "path": "images/img-4347a044169b.webp",
       "media_type": "image/webp",
       "bytes": 168324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -564,7 +712,7 @@
       "path": "images/img-1c3beae54924.webp",
       "media_type": "image/webp",
       "bytes": 186920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -572,7 +720,7 @@
       "path": "images/img-0556cf66d710.webp",
       "media_type": "image/webp",
       "bytes": 121732,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -580,7 +728,7 @@
       "path": "images/img-a77de2f7ed41.webp",
       "media_type": "image/webp",
       "bytes": 116532,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -588,7 +736,7 @@
       "path": "images/img-2a7204fa155b.webp",
       "media_type": "image/webp",
       "bytes": 112380,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -596,7 +744,7 @@
       "path": "images/img-023c887baa80.webp",
       "media_type": "image/webp",
       "bytes": 41578,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -604,7 +752,7 @@
       "path": "images/img-0af75c7c5224.webp",
       "media_type": "image/webp",
       "bytes": 89568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -612,7 +760,7 @@
       "path": "images/img-dc2ff0543b6b.webp",
       "media_type": "image/webp",
       "bytes": 39052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -620,7 +768,7 @@
       "path": "images/img-ee7487e7555f.webp",
       "media_type": "image/webp",
       "bytes": 80630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -628,7 +776,7 @@
       "path": "images/img-da766da486dc.webp",
       "media_type": "image/webp",
       "bytes": 42752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -636,7 +784,7 @@
       "path": "images/img-ebd1ad5476c5.webp",
       "media_type": "image/webp",
       "bytes": 30336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -644,7 +792,7 @@
       "path": "images/img-10fdfcb51496.webp",
       "media_type": "image/webp",
       "bytes": 44352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -652,7 +800,7 @@
       "path": "images/img-c59b897c5ffd.webp",
       "media_type": "image/webp",
       "bytes": 17500,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -660,7 +808,7 @@
       "path": "images/img-50690b386052.webp",
       "media_type": "image/webp",
       "bytes": 26728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -668,7 +816,7 @@
       "path": "images/img-9f8b11254dbd.webp",
       "media_type": "image/webp",
       "bytes": 39396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -676,7 +824,7 @@
       "path": "images/img-3d0ef71f433e.webp",
       "media_type": "image/webp",
       "bytes": 61682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -684,7 +832,7 @@
       "path": "images/img-c58121c892bf.webp",
       "media_type": "image/webp",
       "bytes": 94824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -692,7 +840,7 @@
       "path": "images/img-750d47dd8330.webp",
       "media_type": "image/webp",
       "bytes": 137010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -700,7 +848,7 @@
       "path": "images/img-663fe45fccd8.webp",
       "media_type": "image/webp",
       "bytes": 138712,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -708,7 +856,7 @@
       "path": "images/img-a16a8334413a.webp",
       "media_type": "image/webp",
       "bytes": 96596,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -716,7 +864,7 @@
       "path": "images/img-b45c58de8119.webp",
       "media_type": "image/webp",
       "bytes": 118550,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -724,7 +872,7 @@
       "path": "images/img-89bd9062a9cf.webp",
       "media_type": "image/webp",
       "bytes": 162400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -732,7 +880,7 @@
       "path": "images/img-06786647b349.webp",
       "media_type": "image/webp",
       "bytes": 86914,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -740,7 +888,7 @@
       "path": "images/img-fd321b3d6711.webp",
       "media_type": "image/webp",
       "bytes": 104212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -748,7 +896,7 @@
       "path": "images/img-11b7a5cc8ef2.webp",
       "media_type": "image/webp",
       "bytes": 144706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -756,25 +904,13 @@
       "path": "images/img-719c6d645d77.webp",
       "media_type": "image/webp",
       "bytes": 97890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2825%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2826%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/mendocino-ca-usa/Single%20Family%20Residence%20In%20Mendocino%20In%20Mendocino,%20California,%20United%20States%20For%20Sale%20%2818088869%29_files/2200xxs%2827%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/02/32/12/af77e14f-8f37-4b9c-901c-05cc4e492cac/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -782,7 +918,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -790,7 +926,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -798,7 +934,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -806,13 +942,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 54,
-    "images_existing": 0,
-    "images_failed": 12,
+    "images_new": 4,
+    "images_existing": 54,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/monticello-ny-usa/single-family-residence-in-monticello-16980380
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:08:58Z
+- Retrieved: 2026-09-28T00:25:20Z
 - Address: 941 Starlight Road, Monticello, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.661839,-74.783333
 - Coordinates: 41.66, -74.78
@@ -10,7 +10,7 @@
 - Listing reference: H6311954
 - First listed: Jan 22
 - Last updated: March 30
-- Images downloaded: 34
+- Images downloaded: 38
 
 ## Property
 

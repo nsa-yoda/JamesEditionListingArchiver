@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/charming-farmhouse-with-pool-and-land-in-castiglione-del-lago-17913288
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:22Z
+- Retrieved: 2026-09-28T00:20:17Z
 - Address: 06061 Castiglione del Lago, Province of Perugia, Umbria, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=43.1264576,12.047941
 - Coordinates: 43.13, 12.05
@@ -10,7 +10,7 @@
 - Listing reference: PGAR1M460
 - First listed: May 14
 - Last updated: May 14
-- Images downloaded: 10
+- Images downloaded: 12
 - Videos downloaded: 0
 
 ## Property

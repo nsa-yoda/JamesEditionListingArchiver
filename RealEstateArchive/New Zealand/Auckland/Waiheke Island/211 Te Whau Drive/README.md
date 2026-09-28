@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/a-private-waiheke-masterpiece-without-peer-17059108
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:20Z
+- Retrieved: 2026-09-28T00:19:51Z
 - Address: 211 Te Whau Drive, Waiheke Island 1971, Auckland, New Zealand
 - Map: https://www.google.com/maps/search/?api=1&query=-36.8171539,175.0365436
 - Coordinates: -36.82, 175.04
 - Site listing ID: 17059108
 - First listed: Feb 1
 - Last updated: February 1
-- Images downloaded: 10
+- Images downloaded: 18
 
 ## Property
 

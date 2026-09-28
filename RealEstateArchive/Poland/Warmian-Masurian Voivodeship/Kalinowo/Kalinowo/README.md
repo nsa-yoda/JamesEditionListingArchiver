@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kalinowo-poland/luxury-manor-in-the-masurian-lake-district-masuria-arte-15077402
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:29Z
+- Retrieved: 2026-09-28T00:29:38Z
 - Address: Kalinowo, WN 19-314, Warmian-Masurian Voivodeship, Poland
 - Map: https://www.google.com/maps/search/?api=1&query=53.8737535,22.6718421
 - Coordinates: 53.87, 22.67
@@ -10,8 +10,8 @@
 - Listing reference: R5CR4J
 - First listed: Jan 10, 2025
 - Last updated: November 27, 2025
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 12
+- Videos downloaded: 1
 
 ## Property
 

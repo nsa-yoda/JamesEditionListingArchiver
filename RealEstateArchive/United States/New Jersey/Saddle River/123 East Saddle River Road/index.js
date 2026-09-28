@@ -12,22 +12,22 @@ window.listingArchiveIndex = {
     {
       "name": "listing.json",
       "href": "listing.json",
-      "size": 19978
+      "size": 168945
     },
     {
       "name": "manifest.json",
       "href": "manifest.json",
-      "size": 8120
+      "size": 53180
     },
     {
       "name": "README.md",
       "href": "README.md",
-      "size": 4168
+      "size": 4169
     },
     {
       "name": "source.html",
       "href": "source.html",
-      "size": 352502
+      "size": 529234
     },
     {
       "name": "source.url",
@@ -35,5 +35,5 @@ window.listingArchiveIndex = {
       "size": 119
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:17:07.644559Z"
 };

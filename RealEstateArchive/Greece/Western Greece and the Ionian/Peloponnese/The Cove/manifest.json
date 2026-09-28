@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:42.040731Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/corfu-greece/the-cove-seafront-estate-in-northeast-corfu-15161406",
     "canonical_url": "https://www.jamesedition.com/real_estate/corfu-greece/the-cove-seafront-estate-in-northeast-corfu-15161406",
@@ -8,13 +8,13 @@
     "listing_id": "15161406",
     "first_listed": "Feb 3, 2025",
     "last_updated": "December 13, 2025",
-    "retrieved_at": "2026-08-28T00:31:54.199411Z"
+    "retrieved_at": "2026-09-28T00:25:40.732617Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 4883,
-      "sha256": "172d76682ae76811ea2a3d6a0f52f89ef039fb261ff5e5d6b724f0d924b245c7"
+      "sha256": "b99767475229c715186e1396a7afd8bbb58b72632d9868eb4026f6025e7f8d1c"
     },
     {
       "path": "images/img-01c3ecf5ce4b.webp",
@@ -177,6 +177,11 @@
       "sha256": "5b270fa7157bcae12c2fd663807721576fa82d60824abdac4c47d693c493d403"
     },
     {
+      "path": "images/img-78bd43c505f8.webp",
+      "bytes": 5524,
+      "sha256": "1784ae52897e02add863ea2c054d03c7f0dd8028f8a174f3caaa74a3aa86d2dd"
+    },
+    {
       "path": "images/img-7d6c0bb31db6.webp",
       "bytes": 348980,
       "sha256": "4d8a99e87da3ce491fa859e545a85a57c1840924404eaf16bbf5aef6e54fac56"
@@ -225,6 +230,11 @@
       "path": "images/img-b1b04363d4ae.webp",
       "bytes": 157264,
       "sha256": "16e29f3f262f08fa41d91b11e081b08b5cdf2167a642b087b0407de492e05fa4"
+    },
+    {
+      "path": "images/img-b1ec7a779e66.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-b5d844bf5749.webp",
@@ -298,8 +308,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 41350,
-      "sha256": "b903a22ca13d077beb85fe2f1d70202226bc6a7bf3ff23f2ccf286c0c18347ab"
+      "bytes": 72307,
+      "sha256": "92a7d28e77a6d6f39248edd2b263a8f608ecc54c83df0ba90cc58df1d71458f7"
     },
     {
       "path": "source.html",
@@ -315,17 +325,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/2200xxs.jpg",
       "path": "images/img-c7114e236595.webp",
       "media_type": "image/webp",
       "bytes": 344444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/697d24dd-1665-43b9-80a9-ef2912a2c350/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/697d24dd-1665-43b9-80a9-ef2912a2c350/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/697d24dd-1665-43b9-80a9-ef2912a2c350/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/697d24dd-1665-43b9-80a9-ef2912a2c350/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/697d24dd-1665-43b9-80a9-ef2912a2c350/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/697d24dd-1665-43b9-80a9-ef2912a2c350/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -333,13 +379,31 @@
       "path": "images/img-919541212f80.webp",
       "media_type": "image/webp",
       "bytes": 592080,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/2c9a60b3-1a6e-4e15-b41e-07c4a756678c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/2c9a60b3-1a6e-4e15-b41e-07c4a756678c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/2c9a60b3-1a6e-4e15-b41e-07c4a756678c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/2c9a60b3-1a6e-4e15-b41e-07c4a756678c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/2c9a60b3-1a6e-4e15-b41e-07c4a756678c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/2c9a60b3-1a6e-4e15-b41e-07c4a756678c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -347,13 +411,31 @@
       "path": "images/img-b1b04363d4ae.webp",
       "media_type": "image/webp",
       "bytes": 157264,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/4a543174-cbec-4521-b94c-cced3fbe7079/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/4a543174-cbec-4521-b94c-cced3fbe7079/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/4a543174-cbec-4521-b94c-cced3fbe7079/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/4a543174-cbec-4521-b94c-cced3fbe7079/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/4a543174-cbec-4521-b94c-cced3fbe7079/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/4a543174-cbec-4521-b94c-cced3fbe7079/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -361,13 +443,31 @@
       "path": "images/img-bb0db9ec9f24.webp",
       "media_type": "image/webp",
       "bytes": 406490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/9fcb6049-4626-4e02-ad54-1abc4f8ef859/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/9fcb6049-4626-4e02-ad54-1abc4f8ef859/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/9fcb6049-4626-4e02-ad54-1abc4f8ef859/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/9fcb6049-4626-4e02-ad54-1abc4f8ef859/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/9fcb6049-4626-4e02-ad54-1abc4f8ef859/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/9fcb6049-4626-4e02-ad54-1abc4f8ef859/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -375,93 +475,61 @@
       "path": "images/img-4f947e597b36.webp",
       "media_type": "image/webp",
       "bytes": 348560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-78bd43c505f8.webp",
+      "media_type": "image/webp",
+      "bytes": 5524,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-b1ec7a779e66.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-da312be111a2.webp",
+      "media_type": "image/webp",
+      "bytes": 127472,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-88a77369507f.webp",
+      "media_type": "image/webp",
+      "bytes": 60318,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-99f2a24979e5.webp",
+      "media_type": "image/webp",
+      "bytes": 121466,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/a0a330b5-8e3a-4af4-bc3e-4241e307bb09/je/2000xxs.jpg",
-      "path": "images/img-da312be111a2.webp",
-      "media_type": "image/webp",
-      "bytes": 127472,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/671e0715-1b40-4cf2-b77c-85da386f3ab7/je/2000xxs.jpg",
-      "path": "images/img-88a77369507f.webp",
-      "media_type": "image/webp",
-      "bytes": 60318,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/442036b5-fd05-4929-a312-5104705ca91c/je/2000xxs.jpg",
-      "path": "images/img-99f2a24979e5.webp",
-      "media_type": "image/webp",
-      "bytes": 121466,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/04d34909-2147-4d00-b8e7-966b1ec4bb21/je/2000xxs.jpg",
       "path": "images/img-433eab1fde8a.webp",
       "media_type": "image/webp",
       "bytes": 75324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -469,7 +537,7 @@
       "path": "images/img-bcfcc8be3969.webp",
       "media_type": "image/webp",
       "bytes": 216904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -477,7 +545,7 @@
       "path": "images/img-32d8026a39b1.webp",
       "media_type": "image/webp",
       "bytes": 332618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -485,7 +553,7 @@
       "path": "images/img-52dd5e0331f6.webp",
       "media_type": "image/webp",
       "bytes": 210124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -493,7 +561,7 @@
       "path": "images/img-69f31dd1e868.webp",
       "media_type": "image/webp",
       "bytes": 426506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -501,7 +569,7 @@
       "path": "images/img-1784548a1810.webp",
       "media_type": "image/webp",
       "bytes": 392394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -509,7 +577,7 @@
       "path": "images/img-459f011588e6.webp",
       "media_type": "image/webp",
       "bytes": 356896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -517,7 +585,7 @@
       "path": "images/img-b5d844bf5749.webp",
       "media_type": "image/webp",
       "bytes": 234666,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -525,7 +593,7 @@
       "path": "images/img-9ddaa09629aa.webp",
       "media_type": "image/webp",
       "bytes": 256122,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -533,7 +601,7 @@
       "path": "images/img-c50f7a9af0bc.webp",
       "media_type": "image/webp",
       "bytes": 239946,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -541,7 +609,7 @@
       "path": "images/img-d6a2be838b85.webp",
       "media_type": "image/webp",
       "bytes": 288060,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -549,7 +617,7 @@
       "path": "images/img-2cafde46adbb.webp",
       "media_type": "image/webp",
       "bytes": 249036,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -557,7 +625,7 @@
       "path": "images/img-e9de2c496340.webp",
       "media_type": "image/webp",
       "bytes": 117274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -565,7 +633,7 @@
       "path": "images/img-07d8db65705d.webp",
       "media_type": "image/webp",
       "bytes": 93994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -573,7 +641,7 @@
       "path": "images/img-183071f85f53.webp",
       "media_type": "image/webp",
       "bytes": 125994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -581,7 +649,7 @@
       "path": "images/img-3e94f55f34e9.webp",
       "media_type": "image/webp",
       "bytes": 135046,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -589,7 +657,7 @@
       "path": "images/img-6511a90cb629.webp",
       "media_type": "image/webp",
       "bytes": 116528,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -597,7 +665,7 @@
       "path": "images/img-e4085aa775ed.webp",
       "media_type": "image/webp",
       "bytes": 135408,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -605,7 +673,7 @@
       "path": "images/img-675439243e9f.webp",
       "media_type": "image/webp",
       "bytes": 43902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -613,7 +681,7 @@
       "path": "images/img-7fe9445c6766.webp",
       "media_type": "image/webp",
       "bytes": 108326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -621,7 +689,7 @@
       "path": "images/img-2bab4033d5d0.webp",
       "media_type": "image/webp",
       "bytes": 79240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -629,7 +697,7 @@
       "path": "images/img-ca2b4898eda1.webp",
       "media_type": "image/webp",
       "bytes": 83262,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -637,7 +705,7 @@
       "path": "images/img-8d1cf4811193.webp",
       "media_type": "image/webp",
       "bytes": 91142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -645,7 +713,7 @@
       "path": "images/img-12f46569cecb.webp",
       "media_type": "image/webp",
       "bytes": 81050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -653,7 +721,7 @@
       "path": "images/img-597888f29bd5.webp",
       "media_type": "image/webp",
       "bytes": 90260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -661,7 +729,7 @@
       "path": "images/img-ec704bf7a111.webp",
       "media_type": "image/webp",
       "bytes": 84162,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -669,7 +737,7 @@
       "path": "images/img-4e9400d771f0.webp",
       "media_type": "image/webp",
       "bytes": 116400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -677,7 +745,7 @@
       "path": "images/img-7044c46392ba.webp",
       "media_type": "image/webp",
       "bytes": 147852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -685,7 +753,7 @@
       "path": "images/img-1dc0c291f710.webp",
       "media_type": "image/webp",
       "bytes": 118106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -693,7 +761,7 @@
       "path": "images/img-e9d989bdee36.webp",
       "media_type": "image/webp",
       "bytes": 131048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -701,7 +769,7 @@
       "path": "images/img-59f9e5f7984a.webp",
       "media_type": "image/webp",
       "bytes": 82150,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -709,7 +777,7 @@
       "path": "images/img-feda451b017b.webp",
       "media_type": "image/webp",
       "bytes": 193314,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -717,7 +785,7 @@
       "path": "images/img-01c3ecf5ce4b.webp",
       "media_type": "image/webp",
       "bytes": 631210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -725,7 +793,7 @@
       "path": "images/img-1db670b38ebd.webp",
       "media_type": "image/webp",
       "bytes": 609194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -733,7 +801,7 @@
       "path": "images/img-24894f14e0ee.webp",
       "media_type": "image/webp",
       "bytes": 377426,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -741,7 +809,7 @@
       "path": "images/img-7f37edb3e322.webp",
       "media_type": "image/webp",
       "bytes": 144306,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -749,7 +817,7 @@
       "path": "images/img-62c4cc9aa7ff.webp",
       "media_type": "image/webp",
       "bytes": 156658,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -757,7 +825,7 @@
       "path": "images/img-18d07608b53b.webp",
       "media_type": "image/webp",
       "bytes": 283676,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -765,7 +833,7 @@
       "path": "images/img-38359e23f1fd.webp",
       "media_type": "image/webp",
       "bytes": 351874,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -773,7 +841,7 @@
       "path": "images/img-c0f046a0e207.webp",
       "media_type": "image/webp",
       "bytes": 441362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -781,7 +849,7 @@
       "path": "images/img-90b0203c5bc2.webp",
       "media_type": "image/webp",
       "bytes": 122862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -789,7 +857,7 @@
       "path": "images/img-5ad289ce55c0.webp",
       "media_type": "image/webp",
       "bytes": 219268,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -797,7 +865,7 @@
       "path": "images/img-3575fd51f25e.webp",
       "media_type": "image/webp",
       "bytes": 440782,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -805,7 +873,7 @@
       "path": "images/img-1eb02aec8b72.webp",
       "media_type": "image/webp",
       "bytes": 254820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -813,7 +881,7 @@
       "path": "images/img-05e924246df6.webp",
       "media_type": "image/webp",
       "bytes": 209944,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -821,7 +889,7 @@
       "path": "images/img-4ca51c2c69aa.webp",
       "media_type": "image/webp",
       "bytes": 117654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -829,25 +897,13 @@
       "path": "images/img-7d6c0bb31db6.webp",
       "media_type": "image/webp",
       "bytes": 348980,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2200xxs%288%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2200xxs%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/The%20Cove%20,Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815161406%29_files/2200xxs%2810%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/03/13/12/33/b3892d20-1dcb-4816-ba17-e9ab55e6fe9d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -855,31 +911,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 56,
-    "images_existing": 0,
-    "images_failed": 19,
+    "images_new": 2,
+    "images_existing": 56,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

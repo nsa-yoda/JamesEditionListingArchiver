@@ -8,7 +8,6 @@ cookies*.txt
 /listing-archiver
 *.test
 coverage.out
-internal/
 
 # Editor and OS files
 .DS_Store

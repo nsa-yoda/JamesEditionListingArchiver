@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:22:46.604825Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/monsalvat-farm-one-of-the-finest-properties-in-the-country-18056533",
     "canonical_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/monsalvat-farm-one-of-the-finest-properties-in-the-country-18056533",
@@ -8,13 +8,13 @@
     "listing_id": "18056533",
     "first_listed": "Jun 1",
     "last_updated": "June 2",
-    "retrieved_at": "2026-08-28T00:29:21.243978Z"
+    "retrieved_at": "2026-09-28T00:22:45.117561Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3237,
-      "sha256": "2c41d78c41b697038c3fe2d91f6152e3b55c087fabc0644672d2c94b797892ff"
+      "sha256": "31a8866324f5bc15e3836561e06f1ecf0161789890f35dbc9212f20ff86f1abe"
     },
     {
       "path": "images/img-0193c1c5c304.webp",
@@ -62,6 +62,11 @@
       "sha256": "ef11815433c758d164441f02305c43643d4453c5e323e786ed2476bb48e9532c"
     },
     {
+      "path": "images/img-18375fd7062c.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-1961d54cc961.webp",
       "bytes": 48998,
       "sha256": "f2dc5ba059539091ee0e4b7112f9cb13129eb3f50178335f88d56c05a994a8c0"
@@ -105,6 +110,11 @@
       "path": "images/img-349ad6ca41a5.webp",
       "bytes": 531574,
       "sha256": "8d5c66ca8fe1e9fb307b660bb151f9b00b0161501555e6839cc07e2ced91df73"
+    },
+    {
+      "path": "images/img-451a92e94ce6.webp",
+      "bytes": 1065352,
+      "sha256": "003ad359e76b2796fadd1724b5e1ac7da80fd2e07150272727112444e2184dcc"
     },
     {
       "path": "images/img-46c9f857e410.webp",
@@ -232,6 +242,11 @@
       "sha256": "e76516518c28b6b61bc55c639b451654aa97dbfd16de63e05a10035477d27fe7"
     },
     {
+      "path": "images/img-aa0c44b1b946.webp",
+      "bytes": 6102,
+      "sha256": "d207fcf52b7088942a4959ef22bb960a1e5340bc25404535a2a8c82d8b2e69ff"
+    },
+    {
       "path": "images/img-ad70b763c390.webp",
       "bytes": 83922,
       "sha256": "2cda15b79ad2775964a6fd0449e77460df836bd4c4ea551071856403cd775713"
@@ -332,6 +347,11 @@
       "sha256": "0645ef808a2026bc33e18f1b92f733a063434ffe6f512a9d22ec7c5acde9e55e"
     },
     {
+      "path": "images/img-f21a516744a7.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-f37907f99f95.webp",
       "bytes": 58794,
       "sha256": "6e7d0a3d8e76553fff06564e17c1ae69bb190bae35fa26e42d46d20305e4b14f"
@@ -343,8 +363,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 36958,
-      "sha256": "bf02849a20f34dfc6d1c4881c260095aff384ca9243428e7f93b83deaae8eff6"
+      "bytes": 77600,
+      "sha256": "8fecbc242e89d729d9860625babaff1ac0e48a27f58040e16e76eb6c21c69354"
     },
     {
       "path": "source.html",
@@ -365,11 +385,29 @@
   "assets": [
     {
       "kind": "video",
-      "source_url": "https://player.vimeo.com/video/1113641202?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/1113641202?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg",
       "poster_path": "videos/img-9c8a56470846.webp",
-      "error": "response is not a recognized video"
+      "error": "yt-dlp could not download the video player URL"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -377,13 +415,31 @@
       "path": "images/img-349ad6ca41a5.webp",
       "media_type": "image/webp",
       "bytes": 531574,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -391,13 +447,31 @@
       "path": "images/img-a8f5b4eac692.webp",
       "media_type": "image/webp",
       "bytes": 616562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -405,13 +479,31 @@
       "path": "images/img-159b10d9ee62.webp",
       "media_type": "image/webp",
       "bytes": 86574,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -419,13 +511,31 @@
       "path": "images/img-ad70b763c390.webp",
       "media_type": "image/webp",
       "bytes": 83922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -433,31 +543,67 @@
       "path": "images/img-1abc0435e768.webp",
       "media_type": "image/webp",
       "bytes": 147672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-aa0c44b1b946.webp",
+      "media_type": "image/webp",
+      "bytes": 6102,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-18375fd7062c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-f21a516744a7.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -465,7 +611,7 @@
       "path": "images/img-99a03046e50a.webp",
       "media_type": "image/webp",
       "bytes": 131936,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -473,7 +619,7 @@
       "path": "images/img-77c155a427b8.webp",
       "media_type": "image/webp",
       "bytes": 75010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -481,7 +627,7 @@
       "path": "images/img-119269aace18.webp",
       "media_type": "image/webp",
       "bytes": 37376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -489,7 +635,7 @@
       "path": "images/img-bef090cc5501.webp",
       "media_type": "image/webp",
       "bytes": 63076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -497,7 +643,7 @@
       "path": "images/img-a0b39b593dca.webp",
       "media_type": "image/webp",
       "bytes": 67232,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -505,7 +651,7 @@
       "path": "images/img-a528377b2b88.webp",
       "media_type": "image/webp",
       "bytes": 89938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -513,7 +659,7 @@
       "path": "images/img-19a1a378fc74.webp",
       "media_type": "image/webp",
       "bytes": 71176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -521,7 +667,7 @@
       "path": "images/img-c043bb56d0d6.webp",
       "media_type": "image/webp",
       "bytes": 54710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -529,7 +675,7 @@
       "path": "images/img-e4a3f3974f99.webp",
       "media_type": "image/webp",
       "bytes": 96160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -537,7 +683,7 @@
       "path": "images/img-dd5f40d4e1e1.webp",
       "media_type": "image/webp",
       "bytes": 112228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -545,7 +691,7 @@
       "path": "images/img-1665a74c37e0.webp",
       "media_type": "image/webp",
       "bytes": 158458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -553,7 +699,7 @@
       "path": "images/img-d5062a10cbba.webp",
       "media_type": "image/webp",
       "bytes": 159516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -561,7 +707,7 @@
       "path": "images/img-f37907f99f95.webp",
       "media_type": "image/webp",
       "bytes": 58794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -569,7 +715,7 @@
       "path": "images/img-beceb386ae4a.webp",
       "media_type": "image/webp",
       "bytes": 126880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -577,7 +723,7 @@
       "path": "images/img-ce304b4991eb.webp",
       "media_type": "image/webp",
       "bytes": 75980,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -585,7 +731,7 @@
       "path": "images/img-664eaac68577.webp",
       "media_type": "image/webp",
       "bytes": 67236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -593,7 +739,7 @@
       "path": "images/img-204aa7938d05.webp",
       "media_type": "image/webp",
       "bytes": 98596,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -601,7 +747,7 @@
       "path": "images/img-68a34054b893.webp",
       "media_type": "image/webp",
       "bytes": 110788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -609,7 +755,7 @@
       "path": "images/img-51715d327655.webp",
       "media_type": "image/webp",
       "bytes": 94196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -617,7 +763,7 @@
       "path": "images/img-07055dc902c5.webp",
       "media_type": "image/webp",
       "bytes": 120322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -625,7 +771,7 @@
       "path": "images/img-c11b2f7cd81d.webp",
       "media_type": "image/webp",
       "bytes": 102106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -633,7 +779,7 @@
       "path": "images/img-216702359cb4.webp",
       "media_type": "image/webp",
       "bytes": 50912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -641,7 +787,7 @@
       "path": "images/img-80af7136a841.webp",
       "media_type": "image/webp",
       "bytes": 70552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -649,7 +795,7 @@
       "path": "images/img-c071972720ee.webp",
       "media_type": "image/webp",
       "bytes": 117398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -657,7 +803,7 @@
       "path": "images/img-20ade359e34f.webp",
       "media_type": "image/webp",
       "bytes": 117822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -665,7 +811,7 @@
       "path": "images/img-0193c1c5c304.webp",
       "media_type": "image/webp",
       "bytes": 113802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -673,7 +819,7 @@
       "path": "images/img-ebe6e16cdf9f.webp",
       "media_type": "image/webp",
       "bytes": 72720,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -681,7 +827,7 @@
       "path": "images/img-8feb8925b205.webp",
       "media_type": "image/webp",
       "bytes": 90262,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -689,7 +835,7 @@
       "path": "images/img-1961d54cc961.webp",
       "media_type": "image/webp",
       "bytes": 48998,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -697,7 +843,7 @@
       "path": "images/img-70d1162415be.webp",
       "media_type": "image/webp",
       "bytes": 51938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -705,7 +851,7 @@
       "path": "images/img-5db8b45d3c12.webp",
       "media_type": "image/webp",
       "bytes": 68500,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -713,7 +859,7 @@
       "path": "images/img-e3c798f739c9.webp",
       "media_type": "image/webp",
       "bytes": 81660,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -721,7 +867,7 @@
       "path": "images/img-b93b629978e0.webp",
       "media_type": "image/webp",
       "bytes": 81704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -729,7 +875,7 @@
       "path": "images/img-5be9a779188e.webp",
       "media_type": "image/webp",
       "bytes": 91038,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -737,7 +883,7 @@
       "path": "images/img-08f998863095.webp",
       "media_type": "image/webp",
       "bytes": 91084,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -745,7 +891,7 @@
       "path": "images/img-cf9fc114aaea.webp",
       "media_type": "image/webp",
       "bytes": 40904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -753,7 +899,7 @@
       "path": "images/img-a2c3c343f8b5.webp",
       "media_type": "image/webp",
       "bytes": 55134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -761,7 +907,7 @@
       "path": "images/img-efe1cd36e846.webp",
       "media_type": "image/webp",
       "bytes": 93226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -769,7 +915,7 @@
       "path": "images/img-05a36bc12b47.webp",
       "media_type": "image/webp",
       "bytes": 66754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -777,7 +923,7 @@
       "path": "images/img-33f7c6cd0e5f.webp",
       "media_type": "image/webp",
       "bytes": 74166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -785,7 +931,7 @@
       "path": "images/img-d8aa47807537.webp",
       "media_type": "image/webp",
       "bytes": 113020,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -793,7 +939,7 @@
       "path": "images/img-c6b763210b0a.webp",
       "media_type": "image/webp",
       "bytes": 133326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -801,7 +947,7 @@
       "path": "images/img-6a663e63977f.webp",
       "media_type": "image/webp",
       "bytes": 130540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -809,7 +955,7 @@
       "path": "images/img-89d5d057f151.webp",
       "media_type": "image/webp",
       "bytes": 118468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -817,7 +963,7 @@
       "path": "images/img-46c9f857e410.webp",
       "media_type": "image/webp",
       "bytes": 84244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -825,7 +971,7 @@
       "path": "images/img-7f7372dc1b4a.webp",
       "media_type": "image/webp",
       "bytes": 90038,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -833,7 +979,7 @@
       "path": "images/img-130e56bc1d95.webp",
       "media_type": "image/webp",
       "bytes": 72552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -841,7 +987,7 @@
       "path": "images/img-86e590c078a1.webp",
       "media_type": "image/webp",
       "bytes": 128440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -849,7 +995,7 @@
       "path": "images/img-c7eae491870c.webp",
       "media_type": "image/webp",
       "bytes": 96650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -857,7 +1003,7 @@
       "path": "images/img-945a592151fa.webp",
       "media_type": "image/webp",
       "bytes": 100206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -865,7 +1011,7 @@
       "path": "images/img-84c5e132a801.webp",
       "media_type": "image/webp",
       "bytes": 76178,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -873,7 +1019,7 @@
       "path": "images/img-f73be248e2bc.webp",
       "media_type": "image/webp",
       "bytes": 85928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -881,7 +1027,7 @@
       "path": "images/img-6520bbbf5ba3.webp",
       "media_type": "image/webp",
       "bytes": 92226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -889,7 +1035,7 @@
       "path": "images/img-305d1c39a398.webp",
       "media_type": "image/webp",
       "bytes": 141570,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -897,7 +1043,7 @@
       "path": "images/img-7ca6c0c76b77.webp",
       "media_type": "image/webp",
       "bytes": 128440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -905,7 +1051,7 @@
       "path": "images/img-8230bd35a385.webp",
       "media_type": "image/webp",
       "bytes": 69438,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -913,7 +1059,7 @@
       "path": "images/img-ba1e0fcdca6b.webp",
       "media_type": "image/webp",
       "bytes": 112296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -921,13 +1067,21 @@
       "path": "images/img-b3eaa6907a07.webp",
       "media_type": "image/webp",
       "bytes": 882108,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/2200xxs%2862%29.jpg",
+      "path": "images/img-451a92e94ce6.webp",
+      "media_type": "image/webp",
+      "bytes": 1065352,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -935,25 +1089,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -961,13 +1115,13 @@
       "path": "images/img-090ee73c6a2a.webp",
       "media_type": "image/webp",
       "bytes": 2088,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 65,
-    "images_existing": 0,
-    "images_failed": 12,
+    "images_new": 4,
+    "images_existing": 65,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 1

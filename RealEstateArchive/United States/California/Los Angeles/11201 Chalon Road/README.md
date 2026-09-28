@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/los-angeles-ca-usa/single-family-residence-in-los-angeles-17781604
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:36Z
+- Retrieved: 2026-09-28T00:25:17Z
 - Address: 11201 Chalon Road, Los Angeles, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.08239,-118.46048
 - Coordinates: 34.08, -118.46
@@ -10,7 +10,7 @@
 - Listing reference: 26814383
 - First listed: Apr 29
 - Last updated: May 1
-- Images downloaded: 9
+- Images downloaded: 13
 
 ## Property
 

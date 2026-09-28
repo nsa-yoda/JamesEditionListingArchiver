@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/ashland-ny-usa/11400-new-york-23-ashland-ny-12407-16853353
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:11Z
+- Retrieved: 2026-09-28T00:17:06Z
 - Address: 11400 New York 23 , Ashland, NY 12407, Windham, United States
 - Map: https://www.google.com/maps/search/?api=1&query=42.295318,-74.305318
 - Coordinates: 42.3, -74.31
@@ -10,7 +10,7 @@
 - Listing reference: 4xw489
 - First listed: Dec 26, 2025
 - Last updated: December 26, 2025
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

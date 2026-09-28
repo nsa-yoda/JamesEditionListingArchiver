@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/littleton-co-usa/rare-800-acre-parcel-in-jeff-co-16076521
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:08:41Z
+- Retrieved: 2026-09-28T00:24:02Z
 - Address: 12954 Kuehster Road , Littleton, CO 80127, Colorado, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.479617,-105.202446
 - Coordinates: 39.48, -105.2
@@ -10,7 +10,7 @@
 - Listing reference: Z65SJT
 - First listed: Aug 21, 2025
 - Last updated: April 30
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

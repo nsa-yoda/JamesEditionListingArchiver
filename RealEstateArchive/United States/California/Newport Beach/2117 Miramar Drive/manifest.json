@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:27.336727Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4-bedrooms-single-family-detached-17829396",
     "canonical_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4-bedrooms-single-family-detached-17829396",
@@ -9,13 +9,18 @@
     "listing_reference": "8tnpdb",
     "first_listed": "May 2",
     "last_updated": "May 2",
-    "retrieved_at": "2026-08-28T00:27:37.740819Z"
+    "retrieved_at": "2026-09-28T00:18:26.801181Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3338,
-      "sha256": "07f5941041026238ca153171c67c3cbb310771c35274928979c55baf13607110"
+      "sha256": "2a0b9405985f4910f67cd13b05d56b163cc008124fc9c4d618c785dd5538b2e3"
+    },
+    {
+      "path": "images/img-002b2e3859e8.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-02fea4a047db.webp",
@@ -98,6 +103,11 @@
       "sha256": "df49ac439d951297e8c64c4585f256eb2f3ddf0be79492655bad208b6f322ad7"
     },
     {
+      "path": "images/img-566ae3581f38.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-56ea818f70d9.webp",
       "bytes": 30182,
       "sha256": "3f1983993a4a9af9d84afb6107380a1f2584784f176d69130c6f39320422ec65"
@@ -161,6 +171,11 @@
       "path": "images/img-aa64ee019877.webp",
       "bytes": 156310,
       "sha256": "e73235e75a1820529bb799435ace447d46c56a8f8d564fc941d43a4ac872cf91"
+    },
+    {
+      "path": "images/img-ae3a41fc6097.webp",
+      "bytes": 5900,
+      "sha256": "ed4ec6a567b83f513c6820a6ad2beccb34d7e095ce0eca3b41c794c79fb85a17"
     },
     {
       "path": "images/img-afea3d56417b.webp",
@@ -254,8 +269,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 34974,
-      "sha256": "50091d007c6b79f57f19668196b8cca9315502c3a10241f5a749e78a98b1585e"
+      "bytes": 66058,
+      "sha256": "214721dae96cdff3ba61d0187d1fbbff355aab0423a132170443315d211932d2"
     },
     {
       "path": "source.html",
@@ -271,17 +286,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/2200xxs.jpg",
       "path": "images/img-afea3d56417b.webp",
       "media_type": "image/webp",
       "bytes": 158302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/64047a8d-57cc-477d-b328-485932f6bd6f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/64047a8d-57cc-477d-b328-485932f6bd6f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/64047a8d-57cc-477d-b328-485932f6bd6f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/64047a8d-57cc-477d-b328-485932f6bd6f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/64047a8d-57cc-477d-b328-485932f6bd6f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/64047a8d-57cc-477d-b328-485932f6bd6f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -289,13 +340,31 @@
       "path": "images/img-aa64ee019877.webp",
       "media_type": "image/webp",
       "bytes": 156310,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/727a1ea4-1b26-4f6f-8224-ba2b6b685f0b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/727a1ea4-1b26-4f6f-8224-ba2b6b685f0b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/727a1ea4-1b26-4f6f-8224-ba2b6b685f0b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/727a1ea4-1b26-4f6f-8224-ba2b6b685f0b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/727a1ea4-1b26-4f6f-8224-ba2b6b685f0b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/727a1ea4-1b26-4f6f-8224-ba2b6b685f0b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -303,13 +372,31 @@
       "path": "images/img-c709af5fc7a9.webp",
       "media_type": "image/webp",
       "bytes": 171434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1b3edda9-1eda-431d-8894-f4397c80a4e5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1b3edda9-1eda-431d-8894-f4397c80a4e5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1b3edda9-1eda-431d-8894-f4397c80a4e5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1b3edda9-1eda-431d-8894-f4397c80a4e5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1b3edda9-1eda-431d-8894-f4397c80a4e5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1b3edda9-1eda-431d-8894-f4397c80a4e5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -317,13 +404,31 @@
       "path": "images/img-447da629f999.webp",
       "media_type": "image/webp",
       "bytes": 161392,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/def57d25-4d6c-4dfe-b93c-39b60f80552c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/def57d25-4d6c-4dfe-b93c-39b60f80552c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/def57d25-4d6c-4dfe-b93c-39b60f80552c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/def57d25-4d6c-4dfe-b93c-39b60f80552c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/def57d25-4d6c-4dfe-b93c-39b60f80552c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/def57d25-4d6c-4dfe-b93c-39b60f80552c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -331,99 +436,69 @@
       "path": "images/img-2e81b9503315.webp",
       "media_type": "image/webp",
       "bytes": 65836,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-ae3a41fc6097.webp",
+      "media_type": "image/webp",
+      "bytes": 5900,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-566ae3581f38.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-002b2e3859e8.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-140021766284.webp",
+      "media_type": "image/webp",
+      "bytes": 50006,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-04fec73d1d4a.webp",
+      "media_type": "image/webp",
+      "bytes": 61812,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-d60c66cc5fac.webp",
+      "media_type": "image/webp",
+      "bytes": 45534,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/8f3f44e1-6311-410d-b37c-034988d2b6c1/je/2000xxs.jpg",
-      "path": "images/img-140021766284.webp",
-      "media_type": "image/webp",
-      "bytes": 50006,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/f718a8b2-e252-4f53-836c-9816f0f6c502/je/2000xxs.jpg",
-      "path": "images/img-04fec73d1d4a.webp",
-      "media_type": "image/webp",
-      "bytes": 61812,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/002b1c87-c96a-45c0-b837-dbe4153adb9b/je/2000xxs.jpg",
-      "path": "images/img-d60c66cc5fac.webp",
-      "media_type": "image/webp",
-      "bytes": 45534,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/1059fee6-9134-490e-988b-36762f1f6cb6/je/2000xxs.jpg",
       "path": "images/img-b1f8d59c98e7.webp",
       "media_type": "image/webp",
       "bytes": 50344,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -431,7 +506,7 @@
       "path": "images/img-a8902c4508a9.webp",
       "media_type": "image/webp",
       "bytes": 125840,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -439,7 +514,7 @@
       "path": "images/img-25c876ae2e13.webp",
       "media_type": "image/webp",
       "bytes": 51762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -447,7 +522,7 @@
       "path": "images/img-710bb4d6a14e.webp",
       "media_type": "image/webp",
       "bytes": 32576,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -455,7 +530,7 @@
       "path": "images/img-c2d9704b13e6.webp",
       "media_type": "image/webp",
       "bytes": 72166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -463,7 +538,7 @@
       "path": "images/img-df23eae37ad1.webp",
       "media_type": "image/webp",
       "bytes": 93182,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -471,7 +546,7 @@
       "path": "images/img-17c78c499de6.webp",
       "media_type": "image/webp",
       "bytes": 163928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -479,7 +554,7 @@
       "path": "images/img-e74c1774c7fa.webp",
       "media_type": "image/webp",
       "bytes": 154854,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -487,7 +562,7 @@
       "path": "images/img-f07e93fbd4a3.webp",
       "media_type": "image/webp",
       "bytes": 166292,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -495,7 +570,7 @@
       "path": "images/img-72661307cd6e.webp",
       "media_type": "image/webp",
       "bytes": 117860,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -503,7 +578,7 @@
       "path": "images/img-32d48b43f065.webp",
       "media_type": "image/webp",
       "bytes": 182070,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -511,7 +586,7 @@
       "path": "images/img-0907d70ef2e3.webp",
       "media_type": "image/webp",
       "bytes": 81196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -519,7 +594,7 @@
       "path": "images/img-0d07f06e0862.webp",
       "media_type": "image/webp",
       "bytes": 77360,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -527,7 +602,7 @@
       "path": "images/img-29ffc2af8947.webp",
       "media_type": "image/webp",
       "bytes": 64110,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -535,7 +610,7 @@
       "path": "images/img-a59aa60698be.webp",
       "media_type": "image/webp",
       "bytes": 54194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -543,7 +618,7 @@
       "path": "images/img-0fceecc45d74.webp",
       "media_type": "image/webp",
       "bytes": 48852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -551,7 +626,7 @@
       "path": "images/img-94a955c9d4f7.webp",
       "media_type": "image/webp",
       "bytes": 44160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -559,7 +634,7 @@
       "path": "images/img-d31629a892c0.webp",
       "media_type": "image/webp",
       "bytes": 80868,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -567,7 +642,7 @@
       "path": "images/img-c02b17be8ac4.webp",
       "media_type": "image/webp",
       "bytes": 66182,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -575,7 +650,7 @@
       "path": "images/img-bb0f6e0add93.webp",
       "media_type": "image/webp",
       "bytes": 52460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -583,7 +658,7 @@
       "path": "images/img-81058330e02c.webp",
       "media_type": "image/webp",
       "bytes": 52398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -591,7 +666,7 @@
       "path": "images/img-bcc6c67f510e.webp",
       "media_type": "image/webp",
       "bytes": 57148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -599,7 +674,7 @@
       "path": "images/img-d86d5a51a443.webp",
       "media_type": "image/webp",
       "bytes": 54696,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -607,7 +682,7 @@
       "path": "images/img-33553663c60b.webp",
       "media_type": "image/webp",
       "bytes": 60714,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -615,7 +690,7 @@
       "path": "images/img-02fea4a047db.webp",
       "media_type": "image/webp",
       "bytes": 67340,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -623,7 +698,7 @@
       "path": "images/img-c955df724a04.webp",
       "media_type": "image/webp",
       "bytes": 43072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -631,7 +706,7 @@
       "path": "images/img-3a168efcbf29.webp",
       "media_type": "image/webp",
       "bytes": 46964,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -639,7 +714,7 @@
       "path": "images/img-9082e76d5adb.webp",
       "media_type": "image/webp",
       "bytes": 39078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -647,7 +722,7 @@
       "path": "images/img-c7fd522e6648.webp",
       "media_type": "image/webp",
       "bytes": 30810,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -655,7 +730,7 @@
       "path": "images/img-bc331cef315b.webp",
       "media_type": "image/webp",
       "bytes": 42174,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -663,7 +738,7 @@
       "path": "images/img-805864dc809a.webp",
       "media_type": "image/webp",
       "bytes": 44254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -671,7 +746,7 @@
       "path": "images/img-56ea818f70d9.webp",
       "media_type": "image/webp",
       "bytes": 30182,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -679,7 +754,7 @@
       "path": "images/img-eacfab658986.webp",
       "media_type": "image/webp",
       "bytes": 28102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -687,7 +762,7 @@
       "path": "images/img-8b2f2dc77191.webp",
       "media_type": "image/webp",
       "bytes": 48848,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -695,7 +770,7 @@
       "path": "images/img-e28211448812.webp",
       "media_type": "image/webp",
       "bytes": 152972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -703,7 +778,7 @@
       "path": "images/img-1193415cf82d.webp",
       "media_type": "image/webp",
       "bytes": 165044,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -711,7 +786,7 @@
       "path": "images/img-8989b1ebbc46.webp",
       "media_type": "image/webp",
       "bytes": 127564,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -719,25 +794,13 @@
       "path": "images/img-0b1d7efc27cb.webp",
       "media_type": "image/webp",
       "bytes": 129292,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2816%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2817%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/4%20Bedrooms%20Single%20Family%20Detached%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2817829396%29_files/2200xxs%2818%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/a7d927e2-c7b8-4764-867d-b69e3cadda91/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -745,31 +808,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 47,
-    "images_existing": 0,
-    "images_failed": 20,
+    "images_new": 3,
+    "images_existing": 47,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

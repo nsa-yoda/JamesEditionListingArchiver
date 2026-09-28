@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/shirahama-japan/shirahama-guest-house-14651996
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:35Z
+- Retrieved: 2026-09-28T00:24:54Z
 - Address: Shirahama, 30, Himeji, Hyogo, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=34.7967599,134.7141054
 - Coordinates: 34.8, 134.71
@@ -10,7 +10,7 @@
 - Listing reference: Z3D6SR
 - First listed: Aug 30, 2024
 - Last updated: November 27, 2025
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

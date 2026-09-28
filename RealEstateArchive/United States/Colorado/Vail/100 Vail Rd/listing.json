@@ -7,7 +7,7 @@
     "listing_id": "15178375",
     "first_listed": "Feb 5, 2025",
     "last_updated": "February 6, 2025",
-    "retrieved_at": "2026-06-16T03:43:20.897836Z"
+    "retrieved_at": "2026-09-28T00:19:53.864989Z"
   },
   "location": {
     "address": "100 Vail Rd, Vail, CO 81657, Colorado, United States",
@@ -96,6 +96,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/2200xxs.jpg",
       "file": "004-700164c7.webp",
       "media_type": "image/webp",
@@ -104,7 +119,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/2200xxs.jpg",
@@ -115,7 +146,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/2200xxs.jpg",
@@ -126,7 +173,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/2200xxs.jpg",
@@ -137,7 +200,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/2200xxs.jpg",
@@ -148,19 +227,34 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-662903413be4.webp",
+      "media_type": "image/webp",
+      "bytes": 6198,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-ae0a9042e47a.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-b2d7d1442a5c.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -339,6 +433,69 @@
     "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/577f86a3-26d2-4207-b8e7-6213b6460217/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/d6079f7b-071c-46d3-bafb-98dbfd24bb83/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/28/e3b0dfcc-77e4-4fa1-9e64-0ea6f75bd1fa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/34/e320f77f-4dbd-4e7e-b709-001d01d2026b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/vail-co-usa/Alpenstrasse%20In%20Vail,%20Colorado,%20United%20States%20For%20Sale%20%2815178375%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/02/05/11/45/32/d59ac9f2-f1f7-4236-9f93-abbb50aeb861/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

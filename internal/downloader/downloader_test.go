@@ -138,6 +138,78 @@ func TestDownloadImagesPartialFailureResumeAndIdempotency(t *testing.T) {
 	}
 }
 
+func TestDownloadImagesUsesSavedSidecarBeforeNetwork(t *testing.T) {
+	var requests atomic.Int32
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		requests.Add(1)
+		http.Error(w, "gone", http.StatusGone)
+	}))
+	defer server.Close()
+	sidecar := t.TempDir()
+	png := append([]byte("\x89PNG\r\n\x1a\n"), make([]byte, 600)...)
+	if err := os.WriteFile(filepath.Join(sidecar, "1100xxs.jpg"), png, 0o644); err != nil {
+		t.Fatal(err)
+	}
+	client, err := NewClient(ClientConfig{Timeout: time.Second, UserAgent: "test"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	assets := client.DownloadImages(context.Background(), []string{server.URL + "/listing_files/1100xxs.jpg"}, t.TempDir(), ImageOptions{Workers: 1, LocalDir: sidecar})
+	if requests.Load() != 0 || len(assets) != 1 || assets[0].File == "" || assets[0].Status != "new" {
+		t.Fatalf("requests=%d assets=%#v", requests.Load(), assets)
+	}
+}
+
+func TestImportLocalAssetReusesIdenticalSavedBytes(t *testing.T) {
+	directory := t.TempDir()
+	sidecar := t.TempDir()
+	png := append([]byte("\x89PNG\r\n\x1a\n"), make([]byte, 600)...)
+	if err := os.WriteFile(filepath.Join(directory, "already-archived.png"), png, 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(sidecar, "1100xxs.jpg"), png, 0o644); err != nil {
+		t.Fatal(err)
+	}
+	asset, ok := importLocalAsset(directory, "https://example.test/1100xxs.jpg", assetOptions{
+		ImageOptions: ImageOptions{LocalDir: sidecar}, Kind: AssetKindImage,
+	})
+	if !ok || asset.File != "already-archived.png" || asset.Status != "existing" {
+		t.Fatalf("asset=%#v ok=%t", asset, ok)
+	}
+}
+
+func TestImportJamesEditionThumbnailUsesMatchingSavedHighResolutionFile(t *testing.T) {
+	directory := t.TempDir()
+	sidecar := t.TempDir()
+	image := append([]byte("\x89PNG\r\n\x1a\n"), make([]byte, 600)...)
+	if err := os.WriteFile(filepath.Join(sidecar, "2200xxsxm(1).jpg"), image, 0o644); err != nil {
+		t.Fatal(err)
+	}
+	asset, ok := importLocalAsset(directory, "https://www.jamesedition.com/real_estate/example/listing_files/1100xxs%281%29.jpg", assetOptions{
+		ImageOptions: ImageOptions{LocalDir: sidecar}, Kind: AssetKindImage,
+	})
+	if !ok || asset.File == "" || asset.MediaType != "image/png" {
+		t.Fatalf("asset=%#v ok=%t", asset, ok)
+	}
+}
+
+func TestDownloadVideoPlayerUsesYtDlp(t *testing.T) {
+	binDir := t.TempDir()
+	script := "#!/bin/sh\nwhile [ \"$1\" != \"--output\" ]; do shift; done\nshift\nout=${1%.*}.mp4\nprintf '\\000\\000\\000\\024ftypisom' > \"$out\"\n"
+	if err := os.WriteFile(filepath.Join(binDir, "yt-dlp"), []byte(script), 0o755); err != nil {
+		t.Fatal(err)
+	}
+	t.Setenv("PATH", binDir)
+	directory := t.TempDir()
+	asset := downloadWithYtDlp(context.Background(), directory, "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6377041770112", "https://www.jamesedition.com/listing")
+	if asset.File == "" || asset.Status != "new" || asset.MediaType != "video/mp4" {
+		t.Fatalf("asset = %#v", asset)
+	}
+	if _, err := os.Stat(filepath.Join(directory, asset.File)); err != nil {
+		t.Fatal(err)
+	}
+}
+
 func TestDownloadImageRejectsMismatchedResumeRange(t *testing.T) {
 	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "image/png")

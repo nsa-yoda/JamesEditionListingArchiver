@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:57.106228Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380",
     "canonical_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380",
@@ -9,13 +9,13 @@
     "listing_reference": "47J8NR",
     "first_listed": "Dec 16, 2024",
     "last_updated": "January 16",
-    "retrieved_at": "2026-06-19T08:18:12.413368Z"
+    "retrieved_at": "2026-09-28T00:18:56.690723Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2015,
-      "sha256": "32469f410086b205a0beeabe5a1098680b75b75951363a5baf2664726e692d81"
+      "sha256": "14bbdb2a91f86adead7a8e87c5d587bb1531f738b0867e58201a04610a41fc0f"
     },
     {
       "path": "images/img-012c8b8a21ba.webp",
@@ -113,6 +113,11 @@
       "sha256": "84a5204da3baa5f11a02e3aca9acf217ac4a7f62cf818fd30f61259cb3321b66"
     },
     {
+      "path": "images/img-5d4f128275fb.webp",
+      "bytes": 5390,
+      "sha256": "b4d602842985dedb58befd0faa679559936f9dd58a61bfd55b9972a87464dcb5"
+    },
+    {
       "path": "images/img-5def6d16001c.webp",
       "bytes": 199362,
       "sha256": "8c940294749d7388bebb71671ef4747ddcbcbd3e9bfdfe551d4ab996757130e1"
@@ -198,6 +203,11 @@
       "sha256": "a1dbbd24d65327beb6d324319c3fdde099310e5513d4888d4a4347d0e69cc526"
     },
     {
+      "path": "images/img-bea5338cc5b8.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-c211ee636f3a.webp",
       "bytes": 142968,
       "sha256": "b330da5169af776114b96a8e82c93f3352b7cc7e6a9a51f039b724e9c598afcc"
@@ -211,6 +221,11 @@
       "path": "images/img-caf7633dd106.svg",
       "bytes": 63710,
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-ce90b02faec9.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-d3ebdd454375.webp",
@@ -264,8 +279,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 28335,
-      "sha256": "73ad626a485393efd416e20978792ff745cd5e8756e0b8144f0691aa8de0abed"
+      "bytes": 53555,
+      "sha256": "a8aa3de944f22c2bbb44d6b612f07e0ef8b5661123e3e7bbe6b41919f389b9e5"
     },
     {
       "path": "source.html",
@@ -281,17 +296,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/2200xxs.jpg",
       "path": "images/img-28f932be786e.webp",
       "media_type": "image/webp",
       "bytes": 344276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -299,13 +344,25 @@
       "path": "images/img-4e9fd97cce67.webp",
       "media_type": "image/webp",
       "bytes": 239624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -313,13 +370,25 @@
       "path": "images/img-b30e0a02f3ed.webp",
       "media_type": "image/webp",
       "bytes": 484360,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -327,13 +396,25 @@
       "path": "images/img-455de970f96d.webp",
       "media_type": "image/webp",
       "bytes": 374142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -341,31 +422,61 @@
       "path": "images/img-35f9f8c1185a.webp",
       "media_type": "image/webp",
       "bytes": 228090,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-5d4f128275fb.webp",
+      "media_type": "image/webp",
+      "bytes": 5390,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ce90b02faec9.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-bea5338cc5b8.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/2502958f-9dfe-4002-9316-de20c97d9ca1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d5741836-16a7-4894-bf19-d2a5946e5bd9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/21/16/32/11/d43c85a5-ec8e-4381-a6a6-fc54bc641d79/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/01/22/13/54/31/9c97752b-66b3-4407-b052-566759aa1d0b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -373,7 +484,7 @@
       "path": "images/img-1d6e03983842.webp",
       "media_type": "image/webp",
       "bytes": 196528,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -381,7 +492,7 @@
       "path": "images/img-7b62a61008b5.webp",
       "media_type": "image/webp",
       "bytes": 218016,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -389,7 +500,7 @@
       "path": "images/img-1d23918eb016.webp",
       "media_type": "image/webp",
       "bytes": 204174,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -397,7 +508,7 @@
       "path": "images/img-6257e58501dd.webp",
       "media_type": "image/webp",
       "bytes": 189758,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -405,7 +516,7 @@
       "path": "images/img-f12c30a5e876.webp",
       "media_type": "image/webp",
       "bytes": 112728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -413,7 +524,7 @@
       "path": "images/img-a53644b21041.webp",
       "media_type": "image/webp",
       "bytes": 223928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -421,7 +532,7 @@
       "path": "images/img-745ae5c88d21.webp",
       "media_type": "image/webp",
       "bytes": 106796,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -429,7 +540,7 @@
       "path": "images/img-5def6d16001c.webp",
       "media_type": "image/webp",
       "bytes": 199362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -437,7 +548,7 @@
       "path": "images/img-397087ea179e.webp",
       "media_type": "image/webp",
       "bytes": 172160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -445,7 +556,7 @@
       "path": "images/img-db066d772696.webp",
       "media_type": "image/webp",
       "bytes": 257960,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -453,7 +564,7 @@
       "path": "images/img-5b28d0c143c1.webp",
       "media_type": "image/webp",
       "bytes": 237328,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -461,7 +572,7 @@
       "path": "images/img-7479b3e14873.webp",
       "media_type": "image/webp",
       "bytes": 107582,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -469,7 +580,7 @@
       "path": "images/img-50084c20ba83.webp",
       "media_type": "image/webp",
       "bytes": 184468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -477,7 +588,7 @@
       "path": "images/img-d8a13a1caa87.webp",
       "media_type": "image/webp",
       "bytes": 185662,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -485,7 +596,7 @@
       "path": "images/img-e488271ccd53.webp",
       "media_type": "image/webp",
       "bytes": 231428,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -493,7 +604,7 @@
       "path": "images/img-29059930a3f3.webp",
       "media_type": "image/webp",
       "bytes": 154790,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -501,7 +612,7 @@
       "path": "images/img-aa059a7496e3.webp",
       "media_type": "image/webp",
       "bytes": 136584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -509,7 +620,7 @@
       "path": "images/img-83eb0c505ce5.webp",
       "media_type": "image/webp",
       "bytes": 126232,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -517,7 +628,7 @@
       "path": "images/img-bac7e9e88e64.webp",
       "media_type": "image/webp",
       "bytes": 130436,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -525,7 +636,7 @@
       "path": "images/img-51426fc0ae62.webp",
       "media_type": "image/webp",
       "bytes": 125812,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -533,7 +644,7 @@
       "path": "images/img-d3ebdd454375.webp",
       "media_type": "image/webp",
       "bytes": 126998,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -541,7 +652,7 @@
       "path": "images/img-49b7948bf05b.webp",
       "media_type": "image/webp",
       "bytes": 129934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -549,7 +660,7 @@
       "path": "images/img-f8987aa7b0a0.webp",
       "media_type": "image/webp",
       "bytes": 143332,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -557,7 +668,7 @@
       "path": "images/img-7e0ffa99c1a2.webp",
       "media_type": "image/webp",
       "bytes": 135802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -565,7 +676,7 @@
       "path": "images/img-a1df900c51c7.webp",
       "media_type": "image/webp",
       "bytes": 101506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -573,7 +684,7 @@
       "path": "images/img-9a4b01313fce.webp",
       "media_type": "image/webp",
       "bytes": 158552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -581,7 +692,7 @@
       "path": "images/img-aff073a6470c.webp",
       "media_type": "image/webp",
       "bytes": 175184,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -589,7 +700,7 @@
       "path": "images/img-dfde40d86925.webp",
       "media_type": "image/webp",
       "bytes": 143980,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -597,7 +708,7 @@
       "path": "images/img-141f950634da.webp",
       "media_type": "image/webp",
       "bytes": 118204,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -605,7 +716,7 @@
       "path": "images/img-5681e0f7341d.webp",
       "media_type": "image/webp",
       "bytes": 83394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -613,7 +724,7 @@
       "path": "images/img-dba31c6b3544.webp",
       "media_type": "image/webp",
       "bytes": 147652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -621,7 +732,7 @@
       "path": "images/img-25369a7cc405.webp",
       "media_type": "image/webp",
       "bytes": 441260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -629,7 +740,7 @@
       "path": "images/img-c991e10f02df.webp",
       "media_type": "image/webp",
       "bytes": 254268,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -637,7 +748,7 @@
       "path": "images/img-dedc073e2af1.webp",
       "media_type": "image/webp",
       "bytes": 189042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -645,7 +756,7 @@
       "path": "images/img-bc1e36b93acb.webp",
       "media_type": "image/webp",
       "bytes": 171472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -653,7 +764,7 @@
       "path": "images/img-c211ee636f3a.webp",
       "media_type": "image/webp",
       "bytes": 142968,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -661,7 +772,7 @@
       "path": "images/img-012c8b8a21ba.webp",
       "media_type": "image/webp",
       "bytes": 453732,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -669,7 +780,7 @@
       "path": "images/img-f2355d8bedeb.webp",
       "media_type": "image/webp",
       "bytes": 322698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -677,7 +788,7 @@
       "path": "images/img-9f694c66ffa2.webp",
       "media_type": "image/webp",
       "bytes": 161316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -685,25 +796,13 @@
       "path": "images/img-5e46d5519830.webp",
       "media_type": "image/webp",
       "bytes": 187948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2824%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2825%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274%20Ray%20Brown%20Rd%20Arch%20Cape,%20Or%2097102%20In%20Cannon%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2815022380%29_files/2200xxsxm%2826%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/27/16/56/28/e3a2797b-7f2e-49e6-8cd5-df4bc299f734/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -711,7 +810,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -719,7 +818,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -727,7 +826,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -735,13 +834,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 49,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 49,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

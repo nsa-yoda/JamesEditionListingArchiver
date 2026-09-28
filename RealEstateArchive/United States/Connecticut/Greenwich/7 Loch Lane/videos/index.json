@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "path": "United States/Connecticut/Greenwich/7 Loch Lane/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-a12083fdfea3.webp",
+      "href": "img-a12083fdfea3.webp",
+      "size": 136116
+    },
+    {
+      "name": "vid-2a6e43eb60a2.mp4",
+      "href": "vid-2a6e43eb60a2.mp4",
+      "size": 106540235
+    }
+  ],
+  "last_updated": "2026-09-28T00:22:21.493071Z"
+}

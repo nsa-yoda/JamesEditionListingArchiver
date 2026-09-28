@@ -7,7 +7,7 @@
     "listing_id": "17695633",
     "first_listed": "Apr 16",
     "last_updated": "April 28",
-    "retrieved_at": "2026-06-16T03:43:42.593673Z"
+    "retrieved_at": "2026-09-28T00:26:43.959701Z"
   },
   "location": {
     "address": "Hibiscus Hwy, Naidi, Northern Division, Fiji",
@@ -62,6 +62,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/2200xxs.jpg",
       "file": "004-541d717d.webp",
       "media_type": "image/webp",
@@ -70,7 +85,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/2200xxs.jpg",
@@ -81,7 +112,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/2200xxs.jpg",
@@ -92,7 +139,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/2200xxs.jpg",
@@ -103,7 +166,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/2200xxs.jpg",
@@ -114,15 +193,27 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-f797b88f1f83.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 7093,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-449e0215d87d.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -282,6 +373,69 @@
     "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/160x120xc.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/19/14/57/609d88e3-a8b0-47ad-932a-15635b2c7864/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/3b98bf5a-d09f-438e-add7-6bd863ee4e8e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/18/24/38/ef33a162-0b48-43d3-919e-0ed608a41c21/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/5783b756-e254-4e8a-a245-6dddef2f4705/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/cakaudrove-fiji/Wavi%20Island,%20Fabulous%20Fiji%2027%20Acre%20Freehold%20In%20Naidi,%20Northern%20Division,%20Fiji%20For%20Sale%20%2817695633%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/01/13/31/09/4cb90c63-d8fc-4ac9-ac1c-52572aeac6a3/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

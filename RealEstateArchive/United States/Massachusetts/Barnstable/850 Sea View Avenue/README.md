@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/osterville-ma-usa/850-sea-view-avenue-16150360
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:19Z
+- Retrieved: 2026-09-28T00:18:58Z
 - Address: 850 Sea View Avenue, Osterville, MA 02655, Barnstable, Massachusetts, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.609796,-70.394514
 - Coordinates: 41.61, -70.39
@@ -10,8 +10,8 @@
 - Listing reference: W6CG9V
 - First listed: Sep 9, 2025
 - Last updated: April 22
-- Images downloaded: 10
-- Videos downloaded: 0
+- Images downloaded: 22
+- Videos downloaded: 1
 
 ## Property
 

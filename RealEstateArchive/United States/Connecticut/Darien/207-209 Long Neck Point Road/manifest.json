@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:09.025476Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/darien-ct-usa/single-family-residence-in-darien-17678460",
     "canonical_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/single-family-residence-in-darien-17678460",
@@ -9,13 +9,13 @@
     "listing_reference": "24166336",
     "first_listed": "Apr 15",
     "last_updated": "April 15",
-    "retrieved_at": "2026-06-19T08:41:39.462899Z"
+    "retrieved_at": "2026-09-28T00:25:08.593768Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 1857,
-      "sha256": "81ae227f72d14725960169723d90eadbd9f1549813c4c60c0fca3b6a695dd710"
+      "sha256": "0bcc52e7de67578129ee86c66c547bd6653aa9f0c81f2d4e96ee767be6222735"
     },
     {
       "path": "images/img-024e80346df0.webp",
@@ -53,9 +53,19 @@
       "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
     },
     {
+      "path": "images/img-2a66a769eeba.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-2aee71af79e4.webp",
       "bytes": 347724,
       "sha256": "24e1734d62f266aa989fdeadb6f188865d8f9acd439a3a14476f76ecfecb8795"
+    },
+    {
+      "path": "images/img-2dd94fd1122c.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-4055dfde7ac7.svg",
@@ -83,6 +93,11 @@
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
     },
     {
+      "path": "images/img-7554d5592b79.webp",
+      "bytes": 4846,
+      "sha256": "5c4a802c3a6f6985fd54a5301f9271185c0af0289bf81b544ea801e8138cd302"
+    },
+    {
       "path": "images/img-8a8d8231d648.webp",
       "bytes": 250196,
       "sha256": "27f459523f677103dcfc9b9c26880dd86d857409d08a30ef19cd27b481712d3a"
@@ -91,6 +106,11 @@
       "path": "images/img-8cf4114b9410.webp",
       "bytes": 439886,
       "sha256": "d9f378f16600e77a654bd83a5290749995d2e0dd2c16a91aa1fb707b61dd8a8f"
+    },
+    {
+      "path": "images/img-8d53c9c6ea77.png",
+      "bytes": 6921,
+      "sha256": "0e3548ab6a20e14c72981495b1575c11116814160b37c2ebb4a8e62076beb4e3"
     },
     {
       "path": "images/img-926f0f333fbf.webp",
@@ -164,8 +184,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 21688,
-      "sha256": "728c00a6b90d9d6490c87602ad9421a4ea32b066f381715c437a9ba9554edca8"
+      "bytes": 57377,
+      "sha256": "cdd461c246abb9ebacd9715fb3eec1ca11feebeaa4f1815594592c99c5d26f31"
     },
     {
       "path": "source.html",
@@ -181,17 +201,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/2200xxs.jpg",
       "path": "images/img-e6f1dde57174.webp",
       "media_type": "image/webp",
       "bytes": 259934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/02d94f38-f3dd-42e1-bcc2-19c56199f556/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/02d94f38-f3dd-42e1-bcc2-19c56199f556/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/02d94f38-f3dd-42e1-bcc2-19c56199f556/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/02d94f38-f3dd-42e1-bcc2-19c56199f556/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/02d94f38-f3dd-42e1-bcc2-19c56199f556/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/02d94f38-f3dd-42e1-bcc2-19c56199f556/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -199,13 +255,31 @@
       "path": "images/img-1dbf67b2245d.webp",
       "media_type": "image/webp",
       "bytes": 494434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d9fb551-2eb5-46f4-9768-62d8347ab479/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d9fb551-2eb5-46f4-9768-62d8347ab479/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d9fb551-2eb5-46f4-9768-62d8347ab479/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d9fb551-2eb5-46f4-9768-62d8347ab479/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d9fb551-2eb5-46f4-9768-62d8347ab479/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d9fb551-2eb5-46f4-9768-62d8347ab479/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -213,13 +287,31 @@
       "path": "images/img-0cab81720ad1.webp",
       "media_type": "image/webp",
       "bytes": 254322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d5d3f2e-9ede-4c78-bb22-d0930edcda62/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d5d3f2e-9ede-4c78-bb22-d0930edcda62/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d5d3f2e-9ede-4c78-bb22-d0930edcda62/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d5d3f2e-9ede-4c78-bb22-d0930edcda62/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d5d3f2e-9ede-4c78-bb22-d0930edcda62/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d5d3f2e-9ede-4c78-bb22-d0930edcda62/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -227,13 +319,31 @@
       "path": "images/img-024e80346df0.webp",
       "media_type": "image/webp",
       "bytes": 207304,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/17774d50-53be-4a6f-9c9c-6a9ab2fc0b5d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/17774d50-53be-4a6f-9c9c-6a9ab2fc0b5d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/17774d50-53be-4a6f-9c9c-6a9ab2fc0b5d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/17774d50-53be-4a6f-9c9c-6a9ab2fc0b5d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/17774d50-53be-4a6f-9c9c-6a9ab2fc0b5d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/17774d50-53be-4a6f-9c9c-6a9ab2fc0b5d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -241,37 +351,75 @@
       "path": "images/img-a89367f4ba05.webp",
       "media_type": "image/webp",
       "bytes": 248168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/M00000127.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8d53c9c6ea77.png",
+      "media_type": "image/png",
+      "bytes": 6921,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7554d5592b79.webp",
+      "media_type": "image/webp",
+      "bytes": 4846,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2dd94fd1122c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-2a66a769eeba.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/02d94f38-f3dd-42e1-bcc2-19c56199f556/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/02d94f38-f3dd-42e1-bcc2-19c56199f556/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d9fb551-2eb5-46f4-9768-62d8347ab479/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d9fb551-2eb5-46f4-9768-62d8347ab479/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d5d3f2e-9ede-4c78-bb22-d0930edcda62/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/0d5d3f2e-9ede-4c78-bb22-d0930edcda62/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/17774d50-53be-4a6f-9c9c-6a9ab2fc0b5d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/17774d50-53be-4a6f-9c9c-6a9ab2fc0b5d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -279,7 +427,7 @@
       "path": "images/img-a8bde72849fc.webp",
       "media_type": "image/webp",
       "bytes": 419468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -287,7 +435,7 @@
       "path": "images/img-8cf4114b9410.webp",
       "media_type": "image/webp",
       "bytes": 439886,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -295,7 +443,7 @@
       "path": "images/img-e21f6c13a34e.webp",
       "media_type": "image/webp",
       "bytes": 281850,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -303,7 +451,7 @@
       "path": "images/img-8a8d8231d648.webp",
       "media_type": "image/webp",
       "bytes": 250196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -311,7 +459,7 @@
       "path": "images/img-cb03ce32a146.webp",
       "media_type": "image/webp",
       "bytes": 454364,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -319,7 +467,7 @@
       "path": "images/img-2005b275c612.webp",
       "media_type": "image/webp",
       "bytes": 415692,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -327,7 +475,7 @@
       "path": "images/img-442bc7c7265e.webp",
       "media_type": "image/webp",
       "bytes": 386808,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -335,7 +483,7 @@
       "path": "images/img-5033277d0ad5.webp",
       "media_type": "image/webp",
       "bytes": 507954,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -343,7 +491,7 @@
       "path": "images/img-189b8f2343b0.webp",
       "media_type": "image/webp",
       "bytes": 203306,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -351,7 +499,7 @@
       "path": "images/img-10a2dfce49a3.webp",
       "media_type": "image/webp",
       "bytes": 211670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -359,7 +507,7 @@
       "path": "images/img-c79981cc88f0.webp",
       "media_type": "image/webp",
       "bytes": 323724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -367,7 +515,7 @@
       "path": "images/img-a914c6d613ad.webp",
       "media_type": "image/webp",
       "bytes": 362126,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -375,7 +523,7 @@
       "path": "images/img-d8cc00cd6efd.webp",
       "media_type": "image/webp",
       "bytes": 355916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -383,7 +531,7 @@
       "path": "images/img-4fdeb69b2cef.webp",
       "media_type": "image/webp",
       "bytes": 455588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -391,7 +539,7 @@
       "path": "images/img-fde9849c14fb.webp",
       "media_type": "image/webp",
       "bytes": 559802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -399,7 +547,7 @@
       "path": "images/img-2aee71af79e4.webp",
       "media_type": "image/webp",
       "bytes": 347724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -407,7 +555,7 @@
       "path": "images/img-c0a49561c929.webp",
       "media_type": "image/webp",
       "bytes": 316766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -415,7 +563,7 @@
       "path": "images/img-f23a6acc9559.webp",
       "media_type": "image/webp",
       "bytes": 261380,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -423,7 +571,7 @@
       "path": "images/img-d724fca79056.webp",
       "media_type": "image/webp",
       "bytes": 467320,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -431,13 +579,13 @@
       "path": "images/img-926f0f333fbf.webp",
       "media_type": "image/webp",
       "bytes": 365420,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/darien-ct-usa/Single%20Family%20Residence%20In%20Darien%20In%20Darien,%20Connecticut,%20United%20States%20For%20Sale%20%2817678460%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/14/09/31/2e19f285-b1ca-457b-b9fa-32526708c066/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -445,7 +593,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -453,7 +601,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -461,7 +609,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -469,13 +617,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 29,
-    "images_existing": 0,
-    "images_failed": 10,
+    "images_new": 4,
+    "images_existing": 29,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

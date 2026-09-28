@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/austin-tx-usa/the-river-garden-crown-jewel-estate-16898015
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:39Z
+- Retrieved: 2026-09-28T00:25:56Z
 - Address: Austin, TX 78746, Texas, United States
 - Map: https://www.google.com/maps/search/?api=1&query=30.2962208,-97.8299383
 - Coordinates: 30.3, -97.83
@@ -10,8 +10,8 @@
 - Listing reference: NW4VFJ
 - First listed: Jan 8
 - Last updated: April 6
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 18
+- Videos downloaded: 1
 
 ## Property
 

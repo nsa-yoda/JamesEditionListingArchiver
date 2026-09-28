@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:35.786321Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/stunning-renovated-farmhouse-in-val-d-orcia-18482862",
     "canonical_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/stunning-renovated-farmhouse-in-val-d-orcia-18482862",
@@ -8,13 +8,13 @@
     "listing_id": "18482862",
     "listing_reference": "SIBL1M790",
     "first_listed": "Jul 21",
-    "retrieved_at": "2026-08-28T00:31:52.864771Z"
+    "retrieved_at": "2026-09-28T00:25:35.408062Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 4046,
-      "sha256": "b38e7f45b1c3f6c65b5510dabd8ba6567770eff306e8091685858019b8212dd7"
+      "sha256": "c669b64899dbef2162a97241e2498db16bbe9908a0929005624549ee3b865555"
     },
     {
       "path": "images/img-0000a82f1064.webp",
@@ -35,6 +35,11 @@
       "path": "images/img-0dc6bf586469.webp",
       "bytes": 210128,
       "sha256": "9f5876d914809d9633da9806870d5e4f09c0a4c6c8747d04f6c57798493474d9"
+    },
+    {
+      "path": "images/img-11dcfdf946aa.webp",
+      "bytes": 3248,
+      "sha256": "6c5bdd2dd8d6f7a8fb6c5517b34fd2b7bc12ffab6c1f20a55a111688432307da"
     },
     {
       "path": "images/img-195e2128acaf.webp",
@@ -75,6 +80,11 @@
       "path": "images/img-4c0e8dd0da96.webp",
       "bytes": 251724,
       "sha256": "97e98bc2ff23dd9ab04f92b97aafb4525720da17b63dcc6eb31bc45fc2397d4c"
+    },
+    {
+      "path": "images/img-4fd87b160cd9.webp",
+      "bytes": 13678,
+      "sha256": "f170ed09babbc5137f3e3328f7489f2274cf3d4defd8533084a552b8ba90959b"
     },
     {
       "path": "images/img-51f22493746a.webp",
@@ -198,8 +208,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 30879,
-      "sha256": "df3f102849197ba7466bf734d4d99d06206e2cd4590b8d5459c2087cd4874e1a"
+      "bytes": 63436,
+      "sha256": "95f7230060c7815a0c6c75ed0c3cfcd1efdbd82c126c263ca8531efc4b5000cb"
     },
     {
       "path": "source.html",
@@ -215,17 +225,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/2200xxs.jpg",
       "path": "images/img-a333256f0764.webp",
       "media_type": "image/webp",
       "bytes": 285594,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/0c5ec22d-b141-411a-9660-136a60016a7f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/0c5ec22d-b141-411a-9660-136a60016a7f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/0c5ec22d-b141-411a-9660-136a60016a7f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/0c5ec22d-b141-411a-9660-136a60016a7f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/0c5ec22d-b141-411a-9660-136a60016a7f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/19/0c5ec22d-b141-411a-9660-136a60016a7f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -233,13 +279,31 @@
       "path": "images/img-0dc6bf586469.webp",
       "media_type": "image/webp",
       "bytes": 210128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/1b2e163d-19e7-4ab5-b0eb-6b8806f5c0ee/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/1b2e163d-19e7-4ab5-b0eb-6b8806f5c0ee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/1b2e163d-19e7-4ab5-b0eb-6b8806f5c0ee/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/1b2e163d-19e7-4ab5-b0eb-6b8806f5c0ee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/1b2e163d-19e7-4ab5-b0eb-6b8806f5c0ee/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/1b2e163d-19e7-4ab5-b0eb-6b8806f5c0ee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -247,13 +311,31 @@
       "path": "images/img-a068d5b7ff35.webp",
       "media_type": "image/webp",
       "bytes": 237362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/ee062cb5-59e4-40de-932f-6b5aead178e1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/ee062cb5-59e4-40de-932f-6b5aead178e1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/ee062cb5-59e4-40de-932f-6b5aead178e1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/ee062cb5-59e4-40de-932f-6b5aead178e1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/ee062cb5-59e4-40de-932f-6b5aead178e1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/31/ee062cb5-59e4-40de-932f-6b5aead178e1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -261,13 +343,31 @@
       "path": "images/img-33f1ec12dc92.webp",
       "media_type": "image/webp",
       "bytes": 139378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/8b61f511-3025-42fe-95aa-822903502a6b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/8b61f511-3025-42fe-95aa-822903502a6b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/8b61f511-3025-42fe-95aa-822903502a6b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/8b61f511-3025-42fe-95aa-822903502a6b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/8b61f511-3025-42fe-95aa-822903502a6b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/21/46/8b61f511-3025-42fe-95aa-822903502a6b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -275,31 +375,29 @@
       "path": "images/img-00c2132020f7.webp",
       "media_type": "image/webp",
       "bytes": 204910,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-11dcfdf946aa.webp",
+      "media_type": "image/webp",
+      "bytes": 3248,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-4fd87b160cd9.webp",
+      "media_type": "image/webp",
+      "bytes": 13678,
+      "status": "new"
     },
     {
       "kind": "image",
@@ -307,7 +405,7 @@
       "path": "images/img-4c0e8dd0da96.webp",
       "media_type": "image/webp",
       "bytes": 251724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -315,7 +413,7 @@
       "path": "images/img-195e2128acaf.webp",
       "media_type": "image/webp",
       "bytes": 286282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -323,7 +421,7 @@
       "path": "images/img-2a9fea6692d9.webp",
       "media_type": "image/webp",
       "bytes": 278938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -331,7 +429,7 @@
       "path": "images/img-6a0c22a63f92.webp",
       "media_type": "image/webp",
       "bytes": 290638,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -339,7 +437,7 @@
       "path": "images/img-f7f03b369908.webp",
       "media_type": "image/webp",
       "bytes": 325022,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -347,7 +445,7 @@
       "path": "images/img-f210464e675d.webp",
       "media_type": "image/webp",
       "bytes": 290246,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -355,7 +453,7 @@
       "path": "images/img-d7449f1665d3.webp",
       "media_type": "image/webp",
       "bytes": 328548,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -363,7 +461,7 @@
       "path": "images/img-348df4104aec.webp",
       "media_type": "image/webp",
       "bytes": 182908,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -371,7 +469,7 @@
       "path": "images/img-51f22493746a.webp",
       "media_type": "image/webp",
       "bytes": 228206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -379,7 +477,7 @@
       "path": "images/img-ecc3bd1c1502.webp",
       "media_type": "image/webp",
       "bytes": 259036,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -387,7 +485,7 @@
       "path": "images/img-539ab7835686.webp",
       "media_type": "image/webp",
       "bytes": 37712,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -395,7 +493,7 @@
       "path": "images/img-e7ed82c302d5.webp",
       "media_type": "image/webp",
       "bytes": 211248,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -403,7 +501,7 @@
       "path": "images/img-fdba8a6eacae.webp",
       "media_type": "image/webp",
       "bytes": 172254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -411,7 +509,7 @@
       "path": "images/img-f77b4a36a0b2.webp",
       "media_type": "image/webp",
       "bytes": 174300,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -419,7 +517,7 @@
       "path": "images/img-35fa81a5d220.webp",
       "media_type": "image/webp",
       "bytes": 192528,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -427,7 +525,7 @@
       "path": "images/img-213af61f48a5.webp",
       "media_type": "image/webp",
       "bytes": 191832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -435,7 +533,7 @@
       "path": "images/img-b1bc789af63c.webp",
       "media_type": "image/webp",
       "bytes": 164748,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -443,7 +541,7 @@
       "path": "images/img-6eafc33d2f8f.webp",
       "media_type": "image/webp",
       "bytes": 136260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -451,7 +549,7 @@
       "path": "images/img-8679c202a002.webp",
       "media_type": "image/webp",
       "bytes": 424836,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -459,7 +557,7 @@
       "path": "images/img-e4662e72e686.webp",
       "media_type": "image/webp",
       "bytes": 182526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -467,7 +565,7 @@
       "path": "images/img-0a10f1cf385c.webp",
       "media_type": "image/webp",
       "bytes": 131712,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -475,7 +573,7 @@
       "path": "images/img-a7bf8bf9f44c.webp",
       "media_type": "image/webp",
       "bytes": 71826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -483,7 +581,7 @@
       "path": "images/img-0000a82f1064.webp",
       "media_type": "image/webp",
       "bytes": 97640,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -491,7 +589,7 @@
       "path": "images/img-e9fd53e1adc2.webp",
       "media_type": "image/webp",
       "bytes": 97612,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -499,7 +597,7 @@
       "path": "images/img-734f4951524f.webp",
       "media_type": "image/webp",
       "bytes": 119734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -507,7 +605,7 @@
       "path": "images/img-d8239fbc62ca.webp",
       "media_type": "image/webp",
       "bytes": 128070,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -515,7 +613,7 @@
       "path": "images/img-d55604033c95.webp",
       "media_type": "image/webp",
       "bytes": 102412,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -523,7 +621,7 @@
       "path": "images/img-d6bf9eed485c.webp",
       "media_type": "image/webp",
       "bytes": 75694,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -531,19 +629,13 @@
       "path": "images/img-53a3cb15c0a3.webp",
       "media_type": "image/webp",
       "bytes": 127508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/2200xxs%2832%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/Stunning%20Renovated%20Farmhouse%20In%20Val%20In%20Castiglione%20D%27orcia,%20Tuscany,%20Italy%20For%20Sale%20%2818482862%29_files/2200xxs%2833%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/21/14/22/33/bb4962ed-46dd-47ba-b43d-79006bfbad39/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -551,25 +643,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -577,13 +669,13 @@
       "path": "images/img-459ca454aaf4.webp",
       "media_type": "image/webp",
       "bytes": 802,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 36,
-    "images_existing": 0,
-    "images_failed": 13,
+    "images_new": 2,
+    "images_existing": 36,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:19:33.756165Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/big-sur-usa/a-coastal-masterpiece-beyond-compare-18133308",
     "canonical_url": "https://www.jamesedition.com/real_estate/big-sur-usa/a-coastal-masterpiece-beyond-compare-18133308",
@@ -9,13 +9,13 @@
     "listing_reference": "ML82050424",
     "first_listed": "Jun 11",
     "last_updated": "Yesterday",
-    "retrieved_at": "2026-06-19T08:18:31.33736Z"
+    "retrieved_at": "2026-09-28T00:19:33.094078Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2384,
-      "sha256": "119bd9ee39fb25edc941b8c40d135475113830bd3b46f167109afb44f02447ab"
+      "sha256": "2a50aaf526f2b8de10d068bc9b8ad1f790f99815d6e19b018f40846ba48dff57"
     },
     {
       "path": "images/img-0b77e2518ea3.webp",
@@ -173,6 +173,11 @@
       "sha256": "cd1416611ab9c73fa41154157a45af0644c64f34010228347993ddc7169ba463"
     },
     {
+      "path": "images/img-a66dc1353cf1.webp",
+      "bytes": 5074,
+      "sha256": "f78067ba939071036110773ea52859e05a9e2c3744a1bb75c64f8aae514e6362"
+    },
+    {
       "path": "images/img-aa37fc38adf1.webp",
       "bytes": 253858,
       "sha256": "19b5e089b33cafe461e650f96886dd264aa4f0bded8d2b569713cc5d9be5813d"
@@ -188,6 +193,11 @@
       "sha256": "5ed69f8618be59ab009e5696abbe18a254646b74a6c4c3bcb2a90a57c3f2968d"
     },
     {
+      "path": "images/img-b360925aeb75.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-bbc786310a05.webp",
       "bytes": 371686,
       "sha256": "158b9fc706947de540294363f3cbc30db8d066c928fec415c0b30b2378bff739"
@@ -196,6 +206,11 @@
       "path": "images/img-bdc1f0209722.webp",
       "bytes": 139064,
       "sha256": "5b3a120782a2439621c7096609e02c9c528828fb6c6ca19bbd39c88314ced98f"
+    },
+    {
+      "path": "images/img-c10709ba7595.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-c28a335ab880.webp",
@@ -274,8 +289,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 29358,
-      "sha256": "2c4f206b7bfafed14c62b895f09e59fbb9ecde6b0523507b0fbcae63be70143a"
+      "bytes": 64596,
+      "sha256": "247ad5bf63000f2a64e6afc1df1b3cc99ad942b81a647b04bd324f490a09545e"
     },
     {
       "path": "source.html",
@@ -291,17 +306,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/2200xxs.jpg",
       "path": "images/img-9097f6d62a4b.webp",
       "media_type": "image/webp",
       "bytes": 121634,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8cfbaf44-55ef-4c8e-a4cb-2c4632d2ee53/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8cfbaf44-55ef-4c8e-a4cb-2c4632d2ee53/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8cfbaf44-55ef-4c8e-a4cb-2c4632d2ee53/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8cfbaf44-55ef-4c8e-a4cb-2c4632d2ee53/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8cfbaf44-55ef-4c8e-a4cb-2c4632d2ee53/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8cfbaf44-55ef-4c8e-a4cb-2c4632d2ee53/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -309,13 +360,31 @@
       "path": "images/img-a25db590935d.webp",
       "media_type": "image/webp",
       "bytes": 543752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/428b1d22-9b66-4aa1-8c62-50175a0ffc91/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/428b1d22-9b66-4aa1-8c62-50175a0ffc91/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/428b1d22-9b66-4aa1-8c62-50175a0ffc91/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/428b1d22-9b66-4aa1-8c62-50175a0ffc91/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/428b1d22-9b66-4aa1-8c62-50175a0ffc91/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/428b1d22-9b66-4aa1-8c62-50175a0ffc91/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -323,13 +392,31 @@
       "path": "images/img-75d9b55977a1.webp",
       "media_type": "image/webp",
       "bytes": 304668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/201084ec-a25f-4783-b347-36bcd519ff8b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/201084ec-a25f-4783-b347-36bcd519ff8b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/201084ec-a25f-4783-b347-36bcd519ff8b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/201084ec-a25f-4783-b347-36bcd519ff8b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/201084ec-a25f-4783-b347-36bcd519ff8b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/201084ec-a25f-4783-b347-36bcd519ff8b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -337,13 +424,31 @@
       "path": "images/img-f23f4c0bafae.webp",
       "media_type": "image/webp",
       "bytes": 509002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2b463d0a-08fe-429d-82c9-61534e247d57/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2b463d0a-08fe-429d-82c9-61534e247d57/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2b463d0a-08fe-429d-82c9-61534e247d57/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2b463d0a-08fe-429d-82c9-61534e247d57/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2b463d0a-08fe-429d-82c9-61534e247d57/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2b463d0a-08fe-429d-82c9-61534e247d57/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -351,31 +456,67 @@
       "path": "images/img-cfeaf0e8276b.webp",
       "media_type": "image/webp",
       "bytes": 407358,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a66dc1353cf1.webp",
+      "media_type": "image/webp",
+      "bytes": 5074,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c10709ba7595.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-b360925aeb75.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8cfbaf44-55ef-4c8e-a4cb-2c4632d2ee53/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/8cfbaf44-55ef-4c8e-a4cb-2c4632d2ee53/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/428b1d22-9b66-4aa1-8c62-50175a0ffc91/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/428b1d22-9b66-4aa1-8c62-50175a0ffc91/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/201084ec-a25f-4783-b347-36bcd519ff8b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/201084ec-a25f-4783-b347-36bcd519ff8b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2b463d0a-08fe-429d-82c9-61534e247d57/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/2b463d0a-08fe-429d-82c9-61534e247d57/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -383,7 +524,7 @@
       "path": "images/img-3886aab56878.webp",
       "media_type": "image/webp",
       "bytes": 367450,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -391,7 +532,7 @@
       "path": "images/img-90a6954bf9ba.webp",
       "media_type": "image/webp",
       "bytes": 339062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -399,7 +540,7 @@
       "path": "images/img-bbc786310a05.webp",
       "media_type": "image/webp",
       "bytes": 371686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -407,7 +548,7 @@
       "path": "images/img-3583838ce1b1.webp",
       "media_type": "image/webp",
       "bytes": 358558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -415,7 +556,7 @@
       "path": "images/img-4192018de710.webp",
       "media_type": "image/webp",
       "bytes": 340394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -423,7 +564,7 @@
       "path": "images/img-7f06d6168337.webp",
       "media_type": "image/webp",
       "bytes": 112996,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -431,7 +572,7 @@
       "path": "images/img-8b53e1b2e2ec.webp",
       "media_type": "image/webp",
       "bytes": 137060,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -439,7 +580,7 @@
       "path": "images/img-c28a335ab880.webp",
       "media_type": "image/webp",
       "bytes": 122220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -447,7 +588,7 @@
       "path": "images/img-bdc1f0209722.webp",
       "media_type": "image/webp",
       "bytes": 139064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -455,7 +596,7 @@
       "path": "images/img-ff7caf338eed.webp",
       "media_type": "image/webp",
       "bytes": 130794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -463,7 +604,7 @@
       "path": "images/img-1b0ec0eaaa11.webp",
       "media_type": "image/webp",
       "bytes": 74100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -471,7 +612,7 @@
       "path": "images/img-fe83e4cdf6c7.webp",
       "media_type": "image/webp",
       "bytes": 126262,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -479,7 +620,7 @@
       "path": "images/img-ea51f64e4e2e.webp",
       "media_type": "image/webp",
       "bytes": 105388,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -487,7 +628,7 @@
       "path": "images/img-d1ea433c0ed2.webp",
       "media_type": "image/webp",
       "bytes": 91916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -495,7 +636,7 @@
       "path": "images/img-7b08cc01150a.webp",
       "media_type": "image/webp",
       "bytes": 104408,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -503,7 +644,7 @@
       "path": "images/img-112cae95868c.webp",
       "media_type": "image/webp",
       "bytes": 130526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -511,7 +652,7 @@
       "path": "images/img-8659317d45c6.webp",
       "media_type": "image/webp",
       "bytes": 113646,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -519,7 +660,7 @@
       "path": "images/img-78e190862834.webp",
       "media_type": "image/webp",
       "bytes": 101492,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -527,7 +668,7 @@
       "path": "images/img-cf7abdd81169.webp",
       "media_type": "image/webp",
       "bytes": 104868,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -535,7 +676,7 @@
       "path": "images/img-9ade8525fdde.webp",
       "media_type": "image/webp",
       "bytes": 127346,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -543,7 +684,7 @@
       "path": "images/img-21e0c7bec0cc.webp",
       "media_type": "image/webp",
       "bytes": 90732,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -551,7 +692,7 @@
       "path": "images/img-d7f3698d09aa.webp",
       "media_type": "image/webp",
       "bytes": 95218,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -559,7 +700,7 @@
       "path": "images/img-d63543673ff9.webp",
       "media_type": "image/webp",
       "bytes": 134220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -567,7 +708,7 @@
       "path": "images/img-f02aeee70bbc.webp",
       "media_type": "image/webp",
       "bytes": 30618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -575,7 +716,7 @@
       "path": "images/img-a1c7c9221a47.webp",
       "media_type": "image/webp",
       "bytes": 102832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -583,7 +724,7 @@
       "path": "images/img-387aa46d6eee.webp",
       "media_type": "image/webp",
       "bytes": 243908,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -591,7 +732,7 @@
       "path": "images/img-8aaace9aef51.webp",
       "media_type": "image/webp",
       "bytes": 225310,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -599,7 +740,7 @@
       "path": "images/img-564a985a358f.webp",
       "media_type": "image/webp",
       "bytes": 326280,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -607,7 +748,7 @@
       "path": "images/img-4174de54ec02.webp",
       "media_type": "image/webp",
       "bytes": 277084,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -615,7 +756,7 @@
       "path": "images/img-3f281875d1e7.webp",
       "media_type": "image/webp",
       "bytes": 254622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -623,7 +764,7 @@
       "path": "images/img-0b77e2518ea3.webp",
       "media_type": "image/webp",
       "bytes": 263164,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -631,7 +772,7 @@
       "path": "images/img-aa37fc38adf1.webp",
       "media_type": "image/webp",
       "bytes": 253858,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -639,7 +780,7 @@
       "path": "images/img-35d888d6896c.webp",
       "media_type": "image/webp",
       "bytes": 234382,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -647,7 +788,7 @@
       "path": "images/img-172322e18aa2.webp",
       "media_type": "image/webp",
       "bytes": 318248,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -655,7 +796,7 @@
       "path": "images/img-cb2905a23ead.webp",
       "media_type": "image/webp",
       "bytes": 183212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -663,7 +804,7 @@
       "path": "images/img-b10b89668bd2.webp",
       "media_type": "image/webp",
       "bytes": 238374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -671,7 +812,7 @@
       "path": "images/img-ec25199ecb2a.webp",
       "media_type": "image/webp",
       "bytes": 293916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -679,7 +820,7 @@
       "path": "images/img-e4365b805dae.webp",
       "media_type": "image/webp",
       "bytes": 253780,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -687,7 +828,7 @@
       "path": "images/img-735bb50fbbc8.webp",
       "media_type": "image/webp",
       "bytes": 473208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -695,7 +836,7 @@
       "path": "images/img-2d007af4e975.webp",
       "media_type": "image/webp",
       "bytes": 617972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -703,7 +844,7 @@
       "path": "images/img-b2a0100f1e8a.webp",
       "media_type": "image/webp",
       "bytes": 122218,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -711,25 +852,13 @@
       "path": "images/img-70aefd4ca59b.webp",
       "media_type": "image/webp",
       "bytes": 203060,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/2200xxs%2816%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/2200xxs%2817%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/big-sur-usa/A%20Coastal%20Masterpiece%20Beyond%20Compare%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2818133308%29_files/2200xxs%2818%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/11/00/20/31/a5758d96-6500-4a7a-ac2b-5b49a295b9bc/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -737,7 +866,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -745,7 +874,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -753,7 +882,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -761,13 +890,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 51,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 51,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

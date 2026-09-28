@@ -7,7 +7,7 @@ window.listingArchiveListing = {
     "listing_id": "15484572",
     "first_listed": "Apr 14, 2025",
     "last_updated": "December 10, 2025",
-    "retrieved_at": "2026-06-16T03:43:28.385499Z"
+    "retrieved_at": "2026-09-28T00:22:02.586223Z"
   },
   "location": {
     "address": "Kaniaro, Corfu, 49100, Greece",
@@ -97,6 +97,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/2200xxs.jpg",
       "file": "004-bc931332.webp",
       "media_type": "image/webp",
@@ -105,7 +120,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/2200xxs.jpg",
@@ -116,7 +147,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/2200xxs.jpg",
@@ -127,7 +174,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/2200xxs.jpg",
@@ -138,7 +201,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/2200xxs.jpg",
@@ -149,15 +228,27 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-91c8ccd229ab.webp",
+      "media_type": "image/webp",
+      "bytes": 4862,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-e07b90670593.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -343,6 +434,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/160x120xc.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/fd4c5a67-7134-4a0b-9a63-175bfa0816ac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/3b3aa32b-956d-47eb-ab94-f504a7740275/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/34/2110d1e0-1f88-4dfd-814d-ccdc0b4480f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/30/11/01/12/2a4f8ee3-a9ad-430d-8e5e-3de4f0984149/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Kaniaro%20Seafront%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815484572%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/04/14/13/22/35/04c7131c-2be7-4087-91cb-976d25ce727f/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

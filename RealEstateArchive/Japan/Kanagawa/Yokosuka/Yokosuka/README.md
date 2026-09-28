@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/yokosuka-japan/akiya-private-ocean-view-house-16365885
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:10Z
+- Retrieved: 2026-09-28T00:19:53Z
 - Address: Yokosuka, 14 240-0105, Kanagawa, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.25247890000001,139.5967682
 - Coordinates: 35.25, 139.6
@@ -10,7 +10,7 @@
 - Listing reference: 2BXNQD
 - First listed: Oct 10, 2025
 - Last updated: November 27, 2025
-- Images downloaded: 13
+- Images downloaded: 24
 
 ## Property
 

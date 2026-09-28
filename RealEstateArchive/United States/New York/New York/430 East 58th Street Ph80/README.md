@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/new-york-city-ny-usa/430-east-58th-street-ph80-new-york-ny-10022-15008596
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:44Z
+- Retrieved: 2026-09-28T00:18:28Z
 - Address: 430 East 58th Street PH80, New York, NY 10022, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.758278,-73.961245
 - Coordinates: 40.76, -73.96
@@ -10,7 +10,7 @@
 - Listing reference: w3f6rx
 - First listed: Dec 11, 2024
 - Last updated: March 18, 2025
-- Images downloaded: 7
+- Images downloaded: 14
 - Videos downloaded: 0
 
 ## Property

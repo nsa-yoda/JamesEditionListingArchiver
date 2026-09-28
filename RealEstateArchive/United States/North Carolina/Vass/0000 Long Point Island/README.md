@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/barco-nc-usa/0000-long-point-island-barco-nc-27917-15669172
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:11Z
+- Retrieved: 2026-09-28T00:16:48Z
 - Address: 0000 Long Point Island , Barco, NC 27917-9524, Vass, North Carolina, United States
 - Map: https://www.google.com/maps/search/?api=1&query=35.23747869,-79.27804396
 - Coordinates: 35.24, -79.28
@@ -10,7 +10,7 @@
 - Listing reference: 23LCBL
 - First listed: May 22, 2025
 - Last updated: June 10
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

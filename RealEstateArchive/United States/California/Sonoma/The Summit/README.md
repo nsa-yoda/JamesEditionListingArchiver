@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/sonoma-ca-usa/the-summit-a-sovereign-legacy-estate-17906500
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:59Z
+- Retrieved: 2026-09-28T00:26:14Z
 - Address: 3100 Sonoma Mountain Road , Sonoma, CA 95476, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.3258865,-122.562612
 - Coordinates: 38.33, -122.56
@@ -10,7 +10,7 @@
 - Listing reference: TE2RG6
 - First listed: May 13
 - Last updated: May 14
-- Images downloaded: 6
+- Images downloaded: 9
 - Videos downloaded: 0
 
 ## Property

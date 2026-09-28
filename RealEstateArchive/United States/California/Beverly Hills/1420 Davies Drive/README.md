@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/beverly-hills-ca-usa/estate-beverly-hills-united-states-17427404
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:23Z
+- Retrieved: 2026-09-28T00:20:47Z
 - Address: 1420 Davies Drive, Beverly Hills, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.0978272,-118.4339237
 - Coordinates: 34.1, -118.43
@@ -10,7 +10,7 @@
 - Listing reference: 067520
 - First listed: Mar 17
 - Last updated: March 17
-- Images downloaded: 10
+- Images downloaded: 19
 
 ## Property
 

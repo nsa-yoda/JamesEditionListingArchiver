@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/setagaya-ku-japan/akatsutsumi-3-chome-residence-setagaya-18207923
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:08Z
+- Retrieved: 2026-09-28T00:19:52Z
 - Address: Setagaya-ku, 13 156-0044, Setagaya City, Tokyo, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.658958,139.6388331
 - Coordinates: 35.66, 139.64
@@ -10,7 +10,7 @@
 - Listing reference: D2Y3RX
 - First listed: Jun 18
 - Last updated: June 18
-- Images downloaded: 29
+- Images downloaded: 32
 
 ## Property
 

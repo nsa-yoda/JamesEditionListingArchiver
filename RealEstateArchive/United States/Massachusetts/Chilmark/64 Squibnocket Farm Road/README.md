@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/chilmark-ma-usa/extraordinary-waterfront-estate-in-squibnocket-14540718
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:18:45Z
+- Retrieved: 2026-09-28T00:20:58Z
 - Address: 64 Squibnocket Farm Road, Chilmark, MA 02535, Massachusetts, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.3111713,-70.769175
 - Coordinates: 41.31, -70.77
@@ -10,8 +10,8 @@
 - Listing reference: KTRCTX
 - First listed: Jul 30, 2024
 - Last updated: May 22
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 12
+- Videos downloaded: 1
 
 ## Property
 

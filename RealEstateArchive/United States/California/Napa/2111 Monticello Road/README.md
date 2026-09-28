@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/napa-ca-usa/napa-valley-modern-farmhouse-compound-18056467
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:23Z
+- Retrieved: 2026-09-28T00:22:48Z
 - Address: 2111 Monticello Road , Napa, CA 94558, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.336199,-122.2532465
 - Coordinates: 38.34, -122.25
@@ -10,8 +10,8 @@
 - Listing reference: 9EJ9YP
 - First listed: Jun 1
 - Last updated: June 11
-- Images downloaded: 95
-- Videos downloaded: 0
+- Images downloaded: 107
+- Videos downloaded: 1
 
 ## Property
 

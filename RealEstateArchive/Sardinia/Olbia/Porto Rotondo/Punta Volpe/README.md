@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/porto-rotondo-italy/luxurious-villa-with-helipad-and-sea-views-in-porto-rotondo-17810342
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:16Z
+- Retrieved: 2026-09-28T00:22:24Z
 - Address: Punta Volpe, Porto Rotondo, Olbia, Sardinia
 - Map: https://www.google.com/maps/search/?api=1&query=41.03266,9.55665
 - Coordinates: 41.03, 9.56
@@ -10,7 +10,7 @@
 - Listing reference: 86050359
 - First listed: Apr 30
 - Last updated: Yesterday
-- Images downloaded: 7
+- Images downloaded: 9
 - Videos downloaded: 0
 
 ## Property

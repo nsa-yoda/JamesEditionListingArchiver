@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:42.662729Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/cwm-mawr-an-award-winning-coastal-masterpiece-in-the-pembrokeshire-coast-national-park-16075682",
     "canonical_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/cwm-mawr-an-award-winning-coastal-masterpiece-in-the-pembrokeshire-coast-national-park-16075682",
@@ -9,13 +9,13 @@
     "listing_reference": "ls_4333473",
     "first_listed": "Aug 21, 2025",
     "last_updated": "May 19",
-    "retrieved_at": "2026-06-16T03:43:23.221492Z"
+    "retrieved_at": "2026-09-28T00:20:42.043364Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3998,
-      "sha256": "59823cfd3fb59383dd7acdafca5c6c011a3d7746c21430deba093cf1070643a6"
+      "bytes": 3999,
+      "sha256": "ca7c96945bdf0effbdb4c3178839a433b81d1bc9317ccba05fc90eaa9d296401"
     },
     {
       "path": "images/004-445c81e8.webp",
@@ -63,9 +63,34 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-09c53697ea74.webp",
+      "bytes": 195568,
+      "sha256": "1ae3a06741f7b65ae44716ddd053a63c7df02312203c51c4f523283c228d591c"
+    },
+    {
+      "path": "images/img-1ceb11e15902.webp",
+      "bytes": 215590,
+      "sha256": "6d44e7b7f313d3c1ba224aa60bd0cf3caa70d68bc8ef80ed1ab1acfcfdfbbbb0"
+    },
+    {
+      "path": "images/img-615b2f94c171.webp",
+      "bytes": 45082,
+      "sha256": "5fa51676c47ac8adfadefdddd64c976e9097db85c9aadd3e81f275865fc4f846"
+    },
+    {
+      "path": "images/img-eaaa99a3f369.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-ebbc6ba176d5.webp",
+      "bytes": 3266,
+      "sha256": "9831d4f6d48062cfab166612c38e1c66d746a0b33e3f4804fd5db29bea582997"
+    },
+    {
       "path": "listing.json",
-      "bytes": 22212,
-      "sha256": "baf230072db9a799145aa663c048f235703c2ea839c44d0ade23c35fe1a24599"
+      "bytes": 51702,
+      "sha256": "91c966f6912e1cdca12cbcf508240f2b7dc89ea5d687b56c8a29771a16b6c93d"
     },
     {
       "path": "source.html",
@@ -81,6 +106,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/2200xxs.jpg",
       "path": "images/004-445c81e8.webp",
       "media_type": "image/webp",
@@ -90,7 +133,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/03/16/00/49/293fc87e-d9bb-492b-bb2e-caf57c986a6a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/03/16/00/49/293fc87e-d9bb-492b-bb2e-caf57c986a6a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/03/16/00/49/293fc87e-d9bb-492b-bb2e-caf57c986a6a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/03/16/00/49/293fc87e-d9bb-492b-bb2e-caf57c986a6a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/03/16/00/49/293fc87e-d9bb-492b-bb2e-caf57c986a6a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/03/16/00/49/293fc87e-d9bb-492b-bb2e-caf57c986a6a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +165,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/3f3a8c86-c651-4919-a059-174a5f237310/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/3f3a8c86-c651-4919-a059-174a5f237310/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/3f3a8c86-c651-4919-a059-174a5f237310/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/3f3a8c86-c651-4919-a059-174a5f237310/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/3f3a8c86-c651-4919-a059-174a5f237310/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/3f3a8c86-c651-4919-a059-174a5f237310/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +197,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/52af5daf-f55e-4616-9812-651da7dfd3aa/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/52af5daf-f55e-4616-9812-651da7dfd3aa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/52af5daf-f55e-4616-9812-651da7dfd3aa/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/52af5daf-f55e-4616-9812-651da7dfd3aa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/52af5daf-f55e-4616-9812-651da7dfd3aa/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/52af5daf-f55e-4616-9812-651da7dfd3aa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +229,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/05bca3f6-8a1d-4085-adad-52e192432d26/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/05bca3f6-8a1d-4085-adad-52e192432d26/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/05bca3f6-8a1d-4085-adad-52e192432d26/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/05bca3f6-8a1d-4085-adad-52e192432d26/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/05bca3f6-8a1d-4085-adad-52e192432d26/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/05bca3f6-8a1d-4085-adad-52e192432d26/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,47 +261,54 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ebbc6ba176d5.webp",
+      "media_type": "image/webp",
+      "bytes": 3266,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-eaaa99a3f369.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1ceb11e15902.webp",
+      "media_type": "image/webp",
+      "bytes": 215590,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-615b2f94c171.webp",
+      "media_type": "image/webp",
+      "bytes": 45082,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-09c53697ea74.webp",
+      "media_type": "image/webp",
+      "bytes": 195568,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/Cwm%20Mawr%20An%20Award%20Winning%20Coastal%20In%20Haverfordwest,%20Wales,%20United%20Kingdom%20For%20Sale%20%2816075682%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/20/14/14/42/0f1b6273-d815-4c13-a3f5-e7d456664924/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -218,9 +344,9 @@
     }
   ],
   "summary": {
-    "images_new": 13,
+    "images_new": 5,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

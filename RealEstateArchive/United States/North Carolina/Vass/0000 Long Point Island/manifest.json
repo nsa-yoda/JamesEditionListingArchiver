@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:16:48.385239Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000-long-point-island-barco-nc-27917-15669172",
     "canonical_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000-long-point-island-barco-nc-27917-15669172",
@@ -9,13 +9,13 @@
     "listing_reference": "23LCBL",
     "first_listed": "May 22, 2025",
     "last_updated": "June 10",
-    "retrieved_at": "2026-06-16T03:43:11.262488Z"
+    "retrieved_at": "2026-09-28T00:16:48.054153Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 1862,
-      "sha256": "0b32df30e079da8b5a571f237dae6809cd5cb6412667e7c24a60e4159a23c351"
+      "bytes": 1863,
+      "sha256": "e32ef685bef22725209826a63db7391de7cb2624ebf5601b5bee74156e00e849"
     },
     {
       "path": "images/004-5b062b4e.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-12786302fac4.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-410ecaa2812f.webp",
+      "bytes": 1658,
+      "sha256": "a83902f2524764043420b235da5799dbd3f9537c0d84d06cf1d89df7535915a1"
+    },
+    {
+      "path": "images/img-f0fac0db821f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 15131,
-      "sha256": "ee7813c65a681059744f81d1bdedb9b4978cee6a2f2e6f2b612e05cb937eee19"
+      "bytes": 45077,
+      "sha256": "3da6b35d3c7e4a6a152bce9e250ee991822c38a4719f67d9d21eac43a3e14b95"
     },
     {
       "path": "source.html",
@@ -81,6 +96,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/2200xxs.jpg",
       "path": "images/004-5b062b4e.webp",
       "media_type": "image/webp",
@@ -90,7 +123,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/f994456d-6320-41e2-930d-61efe66a2d52/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/f994456d-6320-41e2-930d-61efe66a2d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/f994456d-6320-41e2-930d-61efe66a2d52/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/f994456d-6320-41e2-930d-61efe66a2d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/f994456d-6320-41e2-930d-61efe66a2d52/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/f994456d-6320-41e2-930d-61efe66a2d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +155,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3d61520d-eb76-4543-9b02-c96868bfd1ac/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3d61520d-eb76-4543-9b02-c96868bfd1ac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3d61520d-eb76-4543-9b02-c96868bfd1ac/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3d61520d-eb76-4543-9b02-c96868bfd1ac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3d61520d-eb76-4543-9b02-c96868bfd1ac/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3d61520d-eb76-4543-9b02-c96868bfd1ac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +187,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/19ba9a65-3ede-42f4-b604-f44227e347bb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/19ba9a65-3ede-42f4-b604-f44227e347bb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/19ba9a65-3ede-42f4-b604-f44227e347bb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/19ba9a65-3ede-42f4-b604-f44227e347bb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/19ba9a65-3ede-42f4-b604-f44227e347bb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/19ba9a65-3ede-42f4-b604-f44227e347bb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +219,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/cf7605a0-e77c-4923-b2d1-e048413a90ef/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/cf7605a0-e77c-4923-b2d1-e048413a90ef/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/cf7605a0-e77c-4923-b2d1-e048413a90ef/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/cf7605a0-e77c-4923-b2d1-e048413a90ef/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/cf7605a0-e77c-4923-b2d1-e048413a90ef/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/cf7605a0-e77c-4923-b2d1-e048413a90ef/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +251,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-410ecaa2812f.webp",
+      "media_type": "image/webp",
+      "bytes": 1658,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-12786302fac4.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/barco-nc-usa/0000%20Long%20Point%20Island,%20Barco,%20Nc%2027917%20In%20Vass,%20North%20Carolina,%20United%20States%20For%20Sale%20%2815669172%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f0fac0db821f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/21/13/39/47/3fdcfd30-24a3-4f66-bb7e-9cb78d8fc7f0/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,9 +318,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

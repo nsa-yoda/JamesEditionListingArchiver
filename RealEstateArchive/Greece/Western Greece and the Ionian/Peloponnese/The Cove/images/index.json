@@ -165,6 +165,11 @@
       "size": 147852
     },
     {
+      "name": "img-78bd43c505f8.webp",
+      "href": "img-78bd43c505f8.webp",
+      "size": 5524
+    },
+    {
       "name": "img-7d6c0bb31db6.webp",
       "href": "img-7d6c0bb31db6.webp",
       "size": 348980
@@ -213,6 +218,11 @@
       "name": "img-b1b04363d4ae.webp",
       "href": "img-b1b04363d4ae.webp",
       "size": 157264
+    },
+    {
+      "name": "img-b1ec7a779e66.png",
+      "href": "img-b1ec7a779e66.png",
+      "size": 8627
     },
     {
       "name": "img-b5d844bf5749.webp",
@@ -285,5 +295,5 @@
       "size": 193314
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:25:42.040731Z"
 }

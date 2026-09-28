@@ -2,13 +2,13 @@
 
 - Source: https://www.jamesedition.com/real_estate/rifle-co-usa/estate-for-sale-in-rifle-colorado-15928363
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:24Z
+- Retrieved: 2026-09-28T00:20:48Z
 - Address: 164 Booms Pl, Rifle, CO 81650, Colorado, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.556388,-107.750663
 - Coordinates: 39.56, -107.75
 - Site listing ID: 15928363
 - First listed: Jul 14, 2025
-- Images downloaded: 9
+- Images downloaded: 21
 - Videos downloaded: 0
 
 ## Property

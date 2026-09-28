@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "D2Y3RX",
     "first_listed": "Jun 18",
     "last_updated": "June 18",
-    "retrieved_at": "2026-08-28T00:28:08.135325Z"
+    "retrieved_at": "2026-09-28T00:19:52.34603Z"
   },
   "location": {
     "address": "Setagaya-ku, 13 156-0044, Setagaya City, Tokyo, Japan",
@@ -67,307 +67,323 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/2200xxs.jpg",
       "file": "img-7fb981b0e164.webp",
       "media_type": "image/webp",
       "bytes": 323888,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/2200xxs.jpg",
       "file": "img-8be163bc242c.webp",
       "media_type": "image/webp",
       "bytes": 347682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/2200xxs.jpg",
       "file": "img-54f8a141582a.webp",
       "media_type": "image/webp",
       "bytes": 330666,
-      "status": "new"
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs%282%29.jpg",
+      "file": "img-55954bb86f88.webp",
+      "media_type": "image/webp",
+      "bytes": 249924,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/2200xxs.jpg",
       "file": "img-62e231b50667.webp",
       "media_type": "image/webp",
       "bytes": 242746,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs%283%29.jpg",
+      "file": "img-3356b8914a4e.webp",
+      "media_type": "image/webp",
+      "bytes": 232790,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/2200xxs.jpg",
       "file": "img-bf460ff9e857.webp",
       "media_type": "image/webp",
       "bytes": 213954,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/3336ef8a-5bb7-40a7-9682-b71629abaacf/je/2000xxs.jpg",
-      "file": "img-55954bb86f88.webp",
-      "media_type": "image/webp",
-      "bytes": 249924,
-      "status": "new"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/203dbdf8-b671-4427-bf73-7d7a4065dcb3/je/2000xxs.jpg",
-      "file": "img-3356b8914a4e.webp",
-      "media_type": "image/webp",
-      "bytes": 232790,
-      "status": "new"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/0712eebe-ede2-4ede-88aa-17b09d90c420/je/2000xxs.jpg",
       "file": "img-e9af0720c8d6.webp",
       "media_type": "image/webp",
       "bytes": 274498,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/160x120xc.jpg",
+      "file": "img-4635af63b2b9.webp",
+      "media_type": "image/webp",
+      "bytes": 4248,
       "status": "new"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/85939ce3-7006-43a0-a594-6a35a5d8ed4c/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/380xxsxm.jpg",
+      "file": "img-68f295a3e0c4.webp",
+      "media_type": "image/webp",
+      "bytes": 6580,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-a111d40fe15b.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2000xxs%285%29.jpg",
       "file": "img-e2b6c4ad3255.webp",
       "media_type": "image/webp",
       "bytes": 271640,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/4b2309fb-c1af-4d9b-ac22-281ea4e22b74/je/2000xxs.jpg",
       "file": "img-7efebf51ee41.webp",
       "media_type": "image/webp",
       "bytes": 227240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/4b54de69-28ee-4795-83ac-96ac2634cbc6/je/2000xxs.jpg",
       "file": "img-3323f32c621e.webp",
       "media_type": "image/webp",
       "bytes": 222158,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab9ac838-f940-4bab-a2f7-36816b968479/je/2000xxs.jpg",
       "file": "img-780f1c2a3012.webp",
       "media_type": "image/webp",
       "bytes": 293030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/a7a0ea5c-5381-47e0-ab9d-6286dc5255e0/je/2000xxs.jpg",
       "file": "img-d60b6e46d491.webp",
       "media_type": "image/webp",
       "bytes": 146962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/edffb676-87c2-43cd-9fce-13383c3f8e4d/je/2000xxs.jpg",
       "file": "img-45b1551230bf.webp",
       "media_type": "image/webp",
       "bytes": 238030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ebb6ffe8-b594-4dd8-abf4-34210a478d59/je/2000xxs.jpg",
       "file": "img-a26e7aa6bd25.webp",
       "media_type": "image/webp",
       "bytes": 211978,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/132b3d9c-d533-42d4-8a51-c676766c81ed/je/2000xxs.jpg",
       "file": "img-27f35e8084d0.webp",
       "media_type": "image/webp",
       "bytes": 234152,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/3f1bbcd6-9f2c-40c2-8c4a-c3a34c64b317/je/2000xxs.jpg",
       "file": "img-2619d30278b0.webp",
       "media_type": "image/webp",
       "bytes": 266124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/d0f12ccf-c221-4ab9-8c63-7715496f9118/je/2000xxs.jpg",
       "file": "img-2cef7855cd16.webp",
       "media_type": "image/webp",
       "bytes": 303960,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/d83d6cac-3cf5-44d6-9f6b-73ea917a3fd4/je/2000xxs.jpg",
       "file": "img-c5e2a5acfee4.webp",
       "media_type": "image/webp",
       "bytes": 217254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/f61e26b6-16d2-42ce-9459-6215858ec462/je/2000xxs.jpg",
       "file": "img-044fbc6d7865.webp",
       "media_type": "image/webp",
       "bytes": 252776,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/9765d497-2c16-4b8a-9cb8-36109b8ba0ae/je/2000xxs.jpg",
       "file": "img-540c4eb272d1.webp",
       "media_type": "image/webp",
       "bytes": 159380,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/65fab8dd-c311-49d1-b9a5-b5763152d1c1/je/2000xxs.jpg",
       "file": "img-34bd0422e5ce.webp",
       "media_type": "image/webp",
       "bytes": 110278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/854e3783-7e02-48e2-9e3a-fda31e9c330d/je/2000xxs.jpg",
       "file": "img-a332bd136d88.webp",
       "media_type": "image/webp",
       "bytes": 205336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/03550ce4-2d8e-4aa9-a432-b71ed8154e7d/je/2000xxs.jpg",
       "file": "img-7eb97a92764f.webp",
       "media_type": "image/webp",
       "bytes": 153160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/0893d71a-9b55-47a0-ac61-544f93d23c28/je/2000xxs.jpg",
       "file": "img-074d222e88ca.webp",
       "media_type": "image/webp",
       "bytes": 230836,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/7f05894a-983d-4922-a7a4-516bee78ec00/je/2000xxs.jpg",
       "file": "img-0ad518e0360e.webp",
       "media_type": "image/webp",
       "bytes": 207030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/0f121d4e-ae86-45b8-b07b-27d917c032fe/je/2000xxs.jpg",
       "file": "img-32b3685c3f03.webp",
       "media_type": "image/webp",
       "bytes": 238634,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e10e14b7-5942-407c-9911-21e44b55c443/je/2000xxs.jpg",
       "file": "img-7b3bd8ddc6ad.webp",
       "media_type": "image/webp",
       "bytes": 186516,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2200xxsxm%2816%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2200xxsxm%2817%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2200xxsxm%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -559,6 +575,63 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/setagaya-ku-japan/Akatsutsumi%203%20Chome%20Residence,%20Setagaya%20In%20Setagaya%20City,%20Tokyo,%20Japan%20For%20Sale%20%2818207923%29_files/2200xxsxm%285%29.jpg: HTTP 429 Too Many Requests",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/ab6dbb89-03e7-4c5f-8ce2-149e6651ca16/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/bda09a5b-d3b5-451c-a996-e99ad97da626/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e0c1c198-fe93-4fe0-ba80-37c7c26544ad/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/e3a59b78-f5c8-4a12-86c2-f27c6bda6e5e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/18/08/09/23/269b1a33-670c-42e1-a594-d2c018d42125/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 };

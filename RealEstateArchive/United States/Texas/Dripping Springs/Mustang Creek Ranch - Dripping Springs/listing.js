@@ -7,7 +7,7 @@ window.listingArchiveListing = {
     "listing_id": "16327496",
     "first_listed": "Oct 7, 2025",
     "last_updated": "November 11, 2025",
-    "retrieved_at": "2026-06-16T03:43:30.608549Z"
+    "retrieved_at": "2026-09-28T00:22:47.287036Z"
   },
   "location": {
     "address": "Loop 165, Texas 78620, Dripping Springs, United States",
@@ -94,6 +94,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/2200xxs.jpg",
       "file": "004-af44ab9d.webp",
       "media_type": "image/webp",
@@ -102,7 +117,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/2200xxs.jpg",
@@ -113,7 +144,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/2200xxs.jpg",
@@ -124,7 +171,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/2200xxs.jpg",
@@ -135,7 +198,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/2200xxs.jpg",
@@ -146,19 +225,34 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-1b0940ad0471.webp",
+      "media_type": "image/webp",
+      "bytes": 6782,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9e81b95a99dd.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-5113b3208510.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -352,6 +446,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/11/01/36/29/617240e7-bbc1-4e37-b41a-3df02b78c3c4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/d0f4a205-a072-4167-905d-6c1d59d2edc1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/a69a0829-534f-49b7-b88a-872223313112/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/1283059f-df76-4ee1-97a5-d0610cf1b556/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/hays-county-tx-usa/Mustang%20Creek%20Ranch%20_%20Dripping%20In%20Dripping%20Springs,%20Texas,%20United%20States%20For%20Sale%20%2816327496%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/11/10/18/51/21/cec09360-2dbb-4d8a-b3d4-cecacc9a54ff/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

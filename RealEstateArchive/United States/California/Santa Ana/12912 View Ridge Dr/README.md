@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912-view-ridge-dr-17829121
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:13Z
+- Retrieved: 2026-09-28T00:17:23Z
 - Address: 12912 View Ridge Dr, CA, Santa Ana, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=33.7741117,-117.7984832
 - Coordinates: 33.77, -117.8
@@ -10,7 +10,7 @@
 - Listing reference: 214535752.0
 - First listed: May 2
 - Last updated: May 29
-- Images downloaded: 10
+- Images downloaded: 22
 - Videos downloaded: 0
 
 ## Property

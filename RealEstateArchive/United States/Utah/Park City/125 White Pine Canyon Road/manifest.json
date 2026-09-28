@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:51.23991Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/the-dream-catcher-lodge-at-the-colony-at-white-pine-canyon-16740940",
     "canonical_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/the-dream-catcher-lodge-at-the-colony-at-white-pine-canyon-16740940",
@@ -9,13 +9,13 @@
     "listing_reference": "K66YPK",
     "first_listed": "Dec 3, 2025",
     "last_updated": "June 11",
-    "retrieved_at": "2026-06-16T03:43:39.060482Z"
+    "retrieved_at": "2026-09-28T00:25:42.466166Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3205,
-      "sha256": "5d32000f0eb412991ba0b2063c98906c3360ec9c8dcb5ff9d668ea69751dc08a"
+      "bytes": 3206,
+      "sha256": "f9e6f028715a4dbc1f209a70d77d2a145a427ed4e9c92f4f837600ede57315c7"
     },
     {
       "path": "images/004-abd37c31.webp",
@@ -63,9 +63,69 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-17235925ba0d.webp",
+      "bytes": 5442,
+      "sha256": "056f518e995391eacb42e82e4f8014b9d19939d18905629a300a0bd82d049250"
+    },
+    {
+      "path": "images/img-29d9379ba3c5.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-30a7fb4dc2c5.webp",
+      "bytes": 5696,
+      "sha256": "de55029bb0f4bdeb436a222a29f7d6f4eadc4f25d6ed15efd28e788036b38657"
+    },
+    {
+      "path": "images/img-37538c4c1a2b.webp",
+      "bytes": 5374,
+      "sha256": "69395cbb7c4f56b399bdd51c874254a72c552e87850f8e97ff07184c98b99328"
+    },
+    {
+      "path": "images/img-53b080d5ed1f.webp",
+      "bytes": 6874,
+      "sha256": "ad53a15bd9d377c8b0516f6d3e8c6df77ca088c69ce6172dc33f66ea26e34a9d"
+    },
+    {
+      "path": "images/img-6109051fd448.webp",
+      "bytes": 7730,
+      "sha256": "2a37f8fa309a91a066a8d3a0b30f1cd5f18873990a2af5257a04239df10e280f"
+    },
+    {
+      "path": "images/img-7c5de110f80e.webp",
+      "bytes": 6278,
+      "sha256": "db575338ef61d30fef54e64ce262cf0ce3b8450207b71f6385b3a260cfb02142"
+    },
+    {
+      "path": "images/img-b3834b851985.webp",
+      "bytes": 5604,
+      "sha256": "394703fb0c3d136508241f9a457e8cd015b5e7c8dc2c73fea3e19670e2eccea7"
+    },
+    {
+      "path": "images/img-b62f161977f8.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-d2e8c9a08e36.webp",
+      "bytes": 6166,
+      "sha256": "b545bad86de591a11844c050a81f71fadc5975adc4dc294f4d4934814a4c6765"
+    },
+    {
+      "path": "images/img-d6f265982686.webp",
+      "bytes": 5600,
+      "sha256": "e868f9f91da168a024ad858cf3ee3aa1715a1fc82778e393c07ded431cf2247e"
+    },
+    {
+      "path": "images/img-dab50d25df40.webp",
+      "bytes": 6236,
+      "sha256": "a41fc516f362c340575e59a806fc4f8b27b022eacafbe291bf5af4d47284abea"
+    },
+    {
       "path": "listing.json",
-      "bytes": 22682,
-      "sha256": "c194a868bd676705068f103262f0b9f0910334ad0a65c3049824bf79ccf8b155"
+      "bytes": 53966,
+      "sha256": "629cb7850470d14094b01a76cc5c9abbe95e895ecbd9a16a0f7176e9d0186904"
     },
     {
       "path": "source.html",
@@ -76,9 +136,47 @@
       "path": "source.url",
       "bytes": 126,
       "sha256": "00ac7bbaca9df864710a69bfb5db3c5c7b50082abea2a08654ea44f0f61df51c"
+    },
+    {
+      "path": "videos/img-33f8c0ed796d.webp",
+      "bytes": 219362,
+      "sha256": "e80e742fc6c0bd696aeede739affb28eb54d22ab1a63104f848a400d356403e3"
+    },
+    {
+      "path": "videos/vid-4e175e40c56f.mp4",
+      "bytes": 54758848,
+      "sha256": "1d7e6b9dbe5933a80bbbf64f9e56ef66a33bd138a983a48cb46a926a5b8c4903"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6388998923112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-4e175e40c56f.mp4",
+      "media_type": "video/mp4",
+      "bytes": 54758848,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/1040x620xc.jpg",
+      "poster_path": "videos/img-33f8c0ed796d.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/2200xxs.jpg",
@@ -90,7 +188,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/c79771b7-a8de-461c-980a-5f101aaeb7f0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/c79771b7-a8de-461c-980a-5f101aaeb7f0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/c79771b7-a8de-461c-980a-5f101aaeb7f0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/c79771b7-a8de-461c-980a-5f101aaeb7f0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/c79771b7-a8de-461c-980a-5f101aaeb7f0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/c79771b7-a8de-461c-980a-5f101aaeb7f0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +220,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/558a9615-5690-4eb9-b4dd-a0e8bbc1b968/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/558a9615-5690-4eb9-b4dd-a0e8bbc1b968/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/558a9615-5690-4eb9-b4dd-a0e8bbc1b968/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/558a9615-5690-4eb9-b4dd-a0e8bbc1b968/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/558a9615-5690-4eb9-b4dd-a0e8bbc1b968/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/03/17/10/42/558a9615-5690-4eb9-b4dd-a0e8bbc1b968/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +252,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/fb9625ea-8737-4095-bbba-6451ebfcf689/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/fb9625ea-8737-4095-bbba-6451ebfcf689/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/fb9625ea-8737-4095-bbba-6451ebfcf689/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/fb9625ea-8737-4095-bbba-6451ebfcf689/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/fb9625ea-8737-4095-bbba-6451ebfcf689/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/fb9625ea-8737-4095-bbba-6451ebfcf689/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +284,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/f6a5151f-4d26-42d0-af7b-cb84bdac85fd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/f6a5151f-4d26-42d0-af7b-cb84bdac85fd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/f6a5151f-4d26-42d0-af7b-cb84bdac85fd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/f6a5151f-4d26-42d0-af7b-cb84bdac85fd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/f6a5151f-4d26-42d0-af7b-cb84bdac85fd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/f6a5151f-4d26-42d0-af7b-cb84bdac85fd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,67 +316,110 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-6109051fd448.webp",
+      "media_type": "image/webp",
+      "bytes": 7730,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-29d9379ba3c5.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b3834b851985.webp",
+      "media_type": "image/webp",
+      "bytes": 5604,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d6f265982686.webp",
+      "media_type": "image/webp",
+      "bytes": 5600,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-53b080d5ed1f.webp",
+      "media_type": "image/webp",
+      "bytes": 6874,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-17235925ba0d.webp",
+      "media_type": "image/webp",
+      "bytes": 5442,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d2e8c9a08e36.webp",
+      "media_type": "image/webp",
+      "bytes": 6166,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%286%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-dab50d25df40.webp",
+      "media_type": "image/webp",
+      "bytes": 6236,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%287%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-37538c4c1a2b.webp",
+      "media_type": "image/webp",
+      "bytes": 5374,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%288%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7c5de110f80e.webp",
+      "media_type": "image/webp",
+      "bytes": 6278,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/160x120xc%289%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-30a7fb4dc2c5.webp",
+      "media_type": "image/webp",
+      "bytes": 5696,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/park-city-ut-usa/The%20Dream%20Catcher%20Lodge%20At%20The%20Colony%20At%20In%20Park%20City,%20Utah,%20United%20States%20For%20Sale%20%2816740940%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b62f161977f8.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/24/a0279ba0-db80-46b4-837c-1c50a88de5e7/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -238,10 +455,10 @@
     }
   ],
   "summary": {
-    "images_new": 17,
+    "images_new": 12,
     "images_existing": 9,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

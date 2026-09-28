@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/single-family-residence-in-pound-ridge-18091851
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:09:02Z
+- Retrieved: 2026-09-28T00:25:23Z
 - Address: 164 Eastwoods Road, Pound Ridge, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.213428,-73.535957
 - Coordinates: 41.21, -73.54
@@ -10,7 +10,7 @@
 - Listing reference: 1007263
 - First listed: Jun 5
 - Last updated: June 5
-- Images downloaded: 50
+- Images downloaded: 55
 
 ## Property
 

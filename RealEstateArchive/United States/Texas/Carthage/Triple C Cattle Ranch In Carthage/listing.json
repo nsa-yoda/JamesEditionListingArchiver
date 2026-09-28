@@ -7,7 +7,7 @@
     "listing_id": "17062617",
     "listing_reference": "42139-202521",
     "first_listed": "Feb 2",
-    "retrieved_at": "2026-06-16T03:43:40.651785Z"
+    "retrieved_at": "2026-09-28T00:26:22.048554Z"
   },
   "location": {
     "address": "688 Co Rd 108, Carthage, TX 75633, Texas, United States",
@@ -65,6 +65,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/2200xxs.jpg",
       "file": "004-451efeaf.webp",
       "media_type": "image/webp",
@@ -73,7 +88,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/2200xxs.jpg",
@@ -84,7 +115,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/2200xxs.jpg",
@@ -95,7 +142,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/2200xxs.jpg",
@@ -106,7 +169,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/2200xxs.jpg",
@@ -117,19 +196,34 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-cd6229a511a7.webp",
+      "media_type": "image/webp",
+      "bytes": 5494,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a062a9639c04.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-c7cc3639dc99.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -308,6 +402,69 @@
     "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/16/54/58/e5b450f0-9541-419b-a71b-430896cf986c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/47/45/dbd80d0e-4840-4b89-aebd-5e9f109f8613/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/dd40776d-1c2a-424d-89ff-f102999a6371/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/17/55/07/0593f5a2-80d9-4713-9392-d0b1eb9f6505/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/carthage-tx-usa/Triple%20C%20Cattle%20Ranch%20In%20Carthage,%20Texas%20For%20In%20Carthage,%20Texas,%20United%20States%20For%20Sale%20%2817062617%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/02/02/15/55/10/2ba209c6-744a-4580-b203-86e14ed161f6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

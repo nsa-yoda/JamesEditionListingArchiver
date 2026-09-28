@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:50.764141Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577-floyd-st-englewood-cliffs-new-jersey-07632-16396759",
     "canonical_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577-floyd-st-englewood-cliffs-new-jersey-07632-16396759",
@@ -9,13 +9,13 @@
     "listing_reference": "25034367",
     "first_listed": "Oct 14, 2025",
     "last_updated": "February 10",
-    "retrieved_at": "2026-06-16T03:43:18.874963Z"
+    "retrieved_at": "2026-09-28T00:18:50.262837Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2845,
-      "sha256": "42bf357430de3f65c276a8dcd4d3ce5b23293d0644d436209e4f73b86473199e"
+      "bytes": 2846,
+      "sha256": "6247a93a8cff7f99c54b53b633ae80acfe4472ca0c831d110181bad3b06c6dad"
     },
     {
       "path": "images/004-583ec5c0.webp",
@@ -63,9 +63,69 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-2047319c4c99.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-3bcadd800baf.webp",
+      "bytes": 3434,
+      "sha256": "90b8d52de23c52a6c2dd4ad953a3d732aa12d95f49929b742241b3f790c89c49"
+    },
+    {
+      "path": "images/img-3fdb2155f84b.webp",
+      "bytes": 3062,
+      "sha256": "46f90b113bb8d9ee6996cf0bbe734a708dab66868516d2f9e6182f6c50a1be6d"
+    },
+    {
+      "path": "images/img-6e87930cd79e.webp",
+      "bytes": 2584,
+      "sha256": "16e52eaebef8b506f132eb0fc7c022e8f6e9e5d32f8e5bbbc444971430d84514"
+    },
+    {
+      "path": "images/img-76fba8e543ba.webp",
+      "bytes": 2076,
+      "sha256": "10d78cfef834e5d05d5d284a2df489e10237004873be3a72ecd09c8c844551fb"
+    },
+    {
+      "path": "images/img-784dc1f4472e.webp",
+      "bytes": 3880,
+      "sha256": "ef2cf7c4462c055821da648f50329fdfd9ae3e2bd77a0336c367034b43dee72b"
+    },
+    {
+      "path": "images/img-a21031dcf171.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-ba35e83c46f7.webp",
+      "bytes": 3672,
+      "sha256": "5db0ec8d248aafb91b2ec7e76ed83253f00e461ac83d1a130a8ea2ad9e61f828"
+    },
+    {
+      "path": "images/img-c3395876cd63.webp",
+      "bytes": 3508,
+      "sha256": "60a1492e378081a0813cdee7f96b8a91180ad6661ee8d9c2fddf61de7a2d94b1"
+    },
+    {
+      "path": "images/img-caa707b9d78b.webp",
+      "bytes": 2856,
+      "sha256": "0568e4485cb6c4792ef9e0026c714e0835a809c11cff8bad134ebb6e18f12980"
+    },
+    {
+      "path": "images/img-e614c7f43b2f.webp",
+      "bytes": 4570,
+      "sha256": "c1d7fe342a76736cc929ac5a5414f381b74769a356a5f59f4c7973980c72eb3a"
+    },
+    {
+      "path": "images/img-e639748ee28a.webp",
+      "bytes": 4810,
+      "sha256": "ad96d3a08469e49a9c8d3d62dfa8226d50025cc6ab0d4f5daed1bf56316699d0"
+    },
+    {
       "path": "listing.json",
-      "bytes": 22108,
-      "sha256": "b1be06141e8e3547454d39e4944cb908c2bf8c67148586320b14cc77e2ef5d49"
+      "bytes": 53089,
+      "sha256": "9a42575bab0276f70932a5b0b8eb107dffe0ab260e533ee1076f3b37d2943fe6"
     },
     {
       "path": "source.html",
@@ -81,6 +141,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/2200xxs.jpg",
       "path": "images/004-583ec5c0.webp",
       "media_type": "image/webp",
@@ -90,7 +168,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/36/c19b102c-4761-493a-bbbc-c9e20bfcc87c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/36/c19b102c-4761-493a-bbbc-c9e20bfcc87c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/36/c19b102c-4761-493a-bbbc-c9e20bfcc87c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/36/c19b102c-4761-493a-bbbc-c9e20bfcc87c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/36/c19b102c-4761-493a-bbbc-c9e20bfcc87c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/36/c19b102c-4761-493a-bbbc-c9e20bfcc87c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +200,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/28df849e-3d92-4629-bb92-5d5529a93e33/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/28df849e-3d92-4629-bb92-5d5529a93e33/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/28df849e-3d92-4629-bb92-5d5529a93e33/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/28df849e-3d92-4629-bb92-5d5529a93e33/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/28df849e-3d92-4629-bb92-5d5529a93e33/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/28df849e-3d92-4629-bb92-5d5529a93e33/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +232,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/cc51a4e6-d53f-4376-8258-4b6a4acc53b4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/cc51a4e6-d53f-4376-8258-4b6a4acc53b4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/cc51a4e6-d53f-4376-8258-4b6a4acc53b4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/cc51a4e6-d53f-4376-8258-4b6a4acc53b4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/cc51a4e6-d53f-4376-8258-4b6a4acc53b4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/cc51a4e6-d53f-4376-8258-4b6a4acc53b4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +264,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/e5d21f68-3754-4907-afd7-485655958f20/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/e5d21f68-3754-4907-afd7-485655958f20/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/e5d21f68-3754-4907-afd7-485655958f20/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/e5d21f68-3754-4907-afd7-485655958f20/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/e5d21f68-3754-4907-afd7-485655958f20/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/e5d21f68-3754-4907-afd7-485655958f20/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,67 +296,110 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e614c7f43b2f.webp",
+      "media_type": "image/webp",
+      "bytes": 4570,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a21031dcf171.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e639748ee28a.webp",
+      "media_type": "image/webp",
+      "bytes": 4810,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3bcadd800baf.webp",
+      "media_type": "image/webp",
+      "bytes": 3434,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c3395876cd63.webp",
+      "media_type": "image/webp",
+      "bytes": 3508,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-6e87930cd79e.webp",
+      "media_type": "image/webp",
+      "bytes": 2584,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-76fba8e543ba.webp",
+      "media_type": "image/webp",
+      "bytes": 2076,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%286%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-caa707b9d78b.webp",
+      "media_type": "image/webp",
+      "bytes": 2856,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%287%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3fdb2155f84b.webp",
+      "media_type": "image/webp",
+      "bytes": 3062,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%288%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-784dc1f4472e.webp",
+      "media_type": "image/webp",
+      "bytes": 3880,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/160x120xc%289%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ba35e83c46f7.webp",
+      "media_type": "image/webp",
+      "bytes": 3672,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/englewood-cliffs-nj-usa/577%20Floyd%20St,%20Englewood%20Cliffs,%20In%20Englewood%20Cliffs,%20New%20Jersey,%20United%20States%20For%20Sale%20%2816396759%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2047319c4c99.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/11/15/38/35/18f1eee9-6ed1-43f8-917a-c5338a3875a7/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -238,9 +435,9 @@
     }
   ],
   "summary": {
-    "images_new": 17,
+    "images_new": 12,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

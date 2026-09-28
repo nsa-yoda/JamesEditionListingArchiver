@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:12.756611Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/single-family-residence-in-little-compton-16830839",
     "canonical_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/single-family-residence-in-little-compton-16830839",
@@ -9,7 +9,7 @@
     "listing_reference": "1361988",
     "first_listed": "Dec 19, 2025",
     "last_updated": "April 7",
-    "retrieved_at": "2026-06-21T22:31:51.162129Z"
+    "retrieved_at": "2026-09-28T00:25:12.347118Z"
   },
   "files": [
     {
@@ -25,7 +25,7 @@
     {
       "path": "README.md",
       "bytes": 2077,
-      "sha256": "0ef932169f17daf35ad5f7ea381226fa2ea81891b25e1c9358c5680f8c1b4f10"
+      "sha256": "5b971a5994dcca67da05f436ed5cc62e4f18d23eb20f144133afade61e6baf3e"
     },
     {
       "path": "images/img-03133c7f6278.webp",
@@ -48,6 +48,11 @@
       "sha256": "2ad86f8105db64212a12ffe826e910045838b2f240c280110ce36292950ba592"
     },
     {
+      "path": "images/img-1cd76e52ba01.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-26469ea889e7.webp",
       "bytes": 293744,
       "sha256": "861fad7d31c1d3a29c6460fac09bc8fb3239b78b1599eae4451505f56dedd875"
@@ -61,6 +66,11 @@
       "path": "images/img-2d443604d34b.webp",
       "bytes": 115150,
       "sha256": "baf325cb0d726ff94deab0221949ebf61a974bc0dfb068c327e2a6846a95e77f"
+    },
+    {
+      "path": "images/img-3b99a1771559.png",
+      "bytes": 5039,
+      "sha256": "fd943a7c17bd9b8147bc355172e790e758ad429b82d59bc73e5767b9c74d858b"
     },
     {
       "path": "images/img-3ca0c5e3592e.webp",
@@ -123,6 +133,11 @@
       "sha256": "e528e90c04e1bf738d2717b77b87dfa5c8cbd8ca14a373726aec74c86e0ae119"
     },
     {
+      "path": "images/img-5b8d959e2895.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-60305da6dac4.webp",
       "bytes": 77088,
       "sha256": "df267114d039cb6cf059b3222dcac4f950115c04606cfb09a8387fad6319b3da"
@@ -156,6 +171,11 @@
       "path": "images/img-762c9b56c4d6.webp",
       "bytes": 79222,
       "sha256": "37cd84a499acaf4f5344e7d0c010d724d4e5636cd2c51d28a663d577fdd0e697"
+    },
+    {
+      "path": "images/img-797b0926a012.webp",
+      "bytes": 5268,
+      "sha256": "48bef08618cc797e69c6d63860e1c377f60ce617c8ea13b99c76ceb234d1d7b6"
     },
     {
       "path": "images/img-7e323d52da97.webp",
@@ -299,8 +319,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 29701,
-      "sha256": "cdb963d5385c3efe48706b6026e1d690e80d84bcc403dd94c97194cbc1c15033"
+      "bytes": 65613,
+      "sha256": "1140d85a0d2109fa415d366c7b296f159ea50648afdd867409c769c58e67a87a"
     },
     {
       "path": "source.html",
@@ -316,17 +336,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/2200xxs.jpg",
       "path": "images/img-91fec126955f.webp",
       "media_type": "image/webp",
       "bytes": 134634,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/80512268-2b31-4d0c-8c3a-138c58eb23bf/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/80512268-2b31-4d0c-8c3a-138c58eb23bf/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/80512268-2b31-4d0c-8c3a-138c58eb23bf/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/80512268-2b31-4d0c-8c3a-138c58eb23bf/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/80512268-2b31-4d0c-8c3a-138c58eb23bf/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/80512268-2b31-4d0c-8c3a-138c58eb23bf/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -334,13 +390,31 @@
       "path": "images/img-df48debb40e2.webp",
       "media_type": "image/webp",
       "bytes": 122050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/89cf7a1b-b5ad-4f8c-8f43-cbfab613145d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/89cf7a1b-b5ad-4f8c-8f43-cbfab613145d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/89cf7a1b-b5ad-4f8c-8f43-cbfab613145d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/89cf7a1b-b5ad-4f8c-8f43-cbfab613145d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/89cf7a1b-b5ad-4f8c-8f43-cbfab613145d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/89cf7a1b-b5ad-4f8c-8f43-cbfab613145d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -348,13 +422,31 @@
       "path": "images/img-03133c7f6278.webp",
       "media_type": "image/webp",
       "bytes": 114160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/b43e7bb7-14ab-495a-8a60-063cfc415b34/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/b43e7bb7-14ab-495a-8a60-063cfc415b34/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/b43e7bb7-14ab-495a-8a60-063cfc415b34/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/b43e7bb7-14ab-495a-8a60-063cfc415b34/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/b43e7bb7-14ab-495a-8a60-063cfc415b34/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/b43e7bb7-14ab-495a-8a60-063cfc415b34/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -362,13 +454,31 @@
       "path": "images/img-737868c54178.webp",
       "media_type": "image/webp",
       "bytes": 135436,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/6920b836-60f2-4b2c-b5ee-989dd6df1483/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/6920b836-60f2-4b2c-b5ee-989dd6df1483/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/6920b836-60f2-4b2c-b5ee-989dd6df1483/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/6920b836-60f2-4b2c-b5ee-989dd6df1483/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/6920b836-60f2-4b2c-b5ee-989dd6df1483/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/6920b836-60f2-4b2c-b5ee-989dd6df1483/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -376,37 +486,75 @@
       "path": "images/img-5732b43d1e13.webp",
       "media_type": "image/webp",
       "bytes": 83480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/M00000554.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3b99a1771559.png",
+      "media_type": "image/png",
+      "bytes": 5039,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-797b0926a012.webp",
+      "media_type": "image/webp",
+      "bytes": 5268,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1cd76e52ba01.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-5b8d959e2895.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/80512268-2b31-4d0c-8c3a-138c58eb23bf/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/80512268-2b31-4d0c-8c3a-138c58eb23bf/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/89cf7a1b-b5ad-4f8c-8f43-cbfab613145d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/89cf7a1b-b5ad-4f8c-8f43-cbfab613145d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/b43e7bb7-14ab-495a-8a60-063cfc415b34/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/b43e7bb7-14ab-495a-8a60-063cfc415b34/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/6920b836-60f2-4b2c-b5ee-989dd6df1483/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/6920b836-60f2-4b2c-b5ee-989dd6df1483/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -414,7 +562,7 @@
       "path": "images/img-b5e3108fc5e9.webp",
       "media_type": "image/webp",
       "bytes": 142044,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -422,7 +570,7 @@
       "path": "images/img-e839bc32b149.webp",
       "media_type": "image/webp",
       "bytes": 126634,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -430,7 +578,7 @@
       "path": "images/img-552579274d59.webp",
       "media_type": "image/webp",
       "bytes": 94812,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -438,7 +586,7 @@
       "path": "images/img-4394781dd7f3.webp",
       "media_type": "image/webp",
       "bytes": 136000,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -446,7 +594,7 @@
       "path": "images/img-4466891eee38.webp",
       "media_type": "image/webp",
       "bytes": 135718,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -454,7 +602,7 @@
       "path": "images/img-09a56ac55544.webp",
       "media_type": "image/webp",
       "bytes": 120350,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -462,7 +610,7 @@
       "path": "images/img-8c1701280fb1.webp",
       "media_type": "image/webp",
       "bytes": 127620,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -470,7 +618,7 @@
       "path": "images/img-3db205983b39.webp",
       "media_type": "image/webp",
       "bytes": 183948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -478,7 +626,7 @@
       "path": "images/img-8f2cd8e8af8a.webp",
       "media_type": "image/webp",
       "bytes": 116190,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -486,7 +634,7 @@
       "path": "images/img-889a08a89e00.webp",
       "media_type": "image/webp",
       "bytes": 81202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -494,7 +642,7 @@
       "path": "images/img-3ca0c5e3592e.webp",
       "media_type": "image/webp",
       "bytes": 255508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -502,7 +650,7 @@
       "path": "images/img-de186edd5895.webp",
       "media_type": "image/webp",
       "bytes": 112374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -510,7 +658,7 @@
       "path": "images/img-aa137d241c96.webp",
       "media_type": "image/webp",
       "bytes": 116488,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -518,7 +666,7 @@
       "path": "images/img-149e7b814374.webp",
       "media_type": "image/webp",
       "bytes": 61790,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -526,7 +674,7 @@
       "path": "images/img-a5b600108bdf.webp",
       "media_type": "image/webp",
       "bytes": 86298,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -534,7 +682,7 @@
       "path": "images/img-84fe0a937bce.webp",
       "media_type": "image/webp",
       "bytes": 102466,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -542,7 +690,7 @@
       "path": "images/img-2d443604d34b.webp",
       "media_type": "image/webp",
       "bytes": 115150,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -550,7 +698,7 @@
       "path": "images/img-44d30340736b.webp",
       "media_type": "image/webp",
       "bytes": 94474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -558,7 +706,7 @@
       "path": "images/img-88b4a25ec771.webp",
       "media_type": "image/webp",
       "bytes": 105498,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -566,7 +714,7 @@
       "path": "images/img-7eae77f1f3fc.webp",
       "media_type": "image/webp",
       "bytes": 80510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -574,7 +722,7 @@
       "path": "images/img-6f141bf76b3e.webp",
       "media_type": "image/webp",
       "bytes": 69924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -582,7 +730,7 @@
       "path": "images/img-1104a4bf44b7.webp",
       "media_type": "image/webp",
       "bytes": 73236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -590,7 +738,7 @@
       "path": "images/img-cab02ac04327.webp",
       "media_type": "image/webp",
       "bytes": 84712,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -598,7 +746,7 @@
       "path": "images/img-57c474b69bff.webp",
       "media_type": "image/webp",
       "bytes": 79744,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -606,7 +754,7 @@
       "path": "images/img-b6353004e191.webp",
       "media_type": "image/webp",
       "bytes": 83946,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -614,7 +762,7 @@
       "path": "images/img-68dce64f921a.webp",
       "media_type": "image/webp",
       "bytes": 77810,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -622,7 +770,7 @@
       "path": "images/img-fbd4861ada66.webp",
       "media_type": "image/webp",
       "bytes": 69334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -630,7 +778,7 @@
       "path": "images/img-4b15f064740b.webp",
       "media_type": "image/webp",
       "bytes": 85250,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -638,7 +786,7 @@
       "path": "images/img-7e323d52da97.webp",
       "media_type": "image/webp",
       "bytes": 58468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -646,7 +794,7 @@
       "path": "images/img-6b60d7fdb407.webp",
       "media_type": "image/webp",
       "bytes": 67154,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -654,7 +802,7 @@
       "path": "images/img-66092537fe6b.webp",
       "media_type": "image/webp",
       "bytes": 132442,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -662,7 +810,7 @@
       "path": "images/img-762c9b56c4d6.webp",
       "media_type": "image/webp",
       "bytes": 79222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -670,7 +818,7 @@
       "path": "images/img-60305da6dac4.webp",
       "media_type": "image/webp",
       "bytes": 77088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -678,7 +826,7 @@
       "path": "images/img-f21b8fa36311.webp",
       "media_type": "image/webp",
       "bytes": 88910,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -686,7 +834,7 @@
       "path": "images/img-c52d944beb4a.webp",
       "media_type": "image/webp",
       "bytes": 158704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -694,7 +842,7 @@
       "path": "images/img-95911c0cd1e5.webp",
       "media_type": "image/webp",
       "bytes": 109994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -702,7 +850,7 @@
       "path": "images/img-5333c2316df6.webp",
       "media_type": "image/webp",
       "bytes": 121628,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -710,7 +858,7 @@
       "path": "images/img-a53cdad2d8cd.webp",
       "media_type": "image/webp",
       "bytes": 132694,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -718,7 +866,7 @@
       "path": "images/img-8ae3d3547ce9.webp",
       "media_type": "image/webp",
       "bytes": 178832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -726,7 +874,7 @@
       "path": "images/img-d063e51b8f22.webp",
       "media_type": "image/webp",
       "bytes": 218304,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -734,7 +882,7 @@
       "path": "images/img-26469ea889e7.webp",
       "media_type": "image/webp",
       "bytes": 293744,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -742,7 +890,7 @@
       "path": "images/img-d7836e00e7ca.webp",
       "media_type": "image/webp",
       "bytes": 131746,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -750,7 +898,7 @@
       "path": "images/img-e7873c75acdd.webp",
       "media_type": "image/webp",
       "bytes": 110926,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -758,7 +906,7 @@
       "path": "images/img-a5c80c893e47.webp",
       "media_type": "image/webp",
       "bytes": 66918,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -766,19 +914,13 @@
       "path": "images/img-a89e40b97f29.webp",
       "media_type": "image/webp",
       "bytes": 77722,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/little-compton-ri-usa/Single%20Family%20Residence%20In%20In%20Little%20Compton,%20Rhode%20Island,%20United%20States%20For%20Sale%20%2816830839%29_files/2200xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/19/16/06/56/ead763ad-4646-4fe5-8be1-c913ca373473/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -786,7 +928,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -794,7 +936,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -802,7 +944,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -810,13 +952,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 54,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 4,
+    "images_existing": 54,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

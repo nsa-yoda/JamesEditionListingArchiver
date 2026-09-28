@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "2137817524479652",
     "first_listed": "Jul 17",
     "last_updated": "August 31",
-    "retrieved_at": "2026-09-26T18:46:47.077607Z"
+    "retrieved_at": "2026-09-28T00:24:59.197574Z"
   },
   "location": {
     "address": "936 Dove Island Road, Newton, NJ 07860, Andover Township, New Jersey, United States",
@@ -645,6 +645,24 @@ window.listingArchiveListing = {
     ]
   },
   "warnings": [
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/request_plan_bg-33cc1401.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/street_view-b1ba588c.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/2200xxs%2849%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%283%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%284%29.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/160x120xc.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/request_plan_bg-33cc1401.png: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/street_view-b1ba588c.jpg: HTTP 429 Too Many Requests",
+    "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/2200xxs%2849%29.jpg: HTTP 429 Too Many Requests",
     "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs.jpg: HTTP 429 Too Many Requests",
     "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%281%29.jpg: HTTP 429 Too Many Requests",
     "image https://www.jamesedition.com/real_estate/newton-nj-usa/Single%20Family%20Detached%20Newton%20In%20Andover%20Township,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818450752%29_files/1100xxs%282%29.jpg: HTTP 429 Too Many Requests",

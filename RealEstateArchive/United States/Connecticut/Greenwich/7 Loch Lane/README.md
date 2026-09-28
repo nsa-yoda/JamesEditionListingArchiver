@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/greenwich-ct-usa/loch-lane-18055633
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:16Z
+- Retrieved: 2026-09-28T00:22:07Z
 - Address: 7 Loch Lane , Greenwich, CT 06830, Connecticut, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.091968,-73.6345123
 - Coordinates: 41.09, -73.63
@@ -10,8 +10,8 @@
 - Listing reference: VFCCSR
 - First listed: Jun 1
 - Last updated: July 13
-- Images downloaded: 7
-- Videos downloaded: 0
+- Images downloaded: 10
+- Videos downloaded: 1
 
 ## Property
 

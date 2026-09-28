@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:28.75278Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/single-family-residence-in-warwick-16978139",
     "canonical_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/single-family-residence-in-warwick-16978139",
@@ -9,13 +9,13 @@
     "listing_reference": "H6171317",
     "first_listed": "Jan 22",
     "last_updated": "March 30",
-    "retrieved_at": "2026-06-16T03:43:37.580023Z"
+    "retrieved_at": "2026-09-28T00:25:28.215158Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 1533,
-      "sha256": "43e9e7af0edb0683526b835208454a99518b0344c92b1bd1886a4f8d25f2a664"
+      "bytes": 1534,
+      "sha256": "b3ebeb7551c7e88aca1108b21bd0b747c62ced948eba6c284244f7dd6cfb4a91"
     },
     {
       "path": "images/004-1dde50f1.webp",
@@ -63,9 +63,29 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-42583e929be5.png",
+      "bytes": 3564,
+      "sha256": "ad7e16f8e405630ec78ae9c2085714ea2f8cc19fcc1cb9dea9fc73967be9f635"
+    },
+    {
+      "path": "images/img-649b12a5e387.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-657ae0998fab.webp",
+      "bytes": 3358,
+      "sha256": "70aae399f1f7c37c65761f43ec25c95e36aa1e73fbdb766b26916744ab0ffdaf"
+    },
+    {
+      "path": "images/img-a0f0a95f39ce.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 14968,
-      "sha256": "edf9b6cfd90775f615421d1b8d9acfd6cd360e87b5265413749691fe5dfd7e47"
+      "bytes": 44642,
+      "sha256": "243b7d7702f0d0c9410d8df1db9c01107e7e08f9212c0cb119d1e6868476df66"
     },
     {
       "path": "source.html",
@@ -81,6 +101,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/2200xxs.jpg",
       "path": "images/004-1dde50f1.webp",
       "media_type": "image/webp",
@@ -90,7 +128,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/13fd1766-54d6-4119-98dd-84579c581aa8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/13fd1766-54d6-4119-98dd-84579c581aa8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/13fd1766-54d6-4119-98dd-84579c581aa8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/13fd1766-54d6-4119-98dd-84579c581aa8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/13fd1766-54d6-4119-98dd-84579c581aa8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/13fd1766-54d6-4119-98dd-84579c581aa8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +160,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e97864b6-a04e-49ee-9400-db03b15f1cbf/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e97864b6-a04e-49ee-9400-db03b15f1cbf/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e97864b6-a04e-49ee-9400-db03b15f1cbf/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e97864b6-a04e-49ee-9400-db03b15f1cbf/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e97864b6-a04e-49ee-9400-db03b15f1cbf/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/e97864b6-a04e-49ee-9400-db03b15f1cbf/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +192,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/d43aee01-c44d-4eff-bffe-26e89ecd8315/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/d43aee01-c44d-4eff-bffe-26e89ecd8315/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/d43aee01-c44d-4eff-bffe-26e89ecd8315/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/d43aee01-c44d-4eff-bffe-26e89ecd8315/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/d43aee01-c44d-4eff-bffe-26e89ecd8315/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/d43aee01-c44d-4eff-bffe-26e89ecd8315/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +224,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/79f50051-c901-42bc-aedc-d70ba874a556/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/79f50051-c901-42bc-aedc-d70ba874a556/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/79f50051-c901-42bc-aedc-d70ba874a556/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/79f50051-c901-42bc-aedc-d70ba874a556/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/79f50051-c901-42bc-aedc-d70ba874a556/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/79f50051-c901-42bc-aedc-d70ba874a556/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,27 +256,46 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/M00000489.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-42583e929be5.png",
+      "media_type": "image/png",
+      "bytes": 3564,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-657ae0998fab.webp",
+      "media_type": "image/webp",
+      "bytes": 3358,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-649b12a5e387.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/warwick-ny-usa/Single%20Family%20Residence%20In%20Warwick%20In%20Warwick,%20New%20York,%20United%20States%20For%20Sale%20%2816978139%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a0f0a95f39ce.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/30/05c8dcc8-1dd4-43db-9d5f-47e87da1f4aa/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -198,9 +331,9 @@
     }
   ],
   "summary": {
-    "images_new": 9,
+    "images_new": 4,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

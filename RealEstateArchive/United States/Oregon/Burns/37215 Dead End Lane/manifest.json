@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:21:52.376641Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/burns-or-usa/house-attached-in-burns-16366378",
     "canonical_url": "https://www.jamesedition.com/real_estate/burns-or-usa/house-attached-in-burns-16366378",
@@ -9,13 +9,13 @@
     "listing_reference": "11349051",
     "first_listed": "Oct 10, 2025",
     "last_updated": "April 29",
-    "retrieved_at": "2026-08-28T00:28:42.281895Z"
+    "retrieved_at": "2026-09-28T00:21:51.9898Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2785,
-      "sha256": "39b1467e487db41cca1e2eb4df3133ee44f70bf43c2eec73ec5aeb5796772499"
+      "bytes": 2786,
+      "sha256": "02db87de8d2fb242b4b246ea1456cbdb31fc4aaac9ed981b351d8274e7bdba21"
     },
     {
       "path": "images/img-01ad687784e0.webp",
@@ -121,6 +121,11 @@
       "path": "images/img-311fabe6e10a.webp",
       "bytes": 245766,
       "sha256": "0257b32dd282110175a47378548caccb024cda7ed714f7e11cb4c0a841b4086f"
+    },
+    {
+      "path": "images/img-34d5d4eaceec.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-359b1d2e824b.webp",
@@ -313,6 +318,11 @@
       "sha256": "43ab8b2fb792f82449a2e546e88312421fd72f3a7505da9c62ae94b328ccdd02"
     },
     {
+      "path": "images/img-8f06ff22d051.webp",
+      "bytes": 5298,
+      "sha256": "820980f1dc7fc2f4f620b61a74da627ec6288dd577c9885ef2546cf5fe0cfd42"
+    },
+    {
       "path": "images/img-990dfde95a8f.webp",
       "bytes": 135530,
       "sha256": "77411ffd925f91e0c8141cb55fb37af2de83dfe1329eca32f5ef92da252135e3"
@@ -428,6 +438,11 @@
       "sha256": "9bc2987332abb06dcc9bd23d0f19e4d3cda97e8e8825e927d38a07173f7b4244"
     },
     {
+      "path": "images/img-db9dacb07bd8.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-dcb7ac0c10cc.webp",
       "bytes": 273064,
       "sha256": "0236a3758db7f5a1fbe25914900cd638c136522545e6c49fc3063d3e8ddf0bc6"
@@ -504,8 +519,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 43298,
-      "sha256": "e82b99e62f2037621fa1c342ad814c516d48460e892c1056c95192115c819d88"
+      "bytes": 81530,
+      "sha256": "c9033595ddfdf5a5e0a9254162f208b1b8be880b80658d298434b332eb5e312b"
     },
     {
       "path": "source.html",
@@ -521,17 +536,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/2200xxs.jpg",
       "path": "images/img-311fabe6e10a.webp",
       "media_type": "image/webp",
       "bytes": 245766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/02f3ab1e-b525-4798-80dc-ff22604519ac/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/02f3ab1e-b525-4798-80dc-ff22604519ac/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/02f3ab1e-b525-4798-80dc-ff22604519ac/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/02f3ab1e-b525-4798-80dc-ff22604519ac/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/02f3ab1e-b525-4798-80dc-ff22604519ac/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/02f3ab1e-b525-4798-80dc-ff22604519ac/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -539,13 +590,31 @@
       "path": "images/img-e5ac0cf5f1a1.webp",
       "media_type": "image/webp",
       "bytes": 167456,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/2ce275f7-cf57-401f-8127-2ef0c6d792ec/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/2ce275f7-cf57-401f-8127-2ef0c6d792ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/2ce275f7-cf57-401f-8127-2ef0c6d792ec/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/2ce275f7-cf57-401f-8127-2ef0c6d792ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/2ce275f7-cf57-401f-8127-2ef0c6d792ec/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/2ce275f7-cf57-401f-8127-2ef0c6d792ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -553,13 +622,31 @@
       "path": "images/img-c681e58390b4.webp",
       "media_type": "image/webp",
       "bytes": 173502,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/ec4515ff-60aa-43a7-a02a-c48270c73500/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/ec4515ff-60aa-43a7-a02a-c48270c73500/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/ec4515ff-60aa-43a7-a02a-c48270c73500/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/ec4515ff-60aa-43a7-a02a-c48270c73500/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/ec4515ff-60aa-43a7-a02a-c48270c73500/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/ec4515ff-60aa-43a7-a02a-c48270c73500/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -567,13 +654,31 @@
       "path": "images/img-73c49fa3a738.webp",
       "media_type": "image/webp",
       "bytes": 318814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cd498123-d2d7-437a-969b-9cfdd1edf8c3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cd498123-d2d7-437a-969b-9cfdd1edf8c3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cd498123-d2d7-437a-969b-9cfdd1edf8c3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cd498123-d2d7-437a-969b-9cfdd1edf8c3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cd498123-d2d7-437a-969b-9cfdd1edf8c3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cd498123-d2d7-437a-969b-9cfdd1edf8c3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -581,31 +686,67 @@
       "path": "images/img-43235c8c11fc.webp",
       "media_type": "image/webp",
       "bytes": 307222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-8f06ff22d051.webp",
+      "media_type": "image/webp",
+      "bytes": 5298,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-34d5d4eaceec.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-db9dacb07bd8.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/02f3ab1e-b525-4798-80dc-ff22604519ac/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/02f3ab1e-b525-4798-80dc-ff22604519ac/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/2ce275f7-cf57-401f-8127-2ef0c6d792ec/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/2ce275f7-cf57-401f-8127-2ef0c6d792ec/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/ec4515ff-60aa-43a7-a02a-c48270c73500/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/ec4515ff-60aa-43a7-a02a-c48270c73500/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cd498123-d2d7-437a-969b-9cfdd1edf8c3/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cd498123-d2d7-437a-969b-9cfdd1edf8c3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -613,7 +754,7 @@
       "path": "images/img-8ce32f85e145.webp",
       "media_type": "image/webp",
       "bytes": 194752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -621,7 +762,7 @@
       "path": "images/img-be72e9fe710d.webp",
       "media_type": "image/webp",
       "bytes": 116618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -629,7 +770,7 @@
       "path": "images/img-af4bca93d33b.webp",
       "media_type": "image/webp",
       "bytes": 246614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -637,7 +778,7 @@
       "path": "images/img-b166a7136418.webp",
       "media_type": "image/webp",
       "bytes": 230208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -645,7 +786,7 @@
       "path": "images/img-36c8b8c9b6ef.webp",
       "media_type": "image/webp",
       "bytes": 227618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -653,7 +794,7 @@
       "path": "images/img-7166ef620045.webp",
       "media_type": "image/webp",
       "bytes": 223982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -661,7 +802,7 @@
       "path": "images/img-5a76ce324c30.webp",
       "media_type": "image/webp",
       "bytes": 247636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -669,7 +810,7 @@
       "path": "images/img-0743636ca805.webp",
       "media_type": "image/webp",
       "bytes": 274530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -677,7 +818,7 @@
       "path": "images/img-0361742427a1.webp",
       "media_type": "image/webp",
       "bytes": 223140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -685,7 +826,7 @@
       "path": "images/img-2c44d2f7e61b.webp",
       "media_type": "image/webp",
       "bytes": 187778,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -693,7 +834,7 @@
       "path": "images/img-da4f08b3b468.webp",
       "media_type": "image/webp",
       "bytes": 236584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -701,7 +842,7 @@
       "path": "images/img-df8ee10ff20a.webp",
       "media_type": "image/webp",
       "bytes": 154762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -709,7 +850,7 @@
       "path": "images/img-fdfff175c3b2.webp",
       "media_type": "image/webp",
       "bytes": 258654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -717,7 +858,7 @@
       "path": "images/img-d0723d5095d7.webp",
       "media_type": "image/webp",
       "bytes": 272072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -725,7 +866,7 @@
       "path": "images/img-e41aed6b5663.webp",
       "media_type": "image/webp",
       "bytes": 275836,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -733,7 +874,7 @@
       "path": "images/img-260d49680423.webp",
       "media_type": "image/webp",
       "bytes": 136182,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -741,7 +882,7 @@
       "path": "images/img-eff3b9df6d2a.webp",
       "media_type": "image/webp",
       "bytes": 174814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -749,7 +890,7 @@
       "path": "images/img-a897058b2f48.webp",
       "media_type": "image/webp",
       "bytes": 204028,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -757,7 +898,7 @@
       "path": "images/img-8873887c25f3.webp",
       "media_type": "image/webp",
       "bytes": 176012,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -765,7 +906,7 @@
       "path": "images/img-3fa205fed052.webp",
       "media_type": "image/webp",
       "bytes": 171254,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -773,7 +914,7 @@
       "path": "images/img-01e9235a3248.webp",
       "media_type": "image/webp",
       "bytes": 125616,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -781,7 +922,7 @@
       "path": "images/img-f3f6d88ee06b.webp",
       "media_type": "image/webp",
       "bytes": 330208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -789,7 +930,7 @@
       "path": "images/img-ab90dce3880d.webp",
       "media_type": "image/webp",
       "bytes": 142802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -797,7 +938,7 @@
       "path": "images/img-8bf28462fedf.webp",
       "media_type": "image/webp",
       "bytes": 230934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -805,7 +946,7 @@
       "path": "images/img-990dfde95a8f.webp",
       "media_type": "image/webp",
       "bytes": 135530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -813,7 +954,7 @@
       "path": "images/img-e5a23b808e04.webp",
       "media_type": "image/webp",
       "bytes": 218654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -821,7 +962,7 @@
       "path": "images/img-1614ec3f49d3.webp",
       "media_type": "image/webp",
       "bytes": 292688,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -829,7 +970,7 @@
       "path": "images/img-f8db8c1db23d.webp",
       "media_type": "image/webp",
       "bytes": 313738,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -837,7 +978,7 @@
       "path": "images/img-6dd9af0fd4de.webp",
       "media_type": "image/webp",
       "bytes": 314540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -845,7 +986,7 @@
       "path": "images/img-71d498dc6d37.webp",
       "media_type": "image/webp",
       "bytes": 224574,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -853,7 +994,7 @@
       "path": "images/img-55efc42960df.webp",
       "media_type": "image/webp",
       "bytes": 193998,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -861,7 +1002,7 @@
       "path": "images/img-54df73915983.webp",
       "media_type": "image/webp",
       "bytes": 221972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -869,7 +1010,7 @@
       "path": "images/img-6e72f094c8aa.webp",
       "media_type": "image/webp",
       "bytes": 244682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -877,7 +1018,7 @@
       "path": "images/img-3cdacd4994ec.webp",
       "media_type": "image/webp",
       "bytes": 305132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -885,7 +1026,7 @@
       "path": "images/img-5a5a8f04ae57.webp",
       "media_type": "image/webp",
       "bytes": 322812,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -893,7 +1034,7 @@
       "path": "images/img-0be65e1614b6.webp",
       "media_type": "image/webp",
       "bytes": 341860,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -901,7 +1042,7 @@
       "path": "images/img-79fe20109078.webp",
       "media_type": "image/webp",
       "bytes": 189994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -909,7 +1050,7 @@
       "path": "images/img-f5bd34cbf10b.webp",
       "media_type": "image/webp",
       "bytes": 143888,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -917,7 +1058,7 @@
       "path": "images/img-c04638f7d374.webp",
       "media_type": "image/webp",
       "bytes": 134318,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -925,7 +1066,7 @@
       "path": "images/img-dfc55af2da17.webp",
       "media_type": "image/webp",
       "bytes": 298190,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -933,7 +1074,7 @@
       "path": "images/img-5b86422a7ae4.webp",
       "media_type": "image/webp",
       "bytes": 229710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -941,7 +1082,7 @@
       "path": "images/img-12937f6684a4.webp",
       "media_type": "image/webp",
       "bytes": 351578,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -949,7 +1090,7 @@
       "path": "images/img-152a0ba9b395.webp",
       "media_type": "image/webp",
       "bytes": 345702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -957,7 +1098,7 @@
       "path": "images/img-23ceb609fb00.webp",
       "media_type": "image/webp",
       "bytes": 184334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -965,7 +1106,7 @@
       "path": "images/img-5db7f512429b.webp",
       "media_type": "image/webp",
       "bytes": 178856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -973,7 +1114,7 @@
       "path": "images/img-a84d90c2ddb0.webp",
       "media_type": "image/webp",
       "bytes": 269642,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -981,7 +1122,7 @@
       "path": "images/img-8e36a9d8e118.webp",
       "media_type": "image/webp",
       "bytes": 235334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -989,7 +1130,7 @@
       "path": "images/img-c61502f6eec5.webp",
       "media_type": "image/webp",
       "bytes": 221728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -997,7 +1138,7 @@
       "path": "images/img-1624fd93c303.webp",
       "media_type": "image/webp",
       "bytes": 384636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1005,7 +1146,7 @@
       "path": "images/img-73bd54bb2765.webp",
       "media_type": "image/webp",
       "bytes": 274756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1013,7 +1154,7 @@
       "path": "images/img-dcb7ac0c10cc.webp",
       "media_type": "image/webp",
       "bytes": 273064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1021,7 +1162,7 @@
       "path": "images/img-afd700878ee5.webp",
       "media_type": "image/webp",
       "bytes": 263030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1029,7 +1170,7 @@
       "path": "images/img-cc2558f8eca2.webp",
       "media_type": "image/webp",
       "bytes": 296346,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1037,7 +1178,7 @@
       "path": "images/img-584c3494b50e.webp",
       "media_type": "image/webp",
       "bytes": 184086,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1045,7 +1186,7 @@
       "path": "images/img-8ac2b264cbe3.webp",
       "media_type": "image/webp",
       "bytes": 232750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1053,7 +1194,7 @@
       "path": "images/img-6d248818176e.webp",
       "media_type": "image/webp",
       "bytes": 231988,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1061,7 +1202,7 @@
       "path": "images/img-a1d1473b188f.webp",
       "media_type": "image/webp",
       "bytes": 286140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1069,7 +1210,7 @@
       "path": "images/img-5d9dec3036c8.webp",
       "media_type": "image/webp",
       "bytes": 244384,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1077,7 +1218,7 @@
       "path": "images/img-bf80423af7b6.webp",
       "media_type": "image/webp",
       "bytes": 147420,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1085,7 +1226,7 @@
       "path": "images/img-1026681d2632.webp",
       "media_type": "image/webp",
       "bytes": 270444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1093,7 +1234,7 @@
       "path": "images/img-01ad687784e0.webp",
       "media_type": "image/webp",
       "bytes": 142376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1101,7 +1242,7 @@
       "path": "images/img-50685972c97c.webp",
       "media_type": "image/webp",
       "bytes": 210722,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1109,7 +1250,7 @@
       "path": "images/img-d38afbed12df.webp",
       "media_type": "image/webp",
       "bytes": 132530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1117,7 +1258,7 @@
       "path": "images/img-d3510c10c7fd.webp",
       "media_type": "image/webp",
       "bytes": 189154,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1125,7 +1266,7 @@
       "path": "images/img-1c2de879754c.webp",
       "media_type": "image/webp",
       "bytes": 279846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1133,7 +1274,7 @@
       "path": "images/img-eee402a98a4b.webp",
       "media_type": "image/webp",
       "bytes": 164296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1141,7 +1282,7 @@
       "path": "images/img-60e2d0cfb3c9.webp",
       "media_type": "image/webp",
       "bytes": 295498,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1149,7 +1290,7 @@
       "path": "images/img-0f7b68d78e07.webp",
       "media_type": "image/webp",
       "bytes": 261072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1157,7 +1298,7 @@
       "path": "images/img-071f11b22456.webp",
       "media_type": "image/webp",
       "bytes": 271384,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1165,7 +1306,7 @@
       "path": "images/img-8531513dcc8e.webp",
       "media_type": "image/webp",
       "bytes": 208336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1173,7 +1314,7 @@
       "path": "images/img-0822cb968529.webp",
       "media_type": "image/webp",
       "bytes": 386704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1181,7 +1322,7 @@
       "path": "images/img-a67d829d9654.webp",
       "media_type": "image/webp",
       "bytes": 330894,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1189,7 +1330,7 @@
       "path": "images/img-e88650f548ba.webp",
       "media_type": "image/webp",
       "bytes": 372016,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1197,7 +1338,7 @@
       "path": "images/img-42bca0bb0d08.webp",
       "media_type": "image/webp",
       "bytes": 283156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1205,7 +1346,7 @@
       "path": "images/img-b5a57c64e054.webp",
       "media_type": "image/webp",
       "bytes": 203924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1213,7 +1354,7 @@
       "path": "images/img-9dac0514484c.webp",
       "media_type": "image/webp",
       "bytes": 216912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1221,7 +1362,7 @@
       "path": "images/img-75d7696eac06.webp",
       "media_type": "image/webp",
       "bytes": 188396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1229,7 +1370,7 @@
       "path": "images/img-6e54990694f2.webp",
       "media_type": "image/webp",
       "bytes": 191606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1237,7 +1378,7 @@
       "path": "images/img-359b1d2e824b.webp",
       "media_type": "image/webp",
       "bytes": 163818,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1245,7 +1386,7 @@
       "path": "images/img-b14b25dbe895.webp",
       "media_type": "image/webp",
       "bytes": 165522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1253,7 +1394,7 @@
       "path": "images/img-7c9dca0a664b.webp",
       "media_type": "image/webp",
       "bytes": 118904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1261,7 +1402,7 @@
       "path": "images/img-eb7ed3c37b2e.webp",
       "media_type": "image/webp",
       "bytes": 179582,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1269,7 +1410,7 @@
       "path": "images/img-022ad65df9f8.webp",
       "media_type": "image/webp",
       "bytes": 187000,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1277,7 +1418,7 @@
       "path": "images/img-717c3a7efaa6.webp",
       "media_type": "image/webp",
       "bytes": 179016,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1285,7 +1426,7 @@
       "path": "images/img-4a4a824b8733.webp",
       "media_type": "image/webp",
       "bytes": 173824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1293,7 +1434,7 @@
       "path": "images/img-4f0975e8cfc3.webp",
       "media_type": "image/webp",
       "bytes": 150772,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1301,7 +1442,7 @@
       "path": "images/img-247d8b2acfee.webp",
       "media_type": "image/webp",
       "bytes": 168400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1309,7 +1450,7 @@
       "path": "images/img-acbc07003b76.webp",
       "media_type": "image/webp",
       "bytes": 220062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1317,7 +1458,7 @@
       "path": "images/img-0f325e832b22.webp",
       "media_type": "image/webp",
       "bytes": 154478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1325,7 +1466,7 @@
       "path": "images/img-8b3fc3ee4d91.webp",
       "media_type": "image/webp",
       "bytes": 194934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1333,25 +1474,13 @@
       "path": "images/img-e6a26264d020.webp",
       "media_type": "image/webp",
       "bytes": 221704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/2200xxs%2853%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/2200xxs%2854%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/burns-or-usa/House%20Attached%20In%20Burns%20In%20Burns,%20Oregon,%20United%20States%20For%20Sale%20%2816366378%29_files/2200xxs%2855%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/18b89fb9-1eb5-4dca-bba6-8940be791c6b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1359,31 +1488,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 97,
-    "images_existing": 0,
-    "images_failed": 14,
+    "images_new": 3,
+    "images_existing": 97,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

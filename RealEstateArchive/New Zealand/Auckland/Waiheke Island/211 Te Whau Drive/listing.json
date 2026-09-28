@@ -7,7 +7,7 @@
     "listing_id": "17059108",
     "first_listed": "Feb 1",
     "last_updated": "February 1",
-    "retrieved_at": "2026-06-16T03:43:20.471461Z"
+    "retrieved_at": "2026-09-28T00:19:51.63972Z"
   },
   "location": {
     "address": "211 Te Whau Drive, Waiheke Island 1971, Auckland, New Zealand",
@@ -60,6 +60,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/2200xxs.jpg",
       "file": "004-5b3f7cf6.webp",
       "media_type": "image/webp",
@@ -68,7 +83,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/2200xxs.jpg",
@@ -79,7 +110,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/2200xxs.jpg",
@@ -90,7 +137,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/2200xxs.jpg",
@@ -101,7 +164,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/2200xxs.jpg",
@@ -112,39 +191,69 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-38d97340bc93.webp",
+      "media_type": "image/webp",
+      "bytes": 5058,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/380xxsxm.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-25fe4c4e2981.webp",
+      "media_type": "image/webp",
+      "bytes": 4094,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-16eb8bd07b7b.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-45d241241177.webp",
+      "media_type": "image/webp",
+      "bytes": 575150,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9631407edc84.webp",
+      "media_type": "image/webp",
+      "bytes": 367900,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-8bf3111828bb.webp",
+      "media_type": "image/webp",
+      "bytes": 526012,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-5deac0f49018.webp",
+      "media_type": "image/webp",
+      "bytes": 471554,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-2a58dc39854e.webp",
+      "media_type": "image/webp",
+      "bytes": 537180,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -309,6 +418,69 @@
     "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ac621c9f-3eb7-45b5-99f1-e06e53eb56e7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/02b95b58-79db-4357-a802-7b16d58d8615/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/a8dac29b-27e9-4773-9977-d711427d37cd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/47/f09a31b6-ee9f-4b45-980f-6f6b9b5139b9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/waiheke-island-new-zealand/A%20Private%20Waiheke%20Masterpiece%20Without%20In%20Waiheke%20Island,%20Auckland,%20New%20Zealand%20For%20Sale%20%2817059108%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/30/14/18/44/ead5dd7a-9f44-4f51-83a4-d66081fd9e8c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

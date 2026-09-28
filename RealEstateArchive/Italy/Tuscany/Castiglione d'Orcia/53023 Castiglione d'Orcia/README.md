@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/castiglione-d-orcia-italy/stunning-renovated-farmhouse-in-val-d-orcia-18482862
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:52Z
+- Retrieved: 2026-09-28T00:25:35Z
 - Address: 53023 Castiglione d'Orcia, Province of Siena, Tuscany, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=43.0074639,11.6169803
 - Coordinates: 43.01, 11.62
 - Site listing ID: 18482862
 - Listing reference: SIBL1M790
 - First listed: Jul 21
-- Images downloaded: 36
+- Images downloaded: 38
 - Videos downloaded: 0
 
 ## Property

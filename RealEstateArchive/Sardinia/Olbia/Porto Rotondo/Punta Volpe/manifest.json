@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:22:24.624238Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/luxurious-villa-with-helipad-and-sea-views-in-porto-rotondo-17810342",
     "canonical_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/luxurious-villa-with-helipad-and-sea-views-in-porto-rotondo-17810342",
@@ -9,13 +9,13 @@
     "listing_reference": "86050359",
     "first_listed": "Apr 30",
     "last_updated": "Yesterday",
-    "retrieved_at": "2026-08-28T00:29:16.837709Z"
+    "retrieved_at": "2026-09-28T00:22:24.242577Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2513,
-      "sha256": "ef77387e5a604b37d97b48a6c47274a1ce98aa67881170774aa62f5d67cca7ab"
+      "sha256": "f28d52497173d8157be2e84cf861d07bb6d2649ebe249efcc8e74984e337e27d"
     },
     {
       "path": "images/img-1a0a61b29f80.webp",
@@ -53,9 +53,19 @@
       "sha256": "f8413ce67aa5da2075d55850f1b37cec41c78dda68226e9e98b06d1586933355"
     },
     {
+      "path": "images/img-dddd47aaad22.webp",
+      "bytes": 6300,
+      "sha256": "2c1d12b5a8d1780a8813c22011fc90d49801f110c14c0299727226acc6d2e82f"
+    },
+    {
+      "path": "images/img-fbdb14c85138.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 16590,
-      "sha256": "9b41ee95fd0263106c04d628f2d840b6bd913c0e991c983b05579bb5adde008c"
+      "bytes": 50068,
+      "sha256": "e67a6b9d6f17f8a6a0248669b5ced204211f78af38c840c98d8fb0bfe1baa589"
     },
     {
       "path": "source.html",
@@ -71,17 +81,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/2200xxs.jpg",
       "path": "images/img-1a0a61b29f80.webp",
       "media_type": "image/webp",
       "bytes": 757438,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/12/56/34/5d2492f0-f2d5-4451-8e8e-283aede28ecf/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/12/56/34/5d2492f0-f2d5-4451-8e8e-283aede28ecf/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/12/56/34/5d2492f0-f2d5-4451-8e8e-283aede28ecf/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/12/56/34/5d2492f0-f2d5-4451-8e8e-283aede28ecf/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/12/56/34/5d2492f0-f2d5-4451-8e8e-283aede28ecf/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/12/56/34/5d2492f0-f2d5-4451-8e8e-283aede28ecf/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -89,13 +135,31 @@
       "path": "images/img-d0d155fc4b32.webp",
       "media_type": "image/webp",
       "bytes": 658454,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/44/42/69d36024-008f-4f21-8bde-8d522b662bc2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/44/42/69d36024-008f-4f21-8bde-8d522b662bc2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/44/42/69d36024-008f-4f21-8bde-8d522b662bc2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/44/42/69d36024-008f-4f21-8bde-8d522b662bc2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/44/42/69d36024-008f-4f21-8bde-8d522b662bc2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/44/42/69d36024-008f-4f21-8bde-8d522b662bc2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,13 +167,31 @@
       "path": "images/img-4e753f0f710b.webp",
       "media_type": "image/webp",
       "bytes": 790874,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/09/e6a0850e-fa24-487b-aa50-8eaa80caebdd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/09/e6a0850e-fa24-487b-aa50-8eaa80caebdd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/09/e6a0850e-fa24-487b-aa50-8eaa80caebdd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/09/e6a0850e-fa24-487b-aa50-8eaa80caebdd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/09/e6a0850e-fa24-487b-aa50-8eaa80caebdd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/09/e6a0850e-fa24-487b-aa50-8eaa80caebdd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -117,13 +199,31 @@
       "path": "images/img-8f36a29dde4a.webp",
       "media_type": "image/webp",
       "bytes": 775244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/19/6032db41-28a9-40bb-8f10-1cbd8a09736d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/19/6032db41-28a9-40bb-8f10-1cbd8a09736d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/19/6032db41-28a9-40bb-8f10-1cbd8a09736d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/19/6032db41-28a9-40bb-8f10-1cbd8a09736d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/19/6032db41-28a9-40bb-8f10-1cbd8a09736d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/19/6032db41-28a9-40bb-8f10-1cbd8a09736d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -131,25 +231,35 @@
       "path": "images/img-d3173ac0196f.webp",
       "media_type": "image/webp",
       "bytes": 745130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-dddd47aaad22.webp",
+      "media_type": "image/webp",
+      "bytes": 6300,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/porto-rotondo-italy/Luxurious%20Villa%20With%20Helipad%20And%20Sea%20Views%20In%20In%20Porto%20Rotondo,%20Olbia,%20Sardinia%20For%20Sale%20%2817810342%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "path": "images/img-fbdb14c85138.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/11/38/39/2d94ed26-17f0-4b44-87a5-1325f08c8e19/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -157,25 +267,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -183,13 +293,13 @@
       "path": "images/img-4b6612626cb4.webp",
       "media_type": "image/webp",
       "bytes": 532,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 7,
-    "images_existing": 0,
-    "images_failed": 10,
+    "images_new": 2,
+    "images_existing": 7,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

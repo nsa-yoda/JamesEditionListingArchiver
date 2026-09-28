@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220-ravenscliff-road-saint-davids-pa-19087-17842959
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:13Z
+- Retrieved: 2026-09-28T00:17:56Z
 - Address: 220 Ravenscliff Road , Saint Davids, PA 19087, Wayne, Pennsylvania, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.027255,-75.399248
 - Coordinates: 40.03, -75.4
@@ -10,8 +10,8 @@
 - Listing reference: 7YX6YY
 - First listed: May 5
 - Last updated: June 29
-- Images downloaded: 96
-- Videos downloaded: 0
+- Images downloaded: 100
+- Videos downloaded: 1
 
 ## Property
 

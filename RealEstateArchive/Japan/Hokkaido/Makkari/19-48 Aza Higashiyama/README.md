@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/niseko-japan/koa-super-villa-3-15633026
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:28Z
+- Retrieved: 2026-09-28T00:22:03Z
 - Address: 19-48 Aza Higashiyama, Makkari, Hokkaido, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=42.8421905,140.6723488
 - Coordinates: 42.84, 140.67
@@ -10,7 +10,7 @@
 - Listing reference: 4522172
 - First listed: May 15, 2025
 - Last updated: January 28
-- Images downloaded: 10
+- Images downloaded: 17
 
 ## Property
 

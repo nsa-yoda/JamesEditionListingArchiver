@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/toms-river-nj-usa/single-family-residence-in-toms-river-16299934
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:23Z
+- Retrieved: 2026-09-28T00:25:25Z
 - Address: 35 Magnolia Lane, Toms River, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.948837,-74.187328
 - Coordinates: 39.95, -74.19
@@ -10,7 +10,7 @@
 - Listing reference: 22521277
 - First listed: Oct 3, 2025
 - Last updated: June 23
-- Images downloaded: 191
+- Images downloaded: 198
 
 ## Property
 

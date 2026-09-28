@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/paramus-nj-usa/191-nimitz-road-paramus-nj-07652-18323188
 - Site: jamesedition
-- Retrieved: 2026-09-26T18:46:07Z
+- Retrieved: 2026-09-28T00:17:34Z
 - Address: 191 Nimitz Road, Paramus, NJ 07652, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.94439622,-74.05756663
 - Coordinates: 40.94, -74.06
@@ -10,7 +10,7 @@
 - Listing reference: e3bbgh
 - First listed: Jul 2
 - Last updated: July 7
-- Images downloaded: 55
+- Images downloaded: 58
 
 ## Property
 

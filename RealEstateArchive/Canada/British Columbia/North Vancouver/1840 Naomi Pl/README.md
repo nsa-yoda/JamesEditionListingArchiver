@@ -2,22 +2,22 @@
 
 - Source: https://www.jamesedition.com/real_estate/north-vancouver-canada/deep-cove-contemporary-designed-by-frits-de-vries-15920683
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:11Z
+- Retrieved: 2026-09-28T00:20:43Z
 - Address: 1840 Naomi Pl, North Vancouver, BC V7G 1Y1, British Columbia, Canada
 - Map: https://www.google.com/maps/search/?api=1&query=49.3230302,-122.9372253
 - Coordinates: 49.32, -122.94
 - Site listing ID: 15920683
 - First listed: Jul 11, 2025
 - Last updated: April 8
-- Images downloaded: 30
+- Images downloaded: 42
 - Videos downloaded: 0
 
 ## Property
 
 - Type: House
 - Availability: InStock
-- Price: $5,673,424
-- Price per area: $1,307
+- Price: $5,705,334
+- Price per area: $1,314
 - Bedrooms: 5
 - Bathrooms: 4
 - Interior area: 4,340 Sqft

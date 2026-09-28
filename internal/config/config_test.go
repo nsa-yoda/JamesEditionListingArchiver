@@ -62,3 +62,18 @@ func TestParseHTMLImport(t *testing.T) {
 		}
 	}
 }
+
+func TestParseVideosOnly(t *testing.T) {
+	cfg, err := Parse([]string{"-html-dir", "imports", "-videos-only"}, io.Discard)
+	if err != nil || !cfg.VideosOnly {
+		t.Fatalf("config = %#v, error = %v", cfg, err)
+	}
+	for _, args := range [][]string{
+		{"-html-dir", "imports", "-videos-only", "-assets-only"},
+		{"-html-dir", "imports", "-videos-only", "-metadata-only"},
+	} {
+		if _, err := Parse(args, io.Discard); err == nil {
+			t.Fatalf("expected conflict for %#v", args)
+		}
+	}
+}

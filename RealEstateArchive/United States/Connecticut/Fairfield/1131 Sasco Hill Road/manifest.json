@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:29.828464Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/residential-fairfield-16746545",
     "canonical_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/residential-fairfield-16746545",
@@ -9,13 +9,13 @@
     "listing_reference": "2-24084663",
     "first_listed": "Dec 4, 2025",
     "last_updated": "April 15",
-    "retrieved_at": "2026-06-19T08:34:04.854527Z"
+    "retrieved_at": "2026-09-28T00:24:29.39693Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2557,
-      "sha256": "e560f4ae8c6485be58330eb7ee23a48f2616b316c3c508c5a772d32588487d4a"
+      "sha256": "a085175dd09d5f02c173f2d11f04d77c1e4584fc013c748b0b5649b60efa1211"
     },
     {
       "path": "images/img-00c0e9e9211e.webp",
@@ -46,6 +46,11 @@
       "path": "images/img-29e3bc522baf.webp",
       "bytes": 183420,
       "sha256": "1b83e74105725a6f2626defaf6e61b7e3e29eb4d31d7f2303a5ef54190c164d8"
+    },
+    {
+      "path": "images/img-37d8dfda4b7a.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-4055dfde7ac7.svg",
@@ -103,6 +108,11 @@
       "sha256": "7beb0d6c2e21f1c630d259c267c38b2b5308c417d7b66e57889234769762b90c"
     },
     {
+      "path": "images/img-8ba1de88f417.webp",
+      "bytes": 5164,
+      "sha256": "a173984ca4dcb0926469e5507e2d29fb96627e0c124b82e069433c9a10c427e4"
+    },
+    {
       "path": "images/img-8c58bfec768d.webp",
       "bytes": 651324,
       "sha256": "551a8cda374538cfab88a456bd3e55746efda21b3b24136046cd10c172399c3d"
@@ -158,6 +168,11 @@
       "sha256": "e880d719d80e0648342fec881915c2f89ad61277fb165a31e27c615fe18b8346"
     },
     {
+      "path": "images/img-cea201caf206.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-d529fa5f5cc1.webp",
       "bytes": 169220,
       "sha256": "356ad5dca7bf93ed8644b82d1eed6f376db6a154dc906887c2ecbc69ec2f76fc"
@@ -189,8 +204,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 24495,
-      "sha256": "f8632a9e6bb3a4e9f521887a7b9c44c5a5426d2704d13819410a96644b56a211"
+      "bytes": 59176,
+      "sha256": "891622073f8d969904d120d915f169aa7598d4d0a9697124db5de623c87b5cce"
     },
     {
       "path": "source.html",
@@ -206,17 +221,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/2200xxs.jpg",
       "path": "images/img-8c58bfec768d.webp",
       "media_type": "image/webp",
       "bytes": 651324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -224,13 +275,31 @@
       "path": "images/img-c6c9e021f60b.webp",
       "media_type": "image/webp",
       "bytes": 547794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -238,13 +307,31 @@
       "path": "images/img-033ffab6f997.webp",
       "media_type": "image/webp",
       "bytes": 561062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -252,13 +339,31 @@
       "path": "images/img-57e2afd18adf.webp",
       "media_type": "image/webp",
       "bytes": 610362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -266,31 +371,67 @@
       "path": "images/img-c1fb5695bb98.webp",
       "media_type": "image/webp",
       "bytes": 309982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8ba1de88f417.webp",
+      "media_type": "image/webp",
+      "bytes": 5164,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-37d8dfda4b7a.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-cea201caf206.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/bb777838-65ce-405c-a22d-d8a387827904/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/046bfe86-aab6-438e-b1ac-dd8cad5d65e5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/a60ad9df-3bfd-44fd-bc4a-c58bc6cd3468/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/b8a25c9c-0b6d-4e50-9e75-21df243fd0ef/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -298,7 +439,7 @@
       "path": "images/img-cc7e84105579.webp",
       "media_type": "image/webp",
       "bytes": 105240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -306,7 +447,7 @@
       "path": "images/img-6cbf53c22cd0.webp",
       "media_type": "image/webp",
       "bytes": 71400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -314,7 +455,7 @@
       "path": "images/img-cc43166f449d.webp",
       "media_type": "image/webp",
       "bytes": 394984,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -322,7 +463,7 @@
       "path": "images/img-c5f6e42e8431.webp",
       "media_type": "image/webp",
       "bytes": 262510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -330,7 +471,7 @@
       "path": "images/img-1592b0db5afd.webp",
       "media_type": "image/webp",
       "bytes": 280064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -338,7 +479,7 @@
       "path": "images/img-56e35153179e.webp",
       "media_type": "image/webp",
       "bytes": 244906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -346,7 +487,7 @@
       "path": "images/img-fbb3b759d090.webp",
       "media_type": "image/webp",
       "bytes": 285758,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -354,7 +495,7 @@
       "path": "images/img-ae8a89b634c2.webp",
       "media_type": "image/webp",
       "bytes": 270152,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -362,7 +503,7 @@
       "path": "images/img-e7e56db0eb6f.webp",
       "media_type": "image/webp",
       "bytes": 256298,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -370,7 +511,7 @@
       "path": "images/img-74c51fcf2cd6.webp",
       "media_type": "image/webp",
       "bytes": 140490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -378,7 +519,7 @@
       "path": "images/img-e1324c87849d.webp",
       "media_type": "image/webp",
       "bytes": 166780,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -386,7 +527,7 @@
       "path": "images/img-60a725f477c0.webp",
       "media_type": "image/webp",
       "bytes": 314666,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -394,7 +535,7 @@
       "path": "images/img-00c0e9e9211e.webp",
       "media_type": "image/webp",
       "bytes": 166906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -402,7 +543,7 @@
       "path": "images/img-d766b4fbe97d.webp",
       "media_type": "image/webp",
       "bytes": 400114,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -410,7 +551,7 @@
       "path": "images/img-4147f6700ed9.webp",
       "media_type": "image/webp",
       "bytes": 371030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -418,7 +559,7 @@
       "path": "images/img-5b62d20f7af3.webp",
       "media_type": "image/webp",
       "bytes": 217038,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -426,7 +567,7 @@
       "path": "images/img-29e09fcde384.webp",
       "media_type": "image/webp",
       "bytes": 65520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -434,7 +575,7 @@
       "path": "images/img-55eb33c4edca.webp",
       "media_type": "image/webp",
       "bytes": 285206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -442,7 +583,7 @@
       "path": "images/img-a48c04458fec.webp",
       "media_type": "image/webp",
       "bytes": 170784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -450,7 +591,7 @@
       "path": "images/img-c152cf6d161d.webp",
       "media_type": "image/webp",
       "bytes": 281454,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -458,7 +599,7 @@
       "path": "images/img-e562a7534eba.webp",
       "media_type": "image/webp",
       "bytes": 264772,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -466,7 +607,7 @@
       "path": "images/img-29e3bc522baf.webp",
       "media_type": "image/webp",
       "bytes": 183420,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -474,7 +615,7 @@
       "path": "images/img-bca272d3ea7c.webp",
       "media_type": "image/webp",
       "bytes": 151720,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -482,7 +623,7 @@
       "path": "images/img-623734ba33a8.webp",
       "media_type": "image/webp",
       "bytes": 129042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -490,25 +631,13 @@
       "path": "images/img-d529fa5f5cc1.webp",
       "media_type": "image/webp",
       "bytes": 169220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/fairfield-ct-usa/Residential%20Fairfield%20In%20Fairfield,%20Connecticut,%20United%20States%20For%20Sale%20%2816746545%29_files/2200xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/41/f9f0af7e-e8ce-4c45-95c5-c62909522dc6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -516,7 +645,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -524,7 +653,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -532,7 +661,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -540,13 +669,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 34,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 34,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

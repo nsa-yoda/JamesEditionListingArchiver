@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:17.409285Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/single-family-residence-in-long-beach-twp-17041768",
     "canonical_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/single-family-residence-in-long-beach-twp-17041768",
@@ -9,13 +9,18 @@
     "listing_reference": "22602612",
     "first_listed": "Jan 30",
     "last_updated": "June 15",
-    "retrieved_at": "2026-06-19T08:42:01.239294Z"
+    "retrieved_at": "2026-09-28T00:25:16.951751Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 4868,
-      "sha256": "66f07393bfef63a2b993669cb368a7a56be8ae07cf9fca4913f71153c4b683dc"
+      "sha256": "9a480d67528aff2fda68ca97d2f22b08213ae93b381f80f35e144737e557c907"
+    },
+    {
+      "path": "images/img-05c579c99f60.webp",
+      "bytes": 5164,
+      "sha256": "8d2a6292d000b72740d687b66130824383ccea5f595b4f767b6b5bb8b5840bdb"
     },
     {
       "path": "images/img-069230844ae5.webp",
@@ -33,6 +38,11 @@
       "sha256": "394bee861498be47225078b185bebd3cc8825e8796d1eb021b774f95d73cb463"
     },
     {
+      "path": "images/img-1da0cc36fdde.webp",
+      "bytes": 4502,
+      "sha256": "0d6e0195b5227bdee22a1a821573795c8aa4d1c865244eeb5e8518b95a3826a5"
+    },
+    {
       "path": "images/img-260105d14e5c.webp",
       "bytes": 241580,
       "sha256": "1a042e521b30b7dc49fb9f104318cff746cf22b88cac8cfef5f03b72d23340b0"
@@ -46,6 +56,11 @@
       "path": "images/img-27320cdb4073.webp",
       "bytes": 106566,
       "sha256": "c38de5a65811523aa7af9cf6968c626a3532943215012956f71a252cc3f7f123"
+    },
+    {
+      "path": "images/img-29a9dfd525bf.png",
+      "bytes": 19021,
+      "sha256": "afb43919a416f20d1755c1c76d7cf61d6aab275a031cd086bcee835ef17c9130"
     },
     {
       "path": "images/img-2ead99589eb1.webp",
@@ -101,6 +116,11 @@
       "path": "images/img-420d4a57bfc5.webp",
       "bytes": 132008,
       "sha256": "c46feb0795ff64592bd4034e7d19d4284b4eda49c9204faa8935e8452da54da3"
+    },
+    {
+      "path": "images/img-42dcfc7b242d.webp",
+      "bytes": 3960,
+      "sha256": "e45a7719f37b9bd6be2cd0dd44d3a28495f0631d940665c8cce1261eab7dfc6f"
     },
     {
       "path": "images/img-45639317dda3.webp",
@@ -168,6 +188,11 @@
       "sha256": "17c7bf6c084f7f44a3b49375b1ead01ac57fdff378bcbac002275e0cf1963841"
     },
     {
+      "path": "images/img-6e7c85b9c333.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-6f45cfc02d6e.webp",
       "bytes": 188906,
       "sha256": "cebd8995a4e1050edf2b0b35541c5e47caff6b20e4738b48e80f1140d7e8c2ee"
@@ -181,6 +206,16 @@
       "path": "images/img-7121c9d6f634.webp",
       "bytes": 116526,
       "sha256": "1bcb464eb7a6559094fe19df9422912dd18f7880f114774e8d7ff7c542bc2221"
+    },
+    {
+      "path": "images/img-7364affd9ea6.webp",
+      "bytes": 4982,
+      "sha256": "231b188e1174a78a3496bf350e78978c76fd376197721040e123e972c74c2dc1"
+    },
+    {
+      "path": "images/img-73cf2b193b41.webp",
+      "bytes": 4438,
+      "sha256": "dc184c5affc54860330cbb60e71695b72cb562e599ee87e10776bab700c74acf"
     },
     {
       "path": "images/img-74bbb2796a83.webp",
@@ -243,9 +278,19 @@
       "sha256": "c9aa7f0343223422b321a75b2f1e2bbab5b5b105a11edcc45847069d40660059"
     },
     {
+      "path": "images/img-922c6fa5ae99.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-9283d5efd9a7.webp",
       "bytes": 195554,
       "sha256": "3ee52b05ffd803a3818d97f1376d141c6a4d42a5540cdca70789ec882ce26e6f"
+    },
+    {
+      "path": "images/img-938a74872433.webp",
+      "bytes": 4712,
+      "sha256": "eb776e78444bf2a45fa5f91943aeeb494749c70603b283a90617b1c25f1ebce9"
     },
     {
       "path": "images/img-94bea347ec43.webp",
@@ -268,6 +313,11 @@
       "sha256": "0ead014a5dc7249f01b7cd6cfd90ed13a5191af9847f2c6926bd839a9d942e6e"
     },
     {
+      "path": "images/img-9f355458ec50.webp",
+      "bytes": 6522,
+      "sha256": "32a8715c544d9871bd2abf0ee6d2a2ced34214eeada6f313918d8af1467311f5"
+    },
+    {
       "path": "images/img-a42508490179.webp",
       "bytes": 136792,
       "sha256": "9eff20a38bb7aa932ff5e21bc77754f08ff9acc5c2a4a3a669e96314fda7a382"
@@ -278,9 +328,19 @@
       "sha256": "ee413422f94758be3d0f9e56498b8f9d736d6bbf6e37162cad7d9f3423145854"
     },
     {
+      "path": "images/img-a7fb1e7ecf3d.webp",
+      "bytes": 6610,
+      "sha256": "ad11cfeb4190d3ff222f4c4552bca2bc49cb96fa2e8ab26f337ba2b1256da715"
+    },
+    {
       "path": "images/img-a8b845603aa1.webp",
       "bytes": 108928,
       "sha256": "f9f7af784b18d8e4690ffdcd01ced884d056577c7ae4bb171fde3ee07491855c"
+    },
+    {
+      "path": "images/img-aafa9534de3d.webp",
+      "bytes": 4248,
+      "sha256": "948e4e1ff3716f42ff34b57d3ebea7d1282c4beb6e16b9c5844da26a027e8028"
     },
     {
       "path": "images/img-ad127d8eed39.webp",
@@ -316,6 +376,11 @@
       "path": "images/img-c24a8a60495c.webp",
       "bytes": 73748,
       "sha256": "7c0f29fda16fd6faaf42ec1a85a9a460e368751ccec14de9609497c0f55a6eaa"
+    },
+    {
+      "path": "images/img-c54628cac9dd.webp",
+      "bytes": 4686,
+      "sha256": "e4ceecc2bb5ea01d2f7c770822c290b8f0ecfed23f691f5e0164720b70807bc5"
     },
     {
       "path": "images/img-c844156dcbbb.webp",
@@ -424,8 +489,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 48478,
-      "sha256": "f9547bea4823df908c581db7a7a6d0f5cbf6f071d6611fc015f0220b5d88fdcb"
+      "bytes": 85012,
+      "sha256": "ee189236dbc36a3c9dd6e24c4ef0a117ee31fc62a560927976e52a43ba98384c"
     },
     {
       "path": "source.html",
@@ -441,17 +506,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/2200xxs.jpg",
       "path": "images/img-886787b92b1f.webp",
       "media_type": "image/webp",
       "bytes": 312336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -459,13 +560,31 @@
       "path": "images/img-069230844ae5.webp",
       "media_type": "image/webp",
       "bytes": 375090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -473,13 +592,31 @@
       "path": "images/img-4d66afaef664.webp",
       "media_type": "image/webp",
       "bytes": 490336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -487,13 +624,31 @@
       "path": "images/img-2ead99589eb1.webp",
       "media_type": "image/webp",
       "bytes": 358188,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -501,91 +656,147 @@
       "path": "images/img-647233ec76e2.webp",
       "media_type": "image/webp",
       "bytes": 214110,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/M00000452.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-29a9dfd525bf.png",
+      "media_type": "image/png",
+      "bytes": 19021,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-05c579c99f60.webp",
+      "media_type": "image/webp",
+      "bytes": 5164,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-922c6fa5ae99.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a7fb1e7ecf3d.webp",
+      "media_type": "image/webp",
+      "bytes": 6610,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9f355458ec50.webp",
+      "media_type": "image/webp",
+      "bytes": 6522,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-938a74872433.webp",
+      "media_type": "image/webp",
+      "bytes": 4712,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1da0cc36fdde.webp",
+      "media_type": "image/webp",
+      "bytes": 4502,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-73cf2b193b41.webp",
+      "media_type": "image/webp",
+      "bytes": 4438,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%286%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7364affd9ea6.webp",
+      "media_type": "image/webp",
+      "bytes": 4982,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c54628cac9dd.webp",
+      "media_type": "image/webp",
+      "bytes": 4686,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-aafa9534de3d.webp",
+      "media_type": "image/webp",
+      "bytes": 4248,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/160x120xc%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-42dcfc7b242d.webp",
+      "media_type": "image/webp",
+      "bytes": 3960,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-6e7c85b9c333.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/13b571cb-ec23-478a-aa61-075995ae454c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/81ceb672-4aad-4f24-b52b-3cd8087d3a0e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/3b8bb2e7-8a3e-4650-b781-f55f3252f330/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/e2fe9d7c-a6ed-427f-ab6c-56ade30b49ce/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -593,7 +804,7 @@
       "path": "images/img-ff758fc8b75c.webp",
       "media_type": "image/webp",
       "bytes": 194960,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -601,7 +812,7 @@
       "path": "images/img-45639317dda3.webp",
       "media_type": "image/webp",
       "bytes": 269650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -609,7 +820,7 @@
       "path": "images/img-3f06ff965b71.webp",
       "media_type": "image/webp",
       "bytes": 209642,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -617,7 +828,7 @@
       "path": "images/img-3f0f5ad369b0.webp",
       "media_type": "image/webp",
       "bytes": 164856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -625,7 +836,7 @@
       "path": "images/img-bc4ae069c000.webp",
       "media_type": "image/webp",
       "bytes": 129316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -633,7 +844,7 @@
       "path": "images/img-460b32a758f9.webp",
       "media_type": "image/webp",
       "bytes": 307552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -641,7 +852,7 @@
       "path": "images/img-e1dfa8b3cca0.webp",
       "media_type": "image/webp",
       "bytes": 272758,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -649,7 +860,7 @@
       "path": "images/img-ae46d9962496.webp",
       "media_type": "image/webp",
       "bytes": 193002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -657,7 +868,7 @@
       "path": "images/img-d74d8b145238.webp",
       "media_type": "image/webp",
       "bytes": 131280,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -665,7 +876,7 @@
       "path": "images/img-6c78db405942.webp",
       "media_type": "image/webp",
       "bytes": 179010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -673,7 +884,7 @@
       "path": "images/img-8ed5069dcbb3.webp",
       "media_type": "image/webp",
       "bytes": 325540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -681,7 +892,7 @@
       "path": "images/img-d08b1e4d940d.webp",
       "media_type": "image/webp",
       "bytes": 105726,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -689,7 +900,7 @@
       "path": "images/img-9765a6d3b22c.webp",
       "media_type": "image/webp",
       "bytes": 317640,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -697,7 +908,7 @@
       "path": "images/img-41174f2bb3c4.webp",
       "media_type": "image/webp",
       "bytes": 123670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -705,7 +916,7 @@
       "path": "images/img-d7149a2532b2.webp",
       "media_type": "image/webp",
       "bytes": 125788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -713,7 +924,7 @@
       "path": "images/img-cde8fb42bdcf.webp",
       "media_type": "image/webp",
       "bytes": 180282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -721,7 +932,7 @@
       "path": "images/img-82694a1f8edb.webp",
       "media_type": "image/webp",
       "bytes": 189674,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -729,7 +940,7 @@
       "path": "images/img-6f45cfc02d6e.webp",
       "media_type": "image/webp",
       "bytes": 188906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -737,7 +948,7 @@
       "path": "images/img-ad127d8eed39.webp",
       "media_type": "image/webp",
       "bytes": 194716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -745,7 +956,7 @@
       "path": "images/img-30501adc3b72.webp",
       "media_type": "image/webp",
       "bytes": 200300,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -753,7 +964,7 @@
       "path": "images/img-5d73f0da1a51.webp",
       "media_type": "image/webp",
       "bytes": 97480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -761,7 +972,7 @@
       "path": "images/img-f2c602635597.webp",
       "media_type": "image/webp",
       "bytes": 68296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -769,7 +980,7 @@
       "path": "images/img-cb5811950561.webp",
       "media_type": "image/webp",
       "bytes": 156218,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -777,7 +988,7 @@
       "path": "images/img-07746f9b2257.webp",
       "media_type": "image/webp",
       "bytes": 160398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -785,7 +996,7 @@
       "path": "images/img-c844156dcbbb.webp",
       "media_type": "image/webp",
       "bytes": 93522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -793,7 +1004,7 @@
       "path": "images/img-3e3b5168c4ce.webp",
       "media_type": "image/webp",
       "bytes": 122156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -801,7 +1012,7 @@
       "path": "images/img-7b13fe62a0db.webp",
       "media_type": "image/webp",
       "bytes": 95566,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -809,7 +1020,7 @@
       "path": "images/img-74bbb2796a83.webp",
       "media_type": "image/webp",
       "bytes": 149052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -817,7 +1028,7 @@
       "path": "images/img-ce5059211792.webp",
       "media_type": "image/webp",
       "bytes": 49552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -825,7 +1036,7 @@
       "path": "images/img-260105d14e5c.webp",
       "media_type": "image/webp",
       "bytes": 241580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -833,7 +1044,7 @@
       "path": "images/img-e0ade33de270.webp",
       "media_type": "image/webp",
       "bytes": 139282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -841,7 +1052,7 @@
       "path": "images/img-33cf3cc3d8e9.webp",
       "media_type": "image/webp",
       "bytes": 135498,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -849,7 +1060,7 @@
       "path": "images/img-914c5b274e29.webp",
       "media_type": "image/webp",
       "bytes": 163758,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -857,7 +1068,7 @@
       "path": "images/img-dc90f139aa72.webp",
       "media_type": "image/webp",
       "bytes": 171014,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -865,7 +1076,7 @@
       "path": "images/img-8e7f838dec70.webp",
       "media_type": "image/webp",
       "bytes": 152950,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -873,7 +1084,7 @@
       "path": "images/img-3e46d7c6a60f.webp",
       "media_type": "image/webp",
       "bytes": 285934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -881,7 +1092,7 @@
       "path": "images/img-4f334d3ab034.webp",
       "media_type": "image/webp",
       "bytes": 152166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -889,7 +1100,7 @@
       "path": "images/img-a595bc9c91d4.webp",
       "media_type": "image/webp",
       "bytes": 199898,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -897,7 +1108,7 @@
       "path": "images/img-b1bc69638748.webp",
       "media_type": "image/webp",
       "bytes": 111944,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -905,7 +1116,7 @@
       "path": "images/img-8529d25cf5d7.webp",
       "media_type": "image/webp",
       "bytes": 130296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -913,7 +1124,7 @@
       "path": "images/img-52a5d21f88b1.webp",
       "media_type": "image/webp",
       "bytes": 135284,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -921,7 +1132,7 @@
       "path": "images/img-0f51d0d69510.webp",
       "media_type": "image/webp",
       "bytes": 82670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -929,7 +1140,7 @@
       "path": "images/img-816d7e5881e7.webp",
       "media_type": "image/webp",
       "bytes": 74982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -937,7 +1148,7 @@
       "path": "images/img-4c4f66e74d2e.webp",
       "media_type": "image/webp",
       "bytes": 86064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -945,7 +1156,7 @@
       "path": "images/img-c24a8a60495c.webp",
       "media_type": "image/webp",
       "bytes": 73748,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -953,7 +1164,7 @@
       "path": "images/img-e9b077e0a49d.webp",
       "media_type": "image/webp",
       "bytes": 160078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -961,7 +1172,7 @@
       "path": "images/img-9733c0112b53.webp",
       "media_type": "image/webp",
       "bytes": 128084,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -969,7 +1180,7 @@
       "path": "images/img-769ece90d888.webp",
       "media_type": "image/webp",
       "bytes": 106400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -977,7 +1188,7 @@
       "path": "images/img-ea45de559296.webp",
       "media_type": "image/webp",
       "bytes": 30274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -985,7 +1196,7 @@
       "path": "images/img-9283d5efd9a7.webp",
       "media_type": "image/webp",
       "bytes": 195554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -993,7 +1204,7 @@
       "path": "images/img-f9abea13f600.webp",
       "media_type": "image/webp",
       "bytes": 183820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1001,7 +1212,7 @@
       "path": "images/img-6f9b72121bf1.webp",
       "media_type": "image/webp",
       "bytes": 63864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1009,7 +1220,7 @@
       "path": "images/img-420d4a57bfc5.webp",
       "media_type": "image/webp",
       "bytes": 132008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1017,7 +1228,7 @@
       "path": "images/img-3bff395ae8e7.webp",
       "media_type": "image/webp",
       "bytes": 138096,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1025,7 +1236,7 @@
       "path": "images/img-27320cdb4073.webp",
       "media_type": "image/webp",
       "bytes": 106566,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1033,7 +1244,7 @@
       "path": "images/img-a42508490179.webp",
       "media_type": "image/webp",
       "bytes": 136792,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1041,7 +1252,7 @@
       "path": "images/img-ee9e5dfab4ec.webp",
       "media_type": "image/webp",
       "bytes": 64696,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1049,7 +1260,7 @@
       "path": "images/img-a8b845603aa1.webp",
       "media_type": "image/webp",
       "bytes": 108928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1057,7 +1268,7 @@
       "path": "images/img-4f453d7132f7.webp",
       "media_type": "image/webp",
       "bytes": 114408,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1065,7 +1276,7 @@
       "path": "images/img-85b728d1c537.webp",
       "media_type": "image/webp",
       "bytes": 60050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1073,7 +1284,7 @@
       "path": "images/img-ecda1c31b964.webp",
       "media_type": "image/webp",
       "bytes": 181186,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1081,7 +1292,7 @@
       "path": "images/img-78f764f88c28.webp",
       "media_type": "image/webp",
       "bytes": 162030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1089,7 +1300,7 @@
       "path": "images/img-ec0706875812.webp",
       "media_type": "image/webp",
       "bytes": 116458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1097,7 +1308,7 @@
       "path": "images/img-60d3f919bbc6.webp",
       "media_type": "image/webp",
       "bytes": 88608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1105,7 +1316,7 @@
       "path": "images/img-d2a0ea9bf817.webp",
       "media_type": "image/webp",
       "bytes": 184970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1113,7 +1324,7 @@
       "path": "images/img-9a3154412793.webp",
       "media_type": "image/webp",
       "bytes": 49856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1121,7 +1332,7 @@
       "path": "images/img-63c18f4bd8a0.webp",
       "media_type": "image/webp",
       "bytes": 117046,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1129,7 +1340,7 @@
       "path": "images/img-7121c9d6f634.webp",
       "media_type": "image/webp",
       "bytes": 116526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1137,7 +1348,7 @@
       "path": "images/img-d79ea258bdb5.webp",
       "media_type": "image/webp",
       "bytes": 278504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1145,7 +1356,7 @@
       "path": "images/img-bafe052aebaa.webp",
       "media_type": "image/webp",
       "bytes": 129826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1153,7 +1364,7 @@
       "path": "images/img-aece335450da.webp",
       "media_type": "image/webp",
       "bytes": 502356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1161,25 +1372,13 @@
       "path": "images/img-94bea347ec43.webp",
       "media_type": "image/webp",
       "bytes": 365966,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2816%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2817%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-beach-twp-nj-usa/Single%20Family%20Residence%20In%20Long%20Beach%20In%20Beach%20Haven,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817041768%29_files/2200xxs%2815%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/29/17/58/01/84750267-7627-4648-9eb6-9a70a609b127/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1187,7 +1386,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1195,7 +1394,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1203,7 +1402,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1211,13 +1410,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 81,
-    "images_existing": 0,
-    "images_failed": 21,
+    "images_new": 13,
+    "images_existing": 81,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

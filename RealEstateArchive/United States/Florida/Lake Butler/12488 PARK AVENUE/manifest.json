@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:31.082485Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/single-family-residence-in-windermere-17683369",
     "canonical_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/single-family-residence-in-windermere-17683369",
@@ -9,13 +9,13 @@
     "listing_reference": "O6395291",
     "first_listed": "Apr 15",
     "last_updated": "May 11",
-    "retrieved_at": "2026-08-28T00:31:47.629246Z"
+    "retrieved_at": "2026-09-28T00:25:30.684845Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3674,
-      "sha256": "dda555630be5a10c195f352fbfb2095dbcf693295d1251dc637ff27b88653356"
+      "sha256": "e49274a247103a519784197d255b709e83859056e7984a279e7fe0f68164c1ac"
     },
     {
       "path": "images/img-06437df26210.webp",
@@ -58,9 +58,19 @@
       "sha256": "b8a3663c4d4bfe528dd69643142782b9f9a54cbfdcb7910598227d51cdd900a3"
     },
     {
+      "path": "images/img-253e712271c5.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-2580e0bc8e40.webp",
       "bytes": 83728,
       "sha256": "079a26228f8fe41112b77c5ddaf375d862d85b9540d621e83d3773eb498dcea1"
+    },
+    {
+      "path": "images/img-2857ca5585ce.webp",
+      "bytes": 4526,
+      "sha256": "99c515709f2c47dfd850266e03e99a48abefe7f5400557e11fccc7d50a5748bb"
     },
     {
       "path": "images/img-2fcd70acc1c8.webp",
@@ -98,6 +108,11 @@
       "sha256": "d72b78a2915c34e54038cd3857b020a6d5d5425ca4bbc2c3ed478ac3c99a2adb"
     },
     {
+      "path": "images/img-3b67ea9bd39b.webp",
+      "bytes": 7354,
+      "sha256": "ade04d99b0944dd66943ea3694157382c315dcb80084b1994256f9c3f8c286e7"
+    },
+    {
       "path": "images/img-3c3413cff329.webp",
       "bytes": 505132,
       "sha256": "433c645bda7a58e1b3a3477a365dcba5c3f87d2a0f2aeba7980f5a34d6a8e5c0"
@@ -123,6 +138,11 @@
       "sha256": "4a4e0bf71c51492bbdc2ff6699a990e4595019ddc7f64c921f449428f44f3779"
     },
     {
+      "path": "images/img-44cbcb077c91.jpg",
+      "bytes": 611388,
+      "sha256": "b42d402b6939a719d3b80770161afbbc36b6b1a3c964fc91c7e21105de69023a"
+    },
+    {
       "path": "images/img-460bc0f48e28.webp",
       "bytes": 84518,
       "sha256": "91792817e042c33459ba69df8708e1719928a547ae6dd05f46549e1f8418a40e"
@@ -131,6 +151,11 @@
       "path": "images/img-4a0819e2eea4.webp",
       "bytes": 531366,
       "sha256": "ff6aba9c7ce3b4e030e11cd17f26002604e1b73f25213b4b147c83b9d9cb09e8"
+    },
+    {
+      "path": "images/img-4bc69f11a07e.webp",
+      "bytes": 4242,
+      "sha256": "1281daec13d2098e6214dab7cb993d922e02de9362b605b58bd7a1fc0d3f4c58"
     },
     {
       "path": "images/img-50df4fa52c49.webp",
@@ -156,6 +181,11 @@
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5a1cdd621895.webp",
+      "bytes": 3820,
+      "sha256": "ca19a42f0e7363abd0cd5c1d15677548b834cedb176e7d122b8610d736f75001"
     },
     {
       "path": "images/img-5ef61c1c12b7.webp",
@@ -198,6 +228,11 @@
       "sha256": "19a40ba30174befd23310d33901afd506e262212005b1c7763087492b496cb85"
     },
     {
+      "path": "images/img-65113db4ccb5.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-7767304abb05.webp",
       "bytes": 325634,
       "sha256": "cd48e44fb598afae69b5a46f9e04acf06648c43768ab0ca03c8450b199e36212"
@@ -213,6 +248,16 @@
       "sha256": "acbf6489bf2ee398543435c290ed42ff76c182701fad11a5e285b9a32a8e5436"
     },
     {
+      "path": "images/img-8ac4121c8631.webp",
+      "bytes": 7976,
+      "sha256": "3a4d2538fb992117cc9f9896461c991c73ce4c652e2f231597f2e42bae206fdc"
+    },
+    {
+      "path": "images/img-8ac791c4d0ca.webp",
+      "bytes": 2932,
+      "sha256": "323fa95da32c3c7123582da9f264b1d5220944c2ef4643ceea8d5aecdbcea327"
+    },
+    {
       "path": "images/img-929e73ef8d81.webp",
       "bytes": 83896,
       "sha256": "0dea35ad4a886a3a19563d62c124c544727d98d7c4ccee93465060e919d0577d"
@@ -226,6 +271,11 @@
       "path": "images/img-943501e5bf57.webp",
       "bytes": 97558,
       "sha256": "74066ca72f4a26cbb60a7b1bd73401aebd90d4eec836119751dbcd3028b9e9e0"
+    },
+    {
+      "path": "images/img-992f4b03f346.webp",
+      "bytes": 5312,
+      "sha256": "f87d18e09724c285561222834d31b7f8d732ed72b6daaa67c06893e44404108b"
     },
     {
       "path": "images/img-9c5bc01112bb.webp",
@@ -261,6 +311,11 @@
       "path": "images/img-b97d966ec098.webp",
       "bytes": 421152,
       "sha256": "3ab1e2adcecf2118f0533873d373d32a4bf6acdf508983440be1e1958cc3fe4f"
+    },
+    {
+      "path": "images/img-bc582959cb98.webp",
+      "bytes": 4404,
+      "sha256": "a67ef39c88d2c821536982152c0d2ffe4eed7272acd4dd063efce68e97da98f6"
     },
     {
       "path": "images/img-bdadb0498138.webp",
@@ -318,6 +373,11 @@
       "sha256": "736eca272c7a9a43c14752ed995e9bf5e67d21c63cec5ce998f42690d2980108"
     },
     {
+      "path": "images/img-d4db7cf38aca.webp",
+      "bytes": 4040,
+      "sha256": "1cf33560aab2367e75c7f17116c1061874d72ae63a57890cabef05fe7328f8f6"
+    },
+    {
       "path": "images/img-d5cc1702d4cd.webp",
       "bytes": 101456,
       "sha256": "7ecec92aca6235089b80320f49423bf0306a08c68a792a838ea99b9c880252f1"
@@ -348,6 +408,11 @@
       "sha256": "c027d3fa3437382da63bfce0b3a0126b0cbbc7f17d0f33ba92852394fb9cc6e5"
     },
     {
+      "path": "images/img-f42795d3c37f.webp",
+      "bytes": 3676,
+      "sha256": "00404f84f9a506d1acdbfb9b724ad0e22e678560fae19f12a60a6d268941483b"
+    },
+    {
       "path": "images/img-f5acf474fca3.webp",
       "bytes": 83140,
       "sha256": "80fdc52b3bca2e257dd9162cf9569a813a0a7b737f1bd5c017ace7c896e5665c"
@@ -364,8 +429,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 43809,
-      "sha256": "5be5b56d053fe7bf8bfde2228a7808fce8ebadc4dacf3c35ee34655f50fb3947"
+      "bytes": 83340,
+      "sha256": "9782e55def87d1511dedb73949887702ad64f9b46ea4ecae6a10d60e1875c04e"
     },
     {
       "path": "source.html",
@@ -381,17 +446,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/2200xxs.jpg",
       "path": "images/img-5578c935d97e.webp",
       "media_type": "image/webp",
       "bytes": 167310,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -399,13 +500,31 @@
       "path": "images/img-9c5bc01112bb.webp",
       "media_type": "image/webp",
       "bytes": 323882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -413,13 +532,31 @@
       "path": "images/img-63dfd9cbe8ca.webp",
       "media_type": "image/webp",
       "bytes": 598094,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -427,13 +564,31 @@
       "path": "images/img-3fab21ccaf4c.webp",
       "media_type": "image/webp",
       "bytes": 410454,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -441,91 +596,147 @@
       "path": "images/img-9d1bdb1bc9b6.webp",
       "media_type": "image/webp",
       "bytes": 121698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/M00000146.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-44cbcb077c91.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 611388,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-5a1cdd621895.webp",
+      "media_type": "image/webp",
+      "bytes": 3820,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-65113db4ccb5.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-992f4b03f346.webp",
+      "media_type": "image/webp",
+      "bytes": 5312,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-3b67ea9bd39b.webp",
+      "media_type": "image/webp",
+      "bytes": 7354,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-8ac4121c8631.webp",
+      "media_type": "image/webp",
+      "bytes": 7976,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-bc582959cb98.webp",
+      "media_type": "image/webp",
+      "bytes": 4404,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-4bc69f11a07e.webp",
+      "media_type": "image/webp",
+      "bytes": 4242,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%286%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-2857ca5585ce.webp",
+      "media_type": "image/webp",
+      "bytes": 4526,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f42795d3c37f.webp",
+      "media_type": "image/webp",
+      "bytes": 3676,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-8ac791c4d0ca.webp",
+      "media_type": "image/webp",
+      "bytes": 2932,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/160x120xc%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-d4db7cf38aca.webp",
+      "media_type": "image/webp",
+      "bytes": 4040,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-253e712271c5.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/3aa17cd0-e8df-4ddd-bedd-a0d12e652bd2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/fe909ffb-894c-404b-8bdc-e990575ec69b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/8639ab84-cccc-490f-a362-0234414350ea/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/1c938288-b818-4d0e-afcd-69134c438dbc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -533,7 +744,7 @@
       "path": "images/img-3cafb46f68a2.webp",
       "media_type": "image/webp",
       "bytes": 105982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -541,7 +752,7 @@
       "path": "images/img-d4b493a30a08.webp",
       "media_type": "image/webp",
       "bytes": 108666,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -549,7 +760,7 @@
       "path": "images/img-c8351fc2b4e4.webp",
       "media_type": "image/webp",
       "bytes": 91128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -557,7 +768,7 @@
       "path": "images/img-ff635224f6d1.webp",
       "media_type": "image/webp",
       "bytes": 66454,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -565,7 +776,7 @@
       "path": "images/img-460bc0f48e28.webp",
       "media_type": "image/webp",
       "bytes": 84518,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -573,7 +784,7 @@
       "path": "images/img-d0848423131d.webp",
       "media_type": "image/webp",
       "bytes": 86778,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -581,7 +792,7 @@
       "path": "images/img-3a14458c5d55.webp",
       "media_type": "image/webp",
       "bytes": 84122,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -589,7 +800,7 @@
       "path": "images/img-c4bacc7ff5c5.webp",
       "media_type": "image/webp",
       "bytes": 98670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -597,7 +808,7 @@
       "path": "images/img-2580e0bc8e40.webp",
       "media_type": "image/webp",
       "bytes": 83728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -605,7 +816,7 @@
       "path": "images/img-a822510e4fbc.webp",
       "media_type": "image/webp",
       "bytes": 104382,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -613,7 +824,7 @@
       "path": "images/img-617d41a91e81.webp",
       "media_type": "image/webp",
       "bytes": 98610,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -621,7 +832,7 @@
       "path": "images/img-a1f68ae3612c.webp",
       "media_type": "image/webp",
       "bytes": 102904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -629,7 +840,7 @@
       "path": "images/img-b8aa7176a7c8.webp",
       "media_type": "image/webp",
       "bytes": 70240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -637,7 +848,7 @@
       "path": "images/img-929e73ef8d81.webp",
       "media_type": "image/webp",
       "bytes": 83896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -645,7 +856,7 @@
       "path": "images/img-c914ab6372c4.webp",
       "media_type": "image/webp",
       "bytes": 147212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -653,7 +864,7 @@
       "path": "images/img-50df4fa52c49.webp",
       "media_type": "image/webp",
       "bytes": 108636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -661,7 +872,7 @@
       "path": "images/img-60764c14063f.webp",
       "media_type": "image/webp",
       "bytes": 114970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -669,7 +880,7 @@
       "path": "images/img-d5cc1702d4cd.webp",
       "media_type": "image/webp",
       "bytes": 101456,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -677,7 +888,7 @@
       "path": "images/img-f7d5ebee3214.webp",
       "media_type": "image/webp",
       "bytes": 73152,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -685,7 +896,7 @@
       "path": "images/img-7d3706d00190.webp",
       "media_type": "image/webp",
       "bytes": 111752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -693,7 +904,7 @@
       "path": "images/img-4382a73f46ee.webp",
       "media_type": "image/webp",
       "bytes": 111076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -701,7 +912,7 @@
       "path": "images/img-12a984319af6.webp",
       "media_type": "image/webp",
       "bytes": 108698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -709,7 +920,7 @@
       "path": "images/img-1f961560b47f.webp",
       "media_type": "image/webp",
       "bytes": 71780,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -717,7 +928,7 @@
       "path": "images/img-63ce714f4d91.webp",
       "media_type": "image/webp",
       "bytes": 102012,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -725,7 +936,7 @@
       "path": "images/img-3826014c3696.webp",
       "media_type": "image/webp",
       "bytes": 135194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -733,7 +944,7 @@
       "path": "images/img-5ef61c1c12b7.webp",
       "media_type": "image/webp",
       "bytes": 66752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -741,7 +952,7 @@
       "path": "images/img-2fcd70acc1c8.webp",
       "media_type": "image/webp",
       "bytes": 117298,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -749,7 +960,7 @@
       "path": "images/img-328f6cb17cae.webp",
       "media_type": "image/webp",
       "bytes": 235028,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -757,7 +968,7 @@
       "path": "images/img-92a915413106.webp",
       "media_type": "image/webp",
       "bytes": 185766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -765,7 +976,7 @@
       "path": "images/img-d1ba5f3758ae.webp",
       "media_type": "image/webp",
       "bytes": 364862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -773,7 +984,7 @@
       "path": "images/img-943501e5bf57.webp",
       "media_type": "image/webp",
       "bytes": 97558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -781,7 +992,7 @@
       "path": "images/img-f5acf474fca3.webp",
       "media_type": "image/webp",
       "bytes": 83140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -789,7 +1000,7 @@
       "path": "images/img-13649414b792.webp",
       "media_type": "image/webp",
       "bytes": 92866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -797,7 +1008,7 @@
       "path": "images/img-3462fcf15299.webp",
       "media_type": "image/webp",
       "bytes": 259068,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -805,7 +1016,7 @@
       "path": "images/img-62aa48e37b29.webp",
       "media_type": "image/webp",
       "bytes": 256478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -813,7 +1024,7 @@
       "path": "images/img-61e86e2622aa.webp",
       "media_type": "image/webp",
       "bytes": 101306,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -821,7 +1032,7 @@
       "path": "images/img-641b941eb2ce.webp",
       "media_type": "image/webp",
       "bytes": 236658,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -829,7 +1040,7 @@
       "path": "images/img-ef33552ab59e.webp",
       "media_type": "image/webp",
       "bytes": 333788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -837,7 +1048,7 @@
       "path": "images/img-b97d966ec098.webp",
       "media_type": "image/webp",
       "bytes": 421152,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -845,7 +1056,7 @@
       "path": "images/img-09cf5affbce3.webp",
       "media_type": "image/webp",
       "bytes": 413166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -853,7 +1064,7 @@
       "path": "images/img-c4c95123e32a.webp",
       "media_type": "image/webp",
       "bytes": 291554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -861,7 +1072,7 @@
       "path": "images/img-d86867c7cafc.webp",
       "media_type": "image/webp",
       "bytes": 286212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -869,7 +1080,7 @@
       "path": "images/img-bdd0bf72ada4.webp",
       "media_type": "image/webp",
       "bytes": 133468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -877,7 +1088,7 @@
       "path": "images/img-06437df26210.webp",
       "media_type": "image/webp",
       "bytes": 386768,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -885,7 +1096,7 @@
       "path": "images/img-bdadb0498138.webp",
       "media_type": "image/webp",
       "bytes": 509606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -893,7 +1104,7 @@
       "path": "images/img-345bf081611f.webp",
       "media_type": "image/webp",
       "bytes": 515556,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -901,7 +1112,7 @@
       "path": "images/img-445b774f0b15.webp",
       "media_type": "image/webp",
       "bytes": 340474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -909,7 +1120,7 @@
       "path": "images/img-eeed770e39b9.webp",
       "media_type": "image/webp",
       "bytes": 279148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -917,7 +1128,7 @@
       "path": "images/img-7767304abb05.webp",
       "media_type": "image/webp",
       "bytes": 325634,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -925,7 +1136,7 @@
       "path": "images/img-81fde5b6a18d.webp",
       "media_type": "image/webp",
       "bytes": 199368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -933,7 +1144,7 @@
       "path": "images/img-178f0a83c3b6.webp",
       "media_type": "image/webp",
       "bytes": 358158,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -941,7 +1152,7 @@
       "path": "images/img-3b0a1c71e1cc.webp",
       "media_type": "image/webp",
       "bytes": 159264,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -949,7 +1160,7 @@
       "path": "images/img-b71dfd556921.webp",
       "media_type": "image/webp",
       "bytes": 367098,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -957,7 +1168,7 @@
       "path": "images/img-c4234248d562.webp",
       "media_type": "image/webp",
       "bytes": 373322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -965,7 +1176,7 @@
       "path": "images/img-3c3413cff329.webp",
       "media_type": "image/webp",
       "bytes": 505132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -973,7 +1184,7 @@
       "path": "images/img-4a0819e2eea4.webp",
       "media_type": "image/webp",
       "bytes": 531366,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -981,7 +1192,7 @@
       "path": "images/img-bdc5864466cd.webp",
       "media_type": "image/webp",
       "bytes": 262608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -989,7 +1200,7 @@
       "path": "images/img-0a246ceb5bb5.webp",
       "media_type": "image/webp",
       "bytes": 384364,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -997,7 +1208,7 @@
       "path": "images/img-55d131de6ea2.webp",
       "media_type": "image/webp",
       "bytes": 602892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1005,7 +1216,7 @@
       "path": "images/img-f10a28c7ac70.webp",
       "media_type": "image/webp",
       "bytes": 411312,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1013,7 +1224,7 @@
       "path": "images/img-1b9f4a8aa7de.webp",
       "media_type": "image/webp",
       "bytes": 350644,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1021,7 +1232,7 @@
       "path": "images/img-515972cca673.webp",
       "media_type": "image/webp",
       "bytes": 202610,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1029,25 +1240,13 @@
       "path": "images/img-efc44bcb0fa1.webp",
       "media_type": "image/webp",
       "bytes": 320558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/2200xxs%2832%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/2200xxs%2833%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/windermere-fl-usa/Single%20Family%20Residence%20In%20Windermere%20In%20Lake%20Butler,%20Florida,%20United%20States%20For%20Sale%20%2817683369%29_files/2200xxs%2834%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/15/15/43/06/e7b47404-4852-4ac5-87f6-912ef59ef7a8/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1055,31 +1254,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 69,
-    "images_existing": 0,
-    "images_failed": 24,
+    "images_new": 13,
+    "images_existing": 69,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

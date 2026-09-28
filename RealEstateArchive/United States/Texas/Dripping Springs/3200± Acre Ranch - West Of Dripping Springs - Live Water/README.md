@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/dripping-springs-tx-usa/3200-acre-ranch-west-of-dripping-springs-live-water-views-and-wildlife-16767520
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:17Z
+- Retrieved: 2026-09-28T00:18:06Z
 - Address: Dripping Springs, TX, Texas, United States
 - Map: https://www.google.com/maps/search/?api=1&query=30.1902067,-98.0866781
 - Coordinates: 30.19, -98.09
 - Site listing ID: 16767520
 - First listed: Dec 8, 2025
 - Last updated: December 8, 2025
-- Images downloaded: 10
+- Images downloaded: 18
 - Videos downloaded: 0
 
 ## Property

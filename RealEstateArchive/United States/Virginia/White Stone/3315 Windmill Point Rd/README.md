@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/white-stone-va-usa/extraordinary-waterfront-estate-15814055
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:25Z
+- Retrieved: 2026-09-28T00:21:13Z
 - Address: 3315 Windmill Point Rd, White Stone, VA 22578, Virginia, United States
 - Map: https://www.google.com/maps/search/?api=1&query=37.6260227,-76.3301864
 - Coordinates: 37.63, -76.33
 - Site listing ID: 15814055
 - First listed: Jun 20, 2025
 - Last updated: June 20, 2025
-- Images downloaded: 10
+- Images downloaded: 13
 - Videos downloaded: 0
 
 ## Property

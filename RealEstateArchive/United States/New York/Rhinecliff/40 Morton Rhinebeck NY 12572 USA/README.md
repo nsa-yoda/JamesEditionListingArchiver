@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/rhinebeck-ny-usa/elegance-meets-nature-at-stonecrest-on-the-hudson-16280122
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:07:54Z
+- Retrieved: 2026-09-28T00:20:44Z
 - Address: 40 Morton Rhinebeck NY 12572 USA, Rhinecliff, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.9113374,-73.9533183
 - Coordinates: 41.91, -73.95
@@ -10,7 +10,7 @@
 - Listing reference: e198eb40-c561-4a49-9e00-57818bd12724
 - First listed: Sep 30, 2025
 - Last updated: June 12
-- Images downloaded: 45
+- Images downloaded: 51
 
 ## Property
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:50.64368Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/point-arena-usa/schooner-s-ranch-coastal-beauty-refined-living-17900235",
     "canonical_url": "https://www.jamesedition.com/real_estate/point-arena-usa/schooner-s-ranch-coastal-beauty-refined-living-17900235",
@@ -9,13 +9,13 @@
     "listing_reference": "C1-11385",
     "first_listed": "May 13",
     "last_updated": "Today",
-    "retrieved_at": "2026-06-19T08:34:21.173094Z"
+    "retrieved_at": "2026-09-28T00:24:50.041406Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2680,
-      "sha256": "6e5e7c28097e9fe7f206da7fe258ebcac7bf4c450f8f390a3d0b6827835d9581"
+      "sha256": "0eed4cec2e22e2592ed61a80ef14eabe0522ca1dce6555ecf5c3c42a8d0787d5"
     },
     {
       "path": "images/img-0044ff55dbce.webp",
@@ -168,6 +168,11 @@
       "sha256": "b1db6e58da236d8222dee83d7dca022a4d47ce89856efc0e77f17cef789adae7"
     },
     {
+      "path": "images/img-75a34fa46ad8.webp",
+      "bytes": 4298,
+      "sha256": "e9fdd5720c407f42a946aa02dcf01b8ea006f8ed982c3d570bdccd0a0e9178d8"
+    },
+    {
       "path": "images/img-75e8f7f7177d.webp",
       "bytes": 103538,
       "sha256": "9563fb54acb10f6fde8eacafa73886b36a534f63937280229aeb36805f5b2ed3"
@@ -211,6 +216,11 @@
       "path": "images/img-9a965390cc4f.webp",
       "bytes": 63198,
       "sha256": "aa0228591ded35d61afe64ee6c90829a09f7d846c8be8b30495e24afee40e724"
+    },
+    {
+      "path": "images/img-a799c847e8ab.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-af2f18d4cfc6.webp",
@@ -268,6 +278,11 @@
       "sha256": "d8e85c6b3998c3511816d6d2dcac88537c15955e6126f0b37bb2a50a671902ca"
     },
     {
+      "path": "images/img-cf8fdea08feb.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-d066273ca490.webp",
       "bytes": 114200,
       "sha256": "024eeac585d98dd56bad727e0416f05e14014f61885024edef10bfd776aaee0c"
@@ -309,8 +324,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 32192,
-      "sha256": "f9b0e51896cb95944a1c7f0e72deec93632399f725917745afc6b619159bc989"
+      "bytes": 67944,
+      "sha256": "89dbc5ff6bc9b64af44fad7a119baf1f948d5904e90e2da7e727ee787af089c1"
     },
     {
       "path": "source.html",
@@ -326,17 +341,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/2200xxs.jpg",
       "path": "images/img-e60babd8c7b0.webp",
       "media_type": "image/webp",
       "bytes": 119276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/6a6c15c6-505e-4a39-8095-a6afd6761cef/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/6a6c15c6-505e-4a39-8095-a6afd6761cef/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/6a6c15c6-505e-4a39-8095-a6afd6761cef/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/6a6c15c6-505e-4a39-8095-a6afd6761cef/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/6a6c15c6-505e-4a39-8095-a6afd6761cef/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/6a6c15c6-505e-4a39-8095-a6afd6761cef/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -344,13 +395,31 @@
       "path": "images/img-0b58f234b67a.webp",
       "media_type": "image/webp",
       "bytes": 176010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/b97a4419-63bd-4d06-8d8f-3403f79d4201/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/b97a4419-63bd-4d06-8d8f-3403f79d4201/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/b97a4419-63bd-4d06-8d8f-3403f79d4201/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/b97a4419-63bd-4d06-8d8f-3403f79d4201/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/b97a4419-63bd-4d06-8d8f-3403f79d4201/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/b97a4419-63bd-4d06-8d8f-3403f79d4201/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -358,13 +427,31 @@
       "path": "images/img-235e9a597007.webp",
       "media_type": "image/webp",
       "bytes": 124306,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/70a9f728-5cdf-4564-b6f5-7584720434eb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/70a9f728-5cdf-4564-b6f5-7584720434eb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/70a9f728-5cdf-4564-b6f5-7584720434eb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/70a9f728-5cdf-4564-b6f5-7584720434eb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/70a9f728-5cdf-4564-b6f5-7584720434eb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/70a9f728-5cdf-4564-b6f5-7584720434eb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -372,13 +459,31 @@
       "path": "images/img-271b8fe3c53c.webp",
       "media_type": "image/webp",
       "bytes": 77342,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/1fc46ebe-4030-4ab1-9a78-27c2e8ebe799/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/1fc46ebe-4030-4ab1-9a78-27c2e8ebe799/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/1fc46ebe-4030-4ab1-9a78-27c2e8ebe799/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/1fc46ebe-4030-4ab1-9a78-27c2e8ebe799/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/1fc46ebe-4030-4ab1-9a78-27c2e8ebe799/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/1fc46ebe-4030-4ab1-9a78-27c2e8ebe799/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -386,31 +491,67 @@
       "path": "images/img-04da0e41071e.webp",
       "media_type": "image/webp",
       "bytes": 89196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-75a34fa46ad8.webp",
+      "media_type": "image/webp",
+      "bytes": 4298,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-cf8fdea08feb.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-a799c847e8ab.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/6a6c15c6-505e-4a39-8095-a6afd6761cef/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/6a6c15c6-505e-4a39-8095-a6afd6761cef/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/b97a4419-63bd-4d06-8d8f-3403f79d4201/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/b97a4419-63bd-4d06-8d8f-3403f79d4201/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/70a9f728-5cdf-4564-b6f5-7584720434eb/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/70a9f728-5cdf-4564-b6f5-7584720434eb/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/1fc46ebe-4030-4ab1-9a78-27c2e8ebe799/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/1fc46ebe-4030-4ab1-9a78-27c2e8ebe799/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -418,7 +559,7 @@
       "path": "images/img-6ca275509ad4.webp",
       "media_type": "image/webp",
       "bytes": 138998,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -426,7 +567,7 @@
       "path": "images/img-bd85f72f542c.webp",
       "media_type": "image/webp",
       "bytes": 98674,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -434,7 +575,7 @@
       "path": "images/img-8c9439db6db3.webp",
       "media_type": "image/webp",
       "bytes": 96162,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -442,7 +583,7 @@
       "path": "images/img-43582c995361.webp",
       "media_type": "image/webp",
       "bytes": 75686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -450,7 +591,7 @@
       "path": "images/img-b2a2e9e44be6.webp",
       "media_type": "image/webp",
       "bytes": 79276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -458,7 +599,7 @@
       "path": "images/img-56d3d588f2bd.webp",
       "media_type": "image/webp",
       "bytes": 46928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -466,7 +607,7 @@
       "path": "images/img-500ec3694e81.webp",
       "media_type": "image/webp",
       "bytes": 66514,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -474,7 +615,7 @@
       "path": "images/img-b12b95e8b452.webp",
       "media_type": "image/webp",
       "bytes": 90470,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -482,7 +623,7 @@
       "path": "images/img-d6c9772c1159.webp",
       "media_type": "image/webp",
       "bytes": 73274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -490,7 +631,7 @@
       "path": "images/img-5b4f6bc72a42.webp",
       "media_type": "image/webp",
       "bytes": 90362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -498,7 +639,7 @@
       "path": "images/img-32725c244a33.webp",
       "media_type": "image/webp",
       "bytes": 58686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -506,7 +647,7 @@
       "path": "images/img-1fa0ff22eeb2.webp",
       "media_type": "image/webp",
       "bytes": 53584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -514,7 +655,7 @@
       "path": "images/img-06aed9535427.webp",
       "media_type": "image/webp",
       "bytes": 35890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -522,7 +663,7 @@
       "path": "images/img-f9b4779cf678.webp",
       "media_type": "image/webp",
       "bytes": 102462,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -530,7 +671,7 @@
       "path": "images/img-084ec9cba60f.webp",
       "media_type": "image/webp",
       "bytes": 56144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -538,7 +679,7 @@
       "path": "images/img-53d2e0c29e73.webp",
       "media_type": "image/webp",
       "bytes": 56072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -546,7 +687,7 @@
       "path": "images/img-b58254003790.webp",
       "media_type": "image/webp",
       "bytes": 59892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -554,7 +695,7 @@
       "path": "images/img-d066273ca490.webp",
       "media_type": "image/webp",
       "bytes": 114200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -562,7 +703,7 @@
       "path": "images/img-9929ca100861.webp",
       "media_type": "image/webp",
       "bytes": 42284,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -570,7 +711,7 @@
       "path": "images/img-96040d007a28.webp",
       "media_type": "image/webp",
       "bytes": 52884,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -578,7 +719,7 @@
       "path": "images/img-17ddb6054ba4.webp",
       "media_type": "image/webp",
       "bytes": 86724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -586,7 +727,7 @@
       "path": "images/img-9a965390cc4f.webp",
       "media_type": "image/webp",
       "bytes": 63198,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -594,7 +735,7 @@
       "path": "images/img-4a754e7d09bc.webp",
       "media_type": "image/webp",
       "bytes": 50204,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -602,7 +743,7 @@
       "path": "images/img-c683d3303575.webp",
       "media_type": "image/webp",
       "bytes": 56770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -610,7 +751,7 @@
       "path": "images/img-849c7ebaefa1.webp",
       "media_type": "image/webp",
       "bytes": 62806,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -618,7 +759,7 @@
       "path": "images/img-0044ff55dbce.webp",
       "media_type": "image/webp",
       "bytes": 151688,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -626,7 +767,7 @@
       "path": "images/img-e01e81fd60bf.webp",
       "media_type": "image/webp",
       "bytes": 101138,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -634,7 +775,7 @@
       "path": "images/img-b2181ec4bbc1.webp",
       "media_type": "image/webp",
       "bytes": 69916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -642,7 +783,7 @@
       "path": "images/img-85dc02c88e0f.webp",
       "media_type": "image/webp",
       "bytes": 74664,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -650,7 +791,7 @@
       "path": "images/img-da4a27c275af.webp",
       "media_type": "image/webp",
       "bytes": 64458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -658,7 +799,7 @@
       "path": "images/img-218f2296180d.webp",
       "media_type": "image/webp",
       "bytes": 45710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -666,7 +807,7 @@
       "path": "images/img-d594221f98e9.webp",
       "media_type": "image/webp",
       "bytes": 219330,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -674,7 +815,7 @@
       "path": "images/img-af2f18d4cfc6.webp",
       "media_type": "image/webp",
       "bytes": 87178,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -682,7 +823,7 @@
       "path": "images/img-1d22d46bc7d1.webp",
       "media_type": "image/webp",
       "bytes": 110282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -690,7 +831,7 @@
       "path": "images/img-5500d23dae87.webp",
       "media_type": "image/webp",
       "bytes": 85050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -698,7 +839,7 @@
       "path": "images/img-75e8f7f7177d.webp",
       "media_type": "image/webp",
       "bytes": 103538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -706,7 +847,7 @@
       "path": "images/img-55a3136dcc82.webp",
       "media_type": "image/webp",
       "bytes": 79126,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -714,7 +855,7 @@
       "path": "images/img-3c34c7e1b472.webp",
       "media_type": "image/webp",
       "bytes": 105540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -722,7 +863,7 @@
       "path": "images/img-88125e419c56.webp",
       "media_type": "image/webp",
       "bytes": 147750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -730,7 +871,7 @@
       "path": "images/img-229a3a5af2a2.webp",
       "media_type": "image/webp",
       "bytes": 146632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -738,7 +879,7 @@
       "path": "images/img-cb67a1ec68af.webp",
       "media_type": "image/webp",
       "bytes": 93102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -746,7 +887,7 @@
       "path": "images/img-60b0b99c74f8.webp",
       "media_type": "image/webp",
       "bytes": 189814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -754,7 +895,7 @@
       "path": "images/img-f7e1699dbcf0.webp",
       "media_type": "image/webp",
       "bytes": 202354,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -762,7 +903,7 @@
       "path": "images/img-7c659b90db68.webp",
       "media_type": "image/webp",
       "bytes": 135604,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -770,7 +911,7 @@
       "path": "images/img-58cb5a2e38d6.webp",
       "media_type": "image/webp",
       "bytes": 151632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -778,7 +919,7 @@
       "path": "images/img-be0caa2ed550.webp",
       "media_type": "image/webp",
       "bytes": 165512,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -786,7 +927,7 @@
       "path": "images/img-3347fc86f19d.webp",
       "media_type": "image/webp",
       "bytes": 100474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -794,25 +935,13 @@
       "path": "images/img-302024c9d80b.webp",
       "media_type": "image/webp",
       "bytes": 195636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/2200xxs%2810%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/2200xxs%2811%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/point-arena-usa/Schooner%E2%80%99s%20Ranch_%20Coastal%20Beauty,%20Refined%20In%20Gualala,%20California,%20United%20States%20For%20Sale%20%2817900235%29_files/2200xxs%2812%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/12/15/37/13/7f7b8690-1cfd-4bae-acbc-59ef7534a8ae/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -820,7 +949,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -828,7 +957,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -836,7 +965,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -844,7 +973,7 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -852,13 +981,13 @@
       "path": "images/img-c0b963805a60.webp",
       "media_type": "image/webp",
       "bytes": 1074,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 58,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 58,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -8,7 +8,7 @@
     "listing_reference": "GLS260054",
     "first_listed": "Jun 4",
     "last_updated": "June 4",
-    "retrieved_at": "2026-08-28T00:28:48.516387Z"
+    "retrieved_at": "2026-09-28T00:21:59.030028Z"
   },
   "location": {
     "address": "Invergare House, Glenarn Road, Rhu, Helensburgh, Scotland",
@@ -75,409 +75,460 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/2200xxs.jpg",
       "file": "img-2e1997f98ea2.webp",
       "media_type": "image/webp",
       "bytes": 456348,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/2200xxs.jpg",
       "file": "img-b75ac3495eac.webp",
       "media_type": "image/webp",
       "bytes": 486636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/2200xxs.jpg",
       "file": "img-4e1b58d8af40.webp",
       "media_type": "image/webp",
       "bytes": 121884,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/2200xxs.jpg",
       "file": "img-1dd704077066.webp",
       "media_type": "image/webp",
       "bytes": 183630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/2200xxs.jpg",
       "file": "img-c6416c703b75.webp",
       "media_type": "image/webp",
       "bytes": 181580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-1717e677bd82.webp",
+      "media_type": "image/webp",
+      "bytes": 5470,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-2943f581fdbd.webp",
+      "media_type": "image/webp",
+      "bytes": 8176,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-096409887411.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/63037cfa-cc72-4aa5-974c-a1a51decf228/je/2000xxs.jpg",
       "file": "img-dfeaf4fd9922.webp",
       "media_type": "image/webp",
       "bytes": 149742,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/b9fb7a99-25c7-4071-916c-96bd4a164113/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2000xxs%283%29.jpg",
       "file": "img-fb257b7c2d4f.webp",
       "media_type": "image/webp",
       "bytes": 138316,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/d32b5e0f-11ba-418b-85f1-fd2dfb20dd0b/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2000xxs%284%29.jpg",
       "file": "img-9d25b9e6983e.webp",
       "media_type": "image/webp",
       "bytes": 118496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/0e36aab7-0655-402b-94c7-ed3ece691695/je/2000xxs.jpg",
       "file": "img-420c60b85111.webp",
       "media_type": "image/webp",
       "bytes": 169616,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/478ee95d-291c-4ed7-ba09-fbdf44e85ea1/je/2000xxs.jpg",
       "file": "img-8b8c79e8c985.webp",
       "media_type": "image/webp",
       "bytes": 525692,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/1363f6bc-fae0-40e4-854f-35fede31a96a/je/2000xxs.jpg",
       "file": "img-5d5ae5e67a27.webp",
       "media_type": "image/webp",
       "bytes": 570042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/56a47245-98fb-4340-8e72-1a9b381a7a09/je/2000xxs.jpg",
       "file": "img-ddf9de5db587.webp",
       "media_type": "image/webp",
       "bytes": 618252,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/34e61012-1d98-4622-bc3d-ceb757d3ea7d/je/2000xxs.jpg",
       "file": "img-6853b5e7c9f4.webp",
       "media_type": "image/webp",
       "bytes": 528958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/23fd4a04-b58d-4b7e-aa38-80f6371040a2/je/2000xxs.jpg",
       "file": "img-92f162e0cde2.webp",
       "media_type": "image/webp",
       "bytes": 168058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/93b21c83-7b6b-412f-bf85-064441f848f9/je/2000xxs.jpg",
       "file": "img-6e7ee6b5ee12.webp",
       "media_type": "image/webp",
       "bytes": 152704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/396e21ba-624e-4c4f-8bac-e889cac65c30/je/2000xxs.jpg",
       "file": "img-e1cde2129bee.webp",
       "media_type": "image/webp",
       "bytes": 174060,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/17ae1809-64a7-4490-94d6-72a501a18edc/je/2000xxs.jpg",
       "file": "img-4028df4fc8ce.webp",
       "media_type": "image/webp",
       "bytes": 215268,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/df9fdfa6-ea05-486d-b485-654b96742b28/je/2000xxs.jpg",
       "file": "img-4de3ef8e57bc.webp",
       "media_type": "image/webp",
       "bytes": 87000,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/23a29c29-15de-4097-a0b7-7d47b12a46c8/je/2000xxs.jpg",
       "file": "img-3e5eefa5f3be.webp",
       "media_type": "image/webp",
       "bytes": 95190,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/08198a3e-6363-43fb-9655-63b8dc4ed14e/je/2000xxs.jpg",
       "file": "img-c683b76ccf58.webp",
       "media_type": "image/webp",
       "bytes": 135090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f1462a58-f77d-4019-99d2-dc1b9e549a40/je/2000xxs.jpg",
       "file": "img-69510c05176b.webp",
       "media_type": "image/webp",
       "bytes": 186966,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/23de84e3-ce81-4283-9b23-7a1b197366f6/je/2000xxs.jpg",
       "file": "img-2cd3d802cf62.webp",
       "media_type": "image/webp",
       "bytes": 129438,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/66cbff46-5e92-41d8-aac8-36f6c8b058f6/je/2000xxs.jpg",
       "file": "img-96349a9d9161.webp",
       "media_type": "image/webp",
       "bytes": 225656,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/57ce4702-85a0-41d3-811a-8747303cd315/je/2000xxs.jpg",
       "file": "img-50a18face402.webp",
       "media_type": "image/webp",
       "bytes": 119658,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/a1797b06-ca52-4c4e-a9e0-1eae15edb073/je/2000xxs.jpg",
       "file": "img-28d8d517be08.webp",
       "media_type": "image/webp",
       "bytes": 113240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/7426e4ba-c6f4-428a-8a82-c21729725be0/je/2000xxs.jpg",
       "file": "img-b530b7320d24.webp",
       "media_type": "image/webp",
       "bytes": 143932,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/9c6a387e-55e6-46b4-b250-a453b6bcc5e0/je/2000xxs.jpg",
       "file": "img-379430da4594.webp",
       "media_type": "image/webp",
       "bytes": 200756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/c190f60d-69d6-493e-9e09-be70bd870781/je/2000xxs.jpg",
       "file": "img-d72dd35fb4aa.webp",
       "media_type": "image/webp",
       "bytes": 144126,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/d4d92156-7558-4a6d-bddd-7fc94c1fe01f/je/2000xxs.jpg",
       "file": "img-33fdd915b488.webp",
       "media_type": "image/webp",
       "bytes": 143702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/32b97f0f-622c-468f-9e7c-db356d2955d1/je/2000xxs.jpg",
       "file": "img-b11074302062.webp",
       "media_type": "image/webp",
       "bytes": 127520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/3d5100fd-36bc-4a0f-a24c-4e9873b2bcd1/je/2000xxs.jpg",
       "file": "img-a7fb798363f0.webp",
       "media_type": "image/webp",
       "bytes": 118264,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/05ebfc36-2fd5-42a7-8f33-4afb686b040c/je/2000xxs.jpg",
       "file": "img-650d3096a4d1.webp",
       "media_type": "image/webp",
       "bytes": 115008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/65b4d230-cd1a-4060-922c-db0a1608ff5f/je/2000xxs.jpg",
       "file": "img-07bdf6d7149e.webp",
       "media_type": "image/webp",
       "bytes": 102826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/521f4b3a-8adf-46b2-a797-1ef01ab91ac8/je/2000xxs.jpg",
       "file": "img-ba4d2f9b15e1.webp",
       "media_type": "image/webp",
       "bytes": 178804,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/39a81782-760a-49fa-a868-c860dabd9ac4/je/2000xxs.jpg",
       "file": "img-4f4d1340e7a5.webp",
       "media_type": "image/webp",
       "bytes": 208082,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f9fd0136-6bf6-4f19-ba20-5fa1e29c8673/je/2000xxs.jpg",
       "file": "img-08047fa147f4.webp",
       "media_type": "image/webp",
       "bytes": 204536,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/75d78013-e1ed-480a-8ef0-bad76e2ebb48/je/2000xxs.jpg",
       "file": "img-433099b54e4c.webp",
       "media_type": "image/webp",
       "bytes": 169554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/cd18a21a-d818-4e19-ad44-b3ac38955c0c/je/2000xxs.jpg",
       "file": "img-f655ebdfaa5c.webp",
       "media_type": "image/webp",
       "bytes": 187576,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/6a7c4a67-00d8-4706-985f-cfa8c339b28c/je/2000xxs.jpg",
       "file": "img-eac3726735d9.webp",
       "media_type": "image/webp",
       "bytes": 193678,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/141e3e98-3cad-4017-890e-c64975d412dc/je/2000xxs.jpg",
       "file": "img-236703cdd34d.webp",
       "media_type": "image/webp",
       "bytes": 626860,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/1bdba5c9-f072-427f-a15d-d580921832f9/je/2000xxs.jpg",
       "file": "img-8fa8e0f02320.webp",
       "media_type": "image/webp",
       "bytes": 440654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/d9b803c1-ca08-4624-a852-47e2182cc1bb/je/2000xxs.jpg",
       "file": "img-f00a0cb636c5.webp",
       "media_type": "image/webp",
       "bytes": 601958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/0b7f10c5-0077-4001-bb19-697787dd3b5e/je/2000xxs.jpg",
       "file": "img-9045478c3d71.webp",
       "media_type": "image/webp",
       "bytes": 12530,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/agent_images/2025/02/21/04/28/23/0e66048f-4f6d-41f2-a96d-8f088344c6e5/je/80x80xc.jpg",
       "file": "img-2b698acb6c26.webp",
       "media_type": "image/webp",
       "bytes": 1084,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "metadata": {
@@ -675,6 +726,78 @@
     "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/2200xxs.jpg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/83a1d9f2-ef06-4e7f-acc8-b280d4126a79/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/f304bb58-0b81-414f-82ae-c4624955fd5a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/02b373c0-8bdf-4fa5-8073-e33592e2881c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/92bf0cad-9195-462b-aa0d-53ef33df2d84/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/united-kingdom/Invergare%20House,%20Glenarn%20Road,%20Rhu,%20Helensburgh%20In%20Rhu,%20Scotland%20For%20Sale%20%2818082515%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/38/bf9ff343-1001-4e07-af2f-de9d69064775/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 }

@@ -2,23 +2,23 @@
 
 - Source: https://www.jamesedition.com/real_estate/provo-ut-usa/one-of-the-greatest-estates-in-utah-16540065
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:32Z
+- Retrieved: 2026-09-28T00:23:19Z
 - Address: 5618 E South Fork Road, Provo, UT 84604, Utah, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.335292,-111.528919
 - Coordinates: 40.34, -111.53
 - Site listing ID: 16540065
 - Listing reference: LB7VME
 - First listed: Oct 30, 2025
-- Last updated: December 4, 2025
-- Images downloaded: 9
-- Videos downloaded: 0
+- Last updated: Yesterday
+- Images downloaded: 15
+- Videos downloaded: 1
 
 ## Property
 
 - Type: House
 - Availability: InStock
-- Price: $43,000,000
-- Price per area: $1,872
+- Price: $38,000,000
+- Price per area: $1,655
 - Bedrooms: 6
 - Bathrooms: 10
 - Interior area: 22,958 Sqft
@@ -36,7 +36,7 @@
 
 ## Description
 
-Inspired by the Lord of the Rings, designed by Michael Upwall and built by Magleby Construction, this estate is among the most remarkable in Utah. Nestled on 30 acres in the secluded South Fork of Provo Canyon, it is a property defined by privacy, scale, and artistry. The 23,000 sf main residence and the 6,200 sf guest house are thoughtfully positioned along a private pond accentuated by waterfalls and streams, creating a setting both serene and dramatic. The architecture blends stones quarried in Utah with reclaimed barn wood and massive timbers, giving the home a timeless mountain presence. Inside, the design is refined and modern with light walls, clean lines, and rich dark accents balanced by natural textures. Wall of glass open to sweeping views in every direction. Amenities elevate the estate to the level of a private retreat: indoor basketball and racquetball courts, a 50+-foot climbing wall, golf simulator, theater, game lounge, sauna, hot tub, and an outdoor pool and natural stone diving features into a pond. The large two-bedroom lake house and pond extend the experience with paddleboarding, fishing, rope swings, and evenings on the water. Expansive lawns can host gatherings of every size, while private trails connect directly to public lands. With the Provo River minutes away, Sundance Mountain Resort just 15 minutes from the gate, and Deer Valley’s East Village only 45 minutes from the property, the lifestyle here is without equal. Additional information can be provided to qualified buyers.
+Now offered at $38,000,000 following a significant price adjustment, this extraordinary estate presents a rare opportunity to acquire one of the finest private properties in the American West. Inspired by the Lord of the Rings, designed by Michael Upwall and built by Magleby Construction, this estate is among the most remarkable in Utah. Nestled on 30 acres in the secluded South Fork of Provo Canyon, it is a property defined by privacy, scale, and artistry. The 23,000 sf main residence and the 6,200 sf guest house are thoughtfully positioned along a private pond enhanced by waterfalls and streams, creating a setting both serene and dramatic. The architecture blends stones quarried in Utah with reclaimed barn wood and massive timbers, giving the home a timeless mountain presence. Inside, the design is refined and modern with light walls, clean lines, and rich dark accents balanced by natural textures. Walls of glass open to sweeping views in every direction. Amenities elevate the estate to the level of a private retreat: indoor basketball and racquetball courts, a 50+-foot climbing wall, golf simulator, theater, game lounge, sauna, hot tub, an outdoor pool, and natural stone diving platforms extending into the pond. The two-bedroom lake house and private pond extend the experience with paddleboarding, fishing, rope swings, and evenings on the water. Expansive lawns can host gatherings of every size, while private trails connect directly to public lands. With the Provo River minutes away, Sundance Mountain Resort just 15 minutes from the gate, and Deer Valley’s East Village only 45 minutes from the property, the lifestyle here is without equal. Additional information can be provided to qualified buyers.
 
 ## Features
 

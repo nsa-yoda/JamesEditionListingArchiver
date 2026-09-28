@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:23:07.544399Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/napa-ca-usa/napa-valley-modern-farmhouse-compound-18056467",
     "canonical_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/napa-valley-modern-farmhouse-compound-18056467",
@@ -9,13 +9,13 @@
     "listing_reference": "9EJ9YP",
     "first_listed": "Jun 1",
     "last_updated": "June 11",
-    "retrieved_at": "2026-08-28T00:29:23.354309Z"
+    "retrieved_at": "2026-09-28T00:22:48.015783Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3279,
-      "sha256": "37b32e6bcf540a822f66a7ce90de336159c8ef1e6f7cac9b89b40f9305f0fda4"
+      "bytes": 3280,
+      "sha256": "8a3c9e7fce607a4657622fa65341d562983a3490f2b60b61739e87a1e391aa18"
     },
     {
       "path": "images/img-01263a880295.webp",
@@ -26,6 +26,11 @@
       "path": "images/img-089727caa91e.webp",
       "bytes": 334760,
       "sha256": "f03f8ecaa56dd0a24449cbdf21da1e091da798444ed2cd19664c13522772a03f"
+    },
+    {
+      "path": "images/img-08bacc983608.webp",
+      "bytes": 4398,
+      "sha256": "74a02849c6ec19450070923363f703ad9517a3eb3db16faa7ed5efe05a7f4363"
     },
     {
       "path": "images/img-09db32269440.webp",
@@ -78,6 +83,11 @@
       "sha256": "12cf379880fd78fd19a68009a6d2ff503422479b7d12ed16583c6a7aa715f121"
     },
     {
+      "path": "images/img-29c3cc613f6e.webp",
+      "bytes": 4734,
+      "sha256": "2f48d8a0fa45fdb745b61eadc34f9fca48a81475d862f8c2ca1163037498958f"
+    },
+    {
       "path": "images/img-3293dafc2641.webp",
       "bytes": 474804,
       "sha256": "0f1bd8b7d194436dfd7a0474edfe8ca74cf0c17522181d63bed40994664dd6b6"
@@ -98,6 +108,16 @@
       "sha256": "815b7462001c10e9cfbbbac4ff29075a411c9176336de3170014f8e267a5fbb9"
     },
     {
+      "path": "images/img-391129ada305.webp",
+      "bytes": 7326,
+      "sha256": "a1527f8d07dddfb1679d3edb7077f163b70eb3474bbd4e7cb6433dda5989d0fa"
+    },
+    {
+      "path": "images/img-393e1d2bb904.webp",
+      "bytes": 5136,
+      "sha256": "3fe664c18bc7616ef1a18abd30b5ec6fa56a584d5958f6ddcb9e1e23ca40acc2"
+    },
+    {
       "path": "images/img-3dd39d26c277.webp",
       "bytes": 742058,
       "sha256": "a078b987a9e6beedb587a6db09c6f671fd1ddf346d8aa4f535efd010f57ebe12"
@@ -106,6 +126,11 @@
       "path": "images/img-3ff58fb55d4e.webp",
       "bytes": 123624,
       "sha256": "495bed59f46757f3b61d98829cbbee35714efadbefb3d86000fbaa43a06b84b7"
+    },
+    {
+      "path": "images/img-4031a905c451.webp",
+      "bytes": 5784,
+      "sha256": "4f4e28746adf248745c5e8fedf49aaa509f8ef1a5b76ecbda6469fdeb543fd22"
     },
     {
       "path": "images/img-41d2b6d131dc.webp",
@@ -126,6 +151,11 @@
       "path": "images/img-46ffd16380d5.webp",
       "bytes": 414902,
       "sha256": "df07c30b96eec5630a31e4886f58b3bc9a3ff3540eec71ad160b5b7824e2bfab"
+    },
+    {
+      "path": "images/img-47c87a69850f.webp",
+      "bytes": 5654,
+      "sha256": "0501a44ccfa064718dcb8953ece4744247159afe6ccc18c9dc5d4e8ef92a9b99"
     },
     {
       "path": "images/img-47c8a8330b7a.webp",
@@ -203,6 +233,11 @@
       "sha256": "c5c34feef3358de870d9423266a0334a04a169510f21eb050212c600c2f90558"
     },
     {
+      "path": "images/img-607f721abae6.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-64054a01fe91.webp",
       "bytes": 174656,
       "sha256": "8578016103cf3301fc5f05001f2ac58c9e8133bb9ad166f95f977e956d16b978"
@@ -216,6 +251,11 @@
       "path": "images/img-677568535655.webp",
       "bytes": 654048,
       "sha256": "3216e8dedeadaf5956b0e8dc2fcadcdb1606908f278cba6ec5c00379fa981e94"
+    },
+    {
+      "path": "images/img-6a455cc7ff70.webp",
+      "bytes": 5862,
+      "sha256": "73ced1cbd796e1ae4b86813f11eead62dc9bde9a8360c957e8422d846208216e"
     },
     {
       "path": "images/img-6da69db781c3.webp",
@@ -298,6 +338,11 @@
       "sha256": "41ea46f74e3cea4776e65db11c203ce05396beae287c3b079d78d9762ad0c9d9"
     },
     {
+      "path": "images/img-97a701aea384.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-98b578a5edb5.webp",
       "bytes": 212128,
       "sha256": "42d9ff761d8a9c7ca745b4313b9a325faf22ba2a53cc849f135728ac3d1e11a4"
@@ -306,6 +351,11 @@
       "path": "images/img-9a2dbeb77539.webp",
       "bytes": 277528,
       "sha256": "73638abf16d06d7db91db2b1e693f73cb5ba19cf3066d49ec2ee5d4f9f5bbe98"
+    },
+    {
+      "path": "images/img-9e11a9378cef.webp",
+      "bytes": 4776,
+      "sha256": "4e0ae742ee8ae99132dc05a663dbb13661de3e650feb21a7cd9b758261e2f84c"
     },
     {
       "path": "images/img-a43219d1acc7.webp",
@@ -358,6 +408,11 @@
       "sha256": "c24cf736039c24aca0ef9128707b638cd96b4ee127c8860a894980a6a600a137"
     },
     {
+      "path": "images/img-c25616737010.webp",
+      "bytes": 5908,
+      "sha256": "ed1a865258b1effb59536c90398563d0af5126b3b7efdeb11d0fdff75c832f20"
+    },
+    {
       "path": "images/img-c2ccc05046f5.webp",
       "bytes": 409006,
       "sha256": "87de4cc2ae79e1c0a484e2d1d02b1639d7d6e28feafd09bfeb6073431b5f2989"
@@ -386,6 +441,11 @@
       "path": "images/img-cb74ef4d2bdf.webp",
       "bytes": 117962,
       "sha256": "3570258957bc572bd2757ade1c8283cd7e3d474221aa56919f765b1d652c6b00"
+    },
+    {
+      "path": "images/img-cd3350189f0c.webp",
+      "bytes": 4216,
+      "sha256": "1a465410ae8b158817de8ab119016fcf0548675b5033d3802bbc72ce815cea41"
     },
     {
       "path": "images/img-ce061ce9da09.webp",
@@ -494,8 +554,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 47775,
-      "sha256": "2d73358b60b3ea42caeecb40515fd867818ad6d716f5acc509802e54345e6aaa"
+      "bytes": 78419,
+      "sha256": "ae8e8561f22bc0094ce9ae4eb210fa9f1ce495feee7933b1f2dd3bbe001a5c1a"
     },
     {
       "path": "source.html",
@@ -506,22 +566,72 @@
       "path": "source.url",
       "bytes": 100,
       "sha256": "af016889a9742b6c3eb6d4ff4a6616d9a375e6da236438b0cee6a0b01ed1a450"
+    },
+    {
+      "path": "videos/img-042e4b83539c.webp",
+      "bytes": 151892,
+      "sha256": "1de7e739083e9fd54824843e0944fb635b16022add067a106be7150fc878079b"
+    },
+    {
+      "path": "videos/vid-fce74d7d22ef.mp4",
+      "bytes": 139642225,
+      "sha256": "ac29ac727e60df1baab4f51dbe31e7484dd97e792fbd536d7a53859a9656e467"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6396157754112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-fce74d7d22ef.mp4",
+      "media_type": "video/mp4",
+      "bytes": 139642225,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/1040x620xc.jpg",
+      "poster_path": "videos/img-042e4b83539c.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/2200xxs.jpg",
       "path": "images/img-926f9f6b85c7.webp",
       "media_type": "image/webp",
       "bytes": 756754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/7908ac85-784f-42ce-b9a0-57ae95199132/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/7908ac85-784f-42ce-b9a0-57ae95199132/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/7908ac85-784f-42ce-b9a0-57ae95199132/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/7908ac85-784f-42ce-b9a0-57ae95199132/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/7908ac85-784f-42ce-b9a0-57ae95199132/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/7908ac85-784f-42ce-b9a0-57ae95199132/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -529,13 +639,25 @@
       "path": "images/img-5f4ddf730758.webp",
       "media_type": "image/webp",
       "bytes": 852322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/22516264-fab9-4899-9207-eb5c172caabb/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/22516264-fab9-4899-9207-eb5c172caabb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/22516264-fab9-4899-9207-eb5c172caabb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/22516264-fab9-4899-9207-eb5c172caabb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/22516264-fab9-4899-9207-eb5c172caabb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/22516264-fab9-4899-9207-eb5c172caabb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -543,13 +665,25 @@
       "path": "images/img-b8e73c23327e.webp",
       "media_type": "image/webp",
       "bytes": 924334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/e1700e69-87f6-41ca-a6b3-89b08283f5fd/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/e1700e69-87f6-41ca-a6b3-89b08283f5fd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/e1700e69-87f6-41ca-a6b3-89b08283f5fd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/e1700e69-87f6-41ca-a6b3-89b08283f5fd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/e1700e69-87f6-41ca-a6b3-89b08283f5fd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/e1700e69-87f6-41ca-a6b3-89b08283f5fd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -557,13 +691,25 @@
       "path": "images/img-d0214e4aaad7.webp",
       "media_type": "image/webp",
       "bytes": 704958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/a1b57370-7f87-4a8f-91c6-e0871ad12e44/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/a1b57370-7f87-4a8f-91c6-e0871ad12e44/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/a1b57370-7f87-4a8f-91c6-e0871ad12e44/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/a1b57370-7f87-4a8f-91c6-e0871ad12e44/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/a1b57370-7f87-4a8f-91c6-e0871ad12e44/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/a1b57370-7f87-4a8f-91c6-e0871ad12e44/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -571,85 +717,133 @@
       "path": "images/img-6e5b45a23ee8.webp",
       "media_type": "image/webp",
       "bytes": 864820,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-6a455cc7ff70.webp",
+      "media_type": "image/webp",
+      "bytes": 5862,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-97a701aea384.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-47c87a69850f.webp",
+      "media_type": "image/webp",
+      "bytes": 5654,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-391129ada305.webp",
+      "media_type": "image/webp",
+      "bytes": 7326,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-4031a905c451.webp",
+      "media_type": "image/webp",
+      "bytes": 5784,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c25616737010.webp",
+      "media_type": "image/webp",
+      "bytes": 5908,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-29c3cc613f6e.webp",
+      "media_type": "image/webp",
+      "bytes": 4734,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%286%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-9e11a9378cef.webp",
+      "media_type": "image/webp",
+      "bytes": 4776,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-08bacc983608.webp",
+      "media_type": "image/webp",
+      "bytes": 4398,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-cd3350189f0c.webp",
+      "media_type": "image/webp",
+      "bytes": 4216,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/160x120xc%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-393e1d2bb904.webp",
+      "media_type": "image/webp",
+      "bytes": 5136,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-607f721abae6.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/7908ac85-784f-42ce-b9a0-57ae95199132/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/7908ac85-784f-42ce-b9a0-57ae95199132/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/22516264-fab9-4899-9207-eb5c172caabb/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/22516264-fab9-4899-9207-eb5c172caabb/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/e1700e69-87f6-41ca-a6b3-89b08283f5fd/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/e1700e69-87f6-41ca-a6b3-89b08283f5fd/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/a1b57370-7f87-4a8f-91c6-e0871ad12e44/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/35/00/a1b57370-7f87-4a8f-91c6-e0871ad12e44/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -657,7 +851,7 @@
       "path": "images/img-1f19892b1478.webp",
       "media_type": "image/webp",
       "bytes": 671120,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -665,7 +859,7 @@
       "path": "images/img-46ffd16380d5.webp",
       "media_type": "image/webp",
       "bytes": 414902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -673,7 +867,7 @@
       "path": "images/img-489462141beb.webp",
       "media_type": "image/webp",
       "bytes": 370584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -681,7 +875,7 @@
       "path": "images/img-089727caa91e.webp",
       "media_type": "image/webp",
       "bytes": 334760,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -689,7 +883,7 @@
       "path": "images/img-c2ccc05046f5.webp",
       "media_type": "image/webp",
       "bytes": 409006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -697,7 +891,7 @@
       "path": "images/img-bb4e5cd7498e.webp",
       "media_type": "image/webp",
       "bytes": 266592,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -705,7 +899,7 @@
       "path": "images/img-441498fc2889.webp",
       "media_type": "image/webp",
       "bytes": 311020,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -713,7 +907,7 @@
       "path": "images/img-a8075b0785d9.webp",
       "media_type": "image/webp",
       "bytes": 298490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -721,7 +915,7 @@
       "path": "images/img-d27d2e799963.webp",
       "media_type": "image/webp",
       "bytes": 389784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -729,7 +923,7 @@
       "path": "images/img-198692c4bb63.webp",
       "media_type": "image/webp",
       "bytes": 339960,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -737,7 +931,7 @@
       "path": "images/img-d4c900721f67.webp",
       "media_type": "image/webp",
       "bytes": 317340,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -745,7 +939,7 @@
       "path": "images/img-83a6c467776c.webp",
       "media_type": "image/webp",
       "bytes": 308844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -753,7 +947,7 @@
       "path": "images/img-60209311fa0e.webp",
       "media_type": "image/webp",
       "bytes": 222138,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -761,7 +955,7 @@
       "path": "images/img-fb92f2feabe1.webp",
       "media_type": "image/webp",
       "bytes": 183666,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -769,7 +963,7 @@
       "path": "images/img-d8de1c49cfb0.webp",
       "media_type": "image/webp",
       "bytes": 258156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -777,7 +971,7 @@
       "path": "images/img-1eb935c9b578.webp",
       "media_type": "image/webp",
       "bytes": 263306,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -785,7 +979,7 @@
       "path": "images/img-fd95dec8ee53.webp",
       "media_type": "image/webp",
       "bytes": 172520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -793,7 +987,7 @@
       "path": "images/img-cb496f404171.webp",
       "media_type": "image/webp",
       "bytes": 184560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -801,7 +995,7 @@
       "path": "images/img-c00c0cb3ea4f.webp",
       "media_type": "image/webp",
       "bytes": 311478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -809,7 +1003,7 @@
       "path": "images/img-41d2b6d131dc.webp",
       "media_type": "image/webp",
       "bytes": 254464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -817,7 +1011,7 @@
       "path": "images/img-7f52e1547c56.webp",
       "media_type": "image/webp",
       "bytes": 220250,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -825,7 +1019,7 @@
       "path": "images/img-01263a880295.webp",
       "media_type": "image/webp",
       "bytes": 272504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -833,7 +1027,7 @@
       "path": "images/img-db78ae7a8955.webp",
       "media_type": "image/webp",
       "bytes": 299176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -841,7 +1035,7 @@
       "path": "images/img-32cd3ce1b080.webp",
       "media_type": "image/webp",
       "bytes": 272238,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -849,7 +1043,7 @@
       "path": "images/img-f61ac437c9ed.webp",
       "media_type": "image/webp",
       "bytes": 160698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -857,7 +1051,7 @@
       "path": "images/img-4e9e29f7f462.webp",
       "media_type": "image/webp",
       "bytes": 266264,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -865,7 +1059,7 @@
       "path": "images/img-134b0b6490e7.webp",
       "media_type": "image/webp",
       "bytes": 361840,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -873,7 +1067,7 @@
       "path": "images/img-5d151e19dc60.webp",
       "media_type": "image/webp",
       "bytes": 560990,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -881,7 +1075,7 @@
       "path": "images/img-56af1749d1e4.webp",
       "media_type": "image/webp",
       "bytes": 676798,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -889,7 +1083,7 @@
       "path": "images/img-677568535655.webp",
       "media_type": "image/webp",
       "bytes": 654048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -897,7 +1091,7 @@
       "path": "images/img-26b64fd1399a.webp",
       "media_type": "image/webp",
       "bytes": 411296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -905,7 +1099,7 @@
       "path": "images/img-47c8a8330b7a.webp",
       "media_type": "image/webp",
       "bytes": 485618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -913,7 +1107,7 @@
       "path": "images/img-c78dbebb9bc1.webp",
       "media_type": "image/webp",
       "bytes": 345882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -921,7 +1115,7 @@
       "path": "images/img-3293dafc2641.webp",
       "media_type": "image/webp",
       "bytes": 474804,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -929,7 +1123,7 @@
       "path": "images/img-669a3cc0537d.webp",
       "media_type": "image/webp",
       "bytes": 286590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -937,7 +1131,7 @@
       "path": "images/img-54e1dd63226c.webp",
       "media_type": "image/webp",
       "bytes": 165606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -945,7 +1139,7 @@
       "path": "images/img-f5d1d655b350.webp",
       "media_type": "image/webp",
       "bytes": 115442,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -953,7 +1147,7 @@
       "path": "images/img-c7b27204853b.webp",
       "media_type": "image/webp",
       "bytes": 160792,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -961,7 +1155,7 @@
       "path": "images/img-64054a01fe91.webp",
       "media_type": "image/webp",
       "bytes": 174656,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -969,7 +1163,7 @@
       "path": "images/img-9734c6636fa7.webp",
       "media_type": "image/webp",
       "bytes": 206052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -977,7 +1171,7 @@
       "path": "images/img-5fb63c04d076.webp",
       "media_type": "image/webp",
       "bytes": 160472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -985,7 +1179,7 @@
       "path": "images/img-467e06c79f12.webp",
       "media_type": "image/webp",
       "bytes": 157056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -993,7 +1187,7 @@
       "path": "images/img-7a0c735f87de.webp",
       "media_type": "image/webp",
       "bytes": 226832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1001,7 +1195,7 @@
       "path": "images/img-54870baff156.webp",
       "media_type": "image/webp",
       "bytes": 216506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1009,7 +1203,7 @@
       "path": "images/img-5ab9f859f3f9.webp",
       "media_type": "image/webp",
       "bytes": 89504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1017,7 +1211,7 @@
       "path": "images/img-a6e53cfde637.webp",
       "media_type": "image/webp",
       "bytes": 220652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1025,7 +1219,7 @@
       "path": "images/img-6da69db781c3.webp",
       "media_type": "image/webp",
       "bytes": 162378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1033,7 +1227,7 @@
       "path": "images/img-cf428bea60ba.webp",
       "media_type": "image/webp",
       "bytes": 292356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1041,7 +1235,7 @@
       "path": "images/img-f697cd619905.webp",
       "media_type": "image/webp",
       "bytes": 164228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1049,7 +1243,7 @@
       "path": "images/img-3ff58fb55d4e.webp",
       "media_type": "image/webp",
       "bytes": 123624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1057,7 +1251,7 @@
       "path": "images/img-dd3860e49cd2.webp",
       "media_type": "image/webp",
       "bytes": 325218,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1065,7 +1259,7 @@
       "path": "images/img-e1415ce63eda.webp",
       "media_type": "image/webp",
       "bytes": 131686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1073,7 +1267,7 @@
       "path": "images/img-c91256c240fd.webp",
       "media_type": "image/webp",
       "bytes": 375510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1081,7 +1275,7 @@
       "path": "images/img-38f45f5967a6.webp",
       "media_type": "image/webp",
       "bytes": 549484,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1089,7 +1283,7 @@
       "path": "images/img-a4911d22a49f.webp",
       "media_type": "image/webp",
       "bytes": 238324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1097,7 +1291,7 @@
       "path": "images/img-8675303fd043.webp",
       "media_type": "image/webp",
       "bytes": 420778,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1105,7 +1299,7 @@
       "path": "images/img-afbfe8a1d9cd.webp",
       "media_type": "image/webp",
       "bytes": 319986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1113,7 +1307,7 @@
       "path": "images/img-cb74ef4d2bdf.webp",
       "media_type": "image/webp",
       "bytes": 117962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1121,7 +1315,7 @@
       "path": "images/img-145f5da28c24.webp",
       "media_type": "image/webp",
       "bytes": 1093362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1129,7 +1323,7 @@
       "path": "images/img-a6c03d4ab64e.webp",
       "media_type": "image/webp",
       "bytes": 831902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1137,7 +1331,7 @@
       "path": "images/img-0e30eb8a905a.webp",
       "media_type": "image/webp",
       "bytes": 735032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1145,7 +1339,7 @@
       "path": "images/img-eddcd8a11e93.webp",
       "media_type": "image/webp",
       "bytes": 528580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1153,7 +1347,7 @@
       "path": "images/img-87a33ce41d56.webp",
       "media_type": "image/webp",
       "bytes": 473066,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1161,7 +1355,7 @@
       "path": "images/img-a43219d1acc7.webp",
       "media_type": "image/webp",
       "bytes": 682904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1169,7 +1363,7 @@
       "path": "images/img-9a2dbeb77539.webp",
       "media_type": "image/webp",
       "bytes": 277528,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1177,7 +1371,7 @@
       "path": "images/img-8f4ee194f44c.webp",
       "media_type": "image/webp",
       "bytes": 313064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1185,7 +1379,7 @@
       "path": "images/img-98b578a5edb5.webp",
       "media_type": "image/webp",
       "bytes": 212128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1193,7 +1387,7 @@
       "path": "images/img-ce061ce9da09.webp",
       "media_type": "image/webp",
       "bytes": 385418,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1201,7 +1395,7 @@
       "path": "images/img-f7b09c41eb38.webp",
       "media_type": "image/webp",
       "bytes": 743048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1209,7 +1403,7 @@
       "path": "images/img-4dbf3e334154.webp",
       "media_type": "image/webp",
       "bytes": 693160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1217,7 +1411,7 @@
       "path": "images/img-b5accee9d2e1.webp",
       "media_type": "image/webp",
       "bytes": 134248,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1225,7 +1419,7 @@
       "path": "images/img-21b58f6193c4.webp",
       "media_type": "image/webp",
       "bytes": 293042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1233,7 +1427,7 @@
       "path": "images/img-5b7f7bbd4103.webp",
       "media_type": "image/webp",
       "bytes": 201168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1241,7 +1435,7 @@
       "path": "images/img-71dd5d97af15.webp",
       "media_type": "image/webp",
       "bytes": 903830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1249,7 +1443,7 @@
       "path": "images/img-772a08eeec0b.webp",
       "media_type": "image/webp",
       "bytes": 635982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1257,7 +1451,7 @@
       "path": "images/img-09db32269440.webp",
       "media_type": "image/webp",
       "bytes": 523200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1265,7 +1459,7 @@
       "path": "images/img-3dd39d26c277.webp",
       "media_type": "image/webp",
       "bytes": 742058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1273,7 +1467,7 @@
       "path": "images/img-dfd676543b53.webp",
       "media_type": "image/webp",
       "bytes": 636018,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1281,7 +1475,7 @@
       "path": "images/img-76b0e3b9b3c0.webp",
       "media_type": "image/webp",
       "bytes": 1000478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1289,7 +1483,7 @@
       "path": "images/img-efe7b2e9eb04.webp",
       "media_type": "image/webp",
       "bytes": 812104,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1297,7 +1491,7 @@
       "path": "images/img-f089438e668d.webp",
       "media_type": "image/webp",
       "bytes": 880480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1305,7 +1499,7 @@
       "path": "images/img-f04e0a429459.webp",
       "media_type": "image/webp",
       "bytes": 741924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1313,7 +1507,7 @@
       "path": "images/img-93a4c2403ada.webp",
       "media_type": "image/webp",
       "bytes": 987566,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1321,7 +1515,7 @@
       "path": "images/img-95e176381dde.webp",
       "media_type": "image/webp",
       "bytes": 469766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1329,7 +1523,7 @@
       "path": "images/img-4ae502e708ea.webp",
       "media_type": "image/webp",
       "bytes": 604376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1337,7 +1531,7 @@
       "path": "images/img-3570a8cb7382.webp",
       "media_type": "image/webp",
       "bytes": 160040,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1345,7 +1539,7 @@
       "path": "images/img-1e8d27dbb399.webp",
       "media_type": "image/webp",
       "bytes": 1097580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1353,7 +1547,7 @@
       "path": "images/img-d3aa158c9934.webp",
       "media_type": "image/webp",
       "bytes": 592134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1361,13 +1555,13 @@
       "path": "images/img-8fd086ce541d.webp",
       "media_type": "image/webp",
       "bytes": 97026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/napa-ca-usa/Napa%20Valley%20Modern%20Farmhouse%20Compound%20In%20Napa,%20California,%20United%20States%20For%20Sale%20%2818056467%29_files/2200xxsxm%2893%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/09/26/51/9d62d23f-3f9b-4658-8c88-6c9645d8b0b7/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1375,32 +1569,32 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 95,
-    "images_existing": 0,
-    "images_failed": 21,
-    "videos_new": 0,
+    "images_new": 12,
+    "images_existing": 95,
+    "images_failed": 24,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/san-clemente-ca-usa/the-cotton-point-estate-a-rare-three-acre-oceanfront-compound-above-the-pacific-17398344
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:38Z
+- Retrieved: 2026-09-28T00:25:37Z
 - Address: 4130 Calle Isabella, San Clemente, CA 92672, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=33.3892618,-117.5959544
 - Coordinates: 33.39, -117.6
 - Site listing ID: 17398344
 - First listed: Mar 12
 - Last updated: March 16
-- Images downloaded: 10
+- Images downloaded: 13
 
 ## Property
 

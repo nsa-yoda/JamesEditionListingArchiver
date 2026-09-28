@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/fairfield-ct-usa/residential-fairfield-16746545
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:04Z
+- Retrieved: 2026-09-28T00:24:29Z
 - Address: 1131 Sasco Hill Road, Fairfield, Connecticut, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.1226534,-73.27306639999999
 - Coordinates: 41.12, -73.27
@@ -10,7 +10,7 @@
 - Listing reference: 2-24084663
 - First listed: Dec 4, 2025
 - Last updated: April 15
-- Images downloaded: 34
+- Images downloaded: 37
 
 ## Property
 

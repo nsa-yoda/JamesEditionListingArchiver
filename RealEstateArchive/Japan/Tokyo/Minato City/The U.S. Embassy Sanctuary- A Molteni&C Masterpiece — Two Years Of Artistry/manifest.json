@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:26:19.235212Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/minato-city-japan/the-u-s-embassy-sanctuary-a-molteni-c-masterpiece-two-years-of-artistry-ready-for-tonight-17661569",
     "canonical_url": "https://www.jamesedition.com/real_estate/minato-city-japan/the-u-s-embassy-sanctuary-a-molteni-c-masterpiece-two-years-of-artistry-ready-for-tonight-17661569",
@@ -8,13 +8,13 @@
     "listing_id": "17661569",
     "first_listed": "Apr 13",
     "last_updated": "Yesterday",
-    "retrieved_at": "2026-08-28T00:32:01.460143Z"
+    "retrieved_at": "2026-09-28T00:26:17.514711Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 4877,
-      "sha256": "696db779e7860dfd5f207d2bf95629487cd0c204ccbb7ac32328c05c35ab7b37"
+      "sha256": "5567d10b8a88edd1060a10dc4e9618069867c964b70ade7de1bebcf1a2cb88b4"
     },
     {
       "path": "images/img-09cd38e17650.webp",
@@ -27,9 +27,19 @@
       "sha256": "8b8a70ca82c7682eb425c0498b123c28230d040b0ea416f1499a5d067aa936d5"
     },
     {
+      "path": "images/img-160eded6836c.webp",
+      "bytes": 131464,
+      "sha256": "bd80d2bdb8a66bdfa1fc73b3a4f05f1f5f4894fd7ce4bc7c64d566c2bf34375b"
+    },
+    {
       "path": "images/img-20ade8335c8f.webp",
       "bytes": 1042,
       "sha256": "77f37f341d2f0527a6c78049990325e7c46c70b4183a83568c0151e78e71a824"
+    },
+    {
+      "path": "images/img-2c39d25040a4.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-31fdd7f80343.webp",
@@ -42,9 +52,24 @@
       "sha256": "f7d364d21a1262dd3a52ca77b3296282b6c20ece71255fed5d72d13623dfccfc"
     },
     {
+      "path": "images/img-371012ee5945.webp",
+      "bytes": 215038,
+      "sha256": "b763f7771fd57948d63682dd6cd5401142b96f827ec8cc4dcf3cf871d2f00853"
+    },
+    {
       "path": "images/img-42a61866f0c9.webp",
       "bytes": 52626,
       "sha256": "c4fd21f66e5d7ed7a9481402f62ee69c17ffaa0bc6461ccd26f0435f1451ebcc"
+    },
+    {
+      "path": "images/img-42d379942d32.webp",
+      "bytes": 215038,
+      "sha256": "b763f7771fd57948d63682dd6cd5401142b96f827ec8cc4dcf3cf871d2f00853"
+    },
+    {
+      "path": "images/img-5719f16e64cd.webp",
+      "bytes": 215038,
+      "sha256": "b763f7771fd57948d63682dd6cd5401142b96f827ec8cc4dcf3cf871d2f00853"
     },
     {
       "path": "images/img-57242b8ef18d.webp",
@@ -52,9 +77,19 @@
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
     },
     {
+      "path": "images/img-650e93b88520.webp",
+      "bytes": 3790,
+      "sha256": "16ea3650235190d3babb7455802e768e7ad6230116149bf4a6a72958b9aa1e79"
+    },
+    {
       "path": "images/img-7364910f90f9.webp",
       "bytes": 149330,
       "sha256": "126a4ffc68aad6cf0e79d4ff8ed78f8edae546ef13681009ad81212fa633742a"
+    },
+    {
+      "path": "images/img-8c46edf9e32c.webp",
+      "bytes": 215038,
+      "sha256": "b763f7771fd57948d63682dd6cd5401142b96f827ec8cc4dcf3cf871d2f00853"
     },
     {
       "path": "images/img-98e3f799af39.webp",
@@ -72,6 +107,21 @@
       "sha256": "2c469a54b53463ba03d9920dc7e50837222d9197b6abcad1fc18f6d35b9ebd9b"
     },
     {
+      "path": "images/img-b2595cda8297.webp",
+      "bytes": 215038,
+      "sha256": "b763f7771fd57948d63682dd6cd5401142b96f827ec8cc4dcf3cf871d2f00853"
+    },
+    {
+      "path": "images/img-b52cffc19609.webp",
+      "bytes": 215038,
+      "sha256": "b763f7771fd57948d63682dd6cd5401142b96f827ec8cc4dcf3cf871d2f00853"
+    },
+    {
+      "path": "images/img-c4c9c75b1d94.webp",
+      "bytes": 8544,
+      "sha256": "5aee7c333957bf4fae7d168e23cec6b9611f55351103fcb572f1d17fc2a86033"
+    },
+    {
       "path": "images/img-d98b5697af1e.webp",
       "bytes": 145414,
       "sha256": "712aa6258dc6c3dc4b00da0e4ac77c4848cd12a5de6d5964c51c82ef06a748c8"
@@ -87,6 +137,11 @@
       "sha256": "50c40e8de5400b910e48292913f79bd714dac9953f8729cbb52ff43d117f238a"
     },
     {
+      "path": "images/img-e97b495620a8.webp",
+      "bytes": 185308,
+      "sha256": "e57950b075c0df3a1486b62e9837682b76e70ddcdfb87fe0771f2586551bd648"
+    },
+    {
       "path": "images/img-ef299c698e82.webp",
       "bytes": 177750,
       "sha256": "3576ead0533497cbf32c6d42a6f4a6091b5bdd999866f3be8006c6e6cde57ad9"
@@ -98,8 +153,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 29818,
-      "sha256": "ed701302e0181d5c9de604da3553e73d58970e7179e72e7b54056a10c3af6489"
+      "bytes": 64545,
+      "sha256": "092ebc821874132ca7bde8b350cab1467d3804bb54068486e76d43d81a1e7340"
     },
     {
       "path": "source.html",
@@ -120,11 +175,29 @@
   "assets": [
     {
       "kind": "video",
-      "source_url": "https://player.vimeo.com/video/1185020918?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/1185020918?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/1040x620xc.jpg",
       "poster_path": "videos/img-cd19bb29dff3.webp",
-      "error": "response is not a recognized video"
+      "error": "yt-dlp could not download the video player URL"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -132,13 +205,31 @@
       "path": "images/img-e3e11a81c332.webp",
       "media_type": "image/webp",
       "bytes": 258394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/c3c264f3-5998-42dc-a70f-6a3342562ec7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/c3c264f3-5998-42dc-a70f-6a3342562ec7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/c3c264f3-5998-42dc-a70f-6a3342562ec7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/c3c264f3-5998-42dc-a70f-6a3342562ec7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/c3c264f3-5998-42dc-a70f-6a3342562ec7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/c3c264f3-5998-42dc-a70f-6a3342562ec7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -146,13 +237,31 @@
       "path": "images/img-10815de1139a.webp",
       "media_type": "image/webp",
       "bytes": 200514,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/ee25e463-d0c7-41e0-96d3-95a6333261ef/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/ee25e463-d0c7-41e0-96d3-95a6333261ef/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/ee25e463-d0c7-41e0-96d3-95a6333261ef/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/ee25e463-d0c7-41e0-96d3-95a6333261ef/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/ee25e463-d0c7-41e0-96d3-95a6333261ef/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/ee25e463-d0c7-41e0-96d3-95a6333261ef/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -160,13 +269,31 @@
       "path": "images/img-7364910f90f9.webp",
       "media_type": "image/webp",
       "bytes": 149330,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/3a33cd54-62a4-4bc1-8f10-3790a052bad6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/3a33cd54-62a4-4bc1-8f10-3790a052bad6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/3a33cd54-62a4-4bc1-8f10-3790a052bad6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/3a33cd54-62a4-4bc1-8f10-3790a052bad6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/3a33cd54-62a4-4bc1-8f10-3790a052bad6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/3a33cd54-62a4-4bc1-8f10-3790a052bad6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -174,13 +301,31 @@
       "path": "images/img-31fdd7f80343.webp",
       "media_type": "image/webp",
       "bytes": 162652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/43/0a5f54d3-8c16-48e2-9f6d-3c2ce543fc71/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/43/0a5f54d3-8c16-48e2-9f6d-3c2ce543fc71/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/43/0a5f54d3-8c16-48e2-9f6d-3c2ce543fc71/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/43/0a5f54d3-8c16-48e2-9f6d-3c2ce543fc71/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/43/0a5f54d3-8c16-48e2-9f6d-3c2ce543fc71/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/11/18/43/0a5f54d3-8c16-48e2-9f6d-3c2ce543fc71/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -188,62 +333,100 @@
       "path": "images/img-9df0d0a0e661.webp",
       "media_type": "image/webp",
       "bytes": 214180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-650e93b88520.webp",
+      "media_type": "image/webp",
+      "bytes": 3790,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c4c9c75b1d94.webp",
+      "media_type": "image/webp",
+      "bytes": 8544,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-2c39d25040a4.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-8c46edf9e32c.webp",
+      "media_type": "image/webp",
+      "bytes": 215038,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-160eded6836c.webp",
+      "media_type": "image/webp",
+      "bytes": 131464,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-ef299c698e82.webp",
+      "media_type": "image/webp",
+      "bytes": 177750,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-e97b495620a8.webp",
+      "media_type": "image/webp",
+      "bytes": 185308,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/45/759fb7fe-8be2-4f6e-895c-94d6415187e2/je/2000xxs.jpg",
-      "path": "images/img-ef299c698e82.webp",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/2000xxs.jpg",
+      "path": "images/img-b52cffc19609.webp",
       "media_type": "image/webp",
-      "bytes": 177750,
+      "bytes": 215038,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/ee25e463-d0c7-41e0-96d3-95a6333261ef/je/2000xxs.jpg",
+      "path": "images/img-371012ee5945.webp",
+      "media_type": "image/webp",
+      "bytes": 215038,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/43/0a5f54d3-8c16-48e2-9f6d-3c2ce543fc71/je/2000xxs.jpg",
+      "path": "images/img-42d379942d32.webp",
+      "media_type": "image/webp",
+      "bytes": 215038,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/c3c264f3-5998-42dc-a70f-6a3342562ec7/je/2000xxs.jpg",
+      "path": "images/img-b2595cda8297.webp",
+      "media_type": "image/webp",
+      "bytes": 215038,
       "status": "new"
     },
     {
@@ -252,7 +435,7 @@
       "path": "images/img-98e3f799af39.webp",
       "media_type": "image/webp",
       "bytes": 67946,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -260,6 +443,14 @@
       "path": "images/img-09cd38e17650.webp",
       "media_type": "image/webp",
       "bytes": 96440,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/11/18/44/3a33cd54-62a4-4bc1-8f10-3790a052bad6/je/2000xxs.jpg",
+      "path": "images/img-5719f16e64cd.webp",
+      "media_type": "image/webp",
+      "bytes": 215038,
       "status": "new"
     },
     {
@@ -268,7 +459,7 @@
       "path": "images/img-f7493a530d2d.webp",
       "media_type": "image/webp",
       "bytes": 205000,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -276,7 +467,7 @@
       "path": "images/img-9c82c9c62ea4.webp",
       "media_type": "image/webp",
       "bytes": 159556,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -284,7 +475,7 @@
       "path": "images/img-d98b5697af1e.webp",
       "media_type": "image/webp",
       "bytes": 145414,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -292,7 +483,7 @@
       "path": "images/img-42a61866f0c9.webp",
       "media_type": "image/webp",
       "bytes": 52626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -300,7 +491,7 @@
       "path": "images/img-dbe0a77b0a69.webp",
       "media_type": "image/webp",
       "bytes": 24730,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -308,19 +499,13 @@
       "path": "images/img-33c70b486443.webp",
       "media_type": "image/webp",
       "bytes": 56146,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/The%20U.S.%20Embassy%20Sanctuary_%20A%20Molteni\u0026C%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817661569%29_files/2200xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/13/09/56/17/3d17d5b3-61d4-4d4f-a48e-85a530582eed/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -328,25 +513,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -354,13 +539,13 @@
       "path": "images/img-20ade8335c8f.webp",
       "media_type": "image/webp",
       "bytes": 1042,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 16,
-    "images_existing": 0,
-    "images_failed": 17,
+    "images_new": 11,
+    "images_existing": 16,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 1

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/elk-ca-usa/sea-arches-7000-s-hwy-1-17430022
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:26Z
+- Retrieved: 2026-09-28T00:24:51Z
 - Address: 7000 S Hwy 1, Elk, CA 95432, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.1225529,-123.7184632
 - Coordinates: 39.12, -123.72
@@ -10,7 +10,7 @@
 - Listing reference: sea-arches-7000-s-hwy-1
 - First listed: Mar 17
 - Last updated: May 8
-- Images downloaded: 62
+- Images downloaded: 65
 
 ## Property
 

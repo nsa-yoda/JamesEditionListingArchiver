@@ -7,7 +7,7 @@ window.listingArchiveListing = {
     "listing_id": "18056533",
     "first_listed": "Jun 1",
     "last_updated": "June 2",
-    "retrieved_at": "2026-08-28T00:29:21.243978Z"
+    "retrieved_at": "2026-09-28T00:22:45.117561Z"
   },
   "location": {
     "address": "Barnard, VT, Vermont, United States",
@@ -85,528 +85,641 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2200xxs.jpg",
       "file": "img-349ad6ca41a5.webp",
       "media_type": "image/webp",
       "bytes": 531574,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2200xxs.jpg",
       "file": "img-a8f5b4eac692.webp",
       "media_type": "image/webp",
       "bytes": 616562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2200xxs.jpg",
       "file": "img-159b10d9ee62.webp",
       "media_type": "image/webp",
       "bytes": 86574,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2200xxs.jpg",
       "file": "img-ad70b763c390.webp",
       "media_type": "image/webp",
       "bytes": 83922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2200xxs.jpg",
       "file": "img-1abc0435e768.webp",
       "media_type": "image/webp",
       "bytes": 147672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-aa0c44b1b946.webp",
+      "media_type": "image/webp",
+      "bytes": 6102,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-18375fd7062c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-f21a516744a7.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/b73631b2-6b8f-471b-a383-37089b873cba/je/2000xxs.jpg",
       "file": "img-99a03046e50a.webp",
       "media_type": "image/webp",
       "bytes": 131936,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/4bf4120c-a844-4914-b05f-8aada8404a5a/je/2000xxs.jpg",
       "file": "img-77c155a427b8.webp",
       "media_type": "image/webp",
       "bytes": 75010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/34fc8ef3-d513-4d11-bf87-9b4f28f8088a/je/2000xxs.jpg",
       "file": "img-119269aace18.webp",
       "media_type": "image/webp",
       "bytes": 37376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/e206e9a0-26e8-492c-9117-40dfc7b27b25/je/2000xxs.jpg",
       "file": "img-bef090cc5501.webp",
       "media_type": "image/webp",
       "bytes": 63076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/b8c5a876-eb8c-442d-afa5-482f4f801ed0/je/2000xxs.jpg",
       "file": "img-a0b39b593dca.webp",
       "media_type": "image/webp",
       "bytes": 67232,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/1d5adce7-914f-4ea9-a67c-a570efcd92bb/je/2000xxs.jpg",
       "file": "img-a528377b2b88.webp",
       "media_type": "image/webp",
       "bytes": 89938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/e2281d06-d14c-4ef8-b151-c34a1c95ae74/je/2000xxs.jpg",
       "file": "img-19a1a378fc74.webp",
       "media_type": "image/webp",
       "bytes": 71176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/25daf0b7-106e-43f4-8ebf-c5905d34b564/je/2000xxs.jpg",
       "file": "img-c043bb56d0d6.webp",
       "media_type": "image/webp",
       "bytes": 54710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/b99c46b5-2d20-46d4-8953-81e87f004908/je/2000xxs.jpg",
       "file": "img-e4a3f3974f99.webp",
       "media_type": "image/webp",
       "bytes": 96160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/26675063-4d2a-4779-8c02-5eb51b3c948d/je/2000xxs.jpg",
       "file": "img-dd5f40d4e1e1.webp",
       "media_type": "image/webp",
       "bytes": 112228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/153b1945-3398-4d0f-8104-5996102c7ad5/je/2000xxs.jpg",
       "file": "img-1665a74c37e0.webp",
       "media_type": "image/webp",
       "bytes": 158458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/b097992d-a22a-4a85-a07a-58b2853f8a35/je/2000xxs.jpg",
       "file": "img-d5062a10cbba.webp",
       "media_type": "image/webp",
       "bytes": 159516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/aba2e8bc-e076-4476-97cb-baff5dbbce25/je/2000xxs.jpg",
       "file": "img-f37907f99f95.webp",
       "media_type": "image/webp",
       "bytes": 58794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/892cefd9-8816-4821-8043-00288ca9b4b4/je/2000xxs.jpg",
       "file": "img-beceb386ae4a.webp",
       "media_type": "image/webp",
       "bytes": 126880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cd4dd19a-1124-4786-b674-e8df167fad1e/je/2000xxs.jpg",
       "file": "img-ce304b4991eb.webp",
       "media_type": "image/webp",
       "bytes": 75980,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/f000d246-53a0-415a-b859-cbce8628db0e/je/2000xxs.jpg",
       "file": "img-664eaac68577.webp",
       "media_type": "image/webp",
       "bytes": 67236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/e56d0fd6-eaef-49e4-bed2-333f2a310e51/je/2000xxs.jpg",
       "file": "img-204aa7938d05.webp",
       "media_type": "image/webp",
       "bytes": 98596,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/ec7db90a-d1cf-4682-81ba-ffa4e397cb59/je/2000xxs.jpg",
       "file": "img-68a34054b893.webp",
       "media_type": "image/webp",
       "bytes": 110788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/3452f644-c9f0-4442-9463-097f3b739404/je/2000xxs.jpg",
       "file": "img-51715d327655.webp",
       "media_type": "image/webp",
       "bytes": 94196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/47c5e26d-373c-43e3-8ed0-3a479ed81216/je/2000xxs.jpg",
       "file": "img-07055dc902c5.webp",
       "media_type": "image/webp",
       "bytes": 120322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/a7453ea3-5dba-4903-a302-aa5697a001d1/je/2000xxs.jpg",
       "file": "img-c11b2f7cd81d.webp",
       "media_type": "image/webp",
       "bytes": 102106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/be19d3c6-4f0f-4e05-a755-4858c5d7b736/je/2000xxs.jpg",
       "file": "img-216702359cb4.webp",
       "media_type": "image/webp",
       "bytes": 50912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/167e8355-37ac-48ba-bbd3-0688f7770a54/je/2000xxs.jpg",
       "file": "img-80af7136a841.webp",
       "media_type": "image/webp",
       "bytes": 70552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/3c55baeb-efdb-4ded-b9ae-0f386cbd9115/je/2000xxs.jpg",
       "file": "img-c071972720ee.webp",
       "media_type": "image/webp",
       "bytes": 117398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/e2a6e223-b629-427b-8c66-bfb8b00ccb1d/je/2000xxs.jpg",
       "file": "img-20ade359e34f.webp",
       "media_type": "image/webp",
       "bytes": 117822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/b6d49ed7-0705-4f5d-a475-2e649ce8c32f/je/2000xxs.jpg",
       "file": "img-0193c1c5c304.webp",
       "media_type": "image/webp",
       "bytes": 113802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/3aaeadb1-23dd-4827-ae18-1b1ba903f54d/je/2000xxs.jpg",
       "file": "img-ebe6e16cdf9f.webp",
       "media_type": "image/webp",
       "bytes": 72720,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/ace4d1a2-21ff-441c-bf4e-1ea2693d7762/je/2000xxs.jpg",
       "file": "img-8feb8925b205.webp",
       "media_type": "image/webp",
       "bytes": 90262,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/402353f6-8512-4243-b112-f0c941998eeb/je/2000xxs.jpg",
       "file": "img-1961d54cc961.webp",
       "media_type": "image/webp",
       "bytes": 48998,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/732a2de8-e5b2-465b-a625-976bb609ae90/je/2000xxs.jpg",
       "file": "img-70d1162415be.webp",
       "media_type": "image/webp",
       "bytes": 51938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3a79ffb3-df76-45f7-b4ca-1c73d4137415/je/2000xxs.jpg",
       "file": "img-5db8b45d3c12.webp",
       "media_type": "image/webp",
       "bytes": 68500,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/82febece-e8e8-4d35-adc6-1a329eed6b4f/je/2000xxs.jpg",
       "file": "img-e3c798f739c9.webp",
       "media_type": "image/webp",
       "bytes": 81660,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/2b77da41-54b5-43b0-a539-a89fb25edce3/je/2000xxs.jpg",
       "file": "img-b93b629978e0.webp",
       "media_type": "image/webp",
       "bytes": 81704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/fd11a997-0ec6-438d-8a18-b82cc308bd2f/je/2000xxs.jpg",
       "file": "img-5be9a779188e.webp",
       "media_type": "image/webp",
       "bytes": 91038,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/0ddb6275-05d3-46a5-888c-0c29f8af496a/je/2000xxs.jpg",
       "file": "img-08f998863095.webp",
       "media_type": "image/webp",
       "bytes": 91084,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/2236d552-2467-4b3a-bfcf-c4616939268f/je/2000xxs.jpg",
       "file": "img-cf9fc114aaea.webp",
       "media_type": "image/webp",
       "bytes": 40904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/a89999b1-34e8-42a5-9f3b-8b7839905064/je/2000xxs.jpg",
       "file": "img-a2c3c343f8b5.webp",
       "media_type": "image/webp",
       "bytes": 55134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/3b62a4b3-2a3f-4b49-8fd3-876899763c8f/je/2000xxs.jpg",
       "file": "img-efe1cd36e846.webp",
       "media_type": "image/webp",
       "bytes": 93226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/6ec1e63c-1435-4425-aba3-141dda6938f7/je/2000xxs.jpg",
       "file": "img-05a36bc12b47.webp",
       "media_type": "image/webp",
       "bytes": 66754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/38a5e946-1f94-4791-b77c-fd1261da656b/je/2000xxs.jpg",
       "file": "img-33f7c6cd0e5f.webp",
       "media_type": "image/webp",
       "bytes": 74166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/87600928-015c-48aa-9e3a-7fe1a3cf4e6b/je/2000xxs.jpg",
       "file": "img-d8aa47807537.webp",
       "media_type": "image/webp",
       "bytes": 113020,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/2d0e526e-6a2b-4507-85a0-f542e2b2ab5f/je/2000xxs.jpg",
       "file": "img-c6b763210b0a.webp",
       "media_type": "image/webp",
       "bytes": 133326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/ff437531-018b-405c-9760-2bf0d2da6c98/je/2000xxs.jpg",
       "file": "img-6a663e63977f.webp",
       "media_type": "image/webp",
       "bytes": 130540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/b6c6e255-640c-44e7-b6fa-838256b50e1c/je/2000xxs.jpg",
       "file": "img-89d5d057f151.webp",
       "media_type": "image/webp",
       "bytes": 118468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/ffe2d7bd-04bf-4ee3-9240-150d4888bc20/je/2000xxs.jpg",
       "file": "img-46c9f857e410.webp",
       "media_type": "image/webp",
       "bytes": 84244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/8200a127-13e1-41f8-8bdd-3d1fd3e005bb/je/2000xxs.jpg",
       "file": "img-7f7372dc1b4a.webp",
       "media_type": "image/webp",
       "bytes": 90038,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/84f62d86-43e5-42de-9b29-4955d099fce7/je/2000xxs.jpg",
       "file": "img-130e56bc1d95.webp",
       "media_type": "image/webp",
       "bytes": 72552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/f01e29b2-f0e7-451a-ba50-ef94eb8b69b9/je/2000xxs.jpg",
       "file": "img-86e590c078a1.webp",
       "media_type": "image/webp",
       "bytes": 128440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/763a0547-b310-42a9-b5b4-cbdd61f72173/je/2000xxs.jpg",
       "file": "img-c7eae491870c.webp",
       "media_type": "image/webp",
       "bytes": 96650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/bdfe4c0f-a042-4607-9277-4de15d9b01e0/je/2000xxs.jpg",
       "file": "img-945a592151fa.webp",
       "media_type": "image/webp",
       "bytes": 100206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/5d7707d7-e458-47c7-b0c3-3f15f624d314/je/2000xxs.jpg",
       "file": "img-84c5e132a801.webp",
       "media_type": "image/webp",
       "bytes": 76178,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/f389402c-2092-4b01-8f7c-ba66a942988b/je/2000xxs.jpg",
       "file": "img-f73be248e2bc.webp",
       "media_type": "image/webp",
       "bytes": 85928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/1b5288e5-a1eb-48bc-bf73-87c139391f7d/je/2000xxs.jpg",
       "file": "img-6520bbbf5ba3.webp",
       "media_type": "image/webp",
       "bytes": 92226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/22d0be81-0ac2-4477-a61c-dc0e90fae312/je/2000xxs.jpg",
       "file": "img-305d1c39a398.webp",
       "media_type": "image/webp",
       "bytes": 141570,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/02/1403670d-c595-4369-9169-69e885a3f802/je/2000xxs.jpg",
       "file": "img-7ca6c0c76b77.webp",
       "media_type": "image/webp",
       "bytes": 128440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/18/56/44/ee0333b0-a176-4ccc-a3d2-26aa39ea8172/je/2000xxs.jpg",
       "file": "img-8230bd35a385.webp",
       "media_type": "image/webp",
       "bytes": 69438,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/01/15/35/01/cf548917-2580-493e-8d6c-3a0217287518/je/2000xxs.jpg",
       "file": "img-ba1e0fcdca6b.webp",
       "media_type": "image/webp",
       "bytes": 112296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/09/26/49/739a0b06-5a2d-4ee6-bba4-605779a8d162/je/2000xxs.jpg",
       "file": "img-b3eaa6907a07.webp",
       "media_type": "image/webp",
       "bytes": 882108,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/2200xxs%2862%29.jpg",
+      "file": "img-451a92e94ce6.webp",
+      "media_type": "image/webp",
+      "bytes": 1065352,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/agent_images/2026/06/02/13/39/53/4248eb6e-d1ee-4d65-a83a-80ab31ae71ff/je/80x80xc.jpg",
       "file": "img-090ee73c6a2a.webp",
       "media_type": "image/webp",
       "bytes": 2088,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "videos": [
     {
-      "source_url": "https://player.vimeo.com/video/1113641202?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/1113641202?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_source_url": "https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg",
       "poster_file": "img-9c8a56470846.webp",
-      "error": "response is not a recognized video"
+      "error": "yt-dlp could not download the video player URL"
     }
   ],
   "metadata": {
@@ -791,6 +904,96 @@ window.listingArchiveListing = {
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
-    "video https://player.vimeo.com/video/1113641202?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: response is not a recognized video"
+    "video https://player.vimeo.com/video/1113641202?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: response is not a recognized video",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1113641202?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: Get \"https://player.vimeo.com/video/1113641202?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0\": dial tcp: lookup player.vimeo.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1113641202?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0: yt-dlp could not download the video player URL",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/barnard-vt-usa/Monsalvat%20Farm%20_%20One%20Of%20The%20Finest%20In%20Barnard,%20Vermont,%20United%20States%20For%20Sale%20%2818056533%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/30/6a06169d-2316-476b-a862-07b16839b9f4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/cf745a57-5ebf-41eb-8155-37e587229d7d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/19/20/24/dccd3213-3b0e-4de8-bd06-eafebd1d9148/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/01/15/34/59/3065b3c4-a7ab-4472-b91a-0cb4d929a8b5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/03/12/23/32/bad8dc8a-c007-448f-a089-95f574d1d1a6/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1113641202?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0: yt-dlp could not download the video player URL"
   ]
 };

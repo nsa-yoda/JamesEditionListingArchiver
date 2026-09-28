@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/almancil-portugal/the-most-exclusive-private-estate-in-the-golden-triangle-almancil-17815850
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:39Z
+- Retrieved: 2026-09-28T00:25:52Z
 - Address: R. do Farol 402, 8135-027 Almancil, Algarve, Portugal
 - Map: https://www.google.com/maps/search/?api=1&query=37.0865299,-8.0016932
 - Coordinates: 37.09, -8
@@ -10,7 +10,7 @@
 - Listing reference: 0105
 - First listed: May 1
 - Last updated: May 20
-- Images downloaded: 9
+- Images downloaded: 12
 - Videos downloaded: 0
 
 ## Property

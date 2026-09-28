@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/vernon-canada/european-inspired-luxury-estate-above-swan-lake-15970475
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:16Z
+- Retrieved: 2026-09-28T00:20:50Z
 - Address: 202 Stepping Stones Crescent, Vernon, BC V1H 1X2, British Columbia, Canada
 - Map: https://www.google.com/maps/search/?api=1&query=50.3414465,-119.2742528
 - Coordinates: 50.34, -119.27
 - Site listing ID: 15970475
 - First listed: Jul 24, 2025
 - Last updated: November 19, 2025
-- Images downloaded: 41
+- Images downloaded: 62
 - Videos downloaded: 0
 
 ## Property

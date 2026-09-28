@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:31.526802Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509-amalfi-drive-17503065",
     "canonical_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509-amalfi-drive-17503065",
@@ -9,13 +9,13 @@
     "listing_reference": "Z6T76K",
     "first_listed": "Mar 27",
     "last_updated": "May 11",
-    "retrieved_at": "2026-06-16T03:43:14.093272Z"
+    "retrieved_at": "2026-09-28T00:17:27.865148Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 4069,
-      "sha256": "ebf1dc909ddf4da6b27408fcaba5e75c4ec93ddc22fa12bb3c0b8e642044da0e"
+      "bytes": 4070,
+      "sha256": "6fe72ce4cc40659dea56c61ff0ccbfa29e08cc71fb0fdd156940d1ce9f6553a7"
     },
     {
       "path": "images/004-970a37b4.webp",
@@ -63,9 +63,44 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-1d62dd3eaaa0.webp",
+      "bytes": 6084,
+      "sha256": "81e180e1c76e50ed73aa660617ae959932f1b37093c358c241d27e95b4be117d"
+    },
+    {
+      "path": "images/img-3da3d063f7d3.webp",
+      "bytes": 265078,
+      "sha256": "a12330eaad38f8a7b0274ff44bc9b1b8ff9e6d1d449e4995273948317967595b"
+    },
+    {
+      "path": "images/img-9052ce1efa5f.webp",
+      "bytes": 318306,
+      "sha256": "2a37de4353342837d9b440e2b414563c7bc28394db97d07f614bbe388dc0531c"
+    },
+    {
+      "path": "images/img-a86a13046f80.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-c8340c0f784e.webp",
+      "bytes": 492950,
+      "sha256": "e0aa3978e422f11cc299de4b600762db33b9ba9d2124e2b8e8c03aecd7244729"
+    },
+    {
+      "path": "images/img-c84c141d6fc5.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-f091b65a78eb.webp",
+      "bytes": 254894,
+      "sha256": "5bdb0c594c9f0ed2c1b5b4dcecc3911ab372d3e155830e42caeeaade0a19b55e"
+    },
+    {
       "path": "listing.json",
-      "bytes": 22016,
-      "sha256": "8d710f83b3d807af8f73156ec4b88105dfebe2d87420731769dafa79f384bc67"
+      "bytes": 51836,
+      "sha256": "0e7e393bc56504dbfbc0f22c64bd7d94a8f5d0e92f4bf60b982967e000ac2155"
     },
     {
       "path": "source.html",
@@ -76,9 +111,47 @@
       "path": "source.url",
       "bytes": 93,
       "sha256": "a33a920f0cb1d719190f9d301d329bbe147dcf906584a29275d87f2ac2a3cb0e"
+    },
+    {
+      "path": "videos/img-78348a6a3cc8.webp",
+      "bytes": 165572,
+      "sha256": "aadfd482639b398a17307e7bca5d72fbd09de52decd261b3109bd24609fed284"
+    },
+    {
+      "path": "videos/vid-edd96b72c43a.mp4",
+      "bytes": 11563041,
+      "sha256": "01cc24233854004597124b91dc53ebf2387c0a452cc3760218a3cb81cb689ce9"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5782886755001/rJlOfaQNgQ_default/index.html?videoId=ref:15_second_property_clip_95efcf67-a67d-49b3-9d8d-1344055af2ac\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-edd96b72c43a.mp4",
+      "media_type": "video/mp4",
+      "bytes": 11563041,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/1040x620xc.jpg",
+      "poster_path": "videos/img-78348a6a3cc8.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/2200xxs.jpg",
@@ -90,7 +163,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/94129d52-40bb-4e28-a868-b34ddada005a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/94129d52-40bb-4e28-a868-b34ddada005a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/94129d52-40bb-4e28-a868-b34ddada005a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/94129d52-40bb-4e28-a868-b34ddada005a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/94129d52-40bb-4e28-a868-b34ddada005a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/94129d52-40bb-4e28-a868-b34ddada005a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +195,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/ac329003-2710-42d3-8e3e-207a3336ccbc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/ac329003-2710-42d3-8e3e-207a3336ccbc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/ac329003-2710-42d3-8e3e-207a3336ccbc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/ac329003-2710-42d3-8e3e-207a3336ccbc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/ac329003-2710-42d3-8e3e-207a3336ccbc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/ac329003-2710-42d3-8e3e-207a3336ccbc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +227,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/53424a69-efc9-4636-ad68-eac4522c6b19/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/53424a69-efc9-4636-ad68-eac4522c6b19/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/53424a69-efc9-4636-ad68-eac4522c6b19/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/53424a69-efc9-4636-ad68-eac4522c6b19/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/53424a69-efc9-4636-ad68-eac4522c6b19/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/08/13/08/40/53424a69-efc9-4636-ad68-eac4522c6b19/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +259,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/4e6bb28c-2ded-44c2-8e24-6d2d7b0012a3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/4e6bb28c-2ded-44c2-8e24-6d2d7b0012a3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/4e6bb28c-2ded-44c2-8e24-6d2d7b0012a3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/4e6bb28c-2ded-44c2-8e24-6d2d7b0012a3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/4e6bb28c-2ded-44c2-8e24-6d2d7b0012a3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/4e6bb28c-2ded-44c2-8e24-6d2d7b0012a3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,52 +291,70 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1d62dd3eaaa0.webp",
+      "media_type": "image/webp",
+      "bytes": 6084,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a86a13046f80.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c84c141d6fc5.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3da3d063f7d3.webp",
+      "media_type": "image/webp",
+      "bytes": 265078,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9052ce1efa5f.webp",
+      "media_type": "image/webp",
+      "bytes": 318306,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c8340c0f784e.webp",
+      "media_type": "image/webp",
+      "bytes": 492950,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f091b65a78eb.webp",
+      "media_type": "image/webp",
+      "bytes": 254894,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pacific-palisades-ca-usa/1509%20Amalfi%20Drive%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817503065%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/17/24/59/6eee7d67-f406-42a4-a097-75643dd1de65/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -223,10 +390,10 @@
     }
   ],
   "summary": {
-    "images_new": 14,
+    "images_new": 7,
     "images_existing": 9,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

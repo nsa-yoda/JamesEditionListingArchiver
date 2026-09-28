@@ -10,5 +10,5 @@ window.listingArchiveIndex = {
       "size": 70630
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:18:46.298071Z"
 };

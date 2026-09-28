@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/brienno-italy/historic-villa-pieds-dans-l-eau-of-great-charmo-on-lago-di-como-brienno-18348881
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:40Z
+- Retrieved: 2026-09-28T00:21:51Z
 - Address: Via Regina, 60, 22010 Brienno CO, Lombardy, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=45.9107501188302,9.1312784737565
 - Coordinates: 45.91, 9.13
 - Site listing ID: 18348881
 - First listed: Jul 6
 - Last updated: Today
-- Images downloaded: 32
+- Images downloaded: 43
 - Videos downloaded: 0
 
 ## Property

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:51.782717Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/loule-portugal/exceptional-newly-built-luxury-villa-with-breathtaking-views-of-the-lake-ocean-and-golf-course-16969685",
     "canonical_url": "https://www.jamesedition.com/real_estate/loule-portugal/exceptional-newly-built-luxury-villa-with-breathtaking-views-of-the-lake-ocean-and-golf-course-16969685",
@@ -9,13 +9,13 @@
     "listing_reference": "AR-51",
     "first_listed": "Jan 21",
     "last_updated": "January 22",
-    "retrieved_at": "2026-08-28T00:28:21.970855Z"
+    "retrieved_at": "2026-09-28T00:20:51.376821Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 6431,
-      "sha256": "3565cf49fef194f7156002075dd999a8735a2b70a623068ea204efb698b2ad57"
+      "sha256": "8a5e62454d367da140efaf2a3b7fc715a58a406cd54d75a5024fc102c3ba2819"
     },
     {
       "path": "images/img-00fd67a97bee.webp",
@@ -118,6 +118,11 @@
       "sha256": "3c8286ade9c2e37980bb24702d55f9581a2518e7518408772ed042b19b0bcaab"
     },
     {
+      "path": "images/img-717752514112.webp",
+      "bytes": 5262,
+      "sha256": "ee29c6c41eb94c6e11c661e0085d5e959ecb31a11e61fe5d9e427b10b64ff583"
+    },
+    {
       "path": "images/img-7451edec38f4.webp",
       "bytes": 216352,
       "sha256": "ce9ecf8f85bfe54f25f3ff42a7117e21cb1c8da1cc8fe032e72153ac92f782a8"
@@ -173,6 +178,11 @@
       "sha256": "5c64c895f27cc74d73d53c2fab2af90326c5a61b1878bb2d69d610b35c397a13"
     },
     {
+      "path": "images/img-c08f05022146.webp",
+      "bytes": 7678,
+      "sha256": "fa017b2e310214b4fa69c6bd904e4d945805c449b6f3ad2547fbbc4a1d2f0325"
+    },
+    {
       "path": "images/img-c1ea5decc1b6.webp",
       "bytes": 65406,
       "sha256": "6eb44d594e42bd813c794498d62080ce524323b8a9a3694df8db9ca0c52f6edc"
@@ -209,8 +219,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 38312,
-      "sha256": "23d11009dbb27b080f943e059a98d770311b1b27a9278ad03a03c26cf18cc07b"
+      "bytes": 69142,
+      "sha256": "420a19f49da4d75955aa5c4dd4a421e84dd740c924c22c96c79e1dc596ac2112"
     },
     {
       "path": "source.html",
@@ -226,17 +236,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/2200xxs.jpg",
       "path": "images/img-682deaf612ea.webp",
       "media_type": "image/webp",
       "bytes": 451870,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/65c48150-280b-4bd8-b81a-9fd2955d2a2a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/65c48150-280b-4bd8-b81a-9fd2955d2a2a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/65c48150-280b-4bd8-b81a-9fd2955d2a2a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/65c48150-280b-4bd8-b81a-9fd2955d2a2a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/65c48150-280b-4bd8-b81a-9fd2955d2a2a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/65c48150-280b-4bd8-b81a-9fd2955d2a2a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -244,13 +290,31 @@
       "path": "images/img-6ecc4669b58d.webp",
       "media_type": "image/webp",
       "bytes": 221218,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/88dcfa7c-f50f-4d80-bcb4-d79e303160a9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/88dcfa7c-f50f-4d80-bcb4-d79e303160a9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/88dcfa7c-f50f-4d80-bcb4-d79e303160a9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/88dcfa7c-f50f-4d80-bcb4-d79e303160a9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/88dcfa7c-f50f-4d80-bcb4-d79e303160a9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/88dcfa7c-f50f-4d80-bcb4-d79e303160a9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -258,13 +322,31 @@
       "path": "images/img-98e2be2ec45a.webp",
       "media_type": "image/webp",
       "bytes": 130108,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/51d4a7ac-0da2-4a09-b499-8faaa0e03ab5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/51d4a7ac-0da2-4a09-b499-8faaa0e03ab5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/51d4a7ac-0da2-4a09-b499-8faaa0e03ab5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/51d4a7ac-0da2-4a09-b499-8faaa0e03ab5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/51d4a7ac-0da2-4a09-b499-8faaa0e03ab5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/51d4a7ac-0da2-4a09-b499-8faaa0e03ab5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -272,13 +354,31 @@
       "path": "images/img-372b4e1a3b81.webp",
       "media_type": "image/webp",
       "bytes": 58282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/ccd57d33-3573-4127-b8a7-8968c38e6aa6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/ccd57d33-3573-4127-b8a7-8968c38e6aa6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/ccd57d33-3573-4127-b8a7-8968c38e6aa6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/ccd57d33-3573-4127-b8a7-8968c38e6aa6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/ccd57d33-3573-4127-b8a7-8968c38e6aa6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/ccd57d33-3573-4127-b8a7-8968c38e6aa6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -286,85 +386,53 @@
       "path": "images/img-7451edec38f4.webp",
       "media_type": "image/webp",
       "bytes": 216352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-717752514112.webp",
+      "media_type": "image/webp",
+      "bytes": 5262,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/380xxsxm.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-c08f05022146.webp",
+      "media_type": "image/webp",
+      "bytes": 7678,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-fe3c90bf2371.webp",
+      "media_type": "image/webp",
+      "bytes": 265500,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-a20d2018084c.webp",
+      "media_type": "image/webp",
+      "bytes": 82226,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/1f479e8d-89c7-44b7-aad9-97a686ecd03f/je/2000xxs.jpg",
-      "path": "images/img-fe3c90bf2371.webp",
-      "media_type": "image/webp",
-      "bytes": 265500,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/d10ca15c-f295-4fe3-b6b9-fbb931679109/je/2000xxs.jpg",
-      "path": "images/img-a20d2018084c.webp",
-      "media_type": "image/webp",
-      "bytes": 82226,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/a892bbdf-e388-4287-a348-d42d0f676c7d/je/2000xxs.jpg",
       "path": "images/img-571f6c56f1c1.webp",
       "media_type": "image/webp",
       "bytes": 42896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -372,7 +440,7 @@
       "path": "images/img-46587c8068d9.webp",
       "media_type": "image/webp",
       "bytes": 168606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -380,7 +448,7 @@
       "path": "images/img-c1ea5decc1b6.webp",
       "media_type": "image/webp",
       "bytes": 65406,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -388,7 +456,7 @@
       "path": "images/img-6d04c2962470.webp",
       "media_type": "image/webp",
       "bytes": 68198,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -396,7 +464,7 @@
       "path": "images/img-575355f38e83.webp",
       "media_type": "image/webp",
       "bytes": 170764,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -404,7 +472,7 @@
       "path": "images/img-93e41d76bbee.webp",
       "media_type": "image/webp",
       "bytes": 276100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -412,7 +480,7 @@
       "path": "images/img-9e31f8109d9e.webp",
       "media_type": "image/webp",
       "bytes": 196800,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -420,7 +488,7 @@
       "path": "images/img-5edf5ef2002f.webp",
       "media_type": "image/webp",
       "bytes": 63606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -428,7 +496,7 @@
       "path": "images/img-2b820bf405ed.webp",
       "media_type": "image/webp",
       "bytes": 76974,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -436,7 +504,7 @@
       "path": "images/img-3f06d05dc5f3.webp",
       "media_type": "image/webp",
       "bytes": 330290,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -444,7 +512,7 @@
       "path": "images/img-3eddab5d0cd8.webp",
       "media_type": "image/webp",
       "bytes": 145222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -452,7 +520,7 @@
       "path": "images/img-d1fe05eb2aac.webp",
       "media_type": "image/webp",
       "bytes": 229760,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -460,7 +528,7 @@
       "path": "images/img-a726cc4a405b.webp",
       "media_type": "image/webp",
       "bytes": 61076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -468,7 +536,7 @@
       "path": "images/img-20ed082f5855.webp",
       "media_type": "image/webp",
       "bytes": 132490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -476,7 +544,7 @@
       "path": "images/img-c717a64e7694.webp",
       "media_type": "image/webp",
       "bytes": 64092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -484,7 +552,7 @@
       "path": "images/img-e102b47ef3be.webp",
       "media_type": "image/webp",
       "bytes": 82338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -492,7 +560,7 @@
       "path": "images/img-8d701df0b434.webp",
       "media_type": "image/webp",
       "bytes": 35156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -500,7 +568,7 @@
       "path": "images/img-234331c08ca5.webp",
       "media_type": "image/webp",
       "bytes": 80608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -508,7 +576,7 @@
       "path": "images/img-7b3d888f1417.webp",
       "media_type": "image/webp",
       "bytes": 76158,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -516,7 +584,7 @@
       "path": "images/img-491fb0374402.webp",
       "media_type": "image/webp",
       "bytes": 81142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -524,7 +592,7 @@
       "path": "images/img-745f46d4ee89.webp",
       "media_type": "image/webp",
       "bytes": 89074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -532,7 +600,7 @@
       "path": "images/img-268917e0a3e3.webp",
       "media_type": "image/webp",
       "bytes": 155580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -540,7 +608,7 @@
       "path": "images/img-c65b718149f9.webp",
       "media_type": "image/webp",
       "bytes": 74466,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -548,7 +616,7 @@
       "path": "images/img-82e7baab5987.webp",
       "media_type": "image/webp",
       "bytes": 84892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -556,7 +624,7 @@
       "path": "images/img-49b6e83f66c6.webp",
       "media_type": "image/webp",
       "bytes": 145544,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -564,7 +632,7 @@
       "path": "images/img-00fd67a97bee.webp",
       "media_type": "image/webp",
       "bytes": 155984,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -572,7 +640,7 @@
       "path": "images/img-2f703e43a819.webp",
       "media_type": "image/webp",
       "bytes": 391470,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -580,7 +648,7 @@
       "path": "images/img-29f9fc473b6b.webp",
       "media_type": "image/webp",
       "bytes": 413026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -588,25 +656,13 @@
       "path": "images/img-e14e13b97e8a.webp",
       "media_type": "image/webp",
       "bytes": 333934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2824%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2825%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/loule-portugal/Exceptional%20Newly%20Built%20Luxury%20Villa%20With%20In%20Quinta%20Do%20Lago,%20Almancil,%20Portugal%20For%20Sale%20%2816969685%29_files/2200xxs%2826%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/21/10/12/09/b8a97e2c-8692-44ff-bf4a-c1fe95b39541/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -614,25 +670,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -640,13 +696,13 @@
       "path": "images/img-af41571d6e85.webp",
       "media_type": "image/webp",
       "bytes": 1690,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 38,
-    "images_existing": 0,
-    "images_failed": 19,
+    "images_new": 2,
+    "images_existing": 38,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

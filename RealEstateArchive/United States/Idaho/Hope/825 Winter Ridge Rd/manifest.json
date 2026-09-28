@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:10.997302Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/hope-id-usa/single-family-residence-in-hope-18184196",
     "canonical_url": "https://www.jamesedition.com/real_estate/hope-id-usa/single-family-residence-in-hope-18184196",
@@ -9,13 +9,13 @@
     "listing_reference": "26-6168",
     "first_listed": "Jun 16",
     "last_updated": "June 16",
-    "retrieved_at": "2026-06-19T08:41:44.278777Z"
+    "retrieved_at": "2026-09-28T00:25:10.464965Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2954,
-      "sha256": "98062d787bd4945dd9ad6675f036cd489a22d06084b4cc3abad1b446aea0a075"
+      "bytes": 2955,
+      "sha256": "e1f6f50e20aa5e41edc13cfb128124d09a12a4d50d5b3a3ed6b93045da869620"
     },
     {
       "path": "images/img-046a794a6888.webp",
@@ -71,6 +71,11 @@
       "path": "images/img-1bc2363c8c6d.webp",
       "bytes": 83132,
       "sha256": "a10aa159c79cb8202f89dc59e1aeedfd6eec9003f9a8695711334c4514f1cdd4"
+    },
+    {
+      "path": "images/img-1cb6431eaab8.webp",
+      "bytes": 483520,
+      "sha256": "142ce562b37aa2c2e6402c059f82fe89723755f8e6126cc1c90d3dbbddd5d5c0"
     },
     {
       "path": "images/img-228097d224e0.webp",
@@ -131,6 +136,11 @@
       "path": "images/img-47936397e2e2.webp",
       "bytes": 545440,
       "sha256": "6072f27f3d4c4b9c9000c60f97cf4495a77dbe9e94a66c4930258c0e48674171"
+    },
+    {
+      "path": "images/img-48965070d508.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-48a515fa9b1c.webp",
@@ -238,6 +248,11 @@
       "sha256": "48a46df68634b9953d5f2a9d4265f02208a8ac24902b833be2e5d5e7181c00d5"
     },
     {
+      "path": "images/img-72c67b4d3694.webp",
+      "bytes": 6266,
+      "sha256": "54ff0fce734b9fac6d576ccead574c86b59bfd153214492a878af7e77e87ae12"
+    },
+    {
       "path": "images/img-72ccf5040a1d.webp",
       "bytes": 253124,
       "sha256": "fd4094abfac44816feaa66fafcba1211c6f8bcf973747e91fe0d7353f27e8299"
@@ -301,6 +316,11 @@
       "path": "images/img-91f334645acc.webp",
       "bytes": 131716,
       "sha256": "3a61ca7dfa10c1f38ffc5a1674769b8044c674540b4dc2aa3de2b4b16342b261"
+    },
+    {
+      "path": "images/img-92761dbd9897.webp",
+      "bytes": 150686,
+      "sha256": "b00bb4b2a4f3f5272b79665b723c7d55d5daaf2b503d1af4e8389a108fb60f97"
     },
     {
       "path": "images/img-94492309e0b2.webp",
@@ -378,6 +398,16 @@
       "sha256": "9b54877df878a8228e5e87526e0b2c1da59c82ae598b2fc4c0c36a953a114a53"
     },
     {
+      "path": "images/img-b4ccfec8db8a.webp",
+      "bytes": 800374,
+      "sha256": "1941e9f9af8eac3abcbf99c778ed7d583cc5e8405f3725c31cefedf351100335"
+    },
+    {
+      "path": "images/img-b5ff99e8ecc3.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-b8c1d330dbc4.webp",
       "bytes": 204736,
       "sha256": "eab081d12c6064644f72aa16ef59627421c53e1a1c0002fc56eacd485b0e6470"
@@ -411,6 +441,11 @@
       "path": "images/img-d2e1ca012e0c.webp",
       "bytes": 417866,
       "sha256": "728cb64821caa215a521173c0c82ceba47d9e21dfec3d01bce0ff9ca561fbf0c"
+    },
+    {
+      "path": "images/img-d44a8d9bf5d0.png",
+      "bytes": 178241,
+      "sha256": "8185f208f9474eded0a0c12f70a07b28aab89c2ec68049645e124446d4cea4ea"
     },
     {
       "path": "images/img-d808dc380f21.webp",
@@ -504,8 +539,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 43006,
-      "sha256": "b603a0e53fd0113fe94e894c6f44ba7d7c2866e630c1adc70c802c33651df33e"
+      "bytes": 79076,
+      "sha256": "43354dfbbfd225065ea84f1655de5e9eeb91ddddcc4adc76f3dafab9ae3e41c0"
     },
     {
       "path": "source.html",
@@ -521,17 +556,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/2200xxs.jpg",
       "path": "images/img-c91f9c9421ed.webp",
       "media_type": "image/webp",
       "bytes": 372768,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/775271c9-2650-43c5-abc1-67b5f7badd7b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/775271c9-2650-43c5-abc1-67b5f7badd7b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/775271c9-2650-43c5-abc1-67b5f7badd7b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/775271c9-2650-43c5-abc1-67b5f7badd7b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/775271c9-2650-43c5-abc1-67b5f7badd7b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/775271c9-2650-43c5-abc1-67b5f7badd7b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -539,13 +610,31 @@
       "path": "images/img-76dde9b3c47e.webp",
       "media_type": "image/webp",
       "bytes": 573796,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/4d72f3eb-b137-4b6c-bf2c-f9c9d7a3e222/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/4d72f3eb-b137-4b6c-bf2c-f9c9d7a3e222/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/4d72f3eb-b137-4b6c-bf2c-f9c9d7a3e222/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/4d72f3eb-b137-4b6c-bf2c-f9c9d7a3e222/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/4d72f3eb-b137-4b6c-bf2c-f9c9d7a3e222/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/4d72f3eb-b137-4b6c-bf2c-f9c9d7a3e222/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -553,13 +642,31 @@
       "path": "images/img-f85a297e71f7.webp",
       "media_type": "image/webp",
       "bytes": 497832,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/c9636794-26ad-42d8-810a-6b6b95398d29/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/c9636794-26ad-42d8-810a-6b6b95398d29/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/c9636794-26ad-42d8-810a-6b6b95398d29/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/c9636794-26ad-42d8-810a-6b6b95398d29/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/c9636794-26ad-42d8-810a-6b6b95398d29/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/c9636794-26ad-42d8-810a-6b6b95398d29/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -567,13 +674,31 @@
       "path": "images/img-629d387f3c29.webp",
       "media_type": "image/webp",
       "bytes": 719326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/6cccf6a9-42ab-4618-87ee-4e5666746807/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/6cccf6a9-42ab-4618-87ee-4e5666746807/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/6cccf6a9-42ab-4618-87ee-4e5666746807/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/6cccf6a9-42ab-4618-87ee-4e5666746807/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/6cccf6a9-42ab-4618-87ee-4e5666746807/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/6cccf6a9-42ab-4618-87ee-4e5666746807/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -581,37 +706,75 @@
       "path": "images/img-07bae8188017.webp",
       "media_type": "image/webp",
       "bytes": 674476,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/M00000227.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d44a8d9bf5d0.png",
+      "media_type": "image/png",
+      "bytes": 178241,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-72c67b4d3694.webp",
+      "media_type": "image/webp",
+      "bytes": 6266,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-48965070d508.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-b5ff99e8ecc3.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/775271c9-2650-43c5-abc1-67b5f7badd7b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/775271c9-2650-43c5-abc1-67b5f7badd7b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/4d72f3eb-b137-4b6c-bf2c-f9c9d7a3e222/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/4d72f3eb-b137-4b6c-bf2c-f9c9d7a3e222/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/c9636794-26ad-42d8-810a-6b6b95398d29/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/c9636794-26ad-42d8-810a-6b6b95398d29/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/6cccf6a9-42ab-4618-87ee-4e5666746807/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/6cccf6a9-42ab-4618-87ee-4e5666746807/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -619,7 +782,7 @@
       "path": "images/img-7e69af7532bb.webp",
       "media_type": "image/webp",
       "bytes": 202210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +790,7 @@
       "path": "images/img-9de748ed1ce8.webp",
       "media_type": "image/webp",
       "bytes": 593008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +798,7 @@
       "path": "images/img-114effc5653c.webp",
       "media_type": "image/webp",
       "bytes": 588270,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +806,7 @@
       "path": "images/img-f40a9948d6bc.webp",
       "media_type": "image/webp",
       "bytes": 567532,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +814,7 @@
       "path": "images/img-e6de251c129f.webp",
       "media_type": "image/webp",
       "bytes": 158946,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +822,7 @@
       "path": "images/img-7f5a7b77a154.webp",
       "media_type": "image/webp",
       "bytes": 469018,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +830,7 @@
       "path": "images/img-5b6ae5611f23.webp",
       "media_type": "image/webp",
       "bytes": 447430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +838,7 @@
       "path": "images/img-47936397e2e2.webp",
       "media_type": "image/webp",
       "bytes": 545440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +846,7 @@
       "path": "images/img-f2b4c5236235.webp",
       "media_type": "image/webp",
       "bytes": 435070,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +854,7 @@
       "path": "images/img-3df766d4d5c4.webp",
       "media_type": "image/webp",
       "bytes": 361174,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +862,7 @@
       "path": "images/img-4d9075880ffe.webp",
       "media_type": "image/webp",
       "bytes": 369474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +870,7 @@
       "path": "images/img-ec15775cf24f.webp",
       "media_type": "image/webp",
       "bytes": 499378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +878,7 @@
       "path": "images/img-11121e782331.webp",
       "media_type": "image/webp",
       "bytes": 238370,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +886,7 @@
       "path": "images/img-3ad142a31c36.webp",
       "media_type": "image/webp",
       "bytes": 310940,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +894,7 @@
       "path": "images/img-9d2e66de06cb.webp",
       "media_type": "image/webp",
       "bytes": 345616,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +902,7 @@
       "path": "images/img-ffcf0b683e91.webp",
       "media_type": "image/webp",
       "bytes": 265070,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,7 +910,7 @@
       "path": "images/img-72ccf5040a1d.webp",
       "media_type": "image/webp",
       "bytes": 253124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -755,7 +918,7 @@
       "path": "images/img-1bc2363c8c6d.webp",
       "media_type": "image/webp",
       "bytes": 83132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -763,7 +926,7 @@
       "path": "images/img-8d811b2af485.webp",
       "media_type": "image/webp",
       "bytes": 314818,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -771,7 +934,7 @@
       "path": "images/img-91a19c441eeb.webp",
       "media_type": "image/webp",
       "bytes": 336432,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -779,7 +942,7 @@
       "path": "images/img-e56f05c62f03.webp",
       "media_type": "image/webp",
       "bytes": 282060,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -787,7 +950,7 @@
       "path": "images/img-5a4e177b6f5d.webp",
       "media_type": "image/webp",
       "bytes": 453952,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -795,7 +958,7 @@
       "path": "images/img-9c9004f5d9da.webp",
       "media_type": "image/webp",
       "bytes": 347504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -803,7 +966,7 @@
       "path": "images/img-7660b6201fb9.webp",
       "media_type": "image/webp",
       "bytes": 420258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -811,7 +974,7 @@
       "path": "images/img-2b5dd96f3ca2.webp",
       "media_type": "image/webp",
       "bytes": 516562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -819,7 +982,7 @@
       "path": "images/img-63c8eceb0fc3.webp",
       "media_type": "image/webp",
       "bytes": 433246,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -827,7 +990,7 @@
       "path": "images/img-228097d224e0.webp",
       "media_type": "image/webp",
       "bytes": 228424,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -835,7 +998,7 @@
       "path": "images/img-09ce8c6829f7.webp",
       "media_type": "image/webp",
       "bytes": 292566,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -843,7 +1006,7 @@
       "path": "images/img-4a13ffb94dce.webp",
       "media_type": "image/webp",
       "bytes": 109930,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -851,7 +1014,7 @@
       "path": "images/img-5ee1e963c364.webp",
       "media_type": "image/webp",
       "bytes": 213830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -859,7 +1022,7 @@
       "path": "images/img-046a794a6888.webp",
       "media_type": "image/webp",
       "bytes": 147288,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -867,7 +1030,7 @@
       "path": "images/img-70361f295943.webp",
       "media_type": "image/webp",
       "bytes": 351480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -875,7 +1038,7 @@
       "path": "images/img-c1e74a46f3e4.webp",
       "media_type": "image/webp",
       "bytes": 248640,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -883,7 +1046,7 @@
       "path": "images/img-4396197c9d78.webp",
       "media_type": "image/webp",
       "bytes": 491700,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -891,7 +1054,7 @@
       "path": "images/img-18efded2caf8.webp",
       "media_type": "image/webp",
       "bytes": 815128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -899,7 +1062,7 @@
       "path": "images/img-f70c9e52f572.webp",
       "media_type": "image/webp",
       "bytes": 580384,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -907,7 +1070,7 @@
       "path": "images/img-f85c62bffbd8.webp",
       "media_type": "image/webp",
       "bytes": 423140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -915,7 +1078,7 @@
       "path": "images/img-b08d5aa52b95.webp",
       "media_type": "image/webp",
       "bytes": 566766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -923,7 +1086,7 @@
       "path": "images/img-ac0b1597d80a.webp",
       "media_type": "image/webp",
       "bytes": 449168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -931,7 +1094,7 @@
       "path": "images/img-f1e11ac65ff1.webp",
       "media_type": "image/webp",
       "bytes": 742986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -939,7 +1102,7 @@
       "path": "images/img-91f334645acc.webp",
       "media_type": "image/webp",
       "bytes": 131716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -947,7 +1110,7 @@
       "path": "images/img-6c9f26a71fdf.webp",
       "media_type": "image/webp",
       "bytes": 167238,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -955,7 +1118,7 @@
       "path": "images/img-389f7ef7efb5.webp",
       "media_type": "image/webp",
       "bytes": 77258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -963,7 +1126,7 @@
       "path": "images/img-3da08beee651.webp",
       "media_type": "image/webp",
       "bytes": 585408,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -971,7 +1134,7 @@
       "path": "images/img-4c4173c3639c.webp",
       "media_type": "image/webp",
       "bytes": 494312,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -979,7 +1142,7 @@
       "path": "images/img-e749bed85123.webp",
       "media_type": "image/webp",
       "bytes": 834282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -987,7 +1150,7 @@
       "path": "images/img-5d0aec38c687.webp",
       "media_type": "image/webp",
       "bytes": 768424,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -995,7 +1158,7 @@
       "path": "images/img-154f770a15be.webp",
       "media_type": "image/webp",
       "bytes": 614236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1003,7 +1166,7 @@
       "path": "images/img-580221176826.webp",
       "media_type": "image/webp",
       "bytes": 381572,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1011,7 +1174,7 @@
       "path": "images/img-59e4e397acbf.webp",
       "media_type": "image/webp",
       "bytes": 787740,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1019,7 +1182,7 @@
       "path": "images/img-3ca8ab0030b3.webp",
       "media_type": "image/webp",
       "bytes": 739130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1027,7 +1190,7 @@
       "path": "images/img-b211c8d9000d.webp",
       "media_type": "image/webp",
       "bytes": 277868,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1035,7 +1198,7 @@
       "path": "images/img-94492309e0b2.webp",
       "media_type": "image/webp",
       "bytes": 214716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1043,7 +1206,7 @@
       "path": "images/img-512b9bb3dbf0.webp",
       "media_type": "image/webp",
       "bytes": 321724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1051,7 +1214,7 @@
       "path": "images/img-871af1718f40.webp",
       "media_type": "image/webp",
       "bytes": 268292,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1059,7 +1222,7 @@
       "path": "images/img-e406a074ec4c.webp",
       "media_type": "image/webp",
       "bytes": 473906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1067,7 +1230,7 @@
       "path": "images/img-d0fc37a2f4d1.webp",
       "media_type": "image/webp",
       "bytes": 281318,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1075,7 +1238,7 @@
       "path": "images/img-a0f42dc98df9.webp",
       "media_type": "image/webp",
       "bytes": 970286,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1083,7 +1246,7 @@
       "path": "images/img-fda90cc9dc34.webp",
       "media_type": "image/webp",
       "bytes": 998492,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1091,7 +1254,7 @@
       "path": "images/img-48a515fa9b1c.webp",
       "media_type": "image/webp",
       "bytes": 523274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1099,7 +1262,7 @@
       "path": "images/img-468491bfa458.webp",
       "media_type": "image/webp",
       "bytes": 929196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1107,7 +1270,7 @@
       "path": "images/img-f7c5c1c3c938.webp",
       "media_type": "image/webp",
       "bytes": 329598,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1115,7 +1278,7 @@
       "path": "images/img-6fba9a3f5031.webp",
       "media_type": "image/webp",
       "bytes": 433930,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1123,7 +1286,7 @@
       "path": "images/img-d808dc380f21.webp",
       "media_type": "image/webp",
       "bytes": 472780,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1131,7 +1294,7 @@
       "path": "images/img-7593142641fb.webp",
       "media_type": "image/webp",
       "bytes": 469430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1139,7 +1302,7 @@
       "path": "images/img-d2e1ca012e0c.webp",
       "media_type": "image/webp",
       "bytes": 417866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1147,7 +1310,7 @@
       "path": "images/img-978e62efa5c7.webp",
       "media_type": "image/webp",
       "bytes": 384492,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1155,7 +1318,7 @@
       "path": "images/img-5eaaa4f3f3f1.webp",
       "media_type": "image/webp",
       "bytes": 209104,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1163,7 +1326,7 @@
       "path": "images/img-09ddaea2034a.webp",
       "media_type": "image/webp",
       "bytes": 275680,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1171,7 +1334,7 @@
       "path": "images/img-b3e0b496604f.webp",
       "media_type": "image/webp",
       "bytes": 247482,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1179,7 +1342,7 @@
       "path": "images/img-a4297939fff9.webp",
       "media_type": "image/webp",
       "bytes": 300510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1187,7 +1350,7 @@
       "path": "images/img-7bdb648b93f1.webp",
       "media_type": "image/webp",
       "bytes": 308404,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1195,7 +1358,7 @@
       "path": "images/img-b232327a1630.webp",
       "media_type": "image/webp",
       "bytes": 306712,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1203,7 +1366,7 @@
       "path": "images/img-fc01a743fe05.webp",
       "media_type": "image/webp",
       "bytes": 430638,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1211,7 +1374,7 @@
       "path": "images/img-cbbd4b654f09.webp",
       "media_type": "image/webp",
       "bytes": 372354,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1219,7 +1382,7 @@
       "path": "images/img-860b4c831471.webp",
       "media_type": "image/webp",
       "bytes": 121764,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1227,7 +1390,7 @@
       "path": "images/img-b8c1d330dbc4.webp",
       "media_type": "image/webp",
       "bytes": 204736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1235,7 +1398,7 @@
       "path": "images/img-dc4094dbe509.webp",
       "media_type": "image/webp",
       "bytes": 276452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1243,7 +1406,7 @@
       "path": "images/img-9f8590fb5451.webp",
       "media_type": "image/webp",
       "bytes": 291916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1251,7 +1414,7 @@
       "path": "images/img-138a413ab854.webp",
       "media_type": "image/webp",
       "bytes": 445320,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1259,7 +1422,7 @@
       "path": "images/img-ec5accd5423c.webp",
       "media_type": "image/webp",
       "bytes": 442714,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1267,7 +1430,7 @@
       "path": "images/img-7bde5f1be967.webp",
       "media_type": "image/webp",
       "bytes": 423416,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1275,7 +1438,7 @@
       "path": "images/img-0f873decc18d.webp",
       "media_type": "image/webp",
       "bytes": 389336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1283,7 +1446,7 @@
       "path": "images/img-6e7ee3e619b1.webp",
       "media_type": "image/webp",
       "bytes": 422010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1291,7 +1454,7 @@
       "path": "images/img-980d62b2fb9c.webp",
       "media_type": "image/webp",
       "bytes": 195202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1299,7 +1462,7 @@
       "path": "images/img-a33bb68686e5.webp",
       "media_type": "image/webp",
       "bytes": 281212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1307,7 +1470,7 @@
       "path": "images/img-5dce7269c40e.webp",
       "media_type": "image/webp",
       "bytes": 225124,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1315,25 +1478,37 @@
       "path": "images/img-51d072342e89.webp",
       "media_type": "image/webp",
       "bytes": 822882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/2200xxs%2843%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1cb6431eaab8.webp",
+      "media_type": "image/webp",
+      "bytes": 483520,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/2200xxs%2844%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b4ccfec8db8a.webp",
+      "media_type": "image/webp",
+      "bytes": 800374,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/hope-id-usa/Single%20Family%20Residence%20In%20Hope%20In%20Hope,%20Idaho,%20United%20States%20For%20Sale%20%2818184196%29_files/2200xxs%2845%29.jpg",
+      "path": "images/img-92761dbd9897.webp",
+      "media_type": "image/webp",
+      "bytes": 150686,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/16/26/08/29932eba-bec5-4d11-aba8-53c26127a69d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1341,7 +1516,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1349,7 +1524,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1357,7 +1532,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1365,13 +1540,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 97,
-    "images_existing": 0,
-    "images_failed": 12,
+    "images_new": 7,
+    "images_existing": 97,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

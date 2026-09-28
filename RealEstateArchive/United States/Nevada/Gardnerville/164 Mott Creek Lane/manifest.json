@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:23:12.538305Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/nevada-mountain-compound-with-lake-tahoe-access-within-10-min-on-10-acres-17102877",
     "canonical_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/nevada-mountain-compound-with-lake-tahoe-access-within-10-min-on-10-acres-17102877",
@@ -9,13 +9,18 @@
     "listing_reference": "250006254",
     "first_listed": "Feb 7",
     "last_updated": "May 28",
-    "retrieved_at": "2026-08-28T00:29:39.715588Z"
+    "retrieved_at": "2026-09-28T00:23:08.283187Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3934,
-      "sha256": "fc28bd6a48a367139020848fe160ef9b11b47042549ed2c0430cb510b47f2c36"
+      "sha256": "d0ec9781a5ef77af8319850291898177eb30a97bf5661ab1483a258aa243719f"
+    },
+    {
+      "path": "images/img-09f2cf30be70.webp",
+      "bytes": 310802,
+      "sha256": "bc9cfc57d766f41414b65592cfa3b197f45bd6965ab7c363d6c5fc340f42cd39"
     },
     {
       "path": "images/img-0ae69ac631f8.webp",
@@ -68,6 +73,11 @@
       "sha256": "5759db763b2afd42ffddfa8bea0d30e069afec573cc29464dded6c93014ecd6f"
     },
     {
+      "path": "images/img-2d72a632ea7f.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-315e85f84235.webp",
       "bytes": 650052,
       "sha256": "8d79c44b9037f4fbba5ea7251d8b7637a7be5666d1f8653287e8e47260b00343"
@@ -81,6 +91,11 @@
       "path": "images/img-365fbf5e3963.webp",
       "bytes": 38230,
       "sha256": "29098731c0775db0c5b4b80c4c7445d23172875ce389047d69ea653c0f5aac69"
+    },
+    {
+      "path": "images/img-3a069a445d44.webp",
+      "bytes": 420450,
+      "sha256": "7e8e3ec11757e2e9328b05445e0dea1a578f0aacab98823d21c6881c45dcecf1"
     },
     {
       "path": "images/img-3d28712eb30f.webp",
@@ -101,6 +116,16 @@
       "path": "images/img-444634c86d14.webp",
       "bytes": 172982,
       "sha256": "263d7392a0d69ff48745fe0f103b24491666d001efb43afac7fbe655dfcf542e"
+    },
+    {
+      "path": "images/img-485fa5586ba0.png",
+      "bytes": 13468,
+      "sha256": "acbddb14f1cfda3667fb92eb17284e530f81d8f7321433d3ecf558e4d78736e0"
+    },
+    {
+      "path": "images/img-499ebfba5b51.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-4b1ef4044aed.webp",
@@ -166,6 +191,11 @@
       "path": "images/img-64e8f87c56f7.webp",
       "bytes": 354220,
       "sha256": "2d7ed98d52071b6651c1c5ee86c6876e6b0390e4566d754303c84cb61892093a"
+    },
+    {
+      "path": "images/img-6695a34c0a80.webp",
+      "bytes": 7454,
+      "sha256": "67b3d6fbe6f41691367ce8ccef9bc3d47274fd52929717986371a6399c0e1f11"
     },
     {
       "path": "images/img-68d5d659e80c.webp",
@@ -373,6 +403,11 @@
       "sha256": "1201dc294255cd819760ff010e96d9a22a5952ae0aef6cc931e5a7138acf88c5"
     },
     {
+      "path": "images/img-e07ae5c6000a.webp",
+      "bytes": 433974,
+      "sha256": "0b71b84f4b823e5e59b870daa25487f12a8d64f41f1ebc45ce6a139b0a2bd78a"
+    },
+    {
       "path": "images/img-e22dba82634d.webp",
       "bytes": 303502,
       "sha256": "3de6c6df30bdecfb1cd969638a25aef4266f2a8806cd007d574926f312878437"
@@ -419,8 +454,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 42771,
-      "sha256": "ad19b6b735bc60c9ccda4339f400c5030742021d608dd0ba2cccc1485708ab93"
+      "bytes": 84167,
+      "sha256": "ab43bba2eef0dde13bc61e101ad09dbaafe2d0aff411ed6b0f967670ef132b07"
     },
     {
       "path": "source.html",
@@ -441,11 +476,29 @@
   "assets": [
     {
       "kind": "video",
-      "source_url": "https://player.vimeo.com/video/871605519?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/871605519?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/1040x620xc.jpg",
       "poster_path": "videos/img-b714265c2a60.webp",
-      "error": "response is not a recognized video"
+      "error": "yt-dlp could not download the video player URL"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -453,13 +506,31 @@
       "path": "images/img-4b4b036d9017.webp",
       "media_type": "image/webp",
       "bytes": 873038,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/50460d36-9f3a-4c38-99b5-d95346f7ab1d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/50460d36-9f3a-4c38-99b5-d95346f7ab1d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/50460d36-9f3a-4c38-99b5-d95346f7ab1d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/50460d36-9f3a-4c38-99b5-d95346f7ab1d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/50460d36-9f3a-4c38-99b5-d95346f7ab1d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/50460d36-9f3a-4c38-99b5-d95346f7ab1d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -467,13 +538,31 @@
       "path": "images/img-cda4337e76b9.webp",
       "media_type": "image/webp",
       "bytes": 250672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/6bbe6550-661b-412d-91a4-90a989b821bd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/6bbe6550-661b-412d-91a4-90a989b821bd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/6bbe6550-661b-412d-91a4-90a989b821bd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/6bbe6550-661b-412d-91a4-90a989b821bd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/6bbe6550-661b-412d-91a4-90a989b821bd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/6bbe6550-661b-412d-91a4-90a989b821bd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -481,13 +570,31 @@
       "path": "images/img-a081d4d73a1f.webp",
       "media_type": "image/webp",
       "bytes": 672030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/d51bf3a7-025a-4d76-abf8-ef694bcd7af2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/d51bf3a7-025a-4d76-abf8-ef694bcd7af2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/d51bf3a7-025a-4d76-abf8-ef694bcd7af2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/d51bf3a7-025a-4d76-abf8-ef694bcd7af2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/d51bf3a7-025a-4d76-abf8-ef694bcd7af2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/d51bf3a7-025a-4d76-abf8-ef694bcd7af2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -495,13 +602,31 @@
       "path": "images/img-f927c49be5ac.webp",
       "media_type": "image/webp",
       "bytes": 1014154,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e2cb1b92-7a77-4bea-915e-6818e54ed69c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e2cb1b92-7a77-4bea-915e-6818e54ed69c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e2cb1b92-7a77-4bea-915e-6818e54ed69c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e2cb1b92-7a77-4bea-915e-6818e54ed69c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e2cb1b92-7a77-4bea-915e-6818e54ed69c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e2cb1b92-7a77-4bea-915e-6818e54ed69c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -509,37 +634,75 @@
       "path": "images/img-7a0f1f3e860c.webp",
       "media_type": "image/webp",
       "bytes": 698022,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/M00000467.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-485fa5586ba0.png",
+      "media_type": "image/png",
+      "bytes": 13468,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-6695a34c0a80.webp",
+      "media_type": "image/webp",
+      "bytes": 7454,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-2d72a632ea7f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-499ebfba5b51.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/50460d36-9f3a-4c38-99b5-d95346f7ab1d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/50460d36-9f3a-4c38-99b5-d95346f7ab1d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/6bbe6550-661b-412d-91a4-90a989b821bd/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/6bbe6550-661b-412d-91a4-90a989b821bd/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/d51bf3a7-025a-4d76-abf8-ef694bcd7af2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/23/13/24/56/d51bf3a7-025a-4d76-abf8-ef694bcd7af2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e2cb1b92-7a77-4bea-915e-6818e54ed69c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e2cb1b92-7a77-4bea-915e-6818e54ed69c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -547,7 +710,7 @@
       "path": "images/img-dc4352207a0a.webp",
       "media_type": "image/webp",
       "bytes": 323686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -555,7 +718,7 @@
       "path": "images/img-1dd74eac07b5.webp",
       "media_type": "image/webp",
       "bytes": 362186,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -563,7 +726,7 @@
       "path": "images/img-8bcd7a2a3361.webp",
       "media_type": "image/webp",
       "bytes": 241914,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -571,7 +734,7 @@
       "path": "images/img-4dc1821700da.webp",
       "media_type": "image/webp",
       "bytes": 353234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -579,7 +742,7 @@
       "path": "images/img-ddcd633177f3.webp",
       "media_type": "image/webp",
       "bytes": 287260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -587,7 +750,7 @@
       "path": "images/img-c08e5cd7d5cc.webp",
       "media_type": "image/webp",
       "bytes": 630282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -595,7 +758,7 @@
       "path": "images/img-555927b3b1d3.webp",
       "media_type": "image/webp",
       "bytes": 280220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -603,7 +766,7 @@
       "path": "images/img-d0bde3b4fecd.webp",
       "media_type": "image/webp",
       "bytes": 408248,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -611,7 +774,7 @@
       "path": "images/img-1f31b59505da.webp",
       "media_type": "image/webp",
       "bytes": 269786,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -619,7 +782,7 @@
       "path": "images/img-794e552bd45a.webp",
       "media_type": "image/webp",
       "bytes": 326880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +790,7 @@
       "path": "images/img-c59a4881d888.webp",
       "media_type": "image/webp",
       "bytes": 255636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +798,7 @@
       "path": "images/img-0d6dc0fa52af.webp",
       "media_type": "image/webp",
       "bytes": 274898,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +806,7 @@
       "path": "images/img-fc5cb90b66bf.webp",
       "media_type": "image/webp",
       "bytes": 294878,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +814,7 @@
       "path": "images/img-982229eb7dd1.webp",
       "media_type": "image/webp",
       "bytes": 359818,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +822,7 @@
       "path": "images/img-f7862eeebe55.webp",
       "media_type": "image/webp",
       "bytes": 320100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +830,7 @@
       "path": "images/img-c44e8beb4304.webp",
       "media_type": "image/webp",
       "bytes": 376056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +838,7 @@
       "path": "images/img-ca3aef543239.webp",
       "media_type": "image/webp",
       "bytes": 258138,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +846,7 @@
       "path": "images/img-8f4658169710.webp",
       "media_type": "image/webp",
       "bytes": 384784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +854,7 @@
       "path": "images/img-895865cfa63c.webp",
       "media_type": "image/webp",
       "bytes": 268276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +862,7 @@
       "path": "images/img-3ef894bf8cbc.webp",
       "media_type": "image/webp",
       "bytes": 220070,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +870,7 @@
       "path": "images/img-25554d5b0dfc.webp",
       "media_type": "image/webp",
       "bytes": 214902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +878,7 @@
       "path": "images/img-91b1234800d4.webp",
       "media_type": "image/webp",
       "bytes": 180386,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +886,7 @@
       "path": "images/img-72b520705465.webp",
       "media_type": "image/webp",
       "bytes": 295582,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +894,7 @@
       "path": "images/img-c13251b124b9.webp",
       "media_type": "image/webp",
       "bytes": 365452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +902,7 @@
       "path": "images/img-d4adfa5005b1.webp",
       "media_type": "image/webp",
       "bytes": 381054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,7 +910,7 @@
       "path": "images/img-64e8f87c56f7.webp",
       "media_type": "image/webp",
       "bytes": 354220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -755,7 +918,7 @@
       "path": "images/img-b9d4e6dc0234.webp",
       "media_type": "image/webp",
       "bytes": 302960,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -763,7 +926,7 @@
       "path": "images/img-68d5d659e80c.webp",
       "media_type": "image/webp",
       "bytes": 275030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -771,7 +934,7 @@
       "path": "images/img-dd85b892bedf.webp",
       "media_type": "image/webp",
       "bytes": 290636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -779,7 +942,7 @@
       "path": "images/img-eee707d57ff4.webp",
       "media_type": "image/webp",
       "bytes": 202738,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -787,7 +950,7 @@
       "path": "images/img-444634c86d14.webp",
       "media_type": "image/webp",
       "bytes": 172982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -795,7 +958,7 @@
       "path": "images/img-628660f1ff28.webp",
       "media_type": "image/webp",
       "bytes": 256108,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -803,7 +966,7 @@
       "path": "images/img-e22dba82634d.webp",
       "media_type": "image/webp",
       "bytes": 303502,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -811,7 +974,7 @@
       "path": "images/img-64a58ac906a9.webp",
       "media_type": "image/webp",
       "bytes": 246018,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -819,7 +982,7 @@
       "path": "images/img-43a71962f322.webp",
       "media_type": "image/webp",
       "bytes": 341344,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -827,7 +990,7 @@
       "path": "images/img-86a6eb87eefc.webp",
       "media_type": "image/webp",
       "bytes": 278330,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -835,7 +998,7 @@
       "path": "images/img-50b4d22ba2ce.webp",
       "media_type": "image/webp",
       "bytes": 177414,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -843,7 +1006,7 @@
       "path": "images/img-5274f1451137.webp",
       "media_type": "image/webp",
       "bytes": 579734,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -851,7 +1014,7 @@
       "path": "images/img-bb6bdec8accd.webp",
       "media_type": "image/webp",
       "bytes": 373160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -859,7 +1022,7 @@
       "path": "images/img-a42603e56a9c.webp",
       "media_type": "image/webp",
       "bytes": 348066,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -867,7 +1030,7 @@
       "path": "images/img-18a99ae9d2e8.webp",
       "media_type": "image/webp",
       "bytes": 156678,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -875,7 +1038,7 @@
       "path": "images/img-b28e8e6b42f8.webp",
       "media_type": "image/webp",
       "bytes": 357326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -883,7 +1046,7 @@
       "path": "images/img-b2e46919aec8.webp",
       "media_type": "image/webp",
       "bytes": 275310,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -891,7 +1054,7 @@
       "path": "images/img-12ef4502de45.webp",
       "media_type": "image/webp",
       "bytes": 368612,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -899,7 +1062,7 @@
       "path": "images/img-8e66200d960c.webp",
       "media_type": "image/webp",
       "bytes": 204760,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -907,7 +1070,7 @@
       "path": "images/img-c8421b4011ac.webp",
       "media_type": "image/webp",
       "bytes": 273280,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -915,7 +1078,7 @@
       "path": "images/img-34f5f64ca88b.webp",
       "media_type": "image/webp",
       "bytes": 672536,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -923,7 +1086,7 @@
       "path": "images/img-11afcd4b01e5.webp",
       "media_type": "image/webp",
       "bytes": 567638,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -931,7 +1094,7 @@
       "path": "images/img-798961b11bf4.webp",
       "media_type": "image/webp",
       "bytes": 477318,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -939,7 +1102,7 @@
       "path": "images/img-f8af8f86b412.webp",
       "media_type": "image/webp",
       "bytes": 433266,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -947,7 +1110,7 @@
       "path": "images/img-5a09a5e3fede.webp",
       "media_type": "image/webp",
       "bytes": 211962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -955,7 +1118,7 @@
       "path": "images/img-3d28712eb30f.webp",
       "media_type": "image/webp",
       "bytes": 404920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -963,7 +1126,7 @@
       "path": "images/img-5d02a654e108.webp",
       "media_type": "image/webp",
       "bytes": 343306,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -971,7 +1134,7 @@
       "path": "images/img-ff540eb30b0a.webp",
       "media_type": "image/webp",
       "bytes": 590146,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -979,7 +1142,7 @@
       "path": "images/img-f98720d859b4.webp",
       "media_type": "image/webp",
       "bytes": 465054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -987,7 +1150,7 @@
       "path": "images/img-80247cf2b447.webp",
       "media_type": "image/webp",
       "bytes": 548736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -995,7 +1158,7 @@
       "path": "images/img-0ae69ac631f8.webp",
       "media_type": "image/webp",
       "bytes": 766974,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1003,7 +1166,7 @@
       "path": "images/img-c5ac0c37d116.webp",
       "media_type": "image/webp",
       "bytes": 667240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1011,7 +1174,7 @@
       "path": "images/img-b437127d2435.webp",
       "media_type": "image/webp",
       "bytes": 851388,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1019,7 +1182,7 @@
       "path": "images/img-b98f4e17dd8a.webp",
       "media_type": "image/webp",
       "bytes": 672002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1027,7 +1190,7 @@
       "path": "images/img-a758a5c15dda.webp",
       "media_type": "image/webp",
       "bytes": 523846,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1035,7 +1198,7 @@
       "path": "images/img-1631584171aa.webp",
       "media_type": "image/webp",
       "bytes": 504310,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1043,7 +1206,7 @@
       "path": "images/img-904577c511e2.webp",
       "media_type": "image/webp",
       "bytes": 563220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1051,7 +1214,7 @@
       "path": "images/img-781030a38c53.webp",
       "media_type": "image/webp",
       "bytes": 702010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1059,7 +1222,7 @@
       "path": "images/img-315e85f84235.webp",
       "media_type": "image/webp",
       "bytes": 650052,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1067,7 +1230,7 @@
       "path": "images/img-f335d29c894f.webp",
       "media_type": "image/webp",
       "bytes": 568032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1075,7 +1238,7 @@
       "path": "images/img-755aa1201168.webp",
       "media_type": "image/webp",
       "bytes": 783854,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1083,7 +1246,7 @@
       "path": "images/img-23db4d0e382a.webp",
       "media_type": "image/webp",
       "bytes": 724856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1091,7 +1254,7 @@
       "path": "images/img-c2e929c24f60.webp",
       "media_type": "image/webp",
       "bytes": 875220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1099,7 +1262,7 @@
       "path": "images/img-7574bc8b1843.webp",
       "media_type": "image/webp",
       "bytes": 42352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1107,7 +1270,7 @@
       "path": "images/img-4b1ef4044aed.webp",
       "media_type": "image/webp",
       "bytes": 44882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1115,7 +1278,7 @@
       "path": "images/img-365fbf5e3963.webp",
       "media_type": "image/webp",
       "bytes": 38230,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1123,7 +1286,7 @@
       "path": "images/img-5152849443ab.webp",
       "media_type": "image/webp",
       "bytes": 198030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1131,25 +1294,37 @@
       "path": "images/img-6b2e13d21b3c.webp",
       "media_type": "image/webp",
       "bytes": 831622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/2200xxs%2846%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-3a069a445d44.webp",
+      "media_type": "image/webp",
+      "bytes": 420450,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/2200xxs%2847%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-09f2cf30be70.webp",
+      "media_type": "image/webp",
+      "bytes": 310802,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/gardnerville-nv-usa/Nevada%20Mountain%20Compound%20With%20Lake%20Tahoe%20In%20Gardnerville,%20Nevada,%20United%20States%20For%20Sale%20%2817102877%29_files/2200xxs%2848%29.jpg",
+      "path": "images/img-e07ae5c6000a.webp",
+      "media_type": "image/webp",
+      "bytes": 433974,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/59/e1ad3d03-94f0-4ce1-8053-a42430ba4549/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1157,31 +1332,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 80,
-    "images_existing": 0,
-    "images_failed": 15,
+    "images_new": 7,
+    "images_existing": 80,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 1

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:21:27.703407Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/forte-tortagna-a-historic-fortress-reborn-as-an-exclusive-residence-16276613",
     "canonical_url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/forte-tortagna-a-historic-fortress-reborn-as-an-exclusive-residence-16276613",
@@ -8,13 +8,13 @@
     "listing_id": "16276613",
     "first_listed": "Sep 29, 2025",
     "last_updated": "May 23",
-    "retrieved_at": "2026-06-18T07:08:40.936749Z"
+    "retrieved_at": "2026-09-28T00:21:27.299175Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3131,
-      "sha256": "52d4d0860eb67f4a63687443e3ef804dfeed4d71748ba8dbde241f2029149347"
+      "bytes": 3132,
+      "sha256": "5348531e217dc7f5bac1aa0fcdc79def7fe8e82ad61d9399fcfbcd88e14e30d0"
     },
     {
       "path": "images/004-27136e23.webp",
@@ -62,9 +62,19 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-1f71b3d52272.webp",
+      "bytes": 6236,
+      "sha256": "5873850b8d1ccb5212ca7ccba8fecacc23a2580449ada7450b1ee6a4660fd77f"
+    },
+    {
+      "path": "images/img-3fb21028f570.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 17689,
-      "sha256": "d6134dd0a7c148c00952277d45572dd8c8bc360d624eb5fb1445eb26f4777c5d"
+      "bytes": 47870,
+      "sha256": "423c4716dd528b0aa890253da63dd3e212f6cacb9b99af3259980d1f1a8bcc22"
     },
     {
       "path": "source.html",
@@ -80,6 +90,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/2200xxs.jpg",
       "path": "images/004-27136e23.webp",
       "media_type": "image/webp",
@@ -89,7 +117,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/912f647c-0b89-4bf2-a816-d4c74f299b73/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/912f647c-0b89-4bf2-a816-d4c74f299b73/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/912f647c-0b89-4bf2-a816-d4c74f299b73/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/912f647c-0b89-4bf2-a816-d4c74f299b73/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/912f647c-0b89-4bf2-a816-d4c74f299b73/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/912f647c-0b89-4bf2-a816-d4c74f299b73/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -102,7 +149,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/7004606c-b9d8-4f0d-bf0f-95537896fd83/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/7004606c-b9d8-4f0d-bf0f-95537896fd83/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/7004606c-b9d8-4f0d-bf0f-95537896fd83/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/7004606c-b9d8-4f0d-bf0f-95537896fd83/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/7004606c-b9d8-4f0d-bf0f-95537896fd83/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/7004606c-b9d8-4f0d-bf0f-95537896fd83/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -115,7 +181,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/85a71acf-f2f1-4ce0-bfc5-4c49ec6dc96d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/85a71acf-f2f1-4ce0-bfc5-4c49ec6dc96d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/85a71acf-f2f1-4ce0-bfc5-4c49ec6dc96d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/85a71acf-f2f1-4ce0-bfc5-4c49ec6dc96d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/85a71acf-f2f1-4ce0-bfc5-4c49ec6dc96d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/58/85a71acf-f2f1-4ce0-bfc5-4c49ec6dc96d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -128,7 +213,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/a72bb680-a2e0-4200-b127-33510dbd5374/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/a72bb680-a2e0-4200-b127-33510dbd5374/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/a72bb680-a2e0-4200-b127-33510dbd5374/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/a72bb680-a2e0-4200-b127-33510dbd5374/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/a72bb680-a2e0-4200-b127-33510dbd5374/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/a72bb680-a2e0-4200-b127-33510dbd5374/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -141,17 +245,30 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1f71b3d52272.webp",
+      "media_type": "image/webp",
+      "bytes": 6236,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/finale-ligure-italy/Forte%20Tortagna%20%E2%80%94%20A%20Historic%20In%20Finale%20Pia%20Calvisio,%20Finale%20Ligure,%20Liguria%20For%20Sale%20%2816276613%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3fb21028f570.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/26/14/54/57/1ce20287-8d0f-43bb-9182-28ae0ca4b6ba/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -187,9 +304,9 @@
     }
   ],
   "summary": {
-    "images_new": 7,
+    "images_new": 2,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

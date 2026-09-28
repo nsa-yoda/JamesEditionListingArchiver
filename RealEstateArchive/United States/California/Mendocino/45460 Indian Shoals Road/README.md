@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/mendocino-ca-usa/single-family-residence-in-mendocino-18088869
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:42:08Z
+- Retrieved: 2026-09-28T00:25:19Z
 - Address: 45460 Indian Shoals Road, Mendocino, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.34307598,-123.81753598
 - Coordinates: 39.34, -123.82
@@ -10,7 +10,7 @@
 - Listing reference: C1-11418
 - First listed: Jun 5
 - Last updated: June 5
-- Images downloaded: 54
+- Images downloaded: 58
 
 ## Property
 

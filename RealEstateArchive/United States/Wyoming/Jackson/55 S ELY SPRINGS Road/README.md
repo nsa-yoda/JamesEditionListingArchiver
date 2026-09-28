@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/jackson-wy-usa/55-s-ely-springs-road-17544603
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:49Z
+- Retrieved: 2026-09-28T00:18:49Z
 - Address: 55 S ELY SPRINGS Road, Jackson, WY 83001, Wyoming, United States
 - Map: https://www.google.com/maps/search/?api=1&query=43.479747,-110.844543
 - Coordinates: 43.48, -110.84
@@ -10,7 +10,7 @@
 - Listing reference: 55-s-ely-springs-road-jackson-wy-83001-20251105023655530332000000
 - First listed: Apr 2
 - Last updated: May 8
-- Images downloaded: 71
+- Images downloaded: 74
 
 ## Property
 

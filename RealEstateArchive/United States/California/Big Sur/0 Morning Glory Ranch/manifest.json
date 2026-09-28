@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:22:42.756913Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/manufactured-home-in-big-sur-16521496",
     "canonical_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/manufactured-home-in-big-sur-16521496",
@@ -9,13 +9,13 @@
     "listing_reference": "SC25234598",
     "first_listed": "Oct 28, 2025",
     "last_updated": "April 21",
-    "retrieved_at": "2026-06-19T08:34:01.903821Z"
+    "retrieved_at": "2026-09-28T00:22:42.361541Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2049,
-      "sha256": "d5b21bf8fe2ed994a07c962dd592a680e207edd25783c86332d19f93db87d419"
+      "sha256": "979021b9fbfe82f79401b7167d7808ad2d55d4feb08e4b6f565b38d4625df551"
     },
     {
       "path": "images/img-007fc4e2bf3b.webp",
@@ -53,6 +53,11 @@
       "sha256": "633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140"
     },
     {
+      "path": "images/img-308774bcb4a6.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-3d2fea4f09b5.webp",
       "bytes": 181468,
       "sha256": "cf1ab74ac86a5fd374568e89ef05e123923c84e1c000569026530b635152bd57"
@@ -86,6 +91,11 @@
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-59252930c78f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-59a6ed44cb46.webp",
@@ -138,6 +148,11 @@
       "sha256": "dfb4f086a2c85e6649c5e02c4ed7d49a219af10266a6459a23a348296f58aa00"
     },
     {
+      "path": "images/img-b7946d087ad0.webp",
+      "bytes": 3912,
+      "sha256": "441f7e94bdb6cfb31bfc916bddd5ed14c5f806528bc66dbfd145504b80010467"
+    },
+    {
       "path": "images/img-b85ffd154704.webp",
       "bytes": 208422,
       "sha256": "8170cf4ac247919a1b6258f9f7627d73005d5ff408a4cabfcc373c3bcb2d1848"
@@ -183,6 +198,11 @@
       "sha256": "760ba5e1386b03a1aaa4dcecd98c71331af74618514ef223a8dd9ada894df17c"
     },
     {
+      "path": "images/img-e67bc2176212.png",
+      "bytes": 4795,
+      "sha256": "63d0fa424fdab4dcab3653755a6775630225546baa15fc53e736532813e913cf"
+    },
+    {
       "path": "images/img-eb93d8e7182d.webp",
       "bytes": 208312,
       "sha256": "923ab6cfeb2344cb2b5f4e1872819877abb696ce3f9fd0df04f23626b01cdb2c"
@@ -204,8 +224,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 24131,
-      "sha256": "b00f40c996608fe2891a44b5830c6c3986da58409a0c2762df5be04c1ade1a05"
+      "bytes": 59784,
+      "sha256": "f1267713068dea87e22c7574ab4b39718daee2a8c9a165ddb36c82a1dadbeb61"
     },
     {
       "path": "source.html",
@@ -221,17 +241,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/2200xxs.jpg",
       "path": "images/img-61bdf030bceb.webp",
       "media_type": "image/webp",
       "bytes": 91246,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/71b8be5d-dcb8-4dd8-9ed5-726d0ca806e7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/71b8be5d-dcb8-4dd8-9ed5-726d0ca806e7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/71b8be5d-dcb8-4dd8-9ed5-726d0ca806e7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/71b8be5d-dcb8-4dd8-9ed5-726d0ca806e7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/71b8be5d-dcb8-4dd8-9ed5-726d0ca806e7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/71b8be5d-dcb8-4dd8-9ed5-726d0ca806e7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -239,13 +295,31 @@
       "path": "images/img-9b64b60d7bd0.webp",
       "media_type": "image/webp",
       "bytes": 46978,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/88095b4b-15f4-4707-b173-32075336af44/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/88095b4b-15f4-4707-b173-32075336af44/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/88095b4b-15f4-4707-b173-32075336af44/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/88095b4b-15f4-4707-b173-32075336af44/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/88095b4b-15f4-4707-b173-32075336af44/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/88095b4b-15f4-4707-b173-32075336af44/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -253,13 +327,31 @@
       "path": "images/img-19bd3b7eba89.webp",
       "media_type": "image/webp",
       "bytes": 241864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/c3de468d-8179-4dde-9bea-a9954036a5e7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/c3de468d-8179-4dde-9bea-a9954036a5e7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/c3de468d-8179-4dde-9bea-a9954036a5e7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/c3de468d-8179-4dde-9bea-a9954036a5e7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/c3de468d-8179-4dde-9bea-a9954036a5e7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/c3de468d-8179-4dde-9bea-a9954036a5e7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -267,13 +359,31 @@
       "path": "images/img-e0007ee45037.webp",
       "media_type": "image/webp",
       "bytes": 192814,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/3f10a0e1-da00-4619-b75f-d2636cefd9a6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/3f10a0e1-da00-4619-b75f-d2636cefd9a6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/3f10a0e1-da00-4619-b75f-d2636cefd9a6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/3f10a0e1-da00-4619-b75f-d2636cefd9a6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/3f10a0e1-da00-4619-b75f-d2636cefd9a6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/3f10a0e1-da00-4619-b75f-d2636cefd9a6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -281,37 +391,75 @@
       "path": "images/img-3d2fea4f09b5.webp",
       "media_type": "image/webp",
       "bytes": 181468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/M00000846.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e67bc2176212.png",
+      "media_type": "image/png",
+      "bytes": 4795,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b7946d087ad0.webp",
+      "media_type": "image/webp",
+      "bytes": 3912,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-308774bcb4a6.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-59252930c78f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/71b8be5d-dcb8-4dd8-9ed5-726d0ca806e7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/71b8be5d-dcb8-4dd8-9ed5-726d0ca806e7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/88095b4b-15f4-4707-b173-32075336af44/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/88095b4b-15f4-4707-b173-32075336af44/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/c3de468d-8179-4dde-9bea-a9954036a5e7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/c3de468d-8179-4dde-9bea-a9954036a5e7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/3f10a0e1-da00-4619-b75f-d2636cefd9a6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/3f10a0e1-da00-4619-b75f-d2636cefd9a6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -319,7 +467,7 @@
       "path": "images/img-cd551e2289a0.webp",
       "media_type": "image/webp",
       "bytes": 118000,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -327,7 +475,7 @@
       "path": "images/img-759f1e43d644.webp",
       "media_type": "image/webp",
       "bytes": 163196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -335,7 +483,7 @@
       "path": "images/img-bf7a06de6555.webp",
       "media_type": "image/webp",
       "bytes": 147012,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -343,7 +491,7 @@
       "path": "images/img-027b1d156c61.webp",
       "media_type": "image/webp",
       "bytes": 143902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -351,7 +499,7 @@
       "path": "images/img-1b9fa6938196.webp",
       "media_type": "image/webp",
       "bytes": 110524,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -359,7 +507,7 @@
       "path": "images/img-f13f7e6e0e44.webp",
       "media_type": "image/webp",
       "bytes": 121236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -367,7 +515,7 @@
       "path": "images/img-8877f1bad222.webp",
       "media_type": "image/webp",
       "bytes": 134858,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -375,7 +523,7 @@
       "path": "images/img-007fc4e2bf3b.webp",
       "media_type": "image/webp",
       "bytes": 205744,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -383,7 +531,7 @@
       "path": "images/img-a88d95cb3e08.webp",
       "media_type": "image/webp",
       "bytes": 154148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -391,7 +539,7 @@
       "path": "images/img-eb93d8e7182d.webp",
       "media_type": "image/webp",
       "bytes": 208312,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -399,7 +547,7 @@
       "path": "images/img-59a6ed44cb46.webp",
       "media_type": "image/webp",
       "bytes": 172038,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -407,7 +555,7 @@
       "path": "images/img-504f2e33c359.webp",
       "media_type": "image/webp",
       "bytes": 44864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -415,7 +563,7 @@
       "path": "images/img-821170096f9f.webp",
       "media_type": "image/webp",
       "bytes": 69504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -423,7 +571,7 @@
       "path": "images/img-41361d692a62.webp",
       "media_type": "image/webp",
       "bytes": 78358,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -431,7 +579,7 @@
       "path": "images/img-16fa40472b11.webp",
       "media_type": "image/webp",
       "bytes": 37522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -439,7 +587,7 @@
       "path": "images/img-53250fbb1380.webp",
       "media_type": "image/webp",
       "bytes": 44410,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -447,7 +595,7 @@
       "path": "images/img-bdd1c1eecff4.webp",
       "media_type": "image/webp",
       "bytes": 259918,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -455,7 +603,7 @@
       "path": "images/img-dbf4072fc4d0.webp",
       "media_type": "image/webp",
       "bytes": 135752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -463,7 +611,7 @@
       "path": "images/img-f09a12ae14e6.webp",
       "media_type": "image/webp",
       "bytes": 108234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -471,7 +619,7 @@
       "path": "images/img-a1bab18b6c8c.webp",
       "media_type": "image/webp",
       "bytes": 42970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -479,7 +627,7 @@
       "path": "images/img-f998017414e1.webp",
       "media_type": "image/webp",
       "bytes": 179100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -487,7 +635,7 @@
       "path": "images/img-82722c1cc2e3.webp",
       "media_type": "image/webp",
       "bytes": 177394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -495,7 +643,7 @@
       "path": "images/img-81a3c74e3f2e.webp",
       "media_type": "image/webp",
       "bytes": 181146,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -503,7 +651,7 @@
       "path": "images/img-c649e17ec150.webp",
       "media_type": "image/webp",
       "bytes": 96268,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -511,7 +659,7 @@
       "path": "images/img-1f6d75a90e40.webp",
       "media_type": "image/webp",
       "bytes": 102774,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -519,7 +667,7 @@
       "path": "images/img-54dd2c1ecd0f.webp",
       "media_type": "image/webp",
       "bytes": 89172,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -527,7 +675,7 @@
       "path": "images/img-b85ffd154704.webp",
       "media_type": "image/webp",
       "bytes": 208422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -535,13 +683,13 @@
       "path": "images/img-e0c4c33157e0.webp",
       "media_type": "image/webp",
       "bytes": 205988,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/big-sur-ca-usa/Manufactured%20Home%20In%20Big%20Sur%20In%20Big%20Sur,%20California,%20United%20States%20For%20Sale%20%2816521496%29_files/2200xxs%2832%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/26/15/31/49/ef4b73e2-5599-487d-9523-fe6351877a42/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -549,7 +697,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -557,7 +705,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -565,7 +713,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -573,13 +721,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 37,
-    "images_existing": 0,
-    "images_failed": 10,
+    "images_new": 4,
+    "images_existing": 37,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

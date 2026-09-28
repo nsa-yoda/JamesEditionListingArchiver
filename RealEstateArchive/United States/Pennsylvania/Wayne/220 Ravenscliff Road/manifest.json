@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:00.213663Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220-ravenscliff-road-saint-davids-pa-19087-17842959",
     "canonical_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220-ravenscliff-road-saint-davids-pa-19087-17842959",
@@ -9,13 +9,13 @@
     "listing_reference": "7YX6YY",
     "first_listed": "May 5",
     "last_updated": "June 29",
-    "retrieved_at": "2026-08-28T00:27:13.190828Z"
+    "retrieved_at": "2026-09-28T00:17:56.193047Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 5431,
-      "sha256": "ea5e7b478e8a45c965d27a5626fd4401d4f318e87fddade389c0f510c4e25368"
+      "bytes": 5432,
+      "sha256": "ef65439ead977d434ad7a47a2e4c78ae6fe23305e5ab4d6c5deaa6c7571a0958"
     },
     {
       "path": "images/img-00d38f482eed.webp",
@@ -46,6 +46,11 @@
       "path": "images/img-0c4e67c0d704.webp",
       "bytes": 268168,
       "sha256": "74843359941e288676d41b97a74d96a7a6fa8b8f3d6bfd35d8568e59a1563c03"
+    },
+    {
+      "path": "images/img-0fb6c833eb37.webp",
+      "bytes": 6850,
+      "sha256": "b3dd166c88fe2f2008a80bb6b3827fc28292d697889d9bccaf690ef73add37db"
     },
     {
       "path": "images/img-105e2ab166bd.webp",
@@ -263,6 +268,11 @@
       "sha256": "96f33a2ff20544de0446b86e051ea90863e55ef725cd9bbc6c0555390e4a8322"
     },
     {
+      "path": "images/img-7900d19feb0b.webp",
+      "bytes": 843180,
+      "sha256": "bc968e68f67c11623e209fd842ad5c79ef2096e2f3c29dc4c676f19585544d34"
+    },
+    {
       "path": "images/img-7ac39297ed91.webp",
       "bytes": 217506,
       "sha256": "820a8eec19d7ac0188ca2c6f8d209f2e99ac403538a9c00b42e147c65c27e34e"
@@ -281,6 +291,11 @@
       "path": "images/img-87c764c2ea3d.webp",
       "bytes": 1259754,
       "sha256": "271ec38e626e66b1ad9a9cadd5b98d8694df34eaa858e25039eeceae6b3db337"
+    },
+    {
+      "path": "images/img-89a5069dcd4f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-8c792dd3040d.webp",
@@ -321,6 +336,11 @@
       "path": "images/img-a1b317b2640e.webp",
       "bytes": 109834,
       "sha256": "232ecbe08a048c358d4dad7dfd4b2d3cf5aa4c95672f5399afcacf2c46d8c7d7"
+    },
+    {
+      "path": "images/img-a6bcfcc890f1.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-a8621e79a928.webp",
@@ -499,8 +519,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 48969,
-      "sha256": "38ec60c79e95c2e14103781be5c4d6b63d725183a9b9e8a1d25a20bf12af1f39"
+      "bytes": 79537,
+      "sha256": "e34e2e5a1c36337d56ca10ac9dc3643e300cad632eb97c4848ab301ce9798518"
     },
     {
       "path": "source.html",
@@ -511,22 +531,72 @@
       "path": "source.url",
       "bytes": 113,
       "sha256": "01710f35058b9faee7a0438b991efd2e08b6dfafa54f632df5ba19200ec61a81"
+    },
+    {
+      "path": "videos/img-8ce18c2895ae.webp",
+      "bytes": 218532,
+      "sha256": "9d36f3432027577d65a61eec4c67a94ff9c040a03b8308b51573abcce8e2cefc"
+    },
+    {
+      "path": "videos/vid-28edd827043c.mp4",
+      "bytes": 11777637,
+      "sha256": "a436bc0a79f9fdbb66fcf09da70f88c291791bce9ece2d96ee3b5d02568eb766"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6399738944112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-28edd827043c.mp4",
+      "media_type": "video/mp4",
+      "bytes": 11777637,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/1040x620xc.jpg",
+      "poster_path": "videos/img-8ce18c2895ae.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/2200xxs.jpg",
       "path": "images/img-c4d155da7c47.webp",
       "media_type": "image/webp",
       "bytes": 1067248,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/4e707b20-58c8-4dbe-a4d7-e9ee0c49ba7d/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/4e707b20-58c8-4dbe-a4d7-e9ee0c49ba7d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/4e707b20-58c8-4dbe-a4d7-e9ee0c49ba7d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/4e707b20-58c8-4dbe-a4d7-e9ee0c49ba7d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/4e707b20-58c8-4dbe-a4d7-e9ee0c49ba7d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/4e707b20-58c8-4dbe-a4d7-e9ee0c49ba7d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -534,13 +604,25 @@
       "path": "images/img-51f6a6c3baf9.webp",
       "media_type": "image/webp",
       "bytes": 1416962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/b0a1d5ad-0e6e-42c2-ad30-64354b460ff2/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/b0a1d5ad-0e6e-42c2-ad30-64354b460ff2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/b0a1d5ad-0e6e-42c2-ad30-64354b460ff2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/b0a1d5ad-0e6e-42c2-ad30-64354b460ff2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/b0a1d5ad-0e6e-42c2-ad30-64354b460ff2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/b0a1d5ad-0e6e-42c2-ad30-64354b460ff2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -548,13 +630,25 @@
       "path": "images/img-0371eb7456e5.webp",
       "media_type": "image/webp",
       "bytes": 1347012,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/7d84bafd-ca87-4547-b67e-0a7248d965d2/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/7d84bafd-ca87-4547-b67e-0a7248d965d2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/7d84bafd-ca87-4547-b67e-0a7248d965d2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/7d84bafd-ca87-4547-b67e-0a7248d965d2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/7d84bafd-ca87-4547-b67e-0a7248d965d2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/7d84bafd-ca87-4547-b67e-0a7248d965d2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -562,13 +656,25 @@
       "path": "images/img-87c764c2ea3d.webp",
       "media_type": "image/webp",
       "bytes": 1259754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/eb66b171-85bd-4356-b138-91460d71ee15/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/eb66b171-85bd-4356-b138-91460d71ee15/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/eb66b171-85bd-4356-b138-91460d71ee15/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/eb66b171-85bd-4356-b138-91460d71ee15/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/eb66b171-85bd-4356-b138-91460d71ee15/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/eb66b171-85bd-4356-b138-91460d71ee15/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -576,31 +682,61 @@
       "path": "images/img-a1982cdeb1f0.webp",
       "media_type": "image/webp",
       "bytes": 1233576,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-0fb6c833eb37.webp",
+      "media_type": "image/webp",
+      "bytes": 6850,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-a6bcfcc890f1.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-89a5069dcd4f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/4e707b20-58c8-4dbe-a4d7-e9ee0c49ba7d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/4e707b20-58c8-4dbe-a4d7-e9ee0c49ba7d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/b0a1d5ad-0e6e-42c2-ad30-64354b460ff2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/b0a1d5ad-0e6e-42c2-ad30-64354b460ff2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/7d84bafd-ca87-4547-b67e-0a7248d965d2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/7d84bafd-ca87-4547-b67e-0a7248d965d2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/eb66b171-85bd-4356-b138-91460d71ee15/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/eb66b171-85bd-4356-b138-91460d71ee15/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -608,7 +744,7 @@
       "path": "images/img-d2c70fb59d82.webp",
       "media_type": "image/webp",
       "bytes": 1060092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -616,7 +752,7 @@
       "path": "images/img-14cf05dffa76.webp",
       "media_type": "image/webp",
       "bytes": 970982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -624,7 +760,7 @@
       "path": "images/img-77e0db7cdfb1.webp",
       "media_type": "image/webp",
       "bytes": 941598,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -632,7 +768,7 @@
       "path": "images/img-6547ba7dc26d.webp",
       "media_type": "image/webp",
       "bytes": 801488,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -640,7 +776,7 @@
       "path": "images/img-721badc9875b.webp",
       "media_type": "image/webp",
       "bytes": 336448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -648,7 +784,7 @@
       "path": "images/img-b0ac763627b5.webp",
       "media_type": "image/webp",
       "bytes": 352150,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -656,7 +792,7 @@
       "path": "images/img-8c792dd3040d.webp",
       "media_type": "image/webp",
       "bytes": 219674,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -664,7 +800,7 @@
       "path": "images/img-ee2168b71b9a.webp",
       "media_type": "image/webp",
       "bytes": 239964,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -672,7 +808,7 @@
       "path": "images/img-151bcfeb7848.webp",
       "media_type": "image/webp",
       "bytes": 268910,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -680,7 +816,7 @@
       "path": "images/img-211b2a591a0a.webp",
       "media_type": "image/webp",
       "bytes": 372646,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -688,7 +824,7 @@
       "path": "images/img-3a41d6ccf2f8.webp",
       "media_type": "image/webp",
       "bytes": 228862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -696,7 +832,7 @@
       "path": "images/img-a8621e79a928.webp",
       "media_type": "image/webp",
       "bytes": 642332,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -704,7 +840,7 @@
       "path": "images/img-6bfab91d267a.webp",
       "media_type": "image/webp",
       "bytes": 233230,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -712,7 +848,7 @@
       "path": "images/img-41a3bf1c6b90.webp",
       "media_type": "image/webp",
       "bytes": 437014,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -720,7 +856,7 @@
       "path": "images/img-1465a21dedc9.webp",
       "media_type": "image/webp",
       "bytes": 448916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -728,7 +864,7 @@
       "path": "images/img-00d38f482eed.webp",
       "media_type": "image/webp",
       "bytes": 426756,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -736,7 +872,7 @@
       "path": "images/img-d47bfb78ae3e.webp",
       "media_type": "image/webp",
       "bytes": 450058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -744,7 +880,7 @@
       "path": "images/img-2e6dc1302e55.webp",
       "media_type": "image/webp",
       "bytes": 164042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -752,7 +888,7 @@
       "path": "images/img-f929a2c8dc04.webp",
       "media_type": "image/webp",
       "bytes": 159106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -760,7 +896,7 @@
       "path": "images/img-7bfe8b576eb7.webp",
       "media_type": "image/webp",
       "bytes": 221670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -768,7 +904,7 @@
       "path": "images/img-c88d00f569c7.webp",
       "media_type": "image/webp",
       "bytes": 251220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -776,7 +912,7 @@
       "path": "images/img-6b813d4eb02f.webp",
       "media_type": "image/webp",
       "bytes": 176856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -784,7 +920,7 @@
       "path": "images/img-1763827bc43a.webp",
       "media_type": "image/webp",
       "bytes": 195666,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -792,7 +928,7 @@
       "path": "images/img-61676043fc2a.webp",
       "media_type": "image/webp",
       "bytes": 166452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -800,7 +936,7 @@
       "path": "images/img-d439e5b560f8.webp",
       "media_type": "image/webp",
       "bytes": 508614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -808,7 +944,7 @@
       "path": "images/img-7f3f3eb1f4d6.webp",
       "media_type": "image/webp",
       "bytes": 544116,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -816,7 +952,7 @@
       "path": "images/img-6944671793d8.webp",
       "media_type": "image/webp",
       "bytes": 404742,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -824,7 +960,7 @@
       "path": "images/img-e9e2c0832064.webp",
       "media_type": "image/webp",
       "bytes": 397338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -832,7 +968,7 @@
       "path": "images/img-bcded8e47dd5.webp",
       "media_type": "image/webp",
       "bytes": 381672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -840,7 +976,7 @@
       "path": "images/img-2b687f6811d7.webp",
       "media_type": "image/webp",
       "bytes": 474974,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -848,7 +984,7 @@
       "path": "images/img-f3b6c73cb75a.webp",
       "media_type": "image/webp",
       "bytes": 154556,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -856,7 +992,7 @@
       "path": "images/img-32ed18ecd70c.webp",
       "media_type": "image/webp",
       "bytes": 163792,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -864,7 +1000,7 @@
       "path": "images/img-dc320a7fbd8a.webp",
       "media_type": "image/webp",
       "bytes": 220382,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -872,7 +1008,7 @@
       "path": "images/img-d5674f3601e7.webp",
       "media_type": "image/webp",
       "bytes": 154264,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -880,7 +1016,7 @@
       "path": "images/img-4d1a44b91545.webp",
       "media_type": "image/webp",
       "bytes": 181584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -888,7 +1024,7 @@
       "path": "images/img-45e72933d780.webp",
       "media_type": "image/webp",
       "bytes": 74892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -896,7 +1032,7 @@
       "path": "images/img-4a94b58bd28a.webp",
       "media_type": "image/webp",
       "bytes": 119474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -904,7 +1040,7 @@
       "path": "images/img-09d23e196ca9.webp",
       "media_type": "image/webp",
       "bytes": 175632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -912,7 +1048,7 @@
       "path": "images/img-abcf8517c613.webp",
       "media_type": "image/webp",
       "bytes": 142072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -920,7 +1056,7 @@
       "path": "images/img-040062ef85e9.webp",
       "media_type": "image/webp",
       "bytes": 177838,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -928,7 +1064,7 @@
       "path": "images/img-6ab70ebb5937.webp",
       "media_type": "image/webp",
       "bytes": 164308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -936,7 +1072,7 @@
       "path": "images/img-7ac39297ed91.webp",
       "media_type": "image/webp",
       "bytes": 217506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -944,7 +1080,7 @@
       "path": "images/img-4bd62d1eefd4.webp",
       "media_type": "image/webp",
       "bytes": 106004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -952,7 +1088,7 @@
       "path": "images/img-6d128e6e11fb.webp",
       "media_type": "image/webp",
       "bytes": 83040,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -960,7 +1096,7 @@
       "path": "images/img-c48ba81c9e47.webp",
       "media_type": "image/webp",
       "bytes": 90288,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -968,7 +1104,7 @@
       "path": "images/img-05d72551a3a0.webp",
       "media_type": "image/webp",
       "bytes": 288036,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -976,7 +1112,7 @@
       "path": "images/img-d255e213574e.webp",
       "media_type": "image/webp",
       "bytes": 330216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -984,7 +1120,7 @@
       "path": "images/img-22e5a6659b28.webp",
       "media_type": "image/webp",
       "bytes": 312502,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -992,7 +1128,7 @@
       "path": "images/img-65427905912e.webp",
       "media_type": "image/webp",
       "bytes": 279638,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1000,7 +1136,7 @@
       "path": "images/img-60ecc4a33b48.webp",
       "media_type": "image/webp",
       "bytes": 319138,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1008,7 +1144,7 @@
       "path": "images/img-bdf11d48128e.webp",
       "media_type": "image/webp",
       "bytes": 261474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1016,7 +1152,7 @@
       "path": "images/img-c0caaee32307.webp",
       "media_type": "image/webp",
       "bytes": 244200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1024,7 +1160,7 @@
       "path": "images/img-993f892db814.webp",
       "media_type": "image/webp",
       "bytes": 312752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1032,7 +1168,7 @@
       "path": "images/img-617b7981c131.webp",
       "media_type": "image/webp",
       "bytes": 260032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1040,7 +1176,7 @@
       "path": "images/img-0c4e67c0d704.webp",
       "media_type": "image/webp",
       "bytes": 268168,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1048,7 +1184,7 @@
       "path": "images/img-aa76b3c3050a.webp",
       "media_type": "image/webp",
       "bytes": 220578,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1056,7 +1192,7 @@
       "path": "images/img-d1a0760732bb.webp",
       "media_type": "image/webp",
       "bytes": 228518,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1064,7 +1200,7 @@
       "path": "images/img-ce0d09698d3b.webp",
       "media_type": "image/webp",
       "bytes": 205244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1072,7 +1208,7 @@
       "path": "images/img-19e1d23f3c0d.webp",
       "media_type": "image/webp",
       "bytes": 196538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1080,7 +1216,7 @@
       "path": "images/img-3cd974daedf0.webp",
       "media_type": "image/webp",
       "bytes": 203568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1088,7 +1224,7 @@
       "path": "images/img-5136bad0b386.webp",
       "media_type": "image/webp",
       "bytes": 237210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1096,7 +1232,7 @@
       "path": "images/img-da8b4a7c7a61.webp",
       "media_type": "image/webp",
       "bytes": 235624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1104,7 +1240,7 @@
       "path": "images/img-105e2ab166bd.webp",
       "media_type": "image/webp",
       "bytes": 124030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1112,7 +1248,7 @@
       "path": "images/img-f1249e4b1205.webp",
       "media_type": "image/webp",
       "bytes": 359464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1120,7 +1256,7 @@
       "path": "images/img-40529e47c0d1.webp",
       "media_type": "image/webp",
       "bytes": 423026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1128,7 +1264,7 @@
       "path": "images/img-4ad7569bce6c.webp",
       "media_type": "image/webp",
       "bytes": 294428,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1136,7 +1272,7 @@
       "path": "images/img-ce4da22f11b5.webp",
       "media_type": "image/webp",
       "bytes": 124192,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1144,7 +1280,7 @@
       "path": "images/img-db71f0b0ee44.webp",
       "media_type": "image/webp",
       "bytes": 193340,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1152,7 +1288,7 @@
       "path": "images/img-5c75458fdadc.webp",
       "media_type": "image/webp",
       "bytes": 332590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1160,7 +1296,7 @@
       "path": "images/img-38ecefe4a31b.webp",
       "media_type": "image/webp",
       "bytes": 118072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1168,7 +1304,7 @@
       "path": "images/img-ab1ae86ebcad.webp",
       "media_type": "image/webp",
       "bytes": 204682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1176,7 +1312,7 @@
       "path": "images/img-e7936e6fab5b.webp",
       "media_type": "image/webp",
       "bytes": 190948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1184,7 +1320,7 @@
       "path": "images/img-3efbf3107e8d.webp",
       "media_type": "image/webp",
       "bytes": 253090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1192,7 +1328,7 @@
       "path": "images/img-c0d6a19e3552.webp",
       "media_type": "image/webp",
       "bytes": 257574,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1200,7 +1336,7 @@
       "path": "images/img-4b1daff2c095.webp",
       "media_type": "image/webp",
       "bytes": 170770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1208,7 +1344,7 @@
       "path": "images/img-35c45306f748.webp",
       "media_type": "image/webp",
       "bytes": 136856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1216,7 +1352,7 @@
       "path": "images/img-c7bbe059cf67.webp",
       "media_type": "image/webp",
       "bytes": 223108,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1224,7 +1360,7 @@
       "path": "images/img-70e217b080c1.webp",
       "media_type": "image/webp",
       "bytes": 154880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1232,7 +1368,7 @@
       "path": "images/img-96ad49f7127c.webp",
       "media_type": "image/webp",
       "bytes": 121568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1240,7 +1376,7 @@
       "path": "images/img-a1b317b2640e.webp",
       "media_type": "image/webp",
       "bytes": 109834,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1248,7 +1384,7 @@
       "path": "images/img-b60920177edc.webp",
       "media_type": "image/webp",
       "bytes": 110430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1256,7 +1392,7 @@
       "path": "images/img-74e8f152ca0b.webp",
       "media_type": "image/webp",
       "bytes": 86640,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1264,7 +1400,7 @@
       "path": "images/img-8fb2fab28d83.webp",
       "media_type": "image/webp",
       "bytes": 161524,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1272,7 +1408,7 @@
       "path": "images/img-ec32909563ab.webp",
       "media_type": "image/webp",
       "bytes": 212240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1280,7 +1416,7 @@
       "path": "images/img-8eaa6edafb04.webp",
       "media_type": "image/webp",
       "bytes": 155396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1288,7 +1424,7 @@
       "path": "images/img-c0a1a3b8d4ba.webp",
       "media_type": "image/webp",
       "bytes": 87304,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1296,7 +1432,7 @@
       "path": "images/img-dfd54b359284.webp",
       "media_type": "image/webp",
       "bytes": 73204,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1304,7 +1440,7 @@
       "path": "images/img-90a4857195fc.webp",
       "media_type": "image/webp",
       "bytes": 223678,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1312,7 +1448,7 @@
       "path": "images/img-ffe97cc5f718.webp",
       "media_type": "image/webp",
       "bytes": 238342,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1320,13 +1456,21 @@
       "path": "images/img-4a42dcaa8898.webp",
       "media_type": "image/webp",
       "bytes": 688750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saint-davids-pa-usa/220%20Ravenscliff%20Road,%20Saint%20Davids,%20Pa%20In%20Wayne,%20Pennsylvania,%20United%20States%20For%20Sale%20%2817842959%29_files/2200xxsxm%2894%29.jpg",
+      "path": "images/img-7900d19feb0b.webp",
+      "media_type": "image/webp",
+      "bytes": 843180,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/30/0ffff490-50b6-453f-9066-b74a7103d6b1/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1334,32 +1478,32 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 96,
-    "images_existing": 0,
-    "images_failed": 12,
-    "videos_new": 0,
+    "images_new": 4,
+    "images_existing": 96,
+    "images_failed": 24,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

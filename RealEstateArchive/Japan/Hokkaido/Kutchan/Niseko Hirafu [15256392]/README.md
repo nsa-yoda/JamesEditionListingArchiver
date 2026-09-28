@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kutchan-japan/niseko-hirafu-escarpment-house-15256392
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:30Z
+- Retrieved: 2026-09-28T00:23:13Z
 - Address: Niseko Hirafu, Kutchan, Hokkaido, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=42.8545973,140.7118902
 - Coordinates: 42.85, 140.71

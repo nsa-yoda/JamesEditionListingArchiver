@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "2064866500741238",
     "first_listed": "Dec 23, 2025",
     "last_updated": "May 28",
-    "retrieved_at": "2026-06-16T03:43:35.067374Z"
+    "retrieved_at": "2026-09-28T00:24:34.175189Z"
   },
   "location": {
     "address": "7918 Red Bay Circle, Magnolia, TX 77354, Texas, United States",
@@ -70,6 +70,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/2200xxs.jpg",
       "file": "004-c5671e10.webp",
       "media_type": "image/webp",
@@ -78,7 +93,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/2200xxs.jpg",
@@ -89,7 +120,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/2200xxs.jpg",
@@ -100,7 +147,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/2200xxs.jpg",
@@ -111,7 +174,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/2200xxs.jpg",
@@ -122,19 +201,34 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-aa01eb21155f.webp",
+      "media_type": "image/webp",
+      "bytes": 4228,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-e45acee2c798.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-6b8e74777ca8.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -320,6 +414,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/5772f37d-329c-44a6-888c-02a05cc2609a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/e27cf228-155a-40fe-8534-96b1642c07cc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/c402907f-01c8-44ff-aaa4-bddc8e901d21/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/78688c19-0eda-4f9a-a152-a81c99282b9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/magnolia-tx-usa/Residential%20Magnolia%20In%20Magnolia,%20Texas,%20United%20States%20For%20Sale%20%2816842569%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/20/15/48/08/7c4cbb2c-10db-435e-bd94-d28d04a8f8a4/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

@@ -55,6 +55,11 @@ window.listingArchiveIndex = {
       "size": 336208
     },
     {
+      "name": "img-225e524bcde3.png",
+      "href": "img-225e524bcde3.png",
+      "size": 8627
+    },
+    {
       "name": "img-237702a69700.webp",
       "href": "img-237702a69700.webp",
       "size": 267292
@@ -108,6 +113,11 @@ window.listingArchiveIndex = {
       "name": "img-5dffcb9a2de6.webp",
       "href": "img-5dffcb9a2de6.webp",
       "size": 675112
+    },
+    {
+      "name": "img-61343be9cd20.webp",
+      "href": "img-61343be9cd20.webp",
+      "size": 4722
     },
     {
       "name": "img-61879f364700.webp",
@@ -210,6 +220,11 @@ window.listingArchiveIndex = {
       "size": 590048
     },
     {
+      "name": "img-ddba88b680b8.png",
+      "href": "img-ddba88b680b8.png",
+      "size": 767001
+    },
+    {
       "name": "img-ddeed993af0e.webp",
       "href": "img-ddeed993af0e.webp",
       "size": 294612
@@ -285,5 +300,5 @@ window.listingArchiveIndex = {
       "size": 532158
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:22:04.852378Z"
 };

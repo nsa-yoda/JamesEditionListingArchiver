@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:46.298071Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5-bedrooms-single-family-detached-17843171",
     "canonical_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5-bedrooms-single-family-detached-17843171",
@@ -9,13 +9,13 @@
     "listing_reference": "4w3ryw",
     "first_listed": "May 5",
     "last_updated": "May 6",
-    "retrieved_at": "2026-06-19T08:17:55.271981Z"
+    "retrieved_at": "2026-09-28T00:18:44.648254Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2801,
-      "sha256": "b052d279c7880d40d161dd74ec08024746c6d4d02af29675927c9bfbbd64fd30"
+      "sha256": "402311e2989d85d82f2c922f50b12d84e2e5fc550eae417e47c30ef98b496684"
     },
     {
       "path": "images/img-0233ddcb8fa6.webp",
@@ -238,6 +238,11 @@
       "sha256": "a01fa004b0d9d0fc3e84bd106be8db24be81e85c415f6d5749b43d1843c946ab"
     },
     {
+      "path": "images/img-7f5225bc178f.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-81275322ce3d.webp",
       "bytes": 170146,
       "sha256": "75dcc528f1792f3b61402b72d976f8501b8df077041f235da9b3b670d6733f7a"
@@ -306,6 +311,11 @@
       "path": "images/img-a7bf0f25678c.webp",
       "bytes": 238416,
       "sha256": "5170ff7c45666206be24e5997c53679c5be8d34945557bab699c98c94d54961f"
+    },
+    {
+      "path": "images/img-a842d50bf7ef.webp",
+      "bytes": 4338,
+      "sha256": "ae4b0044e50889bf0411525431769c8921b34f55ac1f2c2bb380319eeb9de773"
     },
     {
       "path": "images/img-ac4c62cc385e.webp",
@@ -433,6 +443,11 @@
       "sha256": "c0ee2e9b83ec94b54b911b19031448993c04bf56dd8f05da6d7ead70d40d253c"
     },
     {
+      "path": "images/img-f6ef191f3feb.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-fb68a7d543b0.webp",
       "bytes": 179784,
       "sha256": "c45d613d57772cd5f2d98b1dcc2b8830f269acad72b096788454055937351ad1"
@@ -449,8 +464,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 39225,
-      "sha256": "2e2a5b1292773d248d55d8221cb2b7c391f1b232e7758108b424d79913a4e815"
+      "bytes": 76401,
+      "sha256": "307f6f64c44b19fb5f20c99300a4a29eaf902a483caeea4e1e3e7bb2afb987b2"
     },
     {
       "path": "source.html",
@@ -471,11 +486,29 @@
   "assets": [
     {
       "kind": "video",
-      "source_url": "https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/1189064799?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg",
       "poster_path": "videos/img-53d32165933a.webp",
-      "error": "HTTP 401 Unauthorized"
+      "error": "yt-dlp could not download the video player URL"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -483,13 +516,31 @@
       "path": "images/img-64d5aa2edf7d.webp",
       "media_type": "image/webp",
       "bytes": 141554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -497,13 +548,31 @@
       "path": "images/img-9172f15e0f22.webp",
       "media_type": "image/webp",
       "bytes": 153892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -511,13 +580,31 @@
       "path": "images/img-0bc015f521c0.webp",
       "media_type": "image/webp",
       "bytes": 132006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -525,13 +612,31 @@
       "path": "images/img-fb68a7d543b0.webp",
       "media_type": "image/webp",
       "bytes": 179784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -539,31 +644,67 @@
       "path": "images/img-be44923b459e.webp",
       "media_type": "image/webp",
       "bytes": 133412,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a842d50bf7ef.webp",
+      "media_type": "image/webp",
+      "bytes": 4338,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7f5225bc178f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-f6ef191f3feb.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -571,7 +712,7 @@
       "path": "images/img-043bcb600e4e.webp",
       "media_type": "image/webp",
       "bytes": 154260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -579,7 +720,7 @@
       "path": "images/img-65c25101c7df.webp",
       "media_type": "image/webp",
       "bytes": 71802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -587,7 +728,7 @@
       "path": "images/img-05ba4bb5db5e.webp",
       "media_type": "image/webp",
       "bytes": 216366,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -595,7 +736,7 @@
       "path": "images/img-4d0198fe31d8.webp",
       "media_type": "image/webp",
       "bytes": 203834,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -603,7 +744,7 @@
       "path": "images/img-6a17a91276b4.webp",
       "media_type": "image/webp",
       "bytes": 286374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -611,7 +752,7 @@
       "path": "images/img-a7bf0f25678c.webp",
       "media_type": "image/webp",
       "bytes": 238416,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -619,7 +760,7 @@
       "path": "images/img-0ef256791294.webp",
       "media_type": "image/webp",
       "bytes": 212088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +768,7 @@
       "path": "images/img-72ffa807918b.webp",
       "media_type": "image/webp",
       "bytes": 244356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +776,7 @@
       "path": "images/img-0e72321c6e32.webp",
       "media_type": "image/webp",
       "bytes": 187116,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +784,7 @@
       "path": "images/img-77eb801e3645.webp",
       "media_type": "image/webp",
       "bytes": 219870,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +792,7 @@
       "path": "images/img-9df8f1248e98.webp",
       "media_type": "image/webp",
       "bytes": 187614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +800,7 @@
       "path": "images/img-4c8e1ec295f8.webp",
       "media_type": "image/webp",
       "bytes": 230480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +808,7 @@
       "path": "images/img-134990d92e68.webp",
       "media_type": "image/webp",
       "bytes": 313298,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +816,7 @@
       "path": "images/img-bc36755ff707.webp",
       "media_type": "image/webp",
       "bytes": 192022,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +824,7 @@
       "path": "images/img-78da09fac71a.webp",
       "media_type": "image/webp",
       "bytes": 267624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +832,7 @@
       "path": "images/img-8f1ff97c2423.webp",
       "media_type": "image/webp",
       "bytes": 257088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +840,7 @@
       "path": "images/img-2f1cd22b53c2.webp",
       "media_type": "image/webp",
       "bytes": 150308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +848,7 @@
       "path": "images/img-ffced9cf916d.webp",
       "media_type": "image/webp",
       "bytes": 119028,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +856,7 @@
       "path": "images/img-18c1f292025f.webp",
       "media_type": "image/webp",
       "bytes": 275046,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +864,7 @@
       "path": "images/img-c4a7774abc1c.webp",
       "media_type": "image/webp",
       "bytes": 322620,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +872,7 @@
       "path": "images/img-2a844d7d9ece.webp",
       "media_type": "image/webp",
       "bytes": 207204,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +880,7 @@
       "path": "images/img-eb3109a329d6.webp",
       "media_type": "image/webp",
       "bytes": 237964,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,7 +888,7 @@
       "path": "images/img-9ba39e3b9a9e.webp",
       "media_type": "image/webp",
       "bytes": 209702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -755,7 +896,7 @@
       "path": "images/img-04dd1f440074.webp",
       "media_type": "image/webp",
       "bytes": 258128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -763,7 +904,7 @@
       "path": "images/img-964bfb9eda10.webp",
       "media_type": "image/webp",
       "bytes": 200446,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -771,7 +912,7 @@
       "path": "images/img-106487a8001d.webp",
       "media_type": "image/webp",
       "bytes": 196882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -779,7 +920,7 @@
       "path": "images/img-0db2fa7c1c90.webp",
       "media_type": "image/webp",
       "bytes": 299258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -787,7 +928,7 @@
       "path": "images/img-a20c221cdd6e.webp",
       "media_type": "image/webp",
       "bytes": 201032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -795,7 +936,7 @@
       "path": "images/img-b92108a4cb3a.webp",
       "media_type": "image/webp",
       "bytes": 269772,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -803,7 +944,7 @@
       "path": "images/img-d8c4e856d538.webp",
       "media_type": "image/webp",
       "bytes": 250510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -811,7 +952,7 @@
       "path": "images/img-ef950e926ee0.webp",
       "media_type": "image/webp",
       "bytes": 320934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -819,7 +960,7 @@
       "path": "images/img-62391d9ba297.webp",
       "media_type": "image/webp",
       "bytes": 118108,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -827,7 +968,7 @@
       "path": "images/img-693c4b824d36.webp",
       "media_type": "image/webp",
       "bytes": 136886,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -835,7 +976,7 @@
       "path": "images/img-4465d1a9a5dc.webp",
       "media_type": "image/webp",
       "bytes": 160460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -843,7 +984,7 @@
       "path": "images/img-9c90643f3dbb.webp",
       "media_type": "image/webp",
       "bytes": 173972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -851,7 +992,7 @@
       "path": "images/img-fdb880b48ade.webp",
       "media_type": "image/webp",
       "bytes": 112722,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -859,7 +1000,7 @@
       "path": "images/img-523fde90d7b2.webp",
       "media_type": "image/webp",
       "bytes": 170200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -867,7 +1008,7 @@
       "path": "images/img-945f7b7d8ff5.webp",
       "media_type": "image/webp",
       "bytes": 139180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -875,7 +1016,7 @@
       "path": "images/img-94a2a52b31bf.webp",
       "media_type": "image/webp",
       "bytes": 197444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -883,7 +1024,7 @@
       "path": "images/img-28fc1853a183.webp",
       "media_type": "image/webp",
       "bytes": 403390,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -891,7 +1032,7 @@
       "path": "images/img-1526001a836c.webp",
       "media_type": "image/webp",
       "bytes": 364054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -899,7 +1040,7 @@
       "path": "images/img-c7320b1414fa.webp",
       "media_type": "image/webp",
       "bytes": 375916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -907,7 +1048,7 @@
       "path": "images/img-0233ddcb8fa6.webp",
       "media_type": "image/webp",
       "bytes": 356036,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -915,7 +1056,7 @@
       "path": "images/img-2397ae30fa2c.webp",
       "media_type": "image/webp",
       "bytes": 171990,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -923,7 +1064,7 @@
       "path": "images/img-76ad43913ee8.webp",
       "media_type": "image/webp",
       "bytes": 113924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -931,7 +1072,7 @@
       "path": "images/img-ac4c62cc385e.webp",
       "media_type": "image/webp",
       "bytes": 123800,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -939,7 +1080,7 @@
       "path": "images/img-078c42bb1721.webp",
       "media_type": "image/webp",
       "bytes": 141526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -947,7 +1088,7 @@
       "path": "images/img-9b9dc2e947cb.webp",
       "media_type": "image/webp",
       "bytes": 137906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -955,7 +1096,7 @@
       "path": "images/img-0d00784418ca.webp",
       "media_type": "image/webp",
       "bytes": 252688,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -963,7 +1104,7 @@
       "path": "images/img-ea88a1b601e1.webp",
       "media_type": "image/webp",
       "bytes": 157424,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -971,7 +1112,7 @@
       "path": "images/img-ea3665e6f2f2.webp",
       "media_type": "image/webp",
       "bytes": 178134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -979,7 +1120,7 @@
       "path": "images/img-776a96ca6eef.webp",
       "media_type": "image/webp",
       "bytes": 156106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -987,7 +1128,7 @@
       "path": "images/img-dbf00b645215.webp",
       "media_type": "image/webp",
       "bytes": 186962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -995,7 +1136,7 @@
       "path": "images/img-d5dce4dc5e6a.webp",
       "media_type": "image/webp",
       "bytes": 276190,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1003,7 +1144,7 @@
       "path": "images/img-6813d2891bdf.webp",
       "media_type": "image/webp",
       "bytes": 162926,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1011,7 +1152,7 @@
       "path": "images/img-6913269be1d0.webp",
       "media_type": "image/webp",
       "bytes": 143278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1019,7 +1160,7 @@
       "path": "images/img-d87aca3532f0.webp",
       "media_type": "image/webp",
       "bytes": 150230,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1027,7 +1168,7 @@
       "path": "images/img-9fabd8b759f1.webp",
       "media_type": "image/webp",
       "bytes": 271028,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1035,7 +1176,7 @@
       "path": "images/img-e732e150bcd1.webp",
       "media_type": "image/webp",
       "bytes": 115472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1043,7 +1184,7 @@
       "path": "images/img-eac19d2d3227.webp",
       "media_type": "image/webp",
       "bytes": 141480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1051,7 +1192,7 @@
       "path": "images/img-c44ef272dca5.webp",
       "media_type": "image/webp",
       "bytes": 315648,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1059,7 +1200,7 @@
       "path": "images/img-4073c693bde7.webp",
       "media_type": "image/webp",
       "bytes": 276448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1067,7 +1208,7 @@
       "path": "images/img-763cf71a888b.webp",
       "media_type": "image/webp",
       "bytes": 313216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1075,7 +1216,7 @@
       "path": "images/img-5546320aaa5a.webp",
       "media_type": "image/webp",
       "bytes": 339220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1083,7 +1224,7 @@
       "path": "images/img-7c3f9742ef53.webp",
       "media_type": "image/webp",
       "bytes": 192474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1091,7 +1232,7 @@
       "path": "images/img-b047a7a8565e.webp",
       "media_type": "image/webp",
       "bytes": 123336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1099,7 +1240,7 @@
       "path": "images/img-8e235ef71452.webp",
       "media_type": "image/webp",
       "bytes": 170784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1107,7 +1248,7 @@
       "path": "images/img-81275322ce3d.webp",
       "media_type": "image/webp",
       "bytes": 170146,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1115,7 +1256,7 @@
       "path": "images/img-e40b1c629502.webp",
       "media_type": "image/webp",
       "bytes": 128506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1123,7 +1264,7 @@
       "path": "images/img-e9f99c927898.webp",
       "media_type": "image/webp",
       "bytes": 148118,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1131,7 +1272,7 @@
       "path": "images/img-cc2e88060631.webp",
       "media_type": "image/webp",
       "bytes": 176034,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1139,7 +1280,7 @@
       "path": "images/img-4ef3a395cf6b.webp",
       "media_type": "image/webp",
       "bytes": 273630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1147,7 +1288,7 @@
       "path": "images/img-e08be91929c8.webp",
       "media_type": "image/webp",
       "bytes": 136098,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1155,7 +1296,7 @@
       "path": "images/img-0757163e06f0.webp",
       "media_type": "image/webp",
       "bytes": 137610,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1163,7 +1304,7 @@
       "path": "images/img-afb1c3d99fd4.webp",
       "media_type": "image/webp",
       "bytes": 103302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1171,7 +1312,7 @@
       "path": "images/img-e09e0f25822c.webp",
       "media_type": "image/webp",
       "bytes": 101270,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1179,13 +1320,13 @@
       "path": "images/img-65fdbc97c424.webp",
       "media_type": "image/webp",
       "bytes": 112262,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/2200xxs%2881%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1193,7 +1334,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1201,7 +1342,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1209,7 +1350,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1217,13 +1358,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 86,
-    "images_existing": 0,
-    "images_failed": 9,
+    "images_new": 3,
+    "images_existing": 86,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 1

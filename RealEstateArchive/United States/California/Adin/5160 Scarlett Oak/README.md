@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/greenwood-ca-usa/residential-in-greenwood-16368016
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:30:04Z
+- Retrieved: 2026-09-28T00:24:31Z
 - Address: 5160 Scarlett Oak, Adin, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.206,-120.958
 - Coordinates: 41.21, -120.96
@@ -10,7 +10,7 @@
 - Listing reference: 11555787
 - First listed: Oct 10, 2025
 - Last updated: April 14
-- Images downloaded: 37
+- Images downloaded: 40
 
 ## Property
 

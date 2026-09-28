@@ -8,7 +8,7 @@
     "listing_reference": "4w3ryw",
     "first_listed": "May 5",
     "last_updated": "May 6",
-    "retrieved_at": "2026-06-19T08:17:55.271981Z"
+    "retrieved_at": "2026-09-28T00:18:44.648254Z"
   },
   "location": {
     "address": "485 W Matheson Dr, Key Biscayne, FL 33149, Florida, United States",
@@ -67,660 +67,766 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2200xxs.jpg",
       "file": "img-64d5aa2edf7d.webp",
       "media_type": "image/webp",
       "bytes": 141554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2200xxs.jpg",
       "file": "img-9172f15e0f22.webp",
       "media_type": "image/webp",
       "bytes": 153892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2200xxs.jpg",
       "file": "img-0bc015f521c0.webp",
       "media_type": "image/webp",
       "bytes": 132006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2200xxs.jpg",
       "file": "img-fb68a7d543b0.webp",
       "media_type": "image/webp",
       "bytes": 179784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2200xxs.jpg",
       "file": "img-be44923b459e.webp",
       "media_type": "image/webp",
       "bytes": 133412,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a842d50bf7ef.webp",
+      "media_type": "image/webp",
+      "bytes": 4338,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-7f5225bc178f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-f6ef191f3feb.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e08db11c-e176-4fe8-9179-6464c375a721/je/2000xxs.jpg",
       "file": "img-043bcb600e4e.webp",
       "media_type": "image/webp",
       "bytes": 154260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2bb2ee4b-d3f7-48da-b43d-9a398d13c1ab/je/2000xxs.jpg",
       "file": "img-65c25101c7df.webp",
       "media_type": "image/webp",
       "bytes": 71802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8aaa6c29-6610-45db-b496-252fa943e1ce/je/2000xxs.jpg",
       "file": "img-05ba4bb5db5e.webp",
       "media_type": "image/webp",
       "bytes": 216366,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4866b423-6393-48b5-9e77-30b4e7bfe73c/je/2000xxs.jpg",
       "file": "img-4d0198fe31d8.webp",
       "media_type": "image/webp",
       "bytes": 203834,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/33845d22-81ac-4e39-bcbe-8029942ade19/je/2000xxs.jpg",
       "file": "img-6a17a91276b4.webp",
       "media_type": "image/webp",
       "bytes": 286374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/79c06e91-22ee-4dc2-976e-8e65ed16b06f/je/2000xxs.jpg",
       "file": "img-a7bf0f25678c.webp",
       "media_type": "image/webp",
       "bytes": 238416,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/87a07eac-a89d-41fa-8c61-b28b6d9152ce/je/2000xxs.jpg",
       "file": "img-0ef256791294.webp",
       "media_type": "image/webp",
       "bytes": 212088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/1af036a3-1188-46d9-8fd5-4baadb14c03a/je/2000xxs.jpg",
       "file": "img-72ffa807918b.webp",
       "media_type": "image/webp",
       "bytes": 244356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ffbd8f70-5658-4d9d-b077-4832e435401d/je/2000xxs.jpg",
       "file": "img-0e72321c6e32.webp",
       "media_type": "image/webp",
       "bytes": 187116,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/24a707b7-978b-48d4-8b65-52bbac35343c/je/2000xxs.jpg",
       "file": "img-77eb801e3645.webp",
       "media_type": "image/webp",
       "bytes": 219870,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/fe2d203e-9129-401a-ac47-acb56fa6c264/je/2000xxs.jpg",
       "file": "img-9df8f1248e98.webp",
       "media_type": "image/webp",
       "bytes": 187614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/910c086d-4e4e-46d7-9ec1-8109059a6539/je/2000xxs.jpg",
       "file": "img-4c8e1ec295f8.webp",
       "media_type": "image/webp",
       "bytes": 230480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d2f49ee1-239c-407b-bb53-f32213403f69/je/2000xxs.jpg",
       "file": "img-134990d92e68.webp",
       "media_type": "image/webp",
       "bytes": 313298,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/81bf82ca-3f9d-4658-ab86-44068081d107/je/2000xxs.jpg",
       "file": "img-bc36755ff707.webp",
       "media_type": "image/webp",
       "bytes": 192022,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8a3e9e9f-0bd0-4a52-a0ba-c2becef0bbfb/je/2000xxs.jpg",
       "file": "img-78da09fac71a.webp",
       "media_type": "image/webp",
       "bytes": 267624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2becc8c7-fec2-4cac-8768-f8ea7afe1a92/je/2000xxs.jpg",
       "file": "img-8f1ff97c2423.webp",
       "media_type": "image/webp",
       "bytes": 257088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4d34319b-c7d6-4186-bb40-c01117002c71/je/2000xxs.jpg",
       "file": "img-2f1cd22b53c2.webp",
       "media_type": "image/webp",
       "bytes": 150308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0a15ecf8-3598-4380-bbb5-f9687fa81af5/je/2000xxs.jpg",
       "file": "img-ffced9cf916d.webp",
       "media_type": "image/webp",
       "bytes": 119028,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/52d5e1c3-f6f9-4668-933b-45da83da1a6b/je/2000xxs.jpg",
       "file": "img-18c1f292025f.webp",
       "media_type": "image/webp",
       "bytes": 275046,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3b5f2bd0-b573-4a54-b665-0308577a90ab/je/2000xxs.jpg",
       "file": "img-c4a7774abc1c.webp",
       "media_type": "image/webp",
       "bytes": 322620,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0c9e33aa-91af-43ea-8c26-f454e1f15519/je/2000xxs.jpg",
       "file": "img-2a844d7d9ece.webp",
       "media_type": "image/webp",
       "bytes": 207204,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/1919390e-ffd9-4c33-baf1-31d7a1a16615/je/2000xxs.jpg",
       "file": "img-eb3109a329d6.webp",
       "media_type": "image/webp",
       "bytes": 237964,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ef608ec3-15c1-4940-8eec-e39344179ce2/je/2000xxs.jpg",
       "file": "img-9ba39e3b9a9e.webp",
       "media_type": "image/webp",
       "bytes": 209702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d22937ab-7181-4892-8156-9ec3d5690f7d/je/2000xxs.jpg",
       "file": "img-04dd1f440074.webp",
       "media_type": "image/webp",
       "bytes": 258128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/01d40e81-0216-45d8-94fe-f7d2d00c5454/je/2000xxs.jpg",
       "file": "img-964bfb9eda10.webp",
       "media_type": "image/webp",
       "bytes": 200446,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/687cf5cc-ebb6-4450-8874-a0feab5dfd37/je/2000xxs.jpg",
       "file": "img-106487a8001d.webp",
       "media_type": "image/webp",
       "bytes": 196882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/44997c6b-4ba1-4e50-84c1-5252753d922f/je/2000xxs.jpg",
       "file": "img-0db2fa7c1c90.webp",
       "media_type": "image/webp",
       "bytes": 299258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/d110d1fd-be4a-4774-a897-4ee921fda8b7/je/2000xxs.jpg",
       "file": "img-a20c221cdd6e.webp",
       "media_type": "image/webp",
       "bytes": 201032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/9269dcbd-a384-459f-b75e-fa70b8a9e919/je/2000xxs.jpg",
       "file": "img-b92108a4cb3a.webp",
       "media_type": "image/webp",
       "bytes": 269772,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/19c4572a-3146-40e7-beba-4c903ac6fc72/je/2000xxs.jpg",
       "file": "img-d8c4e856d538.webp",
       "media_type": "image/webp",
       "bytes": 250510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5c8d786d-7cc0-4850-8541-b6ec3192d5d6/je/2000xxs.jpg",
       "file": "img-ef950e926ee0.webp",
       "media_type": "image/webp",
       "bytes": 320934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/abfd5d9a-bff3-47e1-b2b7-f0bbbecef057/je/2000xxs.jpg",
       "file": "img-62391d9ba297.webp",
       "media_type": "image/webp",
       "bytes": 118108,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/0f482b6f-cb8f-42a5-8bf2-2fccfcd403bc/je/2000xxs.jpg",
       "file": "img-693c4b824d36.webp",
       "media_type": "image/webp",
       "bytes": 136886,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dd5ba4e1-0302-4139-b103-123b45fab131/je/2000xxs.jpg",
       "file": "img-4465d1a9a5dc.webp",
       "media_type": "image/webp",
       "bytes": 160460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/92c041e0-0483-4770-a13f-678b50abcc5b/je/2000xxs.jpg",
       "file": "img-9c90643f3dbb.webp",
       "media_type": "image/webp",
       "bytes": 173972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ae24f922-2dd7-4c61-9f7d-eb7fe2fffb3a/je/2000xxs.jpg",
       "file": "img-fdb880b48ade.webp",
       "media_type": "image/webp",
       "bytes": 112722,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ccc34f8e-75b2-4caa-ade9-86b5afd0b8cb/je/2000xxs.jpg",
       "file": "img-523fde90d7b2.webp",
       "media_type": "image/webp",
       "bytes": 170200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2aa9ee4b-da09-49b1-9b06-b37381560cde/je/2000xxs.jpg",
       "file": "img-945f7b7d8ff5.webp",
       "media_type": "image/webp",
       "bytes": 139180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e4308aee-4d64-4458-971c-89b10efdaa48/je/2000xxs.jpg",
       "file": "img-94a2a52b31bf.webp",
       "media_type": "image/webp",
       "bytes": 197444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/41216afe-3cb5-409a-9edf-d2ec489826ae/je/2000xxs.jpg",
       "file": "img-28fc1853a183.webp",
       "media_type": "image/webp",
       "bytes": 403390,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/37f58a86-569a-4e21-a480-8cc865f09d86/je/2000xxs.jpg",
       "file": "img-1526001a836c.webp",
       "media_type": "image/webp",
       "bytes": 364054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/886da4cd-c463-4884-9d6e-be23909b4b49/je/2000xxs.jpg",
       "file": "img-c7320b1414fa.webp",
       "media_type": "image/webp",
       "bytes": 375916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/17e8e18f-d6a0-4798-bcd6-1e07735326e3/je/2000xxs.jpg",
       "file": "img-0233ddcb8fa6.webp",
       "media_type": "image/webp",
       "bytes": 356036,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/240863e2-88b8-4550-9964-17723dc4f57a/je/2000xxs.jpg",
       "file": "img-2397ae30fa2c.webp",
       "media_type": "image/webp",
       "bytes": 171990,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/79b337e7-72ed-4c01-9217-cb9f20fb3355/je/2000xxs.jpg",
       "file": "img-76ad43913ee8.webp",
       "media_type": "image/webp",
       "bytes": 113924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5116d673-bb26-4b6c-815a-3278c2671e8f/je/2000xxs.jpg",
       "file": "img-ac4c62cc385e.webp",
       "media_type": "image/webp",
       "bytes": 123800,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/97b54554-193b-4adf-b45c-aa7799b1cf5a/je/2000xxs.jpg",
       "file": "img-078c42bb1721.webp",
       "media_type": "image/webp",
       "bytes": 141526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/9f8ab973-d001-47b7-a8c3-e402544f9d0e/je/2000xxs.jpg",
       "file": "img-9b9dc2e947cb.webp",
       "media_type": "image/webp",
       "bytes": 137906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/bea51157-4378-4650-9aa3-ace45f14fa76/je/2000xxs.jpg",
       "file": "img-0d00784418ca.webp",
       "media_type": "image/webp",
       "bytes": 252688,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e608c178-4f79-47a3-b8fc-a7fd7ce0a4c8/je/2000xxs.jpg",
       "file": "img-ea88a1b601e1.webp",
       "media_type": "image/webp",
       "bytes": 157424,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3dc59ec8-2646-405d-ab40-91616ab29ddc/je/2000xxs.jpg",
       "file": "img-ea3665e6f2f2.webp",
       "media_type": "image/webp",
       "bytes": 178134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/b48178bc-e251-4857-9e90-81f7ca46f3a3/je/2000xxs.jpg",
       "file": "img-776a96ca6eef.webp",
       "media_type": "image/webp",
       "bytes": 156106,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/199fa9fa-94ad-43e3-92b3-e8da8be7759f/je/2000xxs.jpg",
       "file": "img-dbf00b645215.webp",
       "media_type": "image/webp",
       "bytes": 186962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/956ff09a-fefb-45b9-b38f-9871bfbc1bef/je/2000xxs.jpg",
       "file": "img-d5dce4dc5e6a.webp",
       "media_type": "image/webp",
       "bytes": 276190,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7d44904c-6c93-43d4-9994-b4c8c59ea4d5/je/2000xxs.jpg",
       "file": "img-6813d2891bdf.webp",
       "media_type": "image/webp",
       "bytes": 162926,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/61a0cad3-6697-4a5b-aa67-8f7bc515a8bb/je/2000xxs.jpg",
       "file": "img-6913269be1d0.webp",
       "media_type": "image/webp",
       "bytes": 143278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/20aea0de-6ab3-4130-9d50-d82ee07c6d94/je/2000xxs.jpg",
       "file": "img-d87aca3532f0.webp",
       "media_type": "image/webp",
       "bytes": 150230,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/e0d6d7fa-8021-4d35-a1b3-5f6de0d175e8/je/2000xxs.jpg",
       "file": "img-9fabd8b759f1.webp",
       "media_type": "image/webp",
       "bytes": 271028,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dae47ef0-6e50-4607-b97a-230214203ada/je/2000xxs.jpg",
       "file": "img-e732e150bcd1.webp",
       "media_type": "image/webp",
       "bytes": 115472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/dcc8e109-0875-4483-89a8-8d3745fa9909/je/2000xxs.jpg",
       "file": "img-eac19d2d3227.webp",
       "media_type": "image/webp",
       "bytes": 141480,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/038e0094-21c3-4222-a525-6b4a36e30190/je/2000xxs.jpg",
       "file": "img-c44ef272dca5.webp",
       "media_type": "image/webp",
       "bytes": 315648,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ce5bb44f-8a0c-4a15-a246-2cd95e25a723/je/2000xxs.jpg",
       "file": "img-4073c693bde7.webp",
       "media_type": "image/webp",
       "bytes": 276448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/015d64c7-6026-42a9-8857-10a399e686da/je/2000xxs.jpg",
       "file": "img-763cf71a888b.webp",
       "media_type": "image/webp",
       "bytes": 313216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/47e7ab71-140f-42ed-8081-427d048a2940/je/2000xxs.jpg",
       "file": "img-5546320aaa5a.webp",
       "media_type": "image/webp",
       "bytes": 339220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/20449147-c7e9-4463-8cf4-2dd7a6c68a49/je/2000xxs.jpg",
       "file": "img-7c3f9742ef53.webp",
       "media_type": "image/webp",
       "bytes": 192474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/a6b0de44-372a-4b9e-b768-1836a1e5a424/je/2000xxs.jpg",
       "file": "img-b047a7a8565e.webp",
       "media_type": "image/webp",
       "bytes": 123336,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/cb3c6147-6209-4e9c-a2b9-493291e83ae5/je/2000xxs.jpg",
       "file": "img-8e235ef71452.webp",
       "media_type": "image/webp",
       "bytes": 170784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/2ca4e41a-5f66-476e-baba-da3dd2e14725/je/2000xxs.jpg",
       "file": "img-81275322ce3d.webp",
       "media_type": "image/webp",
       "bytes": 170146,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ee6bfe9d-ca4c-4260-8c3c-a2b284dc6990/je/2000xxs.jpg",
       "file": "img-e40b1c629502.webp",
       "media_type": "image/webp",
       "bytes": 128506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/cd895de0-e6c4-49f7-8bcf-62aec132222b/je/2000xxs.jpg",
       "file": "img-e9f99c927898.webp",
       "media_type": "image/webp",
       "bytes": 148118,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/ed778872-1b27-4a50-bbb2-0e65ebf509fc/je/2000xxs.jpg",
       "file": "img-cc2e88060631.webp",
       "media_type": "image/webp",
       "bytes": 176034,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/4adf556f-4615-47f1-88af-e95ba3939713/je/2000xxs.jpg",
       "file": "img-4ef3a395cf6b.webp",
       "media_type": "image/webp",
       "bytes": 273630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/34514dc3-a1b2-418d-8423-203abda07303/je/2000xxs.jpg",
       "file": "img-e08be91929c8.webp",
       "media_type": "image/webp",
       "bytes": 136098,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/8bb4c1e4-56eb-4bd4-aebd-3359271f7f37/je/2000xxs.jpg",
       "file": "img-0757163e06f0.webp",
       "media_type": "image/webp",
       "bytes": 137610,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7a13459e-bb24-47d8-ae01-9499cd9f593b/je/2000xxs.jpg",
       "file": "img-afb1c3d99fd4.webp",
       "media_type": "image/webp",
       "bytes": 103302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/5d213906-2ac7-4cfd-9fdf-9d6411ac181b/je/2000xxs.jpg",
       "file": "img-e09e0f25822c.webp",
       "media_type": "image/webp",
       "bytes": 101270,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/57be8894-e982-4442-a27d-66395c3b3149/je/2000xxs.jpg",
       "file": "img-65fdbc97c424.webp",
       "media_type": "image/webp",
       "bytes": 112262,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/2200xxs%2881%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "file": "img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "file": "img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "file": "img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "videos": [
     {
-      "source_url": "https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/1189064799?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_source_url": "https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg",
       "poster_file": "img-53d32165933a.webp",
-      "error": "HTTP 401 Unauthorized"
+      "error": "yt-dlp could not download the video player URL"
     }
   ],
   "metadata": {
@@ -873,6 +979,87 @@
     "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/2200xxs%2881%29.jpg: HTTP 403 Forbidden",
-    "video https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: HTTP 401 Unauthorized"
+    "video https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: HTTP 401 Unauthorized",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: Get \"https://player.vimeo.com/video/1189064799?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0\": dial tcp: lookup player.vimeo.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1189064799?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0: yt-dlp could not download the video player URL",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/key-biscayne-fl-usa/5%20Bedrooms%20Single%20Family%20Detached%20In%20Key%20Biscayne,%20Florida,%20United%20States%20For%20Sale%20%2817843171%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/f44a1426-a286-4da2-9de9-76a9db21c0b0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/3f0ac44b-b7e3-423c-ae10-7a5d8de318c0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/7b7a5c16-855e-4023-be79-6c27301dbba3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/942439fb-a4de-48a3-83ca-7f3502242ab5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/05/12/04/27/6f591331-a502-4521-84bd-c571cf98e244/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1189064799?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0: yt-dlp could not download the video player URL"
   ]
 }

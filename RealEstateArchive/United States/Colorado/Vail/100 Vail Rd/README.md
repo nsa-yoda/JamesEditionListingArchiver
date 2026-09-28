@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/vail-co-usa/alpenstrasse-15178375
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:20Z
+- Retrieved: 2026-09-28T00:19:53Z
 - Address: 100 Vail Rd, Vail, CO 81657, Colorado, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.6402293,-106.3778153
 - Coordinates: 39.64, -106.38
 - Site listing ID: 15178375
 - First listed: Feb 5, 2025
 - Last updated: February 6, 2025
-- Images downloaded: 9
+- Images downloaded: 12
 - Videos downloaded: 0
 
 ## Property

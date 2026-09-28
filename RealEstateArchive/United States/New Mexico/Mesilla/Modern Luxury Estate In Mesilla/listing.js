@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "30068-000053",
     "first_listed": "Sep 17, 2025",
     "last_updated": "May 4",
-    "retrieved_at": "2026-06-16T03:43:30.317231Z"
+    "retrieved_at": "2026-09-28T00:22:44.102797Z"
   },
   "location": {
     "address": "Mesilla, NM, New Mexico, United States",
@@ -72,6 +72,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/2200xxs.jpg",
       "file": "004-48ebd7c4.webp",
       "media_type": "image/webp",
@@ -80,7 +95,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/2200xxs.jpg",
@@ -91,7 +122,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/2200xxs.jpg",
@@ -102,7 +149,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/2200xxs.jpg",
@@ -113,7 +176,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/2200xxs.jpg",
@@ -124,19 +203,34 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-121872181b59.webp",
+      "media_type": "image/webp",
+      "bytes": 3140,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-2ca66eb4d952.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-f71b952e41f6.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -315,6 +409,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/07baea9b-d088-4aeb-916d-375fc2fbbe9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/0db35679-511e-4108-adeb-1ca2f2b1c682/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/10/49b7d34e-cf84-4fe9-afac-fe7a714d9fbb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/16/18/17/03/d9a99daf-7bc4-417e-8216-5e1e2c6f1b92/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/mesilla-nm-usa/Modern%20Luxury%20Estate%20In%20Mesilla,%20New%20In%20Mesilla,%20New%20Mexico,%20United%20States%20For%20Sale%20%2816196983%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/09/17/14/05/50/36077815-f328-4be2-a798-f2b0245edc5c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

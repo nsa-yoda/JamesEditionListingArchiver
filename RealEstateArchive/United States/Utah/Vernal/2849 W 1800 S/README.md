@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/vernal-ut-usa/single-family-residence-in-vernal-17276710
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:42:12Z
+- Retrieved: 2026-09-28T00:25:27Z
 - Address: 2849 W 1800 S, Vernal, Utah, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.42886198,-109.58283899
 - Coordinates: 40.43, -109.58
@@ -10,7 +10,7 @@
 - Listing reference: 2138717
 - First listed: Feb 22
 - Last updated: April 29
-- Images downloaded: 9
+- Images downloaded: 13
 
 ## Property
 

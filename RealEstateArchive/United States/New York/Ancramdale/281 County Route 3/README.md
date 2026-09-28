@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/ancramdale-ny-usa/single-family-residence-in-ancramdale-16979115
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:08:49Z
+- Retrieved: 2026-09-28T00:25:05Z
 - Address: 281 County Route 3, Ancramdale, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=42.031084,-73.577285
 - Coordinates: 42.03, -73.58
@@ -10,7 +10,7 @@
 - Listing reference: 922447
 - First listed: Jan 22
 - Last updated: March 30
-- Images downloaded: 9
+- Images downloaded: 13
 
 ## Property
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:27:02.283784Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/whitney-park-a-legacy-beyond-measure-15606227",
     "canonical_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/whitney-park-a-legacy-beyond-measure-15606227",
@@ -9,13 +9,13 @@
     "listing_reference": "WRHPJ7",
     "first_listed": "May 9, 2025",
     "last_updated": "June 2",
-    "retrieved_at": "2026-06-19T08:42:39.658098Z"
+    "retrieved_at": "2026-09-28T00:27:01.869754Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 5249,
-      "sha256": "045f66a189c274abc4258eb5369b137d5c02ea46d6ce5d2230505ca6c6f78d0b"
+      "sha256": "40775454772c845eb67cd61744da488b23b8400bf162b451e54eaab7fc14155f"
     },
     {
       "path": "images/img-0fa6c40df06c.webp",
@@ -63,6 +63,11 @@
       "sha256": "29d311672381a587ba888d856d61718ec31c14df1d4811e045d6ab986926597c"
     },
     {
+      "path": "images/img-326fd487dece.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-36024856ab53.webp",
       "bytes": 619234,
       "sha256": "2a540b8fc45ce69c7906887897b3343e23c8fa2c5fcea14b099061d8f7dabc6a"
@@ -71,6 +76,11 @@
       "path": "images/img-3765c0a22f12.webp",
       "bytes": 1074588,
       "sha256": "af37f56ae6d9b7187a14185a5c2af2d0e769b3610360011273c53cbcdfe024a6"
+    },
+    {
+      "path": "images/img-37c657259b5e.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-4055dfde7ac7.svg",
@@ -91,6 +101,11 @@
       "path": "images/img-77eae34701b1.webp",
       "bytes": 632982,
       "sha256": "61df53cb438a920e21d76687698c60c489726263ccb81c41fb81340ee87323fd"
+    },
+    {
+      "path": "images/img-785ed21fee8a.webp",
+      "bytes": 3284,
+      "sha256": "fe000dc8cddd9ac2257b529689bec463ade7c38703129e5912eb87e5d5760605"
     },
     {
       "path": "images/img-853e02d5a3b9.webp",
@@ -159,8 +174,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 27864,
-      "sha256": "cf5e785e976efc6fe5f1c15f7c42531d593f4cb503dd04d444b3346a84cacf7e"
+      "bytes": 53647,
+      "sha256": "cd14b2a8cfc46235ecafda54da00d2e075f07d79f06655fcf170585837477d9f"
     },
     {
       "path": "source.html",
@@ -176,17 +191,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/2200xxs.jpg",
       "path": "images/img-de308b4bc9ad.webp",
       "media_type": "image/webp",
       "bytes": 246964,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -194,13 +239,25 @@
       "path": "images/img-77eae34701b1.webp",
       "media_type": "image/webp",
       "bytes": 632982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -208,13 +265,25 @@
       "path": "images/img-36024856ab53.webp",
       "media_type": "image/webp",
       "bytes": 619234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -222,13 +291,25 @@
       "path": "images/img-23afdfaa1ed0.webp",
       "media_type": "image/webp",
       "bytes": 612716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -236,31 +317,61 @@
       "path": "images/img-8d71f3e38340.webp",
       "media_type": "image/webp",
       "bytes": 619036,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-785ed21fee8a.webp",
+      "media_type": "image/webp",
+      "bytes": 3284,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-326fd487dece.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-37c657259b5e.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/517b8db1-bdb7-48ae-a68a-9327b830776d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/4c057b92-c294-46a2-bbff-a7d9aa8ee62f/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/32f2e9a2-f46e-4099-9f1b-7cabbb629b38/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/714aedcb-a136-4700-8b48-7be00270715d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -268,7 +379,7 @@
       "path": "images/img-2295673447ca.webp",
       "media_type": "image/webp",
       "bytes": 390886,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -276,7 +387,7 @@
       "path": "images/img-c15f027240ed.webp",
       "media_type": "image/webp",
       "bytes": 245844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -284,7 +395,7 @@
       "path": "images/img-2b582c591ff0.webp",
       "media_type": "image/webp",
       "bytes": 382214,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -292,7 +403,7 @@
       "path": "images/img-973f83bd5938.webp",
       "media_type": "image/webp",
       "bytes": 85668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -300,7 +411,7 @@
       "path": "images/img-0fa6c40df06c.webp",
       "media_type": "image/webp",
       "bytes": 483482,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -308,7 +419,7 @@
       "path": "images/img-dc97c8370b36.webp",
       "media_type": "image/webp",
       "bytes": 696816,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -316,7 +427,7 @@
       "path": "images/img-c191b4c424e5.webp",
       "media_type": "image/webp",
       "bytes": 239478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -324,7 +435,7 @@
       "path": "images/img-1ad6dc008309.webp",
       "media_type": "image/webp",
       "bytes": 717852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -332,7 +443,7 @@
       "path": "images/img-f8a8e1730081.webp",
       "media_type": "image/webp",
       "bytes": 146912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -340,7 +451,7 @@
       "path": "images/img-2123bc7da9a3.webp",
       "media_type": "image/webp",
       "bytes": 432326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -348,7 +459,7 @@
       "path": "images/img-853e02d5a3b9.webp",
       "media_type": "image/webp",
       "bytes": 576700,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -356,7 +467,7 @@
       "path": "images/img-3765c0a22f12.webp",
       "media_type": "image/webp",
       "bytes": 1074588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -364,7 +475,7 @@
       "path": "images/img-e10f5d232ee1.webp",
       "media_type": "image/webp",
       "bytes": 734558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -372,7 +483,7 @@
       "path": "images/img-86edf331b546.webp",
       "media_type": "image/webp",
       "bytes": 732266,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -380,7 +491,7 @@
       "path": "images/img-1fc0a8722b1e.webp",
       "media_type": "image/webp",
       "bytes": 993608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -388,7 +499,7 @@
       "path": "images/img-8e90d6175991.webp",
       "media_type": "image/webp",
       "bytes": 70084,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -396,7 +507,7 @@
       "path": "images/img-1b03edf624f6.webp",
       "media_type": "image/webp",
       "bytes": 832136,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -404,7 +515,7 @@
       "path": "images/img-915398d7e37d.webp",
       "media_type": "image/webp",
       "bytes": 335076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -412,13 +523,13 @@
       "path": "images/img-550564f1916a.webp",
       "media_type": "image/webp",
       "bytes": 278390,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/long-lake-ny-usa/Whitney%20Park_%20A%20Legacy%20Beyond%20Measure%20In%20Long%20Lake,%20New%20York,%20United%20States%20For%20Sale%20%2815606227%29_files/2200xxsxm.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/05/09/11/43/30/15c2186d-4fcc-4489-8f7f-7c6dfd6f5d67/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -426,7 +537,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -434,7 +545,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -442,7 +553,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -450,13 +561,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 28,
-    "images_existing": 0,
-    "images_failed": 9,
+    "images_new": 3,
+    "images_existing": 28,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

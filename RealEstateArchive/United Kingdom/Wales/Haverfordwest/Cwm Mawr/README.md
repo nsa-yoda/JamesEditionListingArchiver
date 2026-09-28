@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/haverfordwest-united-kingdom/cwm-mawr-an-award-winning-coastal-masterpiece-in-the-pembrokeshire-coast-national-park-16075682
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:23Z
+- Retrieved: 2026-09-28T00:20:42Z
 - Address: Cwm Mawr, Pen Y Cwm, Haverfordwest, SA62, Wales, United Kingdom
 - Map: https://www.google.com/maps/search/?api=1&query=51.8627506,-5.1318974
 - Coordinates: 51.86, -5.13
@@ -10,7 +10,7 @@
 - Listing reference: ls_4333473
 - First listed: Aug 21, 2025
 - Last updated: May 19
-- Images downloaded: 9
+- Images downloaded: 14
 - Videos downloaded: 0
 
 ## Property

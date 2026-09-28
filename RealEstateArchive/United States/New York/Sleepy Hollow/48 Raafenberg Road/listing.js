@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "H6335041",
     "first_listed": "Jan 22",
     "last_updated": "March 30",
-    "retrieved_at": "2026-06-16T03:43:37.161583Z"
+    "retrieved_at": "2026-09-28T00:25:24.682032Z"
   },
   "location": {
     "address": "48 Raafenberg Road, Sleepy Hollow, New York, United States",
@@ -68,6 +68,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/2200xxs.jpg",
       "file": "004-e3e33e6e.webp",
       "media_type": "image/webp",
@@ -76,7 +91,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/2200xxs.jpg",
@@ -87,7 +118,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/2200xxs.jpg",
@@ -98,7 +145,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/2200xxs.jpg",
@@ -109,7 +172,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/2200xxs.jpg",
@@ -120,23 +199,41 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/M00000489.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-3e38461689c0.png",
+      "media_type": "image/png",
+      "bytes": 3564,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a8884a44c0a2.webp",
+      "media_type": "image/webp",
+      "bytes": 5144,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-1d0874649fac.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-8d031f45240e.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -316,6 +413,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/M00000489.png: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/5ecf4332-bbc2-445f-bf62-0e2420925fe2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/e3c9d206-d512-4e08-a1e0-3bbdca445c20/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/58ae0135-ad37-4982-941b-3aa00d5743ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/b69be3da-c324-457e-9b3d-55142526cbc4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/Single%20Family%20Residence%20In%20Sleepy%20In%20Sleepy%20Hollow,%20New%20York,%20United%20States%20For%20Sale%20%2816978158%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/22/16/14/32/6be1ffde-027e-454d-9627-f96108e3c056/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

@@ -1,0 +1,19 @@
+window.listingArchiveIndex = {
+  "schema_version": 1,
+  "path": "United States/California/Los Angeles/1509 Amalfi Drive/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-78348a6a3cc8.webp",
+      "href": "img-78348a6a3cc8.webp",
+      "size": 165572
+    },
+    {
+      "name": "vid-edd96b72c43a.mp4",
+      "href": "vid-edd96b72c43a.mp4",
+      "size": 11563041
+    }
+  ],
+  "last_updated": "2026-09-28T00:17:31.526802Z"
+};

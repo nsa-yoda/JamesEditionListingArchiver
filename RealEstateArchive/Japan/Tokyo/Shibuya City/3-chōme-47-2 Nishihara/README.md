@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/shibuya-japan/nishihara-estate-a-private-compound-in-tokyo-s-most-discreet-residential-enclave-17627013
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:47Z
+- Retrieved: 2026-09-28T00:23:14Z
 - Address: 3-chōme-47-2 Nishihara, Shibuya, Tokyo 151-0066, Shibuya City, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.6714126,139.6771589
 - Coordinates: 35.67, 139.68
 - Site listing ID: 17627013
 - First listed: Apr 9
 - Last updated: June 29
-- Images downloaded: 23
+- Images downloaded: 35
 - Videos downloaded: 0
 
 ## Property

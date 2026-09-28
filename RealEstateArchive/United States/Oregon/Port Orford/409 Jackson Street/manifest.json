@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:55.491141Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/the-point-16199256",
     "canonical_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/the-point-16199256",
@@ -9,13 +9,13 @@
     "listing_reference": "NQHZR2",
     "first_listed": "Sep 18, 2025",
     "last_updated": "June 8",
-    "retrieved_at": "2026-06-19T08:42:32.272195Z"
+    "retrieved_at": "2026-09-28T00:25:54.704473Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2769,
-      "sha256": "d9df8ef57d1fc814ac2f77544116196dd09d6a8c010e58e7e20c9f019afd95ba"
+      "sha256": "31fdfc02f973c1b2fd7bacbb21ed3ecbb2120d98cbebcb9d0c03ab534ea2cc86"
     },
     {
       "path": "images/img-07b33ab6ccf3.webp",
@@ -118,6 +118,11 @@
       "sha256": "213b5fd4ac6e75cb228ac83bf52d5c1be9598c9118e23592ce3dbcb8de9d4135"
     },
     {
+      "path": "images/img-50f76456ba0a.webp",
+      "bytes": 714588,
+      "sha256": "71f25c6ede16297e5a552680260bdc960ea445ecb0291a6ada7a3e94aa6b43f1"
+    },
+    {
       "path": "images/img-5195c7aa92cb.webp",
       "bytes": 729400,
       "sha256": "c04e369a09426ad944bb2e149fb2c05f4039b92570d4be8a3ca65882fea145c6"
@@ -136,6 +141,11 @@
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-66b70571f566.webp",
+      "bytes": 4686,
+      "sha256": "b8cd82dd87a6cc9fc0e7af52d6c3cfe05b1fd082b8ad8768fc9ae8c729d94ec7"
     },
     {
       "path": "images/img-69698da9bd1c.webp",
@@ -183,6 +193,11 @@
       "sha256": "08e14801723432c82531e774a8305682f7fff3f09a91d0e26faa3e22d5a91958"
     },
     {
+      "path": "images/img-b8f822c070de.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-bd24561f7c31.webp",
       "bytes": 514050,
       "sha256": "a1ab44c5ab07f3143b17327b385c7a777ec7af1293b5821a2318ed6ee6fffffe"
@@ -223,6 +238,11 @@
       "sha256": "0957ab6c937496c7beafa3841481fbe53b91259e92fff6bb7245faedb0756df6"
     },
     {
+      "path": "images/img-ca04b540487a.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-caf7633dd106.svg",
       "bytes": 63710,
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
@@ -236,6 +256,11 @@
       "path": "images/img-cbf39f5aa7ff.webp",
       "bytes": 463950,
       "sha256": "0cf6e3b9a7adaa306e22a30e128067ad90704c3291408da21edb4e9a929d5cd4"
+    },
+    {
+      "path": "images/img-dd70fbfac5b6.webp",
+      "bytes": 511412,
+      "sha256": "0adfd0dbc5ade52dd24fb1899619deeeb6b76bf1d02a7d795bd03e9a5fc613ba"
     },
     {
       "path": "images/img-e47c6a50b08a.webp",
@@ -268,6 +293,11 @@
       "sha256": "051d8e9f5a9b9aa803a6c86f374034a6f2ae0cd321bd233fffe7627ff921ad23"
     },
     {
+      "path": "images/img-fa087b53e9e2.webp",
+      "bytes": 751172,
+      "sha256": "9a0c95a242b47bb2ae3ed39249e92a283529010af8ff34dfa3af478e6716ee76"
+    },
+    {
       "path": "images/img-fb226e9622d2.webp",
       "bytes": 803134,
       "sha256": "46a09327c8b6d5358fc1a2754354c7584951f247f5c78ee272bdce61786d5f45"
@@ -279,8 +309,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 29702,
-      "sha256": "bb20bfe5c7cf89310e8624bc47f90c4934415a4d941b563ab3079d1c6b081d13"
+      "bytes": 56259,
+      "sha256": "1a3bac7e1a475eddd0e9ff99299502de63e1fd9f64b72cf7e1425b1f8ba8812a"
     },
     {
       "path": "source.html",
@@ -296,17 +326,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/2200xxs.jpg",
       "path": "images/img-bd24561f7c31.webp",
       "media_type": "image/webp",
       "bytes": 514050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/022d17a5-d16f-4004-a8ea-b52cc8945cba/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/022d17a5-d16f-4004-a8ea-b52cc8945cba/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/022d17a5-d16f-4004-a8ea-b52cc8945cba/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/022d17a5-d16f-4004-a8ea-b52cc8945cba/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/022d17a5-d16f-4004-a8ea-b52cc8945cba/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/022d17a5-d16f-4004-a8ea-b52cc8945cba/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -314,13 +374,25 @@
       "path": "images/img-f5cf39aa5e79.webp",
       "media_type": "image/webp",
       "bytes": 872560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/9cba2647-4194-4adf-858f-c9a32d41554b/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/9cba2647-4194-4adf-858f-c9a32d41554b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/9cba2647-4194-4adf-858f-c9a32d41554b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/9cba2647-4194-4adf-858f-c9a32d41554b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/9cba2647-4194-4adf-858f-c9a32d41554b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/9cba2647-4194-4adf-858f-c9a32d41554b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -328,13 +400,25 @@
       "path": "images/img-087c1fcbe9f3.webp",
       "media_type": "image/webp",
       "bytes": 831478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/70d2efaa-225b-4f4d-a7ab-deaeaf37dea6/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/70d2efaa-225b-4f4d-a7ab-deaeaf37dea6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/70d2efaa-225b-4f4d-a7ab-deaeaf37dea6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/70d2efaa-225b-4f4d-a7ab-deaeaf37dea6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/70d2efaa-225b-4f4d-a7ab-deaeaf37dea6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/70d2efaa-225b-4f4d-a7ab-deaeaf37dea6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -342,13 +426,25 @@
       "path": "images/img-fb226e9622d2.webp",
       "media_type": "image/webp",
       "bytes": 803134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/18420efa-4bbd-4ddc-988c-d766f1b19d13/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/18420efa-4bbd-4ddc-988c-d766f1b19d13/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/18420efa-4bbd-4ddc-988c-d766f1b19d13/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/18420efa-4bbd-4ddc-988c-d766f1b19d13/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/18420efa-4bbd-4ddc-988c-d766f1b19d13/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/18420efa-4bbd-4ddc-988c-d766f1b19d13/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -356,31 +452,61 @@
       "path": "images/img-444909258b91.webp",
       "media_type": "image/webp",
       "bytes": 779684,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-66b70571f566.webp",
+      "media_type": "image/webp",
+      "bytes": 4686,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ca04b540487a.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-b8f822c070de.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/022d17a5-d16f-4004-a8ea-b52cc8945cba/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/022d17a5-d16f-4004-a8ea-b52cc8945cba/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/9cba2647-4194-4adf-858f-c9a32d41554b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/9cba2647-4194-4adf-858f-c9a32d41554b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/70d2efaa-225b-4f4d-a7ab-deaeaf37dea6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/70d2efaa-225b-4f4d-a7ab-deaeaf37dea6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/18420efa-4bbd-4ddc-988c-d766f1b19d13/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/18420efa-4bbd-4ddc-988c-d766f1b19d13/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -388,7 +514,7 @@
       "path": "images/img-eece1c71e5d8.webp",
       "media_type": "image/webp",
       "bytes": 840798,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -396,7 +522,7 @@
       "path": "images/img-4be1a74623a4.webp",
       "media_type": "image/webp",
       "bytes": 751296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -404,7 +530,7 @@
       "path": "images/img-a2a11204fdd6.webp",
       "media_type": "image/webp",
       "bytes": 453386,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -412,7 +538,7 @@
       "path": "images/img-c2b37045f282.webp",
       "media_type": "image/webp",
       "bytes": 679798,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -420,7 +546,7 @@
       "path": "images/img-8bf7a8663121.webp",
       "media_type": "image/webp",
       "bytes": 546796,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -428,7 +554,7 @@
       "path": "images/img-cbf39f5aa7ff.webp",
       "media_type": "image/webp",
       "bytes": 463950,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -436,7 +562,7 @@
       "path": "images/img-174ae450f453.webp",
       "media_type": "image/webp",
       "bytes": 443938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -444,7 +570,7 @@
       "path": "images/img-07b33ab6ccf3.webp",
       "media_type": "image/webp",
       "bytes": 416924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -452,7 +578,7 @@
       "path": "images/img-877e6cc15ce2.webp",
       "media_type": "image/webp",
       "bytes": 625188,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -460,7 +586,7 @@
       "path": "images/img-2e56fe2ce47a.webp",
       "media_type": "image/webp",
       "bytes": 595928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -468,7 +594,7 @@
       "path": "images/img-84773a4104f4.webp",
       "media_type": "image/webp",
       "bytes": 428638,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -476,7 +602,7 @@
       "path": "images/img-82e6956a8343.webp",
       "media_type": "image/webp",
       "bytes": 115884,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -484,7 +610,7 @@
       "path": "images/img-89f2fa8aa343.webp",
       "media_type": "image/webp",
       "bytes": 238352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -492,7 +618,7 @@
       "path": "images/img-496c06e3dbc4.webp",
       "media_type": "image/webp",
       "bytes": 258236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -500,7 +626,7 @@
       "path": "images/img-c3f1d8d67dcc.webp",
       "media_type": "image/webp",
       "bytes": 118822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -508,7 +634,7 @@
       "path": "images/img-46f1467c3830.webp",
       "media_type": "image/webp",
       "bytes": 281870,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -516,7 +642,7 @@
       "path": "images/img-c905f247c06e.webp",
       "media_type": "image/webp",
       "bytes": 133626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -524,7 +650,7 @@
       "path": "images/img-69698da9bd1c.webp",
       "media_type": "image/webp",
       "bytes": 213022,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -532,7 +658,7 @@
       "path": "images/img-0dbcc6a0be10.webp",
       "media_type": "image/webp",
       "bytes": 251128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -540,7 +666,7 @@
       "path": "images/img-178b1aaa57a6.webp",
       "media_type": "image/webp",
       "bytes": 476618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -548,7 +674,7 @@
       "path": "images/img-0c009340833d.webp",
       "media_type": "image/webp",
       "bytes": 491600,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -556,7 +682,7 @@
       "path": "images/img-e50674cfddb4.webp",
       "media_type": "image/webp",
       "bytes": 59568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -564,7 +690,7 @@
       "path": "images/img-4ac3362421ef.webp",
       "media_type": "image/webp",
       "bytes": 237202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -572,7 +698,7 @@
       "path": "images/img-2f43df2974fe.webp",
       "media_type": "image/webp",
       "bytes": 298896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -580,7 +706,7 @@
       "path": "images/img-e47c6a50b08a.webp",
       "media_type": "image/webp",
       "bytes": 213340,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -588,7 +714,7 @@
       "path": "images/img-fd9dcc185c1c.webp",
       "media_type": "image/webp",
       "bytes": 219742,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -596,7 +722,7 @@
       "path": "images/img-4671a7a52d41.webp",
       "media_type": "image/webp",
       "bytes": 136258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -604,7 +730,7 @@
       "path": "images/img-cb7363043e05.webp",
       "media_type": "image/webp",
       "bytes": 225486,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -612,7 +738,7 @@
       "path": "images/img-f71e89387707.webp",
       "media_type": "image/webp",
       "bytes": 254304,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -620,7 +746,7 @@
       "path": "images/img-4311bae67dea.webp",
       "media_type": "image/webp",
       "bytes": 199938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -628,7 +754,7 @@
       "path": "images/img-c7585c31c7cd.webp",
       "media_type": "image/webp",
       "bytes": 349772,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -636,7 +762,7 @@
       "path": "images/img-6d9b36e5d1ec.webp",
       "media_type": "image/webp",
       "bytes": 143954,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -644,7 +770,7 @@
       "path": "images/img-e580764ba6d9.webp",
       "media_type": "image/webp",
       "bytes": 141136,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -652,7 +778,7 @@
       "path": "images/img-766dc9d866e6.webp",
       "media_type": "image/webp",
       "bytes": 111456,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -660,7 +786,7 @@
       "path": "images/img-5195c7aa92cb.webp",
       "media_type": "image/webp",
       "bytes": 729400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -668,7 +794,7 @@
       "path": "images/img-c7f7a45dc049.webp",
       "media_type": "image/webp",
       "bytes": 279792,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -676,7 +802,7 @@
       "path": "images/img-193b76565d1c.webp",
       "media_type": "image/webp",
       "bytes": 444710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -684,7 +810,7 @@
       "path": "images/img-519d174f4710.webp",
       "media_type": "image/webp",
       "bytes": 225208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -692,7 +818,7 @@
       "path": "images/img-c4fb9b3c9cb2.webp",
       "media_type": "image/webp",
       "bytes": 116764,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -700,7 +826,7 @@
       "path": "images/img-c6ca86e84938.webp",
       "media_type": "image/webp",
       "bytes": 99130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -708,7 +834,7 @@
       "path": "images/img-384a21b46ac3.webp",
       "media_type": "image/webp",
       "bytes": 174780,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -716,7 +842,7 @@
       "path": "images/img-52ba6cb2df97.webp",
       "media_type": "image/webp",
       "bytes": 221524,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -724,25 +850,37 @@
       "path": "images/img-37d325037e68.webp",
       "media_type": "image/webp",
       "bytes": 808562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/2200xxsxm%2813%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-fa087b53e9e2.webp",
+      "media_type": "image/webp",
+      "bytes": 751172,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/2200xxsxm%2814%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-50f76456ba0a.webp",
+      "media_type": "image/webp",
+      "bytes": 714588,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-orford-or-usa/The%20Point%20In%20Port%20Orford,%20Oregon,%20United%20States%20For%20Sale%20%2816199256%29_files/2200xxsxm%2815%29.jpg",
+      "path": "images/img-dd70fbfac5b6.webp",
+      "media_type": "image/webp",
+      "bytes": 511412,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/12/17/51/29/67521f72-fd60-40e0-9dac-e93c8f52d701/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -750,7 +888,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -758,7 +896,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -766,7 +904,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -774,13 +912,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 52,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 6,
+    "images_existing": 52,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/corfu-greece/opulent-estate-on-the-nisaki-coastline-corfu-16486484
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:33Z
+- Retrieved: 2026-09-28T00:23:38Z
 - Address: Corfu, Greece
 - Map: https://www.google.com/maps/search/?api=1&query=39.6249838,19.9223461
 - Coordinates: 39.62, 19.92

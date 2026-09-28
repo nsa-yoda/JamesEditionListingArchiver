@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845-se-7th-street-fort-lauderdale-fl-16479081
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:05:34Z
+- Retrieved: 2026-09-28T00:17:33Z
 - Address: 1845 SE 7th Street, Fort Lauderdale, FL, Florida, United States
 - Map: https://www.google.com/maps/search/?api=1&query=26.112587,-80.120027
 - Coordinates: 26.11, -80.12
@@ -10,7 +10,7 @@
 - Listing reference: F10526453
 - First listed: Oct 23, 2025
 - Last updated: November 5, 2025
-- Images downloaded: 9
+- Images downloaded: 18
 
 ## Property
 

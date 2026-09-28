@@ -2,13 +2,13 @@
 
 - Source: https://www.jamesedition.com/real_estate/heathsville-va-usa/waterfront-oasis-15816442
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:42Z
+- Retrieved: 2026-09-28T00:26:42Z
 - Address: 254 Stillwater Dr, Heathsville, VA 22473, Virginia, United States
 - Map: https://www.google.com/maps/search/?api=1&query=37.8172315,-76.3192857
 - Coordinates: 37.82, -76.32
 - Site listing ID: 15816442
 - First listed: Jun 20, 2025
-- Images downloaded: 10
+- Images downloaded: 13
 
 ## Property
 

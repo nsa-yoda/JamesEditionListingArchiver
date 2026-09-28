@@ -22,10 +22,12 @@ type Config struct {
 	MetadataOnly bool
 	MaxImages    int
 	Refresh      bool
+	SkipExisting bool
 	Reindex      bool
 	Verify       bool
 	Migrate      bool
 	AssetsOnly   bool
+	VideosOnly   bool
 	HTMLFile     string
 	HTMLDir      string
 	SourceURL    string
@@ -46,11 +48,13 @@ func Parse(args []string, stderr io.Writer) (Config, error) {
 	fs.BoolVar(&cfg.Overwrite, "overwrite", false, "replace already-downloaded image files")
 	fs.BoolVar(&cfg.MetadataOnly, "metadata-only", false, "archive metadata and source HTML without downloading images")
 	fs.IntVar(&cfg.MaxImages, "max-images", 0, "maximum images per listing; 0 means unlimited")
-	fs.BoolVar(&cfg.Refresh, "refresh", false, "reprocess existing HTML imports instead of skipping them")
+	fs.BoolVar(&cfg.Refresh, "refresh", false, "deprecated; HTML imports are reprocessed by default")
+	fs.BoolVar(&cfg.SkipExisting, "skip-existing", false, "skip HTML imports whose listing already exists")
 	fs.BoolVar(&cfg.Reindex, "reindex", false, "rebuild browser indexes beneath the archive root")
 	fs.BoolVar(&cfg.Verify, "verify", false, "verify archive manifests, file hashes, and browser indexes beneath the archive root")
 	fs.BoolVar(&cfg.Migrate, "migrate", false, "migrate existing archives to the current schema and regenerate manifests/indexes")
 	fs.BoolVar(&cfg.AssetsOnly, "assets-only", false, "refresh only images/videos for an existing archive while preserving current listing metadata")
+	fs.BoolVar(&cfg.VideosOnly, "videos-only", false, "refresh only videos for existing HTML imports while preserving metadata and images")
 	fs.StringVar(&cfg.HTMLFile, "html", "", "import saved listing HTML instead of fetching the page")
 	fs.StringVar(&cfg.HTMLDir, "html-dir", "", "import top-level .html and .htm files in a directory")
 	fs.StringVar(&cfg.SourceURL, "source-url", "", "original listing URL for -html import")
@@ -85,6 +89,9 @@ func Parse(args []string, stderr io.Writer) (Config, error) {
 	}
 	if cfg.AssetsOnly && cfg.MetadataOnly {
 		return Config{}, fmt.Errorf("-assets-only cannot be combined with -metadata-only")
+	}
+	if cfg.VideosOnly && (cfg.AssetsOnly || cfg.MetadataOnly || cfg.Reindex || cfg.Verify || cfg.Migrate) {
+		return Config{}, fmt.Errorf("-videos-only cannot be combined with -assets-only, -metadata-only, -reindex, -verify, or -migrate")
 	}
 	if cfg.AssetsOnly && cfg.Reindex {
 		return Config{}, fmt.Errorf("-assets-only cannot be combined with -reindex")

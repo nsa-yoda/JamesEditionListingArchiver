@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:28.613206Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/renamor-16052746",
     "canonical_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/renamor-16052746",
@@ -9,13 +9,13 @@
     "listing_reference": "W9H9JK",
     "first_listed": "Aug 14, 2025",
     "last_updated": "April 25",
-    "retrieved_at": "2026-06-18T07:08:43.808346Z"
+    "retrieved_at": "2026-09-28T00:24:21.959469Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 4869,
-      "sha256": "916654fff974de6e4ad9307a4da1ae5d5002dda91fcb1ed2751b7bf89686ccec"
+      "sha256": "e6cb3c015067fb0f4b76453f25b3dfd2b23fdd49976be868a69068cbcb5b2253"
     },
     {
       "path": "images/004-6a3d83c5.webp",
@@ -348,9 +348,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-06210065ccb7.jpg",
+      "bytes": 4742,
+      "sha256": "4c24d0e5210ea4535541a212b3cb12bda89dc837f269782e7c7dcba7f2d110b9"
+    },
+    {
+      "path": "images/img-729eff0bd8ea.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-85fe88f51477.jpg",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 37200,
-      "sha256": "c3dec8ad291f4d3aa70d3a281e1ec502e59af6b9989b45c99bff861f37080f74"
+      "bytes": 71968,
+      "sha256": "80b335d92fe5f1c430f36b3b3f9b58f3eb8e768ead74d8585e251923800a0dda"
     },
     {
       "path": "source.html",
@@ -361,9 +376,47 @@
       "path": "source.url",
       "bytes": 77,
       "sha256": "f89c20743ad151524bebee1b144fd96d019785fe7fb39b6e64429e95af558a87"
+    },
+    {
+      "path": "videos/img-6299fe8d56f0.webp",
+      "bytes": 144704,
+      "sha256": "42baecb5a21d8e41b0e1b90ff55b979245fca6702c363a816867939fd3b77d61"
+    },
+    {
+      "path": "videos/vid-5f79abcd55f9.mp4",
+      "bytes": 35986544,
+      "sha256": "3b1d267a49f4367c532edb45f267d9732b93672fd54816b9d0f42e20dc7b3729"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6377041770112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-5f79abcd55f9.mp4",
+      "media_type": "video/mp4",
+      "bytes": 35986544,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/1040x620xc.jpg",
+      "poster_path": "videos/img-6299fe8d56f0.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/2200xxs.jpg",
@@ -374,8 +427,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -387,8 +453,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -400,8 +479,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -413,8 +505,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -426,23 +531,57 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-06210065ccb7.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 4742,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-729eff0bd8ea.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-85fe88f51477.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 767001,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/1d947490-07d9-44cd-830a-db0b77e8afbe/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/0379cf97-e08e-4f1f-bd56-074d975a35f7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/6d173b4b-00a2-4184-8453-ef7d0b7924a1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/06a122af-87c2-4e64-842e-ab4d3b8709d5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -902,18 +1041,9 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2850%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2851%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/Renamor%20In%20Tuxedo%20Park,%20New%20York,%20United%20States%20For%20Sale%20%2816052746%29_files/2200xxsxm%2852%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/14/12/34/35/72d27ea9-421c-41ee-a1b5-7978f1ac130c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -949,10 +1079,10 @@
     }
   ],
   "summary": {
-    "images_new": 11,
-    "images_existing": 66,
-    "images_failed": 0,
-    "videos_new": 0,
+    "images_new": 0,
+    "images_existing": 69,
+    "images_failed": 21,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

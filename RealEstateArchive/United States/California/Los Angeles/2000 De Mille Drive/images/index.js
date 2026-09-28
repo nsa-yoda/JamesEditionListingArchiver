@@ -48,7 +48,32 @@ window.listingArchiveIndex = {
       "name": "035-caf7633d.svg",
       "href": "035-caf7633d.svg",
       "size": 63710
+    },
+    {
+      "name": "img-54802ff9c0bc.webp",
+      "href": "img-54802ff9c0bc.webp",
+      "size": 594462
+    },
+    {
+      "name": "img-792f90633b2d.webp",
+      "href": "img-792f90633b2d.webp",
+      "size": 4678
+    },
+    {
+      "name": "img-8e5068176e76.webp",
+      "href": "img-8e5068176e76.webp",
+      "size": 427312
+    },
+    {
+      "name": "img-ad55fa99ca45.png",
+      "href": "img-ad55fa99ca45.png",
+      "size": 8627
+    },
+    {
+      "name": "img-f7eb95e5fe3f.png",
+      "href": "img-f7eb95e5fe3f.png",
+      "size": 767001
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:17:55.321519Z"
 };

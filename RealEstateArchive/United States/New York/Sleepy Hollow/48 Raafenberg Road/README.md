@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/sleepy-hollow-ny-usa/single-family-residence-in-sleepy-hollow-16978158
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:37Z
+- Retrieved: 2026-09-28T00:25:24Z
 - Address: 48 Raafenberg Road, Sleepy Hollow, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.099508,-73.834477
 - Coordinates: 41.1, -73.83
@@ -10,7 +10,7 @@
 - Listing reference: H6335041
 - First listed: Jan 22
 - Last updated: March 30
-- Images downloaded: 9
+- Images downloaded: 13
 
 ## Property
 

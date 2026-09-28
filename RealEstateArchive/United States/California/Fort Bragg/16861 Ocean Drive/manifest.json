@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:52.716308Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/sea-breeze-perched-above-the-ocean-18190901",
     "canonical_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/sea-breeze-perched-above-the-ocean-18190901",
@@ -9,13 +9,18 @@
     "listing_reference": "ZQWSZG",
     "first_listed": "Jun 16",
     "last_updated": "June 16",
-    "retrieved_at": "2026-06-19T08:34:29.972323Z"
+    "retrieved_at": "2026-09-28T00:24:52.082821Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3085,
-      "sha256": "ca8c5061435f0c9e3d75800d0dd49a47b4db8f24c27a5b7cae427e6443314588"
+      "sha256": "63bece9a4443e80f0f50d52dacd963552dc8221e556a9e39a6fbfff536dbe255"
+    },
+    {
+      "path": "images/img-0cf561bf6582.webp",
+      "bytes": 6398,
+      "sha256": "7027bff0c9dda77b5303665c6767a96a43ca33125b3d9beb9cbe1627a254669d"
     },
     {
       "path": "images/img-1899f2f783a2.webp",
@@ -26,6 +31,11 @@
       "path": "images/img-1bbdb7f90091.webp",
       "bytes": 115216,
       "sha256": "fc127b15297006ecfb84c1b14d89210a22516397f468bf288f3d56d962021265"
+    },
+    {
+      "path": "images/img-1e5ca6506549.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-1f6b524368bf.webp",
@@ -66,6 +76,11 @@
       "path": "images/img-40de4aea20db.webp",
       "bytes": 145048,
       "sha256": "928a6bc62b21ee0c7c059180eccd961e425eb5650bd795647206fb7d87f78e1b"
+    },
+    {
+      "path": "images/img-49c6328cf69d.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-4fc74c223e82.webp",
@@ -126,6 +141,11 @@
       "path": "images/img-7950851054ab.webp",
       "bytes": 344478,
       "sha256": "71ec9b32ab05f6fadbbd04861812c9ec7a8ef8e622fd0ed55da44894e5b65059"
+    },
+    {
+      "path": "images/img-79c5ca00a1ce.webp",
+      "bytes": 249364,
+      "sha256": "b598426232ce138dd5a9b0238e4ea6bde979a65bc0a1a31d25723057340208be"
     },
     {
       "path": "images/img-7e2af872e178.webp",
@@ -223,6 +243,11 @@
       "sha256": "861d0dc7bd6b0447768e2398b7209825dd4a06903a6ecde8af5d2c806059e76c"
     },
     {
+      "path": "images/img-c5cd868d21b6.webp",
+      "bytes": 253538,
+      "sha256": "85479b722e36a13d6fcd037c4f5c270804c212ba0050fd65c5ec456c0d6a4698"
+    },
+    {
       "path": "images/img-c943ba339946.webp",
       "bytes": 732668,
       "sha256": "01311d5b8255758d775504f8ad82533767c8f7797506b8aaa38a550062a54372"
@@ -288,14 +313,19 @@
       "sha256": "1207b730295af7288962fe36bd10d880fd85d42b135ec20a0bb428342969172f"
     },
     {
+      "path": "images/img-fe52fc7ac0fc.webp",
+      "bytes": 309072,
+      "sha256": "85c5485e2abb4f21e3fd68e365a13e16e9f6c8e6406c04eede4aa70ff3bd76c7"
+    },
+    {
       "path": "images/img-ff1501cffb9b.webp",
       "bytes": 440396,
       "sha256": "709bfc3f62c388a90dee8e18f230ce686049bbcc82887e8694f468c49632e12b"
     },
     {
       "path": "listing.json",
-      "bytes": 40631,
-      "sha256": "65ee4adbc949c1fbce3af2cabe7ec7fe16e9f068ffaa79d208dcc043541d5236"
+      "bytes": 74054,
+      "sha256": "9b600ba1513abe96af4edf626ae83ef10d1fc80d882db5a40125a60cee897658"
     },
     {
       "path": "source.html",
@@ -311,17 +341,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/2200xxs.jpg",
       "path": "images/img-f097505b1d9a.webp",
       "media_type": "image/webp",
       "bytes": 817856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/f84dcc09-150f-4a7d-acf6-53103d48fade/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/f84dcc09-150f-4a7d-acf6-53103d48fade/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/f84dcc09-150f-4a7d-acf6-53103d48fade/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/f84dcc09-150f-4a7d-acf6-53103d48fade/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/f84dcc09-150f-4a7d-acf6-53103d48fade/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/f84dcc09-150f-4a7d-acf6-53103d48fade/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -329,13 +389,25 @@
       "path": "images/img-ebf170f76b44.webp",
       "media_type": "image/webp",
       "bytes": 702924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ab935fbc-cc69-4e06-87ba-b3d0030a0852/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ab935fbc-cc69-4e06-87ba-b3d0030a0852/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ab935fbc-cc69-4e06-87ba-b3d0030a0852/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ab935fbc-cc69-4e06-87ba-b3d0030a0852/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ab935fbc-cc69-4e06-87ba-b3d0030a0852/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ab935fbc-cc69-4e06-87ba-b3d0030a0852/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -343,13 +415,25 @@
       "path": "images/img-9fd4e197583a.webp",
       "media_type": "image/webp",
       "bytes": 937364,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ea80d79e-a06a-4c71-a14f-32c078411bbc/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ea80d79e-a06a-4c71-a14f-32c078411bbc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ea80d79e-a06a-4c71-a14f-32c078411bbc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ea80d79e-a06a-4c71-a14f-32c078411bbc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ea80d79e-a06a-4c71-a14f-32c078411bbc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ea80d79e-a06a-4c71-a14f-32c078411bbc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -357,13 +441,25 @@
       "path": "images/img-95ac72f61aed.webp",
       "media_type": "image/webp",
       "bytes": 1015778,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/1126ebd7-6a1d-461e-97e3-30e09d5044f5/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/1126ebd7-6a1d-461e-97e3-30e09d5044f5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/1126ebd7-6a1d-461e-97e3-30e09d5044f5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/1126ebd7-6a1d-461e-97e3-30e09d5044f5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/1126ebd7-6a1d-461e-97e3-30e09d5044f5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/1126ebd7-6a1d-461e-97e3-30e09d5044f5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -371,31 +467,61 @@
       "path": "images/img-ff1501cffb9b.webp",
       "media_type": "image/webp",
       "bytes": 440396,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0cf561bf6582.webp",
+      "media_type": "image/webp",
+      "bytes": 6398,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1e5ca6506549.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-49c6328cf69d.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/f84dcc09-150f-4a7d-acf6-53103d48fade/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/f84dcc09-150f-4a7d-acf6-53103d48fade/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ab935fbc-cc69-4e06-87ba-b3d0030a0852/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ab935fbc-cc69-4e06-87ba-b3d0030a0852/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ea80d79e-a06a-4c71-a14f-32c078411bbc/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/ea80d79e-a06a-4c71-a14f-32c078411bbc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/1126ebd7-6a1d-461e-97e3-30e09d5044f5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/1126ebd7-6a1d-461e-97e3-30e09d5044f5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -403,7 +529,7 @@
       "path": "images/img-bc7b15258d20.webp",
       "media_type": "image/webp",
       "bytes": 212632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -411,7 +537,7 @@
       "path": "images/img-84993e074eba.webp",
       "media_type": "image/webp",
       "bytes": 221700,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -419,7 +545,7 @@
       "path": "images/img-9d0aaf384283.webp",
       "media_type": "image/webp",
       "bytes": 238072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -427,7 +553,7 @@
       "path": "images/img-24c960d7ae88.webp",
       "media_type": "image/webp",
       "bytes": 218930,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -435,7 +561,7 @@
       "path": "images/img-30a977a75069.webp",
       "media_type": "image/webp",
       "bytes": 269806,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -443,7 +569,7 @@
       "path": "images/img-6852a85efbdd.webp",
       "media_type": "image/webp",
       "bytes": 222590,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -451,7 +577,7 @@
       "path": "images/img-3a4c9d87702c.webp",
       "media_type": "image/webp",
       "bytes": 284364,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -459,7 +585,7 @@
       "path": "images/img-8ffab2f10066.webp",
       "media_type": "image/webp",
       "bytes": 226522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -467,7 +593,7 @@
       "path": "images/img-6cabcbf99187.webp",
       "media_type": "image/webp",
       "bytes": 194682,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -475,7 +601,7 @@
       "path": "images/img-5cfd91532357.webp",
       "media_type": "image/webp",
       "bytes": 222476,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -483,7 +609,7 @@
       "path": "images/img-f32f50c2ac76.webp",
       "media_type": "image/webp",
       "bytes": 186522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -491,7 +617,7 @@
       "path": "images/img-57fca7ffb60e.webp",
       "media_type": "image/webp",
       "bytes": 185024,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -499,7 +625,7 @@
       "path": "images/img-1899f2f783a2.webp",
       "media_type": "image/webp",
       "bytes": 263134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -507,7 +633,7 @@
       "path": "images/img-e6e970a9f734.webp",
       "media_type": "image/webp",
       "bytes": 175790,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -515,7 +641,7 @@
       "path": "images/img-b8de157d0686.webp",
       "media_type": "image/webp",
       "bytes": 194650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -523,7 +649,7 @@
       "path": "images/img-e402e19aa6b6.webp",
       "media_type": "image/webp",
       "bytes": 190344,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -531,7 +657,7 @@
       "path": "images/img-1bbdb7f90091.webp",
       "media_type": "image/webp",
       "bytes": 115216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -539,7 +665,7 @@
       "path": "images/img-e2f4a30e24e3.webp",
       "media_type": "image/webp",
       "bytes": 148362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -547,7 +673,7 @@
       "path": "images/img-901bce92f9b2.webp",
       "media_type": "image/webp",
       "bytes": 162670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -555,7 +681,7 @@
       "path": "images/img-66678efc104f.webp",
       "media_type": "image/webp",
       "bytes": 109040,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -563,7 +689,7 @@
       "path": "images/img-c20c1743b66a.webp",
       "media_type": "image/webp",
       "bytes": 122120,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -571,7 +697,7 @@
       "path": "images/img-8f5f3be27d6a.webp",
       "media_type": "image/webp",
       "bytes": 132314,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -579,7 +705,7 @@
       "path": "images/img-1f6b524368bf.webp",
       "media_type": "image/webp",
       "bytes": 149700,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -587,7 +713,7 @@
       "path": "images/img-4fc74c223e82.webp",
       "media_type": "image/webp",
       "bytes": 122056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -595,7 +721,7 @@
       "path": "images/img-40de4aea20db.webp",
       "media_type": "image/webp",
       "bytes": 145048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -603,7 +729,7 @@
       "path": "images/img-98a19b12cf19.webp",
       "media_type": "image/webp",
       "bytes": 115202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -611,7 +737,7 @@
       "path": "images/img-db1cfa7ffc20.webp",
       "media_type": "image/webp",
       "bytes": 115496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -619,7 +745,7 @@
       "path": "images/img-b96287739f90.webp",
       "media_type": "image/webp",
       "bytes": 136260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -627,7 +753,7 @@
       "path": "images/img-e563f0bbeac3.webp",
       "media_type": "image/webp",
       "bytes": 109788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -635,7 +761,7 @@
       "path": "images/img-883937792175.webp",
       "media_type": "image/webp",
       "bytes": 229456,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -643,7 +769,7 @@
       "path": "images/img-7e2af872e178.webp",
       "media_type": "image/webp",
       "bytes": 115784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -651,7 +777,7 @@
       "path": "images/img-8f549caf9569.webp",
       "media_type": "image/webp",
       "bytes": 811920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -659,7 +785,7 @@
       "path": "images/img-63d74348d0b0.webp",
       "media_type": "image/webp",
       "bytes": 567006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -667,7 +793,7 @@
       "path": "images/img-7950851054ab.webp",
       "media_type": "image/webp",
       "bytes": 344478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -675,7 +801,7 @@
       "path": "images/img-c943ba339946.webp",
       "media_type": "image/webp",
       "bytes": 732668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -683,7 +809,7 @@
       "path": "images/img-772e7f458400.webp",
       "media_type": "image/webp",
       "bytes": 566456,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -691,7 +817,7 @@
       "path": "images/img-9568b9b60c01.webp",
       "media_type": "image/webp",
       "bytes": 669114,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -699,7 +825,7 @@
       "path": "images/img-791dbe63f22c.webp",
       "media_type": "image/webp",
       "bytes": 655152,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -707,7 +833,7 @@
       "path": "images/img-6e2ba1fa0fd6.webp",
       "media_type": "image/webp",
       "bytes": 495444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -715,7 +841,7 @@
       "path": "images/img-2ab53b57c55d.webp",
       "media_type": "image/webp",
       "bytes": 436184,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -723,7 +849,7 @@
       "path": "images/img-e035b687588f.webp",
       "media_type": "image/webp",
       "bytes": 615550,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -731,7 +857,7 @@
       "path": "images/img-a0c01fc7dfea.webp",
       "media_type": "image/webp",
       "bytes": 450802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -739,7 +865,7 @@
       "path": "images/img-a50ea7f597f2.webp",
       "media_type": "image/webp",
       "bytes": 829500,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -747,13 +873,13 @@
       "path": "images/img-cdd0d743617d.webp",
       "media_type": "image/webp",
       "bytes": 750132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/abfacfb5-a81a-4614-b5bd-44a4952ebdcc/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/abfacfb5-a81a-4614-b5bd-44a4952ebdcc/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/abfacfb5-a81a-4614-b5bd-44a4952ebdcc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -761,7 +887,7 @@
       "path": "images/img-df23c7aa2c33.webp",
       "media_type": "image/webp",
       "bytes": 393704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -769,79 +895,85 @@
       "path": "images/img-8817d412f46c.webp",
       "media_type": "image/webp",
       "bytes": 380338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/fbc12072-8dac-4d2f-8151-27ee88604709/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/fbc12072-8dac-4d2f-8151-27ee88604709/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/fbc12072-8dac-4d2f-8151-27ee88604709/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/90ec9098-ddcf-4159-ae62-2e694e0c2b18/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/90ec9098-ddcf-4159-ae62-2e694e0c2b18/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/90ec9098-ddcf-4159-ae62-2e694e0c2b18/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/49ae804d-43a5-4cce-aea7-965dcb3cd062/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/49ae804d-43a5-4cce-aea7-965dcb3cd062/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/49ae804d-43a5-4cce-aea7-965dcb3cd062/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/b3683369-c092-41ba-8135-4dbc25cd5521/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/b3683369-c092-41ba-8135-4dbc25cd5521/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/b3683369-c092-41ba-8135-4dbc25cd5521/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/81d2b82a-f398-4c0a-bfe1-1049daf14c9d/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/81d2b82a-f398-4c0a-bfe1-1049daf14c9d/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/81d2b82a-f398-4c0a-bfe1-1049daf14c9d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/0e828ca7-7dd4-4ca3-b79d-734f902dd542/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/0e828ca7-7dd4-4ca3-b79d-734f902dd542/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/0e828ca7-7dd4-4ca3-b79d-734f902dd542/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/91613e2e-0192-4f5f-a863-3409c64b52ee/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/91613e2e-0192-4f5f-a863-3409c64b52ee/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/91613e2e-0192-4f5f-a863-3409c64b52ee/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/faaf1135-6c4b-4da9-922c-1ec05d30a905/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/faaf1135-6c4b-4da9-922c-1ec05d30a905/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/faaf1135-6c4b-4da9-922c-1ec05d30a905/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/2200xxsxm%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-79c5ca00a1ce.webp",
+      "media_type": "image/webp",
+      "bytes": 249364,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/2200xxsxm%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-fe52fc7ac0fc.webp",
+      "media_type": "image/webp",
+      "bytes": 309072,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/Sea%20Breeze%20Perched%20Above%20The%20Ocean%21%20In%20Fort%20Bragg,%20California,%20United%20States%20For%20Sale%20%2818190901%29_files/2200xxsxm%2810%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c5cd868d21b6.webp",
+      "media_type": "image/webp",
+      "bytes": 253538,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/1040x620xc.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60363-\u003e[2600:9000:24f1:8200:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/16/14/09/43/e432a748-0b99-4925-8852-73c363f4422d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -849,7 +981,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -857,7 +989,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -865,7 +997,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -873,13 +1005,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 55,
-    "images_existing": 0,
-    "images_failed": 21,
+    "images_new": 6,
+    "images_existing": 55,
+    "images_failed": 30,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:57.53428Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/exquisite-port-angeles-estate-14251123",
     "canonical_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/exquisite-port-angeles-estate-14251123",
@@ -9,13 +9,13 @@
     "listing_reference": "TFHFEN",
     "first_listed": "May 16, 2024",
     "last_updated": "March 28",
-    "retrieved_at": "2026-08-28T00:28:31.431003Z"
+    "retrieved_at": "2026-09-28T00:20:57.129605Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 1957,
-      "sha256": "143ce84ebc237145469dc929f03c09c76c90573e5da24969d9beefd41ef47fcd"
+      "sha256": "364ef41cf5dbcbb8dc1971c886c874e10f06bf1c3c8d97300cdc2e5eaa56da1c"
     },
     {
       "path": "images/img-00daa17b886e.webp",
@@ -43,6 +43,11 @@
       "sha256": "8fec6541d41d5467d0fbe962775e6b6983c1e839e9e8ef5366a664231f54fc01"
     },
     {
+      "path": "images/img-196e98ee6f50.webp",
+      "bytes": 236078,
+      "sha256": "0365eb1936dc298a5b829cca1b5d5d59aeb0efcd6d8778d9019b3016e67f453e"
+    },
+    {
       "path": "images/img-318d53fb0e3d.webp",
       "bytes": 177302,
       "sha256": "cd6b7b86b94d97d1a33a63b83614aeed6126b66265708426c07513304bf7f70f"
@@ -63,6 +68,11 @@
       "sha256": "b982488636f7ce47dbf2f070bfe802c4849a70c4d2af5d2013bc4b2587941d2a"
     },
     {
+      "path": "images/img-4f22edfc3a7c.webp",
+      "bytes": 299786,
+      "sha256": "ea33f1a58713fd5d239def4057e98ce4cc332c43b3f173cf1a8571f55e02546c"
+    },
+    {
       "path": "images/img-4f948948314c.webp",
       "bytes": 770700,
       "sha256": "e7b98ac487e1adecdeb76ebafe4df5209481a1fde604e5974a21ebe2fed1dded"
@@ -71,6 +81,11 @@
       "path": "images/img-57242b8ef18d.webp",
       "bytes": 1004,
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
+    },
+    {
+      "path": "images/img-5902baf10e79.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-5aa8d4ed3418.webp",
@@ -183,9 +198,19 @@
       "sha256": "dfb7493354fc3c70a09d04e5c43a4bab6c2da707acfd0bbcf45a1aed855c5173"
     },
     {
+      "path": "images/img-dbce26ca0c12.webp",
+      "bytes": 5314,
+      "sha256": "c74599472ef0d7aca19f698fa4643da4f2e138ec7c335e56fa472d0c4415b9f0"
+    },
+    {
       "path": "images/img-e3a9ba9aa197.webp",
       "bytes": 667922,
       "sha256": "04deb1097fb889a8a0deb083d4d5a6db94da8a2d051e892d59ce5567f9af958c"
+    },
+    {
+      "path": "images/img-e5da36f4e6da.webp",
+      "bytes": 393460,
+      "sha256": "c6a729ee695fb38c383fe077b85ce8e50000ddd57d583673ecb11eb12eea4762"
     },
     {
       "path": "images/img-e62cc42c5ceb.webp",
@@ -213,6 +238,11 @@
       "sha256": "10d8eccec6ba2c8ee6ad422289e1c917aa9eaf43a4fa4df28aa6fddec6cca7b8"
     },
     {
+      "path": "images/img-f396d40422f6.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-f63eda61bf77.webp",
       "bytes": 216922,
       "sha256": "dbaf536277a52136f7b7e9abf51ad63909914cd2cc0b88798c87189f87a98cda"
@@ -224,8 +254,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 27059,
-      "sha256": "4a09f5a1a28ef8e86f4c3e629586f8c876da8f1a578e42f97f8ef09b72444e27"
+      "bytes": 56898,
+      "sha256": "c35b700b140d0351597565bac50e74ba70fe6b8069f15c0e3baea6b99380dc73"
     },
     {
       "path": "source.html",
@@ -241,17 +271,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/2200xxs.jpg",
       "path": "images/img-6b5ee5a7d33f.webp",
       "media_type": "image/webp",
       "bytes": 819132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -259,13 +319,25 @@
       "path": "images/img-e3a9ba9aa197.webp",
       "media_type": "image/webp",
       "bytes": 667922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -273,13 +345,25 @@
       "path": "images/img-5bcba961b56b.webp",
       "media_type": "image/webp",
       "bytes": 804608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -287,13 +371,25 @@
       "path": "images/img-f63eda61bf77.webp",
       "media_type": "image/webp",
       "bytes": 216922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -301,31 +397,61 @@
       "path": "images/img-0e48b5b3aaf7.webp",
       "media_type": "image/webp",
       "bytes": 166444,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-dbce26ca0c12.webp",
+      "media_type": "image/webp",
+      "bytes": 5314,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f396d40422f6.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-5902baf10e79.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b80ffb2a-f744-4f4a-aa67-fe60e9028b03/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/6396969b-3716-4d96-8d03-6193cebdef3d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/67e25917-d0fc-4d96-97fc-b711d9465603/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/b26c8626-6731-4a9e-920c-f6bed7ddfffc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -333,7 +459,7 @@
       "path": "images/img-e62cc42c5ceb.webp",
       "media_type": "image/webp",
       "bytes": 149716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -341,7 +467,7 @@
       "path": "images/img-bfba16ec737d.webp",
       "media_type": "image/webp",
       "bytes": 259464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -349,7 +475,7 @@
       "path": "images/img-e7a5235f1374.webp",
       "media_type": "image/webp",
       "bytes": 207090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -357,7 +483,7 @@
       "path": "images/img-7e2bd9155238.webp",
       "media_type": "image/webp",
       "bytes": 211198,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -365,7 +491,7 @@
       "path": "images/img-318d53fb0e3d.webp",
       "media_type": "image/webp",
       "bytes": 177302,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -373,7 +499,7 @@
       "path": "images/img-0914273d2d36.webp",
       "media_type": "image/webp",
       "bytes": 288652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -381,7 +507,7 @@
       "path": "images/img-8894f772557f.webp",
       "media_type": "image/webp",
       "bytes": 677116,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -389,7 +515,7 @@
       "path": "images/img-397d678d68de.webp",
       "media_type": "image/webp",
       "bytes": 707484,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -397,7 +523,7 @@
       "path": "images/img-3eba4c1bbb06.webp",
       "media_type": "image/webp",
       "bytes": 162002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -405,7 +531,7 @@
       "path": "images/img-7ba4c76bf2e1.webp",
       "media_type": "image/webp",
       "bytes": 188520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -413,7 +539,7 @@
       "path": "images/img-7f9265d4c955.webp",
       "media_type": "image/webp",
       "bytes": 831624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -421,7 +547,7 @@
       "path": "images/img-c0fe5daa09f0.webp",
       "media_type": "image/webp",
       "bytes": 620330,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -429,7 +555,7 @@
       "path": "images/img-f00104006641.webp",
       "media_type": "image/webp",
       "bytes": 905494,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -437,7 +563,7 @@
       "path": "images/img-012c337be4d9.webp",
       "media_type": "image/webp",
       "bytes": 529096,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -445,7 +571,7 @@
       "path": "images/img-fb06a6e87f3b.webp",
       "media_type": "image/webp",
       "bytes": 223632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -453,7 +579,7 @@
       "path": "images/img-d803c7eac77a.webp",
       "media_type": "image/webp",
       "bytes": 340270,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -461,7 +587,7 @@
       "path": "images/img-c0dd3cfb2300.webp",
       "media_type": "image/webp",
       "bytes": 258250,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -469,7 +595,7 @@
       "path": "images/img-a69b546621ac.webp",
       "media_type": "image/webp",
       "bytes": 201854,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -477,7 +603,7 @@
       "path": "images/img-f36148c04a9f.webp",
       "media_type": "image/webp",
       "bytes": 174494,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -485,7 +611,7 @@
       "path": "images/img-c664cbc86f87.webp",
       "media_type": "image/webp",
       "bytes": 297922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -493,7 +619,7 @@
       "path": "images/img-96468c1e2109.webp",
       "media_type": "image/webp",
       "bytes": 204626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -501,7 +627,7 @@
       "path": "images/img-5aa8d4ed3418.webp",
       "media_type": "image/webp",
       "bytes": 199588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -509,7 +635,7 @@
       "path": "images/img-b52cab5d7a13.webp",
       "media_type": "image/webp",
       "bytes": 132282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -517,7 +643,7 @@
       "path": "images/img-f234457a58bf.webp",
       "media_type": "image/webp",
       "bytes": 334130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -525,7 +651,7 @@
       "path": "images/img-43df5c4f9b15.webp",
       "media_type": "image/webp",
       "bytes": 264244,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -533,7 +659,7 @@
       "path": "images/img-a0df2f3743ca.webp",
       "media_type": "image/webp",
       "bytes": 204322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -541,7 +667,7 @@
       "path": "images/img-00daa17b886e.webp",
       "media_type": "image/webp",
       "bytes": 376584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -549,7 +675,7 @@
       "path": "images/img-5eda3c0dc454.webp",
       "media_type": "image/webp",
       "bytes": 448520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -557,7 +683,7 @@
       "path": "images/img-4f948948314c.webp",
       "media_type": "image/webp",
       "bytes": 770700,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -565,7 +691,7 @@
       "path": "images/img-0b9be48b7edc.webp",
       "media_type": "image/webp",
       "bytes": 1017428,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -573,7 +699,7 @@
       "path": "images/img-8bb3935005c3.webp",
       "media_type": "image/webp",
       "bytes": 542282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -581,7 +707,7 @@
       "path": "images/img-c812d3982d9b.webp",
       "media_type": "image/webp",
       "bytes": 705140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -589,7 +715,7 @@
       "path": "images/img-6b0bc99d9b41.webp",
       "media_type": "image/webp",
       "bytes": 835338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -597,7 +723,7 @@
       "path": "images/img-8d380973c889.webp",
       "media_type": "image/webp",
       "bytes": 416936,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -605,25 +731,37 @@
       "path": "images/img-c15b65c76da2.webp",
       "media_type": "image/webp",
       "bytes": 835232,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/2200xxsxm%2821%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-4f22edfc3a7c.webp",
+      "media_type": "image/webp",
+      "bytes": 299786,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/2200xxsxm%2822%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-196e98ee6f50.webp",
+      "media_type": "image/webp",
+      "bytes": 236078,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/port-angeles-wa-usa/Exquisite%20Port%20Angeles%20Estate%20In%20Port%20Angeles,%20Washington,%20United%20States%20For%20Sale%20%2814251123%29_files/2200xxsxm%2820%29.jpg",
+      "path": "images/img-e5da36f4e6da.webp",
+      "media_type": "image/webp",
+      "bytes": 393460,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/27/19/17/02/23d781b0-7340-40fb-a4a0-c89e6ff5996e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -631,31 +769,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 41,
-    "images_existing": 0,
-    "images_failed": 14,
+    "images_new": 6,
+    "images_existing": 41,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

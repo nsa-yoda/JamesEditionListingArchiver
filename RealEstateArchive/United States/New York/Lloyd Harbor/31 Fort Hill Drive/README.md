@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/lloyd-neck-ny-usa/single-family-residence-in-lloyd-neck-17620500
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:15Z
+- Retrieved: 2026-09-28T00:25:15Z
 - Address: 31 Fort Hill Drive, Lloyd Harbor, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.918137,-73.488963
 - Coordinates: 40.92, -73.49
@@ -10,7 +10,7 @@
 - Listing reference: 980600
 - First listed: Apr 9
 - Last updated: May 28
-- Images downloaded: 50
+- Images downloaded: 56
 - Videos downloaded: 0
 
 ## Property

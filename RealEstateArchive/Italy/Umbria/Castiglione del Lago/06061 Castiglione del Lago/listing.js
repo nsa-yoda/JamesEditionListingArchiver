@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "PGAR1M460",
     "first_listed": "May 14",
     "last_updated": "May 14",
-    "retrieved_at": "2026-06-16T03:43:22.82228Z"
+    "retrieved_at": "2026-09-28T00:20:17.664489Z"
   },
   "location": {
     "address": "06061 Castiglione del Lago, Province of Perugia, Umbria, Italy",
@@ -72,6 +72,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/2200xxs.jpg",
       "file": "004-edd97b08.webp",
       "media_type": "image/webp",
@@ -80,7 +95,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/2200xxs.jpg",
@@ -91,7 +122,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/2200xxs.jpg",
@@ -102,7 +149,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/2200xxs.jpg",
@@ -113,7 +176,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/2200xxs.jpg",
@@ -124,15 +203,27 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-c393d3528d2b.webp",
+      "media_type": "image/webp",
+      "bytes": 5154,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-953d1da4972f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -325,6 +416,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/160x120xc.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/57/623a6a21-b1e6-4de5-8bd1-30d57ec61bde/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/12819a26-3c72-4ef4-867d-a79dfc7afd3e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/51/58/4bbcbe50-d112-49cb-9f78-02e7e5783712/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/771a04eb-fcb2-4292-9862-8e1e376c1bee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/castiglione-del-lago-italy/Charming%20Farmhouse%20With%20Pool%20And%20Land%20In%20In%20Castiglione%20Del%20Lago,%20Umbria,%20Italy%20For%20Sale%20%2817913288%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/14/07/52/00/4acf6228-1d2f-4d49-a90c-ea1bdc8f18a2/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

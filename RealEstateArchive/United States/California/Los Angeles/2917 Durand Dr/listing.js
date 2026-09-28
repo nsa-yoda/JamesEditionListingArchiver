@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "215586439.0",
     "first_listed": "May 23",
     "last_updated": "Yesterday",
-    "retrieved_at": "2026-06-16T03:43:16.804375Z"
+    "retrieved_at": "2026-09-28T00:18:04.09494Z"
   },
   "location": {
     "address": "2917 Durand Dr, CA, Los Angeles, California, United States",
@@ -85,6 +85,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/2200xxs.jpg",
       "file": "004-6c12089b.webp",
       "media_type": "image/webp",
@@ -93,7 +108,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/2200xxs.jpg",
@@ -104,7 +135,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/2200xxs.jpg",
@@ -115,7 +162,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/2200xxs.jpg",
@@ -126,7 +189,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/2200xxs.jpg",
@@ -137,79 +216,132 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-be91ed052e8d.webp",
+      "media_type": "image/webp",
+      "bytes": 4414,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-fda86e975779.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9cda68761988.webp",
+      "media_type": "image/webp",
+      "bytes": 5424,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-2341e20baf2d.webp",
+      "media_type": "image/webp",
+      "bytes": 2994,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-bbe44ea1a2ff.webp",
+      "media_type": "image/webp",
+      "bytes": 3954,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-5e92e0d07d1b.webp",
+      "media_type": "image/webp",
+      "bytes": 3494,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9f0842eebb58.webp",
+      "media_type": "image/webp",
+      "bytes": 3734,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%286%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-328f9cb2f1b1.webp",
+      "media_type": "image/webp",
+      "bytes": 3582,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%287%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-8350a84567cd.webp",
+      "media_type": "image/webp",
+      "bytes": 5002,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%288%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a62d7c6490fe.webp",
+      "media_type": "image/webp",
+      "bytes": 4534,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/160x120xc%289%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-d4f6494603c1.webp",
+      "media_type": "image/webp",
+      "bytes": 5182,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-b6dff65b9d2a.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-52fc2f2ebd70.webp",
+      "media_type": "image/webp",
+      "bytes": 407302,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-6e6ea48194a0.webp",
+      "media_type": "image/webp",
+      "bytes": 430896,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-b4f90d3450a2.webp",
+      "media_type": "image/webp",
+      "bytes": 157080,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-f8c7eb6629c6.webp",
+      "media_type": "image/webp",
+      "bytes": 226612,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a17c6335337a.webp",
+      "media_type": "image/webp",
+      "bytes": 332230,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -410,6 +542,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/94880546-3e07-4123-9669-54571a3fddcd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/24258baa-7cb9-4c49-a496-08b34f1fa1e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/91a5cd13-94c7-485f-ac56-df1c28070947/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/ebab91c8-97e2-42a1-8016-3a151405e4e3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2917%20Durand%20Dr%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817993520%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/05/22/14/42/56/a69f57df-c27d-46b2-af06-5c8a82c0d936/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

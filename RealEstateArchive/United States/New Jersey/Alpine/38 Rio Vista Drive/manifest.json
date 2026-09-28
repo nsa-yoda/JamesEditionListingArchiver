@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:26.28548Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38-rio-vista-drive-alpine-nj-07620-17475642",
     "canonical_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38-rio-vista-drive-alpine-nj-07620-17475642",
@@ -9,13 +9,13 @@
     "listing_reference": "7CFTP4",
     "first_listed": "Mar 25",
     "last_updated": "March 25",
-    "retrieved_at": "2026-06-18T07:06:34.824195Z"
+    "retrieved_at": "2026-09-28T00:18:25.741408Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2708,
-      "sha256": "95adfeee92b6a432ebdec04762b5706df702f5360bb700b4a06dc09ea1a9ebf0"
+      "sha256": "5e3f426163811918a176b14abe916f966169f7fe97e4662e7bb427b11b76b372"
     },
     {
       "path": "images/004-eb7fe3eb.webp",
@@ -203,9 +203,39 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-0d5c771d5a5c.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-29e3f6f6260d.webp",
+      "bytes": 595058,
+      "sha256": "0f64102b11e94873909e5b54a4de167d09a891a2cdcb81da718724d2c9a2e2b0"
+    },
+    {
+      "path": "images/img-3acabb683cd2.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-4198da0cb0d8.webp",
+      "bytes": 376658,
+      "sha256": "12df8b6fceb10197a83d096390f0784d7e8c6ae3575d7c1efbf098ddd4341e1e"
+    },
+    {
+      "path": "images/img-69635228ffc6.webp",
+      "bytes": 5976,
+      "sha256": "e6a8da8e0fd0eed6a37bbd5c04f7e23abba39e4e05781957e6ab78ef9ce9a1be"
+    },
+    {
+      "path": "images/img-fd41dbd84dda.webp",
+      "bytes": 415002,
+      "sha256": "48b878083ed1059e5ab3b760ee5423662b4ceae41af7a6f62d66211a9294dda5"
+    },
+    {
       "path": "listing.json",
-      "bytes": 27405,
-      "sha256": "ea9c599059e5b0d0d64474d22d06694e066950b4286c50cb7b062ab4d0c522bc"
+      "bytes": 54388,
+      "sha256": "424c558380368c2b4ddb6908291a92eb5350a0d9cfd217c635318fa1224dfed9"
     },
     {
       "path": "source.html",
@@ -221,6 +251,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/2200xxs.jpg",
       "path": "images/004-eb7fe3eb.webp",
       "media_type": "image/webp",
@@ -229,8 +277,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -242,8 +303,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -255,8 +329,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -268,8 +355,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -281,28 +381,57 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-69635228ffc6.webp",
+      "media_type": "image/webp",
+      "bytes": 5976,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3acabb683cd2.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0d5c771d5a5c.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/aad59cd3-551a-447e-8ad1-465d2be37055/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/2000xxs.jpg",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/75466178-09a7-4ab7-b992-a0d2448f96c0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/a3717102-2951-4e77-8de2-be28068874f1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/bb035210-7bfb-47c6-a8aa-64619c88d4f4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -531,22 +660,38 @@
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/7036050a-4e54-4cb0-bce4-01efbd32eb69/je/2000xxs.jpg",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/7036050a-4e54-4cb0-bce4-01efbd32eb69/je/2000xxs.jpg\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/7036050a-4e54-4cb0-bce4-01efbd32eb69/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2827%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4198da0cb0d8.webp",
+      "media_type": "image/webp",
+      "bytes": 376658,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2826%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-fd41dbd84dda.webp",
+      "media_type": "image/webp",
+      "bytes": 415002,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/alpine-nj-usa/38%20Rio%20Vista%20Drive,%20Alpine,%20Nj%2007620%20In%20Alpine,%20New%20Jersey,%20United%20States%20For%20Sale%20%2817475642%29_files/2200xxsxm%2825%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-29e3f6f6260d.webp",
+      "media_type": "image/webp",
+      "bytes": 595058,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/25/06/20/08/d281a1b8-9d8f-45f7-ab6b-214d6300dc7c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -582,9 +727,9 @@
     }
   ],
   "summary": {
-    "images_new": 13,
+    "images_new": 6,
     "images_existing": 37,
-    "images_failed": 0,
+    "images_failed": 22,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

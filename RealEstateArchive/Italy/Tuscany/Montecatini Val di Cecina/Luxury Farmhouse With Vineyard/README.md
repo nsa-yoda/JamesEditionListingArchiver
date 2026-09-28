@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/montecatini-val-di-cecina-italy/luxury-farmhouse-with-vineyard-montecatini-val-di-cecina-pisa-tuscany-18148317
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:17Z
+- Retrieved: 2026-09-28T00:22:25Z
 - Address: Via XX Settembre, 8, Montecatini Val di Cecina, Tuscany, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=43.39225,10.7506
 - Coordinates: 43.39, 10.75
@@ -10,7 +10,7 @@
 - Listing reference: PIS3704
 - First listed: Jun 12
 - Last updated: June 12
-- Images downloaded: 36
+- Images downloaded: 39
 
 ## Property
 

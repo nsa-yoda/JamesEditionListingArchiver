@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/united-kingdom/harbour-island-crinan-lochgilphead-argyll-and-bute-17897454
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:39Z
+- Retrieved: 2026-09-28T00:21:45Z
 - Address: Harbour Island, Crinan, Lochgilphead, Argyll and Bute, Scotland
 - Map: https://www.google.com/maps/search/?api=1&query=56.090824,-5.567378
 - Coordinates: 56.09, -5.57
@@ -10,7 +10,7 @@
 - Listing reference: GLS250102
 - First listed: May 12
 - Last updated: May 15
-- Images downloaded: 41
+- Images downloaded: 43
 
 ## Property
 

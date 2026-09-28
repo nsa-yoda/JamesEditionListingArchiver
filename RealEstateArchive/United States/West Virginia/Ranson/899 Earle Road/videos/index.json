@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "path": "United States/West Virginia/Ranson/899 Earle Road/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-c6509e0cf66f.webp",
+      "href": "img-c6509e0cf66f.webp",
+      "size": 144002
+    },
+    {
+      "name": "vid-b6f5b0660ebd.mp4",
+      "href": "vid-b6f5b0660ebd.mp4",
+      "size": 11270267
+    }
+  ],
+  "last_updated": "2026-09-28T00:24:58.570265Z"
+}

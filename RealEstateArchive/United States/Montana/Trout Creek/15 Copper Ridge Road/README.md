@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/trout-creek-mt-usa/single-family-detached-trout-creek-17297699
 - Site: jamesedition
-- Retrieved: 2026-09-26T18:46:51Z
+- Retrieved: 2026-09-28T00:25:00Z
 - Address: 15 Copper Ridge Road, Trout Creek, MT 59874, Montana, United States
 - Map: https://www.google.com/maps/search/?api=1&query=47.91139411,-115.6867378
 - Coordinates: 47.91, -115.69
@@ -10,7 +10,7 @@
 - Listing reference: 2087969760885224
 - First listed: Feb 26
 - Last updated: August 31
-- Images downloaded: 104
+- Images downloaded: 109
 
 ## Property
 

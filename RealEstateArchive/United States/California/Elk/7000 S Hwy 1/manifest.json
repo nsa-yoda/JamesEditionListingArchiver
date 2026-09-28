@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:51.680552Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/elk-ca-usa/sea-arches-7000-s-hwy-1-17430022",
     "canonical_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/sea-arches-7000-s-hwy-1-17430022",
@@ -9,13 +9,13 @@
     "listing_reference": "sea-arches-7000-s-hwy-1",
     "first_listed": "Mar 17",
     "last_updated": "May 8",
-    "retrieved_at": "2026-06-19T08:34:26.065223Z"
+    "retrieved_at": "2026-09-28T00:24:51.199563Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2707,
-      "sha256": "6183ec5dcdc1b5ba14b977f8daa6bce750eddac7b1e65131dcbfbbd2253c5cf3"
+      "sha256": "c6cdf9349476d17c8d6d2f9a54e0acf468de81722972b1d98b6b3aaeba889d03"
     },
     {
       "path": "images/img-01a9d0a8cf8c.webp",
@@ -31,6 +31,11 @@
       "path": "images/img-0e4d38b1388f.webp",
       "bytes": 176216,
       "sha256": "772400dbde811e27d9c23acac46229b60489205e6722034d2fc35430bb18e68c"
+    },
+    {
+      "path": "images/img-12c0c132c400.webp",
+      "bytes": 3970,
+      "sha256": "3a7d25c919689ae3f7d7df32471db43e6e352426db3f503ba7057ede82b7c120"
     },
     {
       "path": "images/img-16b16da3845f.webp",
@@ -126,6 +131,11 @@
       "path": "images/img-5e33e3e6b620.webp",
       "bytes": 179876,
       "sha256": "93d7398d1e9ea28c887dde759349dbdf6d22b6018462db4c4b546b9522520acf"
+    },
+    {
+      "path": "images/img-600e197f5bed.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-640505fd445e.webp",
@@ -263,6 +273,11 @@
       "sha256": "6428aa2d18d00c2fc26025fa8061bfcb1e066c47672808a1df9e2eacfaeef83c"
     },
     {
+      "path": "images/img-b7d3ef4336e6.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-b829acdf03d9.webp",
       "bytes": 154646,
       "sha256": "f7eba15bf0bfd5c72997859f37fdbdb3ef630a2f50eb92a4ea31c1aa0f98fdea"
@@ -329,8 +344,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 32467,
-      "sha256": "580f5e6760fd27d004f21be09614b2ffeabecd5046003f3b94c1a07ce2734d2d"
+      "bytes": 67186,
+      "sha256": "60d16b752c2298332b9dcd14d8e98c872591aac4d4a83afdde18e9b73b84fee6"
     },
     {
       "path": "source.html",
@@ -346,17 +361,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/2200xxs.jpg",
       "path": "images/img-5e33e3e6b620.webp",
       "media_type": "image/webp",
       "bytes": 179876,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/41f3713f-d298-4c25-b043-8b60f3d61120/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/41f3713f-d298-4c25-b043-8b60f3d61120/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/41f3713f-d298-4c25-b043-8b60f3d61120/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/41f3713f-d298-4c25-b043-8b60f3d61120/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/41f3713f-d298-4c25-b043-8b60f3d61120/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/41f3713f-d298-4c25-b043-8b60f3d61120/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -364,13 +415,31 @@
       "path": "images/img-e19f00f724e9.webp",
       "media_type": "image/webp",
       "bytes": 169556,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/886262e0-19b0-4f41-a45a-a676d7e9bdf7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/886262e0-19b0-4f41-a45a-a676d7e9bdf7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/886262e0-19b0-4f41-a45a-a676d7e9bdf7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/886262e0-19b0-4f41-a45a-a676d7e9bdf7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/886262e0-19b0-4f41-a45a-a676d7e9bdf7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/886262e0-19b0-4f41-a45a-a676d7e9bdf7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -378,13 +447,31 @@
       "path": "images/img-32d5cf6e5089.webp",
       "media_type": "image/webp",
       "bytes": 155372,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/53cc2049-74aa-432b-9aed-a27582c92b50/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/53cc2049-74aa-432b-9aed-a27582c92b50/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/53cc2049-74aa-432b-9aed-a27582c92b50/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/53cc2049-74aa-432b-9aed-a27582c92b50/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/53cc2049-74aa-432b-9aed-a27582c92b50/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/53cc2049-74aa-432b-9aed-a27582c92b50/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -392,13 +479,31 @@
       "path": "images/img-4442f9a20052.webp",
       "media_type": "image/webp",
       "bytes": 201444,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/2ef96c90-40ae-42df-a8be-ab14e91c38a5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/2ef96c90-40ae-42df-a8be-ab14e91c38a5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/2ef96c90-40ae-42df-a8be-ab14e91c38a5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/2ef96c90-40ae-42df-a8be-ab14e91c38a5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/2ef96c90-40ae-42df-a8be-ab14e91c38a5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/2ef96c90-40ae-42df-a8be-ab14e91c38a5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -406,31 +511,67 @@
       "path": "images/img-a51d68bd851e.webp",
       "media_type": "image/webp",
       "bytes": 154184,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-12c0c132c400.webp",
+      "media_type": "image/webp",
+      "bytes": 3970,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-600e197f5bed.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-b7d3ef4336e6.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/41f3713f-d298-4c25-b043-8b60f3d61120/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/41f3713f-d298-4c25-b043-8b60f3d61120/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/886262e0-19b0-4f41-a45a-a676d7e9bdf7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/886262e0-19b0-4f41-a45a-a676d7e9bdf7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/53cc2049-74aa-432b-9aed-a27582c92b50/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/53cc2049-74aa-432b-9aed-a27582c92b50/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/2ef96c90-40ae-42df-a8be-ab14e91c38a5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/2ef96c90-40ae-42df-a8be-ab14e91c38a5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -438,7 +579,7 @@
       "path": "images/img-21b9f6f34b81.webp",
       "media_type": "image/webp",
       "bytes": 158144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -446,7 +587,7 @@
       "path": "images/img-b613ac454b59.webp",
       "media_type": "image/webp",
       "bytes": 355506,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -454,7 +595,7 @@
       "path": "images/img-827071493ae1.webp",
       "media_type": "image/webp",
       "bytes": 194468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -462,7 +603,7 @@
       "path": "images/img-824e081776a7.webp",
       "media_type": "image/webp",
       "bytes": 236348,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -470,7 +611,7 @@
       "path": "images/img-060b2d122290.webp",
       "media_type": "image/webp",
       "bytes": 186064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -478,7 +619,7 @@
       "path": "images/img-7201e99a357b.webp",
       "media_type": "image/webp",
       "bytes": 184874,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -486,7 +627,7 @@
       "path": "images/img-decf75789615.webp",
       "media_type": "image/webp",
       "bytes": 254848,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -494,7 +635,7 @@
       "path": "images/img-6973c82a7eb8.webp",
       "media_type": "image/webp",
       "bytes": 142090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -502,7 +643,7 @@
       "path": "images/img-9ab13060ba2d.webp",
       "media_type": "image/webp",
       "bytes": 154882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -510,7 +651,7 @@
       "path": "images/img-16b16da3845f.webp",
       "media_type": "image/webp",
       "bytes": 120600,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -518,7 +659,7 @@
       "path": "images/img-5166567b2e12.webp",
       "media_type": "image/webp",
       "bytes": 148550,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -526,7 +667,7 @@
       "path": "images/img-c499131242c4.webp",
       "media_type": "image/webp",
       "bytes": 170878,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -534,7 +675,7 @@
       "path": "images/img-6af888c6e90a.webp",
       "media_type": "image/webp",
       "bytes": 192956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -542,7 +683,7 @@
       "path": "images/img-887602025b49.webp",
       "media_type": "image/webp",
       "bytes": 163044,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -550,7 +691,7 @@
       "path": "images/img-ecb2e9daf526.webp",
       "media_type": "image/webp",
       "bytes": 171548,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -558,7 +699,7 @@
       "path": "images/img-9d45be8375e6.webp",
       "media_type": "image/webp",
       "bytes": 180294,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -566,7 +707,7 @@
       "path": "images/img-9807ce250ae0.webp",
       "media_type": "image/webp",
       "bytes": 177252,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -574,7 +715,7 @@
       "path": "images/img-bc8b4b700e50.webp",
       "media_type": "image/webp",
       "bytes": 194710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -582,7 +723,7 @@
       "path": "images/img-d36698eff4e1.webp",
       "media_type": "image/webp",
       "bytes": 92464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -590,7 +731,7 @@
       "path": "images/img-7d1aa8f0eae6.webp",
       "media_type": "image/webp",
       "bytes": 88908,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -598,7 +739,7 @@
       "path": "images/img-30add8a3456c.webp",
       "media_type": "image/webp",
       "bytes": 127706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -606,7 +747,7 @@
       "path": "images/img-2260a0334dd3.webp",
       "media_type": "image/webp",
       "bytes": 142582,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -614,7 +755,7 @@
       "path": "images/img-640505fd445e.webp",
       "media_type": "image/webp",
       "bytes": 178078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -622,7 +763,7 @@
       "path": "images/img-2eb856c67428.webp",
       "media_type": "image/webp",
       "bytes": 153096,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -630,7 +771,7 @@
       "path": "images/img-0e4d38b1388f.webp",
       "media_type": "image/webp",
       "bytes": 176216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -638,7 +779,7 @@
       "path": "images/img-270d0cefb660.webp",
       "media_type": "image/webp",
       "bytes": 101882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -646,7 +787,7 @@
       "path": "images/img-8714049c8c65.webp",
       "media_type": "image/webp",
       "bytes": 175636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -654,7 +795,7 @@
       "path": "images/img-b829acdf03d9.webp",
       "media_type": "image/webp",
       "bytes": 154646,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -662,7 +803,7 @@
       "path": "images/img-649eb10f8cab.webp",
       "media_type": "image/webp",
       "bytes": 132516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -670,7 +811,7 @@
       "path": "images/img-b51b4081d9f6.webp",
       "media_type": "image/webp",
       "bytes": 129882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -678,7 +819,7 @@
       "path": "images/img-f18c07653675.webp",
       "media_type": "image/webp",
       "bytes": 99074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -686,7 +827,7 @@
       "path": "images/img-7a59659a3480.webp",
       "media_type": "image/webp",
       "bytes": 120932,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -694,7 +835,7 @@
       "path": "images/img-186a1ae6aa34.webp",
       "media_type": "image/webp",
       "bytes": 139370,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -702,7 +843,7 @@
       "path": "images/img-d03510634f42.webp",
       "media_type": "image/webp",
       "bytes": 112278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -710,7 +851,7 @@
       "path": "images/img-a03045965a3e.webp",
       "media_type": "image/webp",
       "bytes": 89600,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -718,7 +859,7 @@
       "path": "images/img-d60b110800a3.webp",
       "media_type": "image/webp",
       "bytes": 123490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -726,7 +867,7 @@
       "path": "images/img-69fe5a5ddb32.webp",
       "media_type": "image/webp",
       "bytes": 168614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -734,7 +875,7 @@
       "path": "images/img-480f4681a314.webp",
       "media_type": "image/webp",
       "bytes": 226028,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -742,7 +883,7 @@
       "path": "images/img-96e348cb0635.webp",
       "media_type": "image/webp",
       "bytes": 169944,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -750,7 +891,7 @@
       "path": "images/img-242c1ef2d97b.webp",
       "media_type": "image/webp",
       "bytes": 179140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -758,7 +899,7 @@
       "path": "images/img-01a9d0a8cf8c.webp",
       "media_type": "image/webp",
       "bytes": 139532,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -766,7 +907,7 @@
       "path": "images/img-487f5661b91d.webp",
       "media_type": "image/webp",
       "bytes": 134636,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -774,7 +915,7 @@
       "path": "images/img-dc8e8e8fe8f4.webp",
       "media_type": "image/webp",
       "bytes": 195384,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -782,7 +923,7 @@
       "path": "images/img-b418273b9e9d.webp",
       "media_type": "image/webp",
       "bytes": 181862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -790,7 +931,7 @@
       "path": "images/img-959708476a36.webp",
       "media_type": "image/webp",
       "bytes": 191502,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -798,7 +939,7 @@
       "path": "images/img-17cc1ebdacfe.webp",
       "media_type": "image/webp",
       "bytes": 148132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -806,7 +947,7 @@
       "path": "images/img-d7ed016bf983.webp",
       "media_type": "image/webp",
       "bytes": 211724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -814,7 +955,7 @@
       "path": "images/img-4e19c10d1da7.webp",
       "media_type": "image/webp",
       "bytes": 184464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -822,7 +963,7 @@
       "path": "images/img-68dbb9da2515.webp",
       "media_type": "image/webp",
       "bytes": 160048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -830,7 +971,7 @@
       "path": "images/img-80fa22ec235b.webp",
       "media_type": "image/webp",
       "bytes": 211598,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -838,7 +979,7 @@
       "path": "images/img-8702d4adeafa.webp",
       "media_type": "image/webp",
       "bytes": 172446,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -846,25 +987,13 @@
       "path": "images/img-a6e82eb608b6.webp",
       "media_type": "image/webp",
       "bytes": 148520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/2200xxs%286%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/2200xxs%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/elk-ca-usa/Sea%20Arches%207000%20S%20Hwy%201%20In%20Elk,%20California,%20United%20States%20For%20Sale%20%2817430022%29_files/2200xxs%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/15/17/18/354de6c9-5fef-4718-b7c0-807772f2de75/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -872,7 +1001,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -880,7 +1009,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -888,7 +1017,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -896,7 +1025,7 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -904,13 +1033,13 @@
       "path": "images/img-97a6dfe5838d.webp",
       "media_type": "image/webp",
       "bytes": 1820,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 62,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 3,
+    "images_existing": 62,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -12,17 +12,17 @@
     {
       "name": "listing.json",
       "href": "listing.json",
-      "size": 20732
+      "size": 50721
     },
     {
       "name": "manifest.json",
       "href": "manifest.json",
-      "size": 8325
+      "size": 17076
     },
     {
       "name": "README.md",
       "href": "README.md",
-      "size": 4338
+      "size": 4339
     },
     {
       "name": "source.html",
@@ -35,5 +35,5 @@
       "size": 106
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:25:06.278343Z"
 }

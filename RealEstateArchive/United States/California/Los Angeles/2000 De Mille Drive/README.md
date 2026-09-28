@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/los-angeles-ca-usa/2000-de-mille-dr-17836208
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:15Z
+- Retrieved: 2026-09-28T00:17:38Z
 - Address: 2000 De Mille Drive , Los Angeles, CA 90027, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.107657,-118.302937
 - Coordinates: 34.11, -118.3
@@ -10,8 +10,8 @@
 - Listing reference: YEP7DN
 - First listed: May 4
 - Last updated: May 15
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 14
+- Videos downloaded: 1
 
 ## Property
 

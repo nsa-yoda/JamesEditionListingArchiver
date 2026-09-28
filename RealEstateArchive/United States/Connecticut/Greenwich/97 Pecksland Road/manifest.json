@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:30.681175Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550",
     "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/residential-greenwich-16746550",
@@ -9,13 +9,13 @@
     "listing_reference": "2-123736",
     "first_listed": "Dec 4, 2025",
     "last_updated": "April 15",
-    "retrieved_at": "2026-06-19T08:34:08.800916Z"
+    "retrieved_at": "2026-09-28T00:24:30.279344Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3056,
-      "sha256": "a7434191d336dd169b4097f2bff2b64e72cd78aaa9b575b30ee7a9f4d6076349"
+      "sha256": "cb74998d7e5ffc9ad4588f5aa63a440e39c450532de4eccc281f5ffa06d354ed"
     },
     {
       "path": "images/img-272e34fedba6.svg",
@@ -33,6 +33,16 @@
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
     },
     {
+      "path": "images/img-777fa1eccbf7.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-7d8b832d75ce.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-81376897c263.webp",
       "bytes": 532236,
       "sha256": "a5a0ed5b7fab1a6c560af269c78846bd13ec820a9708d2478b684d6c097586b2"
@@ -43,9 +53,14 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-fce88c9fd48f.webp",
+      "bytes": 4966,
+      "sha256": "1e8f8668975a6545a1087275e5d5908a93bf76516b99a3acfdf568281c06ec3a"
+    },
+    {
       "path": "listing.json",
-      "bytes": 14614,
-      "sha256": "6a5b5c126f96615ef409bd948f915b00d15ace11f3e6e2b9b2d92e3a8e6ed5aa"
+      "bytes": 22575,
+      "sha256": "2f120f281f0e31736040fcca0d2126166cbbc7fbf5e308de895c6c752a7a2f20"
     },
     {
       "path": "source.html",
@@ -61,41 +76,71 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/2200xxs.jpg",
       "path": "images/img-81376897c263.webp",
       "media_type": "image/webp",
       "bytes": 532236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-fce88c9fd48f.webp",
+      "media_type": "image/webp",
+      "bytes": 4966,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7d8b832d75ce.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-777fa1eccbf7.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Residential%20Greenwich%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2816746550%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/04/16/58/40/780fbfe5-9503-4d64-b92b-f0d0488b5409/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +148,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -111,7 +156,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -119,7 +164,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -127,13 +172,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 5,
-    "images_existing": 0,
-    "images_failed": 5,
+    "images_new": 3,
+    "images_existing": 5,
+    "images_failed": 6,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

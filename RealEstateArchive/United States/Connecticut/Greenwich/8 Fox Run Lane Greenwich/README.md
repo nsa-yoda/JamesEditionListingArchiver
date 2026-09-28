@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/greenwich-ct-usa/8-fox-run-lane-greenwich-connecticut-17820405
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:18:17Z
+- Retrieved: 2026-09-28T00:18:57Z
 - Address: 8 Fox Run Lane, Greenwich, Connecticut, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.045671,-73.64728
 - Coordinates: 41.05, -73.65
@@ -10,7 +10,7 @@
 - Listing reference: 124865
 - First listed: May 1
 - Last updated: Yesterday
-- Images downloaded: 44
+- Images downloaded: 50
 
 ## Property
 

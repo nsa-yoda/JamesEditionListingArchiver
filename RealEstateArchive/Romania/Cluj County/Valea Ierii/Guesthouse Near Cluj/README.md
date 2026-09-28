@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/valea-ierii-romania/guesthouse-near-cluj-the-gem-of-the-apuseni-mountains-12257223
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:26Z
+- Retrieved: 2026-09-28T00:21:28Z
 - Address: Valea Ierii, CJ, Cluj County, Romania
 - Map: https://www.google.com/maps/search/?api=1&query=46.6473,23.3438
 - Coordinates: 46.65, 23.34
@@ -10,8 +10,8 @@
 - Listing reference: P3KB25
 - First listed: Sep 30, 2022
 - Last updated: November 27, 2025
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 15
+- Videos downloaded: 1
 
 ## Property
 

@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/ikoma-japan/elegant-japanese-mansion-with-garden-cottage-in-scenic-ikoma-city-a-rare-retreat-near-osaka-15621311
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:23Z
+- Retrieved: 2026-09-28T00:20:45Z
 - Address: 258-2 Kōyōdai, Ikoma, Nara 630-0247, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=34.6982783,135.6896702
 - Coordinates: 34.7, 135.69
 - Site listing ID: 15621311
 - First listed: May 13, 2025
 - Last updated: May 26, 2025
-- Images downloaded: 9
+- Images downloaded: 17
 
 ## Property
 

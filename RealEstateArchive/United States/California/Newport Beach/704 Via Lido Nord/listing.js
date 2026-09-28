@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "RHVPJF",
     "first_listed": "Dec 11, 2025",
     "last_updated": "June 19",
-    "retrieved_at": "2026-08-28T00:27:59.368295Z"
+    "retrieved_at": "2026-09-28T00:18:55.629703Z"
   },
   "location": {
     "address": "704 Via Lido Nord , Newport Beach, CA 92663, California, United States",
@@ -80,136 +80,225 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/2200xxs.jpg",
       "file": "img-fa78f3ea3ffe.webp",
       "media_type": "image/webp",
       "bytes": 211028,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/2200xxs.jpg",
       "file": "img-c71110eb0f7e.webp",
       "media_type": "image/webp",
       "bytes": 292914,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/1100xxs%281%29.jpg",
+      "file": "img-8f43c7e9be5b.webp",
+      "media_type": "image/webp",
+      "bytes": 307850,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/2200xxs.jpg",
       "file": "img-18c6d92482b9.webp",
       "media_type": "image/webp",
       "bytes": 561240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/1100xxs%282%29.jpg",
+      "file": "img-727ca6cdbc45.webp",
+      "media_type": "image/webp",
+      "bytes": 219886,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/2200xxs.jpg",
       "file": "img-8def1cadbf3d.webp",
       "media_type": "image/webp",
       "bytes": 296802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/1100xxs%283%29.jpg",
+      "file": "img-eb6fcfe262cd.webp",
+      "media_type": "image/webp",
+      "bytes": 76248,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/2200xxs.jpg",
       "file": "img-350e9a9c578c.webp",
       "media_type": "image/webp",
       "bytes": 456732,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-aa08c96587aa.webp",
+      "media_type": "image/webp",
+      "bytes": 283018,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-129a78cf8b7e.webp",
+      "media_type": "image/webp",
+      "bytes": 3968,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-c9e676ca6fc4.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-113f882de585.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-c39912890b09.webp",
+      "media_type": "image/webp",
+      "bytes": 181958,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/9ceff522-b608-442b-8e06-fd56f48bbcf5/je/2000xxs.jpg",
       "file": "img-a56448a33080.webp",
       "media_type": "image/webp",
       "bytes": 256556,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/635cf3bc-9503-4c35-8d35-0e300599079a/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%282%29.jpg",
       "file": "img-c6cf211fefd7.webp",
       "media_type": "image/webp",
       "bytes": 187278,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/bc0c16df-6dbd-46a1-bd7f-b59e299946bf/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%283%29.jpg",
       "file": "img-815259e345f9.webp",
       "media_type": "image/webp",
       "bytes": 64492,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/22c19648-ffac-4853-b751-ac82a622b1bc/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%284%29.jpg",
       "file": "img-4fbdce03f8fd.webp",
       "media_type": "image/webp",
       "bytes": 236418,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2000xxs%285%29.jpg",
+      "file": "img-1342afcdf88f.webp",
+      "media_type": "image/webp",
+      "bytes": 392084,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/2000xxs.jpg",
+      "file": "img-de62a6c76e36.webp",
+      "media_type": "image/webp",
+      "bytes": 181958,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/2000xxs.jpg",
+      "file": "img-4e111a1e4b91.webp",
+      "media_type": "image/webp",
+      "bytes": 181958,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/2000xxs.jpg",
+      "file": "img-6c67dd711832.webp",
+      "media_type": "image/webp",
+      "bytes": 181958,
       "status": "new"
     },
     {
@@ -217,415 +306,426 @@ window.listingArchiveListing = {
       "file": "img-dfe60767b806.webp",
       "media_type": "image/webp",
       "bytes": 214078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/0d5b3f3d-f31f-4212-8381-4f118a3981fe/je/2000xxs.jpg",
       "file": "img-e9095553235a.webp",
       "media_type": "image/webp",
       "bytes": 262344,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/8ed51848-47fb-490b-8d66-c3c6ee62c3ed/je/2000xxs.jpg",
       "file": "img-bb1baf61b2b5.webp",
       "media_type": "image/webp",
       "bytes": 156496,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/9f76ccea-7ab3-4554-b0ab-b2bef498cf9d/je/2000xxs.jpg",
       "file": "img-ff782e2fd480.webp",
       "media_type": "image/webp",
       "bytes": 208170,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/b312a1cf-2ca6-4c74-90ce-51ed3aa615e6/je/2000xxs.jpg",
       "file": "img-6ff77053ec43.webp",
       "media_type": "image/webp",
       "bytes": 179194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7cffa735-1dde-45ba-aaa0-827f207346db/je/2000xxs.jpg",
       "file": "img-a5c1e9805a13.webp",
       "media_type": "image/webp",
       "bytes": 283514,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/d4e19e65-adf8-46ea-b7e4-16a608764550/je/2000xxs.jpg",
       "file": "img-f5726ad64c7f.webp",
       "media_type": "image/webp",
       "bytes": 295164,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1dc03da9-720a-44e8-8450-e3825d8ae196/je/2000xxs.jpg",
       "file": "img-a9bd57ff09de.webp",
       "media_type": "image/webp",
       "bytes": 214450,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/e36280f3-a4a2-4f9f-9c4d-bb8c58ead591/je/2000xxs.jpg",
       "file": "img-b4e0c219babf.webp",
       "media_type": "image/webp",
       "bytes": 194346,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ffcd02a6-95cd-4ebd-a300-2e14369dd410/je/2000xxs.jpg",
       "file": "img-033d6acb0721.webp",
       "media_type": "image/webp",
       "bytes": 296206,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/6fd4a281-8fcc-4245-8f6a-725eed4c472d/je/2000xxs.jpg",
       "file": "img-8e1c0a609d68.webp",
       "media_type": "image/webp",
       "bytes": 244606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/26d9b21a-12da-445c-8415-4fd31d36d284/je/2000xxs.jpg",
       "file": "img-26f6773b0149.webp",
       "media_type": "image/webp",
       "bytes": 299956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/29099fd5-ab6a-41d0-8639-80331ffc22a8/je/2000xxs.jpg",
       "file": "img-06f0a8701c1c.webp",
       "media_type": "image/webp",
       "bytes": 157468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/2af07f57-f585-4f53-954a-0807f16603e4/je/2000xxs.jpg",
       "file": "img-07beb7b645ce.webp",
       "media_type": "image/webp",
       "bytes": 198610,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/0bca7784-9f25-471d-9e88-72660e968004/je/2000xxs.jpg",
       "file": "img-5652605baafa.webp",
       "media_type": "image/webp",
       "bytes": 272922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/d52a62bf-01b3-4a33-a21c-2eb38d60e82b/je/2000xxs.jpg",
       "file": "img-9d6891db17ea.webp",
       "media_type": "image/webp",
       "bytes": 246006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/3559d369-ce0e-406a-ad8e-aaac1f8dd88d/je/2000xxs.jpg",
       "file": "img-90268ab6aa75.webp",
       "media_type": "image/webp",
       "bytes": 241184,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1ea56104-cf23-4168-8a3d-52881d34a604/je/2000xxs.jpg",
       "file": "img-504efaa5c8ef.webp",
       "media_type": "image/webp",
       "bytes": 279864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/5cc6ee09-def6-422f-bd91-fde9567d7298/je/2000xxs.jpg",
       "file": "img-d3711def6323.webp",
       "media_type": "image/webp",
       "bytes": 239522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/624325db-f925-4684-8764-02baef2eb8dc/je/2000xxs.jpg",
       "file": "img-1da35a08cfbf.webp",
       "media_type": "image/webp",
       "bytes": 220788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/0b85903b-b7d1-44b7-8b4f-321982c95e8e/je/2000xxs.jpg",
       "file": "img-710f5dbdd15a.webp",
       "media_type": "image/webp",
       "bytes": 258086,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/c876a3f7-06dd-49fd-a4b1-db2c1fae5e61/je/2000xxs.jpg",
       "file": "img-8e2aa4e08c54.webp",
       "media_type": "image/webp",
       "bytes": 176552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/2de50f51-1ed5-4d01-bd91-901a97b6c269/je/2000xxs.jpg",
       "file": "img-6fc28ba88f97.webp",
       "media_type": "image/webp",
       "bytes": 167540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/04af59eb-5482-4c96-a8d0-6149d7f09837/je/2000xxs.jpg",
       "file": "img-a725c03282d7.webp",
       "media_type": "image/webp",
       "bytes": 208762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/10935c4f-2289-438d-94ed-7ec43fc8bd96/je/2000xxs.jpg",
       "file": "img-ed6f2cfaa5f2.webp",
       "media_type": "image/webp",
       "bytes": 173916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/cb478d8d-ff6f-4cdd-99fa-3814fea14455/je/2000xxs.jpg",
       "file": "img-5d81bf8e905b.webp",
       "media_type": "image/webp",
       "bytes": 157660,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/c71f80bf-563b-4870-9e9d-2ccff08a56da/je/2000xxs.jpg",
       "file": "img-6e6ffa34a11d.webp",
       "media_type": "image/webp",
       "bytes": 83580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/3be04c40-cddb-4996-a689-24748b3596ae/je/2000xxs.jpg",
       "file": "img-ce596a2cf236.webp",
       "media_type": "image/webp",
       "bytes": 89684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/b7b4617b-6a76-48ba-8650-541fe9c2a969/je/2000xxs.jpg",
       "file": "img-85b39ae961bd.webp",
       "media_type": "image/webp",
       "bytes": 53262,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/604656e4-46d7-4311-b489-ad0d869464d1/je/2000xxs.jpg",
       "file": "img-f221321f86c9.webp",
       "media_type": "image/webp",
       "bytes": 72110,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/b0a5d878-2bb0-4671-9c62-5bc3516ee391/je/2000xxs.jpg",
       "file": "img-6c2f1d7414e8.webp",
       "media_type": "image/webp",
       "bytes": 72714,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/8f9f8e83-6cfb-4920-917a-a403820e6e87/je/2000xxs.jpg",
       "file": "img-7b9eae9acb92.webp",
       "media_type": "image/webp",
       "bytes": 205594,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/2e43d8f5-3163-4cf7-8098-975bab3d1611/je/2000xxs.jpg",
       "file": "img-d861b20a893c.webp",
       "media_type": "image/webp",
       "bytes": 102938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/fbf8fd7a-954f-4097-a121-7121aa864ef3/je/2000xxs.jpg",
       "file": "img-cb4e0f6423a1.webp",
       "media_type": "image/webp",
       "bytes": 149050,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/a9cc8053-4a31-4843-a616-bc6e9f49fa97/je/2000xxs.jpg",
       "file": "img-bab3b9a13f86.webp",
       "media_type": "image/webp",
       "bytes": 108490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/c5149a38-cb73-4862-bc70-6e988c3440ea/je/2000xxs.jpg",
       "file": "img-80b07202da71.webp",
       "media_type": "image/webp",
       "bytes": 86334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/461df738-e3b4-4352-a88b-f0cd4157664f/je/2000xxs.jpg",
       "file": "img-d408a23c7b4b.webp",
       "media_type": "image/webp",
       "bytes": 400272,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1f0a9001-0589-449e-9c58-043142ebb93a/je/2000xxs.jpg",
       "file": "img-46ed6ebb3e82.webp",
       "media_type": "image/webp",
       "bytes": 204632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/6670c2b9-6122-4c1d-b909-66162381ff3d/je/2000xxs.jpg",
       "file": "img-70c1cbb6703d.webp",
       "media_type": "image/webp",
       "bytes": 331822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/aac5ae98-8d6b-42f2-a30b-4c85fea801e6/je/2000xxs.jpg",
       "file": "img-55e6bf2829d7.webp",
       "media_type": "image/webp",
       "bytes": 617006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/448fd460-79f1-4f17-9b51-07a5f07f676c/je/2000xxs.jpg",
       "file": "img-9cae9c0cb5ac.webp",
       "media_type": "image/webp",
       "bytes": 155670,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/308b6785-83bf-465a-8a35-2f39b527bfdc/je/2000xxs.jpg",
       "file": "img-7b7f989582f3.webp",
       "media_type": "image/webp",
       "bytes": 113166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/a6b16557-c025-4811-9787-c7c405160fb3/je/2000xxs.jpg",
       "file": "img-89c948b12417.webp",
       "media_type": "image/webp",
       "bytes": 471960,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/b6cb4404-27a4-4009-926e-0873ba1f7e51/je/2000xxs.jpg",
       "file": "img-9f2c23edac21.webp",
       "media_type": "image/webp",
       "bytes": 354646,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/3292b9f2-ec51-41b9-a136-f7472bbd5de4/je/2000xxs.jpg",
       "file": "img-a77f0d509a52.webp",
       "media_type": "image/webp",
       "bytes": 203854,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/bfb15f61-6f22-4d53-87a5-52ba9300f4cc/je/2000xxs.jpg",
       "file": "img-b2555896237a.webp",
       "media_type": "image/webp",
       "bytes": 301120,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/3f7f5693-d9aa-4747-bdf1-acbdf2deba93/je/2000xxs.jpg",
       "file": "img-268e3536b4ad.webp",
       "media_type": "image/webp",
       "bytes": 102878,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/86f345bf-27dc-4541-a108-19c0810a5e15/je/2000xxs.jpg",
       "file": "img-e5bfe5aca74d.webp",
       "media_type": "image/webp",
       "bytes": 608904,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ff860669-4713-48cf-8243-2ff349a586e2/je/2000xxs.jpg",
       "file": "img-aadb249cd839.webp",
       "media_type": "image/webp",
       "bytes": 111992,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/9e6b18a4-31da-404b-8bf2-ff279b2a6765/je/2000xxs.jpg",
       "file": "img-7c3e3d523819.webp",
       "media_type": "image/webp",
       "bytes": 373010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/49763e42-2274-4c13-b274-ad10d5845531/je/2000xxs.jpg",
       "file": "img-3c2999b72707.webp",
       "media_type": "image/webp",
       "bytes": 339970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ec7a68fa-1b2a-4dbe-b073-b755158720e5/je/2000xxs.jpg",
       "file": "img-a3a79a827cbc.webp",
       "media_type": "image/webp",
       "bytes": 416374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/6cb2ef31-2f15-4f3f-9031-1bdd266dc3c7/je/2000xxs.jpg",
       "file": "img-19e858f805a1.webp",
       "media_type": "image/webp",
       "bytes": 222472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/106039f3-94af-49c5-88ef-dc5159d1a26b/je/2000xxs.jpg",
       "file": "img-62ca22df2aa1.webp",
       "media_type": "image/webp",
       "bytes": 457472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2200xxsxm%2853%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-80416a4d7a9f.webp",
+      "media_type": "image/webp",
+      "bytes": 240790,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2200xxsxm%2854%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-aa90989f0986.webp",
+      "media_type": "image/webp",
+      "bytes": 351870,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2200xxsxm%2855%29.jpg",
+      "file": "img-fbc6e8ad6532.webp",
+      "media_type": "image/webp",
+      "bytes": 123142,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -788,6 +888,63 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/newport-beach-ca-usa/704%20Via%20Lido%20Nord,%20Newport%20Beach,%20In%20Newport%20Beach,%20California,%20United%20States%20For%20Sale%20%2816785454%29_files/2200xxsxm%2855%29.jpg: HTTP 429 Too Many Requests",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/f6f8031b-df3b-40eb-a938-1c141e515ae3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/1bfea711-e1f0-46e9-80a8-7caedfc7c600/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/ca2b3c04-d769-4761-8d23-b7e53678b7a5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/96f6f21a-199a-4f39-b4e4-0109dc8e2cf9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/11/16/34/02/7140b990-9ab3-4e35-bda4-361041ea1c67/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 };

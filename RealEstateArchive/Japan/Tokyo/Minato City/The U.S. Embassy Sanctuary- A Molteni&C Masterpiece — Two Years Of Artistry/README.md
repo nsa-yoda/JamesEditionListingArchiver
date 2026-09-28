@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/minato-city-japan/the-u-s-embassy-sanctuary-a-molteni-c-masterpiece-two-years-of-artistry-ready-for-tonight-17661569
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:32:01Z
+- Retrieved: 2026-09-28T00:26:17Z
 - Address: Saion Sakurazaka, 1-chōme-11-12 Akasaka, Minato City, Tokyo 107-0052, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.6677111,139.7416644
 - Coordinates: 35.67, 139.74
 - Site listing ID: 17661569
 - First listed: Apr 13
 - Last updated: Yesterday
-- Images downloaded: 16
+- Images downloaded: 27
 - Videos downloaded: 0
 
 ## Property

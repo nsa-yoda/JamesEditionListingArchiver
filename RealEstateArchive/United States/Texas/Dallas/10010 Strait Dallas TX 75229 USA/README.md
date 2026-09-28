@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/dallas-tx-usa/exquisite-estate-on-billionaires-row-with-luxury-amenities-17336062
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:25Z
+- Retrieved: 2026-09-28T00:20:56Z
 - Address: 10010 Strait Dallas TX 75229 USA, Texas, United States
 - Map: https://www.google.com/maps/search/?api=1&query=32.8811241,-96.8244328
 - Coordinates: 32.88, -96.82
@@ -10,7 +10,7 @@
 - Listing reference: e40ba04b-c9ca-4f41-a20e-37589d1932c2
 - First listed: Mar 4
 - Last updated: June 12
-- Images downloaded: 9
+- Images downloaded: 13
 
 ## Property
 

@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "1633307",
     "first_listed": "Jul 17, 2025",
     "last_updated": "May 2",
-    "retrieved_at": "2026-06-16T03:43:28.066642Z"
+    "retrieved_at": "2026-09-28T00:21:59.98969Z"
   },
   "location": {
     "address": "Corfu, Peloponnese, Western Greece and the Ionian, Greece",
@@ -84,6 +84,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/2200xxs.jpg",
       "file": "004-84495eac.webp",
       "media_type": "image/webp",
@@ -92,7 +107,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/2200xxs.jpg",
@@ -103,7 +134,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/2200xxs.jpg",
@@ -114,7 +161,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/2200xxs.jpg",
@@ -125,7 +188,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/2200xxs.jpg",
@@ -136,39 +215,62 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-b8cd330fdbb3.webp",
+      "media_type": "image/webp",
+      "bytes": 5608,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-dd60a6f87c6b.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a5191236d9cf.webp",
+      "media_type": "image/webp",
+      "bytes": 293312,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-3bf0149347d8.webp",
+      "media_type": "image/webp",
+      "bytes": 217344,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-ce16da3dbad6.webp",
+      "media_type": "image/webp",
+      "bytes": 74660,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-e6b5aff30dff.webp",
+      "media_type": "image/webp",
+      "bytes": 131372,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-6bbb50631501.webp",
+      "media_type": "image/webp",
+      "bytes": 105484,
+      "status": "new"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -367,6 +469,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/23b7d90d-2e5f-4990-9eaa-d418dcdb5d52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/607818f7-3e11-4295-a80c-dc0a48c718f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/775461a1-cba8-49a4-a4b5-c63a675cd838/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/436c61b2-f138-4187-91c8-6568954ff4af/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/corfu-greece/Ionian%20Grace%20In%20Corfu,%20Peloponnese,%20Western%20Greece%20And%20The%20Ionian,%20Greece%20For%20Sale%20%2815938535%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/07/16/12/46/17/24e41ae0-9717-470b-ab33-a52a93e109da/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

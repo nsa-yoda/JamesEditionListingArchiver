@@ -8,7 +8,7 @@
     "listing_reference": "6VNVG3",
     "first_listed": "Feb 7, 2024",
     "last_updated": "March 31",
-    "retrieved_at": "2026-06-18T07:07:53.785789Z"
+    "retrieved_at": "2026-09-28T00:20:20.715199Z"
   },
   "location": {
     "address": "Colorado River Ranch - 3304 +/- Acres , Lometa, TX 76853, Plano, Texas, United States",
@@ -56,6 +56,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/2200xxs.jpg",
       "file": "004-a3a06606.webp",
       "media_type": "image/webp",
@@ -64,7 +79,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/2200xxs.jpg",
@@ -75,7 +106,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/2200xxs.jpg",
@@ -86,7 +133,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/2200xxs.jpg",
@@ -97,7 +160,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/2200xxs.jpg",
@@ -108,19 +187,34 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-240b0b6b9430.webp",
+      "media_type": "image/webp",
+      "bytes": 3686,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-4c65284766a4.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-7e6c43100d7d.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -149,6 +243,17 @@
       "media_type": "image/svg+xml",
       "bytes": 63710,
       "status": "existing"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6346433094112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "file": "vid-4a947753d829.mp4",
+      "media_type": "video/mp4",
+      "bytes": 130058795,
+      "status": "new",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg",
+      "poster_file": "img-03693a8b7d5f.webp"
     }
   ],
   "metadata": {
@@ -299,6 +404,69 @@
     "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/918e0daa-f123-4377-a8c1-4f885602dbd6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/0a3f8740-e598-4e05-b593-2dd445a062e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/c88ec115-f3c0-451f-9024-eddbe6789c19/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/2a84d522-36d1-4008-8ca2-54fed309f246/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/lometa-tx-usa/Colorado%20River%20Ranch%20In%20Plano,%20Texas,%20United%20States%20For%20Sale%20%2813798848%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2024/02/06/10/49/20/f74fcc2a-a5c5-40a7-9b9d-4601c5ec0859/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

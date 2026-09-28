@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/arch-cape-or-usa/79274-ray-brown-rd-arch-cape-or-97102-15022380
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:18:12Z
+- Retrieved: 2026-09-28T00:18:56Z
 - Address: 79274 RAY BROWN RD , Arch Cape, OR 97102, Cannon Beach, Oregon, United States
 - Map: https://www.google.com/maps/search/?api=1&query=45.788673,-123.966886
 - Coordinates: 45.79, -123.97
@@ -10,7 +10,7 @@
 - Listing reference: 47J8NR
 - First listed: Dec 16, 2024
 - Last updated: January 16
-- Images downloaded: 49
+- Images downloaded: 52
 
 ## Property
 

@@ -5,6 +5,11 @@
   "directories": [],
   "files": [
     {
+      "name": "img-1518317fc2c0.png",
+      "href": "img-1518317fc2c0.png",
+      "size": 767001
+    },
+    {
       "name": "img-1b9c4fb79274.webp",
       "href": "img-1b9c4fb79274.webp",
       "size": 114742
@@ -25,9 +30,19 @@
       "size": 1335930
     },
     {
+      "name": "img-baeedbf77bdb.webp",
+      "href": "img-baeedbf77bdb.webp",
+      "size": 4324
+    },
+    {
       "name": "img-c294627d1ae6.webp",
       "href": "img-c294627d1ae6.webp",
       "size": 150848
+    },
+    {
+      "name": "img-c394ab7f061c.png",
+      "href": "img-c394ab7f061c.png",
+      "size": 8627
     },
     {
       "name": "img-e3a0d4f6789e.webp",
@@ -40,5 +55,5 @@
       "size": 677704
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:22:21.493071Z"
 }

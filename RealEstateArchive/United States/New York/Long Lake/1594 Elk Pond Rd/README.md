@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/long-lake-ny-usa/whitney-park-a-legacy-beyond-measure-15606227
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:42:39Z
+- Retrieved: 2026-09-28T00:27:01Z
 - Address: 1594 Elk Pond Rd , Long Lake, NY 12847, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=44.007313,-74.493268
 - Coordinates: 44.01, -74.49
@@ -10,7 +10,7 @@
 - Listing reference: WRHPJ7
 - First listed: May 9, 2025
 - Last updated: June 2
-- Images downloaded: 28
+- Images downloaded: 31
 
 ## Property
 

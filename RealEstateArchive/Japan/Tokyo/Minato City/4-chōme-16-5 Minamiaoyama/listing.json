@@ -7,7 +7,7 @@
     "listing_id": "17627349",
     "first_listed": "Apr 9",
     "last_updated": "Yesterday",
-    "retrieved_at": "2026-08-28T00:29:20.048074Z"
+    "retrieved_at": "2026-09-28T00:22:43.19072Z"
   },
   "location": {
     "address": "4-chōme-16-5 Minamiaoyama, Minato City, Tokyo 107-0062, Japan",
@@ -86,269 +86,327 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/2200xxs.jpg",
       "file": "img-6f409d425670.webp",
       "media_type": "image/webp",
       "bytes": 179054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/2200xxs.jpg",
       "file": "img-eaea916e1022.webp",
       "media_type": "image/webp",
       "bytes": 218872,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/2200xxs.jpg",
       "file": "img-6d1e34953e0e.webp",
       "media_type": "image/webp",
       "bytes": 188448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/2200xxs.jpg",
       "file": "img-67e82f7bfe8f.webp",
       "media_type": "image/webp",
       "bytes": 114612,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/2200xxs.jpg",
       "file": "img-2abb891f3d44.webp",
       "media_type": "image/webp",
       "bytes": 117466,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-28874cd600ab.webp",
+      "media_type": "image/webp",
+      "bytes": 5630,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-ca2cad04ef41.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-3d5643529f96.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-0a24ce7a900c.webp",
+      "media_type": "image/webp",
+      "bytes": 182724,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/41f478bd-18b7-451d-9e51-edac4abb9e95/je/2000xxs.jpg",
       "file": "img-928be66282e6.webp",
       "media_type": "image/webp",
       "bytes": 131254,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/f8a74b95-b82f-474b-9e33-180f91be505c/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2000xxs%284%29.jpg",
       "file": "img-32829919775d.webp",
       "media_type": "image/webp",
       "bytes": 169664,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/91b4d1bc-6169-4819-90d6-1cefc1bfd347/je/2000xxs.jpg",
       "file": "img-762cf8fba4a5.webp",
       "media_type": "image/webp",
       "bytes": 360200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/2afb7ccb-7845-4092-b5de-36399d753303/je/2000xxs.jpg",
       "file": "img-f3d74d79dd92.webp",
       "media_type": "image/webp",
       "bytes": 515508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/6d33b33a-2197-4311-8c56-5af92a3802cb/je/2000xxs.jpg",
       "file": "img-4ac2cf9b605f.webp",
       "media_type": "image/webp",
       "bytes": 102428,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/b3f6ed1e-8e8f-40e5-b1f3-22ae65252ddf/je/2000xxs.jpg",
       "file": "img-9510ff6126bd.webp",
       "media_type": "image/webp",
       "bytes": 117280,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/03b2b861-59ac-4dd0-ad38-cae93e9004e6/je/2000xxs.jpg",
       "file": "img-8e1b5cd4ddae.webp",
       "media_type": "image/webp",
       "bytes": 153196,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/1c634a79-2fd2-4c25-bcc6-1c1be7666590/je/2000xxs.jpg",
       "file": "img-257e44c3c664.webp",
       "media_type": "image/webp",
       "bytes": 104736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/964642f3-1b16-4a9e-b24a-859e220c419c/je/2000xxs.jpg",
       "file": "img-3c9ecace2712.webp",
       "media_type": "image/webp",
       "bytes": 100072,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/bd01794e-996c-4343-82f4-5d0672b30f37/je/2000xxs.jpg",
       "file": "img-408666f548a9.webp",
       "media_type": "image/webp",
       "bytes": 120166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/04fae89e-1968-48ea-9255-af2f281fd6ae/je/2000xxs.jpg",
       "file": "img-d3ce3a5bbf34.webp",
       "media_type": "image/webp",
       "bytes": 108840,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/23cff36a-fb2a-4849-9c01-b373ecd3841e/je/2000xxs.jpg",
       "file": "img-7566bfd8e906.webp",
       "media_type": "image/webp",
       "bytes": 136472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/a18d3fcb-925e-48dc-923f-da5ff33b4298/je/2000xxs.jpg",
       "file": "img-6c851ab104f6.webp",
       "media_type": "image/webp",
       "bytes": 177890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/5f1344a2-590d-4378-a088-448914714af4/je/2000xxs.jpg",
       "file": "img-3180a3d0066c.webp",
       "media_type": "image/webp",
       "bytes": 119724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/06d6fff8-e860-4390-af66-b35c68f39c96/je/2000xxs.jpg",
       "file": "img-1d33c8efe59e.webp",
       "media_type": "image/webp",
       "bytes": 82928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/feea1710-0354-4f0b-812f-08df86c8c7b9/je/2000xxs.jpg",
       "file": "img-38bd8544c718.webp",
       "media_type": "image/webp",
       "bytes": 91044,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/f7cf7a84-bb6b-4338-8655-7620b7ed8f84/je/2000xxs.jpg",
       "file": "img-298fbc7eb144.webp",
       "media_type": "image/webp",
       "bytes": 202876,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d6bc2e43-0634-4555-acfe-353611f6f6b8/je/2000xxs.jpg",
       "file": "img-9b9e3fb60a0b.webp",
       "media_type": "image/webp",
       "bytes": 142746,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2200xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/58/34/95da86cf-5eed-47d5-b80c-750db9726c3a/je/80x80xc.jpg",
       "file": "img-20ade8335c8f.webp",
       "media_type": "image/webp",
       "bytes": 1042,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "metadata": {
@@ -546,6 +604,78 @@
     "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/2200xxs%285%29.jpg: HTTP 429 Too Many Requests",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/38/d58a7917-67e4-49a0-ab36-dc7efe8538bd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/29ce9754-9a2c-4ad2-832f-098cb9fae967/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/411ffb80-dc23-448c-935c-8b203b11dce7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/36/e6350a1c-58cb-4346-9ee4-dfde52d7d220/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/minato-city-japan/Minami%20Aoyama%20Estate%20%E2%80%93%20A%20Private%20Domain%20Behind%20In%20Minato%20City,%20Tokyo,%20Japan%20For%20Sale%20%2817627349%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/09/12/41/37/444f2da8-b0e2-45c1-94bc-649c5896308c/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "path": "United States/North Carolina/Sapphire/323 W. Falls Drive/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-c47253e033ce.webp",
+      "href": "img-c47253e033ce.webp",
+      "size": 200970
+    },
+    {
+      "name": "vid-402b5b5fdbe1.mp4",
+      "href": "vid-402b5b5fdbe1.mp4",
+      "size": 85025902
+    }
+  ],
+  "last_updated": "2026-09-28T00:18:20.696392Z"
+}

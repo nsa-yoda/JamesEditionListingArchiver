@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/billings-usa/single-family-home-billings-16845021
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:41:31Z
+- Retrieved: 2026-09-28T00:25:01Z
 - Address: 5635 Canyonwoods Dr., Billings, Montana, United States
 - Map: https://www.google.com/maps/search/?api=1&query=45.818696,-108.660577
 - Coordinates: 45.82, -108.66
@@ -10,7 +10,7 @@
 - Listing reference: houghtonr125-356909
 - First listed: Dec 23, 2025
 - Last updated: June 8
-- Images downloaded: 42
+- Images downloaded: 54
 - Videos downloaded: 0
 
 ## Property

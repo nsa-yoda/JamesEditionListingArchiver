@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:09:20Z
+- Retrieved: 2026-09-28T00:27:02Z
 - Address: 104 N Garden Drive, Pawling, NY 12564, Pleasant Valley, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.760968,-73.820569
 - Coordinates: 41.76, -73.82
@@ -10,7 +10,7 @@
 - Listing reference: YF7J5V
 - First listed: Dec 26, 2025
 - Last updated: March 26
-- Images downloaded: 49
+- Images downloaded: 55
 
 ## Property
 

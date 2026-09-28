@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/stock-island-fl-usa/private-island-cow-key-14553253
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:33Z
+- Retrieved: 2026-09-28T00:24:00Z
 - Address: 7200 5th Street, Stock Island, FL 33040, Key West, Florida, United States
 - Map: https://www.google.com/maps/search/?api=1&query=24.560489,-81.741111
 - Coordinates: 24.56, -81.74
@@ -10,7 +10,7 @@
 - Listing reference: QSR8Y2
 - First listed: Aug 2, 2024
 - Last updated: January 22
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

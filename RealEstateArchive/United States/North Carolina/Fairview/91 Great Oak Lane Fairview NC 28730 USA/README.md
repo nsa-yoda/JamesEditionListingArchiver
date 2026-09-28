@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/fairview-nc-usa/your-luxurious-mountain-sanctuary-with-private-views-17831388
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:43Z
+- Retrieved: 2026-09-28T00:27:04Z
 - Address: 91 Great Oak Lane Fairview NC 28730 USA, North Carolina, United States
 - Map: https://www.google.com/maps/search/?api=1&query=35.5345936,-82.4497136
 - Coordinates: 35.53, -82.45
@@ -10,7 +10,7 @@
 - Listing reference: 69f54ac5-4618-11f1-850c-6045bdd61ac4
 - First listed: May 3
 - Last updated: June 12
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

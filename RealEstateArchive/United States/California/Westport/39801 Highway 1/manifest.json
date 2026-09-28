@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:30.319109Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/westport-ca-usa/single-family-residence-in-westport-17869409",
     "canonical_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/single-family-residence-in-westport-17869409",
@@ -9,13 +9,18 @@
     "listing_reference": "C1-11377",
     "first_listed": "May 8",
     "last_updated": "May 18",
-    "retrieved_at": "2026-06-19T08:42:13.994204Z"
+    "retrieved_at": "2026-09-28T00:25:29.921092Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2133,
-      "sha256": "fc8496bf3f41997e8c80635a01415c9ee836828b6348a181ef5e9be079b08997"
+      "bytes": 2134,
+      "sha256": "f5991469c96d27e624c770ee10eee11128fae7cadb0dad6ccaeeaed80cb1e68f"
+    },
+    {
+      "path": "images/img-10de7d7eb0c5.webp",
+      "bytes": 4438,
+      "sha256": "f4fb2d56f0b1eecb04e81e7ac68dd8f30380ba6e142f82458b3a187cf7ed1080"
     },
     {
       "path": "images/img-1d8461475089.webp",
@@ -48,6 +53,11 @@
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
     },
     {
+      "path": "images/img-70cbef09e3f4.png",
+      "bytes": 4795,
+      "sha256": "63d0fa424fdab4dcab3653755a6775630225546baa15fc53e736532813e913cf"
+    },
+    {
       "path": "images/img-abfc6dd5f792.webp",
       "bytes": 145716,
       "sha256": "fb6ea9ce6916254aae0c7812b4dc8910997b640d16325689678bf2a88d753e8c"
@@ -58,14 +68,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-cff0751ee719.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-e2ba8c8eb2d7.webp",
       "bytes": 121416,
       "sha256": "8c0210b7abe3eebf4cfb8a96d15133908bbe5ab9bc0a2e989cb628b7a898f47f"
     },
     {
+      "path": "images/img-f14046987894.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 16433,
-      "sha256": "299da567a92173ee9b3a6438299b2e46fdd22fd05f34b7a1cb2c12716c22f8e6"
+      "bytes": 46023,
+      "sha256": "ec3d9dfc491e152cb1f5704cf9723b0e514e64bc66eeb1f18d4fb6f2b2395a7f"
     },
     {
       "path": "source.html",
@@ -81,17 +101,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/2200xxs.jpg",
       "path": "images/img-55f984d53b29.webp",
       "media_type": "image/webp",
       "bytes": 155726,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/f69e1b62-3643-4c40-8f51-7d30e3f7a64a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/f69e1b62-3643-4c40-8f51-7d30e3f7a64a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/f69e1b62-3643-4c40-8f51-7d30e3f7a64a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/f69e1b62-3643-4c40-8f51-7d30e3f7a64a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/f69e1b62-3643-4c40-8f51-7d30e3f7a64a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/f69e1b62-3643-4c40-8f51-7d30e3f7a64a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -99,13 +155,31 @@
       "path": "images/img-1d8461475089.webp",
       "media_type": "image/webp",
       "bytes": 119430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/2d4d9bf8-9ff2-40e8-806c-c67add9e0429/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/2d4d9bf8-9ff2-40e8-806c-c67add9e0429/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/2d4d9bf8-9ff2-40e8-806c-c67add9e0429/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/2d4d9bf8-9ff2-40e8-806c-c67add9e0429/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/2d4d9bf8-9ff2-40e8-806c-c67add9e0429/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/2d4d9bf8-9ff2-40e8-806c-c67add9e0429/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -113,13 +187,31 @@
       "path": "images/img-568ad3442bee.webp",
       "media_type": "image/webp",
       "bytes": 157604,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/c22e545f-b798-4206-b96c-140845881bbf/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/c22e545f-b798-4206-b96c-140845881bbf/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/c22e545f-b798-4206-b96c-140845881bbf/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/c22e545f-b798-4206-b96c-140845881bbf/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/c22e545f-b798-4206-b96c-140845881bbf/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/c22e545f-b798-4206-b96c-140845881bbf/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -127,13 +219,31 @@
       "path": "images/img-abfc6dd5f792.webp",
       "media_type": "image/webp",
       "bytes": 145716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/474a2c7f-f150-450d-a6cb-945d62cd03ee/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/474a2c7f-f150-450d-a6cb-945d62cd03ee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/474a2c7f-f150-450d-a6cb-945d62cd03ee/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/474a2c7f-f150-450d-a6cb-945d62cd03ee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/474a2c7f-f150-450d-a6cb-945d62cd03ee/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/474a2c7f-f150-450d-a6cb-945d62cd03ee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -141,37 +251,51 @@
       "path": "images/img-e2ba8c8eb2d7.webp",
       "media_type": "image/webp",
       "bytes": 121416,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/M00000846.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-70cbef09e3f4.png",
+      "media_type": "image/png",
+      "bytes": 4795,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-10de7d7eb0c5.webp",
+      "media_type": "image/webp",
+      "bytes": 4438,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f14046987894.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/westport-ca-usa/Single%20Family%20Residence%20In%20Westport%20In%20Westport,%20California,%20United%20States%20For%20Sale%20%2817869409%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-cff0751ee719.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/07/15/10/53/28821504-433e-48ac-8418-03f6730574eb/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -179,7 +303,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -187,7 +311,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -195,7 +319,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -203,13 +327,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 9,
-    "images_existing": 0,
-    "images_failed": 9,
+    "images_new": 4,
+    "images_existing": 9,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

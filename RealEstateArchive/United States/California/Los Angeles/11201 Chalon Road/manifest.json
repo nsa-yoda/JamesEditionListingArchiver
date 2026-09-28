@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:18.316667Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/single-family-residence-in-los-angeles-17781604",
     "canonical_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/single-family-residence-in-los-angeles-17781604",
@@ -9,13 +9,13 @@
     "listing_reference": "26814383",
     "first_listed": "Apr 29",
     "last_updated": "May 1",
-    "retrieved_at": "2026-06-16T03:43:36.352192Z"
+    "retrieved_at": "2026-09-28T00:25:17.842844Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2435,
-      "sha256": "c6e5e316d4689f082d3378f08772f83821f81c8c709e2d5bc426e66e1620cc23"
+      "bytes": 2436,
+      "sha256": "fd8ec2a63cc1f16bece91707dd6e3c1b1a9472b59e6f3980630e7cd6521dfb5e"
     },
     {
       "path": "images/004-b65f638c.webp",
@@ -63,9 +63,29 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-1aea0e23e176.png",
+      "bytes": 55140,
+      "sha256": "29f0fa96bad9d98fb8f606a5c7ddc3b8379c9e64681bb0ed8fb82118735ab6a5"
+    },
+    {
+      "path": "images/img-7080025f62c1.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-87102e41558a.webp",
+      "bytes": 7318,
+      "sha256": "ba50a2c04bff69c3308653d0317f35c0242ba9d03e2b359610dd73da94e480ad"
+    },
+    {
+      "path": "images/img-be2fe9c3bf59.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 16832,
-      "sha256": "c47920bca4bc37ba2e6b4718369acabb6631cab0e036298438035ed0210a1136"
+      "bytes": 46717,
+      "sha256": "ad3aa43d57b56bf5228291bee392307aa1253f13296918a211a004f62fa68e2e"
     },
     {
       "path": "source.html",
@@ -81,6 +101,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/2200xxs.jpg",
       "path": "images/004-b65f638c.webp",
       "media_type": "image/webp",
@@ -90,7 +128,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/6090cf27-0636-4823-967f-7792369318eb/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/6090cf27-0636-4823-967f-7792369318eb/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/6090cf27-0636-4823-967f-7792369318eb/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/6090cf27-0636-4823-967f-7792369318eb/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/6090cf27-0636-4823-967f-7792369318eb/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/6090cf27-0636-4823-967f-7792369318eb/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +160,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/f4040245-df24-4ebe-b029-b957c585719f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/f4040245-df24-4ebe-b029-b957c585719f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/f4040245-df24-4ebe-b029-b957c585719f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/f4040245-df24-4ebe-b029-b957c585719f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/f4040245-df24-4ebe-b029-b957c585719f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/f4040245-df24-4ebe-b029-b957c585719f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +192,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/cb7ae3bc-9bcf-4095-9e69-5342efd6b4a2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/cb7ae3bc-9bcf-4095-9e69-5342efd6b4a2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/cb7ae3bc-9bcf-4095-9e69-5342efd6b4a2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/cb7ae3bc-9bcf-4095-9e69-5342efd6b4a2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/cb7ae3bc-9bcf-4095-9e69-5342efd6b4a2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/cb7ae3bc-9bcf-4095-9e69-5342efd6b4a2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +224,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/9f07938a-4a15-47b3-bf0c-eafe4a42dc49/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/9f07938a-4a15-47b3-bf0c-eafe4a42dc49/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/9f07938a-4a15-47b3-bf0c-eafe4a42dc49/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/9f07938a-4a15-47b3-bf0c-eafe4a42dc49/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/9f07938a-4a15-47b3-bf0c-eafe4a42dc49/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/9f07938a-4a15-47b3-bf0c-eafe4a42dc49/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,27 +256,46 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/M00000071.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1aea0e23e176.png",
+      "media_type": "image/png",
+      "bytes": 55140,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-87102e41558a.webp",
+      "media_type": "image/webp",
+      "bytes": 7318,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-be2fe9c3bf59.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/los-angeles-ca-usa/Single%20Family%20Residence%20In%20Los%20In%20Los%20Angeles,%20California,%20United%20States%20For%20Sale%20%2817781604%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7080025f62c1.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/28/15/44/17/951af075-cb32-43e4-880f-cc5593243375/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -198,9 +331,9 @@
     }
   ],
   "summary": {
-    "images_new": 9,
+    "images_new": 4,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

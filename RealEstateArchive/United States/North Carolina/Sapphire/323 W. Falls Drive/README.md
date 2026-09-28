@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/sapphire-nc-usa/323-w-falls-drive-in-lonesome-valley-16316447
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:31Z
+- Retrieved: 2026-09-28T00:18:07Z
 - Address: 323 W. Falls Drive, Sapphire, NC 28774, North Carolina, United States
 - Map: https://www.google.com/maps/search/?api=1&query=35.1447326812947,-83.0709621519367
 - Coordinates: 35.14, -83.07
@@ -10,8 +10,8 @@
 - Listing reference: FLHY4V
 - First listed: Oct 4, 2025
 - Last updated: July 1
-- Images downloaded: 81
-- Videos downloaded: 0
+- Images downloaded: 87
+- Videos downloaded: 1
 
 ## Property
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:23:55.8485Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/private-pristine-waterfront-estate-bc-canada-16257490",
     "canonical_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/private-pristine-waterfront-estate-bc-canada-16257490",
@@ -8,13 +8,18 @@
     "listing_id": "16257490",
     "first_listed": "Sep 25, 2025",
     "last_updated": "November 18, 2025",
-    "retrieved_at": "2026-08-28T00:29:50.026037Z"
+    "retrieved_at": "2026-09-28T00:23:55.176403Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2562,
-      "sha256": "4fe96d9721c1704e1f1d83a1b34ce4a63d233015ebde891b25cf2ba99ceeeefe"
+      "sha256": "a7f1edba4d86cfb27597e23951173a7605e671034329322b6c3358ee35aa2cc0"
+    },
+    {
+      "path": "images/img-0d4b06dac657.webp",
+      "bytes": 306160,
+      "sha256": "8b43838427f56072be8affb349402b8061ef7cbb5974d5083c7d68d9a682d81c"
     },
     {
       "path": "images/img-1473f25d325f.webp",
@@ -107,6 +112,11 @@
       "sha256": "688db12cff935db1f494d505afd9e6ef7e5e4bbb85df2dc0165668206e116e24"
     },
     {
+      "path": "images/img-6715e3dff0e8.webp",
+      "bytes": 355566,
+      "sha256": "33fb5254b11247264948c6f5cf7146e3eca5e8376363a76d38b335fcfea149ea"
+    },
+    {
       "path": "images/img-68d630101587.webp",
       "bytes": 326742,
       "sha256": "e25aa0c9406315b8ef96b6322837aa827225e8bd067174a88735d56d5bda49ea"
@@ -135,6 +145,11 @@
       "path": "images/img-a458a32ba6d4.webp",
       "bytes": 297054,
       "sha256": "583a3d415978bcb9a7ba2d63dffa7e0cb61ca0f372cc5176f6de2c2575feec4b"
+    },
+    {
+      "path": "images/img-a8a0a3f75e03.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-b0c95fa2fdf5.webp",
@@ -197,14 +212,29 @@
       "sha256": "cb26c763e3375693ca73de7d1dd3107fe5245e3c4997285267282ea8b6f26ddd"
     },
     {
+      "path": "images/img-f65c9fc42e0e.webp",
+      "bytes": 5180,
+      "sha256": "283e02b7268e88937722ec00ce2b8180925e0f3f41d020708cbbfacc14fe15c6"
+    },
+    {
+      "path": "images/img-f84b83a8ee46.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-fca0737b10be.webp",
       "bytes": 289600,
       "sha256": "75e45a13b28ead16ce39e2ff34c1954645f73bb0efefe82e95b14b48502c24e6"
     },
     {
+      "path": "images/img-ff4bcdf0c544.webp",
+      "bytes": 833308,
+      "sha256": "910fb5f07f1e307739016e8e486a3c511ebc04a89185468253a9b845a32926db"
+    },
+    {
       "path": "listing.json",
-      "bytes": 27349,
-      "sha256": "c38f8137e456d27b73b92025ad87112a01f69d8a3d0d4eb127717aeb9315102d"
+      "bytes": 67742,
+      "sha256": "8bde6d5e47e845eaa7b2b41810e30932d42acd25750e322a445ce6a9d3673a0e"
     },
     {
       "path": "source.html",
@@ -220,17 +250,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/2200xxs.jpg",
       "path": "images/img-be82b7448757.webp",
       "media_type": "image/webp",
       "bytes": 531182,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -238,13 +304,31 @@
       "path": "images/img-4b279df72216.webp",
       "media_type": "image/webp",
       "bytes": 213288,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -252,13 +336,31 @@
       "path": "images/img-1473f25d325f.webp",
       "media_type": "image/webp",
       "bytes": 631828,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -266,13 +368,31 @@
       "path": "images/img-d6abe11e995e.webp",
       "media_type": "image/webp",
       "bytes": 333378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -280,31 +400,67 @@
       "path": "images/img-b87eb66580d9.webp",
       "media_type": "image/webp",
       "bytes": 601266,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f65c9fc42e0e.webp",
+      "media_type": "image/webp",
+      "bytes": 5180,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f84b83a8ee46.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-a8a0a3f75e03.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/c65ed377-9708-4607-a0a8-5a2cae94d242/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/bb599abd-0376-4502-8ad7-fb510b17aedf/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/de4612e8-81b8-4a02-9285-29dc5c6e47fa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/e96ab0aa-19f1-45e7-82f5-ba9ace734f29/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -312,7 +468,7 @@
       "path": "images/img-1cca77fbeaba.webp",
       "media_type": "image/webp",
       "bytes": 547888,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -320,7 +476,7 @@
       "path": "images/img-1af598fe4dd5.webp",
       "media_type": "image/webp",
       "bytes": 535076,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -328,7 +484,7 @@
       "path": "images/img-e37082639c2b.webp",
       "media_type": "image/webp",
       "bytes": 518010,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -336,7 +492,7 @@
       "path": "images/img-31e06b08ea32.webp",
       "media_type": "image/webp",
       "bytes": 313494,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -344,7 +500,7 @@
       "path": "images/img-1d5506ff5842.webp",
       "media_type": "image/webp",
       "bytes": 709572,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -352,7 +508,7 @@
       "path": "images/img-3e4efd8a555e.webp",
       "media_type": "image/webp",
       "bytes": 313712,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -360,7 +516,7 @@
       "path": "images/img-9b340f72fbdb.webp",
       "media_type": "image/webp",
       "bytes": 610406,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -368,7 +524,7 @@
       "path": "images/img-396761ebf9de.webp",
       "media_type": "image/webp",
       "bytes": 258458,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -376,7 +532,7 @@
       "path": "images/img-fca0737b10be.webp",
       "media_type": "image/webp",
       "bytes": 289600,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -384,7 +540,7 @@
       "path": "images/img-a458a32ba6d4.webp",
       "media_type": "image/webp",
       "bytes": 297054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -392,7 +548,7 @@
       "path": "images/img-52a7abd30951.webp",
       "media_type": "image/webp",
       "bytes": 303054,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -400,7 +556,7 @@
       "path": "images/img-bd0395374920.webp",
       "media_type": "image/webp",
       "bytes": 233972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -408,7 +564,7 @@
       "path": "images/img-5b7d418155a6.webp",
       "media_type": "image/webp",
       "bytes": 267502,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -416,7 +572,7 @@
       "path": "images/img-5fd4a86227cc.webp",
       "media_type": "image/webp",
       "bytes": 190338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -424,7 +580,7 @@
       "path": "images/img-e32511659611.webp",
       "media_type": "image/webp",
       "bytes": 212866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -432,7 +588,7 @@
       "path": "images/img-9b068bf38c7e.webp",
       "media_type": "image/webp",
       "bytes": 210972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -440,7 +596,7 @@
       "path": "images/img-569c9feb84b5.webp",
       "media_type": "image/webp",
       "bytes": 142844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -448,7 +604,7 @@
       "path": "images/img-db7ede20ec13.webp",
       "media_type": "image/webp",
       "bytes": 420870,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -456,7 +612,7 @@
       "path": "images/img-68d630101587.webp",
       "media_type": "image/webp",
       "bytes": 326742,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -464,7 +620,7 @@
       "path": "images/img-bf7c241b2a8a.webp",
       "media_type": "image/webp",
       "bytes": 236866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -472,7 +628,7 @@
       "path": "images/img-4085edba764e.webp",
       "media_type": "image/webp",
       "bytes": 620754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -480,7 +636,7 @@
       "path": "images/img-95ccc81193e1.webp",
       "media_type": "image/webp",
       "bytes": 211824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -488,7 +644,7 @@
       "path": "images/img-4da4cd6474eb.webp",
       "media_type": "image/webp",
       "bytes": 252762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -496,7 +652,7 @@
       "path": "images/img-f4bc67142ecf.webp",
       "media_type": "image/webp",
       "bytes": 642710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -504,7 +660,7 @@
       "path": "images/img-cd77abfb516b.webp",
       "media_type": "image/webp",
       "bytes": 236316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -512,7 +668,7 @@
       "path": "images/img-b0c95fa2fdf5.webp",
       "media_type": "image/webp",
       "bytes": 604996,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -520,7 +676,7 @@
       "path": "images/img-ddbeff0ece09.webp",
       "media_type": "image/webp",
       "bytes": 302704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -528,7 +684,7 @@
       "path": "images/img-590b3a7fbcb5.webp",
       "media_type": "image/webp",
       "bytes": 260330,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -536,7 +692,7 @@
       "path": "images/img-61b92b6e1363.webp",
       "media_type": "image/webp",
       "bytes": 696232,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -544,7 +700,7 @@
       "path": "images/img-8abb68f5816f.webp",
       "media_type": "image/webp",
       "bytes": 654204,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -552,25 +708,37 @@
       "path": "images/img-55e5cc776adc.webp",
       "media_type": "image/webp",
       "bytes": 320390,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/2200xxs%2832%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-0d4b06dac657.webp",
+      "media_type": "image/webp",
+      "bytes": 306160,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/2200xxs%2831%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-6715e3dff0e8.webp",
+      "media_type": "image/webp",
+      "bytes": 355566,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/powell-river-a-canada/Private%20\u0026%20Pristine%20Waterfront%20Estate%20In%20Powell%20River,%20British%20Columbia,%20Canada%20For%20Sale%20%2816257490%29_files/2200xxs%2833%29.jpg",
+      "path": "images/img-ff4bcdf0c544.webp",
+      "media_type": "image/webp",
+      "bytes": 833308,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/25/13/23/16/7c09cf5c-8770-4bfb-9665-484d66b56c99/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -578,31 +746,31 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 37,
-    "images_existing": 0,
-    "images_failed": 14,
+    "images_new": 6,
+    "images_existing": 37,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

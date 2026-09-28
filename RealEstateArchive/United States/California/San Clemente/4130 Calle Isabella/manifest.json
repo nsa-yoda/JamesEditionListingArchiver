@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:40.332799Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/the-cotton-point-estate-a-rare-three-acre-oceanfront-compound-above-the-pacific-17398344",
     "canonical_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/the-cotton-point-estate-a-rare-three-acre-oceanfront-compound-above-the-pacific-17398344",
@@ -8,13 +8,13 @@
     "listing_id": "17398344",
     "first_listed": "Mar 12",
     "last_updated": "March 16",
-    "retrieved_at": "2026-06-16T03:43:38.659289Z"
+    "retrieved_at": "2026-09-28T00:25:37.859224Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3837,
-      "sha256": "2e3dae594596b08d2f64b990c78d45cc1cdb0b372410ca48b99616b6a9f95d83"
+      "sha256": "d003ab6fa1179a27656a4746a7bd739500145e9062dac81cdc1c1ac923234df8"
     },
     {
       "path": "images/004-0b8431c2.webp",
@@ -67,9 +67,24 @@
       "sha256": "42838108db2da5239fc6f2eef220155a1bfd2ecceb7c0e59d351ef1475ce3883"
     },
     {
+      "path": "images/img-115c2bdca724.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-30bf355b4ef4.webp",
+      "bytes": 5218,
+      "sha256": "10f40636f0ee47f1d11892df61329e5a28101f1c172f37da130474f35a69780e"
+    },
+    {
+      "path": "images/img-38e23624bbc3.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "listing.json",
-      "bytes": 19423,
-      "sha256": "4ffb9d593a34aa92a4b9c82b5306cc1a5398d6eb6c30f35b5d1b48cf22d98a08"
+      "bytes": 49404,
+      "sha256": "73a5185081d28f5516e42d273ae9a8c3610e3f025332918e65c30e01154fb765"
     },
     {
       "path": "source.html",
@@ -85,6 +100,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/2200xxs.jpg",
       "path": "images/004-0b8431c2.webp",
       "media_type": "image/webp",
@@ -94,7 +127,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/3770c98b-7e32-4caf-aed2-98ee0e6d28f4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/3770c98b-7e32-4caf-aed2-98ee0e6d28f4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/3770c98b-7e32-4caf-aed2-98ee0e6d28f4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/3770c98b-7e32-4caf-aed2-98ee0e6d28f4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/3770c98b-7e32-4caf-aed2-98ee0e6d28f4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/3770c98b-7e32-4caf-aed2-98ee0e6d28f4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -107,7 +159,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/56/4daf9412-c4f6-45d9-a02c-23bdb2b02fee/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/56/4daf9412-c4f6-45d9-a02c-23bdb2b02fee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/56/4daf9412-c4f6-45d9-a02c-23bdb2b02fee/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/56/4daf9412-c4f6-45d9-a02c-23bdb2b02fee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/56/4daf9412-c4f6-45d9-a02c-23bdb2b02fee/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/56/4daf9412-c4f6-45d9-a02c-23bdb2b02fee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -120,7 +191,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0ccee0bd-0046-4583-b122-813e52eb086e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0ccee0bd-0046-4583-b122-813e52eb086e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0ccee0bd-0046-4583-b122-813e52eb086e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0ccee0bd-0046-4583-b122-813e52eb086e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0ccee0bd-0046-4583-b122-813e52eb086e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0ccee0bd-0046-4583-b122-813e52eb086e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -133,7 +223,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0a08da4a-0e9c-436c-a81a-d4cac36743ef/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0a08da4a-0e9c-436c-a81a-d4cac36743ef/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0a08da4a-0e9c-436c-a81a-d4cac36743ef/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0a08da4a-0e9c-436c-a81a-d4cac36743ef/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0a08da4a-0e9c-436c-a81a-d4cac36743ef/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/54/0a08da4a-0e9c-436c-a81a-d4cac36743ef/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -146,22 +255,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-30bf355b4ef4.webp",
+      "media_type": "image/webp",
+      "bytes": 5218,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-115c2bdca724.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/san-clemente-ca-usa/The%20Cotton%20Point%20Estate_%20A%20Rare%20In%20San%20Clemente,%20California,%20United%20States%20For%20Sale%20%2817398344%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-38e23624bbc3.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/12/14/03/57/62794d5f-2d50-4650-b5c8-251f5866a163/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -205,9 +330,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

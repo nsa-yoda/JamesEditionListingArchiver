@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/tuxedo-park-ny-usa/renamor-16052746
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:08:43Z
+- Retrieved: 2026-09-28T00:24:21Z
 - Address: 120 Ridge Road, Tuxedo Park, NY 10987, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.183748,-74.2062009
 - Coordinates: 41.18, -74.21
@@ -10,8 +10,8 @@
 - Listing reference: W9H9JK
 - First listed: Aug 14, 2025
 - Last updated: April 25
-- Images downloaded: 66
-- Videos downloaded: 0
+- Images downloaded: 69
+- Videos downloaded: 1
 
 ## Property
 

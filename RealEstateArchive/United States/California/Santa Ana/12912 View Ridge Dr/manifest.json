@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:25.162182Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912-view-ridge-dr-17829121",
     "canonical_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912-view-ridge-dr-17829121",
@@ -9,13 +9,13 @@
     "listing_reference": "214535752.0",
     "first_listed": "May 2",
     "last_updated": "May 29",
-    "retrieved_at": "2026-06-16T03:43:13.773486Z"
+    "retrieved_at": "2026-09-28T00:17:23.378918Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3698,
-      "sha256": "cea07170be729afdaa3056465d67d1c29e4e8bc5e36085a8d3d184775310c574"
+      "sha256": "d511edcb3cf0e04b93bfb5063ccf87b754fc39cc3835a223c2861631a3df889b"
     },
     {
       "path": "images/004-c0dfde00.webp",
@@ -68,22 +68,113 @@
       "sha256": "6b26ed44fe6f46d52a2bffb829a2c9d72411f6ceda3a3912e42393bdc5b91d44"
     },
     {
+      "path": "images/img-02c952eece27.webp",
+      "bytes": 4916,
+      "sha256": "c7d8ed253cdd438eaa6306d8b01a46818aae04c64ed6a15f641659f2e6a6ae21"
+    },
+    {
+      "path": "images/img-0ad1a99d0b16.webp",
+      "bytes": 5196,
+      "sha256": "bb3e407c5a5a1251ae32c3d1dd097dd28abedade42d10c96d7f3e7bd61ba4315"
+    },
+    {
+      "path": "images/img-10a4892975a7.webp",
+      "bytes": 4872,
+      "sha256": "d792fc235e07a534d7b91ad8134462db17e18112584246e7861102a946dcde17"
+    },
+    {
+      "path": "images/img-28852077adc7.webp",
+      "bytes": 5242,
+      "sha256": "c87551b3cc1e9413876481f7f0620d24636dfefffa2fdab1b0f06cd099c09af5"
+    },
+    {
+      "path": "images/img-39d230501d67.webp",
+      "bytes": 4520,
+      "sha256": "1eb0dcd2cea44840d3bd1ea1bbc39a774988477d8ee10e94fbb4fcfd99d903df"
+    },
+    {
+      "path": "images/img-446e7fd6bd8a.webp",
+      "bytes": 4066,
+      "sha256": "7ec971ff31d617498be4755b06bc834c3b713d19d1952877fc3c36a1c552b703"
+    },
+    {
+      "path": "images/img-6d69585af4ee.webp",
+      "bytes": 4596,
+      "sha256": "154ebf6dc8cb34ab1b2f7945426f9a492dd1e95a0e40e775fcb152e46b557624"
+    },
+    {
+      "path": "images/img-8bb8864d0aa1.webp",
+      "bytes": 4206,
+      "sha256": "a0ee63ab8fc82cceba3c4a41237c7940cc4ff6a73ec69291584e61371e81e9f3"
+    },
+    {
+      "path": "images/img-8cba73d4e9ca.webp",
+      "bytes": 3336,
+      "sha256": "96059df2f20ce416d400aafb4ccf3c3738a5001f5395150212060dfe0ec4050f"
+    },
+    {
+      "path": "images/img-b3f186d75a8c.webp",
+      "bytes": 3130,
+      "sha256": "238eb0c57b77b2122fe8ec8a22639b8825a72f1588067257e32df0c8a9467df0"
+    },
+    {
+      "path": "images/img-c4defe426eab.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-f63e7b7929da.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 23110,
-      "sha256": "06eda0b0e9029fe9b5bdbcb4e1d3f11229d3e48fa3ef6c4dd820f0947fd3e0f3"
+      "bytes": 106197,
+      "sha256": "887419db408983f8ffe21f7b5c0134dc4a918252282254c76b52eb10f172984c"
     },
     {
       "path": "source.html",
-      "bytes": 343604,
-      "sha256": "c0379bf7f3d87eaeb0bf37bf71fa9a1b173759936e766c63690e3b20611f3f44"
+      "bytes": 485743,
+      "sha256": "760da564fc70b8c3a9070b438a053604ccdb4643ec012e1b5f58c21222425738"
     },
     {
       "path": "source.url",
       "bytes": 87,
       "sha256": "d2c61e03bef52e8e3c4ed538b86ae0883ca67209c8685c56004130328561fa1b"
+    },
+    {
+      "path": "videos/img-275fabd6523e.webp",
+      "bytes": 100348,
+      "sha256": "9c7c2b1e9e80ce45ce9cd871ac7621275f16523ac1537fcb49dfdd035c2921d4"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://player.vimeo.com/video/1187453719?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
+      "status": "failed",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/1040x620xc.jpg",
+      "poster_path": "videos/img-275fabd6523e.webp",
+      "error": "yt-dlp could not download the video player URL"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/2200xxs.jpg",
@@ -95,7 +186,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -108,7 +218,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -121,7 +250,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -134,7 +282,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -147,67 +314,350 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0ad1a99d0b16.webp",
+      "media_type": "image/webp",
+      "bytes": 5196,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f63e7b7929da.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-28852077adc7.webp",
+      "media_type": "image/webp",
+      "bytes": 5242,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8bb8864d0aa1.webp",
+      "media_type": "image/webp",
+      "bytes": 4206,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-10a4892975a7.webp",
+      "media_type": "image/webp",
+      "bytes": 4872,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b3f186d75a8c.webp",
+      "media_type": "image/webp",
+      "bytes": 3130,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-02c952eece27.webp",
+      "media_type": "image/webp",
+      "bytes": 4916,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%286%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8cba73d4e9ca.webp",
+      "media_type": "image/webp",
+      "bytes": 3336,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%287%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-39d230501d67.webp",
+      "media_type": "image/webp",
+      "bytes": 4520,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%288%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-6d69585af4ee.webp",
+      "media_type": "image/webp",
+      "bytes": 4596,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/160x120xc%289%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-446e7fd6bd8a.webp",
+      "media_type": "image/webp",
+      "bytes": 4066,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/santa-ana-ca-usa/12912%20View%20Ridge%20Dr%20In%20Santa%20Ana,%20California,%20United%20States%20For%20Sale%20%2817829121%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c4defe426eab.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7193dd26-e9c3-4e13-9637-eebed321e12a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70b67d98-f387-4da4-a8fa-81734adfcf4b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0ce9972f-9077-4ec2-8a75-79b635b2cf96/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b5cbdca0-24d2-4427-a432-9166f48cce70/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/635041e4-c952-47fe-a4c1-96882f4dffc3/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/635041e4-c952-47fe-a4c1-96882f4dffc3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/90a3b243-b2b6-45cf-8115-18624a44e8e0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/90a3b243-b2b6-45cf-8115-18624a44e8e0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/2cdaa683-c45b-470e-acc7-08d14419c795/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/2cdaa683-c45b-470e-acc7-08d14419c795/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/308023a0-f35b-492d-8c11-ddc4aea41f4c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/308023a0-f35b-492d-8c11-ddc4aea41f4c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/e26c774f-b0d1-44d6-85b1-38f9b490b21e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/e26c774f-b0d1-44d6-85b1-38f9b490b21e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9fa818f6-0f21-4e46-a9d1-214fb00819c4/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/9fa818f6-0f21-4e46-a9d1-214fb00819c4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/df6da5a0-f7bf-42e0-8fa7-b51f25295409/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/df6da5a0-f7bf-42e0-8fa7-b51f25295409/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/57c6d277-0bd7-474a-8d56-9e363b632d78/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/57c6d277-0bd7-474a-8d56-9e363b632d78/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3696c74c-dbac-40ea-9e70-32c5ca08aba2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3696c74c-dbac-40ea-9e70-32c5ca08aba2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/12bc1f12-acbb-4666-8221-95d943f77784/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/12bc1f12-acbb-4666-8221-95d943f77784/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70f117ce-b6fe-4d05-bd2d-1ffd7e7a9fed/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/70f117ce-b6fe-4d05-bd2d-1ffd7e7a9fed/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b4e2049b-6601-4a81-8dd6-c1c2ac3e4593/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/b4e2049b-6601-4a81-8dd6-c1c2ac3e4593/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c833839e-f0c3-450e-9b6e-beaab740c639/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/c833839e-f0c3-450e-9b6e-beaab740c639/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5f221c5e-cbf8-4fe9-bcb0-0c63ddd00ed1/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5f221c5e-cbf8-4fe9-bcb0-0c63ddd00ed1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5bad67a1-f6fb-475e-bae7-8601480d59bf/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/5bad67a1-f6fb-475e-bae7-8601480d59bf/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0815e669-4517-4694-b43b-9b3ab2792de7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0815e669-4517-4694-b43b-9b3ab2792de7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/8439537a-4799-4f54-b7c9-f1d2a20d696a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/8439537a-4799-4f54-b7c9-f1d2a20d696a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/920e3c7a-9bc0-4a7e-afde-a637e1d372cf/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/920e3c7a-9bc0-4a7e-afde-a637e1d372cf/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/57a9b256-1029-43d2-84df-d5f7d1ca3794/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/57a9b256-1029-43d2-84df-d5f7d1ca3794/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/085e38bf-dbe0-4d94-9a6b-f6ad5c9c86ef/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/085e38bf-dbe0-4d94-9a6b-f6ad5c9c86ef/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/421956da-0899-42bd-a36d-a534b62fb285/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/421956da-0899-42bd-a36d-a534b62fb285/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/26fe5387-30b2-44a7-87b4-c96ffd3c43c1/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/26fe5387-30b2-44a7-87b4-c96ffd3c43c1/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0628e0cd-5eb3-4ca0-924b-a04df6c60042/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/0628e0cd-5eb3-4ca0-924b-a04df6c60042/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/58afa8de-5312-449c-aed6-595d2e3c81de/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/58afa8de-5312-449c-aed6-595d2e3c81de/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/4d6696d6-79bb-4dc3-8dd8-5fbf78275b41/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/4d6696d6-79bb-4dc3-8dd8-5fbf78275b41/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/83e8fb88-86d4-4a18-9223-53437d1c912b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/83e8fb88-86d4-4a18-9223-53437d1c912b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/69accdd9-6f15-4064-bd10-b2abb4737604/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/69accdd9-6f15-4064-bd10-b2abb4737604/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/bd1672c1-bc18-41d3-9c69-1664b44d576c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/bd1672c1-bc18-41d3-9c69-1664b44d576c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7cb8912f-f482-4788-b779-268ddf3e1857/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/7cb8912f-f482-4788-b779-268ddf3e1857/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/deda231d-f146-4e01-99d7-a94e77251b90/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/deda231d-f146-4e01-99d7-a94e77251b90/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/bbd22005-2a60-41a4-bb32-96f9503089bb/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/bbd22005-2a60-41a4-bb32-96f9503089bb/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/e02d82a3-12f8-4892-948e-d2a5bc58161d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/e02d82a3-12f8-4892-948e-d2a5bc58161d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/fc2b86af-010d-432e-98ec-03cc820b4ce7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/fc2b86af-010d-432e-98ec-03cc820b4ce7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/32c13cf1-dc06-4d7a-bc3a-083442f1becd/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/32c13cf1-dc06-4d7a-bc3a-083442f1becd/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3a8a4c81-ce9d-4437-a22d-36f4f868729a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/3a8a4c81-ce9d-4437-a22d-36f4f868729a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/05/01/07/43/01/6306aed9-6245-4188-876d-6dacd23ca1dc/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -251,11 +701,11 @@
     }
   ],
   "summary": {
-    "images_new": 17,
+    "images_new": 12,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 61,
     "videos_new": 0,
     "videos_existing": 0,
-    "videos_failed": 0
+    "videos_failed": 1
   }
 }

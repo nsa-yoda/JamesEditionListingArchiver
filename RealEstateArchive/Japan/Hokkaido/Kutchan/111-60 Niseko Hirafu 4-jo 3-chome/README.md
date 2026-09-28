@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kutchan-japan/awayuki-villa-ginto-hirafu-15294339
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:21Z
+- Retrieved: 2026-09-28T00:20:12Z
 - Address: 111-60 Niseko Hirafu 4-jo 3-chome, Kutchan, Hokkaido, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=42.8610242,140.7183451
 - Coordinates: 42.86, 140.72
@@ -10,7 +10,7 @@
 - Listing reference: 4512461
 - First listed: Mar 5, 2025
 - Last updated: March 9
-- Images downloaded: 10
+- Images downloaded: 13
 
 ## Property
 

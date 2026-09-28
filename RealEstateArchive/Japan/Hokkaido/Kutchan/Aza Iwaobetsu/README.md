@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kutchan-japan/odin-hills-k-series-villa-lot-k3-15252204
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:32Z
+- Retrieved: 2026-09-28T00:23:18Z
 - Address: Aza Iwaobetsu, Kutchan, Hokkaido, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=42.8888169,140.713242
 - Coordinates: 42.89, 140.71
@@ -10,7 +10,7 @@
 - Listing reference: 4517802
 - First listed: Feb 22, 2025
 - Last updated: December 17, 2025
-- Images downloaded: 10
+- Images downloaded: 12
 
 ## Property
 

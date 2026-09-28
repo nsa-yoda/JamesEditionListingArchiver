@@ -2,30 +2,30 @@
 
 - Source: https://www.jamesedition.com/real_estate/oakville-canada/one-of-oakville-s-finest-lakefront-estates-16017322
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:32Z
+- Retrieved: 2026-09-28T00:23:18Z
 - Address: 2054 Lakeshore Rd E, Oakville, ON L6J 1M3, Ontario, Canada
 - Map: https://www.google.com/maps/search/?api=1&query=43.4701061,-79.6416446
 - Coordinates: 43.47, -79.64
 - Site listing ID: 16017322
 - Listing reference: W12323376
 - First listed: Aug 5, 2025
-- Last updated: December 29, 2025
-- Images downloaded: 10
+- Last updated: Yesterday
+- Images downloaded: 23
 - Videos downloaded: 0
 
 ## Property
 
 - Type: House
 - Availability: InStock
-- Price: $27,866,099
-- Price per area: $1,423
+- Price: $23,283,856
+- Price per area: $1,189
 - Bedrooms: 7
 - Bathrooms: 12
 - Floors: 3
 - Interior area: 19,573 Sqft
 - Lot area: 1.5 Ac lot
 - Year built: 2011
-- Source photo count: 49
+- Source photo count: 46
 - Video: https://www.youtube.com/embed/aueQnrwg9F8?rel=0&autoplay=1&mute=1&loop=1&playlist=aueQnrwg9F8&controls=0&iv_load_policy=3&fs=0&disablekb=1&playsinline=1&t=10
 
 ## Listed By

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:26:20.889656Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303",
     "canonical_url": "https://www.jamesedition.com/real_estate/nagahama-japan/the-zen-villa-of-the-deity-lake-biwa-17467303",
@@ -8,13 +8,13 @@
     "listing_id": "17467303",
     "first_listed": "Mar 24",
     "last_updated": "April 24",
-    "retrieved_at": "2026-06-16T03:43:40.168387Z"
+    "retrieved_at": "2026-09-28T00:26:20.514725Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 6156,
-      "sha256": "ea306560682070b594e9295ac4523fbd2eb4ef37fcbd83d8b6db831f83683d8c"
+      "sha256": "023e01b5bd20fac67bcd6e2d5f056cfaee719eec638db06c03d2fd55a9965198"
     },
     {
       "path": "images/004-e074521c.webp",
@@ -67,9 +67,54 @@
       "sha256": "77f37f341d2f0527a6c78049990325e7c46c70b4183a83568c0151e78e71a824"
     },
     {
+      "path": "images/img-15fb2d430b78.webp",
+      "bytes": 131148,
+      "sha256": "a76000a0de6d8f336cdc61409878e18371a5ffaa56b640ec015ca2aa9a23214c"
+    },
+    {
+      "path": "images/img-3621a4cd2d2f.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-47cb7d936115.webp",
+      "bytes": 201088,
+      "sha256": "cbca8bb3b85fd1dbb02e304a7fa4dcaf21face5ad33ec9459eaded59a88abaa4"
+    },
+    {
+      "path": "images/img-59c21babb743.webp",
+      "bytes": 211780,
+      "sha256": "25390cd53c9487b259bbe2ac4c8186b92f11d7b0c2b925934c9fb361b9b8dd92"
+    },
+    {
+      "path": "images/img-69b7bfdad8fb.webp",
+      "bytes": 235042,
+      "sha256": "716ba4ba566f086d0c3e6338ef619bd8dc221c185ed64444437fac16e0ed34d6"
+    },
+    {
+      "path": "images/img-9c215903c930.webp",
+      "bytes": 106140,
+      "sha256": "56e9fa26cada54cffaa1b09e18fadee5578b61352d9e1f62ead0b974828417c1"
+    },
+    {
+      "path": "images/img-b7df2b6c8d0d.webp",
+      "bytes": 150586,
+      "sha256": "4e918bdc0bb13957eca6a8e8537708acd1e441a3dfcef1c6a4b9a5e4e4853837"
+    },
+    {
+      "path": "images/img-d016ac40ac5b.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-e0a617f59d3f.webp",
+      "bytes": 2708,
+      "sha256": "23ae598875a30c25f9ffb3a597192db7749d0f6d063ee90747ef9e8bebee142f"
+    },
+    {
       "path": "listing.json",
-      "bytes": 26571,
-      "sha256": "21418f26450472945536cb05e142078f2b27b4383e38459cb8112bd58d79e33e"
+      "bytes": 56484,
+      "sha256": "4f8fa5789230763416d9dd5c387eae12fb6124ab6ad8155b68733204874d3682"
     },
     {
       "path": "source.html",
@@ -85,6 +130,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/2200xxs.jpg",
       "path": "images/004-e074521c.webp",
       "media_type": "image/webp",
@@ -94,7 +157,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/4e660354-077e-4c8a-928e-5b9992128b6f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/4e660354-077e-4c8a-928e-5b9992128b6f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/4e660354-077e-4c8a-928e-5b9992128b6f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/4e660354-077e-4c8a-928e-5b9992128b6f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/4e660354-077e-4c8a-928e-5b9992128b6f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/4e660354-077e-4c8a-928e-5b9992128b6f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -107,7 +189,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/e9feb7b7-2bf1-48f7-af03-bbb8c24c0b87/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/e9feb7b7-2bf1-48f7-af03-bbb8c24c0b87/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/e9feb7b7-2bf1-48f7-af03-bbb8c24c0b87/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/e9feb7b7-2bf1-48f7-af03-bbb8c24c0b87/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/e9feb7b7-2bf1-48f7-af03-bbb8c24c0b87/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/18/16/45/e9feb7b7-2bf1-48f7-af03-bbb8c24c0b87/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -120,7 +221,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/07/40/33/986a93f9-fa58-4f87-8240-8d55905c00c7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/07/40/33/986a93f9-fa58-4f87-8240-8d55905c00c7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/07/40/33/986a93f9-fa58-4f87-8240-8d55905c00c7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/07/40/33/986a93f9-fa58-4f87-8240-8d55905c00c7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/01/07/40/33/986a93f9-fa58-4f87-8240-8d55905c00c7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/01/07/40/33/986a93f9-fa58-4f87-8240-8d55905c00c7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -133,7 +253,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/15/58/26/bff187bd-3520-4ee1-a94d-c14f9992ddd0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/15/58/26/bff187bd-3520-4ee1-a94d-c14f9992ddd0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/15/58/26/bff187bd-3520-4ee1-a94d-c14f9992ddd0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/15/58/26/bff187bd-3520-4ee1-a94d-c14f9992ddd0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/15/58/26/bff187bd-3520-4ee1-a94d-c14f9992ddd0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/15/58/26/bff187bd-3520-4ee1-a94d-c14f9992ddd0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -146,52 +285,86 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e0a617f59d3f.webp",
+      "media_type": "image/webp",
+      "bytes": 2708,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3621a4cd2d2f.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d016ac40ac5b.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-15fb2d430b78.webp",
+      "media_type": "image/webp",
+      "bytes": 131148,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9c215903c930.webp",
+      "media_type": "image/webp",
+      "bytes": 106140,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-59c21babb743.webp",
+      "media_type": "image/webp",
+      "bytes": 211780,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-69b7bfdad8fb.webp",
+      "media_type": "image/webp",
+      "bytes": 235042,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-47cb7d936115.webp",
+      "media_type": "image/webp",
+      "bytes": 201088,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nagahama-japan/The%20Zen%20Villa%20Of%20The%20Deity_%20Lake%20Biwa%20In%20Nagahama,%20Shiga,%20Japan%20For%20Sale%20%2817467303%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b7df2b6c8d0d.webp",
+      "media_type": "image/webp",
+      "bytes": 150586,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/20/14/59/de0ab1a4-f11b-4850-8b78-82a024632b0a/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -235,9 +408,9 @@
     }
   ],
   "summary": {
-    "images_new": 14,
+    "images_new": 9,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

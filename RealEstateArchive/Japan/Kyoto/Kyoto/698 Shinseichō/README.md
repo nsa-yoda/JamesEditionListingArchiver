@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/kyoto-japan/the-silence-furnished-by-armani-casa-owning-the-living-art-of-kyoto-17328170
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:58Z
+- Retrieved: 2026-09-28T00:26:11Z
 - Address: 698 Shinseichō, Kamigyo Ward, Kyoto, 602-8381, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.0307978,135.7369082
 - Coordinates: 35.03, 135.74
 - Site listing ID: 17328170
 - First listed: Mar 3
 - Last updated: May 20
-- Images downloaded: 7
+- Images downloaded: 15
 - Videos downloaded: 0
 
 ## Property

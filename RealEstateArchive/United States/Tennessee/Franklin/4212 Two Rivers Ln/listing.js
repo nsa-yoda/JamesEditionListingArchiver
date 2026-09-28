@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "3264050",
     "first_listed": "Jul 9",
     "last_updated": "July 9",
-    "retrieved_at": "2026-08-28T00:30:55.156882Z"
+    "retrieved_at": "2026-09-28T00:25:09.455453Z"
   },
   "location": {
     "address": "4212 Two Rivers Ln, Franklin, Tennessee, United States",
@@ -75,618 +75,737 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2200xxs.jpg",
       "file": "img-2a4625e8c538.webp",
       "media_type": "image/webp",
       "bytes": 182680,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2200xxs.jpg",
       "file": "img-91851e739797.webp",
       "media_type": "image/webp",
       "bytes": 70508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2200xxs.jpg",
       "file": "img-d1bcf245f9c0.webp",
       "media_type": "image/webp",
       "bytes": 326348,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2200xxs.jpg",
       "file": "img-7308a4e01183.webp",
       "media_type": "image/webp",
       "bytes": 165064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2200xxs.jpg",
       "file": "img-6f8f9841bbf5.webp",
       "media_type": "image/webp",
       "bytes": 198300,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/M00000574.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-cdf9e00b6894.png",
+      "media_type": "image/png",
+      "bytes": 46139,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-330f7b6a47ec.webp",
+      "media_type": "image/webp",
+      "bytes": 2942,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-f21ba3fd7a0d.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-a4c969487a7c.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/3d0f5d7a-bf37-4c27-bfff-430bce38c31e/je/2000xxs.jpg",
       "file": "img-1520b211b3b5.webp",
       "media_type": "image/webp",
       "bytes": 324290,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/fb61609f-45c0-409d-b040-286b58086fca/je/2000xxs.jpg",
       "file": "img-568dd3011a43.webp",
       "media_type": "image/webp",
       "bytes": 819828,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b7dcf293-f9ed-443f-8faf-66c83a6d748b/je/2000xxs.jpg",
       "file": "img-b36d71bf48a7.webp",
       "media_type": "image/webp",
       "bytes": 458710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ce39e6bc-327d-4ac1-8039-dae370f49eec/je/2000xxs.jpg",
       "file": "img-7cef63f9e575.webp",
       "media_type": "image/webp",
       "bytes": 306716,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b3036da9-77f5-4adc-8335-48bb97ab1a7f/je/2000xxs.jpg",
       "file": "img-2be7d1aa0a1f.webp",
       "media_type": "image/webp",
       "bytes": 244584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/c914e9fd-2021-4fae-8d8c-43f62aab9259/je/2000xxs.jpg",
       "file": "img-f94feb3242d6.webp",
       "media_type": "image/webp",
       "bytes": 140588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/8141f68e-a7c2-41e3-8505-28084c1b16e6/je/2000xxs.jpg",
       "file": "img-ac242b51c637.webp",
       "media_type": "image/webp",
       "bytes": 106958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/fb7868f4-c212-4f02-9150-cb1c17501909/je/2000xxs.jpg",
       "file": "img-49b821a94981.webp",
       "media_type": "image/webp",
       "bytes": 276112,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/54985513-882a-4c98-94ea-2fb12e157c60/je/2000xxs.jpg",
       "file": "img-18b04f512f9a.webp",
       "media_type": "image/webp",
       "bytes": 212776,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ddd8244d-076f-43c0-8de2-d888914e39f8/je/2000xxs.jpg",
       "file": "img-cc5989258af5.webp",
       "media_type": "image/webp",
       "bytes": 126118,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ae7f547b-86e3-467d-b322-7c2d9cf633df/je/2000xxs.jpg",
       "file": "img-9e696c1f5844.webp",
       "media_type": "image/webp",
       "bytes": 141078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/79451a9a-ad24-4b17-869d-4790273cb7e9/je/2000xxs.jpg",
       "file": "img-9e56ec863bd9.webp",
       "media_type": "image/webp",
       "bytes": 194066,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/c8def2dc-a926-4bf7-b354-6287f227182d/je/2000xxs.jpg",
       "file": "img-d0c47ef65866.webp",
       "media_type": "image/webp",
       "bytes": 165176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/14333c87-d4bc-44e6-9b4a-8a035fe8bb12/je/2000xxs.jpg",
       "file": "img-0f3d9d60e576.webp",
       "media_type": "image/webp",
       "bytes": 72134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/77d69809-e89b-4d7c-8930-3477047ea519/je/2000xxs.jpg",
       "file": "img-43678d450e92.webp",
       "media_type": "image/webp",
       "bytes": 158058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/0e8f98e7-17d0-4e18-b5ff-6ce2e5d0543e/je/2000xxs.jpg",
       "file": "img-a610442f785b.webp",
       "media_type": "image/webp",
       "bytes": 168112,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/79d6ec1b-6df5-4e97-a140-0ed7a4fef383/je/2000xxs.jpg",
       "file": "img-dc96dfe3f407.webp",
       "media_type": "image/webp",
       "bytes": 91352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/23b2b815-52e3-4969-926c-4a80af100de7/je/2000xxs.jpg",
       "file": "img-2ab493066315.webp",
       "media_type": "image/webp",
       "bytes": 155238,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/555f5092-e839-46fe-b1c1-f784c33e20ef/je/2000xxs.jpg",
       "file": "img-1f76c339211e.webp",
       "media_type": "image/webp",
       "bytes": 91062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/34d22a3c-7501-4458-9a7b-3035d532fe78/je/2000xxs.jpg",
       "file": "img-6dcc934ece0e.webp",
       "media_type": "image/webp",
       "bytes": 98144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/149ac1d5-861e-476b-802c-af8e62cd3f47/je/2000xxs.jpg",
       "file": "img-79bca3679254.webp",
       "media_type": "image/webp",
       "bytes": 205820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b8eb1bb7-8c33-4773-b911-c588b89b5d08/je/2000xxs.jpg",
       "file": "img-75a307229007.webp",
       "media_type": "image/webp",
       "bytes": 226020,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/6738bdb9-0beb-466a-a526-515bf5582629/je/2000xxs.jpg",
       "file": "img-c1ebf578f105.webp",
       "media_type": "image/webp",
       "bytes": 270158,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/8a9f1dfd-e2fc-4460-841a-8f6290376d88/je/2000xxs.jpg",
       "file": "img-224086c78771.webp",
       "media_type": "image/webp",
       "bytes": 138754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b7b6bb9b-5d71-48c8-9333-03145c0fb1f2/je/2000xxs.jpg",
       "file": "img-029e28de6aa6.webp",
       "media_type": "image/webp",
       "bytes": 136558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/28f56ef6-a95d-4e70-abe9-d604ab59f855/je/2000xxs.jpg",
       "file": "img-537222bf3d7c.webp",
       "media_type": "image/webp",
       "bytes": 285058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/436dd4dc-6acc-43c4-92be-8d44a332690f/je/2000xxs.jpg",
       "file": "img-c364f0cf2aa8.webp",
       "media_type": "image/webp",
       "bytes": 197476,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/4689bd47-71cf-46ee-bb7b-513f85d2289e/je/2000xxs.jpg",
       "file": "img-9f47f960a757.webp",
       "media_type": "image/webp",
       "bytes": 183586,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/4fd05935-b85c-4090-b0b9-1bb6f525e462/je/2000xxs.jpg",
       "file": "img-b31ea4303b0e.webp",
       "media_type": "image/webp",
       "bytes": 177096,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/4098151e-321f-443a-8815-221916e56eba/je/2000xxs.jpg",
       "file": "img-3d7cb0aa8099.webp",
       "media_type": "image/webp",
       "bytes": 191764,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a32fe487-855a-43c1-92eb-9e3505b445d9/je/2000xxs.jpg",
       "file": "img-dc638812b398.webp",
       "media_type": "image/webp",
       "bytes": 122358,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d5172759-e28e-4ea3-bd6e-3c9a295c5d88/je/2000xxs.jpg",
       "file": "img-db1728a724c3.webp",
       "media_type": "image/webp",
       "bytes": 125710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/1ee57df4-c2ea-4508-85b6-d00b2a16abff/je/2000xxs.jpg",
       "file": "img-0c9053882f1d.webp",
       "media_type": "image/webp",
       "bytes": 125540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ca8c00b3-5ee6-4fd5-824a-dc1c29317df5/je/2000xxs.jpg",
       "file": "img-b01a03d0c532.webp",
       "media_type": "image/webp",
       "bytes": 145340,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/7dc16dfa-3303-4751-b02b-cf5bc8bdf686/je/2000xxs.jpg",
       "file": "img-a176d944abec.webp",
       "media_type": "image/webp",
       "bytes": 87632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a067d036-ae68-4af9-9007-c3afece9d2e4/je/2000xxs.jpg",
       "file": "img-e9f746bc0860.webp",
       "media_type": "image/webp",
       "bytes": 164902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/0587d32b-2268-48b0-9006-55bc31de59cf/je/2000xxs.jpg",
       "file": "img-4868bbd08bad.webp",
       "media_type": "image/webp",
       "bytes": 104002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/388a47dc-ecbe-4da3-8b81-3869fb669877/je/2000xxs.jpg",
       "file": "img-69c40c277d93.webp",
       "media_type": "image/webp",
       "bytes": 139464,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/1ef18841-d82e-4c2d-95d0-6f1b3b0bdd6b/je/2000xxs.jpg",
       "file": "img-a90b12397f67.webp",
       "media_type": "image/webp",
       "bytes": 178834,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/2df8144c-6d70-4cf4-83da-d914ac3cfe3d/je/2000xxs.jpg",
       "file": "img-324da263fc81.webp",
       "media_type": "image/webp",
       "bytes": 241522,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/4ad9bd66-d608-4843-bc6e-42d708612d03/je/2000xxs.jpg",
       "file": "img-a8a35468b73e.webp",
       "media_type": "image/webp",
       "bytes": 238158,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/9d3e3b05-9940-4a4f-8abc-2b6c9f090148/je/2000xxs.jpg",
       "file": "img-517cb46be98b.webp",
       "media_type": "image/webp",
       "bytes": 138772,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ca9f0729-35ea-415b-bb18-9aa2929eaaeb/je/2000xxs.jpg",
       "file": "img-483684fe9793.webp",
       "media_type": "image/webp",
       "bytes": 146780,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d0be55f3-9f37-490c-824c-8e4c51b5f756/je/2000xxs.jpg",
       "file": "img-c926f9af0d02.webp",
       "media_type": "image/webp",
       "bytes": 119726,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5f1a1e9c-8381-4713-8710-a316953d62eb/je/2000xxs.jpg",
       "file": "img-17b233ea67aa.webp",
       "media_type": "image/webp",
       "bytes": 147868,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/06821360-b935-42f1-85d7-96d2d7144cb3/je/2000xxs.jpg",
       "file": "img-7af0b53e6530.webp",
       "media_type": "image/webp",
       "bytes": 176724,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/0cba8dc7-ded6-4e07-8e5b-c762d26d283a/je/2000xxs.jpg",
       "file": "img-38cf98cfb4d6.webp",
       "media_type": "image/webp",
       "bytes": 104400,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/6ea93f1e-91b5-4f8d-b2d7-d4c85fd287f1/je/2000xxs.jpg",
       "file": "img-919233e3078a.webp",
       "media_type": "image/webp",
       "bytes": 86780,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/4da06cd8-674d-4202-809b-ef3ba54ee802/je/2000xxs.jpg",
       "file": "img-b6cf48a5b0e4.webp",
       "media_type": "image/webp",
       "bytes": 103228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/064765e0-2165-44b8-afc2-914a3480988b/je/2000xxs.jpg",
       "file": "img-f26d0dbc2acf.webp",
       "media_type": "image/webp",
       "bytes": 84274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ea8eea2e-0b52-4379-a437-bd309d389926/je/2000xxs.jpg",
       "file": "img-4b2bddc39329.webp",
       "media_type": "image/webp",
       "bytes": 99546,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/4ccd8354-0b8f-4074-bd70-46797abe6d9f/je/2000xxs.jpg",
       "file": "img-58c2504244fe.webp",
       "media_type": "image/webp",
       "bytes": 102982,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b905acc2-8c36-47d5-9aa7-423eddc105ee/je/2000xxs.jpg",
       "file": "img-86abcab423f3.webp",
       "media_type": "image/webp",
       "bytes": 179116,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/1981b552-9409-4b85-9603-163604342e45/je/2000xxs.jpg",
       "file": "img-c47e7bdb67e2.webp",
       "media_type": "image/webp",
       "bytes": 195642,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/414e097b-e92d-4e24-8597-4282bd4fa5e6/je/2000xxs.jpg",
       "file": "img-161d62d63b46.webp",
       "media_type": "image/webp",
       "bytes": 154810,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b3ca39b0-f84a-41bf-9ccc-47e2c8d13515/je/2000xxs.jpg",
       "file": "img-281a474cccd6.webp",
       "media_type": "image/webp",
       "bytes": 297490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/20d71226-a3a8-4a43-938b-11c39f910bbc/je/2000xxs.jpg",
       "file": "img-277fb8aa6e65.webp",
       "media_type": "image/webp",
       "bytes": 231752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/f1fdc648-415c-4f21-9374-22c3d1c6076d/je/2000xxs.jpg",
       "file": "img-42eecbc1306d.webp",
       "media_type": "image/webp",
       "bytes": 182180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ff3be737-2c03-4c8d-8dc5-128113baf780/je/2000xxs.jpg",
       "file": "img-5316a2a074aa.webp",
       "media_type": "image/webp",
       "bytes": 199836,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/359ee4e0-2a0f-42d5-a2bc-e50b7efff119/je/2000xxs.jpg",
       "file": "img-a1217a503d3b.webp",
       "media_type": "image/webp",
       "bytes": 199906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/4d0c7b5b-f303-4551-b7be-73541d8d2dd4/je/2000xxs.jpg",
       "file": "img-2406f62b371e.webp",
       "media_type": "image/webp",
       "bytes": 70754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/517661c0-8aa8-4446-8682-cae6dbd1bb3b/je/2000xxs.jpg",
       "file": "img-a0142affb913.webp",
       "media_type": "image/webp",
       "bytes": 144698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/c9d863da-83fd-4ab3-b780-e95873272faa/je/2000xxs.jpg",
       "file": "img-bc8a34b3b32a.webp",
       "media_type": "image/webp",
       "bytes": 117442,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ca969f1a-c767-4b5a-9de2-d6d822c548e8/je/2000xxs.jpg",
       "file": "img-d71e7b23e1cf.webp",
       "media_type": "image/webp",
       "bytes": 808148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/f9a39a8e-17d8-45b6-adb7-5a11c926f27d/je/2000xxs.jpg",
       "file": "img-aef88bbf720a.webp",
       "media_type": "image/webp",
       "bytes": 920762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/88b6ccc8-d203-4ea7-8a4e-978dba5794ce/je/2000xxs.jpg",
       "file": "img-6ca8d0985ffc.webp",
       "media_type": "image/webp",
       "bytes": 417136,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/41dc2292-a717-4beb-b896-031d4f5dbae9/je/2000xxs.jpg",
       "file": "img-270674cd2ed9.webp",
       "media_type": "image/webp",
       "bytes": 320062,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/0e18e40a-ce81-48be-bda2-4e928d31b39f/je/2000xxs.jpg",
       "file": "img-24143cb2f15b.webp",
       "media_type": "image/webp",
       "bytes": 532162,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a46421aa-7e7a-4905-a71b-87a71da13580/je/2000xxs.jpg",
       "file": "img-b1979b0c157d.webp",
       "media_type": "image/webp",
       "bytes": 345270,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/34ba90b8-f6e7-470f-b220-1c714d379144/je/2000xxs.jpg",
       "file": "img-063d35ece8bd.webp",
       "media_type": "image/webp",
       "bytes": 338524,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/25b6b376-ddc4-4638-b56c-3601b19301f0/je/2000xxs.jpg",
       "file": "img-598fbdd8c591.webp",
       "media_type": "image/webp",
       "bytes": 293748,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/2200xxs%2828%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-7a5dd06005d9.webp",
+      "media_type": "image/webp",
+      "bytes": 148074,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/2200xxs%2829%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "file": "img-063abfabfbcb.webp",
+      "media_type": "image/webp",
+      "bytes": 145840,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/2200xxs%2830%29.jpg",
+      "file": "img-1a60d9f4ab3d.webp",
+      "media_type": "image/webp",
+      "bytes": 306634,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -881,6 +1000,93 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/2200xxs%2830%29.jpg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/franklin-tn-usa/Single%20Family%20Residence%20In%20Franklin%20In%20Franklin,%20Tennessee,%20United%20States%20For%20Sale%20%2818387209%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/b361936b-2475-4a29-8a1c-645d651a50d6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/a0efc51a-cfac-498c-8192-8d56456f1fa3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/5648cb2d-7804-41e8-94e9-bb1b10a89410/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/d807d379-cd9a-4c2e-a4c9-f7d051f77102/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/09/08/49/49/ef0ff685-5e5f-41f1-8a72-4c372be11d94/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 };

@@ -8,7 +8,7 @@
     "listing_reference": "2BXNQD",
     "first_listed": "Oct 10, 2025",
     "last_updated": "November 27, 2025",
-    "retrieved_at": "2026-08-28T00:28:10.832418Z"
+    "retrieved_at": "2026-09-28T00:19:53.071999Z"
   },
   "location": {
     "address": "Yokosuka, 14 240-0105, Kanagawa, Japan",
@@ -64,100 +64,197 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/2200xxs.jpg",
       "file": "img-9e02b02bab3a.webp",
       "media_type": "image/webp",
       "bytes": 145204,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/1100xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/2200xxs.jpg",
       "file": "img-fec476ce34b4.webp",
       "media_type": "image/webp",
       "bytes": 85248,
-      "status": "new"
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/1100xxs%281%29.jpg",
+      "file": "img-6a1e25dcadba.webp",
+      "media_type": "image/webp",
+      "bytes": 148308,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/2200xxs.jpg",
       "file": "img-ed0f25b96ae3.webp",
       "media_type": "image/webp",
       "bytes": 98568,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/2200xxs.jpg",
       "file": "img-0728838f1d26.webp",
       "media_type": "image/webp",
       "bytes": 94816,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/2200xxs.jpg",
       "file": "img-9657f42da8cf.webp",
       "media_type": "image/webp",
       "bytes": 65048,
-      "status": "new"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-9e24ba56f51f.webp",
+      "media_type": "image/webp",
+      "bytes": 3180,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-2ff6c86e27c8.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-d9f99db87216.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-c0ad34b839e1.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 242248,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-1fe0691b104e.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 329892,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-d014c991c11b.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 315328,
+      "status": "new"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/4a37da1c-353f-413d-befd-3f76ff689ea7/je/2000xxs.jpg",
-      "file": "img-6a1e25dcadba.webp",
-      "media_type": "image/webp",
-      "bytes": 148308,
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/2000xxs.jpg",
+      "file": "img-a3834d4877ef.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 242248,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/2000xxs.jpg",
+      "file": "img-dac909ea4922.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 242248,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/2000xxs.jpg",
+      "file": "img-7fd9ca1d6f40.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 242248,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/2000xxs.jpg",
+      "file": "img-c39e6e9761d4.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 242248,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/2000xxs.jpg",
+      "file": "img-43881a1847b5.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 242248,
       "status": "new"
     },
     {
@@ -165,69 +262,69 @@
       "file": "img-ebe091ce86bd.webp",
       "media_type": "image/webp",
       "bytes": 121546,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/e51c578f-dbc0-4a9e-a3b4-db29bb45f73b/je/2000xxs.jpg",
       "file": "img-2eb87e5b4b30.webp",
       "media_type": "image/webp",
       "bytes": 236766,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/cdde8609-7a9a-490f-aea7-fb9597abad10/je/2000xxs.jpg",
       "file": "img-cccf4809e093.webp",
       "media_type": "image/webp",
       "bytes": 190654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fdce6326-38fc-465b-8912-4f38617220c0/je/2000xxs.jpg",
       "file": "img-2abcb1adefcf.webp",
       "media_type": "image/webp",
       "bytes": 161398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/11799c41-0af6-4885-8f41-8420ffb93497/je/2000xxs.jpg",
       "file": "img-122ad6dc5f2c.webp",
       "media_type": "image/webp",
       "bytes": 50314,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/e007e58e-87ba-41b6-bbe3-a7e1d7ccb912/je/2000xxs.jpg",
       "file": "img-9fc22e88c9ad.webp",
       "media_type": "image/webp",
       "bytes": 156044,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/2200xxsxm%2811%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -406,6 +503,63 @@
     "image https://www.jamesedition.com/real_estate/yokosuka-japan/Akiya%20Private%20Ocean%20View%20House%20In%20Yokosuka,%20Kanagawa,%20Japan%20For%20Sale%20%2816365885%29_files/2200xxsxm%2811%29.jpg: HTTP 429 Too Many Requests",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/1cd8f72c-401c-4a67-b768-f1a95f27cf76/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/fd34ca89-9e7b-4b67-bac0-d216017d9bff/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/def4404f-4616-41ff-a383-3a5cf8753ad2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/96dbd8a8-406c-445d-839b-3e3536b753b2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/12/10/56/c4e0a7aa-6903-449b-80c8-592cff62a46d/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 }

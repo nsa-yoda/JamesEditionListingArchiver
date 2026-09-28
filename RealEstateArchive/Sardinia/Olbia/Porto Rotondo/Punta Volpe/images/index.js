@@ -38,7 +38,17 @@ window.listingArchiveIndex = {
       "name": "img-d3173ac0196f.webp",
       "href": "img-d3173ac0196f.webp",
       "size": 745130
+    },
+    {
+      "name": "img-dddd47aaad22.webp",
+      "href": "img-dddd47aaad22.webp",
+      "size": 6300
+    },
+    {
+      "name": "img-fbdb14c85138.png",
+      "href": "img-fbdb14c85138.png",
+      "size": 8627
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:22:24.624238Z"
 };

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:17:33.701498Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845-se-7th-street-fort-lauderdale-fl-16479081",
     "canonical_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845-se-7th-street-fort-lauderdale-fl-16479081",
@@ -9,13 +9,13 @@
     "listing_reference": "F10526453",
     "first_listed": "Oct 23, 2025",
     "last_updated": "November 5, 2025",
-    "retrieved_at": "2026-06-18T07:05:34.392871Z"
+    "retrieved_at": "2026-09-28T00:17:33.178221Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 2128,
-      "sha256": "49621480215ee8939f42bd434d0a75f03c37ba1422e03c0276e31cb791d64ec8"
+      "bytes": 2129,
+      "sha256": "073b35e37efbec1fc129bc8b59e746b47e162bfc6de2a1332cb2ea1bf612d4dd"
     },
     {
       "path": "images/004-3e30d977.webp",
@@ -63,9 +63,54 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-0242881ffa59.webp",
+      "bytes": 180790,
+      "sha256": "e95c1d6370b1bfd0157dacc1420ad679ca354c08047f6153d092917dfc03ec21"
+    },
+    {
+      "path": "images/img-4715cfb84190.webp",
+      "bytes": 218548,
+      "sha256": "00423d2b73941595f3be28872b671adde6777d2fe4102d6f7d0f79a5f595acc2"
+    },
+    {
+      "path": "images/img-773338dc8e4e.webp",
+      "bytes": 361292,
+      "sha256": "2a28e063d980400bf5d1066b4d72867bb8384259bdf66abc4b65acd5f1f798df"
+    },
+    {
+      "path": "images/img-7b891105f61c.webp",
+      "bytes": 5786,
+      "sha256": "e7efb6a7a42704271a453c4fe4b7cc8bfc18369d98687606d5e1e147b748ade5"
+    },
+    {
+      "path": "images/img-9106792241e8.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-b1370cb25098.webp",
+      "bytes": 254980,
+      "sha256": "28563fd1dd1ac28854af668aae3dada5d4bf22b916269e0739af6b98fb2a535e"
+    },
+    {
+      "path": "images/img-cb5f7376db8d.webp",
+      "bytes": 242604,
+      "sha256": "5e3989dc8b2431a4b751441bfd35cb8c8f051a698381910884ba1e92677070d0"
+    },
+    {
+      "path": "images/img-fd0be853bd0f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-feeb22c1add9.webp",
+      "bytes": 265888,
+      "sha256": "d3343162eef28a85c95b55942b93a6dfe8d2e8c2a878b1c449cc024124ee91a0"
+    },
+    {
       "path": "listing.json",
-      "bytes": 19221,
-      "sha256": "58939a2f9e8c5b454f513a6772b3d20f59a306196309607193b9d651c72303d6"
+      "bytes": 49974,
+      "sha256": "f5ea207ffef374b938a2c795adf2fe2a33346481a5bb9b5aeb6cf0732e4164d3"
     },
     {
       "path": "source.html",
@@ -81,6 +126,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/2200xxs.jpg",
       "path": "images/004-3e30d977.webp",
       "media_type": "image/webp",
@@ -90,7 +153,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/221ced63-aae3-4bec-b85f-9ece9c6160c9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/221ced63-aae3-4bec-b85f-9ece9c6160c9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/221ced63-aae3-4bec-b85f-9ece9c6160c9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/221ced63-aae3-4bec-b85f-9ece9c6160c9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/221ced63-aae3-4bec-b85f-9ece9c6160c9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/221ced63-aae3-4bec-b85f-9ece9c6160c9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +185,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/d7c6aaf3-514e-45e1-90d4-51cec56bb08a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/d7c6aaf3-514e-45e1-90d4-51cec56bb08a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/d7c6aaf3-514e-45e1-90d4-51cec56bb08a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/d7c6aaf3-514e-45e1-90d4-51cec56bb08a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/d7c6aaf3-514e-45e1-90d4-51cec56bb08a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/d7c6aaf3-514e-45e1-90d4-51cec56bb08a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +217,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/7f817121-3c63-4b16-b142-1124e13dffc2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/7f817121-3c63-4b16-b142-1124e13dffc2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/7f817121-3c63-4b16-b142-1124e13dffc2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/7f817121-3c63-4b16-b142-1124e13dffc2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/7f817121-3c63-4b16-b142-1124e13dffc2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/7f817121-3c63-4b16-b142-1124e13dffc2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +249,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/bc3ed74c-8279-47d2-8529-2638a3f84de0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/bc3ed74c-8279-47d2-8529-2638a3f84de0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/bc3ed74c-8279-47d2-8529-2638a3f84de0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/bc3ed74c-8279-47d2-8529-2638a3f84de0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/bc3ed74c-8279-47d2-8529-2638a3f84de0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/bc3ed74c-8279-47d2-8529-2638a3f84de0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,52 +281,86 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7b891105f61c.webp",
+      "media_type": "image/webp",
+      "bytes": 5786,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9106792241e8.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-fd0be853bd0f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-cb5f7376db8d.webp",
+      "media_type": "image/webp",
+      "bytes": 242604,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0242881ffa59.webp",
+      "media_type": "image/webp",
+      "bytes": 180790,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-feeb22c1add9.webp",
+      "media_type": "image/webp",
+      "bytes": 265888,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b1370cb25098.webp",
+      "media_type": "image/webp",
+      "bytes": 254980,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4715cfb84190.webp",
+      "media_type": "image/webp",
+      "bytes": 218548,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/fort-lauderdale-fl-usa/1845%20Se%207th%20Street,%20Fort%20Lauderdale,%20In%20Fort%20Lauderdale,%20Florida,%20United%20States%20For%20Sale%20%2816479081%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-773338dc8e4e.webp",
+      "media_type": "image/webp",
+      "bytes": 361292,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/23/16/02/44/1c98eb68-fa27-48ef-95a7-d03f06570570/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -223,9 +396,9 @@
     }
   ],
   "summary": {
-    "images_new": 14,
+    "images_new": 9,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

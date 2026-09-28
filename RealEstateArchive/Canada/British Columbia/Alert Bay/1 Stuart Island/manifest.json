@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:58.341347Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/stuart-island-canada/extraordinary-120-acre-oceanfront-property-on-stuart-island-16758562",
     "canonical_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/extraordinary-120-acre-oceanfront-property-on-stuart-island-16758562",
@@ -9,13 +9,13 @@
     "listing_reference": "1021346",
     "first_listed": "Dec 6, 2025",
     "last_updated": "June 19",
-    "retrieved_at": "2026-08-28T00:28:36.95898Z"
+    "retrieved_at": "2026-09-28T00:20:57.978848Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3640,
-      "sha256": "8ff92a4a6fa86c205db8b421bc77ed6f356cf3623846c4357ad51fae8543595e"
+      "sha256": "f3772fb97bf88cef1ca6ea4ed920a4fca7438d7ed6ac65d3e501030b0174264c"
     },
     {
       "path": "images/img-047bbf602717.webp",
@@ -31,6 +31,11 @@
       "path": "images/img-089579bdd8ec.webp",
       "bytes": 355882,
       "sha256": "c17204e6acfa5056535c1f37dd7199d5477230a798ffa46bbb7b739c81724350"
+    },
+    {
+      "path": "images/img-090cc44ddf00.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-0af06d5248d8.webp",
@@ -76,6 +81,11 @@
       "path": "images/img-19c60ad4341a.webp",
       "bytes": 396784,
       "sha256": "737c5785720b5ae0679d755923de4266f6085305dded02dd1fe33dc82c13d1d5"
+    },
+    {
+      "path": "images/img-25bdde03d6ca.webp",
+      "bytes": 5124,
+      "sha256": "da5452aa623e86d657e48b32f513177e9099dcfb9a36f761496590d0d85a175b"
     },
     {
       "path": "images/img-27c17e0bbcd7.webp",
@@ -256,6 +266,11 @@
       "path": "images/img-8055591afc68.webp",
       "bytes": 421488,
       "sha256": "fcd67ade31b17aedce9d770b9b38b103296846fbb8f2c74f4a08d4c4a78f88ab"
+    },
+    {
+      "path": "images/img-844f19479e9f.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-8497f00bf619.webp",
@@ -489,8 +504,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 46902,
-      "sha256": "40a5735f6a99bbfe2c7cbcb485426a583ee2f2e00f2c2b9bcd8153b63a0e448f"
+      "bytes": 78719,
+      "sha256": "bc17e90091d4000dc8f226d78ff3b0c43ed0797afe05cbe97bb72a8892c20b89"
     },
     {
       "path": "source.html",
@@ -506,17 +521,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/2200xxs.jpg",
       "path": "images/img-f17b8bf80609.webp",
       "media_type": "image/webp",
       "bytes": 241894,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ec807fbd-ff49-491c-9db7-3167b1653456/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ec807fbd-ff49-491c-9db7-3167b1653456/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ec807fbd-ff49-491c-9db7-3167b1653456/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ec807fbd-ff49-491c-9db7-3167b1653456/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ec807fbd-ff49-491c-9db7-3167b1653456/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ec807fbd-ff49-491c-9db7-3167b1653456/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -524,13 +575,31 @@
       "path": "images/img-27c17e0bbcd7.webp",
       "media_type": "image/webp",
       "bytes": 414778,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aecf688a-c768-4ba1-9264-3db368328426/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aecf688a-c768-4ba1-9264-3db368328426/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aecf688a-c768-4ba1-9264-3db368328426/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aecf688a-c768-4ba1-9264-3db368328426/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aecf688a-c768-4ba1-9264-3db368328426/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/aecf688a-c768-4ba1-9264-3db368328426/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -538,13 +607,31 @@
       "path": "images/img-188eef8651ae.webp",
       "media_type": "image/webp",
       "bytes": 227392,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ca78cee1-3853-4c95-8ca1-5934cb22b878/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ca78cee1-3853-4c95-8ca1-5934cb22b878/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ca78cee1-3853-4c95-8ca1-5934cb22b878/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ca78cee1-3853-4c95-8ca1-5934cb22b878/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ca78cee1-3853-4c95-8ca1-5934cb22b878/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ca78cee1-3853-4c95-8ca1-5934cb22b878/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -552,13 +639,31 @@
       "path": "images/img-12df44fcb8d5.webp",
       "media_type": "image/webp",
       "bytes": 252582,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e9bbfd87-6a4c-4e43-9a73-8dc1df2bd81f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e9bbfd87-6a4c-4e43-9a73-8dc1df2bd81f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e9bbfd87-6a4c-4e43-9a73-8dc1df2bd81f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e9bbfd87-6a4c-4e43-9a73-8dc1df2bd81f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e9bbfd87-6a4c-4e43-9a73-8dc1df2bd81f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e9bbfd87-6a4c-4e43-9a73-8dc1df2bd81f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -566,107 +671,77 @@
       "path": "images/img-55d783f2d2ac.webp",
       "media_type": "image/webp",
       "bytes": 281260,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-25bdde03d6ca.webp",
+      "media_type": "image/webp",
+      "bytes": 5124,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-090cc44ddf00.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-844f19479e9f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-77821cd7ab50.webp",
+      "media_type": "image/webp",
+      "bytes": 248658,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-ccf5781417d9.webp",
+      "media_type": "image/webp",
+      "bytes": 217676,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-3698f37afed3.webp",
+      "media_type": "image/webp",
+      "bytes": 156212,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-8497f00bf619.webp",
+      "media_type": "image/webp",
+      "bytes": 92088,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/e0e49fc4-d54d-4986-a5ed-7ab635380f76/je/2000xxs.jpg",
-      "path": "images/img-77821cd7ab50.webp",
-      "media_type": "image/webp",
-      "bytes": 248658,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/f8d8480a-331d-491e-a78e-8d46e62a6b41/je/2000xxs.jpg",
-      "path": "images/img-ccf5781417d9.webp",
-      "media_type": "image/webp",
-      "bytes": 217676,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/9b8fc7e4-d076-4188-b51f-e6f9eb29f92b/je/2000xxs.jpg",
-      "path": "images/img-3698f37afed3.webp",
-      "media_type": "image/webp",
-      "bytes": 156212,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/614a7460-7e5a-485f-81aa-982c0afe7669/je/2000xxs.jpg",
-      "path": "images/img-8497f00bf619.webp",
-      "media_type": "image/webp",
-      "bytes": 92088,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/2bddae56-9363-4383-9269-f1eda3fe4e6b/je/2000xxs.jpg",
       "path": "images/img-cf19b0fdfca4.webp",
       "media_type": "image/webp",
       "bytes": 142930,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -674,7 +749,7 @@
       "path": "images/img-dc5d74306dda.webp",
       "media_type": "image/webp",
       "bytes": 281920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -682,7 +757,7 @@
       "path": "images/img-b86b4fd0560f.webp",
       "media_type": "image/webp",
       "bytes": 401922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -690,7 +765,7 @@
       "path": "images/img-3e6f6ea4f8a5.webp",
       "media_type": "image/webp",
       "bytes": 377150,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -698,7 +773,7 @@
       "path": "images/img-438ce1c32c1c.webp",
       "media_type": "image/webp",
       "bytes": 353536,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -706,7 +781,7 @@
       "path": "images/img-8055591afc68.webp",
       "media_type": "image/webp",
       "bytes": 421488,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -714,7 +789,7 @@
       "path": "images/img-fb3bc04f13e0.webp",
       "media_type": "image/webp",
       "bytes": 238324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -722,7 +797,7 @@
       "path": "images/img-cdb964fc42a5.webp",
       "media_type": "image/webp",
       "bytes": 285134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -730,7 +805,7 @@
       "path": "images/img-047bbf602717.webp",
       "media_type": "image/webp",
       "bytes": 489604,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -738,7 +813,7 @@
       "path": "images/img-d67394914415.webp",
       "media_type": "image/webp",
       "bytes": 135266,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -746,7 +821,7 @@
       "path": "images/img-2aa2ca6f9d06.webp",
       "media_type": "image/webp",
       "bytes": 277808,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -754,7 +829,7 @@
       "path": "images/img-c69ca07324c9.webp",
       "media_type": "image/webp",
       "bytes": 331006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -762,7 +837,7 @@
       "path": "images/img-db7558e71658.webp",
       "media_type": "image/webp",
       "bytes": 437708,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -770,7 +845,7 @@
       "path": "images/img-e841029b7b47.webp",
       "media_type": "image/webp",
       "bytes": 488782,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -778,7 +853,7 @@
       "path": "images/img-868f7ffdb3d3.webp",
       "media_type": "image/webp",
       "bytes": 501376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -786,7 +861,7 @@
       "path": "images/img-aa7950e57eb8.webp",
       "media_type": "image/webp",
       "bytes": 414826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -794,7 +869,7 @@
       "path": "images/img-e094db9db791.webp",
       "media_type": "image/webp",
       "bytes": 175508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -802,7 +877,7 @@
       "path": "images/img-eab98602f1b1.webp",
       "media_type": "image/webp",
       "bytes": 171714,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -810,7 +885,7 @@
       "path": "images/img-19c60ad4341a.webp",
       "media_type": "image/webp",
       "bytes": 396784,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -818,7 +893,7 @@
       "path": "images/img-2947b9207fe3.webp",
       "media_type": "image/webp",
       "bytes": 467368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -826,7 +901,7 @@
       "path": "images/img-3b46fb16195c.webp",
       "media_type": "image/webp",
       "bytes": 348104,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -834,7 +909,7 @@
       "path": "images/img-dee233a04ea2.webp",
       "media_type": "image/webp",
       "bytes": 364202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -842,7 +917,7 @@
       "path": "images/img-0c1d6f86123c.webp",
       "media_type": "image/webp",
       "bytes": 504432,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -850,7 +925,7 @@
       "path": "images/img-a156852e247f.webp",
       "media_type": "image/webp",
       "bytes": 499938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -858,7 +933,7 @@
       "path": "images/img-5e5a5f8243db.webp",
       "media_type": "image/webp",
       "bytes": 404672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -866,7 +941,7 @@
       "path": "images/img-6367c1ccacef.webp",
       "media_type": "image/webp",
       "bytes": 237100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -874,7 +949,7 @@
       "path": "images/img-2ae4e0417d21.webp",
       "media_type": "image/webp",
       "bytes": 223760,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -882,7 +957,7 @@
       "path": "images/img-c341ba2f8102.webp",
       "media_type": "image/webp",
       "bytes": 279032,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -890,7 +965,7 @@
       "path": "images/img-dfe43b7d9889.webp",
       "media_type": "image/webp",
       "bytes": 217516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -898,7 +973,7 @@
       "path": "images/img-39c167951f6f.webp",
       "media_type": "image/webp",
       "bytes": 214812,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -906,7 +981,7 @@
       "path": "images/img-3fb328d58370.webp",
       "media_type": "image/webp",
       "bytes": 175962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -914,7 +989,7 @@
       "path": "images/img-f2717ef6f600.webp",
       "media_type": "image/webp",
       "bytes": 161510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -922,7 +997,7 @@
       "path": "images/img-9ce4679989c1.webp",
       "media_type": "image/webp",
       "bytes": 173452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -930,7 +1005,7 @@
       "path": "images/img-1519e40dea97.webp",
       "media_type": "image/webp",
       "bytes": 193750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -938,7 +1013,7 @@
       "path": "images/img-a0a9cceb2ac8.webp",
       "media_type": "image/webp",
       "bytes": 185220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -946,7 +1021,7 @@
       "path": "images/img-ddbe0746d5f0.webp",
       "media_type": "image/webp",
       "bytes": 135142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -954,7 +1029,7 @@
       "path": "images/img-9721b8f44eb7.webp",
       "media_type": "image/webp",
       "bytes": 147360,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -962,7 +1037,7 @@
       "path": "images/img-42dd7417b461.webp",
       "media_type": "image/webp",
       "bytes": 153180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -970,7 +1045,7 @@
       "path": "images/img-b064dc2ad11f.webp",
       "media_type": "image/webp",
       "bytes": 188230,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -978,7 +1053,7 @@
       "path": "images/img-e94ec17791b2.webp",
       "media_type": "image/webp",
       "bytes": 177348,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -986,7 +1061,7 @@
       "path": "images/img-f4cacf8b64d1.webp",
       "media_type": "image/webp",
       "bytes": 134976,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -994,7 +1069,7 @@
       "path": "images/img-4541671bcf8a.webp",
       "media_type": "image/webp",
       "bytes": 118300,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1002,7 +1077,7 @@
       "path": "images/img-17788525f1e8.webp",
       "media_type": "image/webp",
       "bytes": 86602,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1010,7 +1085,7 @@
       "path": "images/img-669024032d15.webp",
       "media_type": "image/webp",
       "bytes": 294580,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1018,7 +1093,7 @@
       "path": "images/img-8fad1fd05ad7.webp",
       "media_type": "image/webp",
       "bytes": 187048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1026,7 +1101,7 @@
       "path": "images/img-78e254253b38.webp",
       "media_type": "image/webp",
       "bytes": 125468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1034,7 +1109,7 @@
       "path": "images/img-c0a335a329a2.webp",
       "media_type": "image/webp",
       "bytes": 172980,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1042,7 +1117,7 @@
       "path": "images/img-df6a4e27e3b3.webp",
       "media_type": "image/webp",
       "bytes": 136628,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1050,7 +1125,7 @@
       "path": "images/img-30182b29da5b.webp",
       "media_type": "image/webp",
       "bytes": 185322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1058,7 +1133,7 @@
       "path": "images/img-c13da1aa9f20.webp",
       "media_type": "image/webp",
       "bytes": 250586,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1066,7 +1141,7 @@
       "path": "images/img-e72487b80f92.webp",
       "media_type": "image/webp",
       "bytes": 210174,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1074,7 +1149,7 @@
       "path": "images/img-d5f9b7d74b74.webp",
       "media_type": "image/webp",
       "bytes": 178698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1082,7 +1157,7 @@
       "path": "images/img-05de7ca887a8.webp",
       "media_type": "image/webp",
       "bytes": 297652,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1090,7 +1165,7 @@
       "path": "images/img-75160a699694.webp",
       "media_type": "image/webp",
       "bytes": 463164,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1098,7 +1173,7 @@
       "path": "images/img-361d7117af3f.webp",
       "media_type": "image/webp",
       "bytes": 303992,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1106,7 +1181,7 @@
       "path": "images/img-d508d24810cc.webp",
       "media_type": "image/webp",
       "bytes": 359264,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1114,7 +1189,7 @@
       "path": "images/img-3ec9c40f74e7.webp",
       "media_type": "image/webp",
       "bytes": 485878,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1122,7 +1197,7 @@
       "path": "images/img-659b8f1fb703.webp",
       "media_type": "image/webp",
       "bytes": 284902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1130,7 +1205,7 @@
       "path": "images/img-5ef2af4ed438.webp",
       "media_type": "image/webp",
       "bytes": 424950,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1138,7 +1213,7 @@
       "path": "images/img-0af06d5248d8.webp",
       "media_type": "image/webp",
       "bytes": 438234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1146,7 +1221,7 @@
       "path": "images/img-ca70b5591a0e.webp",
       "media_type": "image/webp",
       "bytes": 227002,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1154,7 +1229,7 @@
       "path": "images/img-fd5bedc994cd.webp",
       "media_type": "image/webp",
       "bytes": 314084,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1162,7 +1237,7 @@
       "path": "images/img-97830eaf7d62.webp",
       "media_type": "image/webp",
       "bytes": 333222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1170,7 +1245,7 @@
       "path": "images/img-a00650625651.webp",
       "media_type": "image/webp",
       "bytes": 359944,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1178,7 +1253,7 @@
       "path": "images/img-3cd992248a56.webp",
       "media_type": "image/webp",
       "bytes": 190644,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1186,7 +1261,7 @@
       "path": "images/img-089579bdd8ec.webp",
       "media_type": "image/webp",
       "bytes": 355882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1194,7 +1269,7 @@
       "path": "images/img-fa99ac31cdaa.webp",
       "media_type": "image/webp",
       "bytes": 401840,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1202,7 +1277,7 @@
       "path": "images/img-4af94cc87add.webp",
       "media_type": "image/webp",
       "bytes": 290462,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1210,7 +1285,7 @@
       "path": "images/img-76e9f4471679.webp",
       "media_type": "image/webp",
       "bytes": 387258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1218,7 +1293,7 @@
       "path": "images/img-7102f0e663f8.webp",
       "media_type": "image/webp",
       "bytes": 357732,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1226,7 +1301,7 @@
       "path": "images/img-d6496abbe13c.webp",
       "media_type": "image/webp",
       "bytes": 405750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1234,7 +1309,7 @@
       "path": "images/img-62e11150ce8f.webp",
       "media_type": "image/webp",
       "bytes": 405866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1242,7 +1317,7 @@
       "path": "images/img-0e18769466c5.webp",
       "media_type": "image/webp",
       "bytes": 340342,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1250,7 +1325,7 @@
       "path": "images/img-b04083cae3dd.webp",
       "media_type": "image/webp",
       "bytes": 347014,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1258,7 +1333,7 @@
       "path": "images/img-3644040e46a9.webp",
       "media_type": "image/webp",
       "bytes": 319626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1266,7 +1341,7 @@
       "path": "images/img-d6eabc058b44.webp",
       "media_type": "image/webp",
       "bytes": 275156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1274,7 +1349,7 @@
       "path": "images/img-fb6f9a67789f.webp",
       "media_type": "image/webp",
       "bytes": 313566,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1282,7 +1357,7 @@
       "path": "images/img-3c9fa2a4c501.webp",
       "media_type": "image/webp",
       "bytes": 245550,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1290,7 +1365,7 @@
       "path": "images/img-0fc2ec62fe9c.webp",
       "media_type": "image/webp",
       "bytes": 323956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1298,7 +1373,7 @@
       "path": "images/img-79a8d07fb4a0.webp",
       "media_type": "image/webp",
       "bytes": 263456,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1306,7 +1381,7 @@
       "path": "images/img-989e4ba4ced2.webp",
       "media_type": "image/webp",
       "bytes": 328994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1314,7 +1389,7 @@
       "path": "images/img-9d7b91ab8bcf.webp",
       "media_type": "image/webp",
       "bytes": 223938,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1322,13 +1397,13 @@
       "path": "images/img-69cc289359a7.webp",
       "media_type": "image/webp",
       "bytes": 263674,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stuart-island-canada/Extraordinary%20120%20Acre%20Oceanfront%20In%20Alert%20Bay,%20British%20Columbia,%20Canada%20For%20Sale%20%2816758562%29_files/2200xxs%2891%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/05/14/34/25/ea8f9b4a-6736-4cea-96da-c24cd4611770/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1336,25 +1411,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1362,13 +1437,13 @@
       "path": "images/img-7b876bc3303c.webp",
       "media_type": "image/webp",
       "bytes": 1154,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 94,
-    "images_existing": 0,
-    "images_failed": 18,
+    "images_new": 3,
+    "images_existing": 94,
+    "images_failed": 24,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

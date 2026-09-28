@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:24:33.687362Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/residential-in-palmer-18176725",
     "canonical_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/residential-in-palmer-18176725",
@@ -9,13 +9,13 @@
     "listing_reference": "26-4676",
     "first_listed": "Jun 15",
     "last_updated": "June 15",
-    "retrieved_at": "2026-06-21T09:21:22.034821Z"
+    "retrieved_at": "2026-09-28T00:24:33.178552Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3024,
-      "sha256": "101ba583e08a99e349caa18633b5090d808853deafe15292bd98942fed1e0249"
+      "sha256": "5c133598077800d87707fbff0ca8ccfea7035d0d88e13f9d41710a566182d666"
     },
     {
       "path": "images/img-007d9b4e3111.webp",
@@ -31,6 +31,11 @@
       "path": "images/img-074e5e4de068.webp",
       "bytes": 188166,
       "sha256": "35545d2162bc4fe8e35aa6930f37b35c00f11f10dfd9167dd695b443dd41ff90"
+    },
+    {
+      "path": "images/img-0b535270075f.png",
+      "bytes": 14246,
+      "sha256": "2c81d84ba9b2ebbb594012e39ab31bdab7ef02e281105daee3713636ae0cfabb"
     },
     {
       "path": "images/img-127ad71d93fe.webp",
@@ -133,6 +138,11 @@
       "sha256": "27b99527b50816908f1f387174e8dae14a591871c85c2436e347664c5d3a4f05"
     },
     {
+      "path": "images/img-52d12cdba9ad.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-55e58f0b4edd.webp",
       "bytes": 575326,
       "sha256": "5cabe160980eec6db30d1b5573b9e9b5f597a8ab324a8fc53543652ad837b5e7"
@@ -218,6 +228,11 @@
       "sha256": "0ccb5674f533dbcd3d846639398ee95ae65ccd68d84743e92fbb4ed2e944f656"
     },
     {
+      "path": "images/img-b140af5e8b71.webp",
+      "bytes": 3598,
+      "sha256": "85de3b759e5c381701964a5daabfeeee2e6238a98b8b44cee8e6f55349a1a24b"
+    },
+    {
       "path": "images/img-b20f2a8dd8db.webp",
       "bytes": 62598,
       "sha256": "64d8c3f497ca0d9242152ba3d105ba2f6ba0c2986fa893ff24c3540f7e8f35cf"
@@ -288,6 +303,11 @@
       "sha256": "a3915c870e07923356576a74c5ba85c5e5ea6eae4b77354595919aa3b8c45cd3"
     },
     {
+      "path": "images/img-f793f58563ca.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-f8dc8a903c14.webp",
       "bytes": 334948,
       "sha256": "0fbe3b856e28bc6676ed0bcf08993de93cc0e524b04bb06f699f6669ab0bc956"
@@ -299,8 +319,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 31367,
-      "sha256": "bd8beb16169bf1ac78536f635438d93c61b32482b11fdcd9c473aeaefee27597"
+      "bytes": 66201,
+      "sha256": "4b408f385e6f14e7b219a2f05c11918de787588e8e57432802cd9704abc57703"
     },
     {
       "path": "source.html",
@@ -316,17 +336,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2200xxs.jpg",
       "path": "images/img-638585ece935.webp",
       "media_type": "image/webp",
       "bytes": 616408,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -334,13 +390,31 @@
       "path": "images/img-2a562ca23594.webp",
       "media_type": "image/webp",
       "bytes": 28366,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -348,13 +422,31 @@
       "path": "images/img-4947e5b36bb0.webp",
       "media_type": "image/webp",
       "bytes": 570488,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -362,13 +454,31 @@
       "path": "images/img-f8dc8a903c14.webp",
       "media_type": "image/webp",
       "bytes": 334948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -376,37 +486,75 @@
       "path": "images/img-c8db0f26adc2.webp",
       "media_type": "image/webp",
       "bytes": 105064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/M00000001.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0b535270075f.png",
+      "media_type": "image/png",
+      "bytes": 14246,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b140af5e8b71.webp",
+      "media_type": "image/webp",
+      "bytes": 3598,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-52d12cdba9ad.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-f793f58563ca.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -414,7 +562,7 @@
       "path": "images/img-461bfbeb2e1e.webp",
       "media_type": "image/webp",
       "bytes": 182902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -422,7 +570,7 @@
       "path": "images/img-d3ba127cf094.webp",
       "media_type": "image/webp",
       "bytes": 92214,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -430,7 +578,7 @@
       "path": "images/img-bb26ad57d482.webp",
       "media_type": "image/webp",
       "bytes": 136250,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -438,7 +586,7 @@
       "path": "images/img-b41c8f7b73e9.webp",
       "media_type": "image/webp",
       "bytes": 262512,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -446,7 +594,7 @@
       "path": "images/img-fd8da33c9acf.webp",
       "media_type": "image/webp",
       "bytes": 74226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -454,7 +602,7 @@
       "path": "images/img-c068a7c16c8f.webp",
       "media_type": "image/webp",
       "bytes": 644404,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -462,7 +610,7 @@
       "path": "images/img-aabe671a4aa5.webp",
       "media_type": "image/webp",
       "bytes": 180844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -470,7 +618,7 @@
       "path": "images/img-1f33f62eddc2.webp",
       "media_type": "image/webp",
       "bytes": 287552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -478,7 +626,7 @@
       "path": "images/img-a5aed0986da7.webp",
       "media_type": "image/webp",
       "bytes": 143592,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -486,7 +634,7 @@
       "path": "images/img-c621b0b2e16b.webp",
       "media_type": "image/webp",
       "bytes": 137994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -494,7 +642,7 @@
       "path": "images/img-e1f597e39f19.webp",
       "media_type": "image/webp",
       "bytes": 149482,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -502,7 +650,7 @@
       "path": "images/img-25deece38a5f.webp",
       "media_type": "image/webp",
       "bytes": 184098,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -510,7 +658,7 @@
       "path": "images/img-1684712af297.webp",
       "media_type": "image/webp",
       "bytes": 146278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -518,7 +666,7 @@
       "path": "images/img-4bd4830c4d5d.webp",
       "media_type": "image/webp",
       "bytes": 138844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -526,7 +674,7 @@
       "path": "images/img-33251227dc23.webp",
       "media_type": "image/webp",
       "bytes": 68422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -534,7 +682,7 @@
       "path": "images/img-15553b7d7544.webp",
       "media_type": "image/webp",
       "bytes": 77862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -542,7 +690,7 @@
       "path": "images/img-40a3eea688da.webp",
       "media_type": "image/webp",
       "bytes": 186430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -550,7 +698,7 @@
       "path": "images/img-2b590edba52a.webp",
       "media_type": "image/webp",
       "bytes": 110274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -558,7 +706,7 @@
       "path": "images/img-43b8230f9ca3.webp",
       "media_type": "image/webp",
       "bytes": 150552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -566,7 +714,7 @@
       "path": "images/img-074e5e4de068.webp",
       "media_type": "image/webp",
       "bytes": 188166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -574,7 +722,7 @@
       "path": "images/img-266d800ec371.webp",
       "media_type": "image/webp",
       "bytes": 354524,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -582,7 +730,7 @@
       "path": "images/img-72a3a9843f8f.webp",
       "media_type": "image/webp",
       "bytes": 113352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -590,7 +738,7 @@
       "path": "images/img-007d9b4e3111.webp",
       "media_type": "image/webp",
       "bytes": 87548,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -598,7 +746,7 @@
       "path": "images/img-5d49e0e1fead.webp",
       "media_type": "image/webp",
       "bytes": 71274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -606,7 +754,7 @@
       "path": "images/img-220b22c9459f.webp",
       "media_type": "image/webp",
       "bytes": 336594,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -614,7 +762,7 @@
       "path": "images/img-7f0daf36d329.webp",
       "media_type": "image/webp",
       "bytes": 297830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -622,7 +770,7 @@
       "path": "images/img-82aeae321688.webp",
       "media_type": "image/webp",
       "bytes": 122226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -630,7 +778,7 @@
       "path": "images/img-700e941c6d2a.webp",
       "media_type": "image/webp",
       "bytes": 246576,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -638,7 +786,7 @@
       "path": "images/img-aeb1989c59cc.webp",
       "media_type": "image/webp",
       "bytes": 252630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -646,7 +794,7 @@
       "path": "images/img-c1f47131fe4c.webp",
       "media_type": "image/webp",
       "bytes": 146386,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -654,7 +802,7 @@
       "path": "images/img-81caf73e578a.webp",
       "media_type": "image/webp",
       "bytes": 81104,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -662,7 +810,7 @@
       "path": "images/img-2a667f26f7a1.webp",
       "media_type": "image/webp",
       "bytes": 77194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -670,7 +818,7 @@
       "path": "images/img-b20f2a8dd8db.webp",
       "media_type": "image/webp",
       "bytes": 62598,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -678,7 +826,7 @@
       "path": "images/img-c1a844c3fc93.webp",
       "media_type": "image/webp",
       "bytes": 135968,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -686,7 +834,7 @@
       "path": "images/img-6c6b964b5af6.webp",
       "media_type": "image/webp",
       "bytes": 136750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -694,7 +842,7 @@
       "path": "images/img-657889a7f375.webp",
       "media_type": "image/webp",
       "bytes": 112104,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -702,7 +850,7 @@
       "path": "images/img-94c7a7834fab.webp",
       "media_type": "image/webp",
       "bytes": 790940,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -710,7 +858,7 @@
       "path": "images/img-15442e59ed39.webp",
       "media_type": "image/webp",
       "bytes": 30030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -718,7 +866,7 @@
       "path": "images/img-049c1b29d437.webp",
       "media_type": "image/webp",
       "bytes": 614410,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -726,7 +874,7 @@
       "path": "images/img-127ad71d93fe.webp",
       "media_type": "image/webp",
       "bytes": 625508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -734,7 +882,7 @@
       "path": "images/img-adad22a524a0.webp",
       "media_type": "image/webp",
       "bytes": 636368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -742,7 +890,7 @@
       "path": "images/img-3810a4458a8c.webp",
       "media_type": "image/webp",
       "bytes": 619316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -750,7 +898,7 @@
       "path": "images/img-d573fa6f143f.webp",
       "media_type": "image/webp",
       "bytes": 610608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -758,7 +906,7 @@
       "path": "images/img-a6146268239a.webp",
       "media_type": "image/webp",
       "bytes": 527916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -766,7 +914,7 @@
       "path": "images/img-55e58f0b4edd.webp",
       "media_type": "image/webp",
       "bytes": 575326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -774,7 +922,7 @@
       "path": "images/img-e318fe19bfcf.webp",
       "media_type": "image/webp",
       "bytes": 20728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -782,19 +930,13 @@
       "path": "images/img-c7ea1ca9a1cc.webp",
       "media_type": "image/webp",
       "bytes": 674634,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/2200xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -802,7 +944,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -810,7 +952,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -818,7 +960,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -826,13 +968,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 56,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 4,
+    "images_existing": 56,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

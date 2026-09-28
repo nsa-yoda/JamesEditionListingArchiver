@@ -35,9 +35,19 @@ window.listingArchiveIndex = {
       "size": 378658
     },
     {
+      "name": "img-8de244e113de.png",
+      "href": "img-8de244e113de.png",
+      "size": 767001
+    },
+    {
       "name": "img-9d96a773ee51.webp",
       "href": "img-9d96a773ee51.webp",
       "size": 347146
+    },
+    {
+      "name": "img-a3c9c5edf905.webp",
+      "href": "img-a3c9c5edf905.webp",
+      "size": 5674
     },
     {
       "name": "img-caf7633dd106.svg",
@@ -48,7 +58,12 @@ window.listingArchiveIndex = {
       "name": "img-e25df86ee592.webp",
       "href": "img-e25df86ee592.webp",
       "size": 421186
+    },
+    {
+      "name": "img-e5cfcd5a23e8.png",
+      "href": "img-e5cfcd5a23e8.png",
+      "size": 8627
     }
   ],
-  "last_updated": "2026-09-27T22:23:11.98126Z"
+  "last_updated": "2026-09-28T00:21:12.400314Z"
 };

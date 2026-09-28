@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/big-sur-usa/a-muennig-masterpiece-above-the-sea-18133306
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:18:35Z
+- Retrieved: 2026-09-28T00:19:50Z
 - Address: 55700 Highway 1, Big Sur, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=36.115004,-121.630793
 - Coordinates: 36.12, -121.63
@@ -10,7 +10,7 @@
 - Listing reference: ML82023264
 - First listed: Jun 11
 - Last updated: Yesterday
-- Images downloaded: 33
+- Images downloaded: 36
 
 ## Property
 

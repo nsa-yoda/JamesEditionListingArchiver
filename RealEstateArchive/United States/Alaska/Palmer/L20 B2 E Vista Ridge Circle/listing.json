@@ -8,7 +8,7 @@
     "listing_reference": "26-4676",
     "first_listed": "Jun 15",
     "last_updated": "June 15",
-    "retrieved_at": "2026-06-21T09:21:22.034821Z"
+    "retrieved_at": "2026-09-28T00:24:33.178552Z"
   },
   "location": {
     "address": "L20 B2 E Vista Ridge Circle, Palmer, Alaska, United States",
@@ -70,451 +70,554 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2200xxs.jpg",
       "file": "img-638585ece935.webp",
       "media_type": "image/webp",
       "bytes": 616408,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2200xxs.jpg",
       "file": "img-2a562ca23594.webp",
       "media_type": "image/webp",
       "bytes": 28366,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2200xxs.jpg",
       "file": "img-4947e5b36bb0.webp",
       "media_type": "image/webp",
       "bytes": 570488,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2200xxs.jpg",
       "file": "img-f8dc8a903c14.webp",
       "media_type": "image/webp",
       "bytes": 334948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2200xxs.jpg",
       "file": "img-c8db0f26adc2.webp",
       "media_type": "image/webp",
       "bytes": 105064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/M00000001.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-0b535270075f.png",
+      "media_type": "image/png",
+      "bytes": 14246,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-b140af5e8b71.webp",
+      "media_type": "image/webp",
+      "bytes": 3598,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-52d12cdba9ad.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-f793f58563ca.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/53463929-8918-4725-9538-a6a8b46274b7/je/2000xxs.jpg",
       "file": "img-461bfbeb2e1e.webp",
       "media_type": "image/webp",
       "bytes": 182902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/5e209509-c57a-4c6d-aaa1-c77247eb690a/je/2000xxs.jpg",
       "file": "img-d3ba127cf094.webp",
       "media_type": "image/webp",
       "bytes": 92214,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/eea02513-a6de-410f-a10e-7a15e63365d8/je/2000xxs.jpg",
       "file": "img-bb26ad57d482.webp",
       "media_type": "image/webp",
       "bytes": 136250,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/7e1e1a88-f797-407d-93a6-3746d0204870/je/2000xxs.jpg",
       "file": "img-b41c8f7b73e9.webp",
       "media_type": "image/webp",
       "bytes": 262512,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/eae7b9cf-7774-4495-80ca-45aa6e677280/je/2000xxs.jpg",
       "file": "img-fd8da33c9acf.webp",
       "media_type": "image/webp",
       "bytes": 74226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/07c2c751-a126-44f4-aa41-56df5b575d1e/je/2000xxs.jpg",
       "file": "img-c068a7c16c8f.webp",
       "media_type": "image/webp",
       "bytes": 644404,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/32898869-b262-471e-af4c-e9d71dc31784/je/2000xxs.jpg",
       "file": "img-aabe671a4aa5.webp",
       "media_type": "image/webp",
       "bytes": 180844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/57230c85-8997-458b-a56b-eb507339d165/je/2000xxs.jpg",
       "file": "img-1f33f62eddc2.webp",
       "media_type": "image/webp",
       "bytes": 287552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/bc1d3fda-cb37-48eb-ba3c-7512321e20e2/je/2000xxs.jpg",
       "file": "img-a5aed0986da7.webp",
       "media_type": "image/webp",
       "bytes": 143592,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/44f7bb61-17c7-4d96-84a0-258f104ac0bb/je/2000xxs.jpg",
       "file": "img-c621b0b2e16b.webp",
       "media_type": "image/webp",
       "bytes": 137994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/3b3e62da-638f-4d70-b71e-4198d7da5dbe/je/2000xxs.jpg",
       "file": "img-e1f597e39f19.webp",
       "media_type": "image/webp",
       "bytes": 149482,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/95d7a05d-9721-4b4e-89d7-47f54209752f/je/2000xxs.jpg",
       "file": "img-25deece38a5f.webp",
       "media_type": "image/webp",
       "bytes": 184098,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/71a37253-3904-4fcc-84e1-ddac7a24edfd/je/2000xxs.jpg",
       "file": "img-1684712af297.webp",
       "media_type": "image/webp",
       "bytes": 146278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/650b5397-c2af-4572-b5b1-9078bca89e6e/je/2000xxs.jpg",
       "file": "img-4bd4830c4d5d.webp",
       "media_type": "image/webp",
       "bytes": 138844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/6497a593-9d15-4abd-911e-371f907f482f/je/2000xxs.jpg",
       "file": "img-33251227dc23.webp",
       "media_type": "image/webp",
       "bytes": 68422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/b2853a66-0cdb-495c-ad2e-60b67e494874/je/2000xxs.jpg",
       "file": "img-15553b7d7544.webp",
       "media_type": "image/webp",
       "bytes": 77862,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/63f1709f-ace3-4ad0-968d-db124cc546e3/je/2000xxs.jpg",
       "file": "img-40a3eea688da.webp",
       "media_type": "image/webp",
       "bytes": 186430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/07d070aa-97ff-44ae-9ad3-7460433ef85d/je/2000xxs.jpg",
       "file": "img-2b590edba52a.webp",
       "media_type": "image/webp",
       "bytes": 110274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/34cf265b-b08d-4044-bcc1-71ab8fe7a181/je/2000xxs.jpg",
       "file": "img-43b8230f9ca3.webp",
       "media_type": "image/webp",
       "bytes": 150552,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/606cb9dc-da3f-4be0-8c58-a3bf97130b62/je/2000xxs.jpg",
       "file": "img-074e5e4de068.webp",
       "media_type": "image/webp",
       "bytes": 188166,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/2c8742aa-72b7-461c-a83a-791f66e55e83/je/2000xxs.jpg",
       "file": "img-266d800ec371.webp",
       "media_type": "image/webp",
       "bytes": 354524,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/9a4c938f-4705-4c9c-acc0-63f5b4ff373a/je/2000xxs.jpg",
       "file": "img-72a3a9843f8f.webp",
       "media_type": "image/webp",
       "bytes": 113352,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/984f1b80-1de3-40a8-9b4e-78cd45d4666e/je/2000xxs.jpg",
       "file": "img-007d9b4e3111.webp",
       "media_type": "image/webp",
       "bytes": 87548,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/cffd17e5-4833-490f-adb1-df7938bbfce0/je/2000xxs.jpg",
       "file": "img-5d49e0e1fead.webp",
       "media_type": "image/webp",
       "bytes": 71274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/b1377636-b2dd-41cc-84b3-1db9839f30c5/je/2000xxs.jpg",
       "file": "img-220b22c9459f.webp",
       "media_type": "image/webp",
       "bytes": 336594,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/a3a05a1e-4777-44fb-a7e5-6eb4764e72d7/je/2000xxs.jpg",
       "file": "img-7f0daf36d329.webp",
       "media_type": "image/webp",
       "bytes": 297830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/0310a189-ca06-4756-b152-3d794d9f0c3b/je/2000xxs.jpg",
       "file": "img-82aeae321688.webp",
       "media_type": "image/webp",
       "bytes": 122226,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/4b924c7e-f9b8-4a76-befe-1c0748b2d08c/je/2000xxs.jpg",
       "file": "img-700e941c6d2a.webp",
       "media_type": "image/webp",
       "bytes": 246576,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/2545144a-2569-4f88-a2a5-bdb54b79b48c/je/2000xxs.jpg",
       "file": "img-aeb1989c59cc.webp",
       "media_type": "image/webp",
       "bytes": 252630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/41c5d544-62a1-49d7-91ba-d9af81222a24/je/2000xxs.jpg",
       "file": "img-c1f47131fe4c.webp",
       "media_type": "image/webp",
       "bytes": 146386,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/f881628a-152e-47c4-9526-14a825d1b35e/je/2000xxs.jpg",
       "file": "img-81caf73e578a.webp",
       "media_type": "image/webp",
       "bytes": 81104,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/492b89d4-accf-466a-a104-d1d1c744d408/je/2000xxs.jpg",
       "file": "img-2a667f26f7a1.webp",
       "media_type": "image/webp",
       "bytes": 77194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/5c683561-d74c-4789-869a-8fa0d5528c39/je/2000xxs.jpg",
       "file": "img-b20f2a8dd8db.webp",
       "media_type": "image/webp",
       "bytes": 62598,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/b5c6aab1-2a23-4345-bf10-fadadc699902/je/2000xxs.jpg",
       "file": "img-c1a844c3fc93.webp",
       "media_type": "image/webp",
       "bytes": 135968,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/62cadea4-b2fd-47e0-8f0b-90157834e463/je/2000xxs.jpg",
       "file": "img-6c6b964b5af6.webp",
       "media_type": "image/webp",
       "bytes": 136750,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/62c33945-8453-45db-8a52-8a3ae2e6d4bf/je/2000xxs.jpg",
       "file": "img-657889a7f375.webp",
       "media_type": "image/webp",
       "bytes": 112104,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/de24d1e7-fb8e-4173-9910-a906577e48c0/je/2000xxs.jpg",
       "file": "img-94c7a7834fab.webp",
       "media_type": "image/webp",
       "bytes": 790940,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/08ccf6b5-e7c1-4d12-a6d0-efe0a736469f/je/2000xxs.jpg",
       "file": "img-15442e59ed39.webp",
       "media_type": "image/webp",
       "bytes": 30030,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/6a22b3bc-36e4-493d-b9e8-633c3fc5acd7/je/2000xxs.jpg",
       "file": "img-049c1b29d437.webp",
       "media_type": "image/webp",
       "bytes": 614410,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/25ee1eb4-9384-42aa-9d8a-e37dac85a17c/je/2000xxs.jpg",
       "file": "img-127ad71d93fe.webp",
       "media_type": "image/webp",
       "bytes": 625508,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/3fa3625a-c8f3-4685-a90f-04aa23efc449/je/2000xxs.jpg",
       "file": "img-adad22a524a0.webp",
       "media_type": "image/webp",
       "bytes": 636368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/793abbf3-f249-483b-a6a5-860455bcc367/je/2000xxs.jpg",
       "file": "img-3810a4458a8c.webp",
       "media_type": "image/webp",
       "bytes": 619316,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/e9ae0d91-fb45-45e5-bbed-6eccb9c557a5/je/2000xxs.jpg",
       "file": "img-d573fa6f143f.webp",
       "media_type": "image/webp",
       "bytes": 610608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c8cee2a8-f8ad-46a9-9e63-d05ec65f278f/je/2000xxs.jpg",
       "file": "img-a6146268239a.webp",
       "media_type": "image/webp",
       "bytes": 527916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/2ec01405-4ec0-4704-ba9f-f0cd61135317/je/2000xxs.jpg",
       "file": "img-55e58f0b4edd.webp",
       "media_type": "image/webp",
       "bytes": 575326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/a9b26318-023a-42e1-b507-1ed5ccf787d2/je/2000xxs.jpg",
       "file": "img-e318fe19bfcf.webp",
       "media_type": "image/webp",
       "bytes": 20728,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/f188eeb2-4f58-40b4-bbcd-a1233a468ee1/je/2000xxs.jpg",
       "file": "img-c7ea1ca9a1cc.webp",
       "media_type": "image/webp",
       "bytes": 674634,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/2200xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "file": "img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "file": "img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "file": "img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "metadata": {
@@ -668,6 +771,84 @@
     "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/2200xxs.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/2200xxs%281%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/2200xxs%281%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/palmer-ak-usa/Residential%20In%20Palmer%20In%20Palmer,%20Alaska,%20United%20States%20For%20Sale%20%2818176725%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/81282d6d-7e68-4eee-83c3-16c466643ca0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ee6a2203-1009-4494-a79c-e4748c303995/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c4793714-d982-498e-848f-23fec38ef72c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/ff2d26b9-b923-4e97-977c-b97b65e3af05/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/06/15/14/02/28/c7616be1-e22c-4112-be1a-04b0d222b481/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

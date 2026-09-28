@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "11555787",
     "first_listed": "Oct 10, 2025",
     "last_updated": "April 14",
-    "retrieved_at": "2026-08-28T00:30:04.834735Z"
+    "retrieved_at": "2026-09-28T00:24:31.229804Z"
   },
   "location": {
     "address": "5160 Scarlett Oak, Adin, California, United States",
@@ -62,333 +62,429 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2200xxs.jpg",
       "file": "img-ee5d0f634296.webp",
       "media_type": "image/webp",
       "bytes": 546650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2200xxs.jpg",
       "file": "img-943c7e6766ab.webp",
       "media_type": "image/webp",
       "bytes": 513976,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2200xxs.jpg",
       "file": "img-38eaf9bf7f63.webp",
       "media_type": "image/webp",
       "bytes": 854448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2200xxs.jpg",
       "file": "img-1d55cbc0abd6.webp",
       "media_type": "image/webp",
       "bytes": 813840,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2200xxs.jpg",
       "file": "img-78ccc22b0be8.webp",
       "media_type": "image/webp",
       "bytes": 427326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-a620470a72cd.webp",
+      "media_type": "image/webp",
+      "bytes": 5994,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-bf50cae07354.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-6b95ab7e2ad9.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/10a7ea4f-d36d-4b10-9186-9cb80aa52a07/je/2000xxs.jpg",
       "file": "img-433f0220e1f4.webp",
       "media_type": "image/webp",
       "bytes": 284372,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/b2940750-f0f3-4a2c-9746-07a22233b66d/je/2000xxs.jpg",
       "file": "img-9ca6d831c097.webp",
       "media_type": "image/webp",
       "bytes": 546356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/9beb0866-227b-48b8-bdfc-8d06059ac884/je/2000xxs.jpg",
       "file": "img-27d3f51cacba.webp",
       "media_type": "image/webp",
       "bytes": 478368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/4bb5e889-4d2a-40ff-b847-9d8fd6ae69c6/je/2000xxs.jpg",
       "file": "img-62220a9a8e11.webp",
       "media_type": "image/webp",
       "bytes": 552074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/488198c5-fe2e-48e7-a9eb-6309a1b6442f/je/2000xxs.jpg",
       "file": "img-8b110522d5f1.webp",
       "media_type": "image/webp",
       "bytes": 616664,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/40478ffa-5bb5-4a03-a0f9-603a1e41db01/je/2000xxs.jpg",
       "file": "img-832a90468f25.webp",
       "media_type": "image/webp",
       "bytes": 652824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/09c5b76c-bd31-4e8a-b7c8-93a3b9f99230/je/2000xxs.jpg",
       "file": "img-ff9792ebe332.webp",
       "media_type": "image/webp",
       "bytes": 558200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/daad2add-0436-47d4-86b2-e306e696d8ba/je/2000xxs.jpg",
       "file": "img-ec55475aadc7.webp",
       "media_type": "image/webp",
       "bytes": 731036,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/6905e796-4dc0-46fc-b558-a1bccd14f0c1/je/2000xxs.jpg",
       "file": "img-4a5c860e7a7a.webp",
       "media_type": "image/webp",
       "bytes": 731308,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/856e31f8-b142-43a0-bf84-9005e52503f8/je/2000xxs.jpg",
       "file": "img-5eaea45560a9.webp",
       "media_type": "image/webp",
       "bytes": 688440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/0277c262-36ac-4288-82f1-d5a640b101ef/je/2000xxs.jpg",
       "file": "img-e5e9fa0a38e6.webp",
       "media_type": "image/webp",
       "bytes": 586902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/76542b06-f504-4e1e-948e-dd292bcfd927/je/2000xxs.jpg",
       "file": "img-aeb5a095580f.webp",
       "media_type": "image/webp",
       "bytes": 703910,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/bb759bed-63c7-4835-b96f-e6dfa701a6cb/je/2000xxs.jpg",
       "file": "img-4029d2b5b2c9.webp",
       "media_type": "image/webp",
       "bytes": 632918,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/5a37d288-fc1f-4f41-97d2-4af948aefef2/je/2000xxs.jpg",
       "file": "img-30e50c3964fb.webp",
       "media_type": "image/webp",
       "bytes": 661368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/f2df6464-3125-4d0a-b2f4-07ef607235a1/je/2000xxs.jpg",
       "file": "img-227d11473830.webp",
       "media_type": "image/webp",
       "bytes": 460278,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/1173ed40-9ce3-4769-8145-392bab9ed49b/je/2000xxs.jpg",
       "file": "img-450bcd4691bc.webp",
       "media_type": "image/webp",
       "bytes": 463560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/886cbbe1-ca47-4a96-bf1c-277d642511a3/je/2000xxs.jpg",
       "file": "img-169ea7cc0d18.webp",
       "media_type": "image/webp",
       "bytes": 378588,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/6a7e69b9-5f20-4ef9-9e48-60484213169d/je/2000xxs.jpg",
       "file": "img-97297e138c8e.webp",
       "media_type": "image/webp",
       "bytes": 283806,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/62f84ec5-1f73-4569-90cd-fc8e7b83ecd0/je/2000xxs.jpg",
       "file": "img-2896b89f30ce.webp",
       "media_type": "image/webp",
       "bytes": 415074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/cc4d92f9-bb02-4e37-a8d6-9e1aea9f6fe8/je/2000xxs.jpg",
       "file": "img-0f1619e474c7.webp",
       "media_type": "image/webp",
       "bytes": 459082,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/4b817b72-cde8-43c9-ba80-acacd2981430/je/2000xxs.jpg",
       "file": "img-f5f4abc8198e.webp",
       "media_type": "image/webp",
       "bytes": 233436,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/fc423fa3-bd1a-4e6e-a7b9-8dd064df4b83/je/2000xxs.jpg",
       "file": "img-72cdc4b413de.webp",
       "media_type": "image/webp",
       "bytes": 230040,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/1defb9be-0232-4fb5-87f4-764873303b2b/je/2000xxs.jpg",
       "file": "img-2b826656f502.webp",
       "media_type": "image/webp",
       "bytes": 393534,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/e6895617-3021-46b0-a80f-1a2e54fd1565/je/2000xxs.jpg",
       "file": "img-f1277d680864.webp",
       "media_type": "image/webp",
       "bytes": 436962,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/1077dce0-cedb-41bb-8113-144ef506c7d2/je/2000xxs.jpg",
       "file": "img-f0120bea4a93.webp",
       "media_type": "image/webp",
       "bytes": 406864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/23f1251b-9795-4afb-aa2d-a9c7eb100bc2/je/2000xxs.jpg",
       "file": "img-7d4f844bde5f.webp",
       "media_type": "image/webp",
       "bytes": 475014,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/9c4bb9b0-6bbc-47a4-8765-ab0697fd29f3/je/2000xxs.jpg",
       "file": "img-55da342d76ef.webp",
       "media_type": "image/webp",
       "bytes": 752136,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/bd221002-85cd-48f1-8fd5-89402c7fd132/je/2000xxs.jpg",
       "file": "img-afdf71f0f73a.webp",
       "media_type": "image/webp",
       "bytes": 502478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/9c10e497-c711-4f86-bca4-a0251b9bb8f1/je/2000xxs.jpg",
       "file": "img-caf784ed85af.webp",
       "media_type": "image/webp",
       "bytes": 730194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/e05cfe29-46be-493c-b0bc-081fb1f749c1/je/2000xxs.jpg",
       "file": "img-3b3a7437bbe3.webp",
       "media_type": "image/webp",
       "bytes": 590332,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/9c6db765-4c0e-476b-b7e2-4fc6da1e002d/je/2000xxs.jpg",
       "file": "img-3789b6ff3530.webp",
       "media_type": "image/webp",
       "bytes": 467778,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/2200xxs%2823%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/2200xxs%2824%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/2200xxs%2825%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -545,6 +641,93 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/2200xxs%2825%29.jpg: HTTP 429 Too Many Requests",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/greenwood-ca-usa/Residential%20In%20Greenwood%20In%20Adin,%20California,%20United%20States%20For%20Sale%20%2816368016%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8dd389c6-f396-49a3-ac3f-9a370cc1cfaa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/8a4c9b40-5679-4abd-b335-36fed2493ebd/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/85d708ba-882a-4200-ac10-6fa886b5666c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/a8a9451b-4c14-4d40-9549-ccf094bd7726/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/10/13/34/30/71110630-9047-45ba-8676-830d3315e00b/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 };

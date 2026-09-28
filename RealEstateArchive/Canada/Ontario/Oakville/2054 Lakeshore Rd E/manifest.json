@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:23:19.410105Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/oakville-canada/one-of-oakville-s-finest-lakefront-estates-16017322",
     "canonical_url": "https://www.jamesedition.com/real_estate/oakville-canada/one-of-oakville-s-finest-lakefront-estates-16017322",
@@ -8,14 +8,14 @@
     "listing_id": "16017322",
     "listing_reference": "W12323376",
     "first_listed": "Aug 5, 2025",
-    "last_updated": "December 29, 2025",
-    "retrieved_at": "2026-06-16T03:43:32.55227Z"
+    "last_updated": "Yesterday",
+    "retrieved_at": "2026-09-28T00:23:18.99017Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3909,
-      "sha256": "8b6884aaa3656d4b2664811d93a3c214b2edc77a3043f0dc538418102f7a2444"
+      "bytes": 3901,
+      "sha256": "62d7e72240b1833b464bf357d233c9a7cdf78552503bed1c2cbe69cced61bc20"
     },
     {
       "path": "images/004-385bced8.webp",
@@ -68,14 +68,79 @@
       "sha256": "10ea8056587e3841199e9b23aaf89cfab4159051fe3a5e166ac89c3758556493"
     },
     {
+      "path": "images/img-05bf58265238.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-0cf5f6f00dcc.webp",
+      "bytes": 218676,
+      "sha256": "45b244662987a89f86fe9ca2da29c081c44b735409a86a14d513ba907ae8709d"
+    },
+    {
+      "path": "images/img-1dc26e6883a2.webp",
+      "bytes": 128972,
+      "sha256": "a93f393a11c9da48ca4a4ade0e902b98199f8c287d0683097a07a914cb8331c3"
+    },
+    {
+      "path": "images/img-2829286f3810.webp",
+      "bytes": 365584,
+      "sha256": "9f85f881919583886d6b75d8330d99becfccef463b374f25a2a2f44c28ca44a4"
+    },
+    {
+      "path": "images/img-3f3fc483d868.webp",
+      "bytes": 11032,
+      "sha256": "5fe42bf50f6d355eac5042decf44ee3571b8248ef4f059da94f48c0cce9a3ed1"
+    },
+    {
+      "path": "images/img-487c6fb0836b.webp",
+      "bytes": 435408,
+      "sha256": "00b62fd9efa31a377d962251c04d6fb6edbace251124b399af856c98f544a522"
+    },
+    {
+      "path": "images/img-8d1a5fd3dc2b.webp",
+      "bytes": 628160,
+      "sha256": "9871dfcdfb0e350206a1d9acfc7a48b6d6be0ec1511c2faa98745a50254cd3a0"
+    },
+    {
+      "path": "images/img-96565cb6ee5a.jpg",
+      "bytes": 270917,
+      "sha256": "d886a2fd211e825eac2b221fc3f9fbc784ae6635f64b978496079ffa38aa930c"
+    },
+    {
+      "path": "images/img-96600f82ea83.webp",
+      "bytes": 6734,
+      "sha256": "0ab0cc1060097925522b939673af12d77ed99513acc8e83d0b2bae3eca05df99"
+    },
+    {
+      "path": "images/img-be8e75526557.jpg",
+      "bytes": 252131,
+      "sha256": "526c2d71e3c88ac5c58eaa29c3691aba5939b9b89de5e521492ca1546e38ca57"
+    },
+    {
+      "path": "images/img-c40557d65fea.jpg",
+      "bytes": 206639,
+      "sha256": "fd4a1508f231d6e5fb3b211165bcd38504ffa534b1daca202111f3be589d9dc5"
+    },
+    {
+      "path": "images/img-e90fc2d9c5d4.webp",
+      "bytes": 331386,
+      "sha256": "355bad44fb7d19347061792b602373ec91182da07bf90a3b882b174e3f680924"
+    },
+    {
+      "path": "images/img-efb31e430899.jpg",
+      "bytes": 236618,
+      "sha256": "ef93eb768dc70f80fed9202f9bb9b6973a161fe400545bcadcf73776f5930613"
+    },
+    {
       "path": "listing.json",
-      "bytes": 22055,
-      "sha256": "458414bf0f6adc1d26a67fc95e9c3723f099da74cf12a186883eeaed9071fea0"
+      "bytes": 50876,
+      "sha256": "4efb1f7ce1eb6b4c453bef19ca6e6ee499d4d2377c8b380844e32209c1920124"
     },
     {
       "path": "source.html",
-      "bytes": 385837,
-      "sha256": "32ded1e8a81f77150814bb1e09e6e725875c7beafefa178077ea02d8e5d70598"
+      "bytes": 390712,
+      "sha256": "bf1d97ed7cb96f4af2ba1690753fa4366efe7ed40307ccb39b2136973113135d"
     },
     {
       "path": "source.url",
@@ -86,55 +151,85 @@
   "assets": [
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/18/55/07/663de02e-083b-41ff-ae1a-c3b5f1083c8c/je/2200xxs.jpg",
-      "path": "images/004-385bced8.webp",
-      "media_type": "image/webp",
-      "bytes": 422860,
-      "status": "existing"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/2200xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/2200xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-96565cb6ee5a.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 270917,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/06/55/14/d91c2bc3-5176-4814-a04c-66aa3c4127c5/je/2200xxs.jpg",
-      "path": "images/009-64bbc419.webp",
-      "media_type": "image/webp",
-      "bytes": 367882,
-      "status": "existing"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/11/39/40/2ff02f53-c1c7-4228-b3a8-2550a7afcb9a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/11/39/40/2ff02f53-c1c7-4228-b3a8-2550a7afcb9a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/11/39/40/2ff02f53-c1c7-4228-b3a8-2550a7afcb9a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/11/39/40/2ff02f53-c1c7-4228-b3a8-2550a7afcb9a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/11/39/40/2ff02f53-c1c7-4228-b3a8-2550a7afcb9a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/11/39/40/2ff02f53-c1c7-4228-b3a8-2550a7afcb9a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/18/11/39/40/2ff02f53-c1c7-4228-b3a8-2550a7afcb9a/je/2200xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/18/11/39/40/2ff02f53-c1c7-4228-b3a8-2550a7afcb9a/je/2200xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-c40557d65fea.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 206639,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/12/15/58/5ca93616-c494-4574-868e-dfcac12b1832/je/2200xxs.jpg",
-      "path": "images/014-2f072cec.webp",
-      "media_type": "image/webp",
-      "bytes": 338840,
-      "status": "existing"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/16/04/08321b98-ca01-4e42-8fab-d3c2836f9511/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/13/16/04/08321b98-ca01-4e42-8fab-d3c2836f9511/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/16/04/08321b98-ca01-4e42-8fab-d3c2836f9511/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/13/16/04/08321b98-ca01-4e42-8fab-d3c2836f9511/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/18/15/15/e5fc3511-5b29-4912-997f-e9f335b95779/je/2200xxs.jpg",
-      "path": "images/019-feea8a31.webp",
-      "media_type": "image/webp",
-      "bytes": 344272,
-      "status": "existing"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/16/04/08321b98-ca01-4e42-8fab-d3c2836f9511/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/13/16/04/08321b98-ca01-4e42-8fab-d3c2836f9511/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -146,53 +241,151 @@
     },
     {
       "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%282%29.jpg",
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/8ab651bc-1e7b-4f93-abf5-3e5b335eb611/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/8ab651bc-1e7b-4f93-abf5-3e5b335eb611/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/8ab651bc-1e7b-4f93-abf5-3e5b335eb611/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/8ab651bc-1e7b-4f93-abf5-3e5b335eb611/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/8ab651bc-1e7b-4f93-abf5-3e5b335eb611/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/8ab651bc-1e7b-4f93-abf5-3e5b335eb611/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/8ab651bc-1e7b-4f93-abf5-3e5b335eb611/je/2200xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/8ab651bc-1e7b-4f93-abf5-3e5b335eb611/je/2200xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%283%29.jpg",
+      "path": "images/img-efb31e430899.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 236618,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/ecce61c1-ee80-4ed2-84e7-3d203e41abbd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/ecce61c1-ee80-4ed2-84e7-3d203e41abbd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/ecce61c1-ee80-4ed2-84e7-3d203e41abbd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/ecce61c1-ee80-4ed2-84e7-3d203e41abbd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/ecce61c1-ee80-4ed2-84e7-3d203e41abbd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/ecce61c1-ee80-4ed2-84e7-3d203e41abbd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/ecce61c1-ee80-4ed2-84e7-3d203e41abbd/je/2200xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/14/02/17/ecce61c1-ee80-4ed2-84e7-3d203e41abbd/je/2200xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-be8e75526557.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 252131,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-96600f82ea83.webp",
+      "media_type": "image/webp",
+      "bytes": 6734,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/380xxsxm.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-3f3fc483d868.webp",
+      "media_type": "image/webp",
+      "bytes": 11032,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-05bf58265238.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8d1a5fd3dc2b.webp",
+      "media_type": "image/webp",
+      "bytes": 628160,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2829286f3810.webp",
+      "media_type": "image/webp",
+      "bytes": 365584,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0cf5f6f00dcc.webp",
+      "media_type": "image/webp",
+      "bytes": 218676,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e90fc2d9c5d4.webp",
+      "media_type": "image/webp",
+      "bytes": 331386,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-1dc26e6883a2.webp",
+      "media_type": "image/webp",
+      "bytes": 128972,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/oakville-canada/One%20Of%20Oakville%27s%20Finest%20Lakefront%20Estates.%20In%20Oakville,%20Ontario,%20Canada%20For%20Sale%20%2816017322%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-487c6fb0836b.webp",
+      "media_type": "image/webp",
+      "bytes": 435408,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/08/05/13/15/58/8595f767-1d49-49dd-8850-d9b6836448cd/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -233,12 +426,44 @@
       "media_type": "image/webp",
       "bytes": 1448,
       "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/18/55/07/663de02e-083b-41ff-ae1a-c3b5f1083c8c/je/2200xxs.jpg",
+      "path": "images/004-385bced8.webp",
+      "media_type": "image/webp",
+      "bytes": 422860,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/06/55/14/d91c2bc3-5176-4814-a04c-66aa3c4127c5/je/2200xxs.jpg",
+      "path": "images/009-64bbc419.webp",
+      "media_type": "image/webp",
+      "bytes": 367882,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/12/15/58/5ca93616-c494-4574-868e-dfcac12b1832/je/2200xxs.jpg",
+      "path": "images/014-2f072cec.webp",
+      "media_type": "image/webp",
+      "bytes": 338840,
+      "status": "existing"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/29/18/15/15/e5fc3511-5b29-4912-997f-e9f335b95779/je/2200xxs.jpg",
+      "path": "images/019-feea8a31.webp",
+      "media_type": "image/webp",
+      "bytes": 344272,
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 14,
+    "images_new": 13,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

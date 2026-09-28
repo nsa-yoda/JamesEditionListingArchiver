@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/edgewater-nj-usa/31-a-casta-lane-edgewater-nj-07020-18238553
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:30Z
+- Retrieved: 2026-09-28T00:18:05Z
 - Address: 31A Casta Lane, Edgewater, NJ 07020, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.843908,-73.969276
 - Coordinates: 40.84, -73.97
@@ -10,7 +10,7 @@
 - Listing reference: YMGKRM
 - First listed: Jun 22
 - Last updated: June 22
-- Images downloaded: 6
+- Images downloaded: 9
 
 ## Property
 

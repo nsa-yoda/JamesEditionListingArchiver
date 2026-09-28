@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/powell-river-a-canada/private-pristine-waterfront-estate-bc-canada-16257490
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:29:50Z
+- Retrieved: 2026-09-28T00:23:55Z
 - Address: 13168 POWELL Lk, Powell River A, BC V8A 4J4, British Columbia, Canada
 - Map: https://www.google.com/maps/search/?api=1&query=50.0788197,-124.3648574
 - Coordinates: 50.08, -124.36
 - Site listing ID: 16257490
 - First listed: Sep 25, 2025
 - Last updated: November 18, 2025
-- Images downloaded: 37
+- Images downloaded: 43
 - Videos downloaded: 0
 
 ## Property

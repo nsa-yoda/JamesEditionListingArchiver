@@ -8,7 +8,7 @@
     "listing_reference": "NW4VFJ",
     "first_listed": "Jan 8",
     "last_updated": "April 6",
-    "retrieved_at": "2026-06-16T03:43:39.758745Z"
+    "retrieved_at": "2026-09-28T00:25:56.139898Z"
   },
   "location": {
     "address": "Austin, TX 78746, Texas, United States",
@@ -76,6 +76,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/2200xxs.jpg",
       "file": "004-a7a6d66c.webp",
       "media_type": "image/webp",
@@ -84,7 +99,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/2200xxs.jpg",
@@ -95,7 +126,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/2200xxs.jpg",
@@ -106,7 +153,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/2200xxs.jpg",
@@ -117,7 +180,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/2200xxs.jpg",
@@ -128,43 +207,76 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-97506c5c8002.webp",
+      "media_type": "image/webp",
+      "bytes": 4022,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/380xxsxm.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9fa15e8493a1.webp",
+      "media_type": "image/webp",
+      "bytes": 16964,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-3ed80d3c66b2.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-d93277a7a9ff.webp",
+      "media_type": "image/webp",
+      "bytes": 183430,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-986e3edaa9b4.webp",
+      "media_type": "image/webp",
+      "bytes": 140300,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-63cc1f1e3d3c.webp",
+      "media_type": "image/webp",
+      "bytes": 158552,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-31a72899c16f.webp",
+      "media_type": "image/webp",
+      "bytes": 96466,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-1523125f8648.webp",
+      "media_type": "image/webp",
+      "bytes": 151694,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-0fe87c820062.webp",
+      "media_type": "image/webp",
+      "bytes": 444490,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -193,6 +305,17 @@
       "media_type": "image/svg+xml",
       "bytes": 63710,
       "status": "existing"
+    }
+  ],
+  "videos": [
+    {
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6387414819112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "file": "vid-ed1169ae3fc4.mp4",
+      "media_type": "video/mp4",
+      "bytes": 93533786,
+      "status": "new",
+      "poster_source_url": "https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg",
+      "poster_file": "img-196c58bdcd4b.webp"
     }
   ],
   "metadata": {
@@ -331,6 +454,69 @@
     "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/2000xxs%285%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/0d20ef49-bcdf-475c-859d-6c8743fc1833/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/117f7957-e950-4b48-a847-23164197f5f1/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/378acef0-660e-4407-a55d-25852c0c1eb6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/fb8340c0-1dd4-4d31-97cb-4d15a660f90f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/austin-tx-usa/The%20River%20Garden%20Crown%20Jewel%20Estate%20In%20Austin,%20Texas,%20United%20States%20For%20Sale%20%2816898015%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/01/08/15/05/36/f564521c-3fdb-4659-8cdb-1fd68652040e/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

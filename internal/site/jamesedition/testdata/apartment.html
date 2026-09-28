@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+  <link rel="canonical" href="/real_estate/paris-france/apartment-rue-example-98765">
+  <meta property="og:title" content="Paris apartment">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": ["Apartment", "Product"],
+        "name": "Apartment with terrace",
+        "identifier": {"value": "JE-APT-42"},
+        "numberOfBedrooms": "2",
+        "numberOfBathroomsTotal": "1",
+        "image": ["/images/apartment-jsonld.jpg"],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "12 Rue Example",
+          "addressLocality": "Paris",
+          "postalCode": "75000",
+          "addressCountry": {"name": "France"}
+        },
+        "offers": [{"price": "950000", "priceCurrency": "EUR"}],
+        "agent": {"name": "Example Agent"},
+        "seller": {"legalName": "Example Realty"}
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <img src="/images/apartment-thumb.jpg" srcset="/images/apartment-large.jpg 1600w, /images/apartment-original.jpg 2400w">
+</body>
+</html>

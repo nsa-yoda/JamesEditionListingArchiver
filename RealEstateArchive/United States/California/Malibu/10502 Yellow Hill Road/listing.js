@@ -7,8 +7,8 @@ window.listingArchiveListing = {
     "listing_id": "17427502",
     "listing_reference": "067552",
     "first_listed": "Mar 17",
-    "last_updated": "March 17",
-    "retrieved_at": "2026-06-16T03:43:24.75106Z"
+    "last_updated": "June 18",
+    "retrieved_at": "2026-09-28T00:20:49.266837Z"
   },
   "location": {
     "address": "10502 Yellow Hill Road, Malibu, California, United States",
@@ -76,6 +76,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/2200xxs.jpg",
       "file": "004-10193a45.webp",
       "media_type": "image/webp",
@@ -84,7 +99,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/2200xxs.jpg",
@@ -95,7 +126,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/2200xxs.jpg",
@@ -106,7 +153,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/2200xxs.jpg",
@@ -117,7 +180,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/2200xxs.jpg",
@@ -128,39 +207,97 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-ebf3e369b2c4.webp",
+      "media_type": "image/webp",
+      "bytes": 5224,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-67bebabbf571.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a7e980b2a39f.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-3a01d0981369.webp",
+      "media_type": "image/webp",
+      "bytes": 516128,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-278a69a410c0.webp",
+      "media_type": "image/webp",
+      "bytes": 210326,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-14c599cfccec.webp",
+      "media_type": "image/webp",
+      "bytes": 160384,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-4854290e1a7d.webp",
+      "media_type": "image/webp",
+      "bytes": 207792,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-a661bde5ed4e.webp",
+      "media_type": "image/webp",
+      "bytes": 431340,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/2000xxs.jpg",
+      "file": "img-d4c957417849.webp",
+      "media_type": "image/webp",
+      "bytes": 516128,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/df1ff25a-4337-4f7f-9547-4e4cdeee529a/je/2000xxs.jpg",
+      "file": "img-681359fffed7.webp",
+      "media_type": "image/webp",
+      "bytes": 516128,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/d17e76ef-a72e-42be-a353-3e09603db02d/je/2000xxs.jpg",
+      "file": "img-bbb763ae1936.webp",
+      "media_type": "image/webp",
+      "bytes": 516128,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/cebe6cdf-8fc7-4c21-88ab-8e136b579f0b/je/2000xxs.jpg",
+      "file": "img-fa1b0c63a087.webp",
+      "media_type": "image/webp",
+      "bytes": 516128,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -281,8 +418,8 @@ window.listingArchiveListing = {
           "@type": "PostalAddress",
           "addressCountry": "The Netherlands",
           "addressLocality": "Amsterdam",
-          "postalCode": "1043NX",
-          "streetAddress": "Radarweg 29"
+          "postalCode": "1077 HN",
+          "streetAddress": "Beethovenstraat 57-2"
         },
         "alternateName": [
           "JE",
@@ -312,7 +449,7 @@ window.listingArchiveListing = {
         "@type": "MobileApplication",
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingCount": "300",
+          "ratingCount": "500",
           "ratingValue": "4.8"
         },
         "applicationCategory": "LifestyleApplication",
@@ -323,6 +460,35 @@ window.listingArchiveListing = {
         "installUrl": "ios-app://6737836918",
         "name": "JamesEdition: Luxury Homes",
         "operatingSystem": "iOS",
+        "publisher": {
+          "@type": "Organization",
+          "name": "JamesEdition B.V.",
+          "url": "https://www.jamesedition.com"
+        },
+        "screenshot": [
+          "https://assets.jamesedition.com/app/app_screenshot_1.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_2.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_3.webp",
+          "https://assets.jamesedition.com/app/app_screenshot_4.webp"
+        ],
+        "url": "https://www.jamesedition.com/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "500",
+          "ratingValue": "4.8"
+        },
+        "applicationCategory": "LifestyleApplication",
+        "applicationSubCategory": "RealEstateListing",
+        "description": "Discover the world’s finest luxury properties with JamesEdition. Browse exclusive listings, save searches, and connect with top agents — all in one seamless experience.",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.jamesedition.jeapp",
+        "identifier": "android:com.jamesedition.jeapp",
+        "installUrl": "android-app://com.jamesedition.jeapp",
+        "name": "JamesEdition: Luxury Homes",
+        "operatingSystem": "ANDROID",
         "publisher": {
           "@type": "Organization",
           "name": "JamesEdition B.V.",
@@ -351,6 +517,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%281%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%282%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%283%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/2000xxs%284%29.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/c39b198e-b79a-4b79-a7d3-cae0251e1035/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/e8fe2185-80cb-4d73-8424-3ce45c024732/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b1ad7334-dae0-4c93-91f2-91665b997075/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/428fe1c7-b776-4a55-afd2-f7f9c89c5291/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/malibu-ca-usa/Estate%20Malibu%20United%20States%20In%20Malibu,%20California,%20United%20States%20For%20Sale%20%2817427502%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/17/09/53/05/b9a7d5ec-ccc8-4db9-89b9-e31c451bdd3a/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:23:14.467098Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/kutchan-japan/niseko-a-private-world-in-the-kingdom-of-powder-snow-17464003",
     "canonical_url": "https://www.jamesedition.com/real_estate/kutchan-japan/niseko-a-private-world-in-the-kingdom-of-powder-snow-17464003",
@@ -8,13 +8,13 @@
     "listing_id": "17464003",
     "first_listed": "Mar 23",
     "last_updated": "May 20",
-    "retrieved_at": "2026-06-16T03:43:31.27431Z"
+    "retrieved_at": "2026-09-28T00:23:14.058739Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3820,
-      "sha256": "c0db0e4347a5f60d31a9f4f698c3b74007be84a994d888739deddd17377f7370"
+      "sha256": "d762cb0e389c232a73d9f61ce7c0ceabd729a210704b4c34b098ed677f861f24"
     },
     {
       "path": "images/004-f6e27067.webp",
@@ -67,9 +67,54 @@
       "sha256": "4a46bf3de73575b63fe7692e702e72cf3d32dd7996ab142ee9006472333c271b"
     },
     {
+      "path": "images/img-0e8738839860.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-4fca7727fa82.webp",
+      "bytes": 74502,
+      "sha256": "8bfc855027b7b65e080274db4ebaf2f66732b327408b93dbf2fb09df8e8d1749"
+    },
+    {
+      "path": "images/img-8224879fffa7.webp",
+      "bytes": 386210,
+      "sha256": "1f245a8f1f9c9519a67e05cb0deb7a7200dca1b34910f181dfb42f417709252b"
+    },
+    {
+      "path": "images/img-944abf678209.webp",
+      "bytes": 187986,
+      "sha256": "836586ace9c762647252ba5f9d0cd18526be8a86aefd080a59a05664a6aaa908"
+    },
+    {
+      "path": "images/img-a35bc3cf670b.webp",
+      "bytes": 467102,
+      "sha256": "c04115f084aec8a510c7d8d7580fa7786b30e8de0b763b9927d8c26dba85547f"
+    },
+    {
+      "path": "images/img-a6a84507ff2f.webp",
+      "bytes": 89640,
+      "sha256": "5027dd7e3969449ec79b1c145d57a833c4374711e64bc0f46204409a1a9e74d2"
+    },
+    {
+      "path": "images/img-b4de950adac6.webp",
+      "bytes": 162770,
+      "sha256": "571088ebc2948ca16c9d84743596b045743a0cb4c7a047bc72284e36d978b6e4"
+    },
+    {
+      "path": "images/img-bd336aee80ca.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-edd4aff813b7.webp",
+      "bytes": 4208,
+      "sha256": "136717b6f2cb3e19a2b0008b656d19d2976cc891a06ae58cbcc945cc1737f2e8"
+    },
+    {
       "path": "listing.json",
-      "bytes": 22723,
-      "sha256": "21d176bec01d004fa4270b7b32a603677d5d6658f6b152aee4a5a7a0bfc95ff7"
+      "bytes": 53510,
+      "sha256": "55e797c6b562596e025ecd2042002211ee8e0ef575763baeab410ef3a96aa6ec"
     },
     {
       "path": "source.html",
@@ -85,6 +130,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/2200xxs.jpg",
       "path": "images/004-f6e27067.webp",
       "media_type": "image/webp",
@@ -94,7 +157,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/20/59/20/d9afdb79-66f3-4bf4-99c5-950d92a4c8fd/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/20/59/20/d9afdb79-66f3-4bf4-99c5-950d92a4c8fd/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/20/59/20/d9afdb79-66f3-4bf4-99c5-950d92a4c8fd/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/20/59/20/d9afdb79-66f3-4bf4-99c5-950d92a4c8fd/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/20/59/20/d9afdb79-66f3-4bf4-99c5-950d92a4c8fd/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/20/59/20/d9afdb79-66f3-4bf4-99c5-950d92a4c8fd/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -107,7 +189,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/805cadb6-9e7a-4072-9ac6-4eeb002100b2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/805cadb6-9e7a-4072-9ac6-4eeb002100b2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/805cadb6-9e7a-4072-9ac6-4eeb002100b2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/805cadb6-9e7a-4072-9ac6-4eeb002100b2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/805cadb6-9e7a-4072-9ac6-4eeb002100b2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/805cadb6-9e7a-4072-9ac6-4eeb002100b2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -120,7 +221,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/4d52ec86-931b-4baf-96f8-0886d7e5803b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/4d52ec86-931b-4baf-96f8-0886d7e5803b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/4d52ec86-931b-4baf-96f8-0886d7e5803b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/4d52ec86-931b-4baf-96f8-0886d7e5803b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/4d52ec86-931b-4baf-96f8-0886d7e5803b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/4d52ec86-931b-4baf-96f8-0886d7e5803b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -133,7 +253,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/11/21/08/375dae38-5467-4072-80af-9c00f8425b34/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/11/21/08/375dae38-5467-4072-80af-9c00f8425b34/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/11/21/08/375dae38-5467-4072-80af-9c00f8425b34/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/11/21/08/375dae38-5467-4072-80af-9c00f8425b34/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/23/11/21/08/375dae38-5467-4072-80af-9c00f8425b34/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/23/11/21/08/375dae38-5467-4072-80af-9c00f8425b34/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -146,52 +285,86 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-edd4aff813b7.webp",
+      "media_type": "image/webp",
+      "bytes": 4208,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0e8738839860.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-bd336aee80ca.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a35bc3cf670b.webp",
+      "media_type": "image/webp",
+      "bytes": 467102,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-b4de950adac6.webp",
+      "media_type": "image/webp",
+      "bytes": 162770,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8224879fffa7.webp",
+      "media_type": "image/webp",
+      "bytes": 386210,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a6a84507ff2f.webp",
+      "media_type": "image/webp",
+      "bytes": 89640,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4fca7727fa82.webp",
+      "media_type": "image/webp",
+      "bytes": 74502,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Niseko%20%E2%80%94%20A%20Private%20World%20In%20The%20Kingdom%20Of%20Powder%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2817464003%29_files/2000xxs%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-944abf678209.webp",
+      "media_type": "image/webp",
+      "bytes": 187986,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/17/18/34/30/f462e686-78cb-4029-aa26-29446ee463b2/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -235,9 +408,9 @@
     }
   ],
   "summary": {
-    "images_new": 14,
+    "images_new": 9,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

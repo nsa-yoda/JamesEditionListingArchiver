@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "w9zexs",
     "first_listed": "Mar 10",
     "last_updated": "March 10",
-    "retrieved_at": "2026-08-28T00:32:05.404478Z"
+    "retrieved_at": "2026-09-28T00:26:24.95716Z"
   },
   "location": {
     "address": "000 Jerrys Flat Rd, Gold Beach, OR 97444, Oregon, United States",
@@ -54,277 +54,373 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2200xxs.jpg",
       "file": "img-f7937f17c043.webp",
       "media_type": "image/webp",
       "bytes": 524684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2200xxs.jpg",
       "file": "img-b2a89e9b2573.webp",
       "media_type": "image/webp",
       "bytes": 175930,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2200xxs.jpg",
       "file": "img-61329636e7e0.webp",
       "media_type": "image/webp",
       "bytes": 444854,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2200xxs.jpg",
       "file": "img-d45e69aa5813.webp",
       "media_type": "image/webp",
       "bytes": 506100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2200xxs.jpg",
       "file": "img-404366626aa7.webp",
       "media_type": "image/webp",
       "bytes": 611430,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-e6ab110695ae.webp",
+      "media_type": "image/webp",
+      "bytes": 5282,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "file": "img-543170fa1498.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-affaae0ad27c.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/8446f13d-bbc7-4a10-b38d-781e3fb752f3/je/2000xxs.jpg",
       "file": "img-c1ebe8a0ef50.webp",
       "media_type": "image/webp",
       "bytes": 502936,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/a71ca512-b523-45e1-9562-30160db5151f/je/2000xxs.jpg",
       "file": "img-2f0e55946c31.webp",
       "media_type": "image/webp",
       "bytes": 577024,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/83c2f8ae-f0e0-4fd9-b8ec-d2f8357b15b3/je/2000xxs.jpg",
       "file": "img-2140cf048190.webp",
       "media_type": "image/webp",
       "bytes": 687322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/bc14c880-a0ae-45a6-a4f5-5b87d53f8677/je/2000xxs.jpg",
       "file": "img-ea8fe967a3d3.webp",
       "media_type": "image/webp",
       "bytes": 984310,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/2d510116-6330-4e9c-b8b2-c5597c3ad5c7/je/2000xxs.jpg",
       "file": "img-560e87eb2e09.webp",
       "media_type": "image/webp",
       "bytes": 764738,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/09d9cc8f-4e77-4087-b2c0-a5483bb54831/je/2000xxs.jpg",
       "file": "img-e33f702596b4.webp",
       "media_type": "image/webp",
       "bytes": 682714,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/ad1fe017-e2d5-46b1-a41a-b1d7d1f4db3d/je/2000xxs.jpg",
       "file": "img-db299a2def49.webp",
       "media_type": "image/webp",
       "bytes": 907240,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/f4da7e50-6ccd-4f3e-aad8-b643d4025278/je/2000xxs.jpg",
       "file": "img-8c6dc4681aff.webp",
       "media_type": "image/webp",
       "bytes": 514194,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/2ff5df52-c5c9-4570-9a3f-d4f14e440a00/je/2000xxs.jpg",
       "file": "img-0da8f81b68d5.webp",
       "media_type": "image/webp",
       "bytes": 524806,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/eadb8c79-3db0-4e98-89a5-ced5615734cd/je/2000xxs.jpg",
       "file": "img-e61b8b193f5c.webp",
       "media_type": "image/webp",
       "bytes": 725432,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/83db7304-7bf6-4823-8e7a-4c294b44010e/je/2000xxs.jpg",
       "file": "img-026e04447f2f.webp",
       "media_type": "image/webp",
       "bytes": 756176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/47795d7a-1a55-433f-bc87-bef6dc65ea40/je/2000xxs.jpg",
       "file": "img-a79a445fa98b.webp",
       "media_type": "image/webp",
       "bytes": 475200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/3d67a91f-8dd1-48d9-bf5f-ef7d2aa0e3b4/je/2000xxs.jpg",
       "file": "img-e5ba79471168.webp",
       "media_type": "image/webp",
       "bytes": 645046,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/72f29f51-680a-4929-8529-2ae34f96008c/je/2000xxs.jpg",
       "file": "img-53d44b706751.webp",
       "media_type": "image/webp",
       "bytes": 941478,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/192254e9-a60b-466a-bd97-9a5714b2eb64/je/2000xxs.jpg",
       "file": "img-31d685b891d2.webp",
       "media_type": "image/webp",
       "bytes": 915434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/4cdfc4e4-a145-4f7d-a41b-8aaacc39ab84/je/2000xxs.jpg",
       "file": "img-d762733a973e.webp",
       "media_type": "image/webp",
       "bytes": 635448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/a4ebc54e-9c49-4f8f-80bf-dfeba2bea120/je/2000xxs.jpg",
       "file": "img-9331d50db197.webp",
       "media_type": "image/webp",
       "bytes": 586086,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/091bc776-e001-48ed-9129-ab5a8e1d8067/je/2000xxs.jpg",
       "file": "img-2163bfa9cd7b.webp",
       "media_type": "image/webp",
       "bytes": 1070762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/db2823a2-e2e3-402e-8c8f-b6b4509a790a/je/2000xxs.jpg",
       "file": "img-389e60b9b6b4.webp",
       "media_type": "image/webp",
       "bytes": 694482,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/0c1e0a10-90d7-4374-ba2a-7d8fdcda0632/je/2000xxs.jpg",
       "file": "img-83d6ce83db56.webp",
       "media_type": "image/webp",
       "bytes": 695844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d1dddad4-53ec-4240-af15-cc4dae52ea13/je/2000xxs.jpg",
       "file": "img-71f11bd8b88d.webp",
       "media_type": "image/webp",
       "bytes": 719112,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/8f65471e-686b-4ef7-a9a3-4539e7aee0e0/je/2000xxs.jpg",
       "file": "img-a15e1b87868d.webp",
       "media_type": "image/webp",
       "bytes": 950838,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/4f3055f3-d41b-4819-9800-32c237c485b6/je/2000xxs.jpg",
       "file": "img-3173eaead0ba.webp",
       "media_type": "image/webp",
       "bytes": 850046,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/2200xxs%288%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/2200xxs%289%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/2200xxs%2810%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "metadata": {
@@ -510,6 +606,93 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/2200xxs%2810%29.jpg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/gold-beach-or-usa/Vacant%20Land%20In%20Gold%20Beach,%20Oregon,%20United%20States%20For%20Sale%20%2817376789%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/d9363c49-b252-4db5-83b3-e3599e1fdb57/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/57b47522-8652-4514-a32e-2880b455a4f3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7a734096-f291-405d-8085-e088a924401c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2000xxs.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/69f001bd-0d3f-40a7-ae88-b69e25e49f77/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/03/09/20/06/51/7514766b-0dd4-478d-bcb0-513e9c7d6ffa/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 };

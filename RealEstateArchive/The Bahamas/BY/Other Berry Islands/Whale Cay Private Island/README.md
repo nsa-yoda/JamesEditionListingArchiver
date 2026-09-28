@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/other-berry-islands-bahamas/whale-cay-private-island-berry-islands-13773453
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:42Z
+- Retrieved: 2026-09-28T00:26:44Z
 - Address: Whale Cay Whale Cay, Other Berry Islands, BY, The Bahamas
 - Map: https://www.google.com/maps/search/?api=1&query=25.401152,-77.790279
 - Coordinates: 25.4, -77.79
@@ -10,8 +10,8 @@
 - Listing reference: TY46Z4
 - First listed: Feb 1, 2024
 - Last updated: February 23
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 11
+- Videos downloaded: 1
 
 ## Property
 

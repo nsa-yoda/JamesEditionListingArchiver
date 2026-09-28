@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:26:24.125699Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/unmatched-oceanfront-estate-with-exceptional-privacy-and-views-17306697",
     "canonical_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/unmatched-oceanfront-estate-with-exceptional-privacy-and-views-17306697",
@@ -9,13 +9,13 @@
     "listing_reference": "7d8f38c9-738a-4db5-a325-80f9de9882b5",
     "first_listed": "Feb 27",
     "last_updated": "June 12",
-    "retrieved_at": "2026-06-16T03:43:41.57386Z"
+    "retrieved_at": "2026-09-28T00:26:23.577823Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 1868,
-      "sha256": "d746348c09168cb1b10cb4ced779158ba06fa976fffeeec4a5e98c9a9a5ef514"
+      "bytes": 1869,
+      "sha256": "37304029b62cce3b3f8df13a6933f91f488a45eae9bd08edab98de104326a87d"
     },
     {
       "path": "images/004-a360746c.webp",
@@ -63,9 +63,24 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-125ea71fb5df.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-72074bf49792.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-88790f2c4f49.webp",
+      "bytes": 5120,
+      "sha256": "59a65ccd5beb849a67a2c9fe2b5ca4103cc3e478f9dcc9f41e9b5d8eeed8c461"
+    },
+    {
       "path": "listing.json",
-      "bytes": 15147,
-      "sha256": "a7b33747668709e75e21ff4af02b377fb4f6d888958e1687496637c62827edc9"
+      "bytes": 44779,
+      "sha256": "d1c39729680f1193f68c552e118397981b7e571cb12ec8837e6bd3e570d250bf"
     },
     {
       "path": "source.html",
@@ -81,6 +96,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/2200xxs.jpg",
       "path": "images/004-a360746c.webp",
       "media_type": "image/webp",
@@ -90,7 +123,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/8dfdfb78-21f4-4775-8fe9-857cc934d3e4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/8dfdfb78-21f4-4775-8fe9-857cc934d3e4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/8dfdfb78-21f4-4775-8fe9-857cc934d3e4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/8dfdfb78-21f4-4775-8fe9-857cc934d3e4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/8dfdfb78-21f4-4775-8fe9-857cc934d3e4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/8dfdfb78-21f4-4775-8fe9-857cc934d3e4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +155,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/dc3baec5-b9d6-4c8d-8e41-a47662dd4b27/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/dc3baec5-b9d6-4c8d-8e41-a47662dd4b27/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/dc3baec5-b9d6-4c8d-8e41-a47662dd4b27/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/dc3baec5-b9d6-4c8d-8e41-a47662dd4b27/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/dc3baec5-b9d6-4c8d-8e41-a47662dd4b27/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/dc3baec5-b9d6-4c8d-8e41-a47662dd4b27/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +187,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/eb421461-a734-45e2-b65b-47a3c33f8ca0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/eb421461-a734-45e2-b65b-47a3c33f8ca0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/eb421461-a734-45e2-b65b-47a3c33f8ca0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/eb421461-a734-45e2-b65b-47a3c33f8ca0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/eb421461-a734-45e2-b65b-47a3c33f8ca0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/eb421461-a734-45e2-b65b-47a3c33f8ca0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +219,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/b707290c-d8ba-46f7-a853-354e7ca413ea/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/b707290c-d8ba-46f7-a853-354e7ca413ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/b707290c-d8ba-46f7-a853-354e7ca413ea/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/b707290c-d8ba-46f7-a853-354e7ca413ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/b707290c-d8ba-46f7-a853-354e7ca413ea/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/b707290c-d8ba-46f7-a853-354e7ca413ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +251,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-88790f2c4f49.webp",
+      "media_type": "image/webp",
+      "bytes": 5120,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-72074bf49792.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/palm-beach-fl-usa/Unmatched%20Oceanfront%20Estate%20With%20In%20Palm%20Beach,%20Florida,%20United%20States%20For%20Sale%20%2817306697%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-125ea71fb5df.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/26/16/51/17/0c4e8314-6db2-4ec0-b6a2-ad4ffaee9f64/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,9 +318,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 3,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

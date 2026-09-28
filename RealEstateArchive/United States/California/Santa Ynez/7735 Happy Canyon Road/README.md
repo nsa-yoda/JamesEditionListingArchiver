@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/santa-ynez-ca-usa/happy-canyon-retreat-18727813
 - Site: jamesedition
-- Retrieved: 2026-09-26T18:46:28Z
+- Retrieved: 2026-09-28T00:21:43Z
 - Address: 7735 Happy Canyon Road , Santa Ynez, CA 93460, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.647338,-119.957336
 - Coordinates: 34.65, -119.96
@@ -10,7 +10,7 @@
 - Listing reference: CFFFY4
 - First listed: Aug 26
 - Last updated: August 28
-- Images downloaded: 56
+- Images downloaded: 68
 - Videos downloaded: 0
 
 ## Property

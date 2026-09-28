@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/cap-d-ail-france/cap-d-ail-a-magnificent-waterfront-art-deco-villa-15390884
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:22Z
+- Retrieved: 2026-09-28T00:20:16Z
 - Address: Cap-d'Ail, 06320, France
 - Map: https://www.google.com/maps/search/?api=1&query=43.72208,7.40584
 - Coordinates: 43.72, 7.41
@@ -10,7 +10,7 @@
 - Listing reference: 10771
 - First listed: Mar 24, 2025
 - Last updated: March 26
-- Images downloaded: 9
+- Images downloaded: 11
 
 ## Property
 

@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "4xw489",
     "first_listed": "Dec 26, 2025",
     "last_updated": "December 26, 2025",
-    "retrieved_at": "2026-06-16T03:43:11.987146Z"
+    "retrieved_at": "2026-09-28T00:17:06.042699Z"
   },
   "location": {
     "address": "11400 New York 23 , Ashland, NY 12407, Windham, United States",
@@ -50,6 +50,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/2200xxs.jpg",
       "file": "004-8c88663b.webp",
       "media_type": "image/webp",
@@ -58,7 +73,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/2200xxs.jpg",
@@ -69,7 +100,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/2200xxs.jpg",
@@ -80,7 +127,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/2200xxs.jpg",
@@ -91,7 +154,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/2200xxs.jpg",
@@ -102,19 +181,34 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-ab613a3f565a.webp",
+      "media_type": "image/webp",
+      "bytes": 5338,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-bb13f50332e3.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-568ac23b5095.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -293,6 +387,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/160x120xc.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/acb519a9-35e8-4fac-aaaf-cf8a65eee99e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/5e73c62c-7dbd-490f-8125-5e37003d3b8d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/96e10832-7255-4b86-ab50-c2269dee3195/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/293a3049-606e-4cbd-9653-587310add796/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/ashland-ny-usa/11400%20New%20York%2023,%20Ashland,%20Ny,%2012407%20In%20Windham,%20New%20York,%20United%20States%20For%20Sale%20%2816853353%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/12/26/12/01/31/aadabe22-8f91-466e-af7f-943b7981c725/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

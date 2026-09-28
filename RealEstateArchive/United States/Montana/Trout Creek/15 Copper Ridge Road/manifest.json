@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:00.734208Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/single-family-detached-trout-creek-17297699",
     "canonical_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/single-family-detached-trout-creek-17297699",
@@ -9,13 +9,13 @@
     "listing_reference": "2087969760885224",
     "first_listed": "Feb 26",
     "last_updated": "August 31",
-    "retrieved_at": "2026-09-26T18:46:51.437435Z"
+    "retrieved_at": "2026-09-28T00:25:00.235126Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3609,
-      "sha256": "6e3815eeda8e57618787b9ec099b989d944c6db26c56eb9bced0c7590dff336c"
+      "sha256": "dbc17c29a260a0190e8fd92fd18f298f56856091894e29b66059e627c41a658d"
     },
     {
       "path": "images/img-02f1d3799cc5.webp",
@@ -253,6 +253,11 @@
       "sha256": "d92a73c5e17dd7fb3f59bd97ce2d824e85934c3a7c2e046ef982cf4f075ec47c"
     },
     {
+      "path": "images/img-65869fb4f981.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-68d45e0fbf93.webp",
       "bytes": 546844,
       "sha256": "e8d370392fdccb0f15d3217029453f040a2f15b3980e963eed3d994582298ee8"
@@ -341,6 +346,11 @@
       "path": "images/img-8a68f6867802.webp",
       "bytes": 210650,
       "sha256": "fec989928c8942831d02740853bb32ad282a9fb64a60a18e435378a8b7a06b19"
+    },
+    {
+      "path": "images/img-9625debeccf5.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
     },
     {
       "path": "images/img-986d8b1f1113.webp",
@@ -463,6 +473,11 @@
       "sha256": "4cac418b5b8c2af336216ab026b75f640db7f4d5e61561e85953c73f74fad57d"
     },
     {
+      "path": "images/img-d7cb64a7c0b5.webp",
+      "bytes": 823884,
+      "sha256": "1878afd174e981c6ae2acbaadd6e06ef3077eedbbe6481b51f050a21b49506cc"
+    },
+    {
       "path": "images/img-d9cbe18a882f.webp",
       "bytes": 240992,
       "sha256": "a877a9a2c3bf3619ed39f0564e07e442ce95261cb8faa99b226ad7391e295c6e"
@@ -503,6 +518,11 @@
       "sha256": "765513b07b122a44e5c4e81da168292d3c020faedfe0880efed1ad78d9f46df2"
     },
     {
+      "path": "images/img-f670641c27f3.webp",
+      "bytes": 735864,
+      "sha256": "117c4a93111886e03dbcde59175e7d017f5a3a197d0ae0e1a0b662d5595b73f0"
+    },
+    {
       "path": "images/img-f833f55d9edb.webp",
       "bytes": 170942,
       "sha256": "dea3056d6832fd50e2ca93a7f06d2e362bdfdd6da1e951902c7b63640c4947af"
@@ -516,6 +536,11 @@
       "path": "images/img-f976ebd470f4.webp",
       "bytes": 113984,
       "sha256": "73a50cb86206d2b35955a8cc939c6246487abb433cba036b8293676786beb638"
+    },
+    {
+      "path": "images/img-f998c3d307df.webp",
+      "bytes": 6166,
+      "sha256": "cf6e9a848848088cdb7027990cf58a55a91991c16dc658045982d5884a4f08ca"
     },
     {
       "path": "images/img-fb332d39080c.webp",
@@ -539,8 +564,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 46768,
-      "sha256": "565c414ea92fcfabe1dd882a106a66d50a2c6dd1de9f015f3df2cda0adcda2cf"
+      "bytes": 83418,
+      "sha256": "a98198cd38a127a200fd7c25974e882fa0231c79adb091d68d0e721fa6154c6d"
     },
     {
       "path": "source.html",
@@ -556,17 +581,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2200xxs.jpg",
       "path": "images/img-fba86722f786.webp",
       "media_type": "image/webp",
       "bytes": 704978,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -574,13 +635,31 @@
       "path": "images/img-c6dbd4dbfec7.webp",
       "media_type": "image/webp",
       "bytes": 1147018,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -588,13 +667,31 @@
       "path": "images/img-cb331a447676.webp",
       "media_type": "image/webp",
       "bytes": 643200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -602,13 +699,31 @@
       "path": "images/img-77432d4744f8.webp",
       "media_type": "image/webp",
       "bytes": 916852,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -616,31 +731,67 @@
       "path": "images/img-68d45e0fbf93.webp",
       "media_type": "image/webp",
       "bytes": 546844,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f998c3d307df.webp",
+      "media_type": "image/webp",
+      "bytes": 6166,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/request_plan_bg-33cc1401.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-9625debeccf5.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/street_view-b1ba588c.jpg",
+      "path": "images/img-65869fb4f981.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/cc371594-f4ad-430c-aa95-bff9de16c82b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/36ea5d54-4270-4332-ac16-2277268f8290/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/b2c6fd76-2609-43dd-903d-b1e0c61892df/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/607836b9-e218-4cae-9363-a2ad07007557/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -648,7 +799,7 @@
       "path": "images/img-d01427205a8a.webp",
       "media_type": "image/webp",
       "bytes": 571520,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -656,7 +807,7 @@
       "path": "images/img-f833f55d9edb.webp",
       "media_type": "image/webp",
       "bytes": 170942,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -664,7 +815,7 @@
       "path": "images/img-5155e488edb8.webp",
       "media_type": "image/webp",
       "bytes": 130902,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -672,7 +823,7 @@
       "path": "images/img-6b8600ca99f8.webp",
       "media_type": "image/webp",
       "bytes": 129622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -680,7 +831,7 @@
       "path": "images/img-5ece2f988e39.webp",
       "media_type": "image/webp",
       "bytes": 123132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -688,7 +839,7 @@
       "path": "images/img-e7acc30ab424.webp",
       "media_type": "image/webp",
       "bytes": 260358,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -696,7 +847,7 @@
       "path": "images/img-386754fbaf17.webp",
       "media_type": "image/webp",
       "bytes": 203216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -704,7 +855,7 @@
       "path": "images/img-de248c3e49b7.webp",
       "media_type": "image/webp",
       "bytes": 256826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -712,7 +863,7 @@
       "path": "images/img-9f2aa61ddba6.webp",
       "media_type": "image/webp",
       "bytes": 447692,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -720,7 +871,7 @@
       "path": "images/img-f91b80efc616.webp",
       "media_type": "image/webp",
       "bytes": 232326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -728,7 +879,7 @@
       "path": "images/img-02f1d3799cc5.webp",
       "media_type": "image/webp",
       "bytes": 200258,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -736,7 +887,7 @@
       "path": "images/img-122cf3a92bba.webp",
       "media_type": "image/webp",
       "bytes": 256354,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -744,7 +895,7 @@
       "path": "images/img-1e07e85b1aa5.webp",
       "media_type": "image/webp",
       "bytes": 168704,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -752,7 +903,7 @@
       "path": "images/img-5d7dab9ab894.webp",
       "media_type": "image/webp",
       "bytes": 299888,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -760,7 +911,7 @@
       "path": "images/img-d36b51e1d8c7.webp",
       "media_type": "image/webp",
       "bytes": 322900,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -768,7 +919,7 @@
       "path": "images/img-d27d619a223b.webp",
       "media_type": "image/webp",
       "bytes": 266212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -776,7 +927,7 @@
       "path": "images/img-a34ca75e789b.webp",
       "media_type": "image/webp",
       "bytes": 240356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -784,7 +935,7 @@
       "path": "images/img-232b1b21b9e8.webp",
       "media_type": "image/webp",
       "bytes": 224788,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -792,7 +943,7 @@
       "path": "images/img-bc334307c9ad.webp",
       "media_type": "image/webp",
       "bytes": 308434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -800,7 +951,7 @@
       "path": "images/img-895b95ee006f.webp",
       "media_type": "image/webp",
       "bytes": 305434,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -808,7 +959,7 @@
       "path": "images/img-6cb80e765c59.webp",
       "media_type": "image/webp",
       "bytes": 311058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -816,7 +967,7 @@
       "path": "images/img-cf3255e3cb14.webp",
       "media_type": "image/webp",
       "bytes": 225208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -824,7 +975,7 @@
       "path": "images/img-fe1dfb0d5be2.webp",
       "media_type": "image/webp",
       "bytes": 133406,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -832,7 +983,7 @@
       "path": "images/img-0d16d3e859a4.webp",
       "media_type": "image/webp",
       "bytes": 166698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -840,7 +991,7 @@
       "path": "images/img-8055b3161317.webp",
       "media_type": "image/webp",
       "bytes": 227064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -848,7 +999,7 @@
       "path": "images/img-55e0ac051b27.webp",
       "media_type": "image/webp",
       "bytes": 154972,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -856,7 +1007,7 @@
       "path": "images/img-14af3b29d53d.webp",
       "media_type": "image/webp",
       "bytes": 658172,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -864,7 +1015,7 @@
       "path": "images/img-fb332d39080c.webp",
       "media_type": "image/webp",
       "bytes": 296414,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -872,7 +1023,7 @@
       "path": "images/img-6ad6540a99fe.webp",
       "media_type": "image/webp",
       "bytes": 279560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -880,7 +1031,7 @@
       "path": "images/img-6cc969e070d7.webp",
       "media_type": "image/webp",
       "bytes": 372468,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -888,7 +1039,7 @@
       "path": "images/img-8a68f6867802.webp",
       "media_type": "image/webp",
       "bytes": 210650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -896,7 +1047,7 @@
       "path": "images/img-d0bc6f5d5230.webp",
       "media_type": "image/webp",
       "bytes": 265078,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -904,7 +1055,7 @@
       "path": "images/img-5c37e6e0e5ac.webp",
       "media_type": "image/webp",
       "bytes": 286700,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -912,7 +1063,7 @@
       "path": "images/img-6acf67d6618b.webp",
       "media_type": "image/webp",
       "bytes": 231326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -920,7 +1071,7 @@
       "path": "images/img-ba59467f2c75.webp",
       "media_type": "image/webp",
       "bytes": 379018,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -928,7 +1079,7 @@
       "path": "images/img-d5457fc436a7.webp",
       "media_type": "image/webp",
       "bytes": 342392,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -936,7 +1087,7 @@
       "path": "images/img-9da40f43338f.webp",
       "media_type": "image/webp",
       "bytes": 333856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -944,7 +1095,7 @@
       "path": "images/img-c224bf2507ea.webp",
       "media_type": "image/webp",
       "bytes": 281232,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -952,7 +1103,7 @@
       "path": "images/img-85e3ee1eb392.webp",
       "media_type": "image/webp",
       "bytes": 362686,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -960,7 +1111,7 @@
       "path": "images/img-7a9f5d65133f.webp",
       "media_type": "image/webp",
       "bytes": 340252,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -968,7 +1119,7 @@
       "path": "images/img-ff2865faa164.webp",
       "media_type": "image/webp",
       "bytes": 290088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -976,7 +1127,7 @@
       "path": "images/img-056c94829bf4.webp",
       "media_type": "image/webp",
       "bytes": 317208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -984,7 +1135,7 @@
       "path": "images/img-5e003ca6b279.webp",
       "media_type": "image/webp",
       "bytes": 309970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -992,7 +1143,7 @@
       "path": "images/img-06e0a4b09ddc.webp",
       "media_type": "image/webp",
       "bytes": 388236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1000,7 +1151,7 @@
       "path": "images/img-c7ccacacfb4b.webp",
       "media_type": "image/webp",
       "bytes": 213956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1008,7 +1159,7 @@
       "path": "images/img-79006528be81.webp",
       "media_type": "image/webp",
       "bytes": 164090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1016,7 +1167,7 @@
       "path": "images/img-3a3186d1fe9e.webp",
       "media_type": "image/webp",
       "bytes": 393626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1024,7 +1175,7 @@
       "path": "images/img-15de4e18872e.webp",
       "media_type": "image/webp",
       "bytes": 268396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1032,7 +1183,7 @@
       "path": "images/img-ae6b0c4ef123.webp",
       "media_type": "image/webp",
       "bytes": 267450,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1040,7 +1191,7 @@
       "path": "images/img-f976ebd470f4.webp",
       "media_type": "image/webp",
       "bytes": 113984,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1048,7 +1199,7 @@
       "path": "images/img-7190539097da.webp",
       "media_type": "image/webp",
       "bytes": 158826,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1056,7 +1207,7 @@
       "path": "images/img-76d2c15fd54a.webp",
       "media_type": "image/webp",
       "bytes": 362614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1064,7 +1215,7 @@
       "path": "images/img-e81239b240db.webp",
       "media_type": "image/webp",
       "bytes": 388672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1072,7 +1223,7 @@
       "path": "images/img-d9cbe18a882f.webp",
       "media_type": "image/webp",
       "bytes": 240992,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1080,7 +1231,7 @@
       "path": "images/img-233a55027d0f.webp",
       "media_type": "image/webp",
       "bytes": 135532,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1088,7 +1239,7 @@
       "path": "images/img-552e0634cdb2.webp",
       "media_type": "image/webp",
       "bytes": 208144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1096,7 +1247,7 @@
       "path": "images/img-41022a1f4056.webp",
       "media_type": "image/webp",
       "bytes": 502074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1104,7 +1255,7 @@
       "path": "images/img-09635a1e5f6f.webp",
       "media_type": "image/webp",
       "bytes": 590144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1112,7 +1263,7 @@
       "path": "images/img-49e6cc040ae1.webp",
       "media_type": "image/webp",
       "bytes": 536210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1120,7 +1271,7 @@
       "path": "images/img-adb741e43556.webp",
       "media_type": "image/webp",
       "bytes": 533282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1128,7 +1279,7 @@
       "path": "images/img-1ac0b2988c32.webp",
       "media_type": "image/webp",
       "bytes": 564024,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1136,7 +1287,7 @@
       "path": "images/img-454c9d8a0b9e.webp",
       "media_type": "image/webp",
       "bytes": 708654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1144,7 +1295,7 @@
       "path": "images/img-616ff02bdaae.webp",
       "media_type": "image/webp",
       "bytes": 628322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1152,7 +1303,7 @@
       "path": "images/img-3533a4e6b75f.webp",
       "media_type": "image/webp",
       "bytes": 682912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1160,7 +1311,7 @@
       "path": "images/img-46976a8e8342.webp",
       "media_type": "image/webp",
       "bytes": 605702,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1168,7 +1319,7 @@
       "path": "images/img-17b7609021e3.webp",
       "media_type": "image/webp",
       "bytes": 644618,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1176,7 +1327,7 @@
       "path": "images/img-630157ce38bc.webp",
       "media_type": "image/webp",
       "bytes": 222554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1184,7 +1335,7 @@
       "path": "images/img-ae55527ceeec.webp",
       "media_type": "image/webp",
       "bytes": 238752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1192,7 +1343,7 @@
       "path": "images/img-997a6eb12ac6.webp",
       "media_type": "image/webp",
       "bytes": 371386,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1200,7 +1351,7 @@
       "path": "images/img-39ed8c030df7.webp",
       "media_type": "image/webp",
       "bytes": 283210,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1208,7 +1359,7 @@
       "path": "images/img-e9d9448356da.webp",
       "media_type": "image/webp",
       "bytes": 900830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1216,7 +1367,7 @@
       "path": "images/img-3c344a8f029e.webp",
       "media_type": "image/webp",
       "bytes": 919334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1224,7 +1375,7 @@
       "path": "images/img-2e6997fd4551.webp",
       "media_type": "image/webp",
       "bytes": 853296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1232,7 +1383,7 @@
       "path": "images/img-da4221662232.webp",
       "media_type": "image/webp",
       "bytes": 855498,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1240,7 +1391,7 @@
       "path": "images/img-5c3113b6ccf3.webp",
       "media_type": "image/webp",
       "bytes": 919134,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1248,7 +1399,7 @@
       "path": "images/img-6be0f5c88610.webp",
       "media_type": "image/webp",
       "bytes": 854490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1256,7 +1407,7 @@
       "path": "images/img-0d73af79f945.webp",
       "media_type": "image/webp",
       "bytes": 790986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1264,7 +1415,7 @@
       "path": "images/img-f3bd57503751.webp",
       "media_type": "image/webp",
       "bytes": 850896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1272,7 +1423,7 @@
       "path": "images/img-c8ef494307c7.webp",
       "media_type": "image/webp",
       "bytes": 848212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1280,7 +1431,7 @@
       "path": "images/img-5a8eeaf66794.webp",
       "media_type": "image/webp",
       "bytes": 845530,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1288,7 +1439,7 @@
       "path": "images/img-6398eb050d11.webp",
       "media_type": "image/webp",
       "bytes": 821990,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1296,7 +1447,7 @@
       "path": "images/img-54ef7d767294.webp",
       "media_type": "image/webp",
       "bytes": 883448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1304,7 +1455,7 @@
       "path": "images/img-6be6f86a8ea9.webp",
       "media_type": "image/webp",
       "bytes": 729824,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1312,7 +1463,7 @@
       "path": "images/img-55268c7e7274.webp",
       "media_type": "image/webp",
       "bytes": 688882,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1320,7 +1471,7 @@
       "path": "images/img-6f6e2566ff0b.webp",
       "media_type": "image/webp",
       "bytes": 759830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1328,7 +1479,7 @@
       "path": "images/img-29ecec390d25.webp",
       "media_type": "image/webp",
       "bytes": 785664,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1336,7 +1487,7 @@
       "path": "images/img-03acf96e4efd.webp",
       "media_type": "image/webp",
       "bytes": 736630,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1344,7 +1495,7 @@
       "path": "images/img-3fe64affb166.webp",
       "media_type": "image/webp",
       "bytes": 692830,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1352,7 +1503,7 @@
       "path": "images/img-c87154246a24.webp",
       "media_type": "image/webp",
       "bytes": 745318,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1360,7 +1511,7 @@
       "path": "images/img-4a071c2298f4.webp",
       "media_type": "image/webp",
       "bytes": 813422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1368,7 +1519,7 @@
       "path": "images/img-b8331edbdec7.webp",
       "media_type": "image/webp",
       "bytes": 799422,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1376,7 +1527,7 @@
       "path": "images/img-986d8b1f1113.webp",
       "media_type": "image/webp",
       "bytes": 784396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1384,7 +1535,7 @@
       "path": "images/img-4041aa19be50.webp",
       "media_type": "image/webp",
       "bytes": 775368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1392,19 +1543,29 @@
       "path": "images/img-b7f8412387f7.webp",
       "media_type": "image/webp",
       "bytes": 692906,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/2200xxs%2897%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-d7cb64a7c0b5.webp",
+      "media_type": "image/webp",
+      "bytes": 823884,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/trout-creek-mt-usa/Single%20Family%20Detached%20Trout%20Creek%20In%20Trout%20Creek,%20Montana,%20United%20States%20For%20Sale%20%2817297699%29_files/2200xxs%2898%29.jpg",
+      "path": "images/img-f670641c27f3.webp",
+      "media_type": "image/webp",
+      "bytes": 735864,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/02/25/14/57/09/90d5c1ce-ba73-4d62-a38a-93f1c71f3851/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1412,7 +1573,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1420,7 +1581,7 @@
       "path": "images/img-dc90c501bd51.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1428,7 +1589,7 @@
       "path": "images/img-194c24efc5ac.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1436,7 +1597,7 @@
       "path": "images/img-08ae040ecb3d.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1444,13 +1605,13 @@
       "path": "images/img-53ac4efe3cd9.webp",
       "media_type": "image/webp",
       "bytes": 2280,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 104,
-    "images_existing": 0,
-    "images_failed": 10,
+    "images_new": 5,
+    "images_existing": 104,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/westport-ca-usa/single-family-residence-in-westport-17869409
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:42:13Z
+- Retrieved: 2026-09-28T00:25:29Z
 - Address: 39801 Highway 1, Westport, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.668754,-123.786369
 - Coordinates: 39.67, -123.79
@@ -10,7 +10,7 @@
 - Listing reference: C1-11377
 - First listed: May 8
 - Last updated: May 18
-- Images downloaded: 9
+- Images downloaded: 13
 
 ## Property
 

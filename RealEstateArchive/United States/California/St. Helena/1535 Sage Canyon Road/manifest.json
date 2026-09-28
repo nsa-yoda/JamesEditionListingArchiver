@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:46.780175Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/st-helena-usa/elegant-winery-estate-vineyard-with-breathtaking-view-17560759",
     "canonical_url": "https://www.jamesedition.com/real_estate/st-helena-usa/elegant-winery-estate-vineyard-with-breathtaking-view-17560759",
@@ -9,13 +9,13 @@
     "listing_reference": "326027159",
     "first_listed": "Apr 4",
     "last_updated": "June 19",
-    "retrieved_at": "2026-09-26T18:46:21.127424Z"
+    "retrieved_at": "2026-09-28T00:20:46.296067Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2860,
-      "sha256": "846b4b71e5eb36dd7afb4550ef301eba5546fd731e518b8e62b1e5f58bf3101f"
+      "sha256": "5c8725116d3baf8ee3bbc2249087e8e41c704f0d4f12a8b7bb7e9bbddf15af1e"
     },
     {
       "path": "images/img-01d016815ee3.webp",
@@ -51,6 +51,11 @@
       "path": "images/img-253cd6b2f386.webp",
       "bytes": 218064,
       "sha256": "3d65035ba0e76b1c7194925eff2d7968aba1a1751d9f263774775c035783e9ea"
+    },
+    {
+      "path": "images/img-2c521da84712.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-308f9b775a10.webp",
@@ -103,6 +108,11 @@
       "sha256": "699e67dd34e5fd40cf270d74ffbce3abc5ae5eec4013f3b0f1c7ff070861e68b"
     },
     {
+      "path": "images/img-69092b059365.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-6957af9e93bc.webp",
       "bytes": 421754,
       "sha256": "6e405790321a12076338b139d5eacfa1166ed61e995e5168ee440812ea6d5ade"
@@ -121,6 +131,11 @@
       "path": "images/img-85d928de6483.webp",
       "bytes": 265376,
       "sha256": "ba91ccada5fe4315566e7e0a9d88d9fccee120e8d541c5ad02b20e91281363a6"
+    },
+    {
+      "path": "images/img-91cbc5500801.webp",
+      "bytes": 4050,
+      "sha256": "ac96885abbf5c7256ce29af1728a43b0796f0777884bc6286de37f4613883f0f"
     },
     {
       "path": "images/img-9db727e26733.webp",
@@ -199,8 +214,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 26510,
-      "sha256": "1193912ef1919e9be2ce390e59445745d6fe766485bf949cda572d94ef014dfe"
+      "bytes": 62718,
+      "sha256": "cdd0f38b3504d0e3d58c451b0428b1b66897f6170ad8c0e795b7aec4557b66af"
     },
     {
       "path": "source.html",
@@ -216,17 +231,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/2200xxs.jpg",
       "path": "images/img-c65b7021b47f.webp",
       "media_type": "image/webp",
       "bytes": 184394,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/d3d284f0-9679-4639-aa75-6bd20de3d6b6/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/d3d284f0-9679-4639-aa75-6bd20de3d6b6/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/d3d284f0-9679-4639-aa75-6bd20de3d6b6/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/d3d284f0-9679-4639-aa75-6bd20de3d6b6/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/d3d284f0-9679-4639-aa75-6bd20de3d6b6/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/d3d284f0-9679-4639-aa75-6bd20de3d6b6/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -234,13 +285,31 @@
       "path": "images/img-308f9b775a10.webp",
       "media_type": "image/webp",
       "bytes": 392752,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/454e2118-116c-4948-af3b-17599942f8ee/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/454e2118-116c-4948-af3b-17599942f8ee/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/454e2118-116c-4948-af3b-17599942f8ee/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/454e2118-116c-4948-af3b-17599942f8ee/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/454e2118-116c-4948-af3b-17599942f8ee/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/454e2118-116c-4948-af3b-17599942f8ee/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -248,13 +317,31 @@
       "path": "images/img-9db727e26733.webp",
       "media_type": "image/webp",
       "bytes": 333324,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/c0f65bfe-43a6-40b9-be80-b5e20100a6e2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/c0f65bfe-43a6-40b9-be80-b5e20100a6e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/c0f65bfe-43a6-40b9-be80-b5e20100a6e2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/c0f65bfe-43a6-40b9-be80-b5e20100a6e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/c0f65bfe-43a6-40b9-be80-b5e20100a6e2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/c0f65bfe-43a6-40b9-be80-b5e20100a6e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -262,13 +349,31 @@
       "path": "images/img-a7c150ce3a2f.webp",
       "media_type": "image/webp",
       "bytes": 332148,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/fc67bb5e-b629-4a81-bd01-2f9d2b71db98/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/fc67bb5e-b629-4a81-bd01-2f9d2b71db98/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/fc67bb5e-b629-4a81-bd01-2f9d2b71db98/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/fc67bb5e-b629-4a81-bd01-2f9d2b71db98/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/fc67bb5e-b629-4a81-bd01-2f9d2b71db98/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/fc67bb5e-b629-4a81-bd01-2f9d2b71db98/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -276,31 +381,67 @@
       "path": "images/img-85d928de6483.webp",
       "media_type": "image/webp",
       "bytes": 265376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-91cbc5500801.webp",
+      "media_type": "image/webp",
+      "bytes": 4050,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/request_plan_bg-33cc1401.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-69092b059365.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/street_view-b1ba588c.jpg",
+      "path": "images/img-2c521da84712.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/d3d284f0-9679-4639-aa75-6bd20de3d6b6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/d3d284f0-9679-4639-aa75-6bd20de3d6b6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/454e2118-116c-4948-af3b-17599942f8ee/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/454e2118-116c-4948-af3b-17599942f8ee/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/c0f65bfe-43a6-40b9-be80-b5e20100a6e2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/c0f65bfe-43a6-40b9-be80-b5e20100a6e2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/fc67bb5e-b629-4a81-bd01-2f9d2b71db98/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/fc67bb5e-b629-4a81-bd01-2f9d2b71db98/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -308,7 +449,7 @@
       "path": "images/img-de32c2253405.webp",
       "media_type": "image/webp",
       "bytes": 274418,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -316,7 +457,7 @@
       "path": "images/img-08afb896f51d.webp",
       "media_type": "image/webp",
       "bytes": 180958,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -324,7 +465,7 @@
       "path": "images/img-3ce061825db5.webp",
       "media_type": "image/webp",
       "bytes": 163858,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -332,7 +473,7 @@
       "path": "images/img-4f6d5e142605.webp",
       "media_type": "image/webp",
       "bytes": 160550,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -340,7 +481,7 @@
       "path": "images/img-84a7e314910b.webp",
       "media_type": "image/webp",
       "bytes": 364892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -348,7 +489,7 @@
       "path": "images/img-253cd6b2f386.webp",
       "media_type": "image/webp",
       "bytes": 218064,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -356,7 +497,7 @@
       "path": "images/img-f96907889552.webp",
       "media_type": "image/webp",
       "bytes": 590000,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -364,7 +505,7 @@
       "path": "images/img-6598e53f6685.webp",
       "media_type": "image/webp",
       "bytes": 242822,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -372,7 +513,7 @@
       "path": "images/img-7d68fdf7e0f2.webp",
       "media_type": "image/webp",
       "bytes": 151910,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -380,7 +521,7 @@
       "path": "images/img-c557f1e28001.webp",
       "media_type": "image/webp",
       "bytes": 288446,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -388,7 +529,7 @@
       "path": "images/img-f12b38516ca0.webp",
       "media_type": "image/webp",
       "bytes": 170642,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -396,7 +537,7 @@
       "path": "images/img-e93595b940de.webp",
       "media_type": "image/webp",
       "bytes": 150566,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -404,7 +545,7 @@
       "path": "images/img-39507f83e512.webp",
       "media_type": "image/webp",
       "bytes": 85276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -412,7 +553,7 @@
       "path": "images/img-66c3787dcd19.webp",
       "media_type": "image/webp",
       "bytes": 119504,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -420,7 +561,7 @@
       "path": "images/img-ce2446d6c0cc.webp",
       "media_type": "image/webp",
       "bytes": 84450,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -428,7 +569,7 @@
       "path": "images/img-0f3d172e7a7c.webp",
       "media_type": "image/webp",
       "bytes": 265374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -436,7 +577,7 @@
       "path": "images/img-01d016815ee3.webp",
       "media_type": "image/webp",
       "bytes": 314706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -444,7 +585,7 @@
       "path": "images/img-bd9ebedff72a.webp",
       "media_type": "image/webp",
       "bytes": 210790,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -452,7 +593,7 @@
       "path": "images/img-4038917b032f.webp",
       "media_type": "image/webp",
       "bytes": 569334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -460,7 +601,7 @@
       "path": "images/img-4754eb601fb0.webp",
       "media_type": "image/webp",
       "bytes": 467622,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -468,7 +609,7 @@
       "path": "images/img-1abdb99f9ca7.webp",
       "media_type": "image/webp",
       "bytes": 497956,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -476,7 +617,7 @@
       "path": "images/img-d039c539eea7.webp",
       "media_type": "image/webp",
       "bytes": 251008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -484,7 +625,7 @@
       "path": "images/img-dc11e0cd800b.webp",
       "media_type": "image/webp",
       "bytes": 489632,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -492,7 +633,7 @@
       "path": "images/img-37abe195a222.webp",
       "media_type": "image/webp",
       "bytes": 395794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -500,7 +641,7 @@
       "path": "images/img-6957af9e93bc.webp",
       "media_type": "image/webp",
       "bytes": 421754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -508,13 +649,13 @@
       "path": "images/img-ac2435f2547f.webp",
       "media_type": "image/webp",
       "bytes": 419428,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/st-helena-usa/Elegant%20Winery%20Estate%20\u0026%20Vineyard%20With%20In%20St.%20Helena,%20California,%20United%20States%20For%20Sale%20%2817560759%29_files/2200xxs%2830%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/03/14/42/02/cebe4580-fcb5-4a2a-a88f-2480ca6d5d70/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -522,7 +663,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -530,7 +671,7 @@
       "path": "images/img-dc90c501bd51.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -538,7 +679,7 @@
       "path": "images/img-194c24efc5ac.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -546,7 +687,7 @@
       "path": "images/img-08ae040ecb3d.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -554,13 +695,13 @@
       "path": "images/img-a666bcac0234.webp",
       "media_type": "image/webp",
       "bytes": 7360,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 36,
-    "images_existing": 0,
-    "images_failed": 9,
+    "images_new": 3,
+    "images_existing": 36,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

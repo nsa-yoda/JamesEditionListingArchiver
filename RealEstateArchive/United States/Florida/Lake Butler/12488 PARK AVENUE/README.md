@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/windermere-fl-usa/single-family-residence-in-windermere-17683369
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:47Z
+- Retrieved: 2026-09-28T00:25:30Z
 - Address: 12488 PARK AVENUE, Lake Butler, Florida, United States
 - Map: https://www.google.com/maps/search/?api=1&query=28.49814499,-81.567485
 - Coordinates: 28.5, -81.57
@@ -10,7 +10,7 @@
 - Listing reference: O6395291
 - First listed: Apr 15
 - Last updated: May 11
-- Images downloaded: 69
+- Images downloaded: 82
 
 ## Property
 

@@ -7,7 +7,7 @@ window.listingArchiveListing = {
     "listing_id": "17470271",
     "first_listed": "Mar 24",
     "last_updated": "July 10",
-    "retrieved_at": "2026-08-28T00:28:02.67211Z"
+    "retrieved_at": "2026-09-28T00:19:30.672806Z"
   },
   "location": {
     "address": "1-chōme-1-11 Kugenumamatsugaoka, Fujisawa, Kanagawa 251-0038, Japan",
@@ -93,117 +93,222 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/2200xxs.jpg",
       "file": "img-c8000c8fc688.webp",
       "media_type": "image/webp",
       "bytes": 485928,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/2200xxs.jpg",
       "file": "img-a8fbfcf58ad0.webp",
       "media_type": "image/webp",
       "bytes": 244516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/2200xxs.jpg",
       "file": "img-60a4474a0568.webp",
       "media_type": "image/webp",
       "bytes": 235250,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/2200xxs.jpg",
       "file": "img-4cc9c58f5f28.webp",
       "media_type": "image/webp",
       "bytes": 166666,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/2200xxs.jpg",
       "file": "img-8c714d888165.webp",
       "media_type": "image/webp",
       "bytes": 186328,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/e5bcb5d2-20da-4668-8fa4-41544234c0f3/je/2000xxs.jpg",
-      "file": "img-82f9967cef34.webp",
+      "file": "img-3d8149a3d450.webp",
       "media_type": "image/webp",
-      "bytes": 123750,
+      "bytes": 5888,
       "status": "new"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/f04c8b7c-c095-4a47-b8af-3bafe654ded2/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "file": "img-a919f4536870.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-6d5af3ff5363.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs.jpg",
+      "file": "img-6cdcaa659df6.webp",
+      "media_type": "image/webp",
+      "bytes": 415240,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%281%29.jpg",
+      "file": "img-c6bd04dfa550.webp",
+      "media_type": "image/webp",
+      "bytes": 142952,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%282%29.jpg",
+      "file": "img-82f9967cef34.webp",
+      "media_type": "image/webp",
+      "bytes": 123750,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%283%29.jpg",
       "file": "img-221e5da00364.webp",
       "media_type": "image/webp",
       "bytes": 139216,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2000xxs%284%29.jpg",
+      "file": "img-6737692510bd.webp",
+      "media_type": "image/webp",
+      "bytes": 197760,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/2000xxs.jpg",
+      "file": "img-87b08676bd1e.webp",
+      "media_type": "image/webp",
+      "bytes": 415240,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/2000xxs.jpg",
+      "file": "img-9ecf71bb134c.webp",
+      "media_type": "image/webp",
+      "bytes": 415240,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/2000xxs.jpg",
+      "file": "img-2a9a421cd454.webp",
+      "media_type": "image/webp",
+      "bytes": 415240,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/2000xxs.jpg",
+      "file": "img-3b17b43d221d.webp",
+      "media_type": "image/webp",
+      "bytes": 415240,
       "status": "new"
     },
     {
@@ -211,20 +316,27 @@ window.listingArchiveListing = {
       "file": "img-f602de8ce2ec.webp",
       "media_type": "image/webp",
       "bytes": 301644,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/babead95-0102-44d6-934c-89daf5ab14de/je/2000xxs.jpg",
       "file": "img-7a2ffe7dc991.webp",
       "media_type": "image/webp",
       "bytes": 182276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/8bd30389-9cff-427d-b120-844685d586ec/je/2000xxs.jpg",
       "file": "img-d21c348ea1cf.webp",
       "media_type": "image/webp",
       "bytes": 182372,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/2000xxs.jpg",
+      "file": "img-dc824956dbf4.webp",
+      "media_type": "image/webp",
+      "bytes": 415240,
       "status": "new"
     },
     {
@@ -232,169 +344,176 @@ window.listingArchiveListing = {
       "file": "img-661a029b1948.webp",
       "media_type": "image/webp",
       "bytes": 123934,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/2b1d732d-b209-4fa0-be4c-437c62b2c279/je/2000xxs.jpg",
       "file": "img-d77e4008254f.webp",
       "media_type": "image/webp",
       "bytes": 131428,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/1488c79b-d526-4be8-a07d-6737bfe10d1f/je/2000xxs.jpg",
       "file": "img-b7e3e032bd1f.webp",
       "media_type": "image/webp",
       "bytes": 109570,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/c5470fda-d1c2-4f8c-8d0a-050323271917/je/2000xxs.jpg",
       "file": "img-360ca8aa5aa2.webp",
       "media_type": "image/webp",
       "bytes": 95718,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/cf49e137-72b8-4fd2-aa2c-e324f832203d/je/2000xxs.jpg",
       "file": "img-e01440601cda.webp",
       "media_type": "image/webp",
       "bytes": 93838,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/fa0150cd-8271-4738-9752-f68d626b2970/je/2000xxs.jpg",
       "file": "img-b3489910e075.webp",
       "media_type": "image/webp",
       "bytes": 81758,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/f7424a88-accb-4483-8a74-0689d48c270a/je/2000xxs.jpg",
       "file": "img-3733e22a5bac.webp",
       "media_type": "image/webp",
       "bytes": 109558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/3ba5478c-9b08-467a-8d84-3c16011059bb/je/2000xxs.jpg",
       "file": "img-a78836d81618.webp",
       "media_type": "image/webp",
       "bytes": 177144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/59/06b71082-3062-4ac6-bfa5-ade14b3c93f4/je/2000xxs.jpg",
       "file": "img-b3c7b82ab1af.webp",
       "media_type": "image/webp",
       "bytes": 54624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/59/b50d04ff-e243-4909-a3e8-00d907463a62/je/2000xxs.jpg",
       "file": "img-63898d3268e5.webp",
       "media_type": "image/webp",
       "bytes": 121138,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/f77516e0-652d-47b7-a617-ab72cf60a618/je/2000xxs.jpg",
       "file": "img-3b37f1705a4f.webp",
       "media_type": "image/webp",
       "bytes": 120828,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/2ef99ef8-e4ee-47d6-a234-28ed41ef3a14/je/2000xxs.jpg",
       "file": "img-be2216c0ae89.webp",
       "media_type": "image/webp",
       "bytes": 105184,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/cd2c0761-1232-4f12-88e4-c53d66e7451f/je/2000xxs.jpg",
       "file": "img-08b9bf92290b.webp",
       "media_type": "image/webp",
       "bytes": 61136,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/59/95c8f5cc-9761-4833-94fd-02ed269c967a/je/2000xxs.jpg",
       "file": "img-8b33173df39f.webp",
       "media_type": "image/webp",
       "bytes": 103006,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/59/cc1aa61d-0290-4ed1-82f9-de10354d3eb9/je/2000xxs.jpg",
       "file": "img-cae063408e3f.webp",
       "media_type": "image/webp",
       "bytes": 112768,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0e363448-7d9d-45f0-b399-093c38f5e171/je/2000xxs.jpg",
       "file": "img-4a04116f4491.webp",
       "media_type": "image/webp",
       "bytes": 118018,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/14/16/41/27a4e82d-27de-4c50-b251-d66f92762a6f/je/2000xxs.jpg",
       "file": "img-61780fb8d161.webp",
       "media_type": "image/webp",
       "bytes": 133048,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/14/16/41/f88a71b7-2137-4c7b-b2eb-60113071715c/je/2000xxs.jpg",
       "file": "img-772aef91f630.webp",
       "media_type": "image/webp",
       "bytes": 224080,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/2200xxs%2827%29.jpg",
+      "file": "img-93329108da46.webp",
+      "media_type": "image/webp",
+      "bytes": 260660,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/agent_images/2026/04/14/00/59/38/a1c8e499-7ed6-4e45-8b02-5fd62fe7ba0e/je/80x80xc.jpg",
       "file": "img-c96cbaf01e26.webp",
       "media_type": "image/webp",
       "bytes": 1790,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "videos": [
     {
-      "source_url": "https://player.vimeo.com/video/1164595163?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/1164595163?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_source_url": "https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg",
       "poster_file": "img-46cfed71628d.webp",
-      "error": "response is not a recognized video"
+      "error": "yt-dlp could not download the video player URL"
     }
   ],
   "metadata": {
@@ -584,6 +703,81 @@ window.listingArchiveListing = {
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
-    "video https://player.vimeo.com/video/1164595163?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: response is not a recognized video"
+    "video https://player.vimeo.com/video/1164595163?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: response is not a recognized video",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1164595163?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0: Get \"https://player.vimeo.com/video/1164595163?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0\": dial tcp: lookup player.vimeo.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1164595163?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0: yt-dlp could not download the video player URL",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/46/58/0367b805-8ed6-4343-aa70-ba226ab0d2b3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/12/59/31/8a5ce6d6-ea09-4a89-862e-96946c5fea6d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/30/ebb62bea-fcf6-4138-81e2-a4abd27f727d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/01/30c23e45-ad1f-4adb-b513-2f61fc74e78a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/fujisawa-japan/A%20Coastal%20Legacy%20Above%20Sho%CC%84nan%20%E2%80%94%20Fujisawa%20Estate%20In%20Fujisawa,%20Kanagawa,%20Japan%20For%20Sale%20%2817470271%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/08/10/47/00/6d80a293-32ef-472d-8804-99db935d2283/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "video https://player.vimeo.com/video/1164595163?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0: yt-dlp could not download the video player URL"
   ]
 };

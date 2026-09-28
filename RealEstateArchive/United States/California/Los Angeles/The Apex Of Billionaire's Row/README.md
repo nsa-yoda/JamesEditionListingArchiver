@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/los-angeles-ca-usa/the-apex-of-billionaire-s-row-bel-air-17734262
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:38Z
+- Retrieved: 2026-09-28T00:25:37Z
 - Address: 677 Nimes Rd, Los Angeles, CA 90077, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.0888197,-118.4394797
 - Coordinates: 34.09, -118.44
 - Site listing ID: 17734262
 - First listed: Apr 22
 - Last updated: April 23
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

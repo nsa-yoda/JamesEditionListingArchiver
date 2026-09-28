@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/constanta-romania/hrisicos-house-architect-louis-givert-the-emblematic-seaside-landmark-16946093
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:20Z
+- Retrieved: 2026-09-28T00:19:19Z
 - Address: Str. Traian 1, Constanta, CT, Constanța, Constanța County, Romania
 - Map: https://www.google.com/maps/search/?api=1&query=44.1744210771085,28.6577697615131
 - Coordinates: 44.17, 28.66
@@ -10,8 +10,8 @@
 - Listing reference: 736ZL8
 - First listed: Jan 16
 - Last updated: April 29
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 17
+- Videos downloaded: 1
 
 ## Property
 

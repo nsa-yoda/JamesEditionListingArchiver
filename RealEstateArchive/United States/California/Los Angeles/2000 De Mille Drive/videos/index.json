@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "path": "United States/California/Los Angeles/2000 De Mille Drive/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-5447a9bde5c6.webp",
+      "href": "img-5447a9bde5c6.webp",
+      "size": 112482
+    },
+    {
+      "name": "vid-67177d9499ad.mp4",
+      "href": "vid-67177d9499ad.mp4",
+      "size": 140023352
+    }
+  ],
+  "last_updated": "2026-09-28T00:17:55.321519Z"
+}

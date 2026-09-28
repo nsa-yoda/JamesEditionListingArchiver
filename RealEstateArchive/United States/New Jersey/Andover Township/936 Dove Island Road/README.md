@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/stillwater-township-nj-usa/an-awe-inspiring-retreat-situated-on-forty-private-acres-15841182
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:21Z
+- Retrieved: 2026-09-28T00:19:54Z
 - Address: 936 Dove Island Road, Stillwater Township, NJ 07860, Andover Township, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.0659967,-74.814955
 - Coordinates: 41.07, -74.81
@@ -10,8 +10,8 @@
 - Listing reference: 9B7KCP
 - First listed: Jun 25, 2025
 - Last updated: April 16
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 12
+- Videos downloaded: 1
 
 ## Property
 

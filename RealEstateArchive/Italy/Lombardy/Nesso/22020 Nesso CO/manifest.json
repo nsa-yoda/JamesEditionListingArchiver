@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:22:05.741917Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/nesso-italy/lake-como-exclusive-villa-with-rare-lake-access-and-garden-in-nesso-18297944",
     "canonical_url": "https://www.jamesedition.com/real_estate/nesso-italy/lake-como-exclusive-villa-with-rare-lake-access-and-garden-in-nesso-18297944",
@@ -9,13 +9,13 @@
     "listing_reference": "ILO3441",
     "first_listed": "Jun 29",
     "last_updated": "July 1",
-    "retrieved_at": "2026-08-28T00:29:03.505244Z"
+    "retrieved_at": "2026-09-28T00:22:05.334866Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 3916,
-      "sha256": "917f1442f38e440c35f10a6030ccf8eb5ae64022246702690197b41290667e63"
+      "bytes": 3917,
+      "sha256": "25fc2a175f321219a34b7527c3c801017852a631f854e8b35347873d607faf6e"
     },
     {
       "path": "images/img-079fb87fa423.webp",
@@ -43,9 +43,19 @@
       "sha256": "083bb55ea0241fbc013e96c087e855c224551d3153616a19e2d82bb0c91a80ee"
     },
     {
+      "path": "images/img-130f4f52fb31.webp",
+      "bytes": 5304,
+      "sha256": "47b7c127773822d06b4422fba69101fd866ce911326191750620bdb8ca7d0d46"
+    },
+    {
       "path": "images/img-134fd1076f84.webp",
       "bytes": 121996,
       "sha256": "9aa6e4fc0b99778d6b0d27e3041b6e11325adc07faf300baab8cf7b474199fd3"
+    },
+    {
+      "path": "images/img-14a9bbe027b1.webp",
+      "bytes": 6864,
+      "sha256": "3869294d4670a586cc0290b207d74350ae9fb88368ba1d7a0458068c3e35d203"
     },
     {
       "path": "images/img-162f18468054.webp",
@@ -63,9 +73,19 @@
       "sha256": "586a7e4e52ddf4a35089b49416b40dfa7876a6ad3b0fb326b4dcb9d413c3d462"
     },
     {
+      "path": "images/img-2109677d031b.webp",
+      "bytes": 162618,
+      "sha256": "03c17fe31ec5aa6de4a301a311890ac004e90f70c672d20f6f58d8b23caba3e1"
+    },
+    {
       "path": "images/img-2226d6df5269.webp",
       "bytes": 416926,
       "sha256": "ae027d7048b404c50679e7ec254939cf709635500e9d9e8c062157aaff99d9da"
+    },
+    {
+      "path": "images/img-259cd7e57c0c.webp",
+      "bytes": 4886,
+      "sha256": "2e29196eb98b875750eab317dba31117848f45ee13c2c8ccce7cef98ff9d8378"
     },
     {
       "path": "images/img-281a8b353edd.webp",
@@ -138,6 +158,16 @@
       "sha256": "b18e3dbc50d1df4a875b79cdcf827925356100697f945f0d439c44669eea1913"
     },
     {
+      "path": "images/img-420a91a44508.webp",
+      "bytes": 4330,
+      "sha256": "bcbb442d45fcdf8707af30d342a50829122e2f1263a99cd1adb1b23145fbb5f7"
+    },
+    {
+      "path": "images/img-45cf19630b1f.webp",
+      "bytes": 7250,
+      "sha256": "3330c0b415ede53b4f84ccb2fbd72c8493db7aa2dc03400d3d44ac95e653e53b"
+    },
+    {
       "path": "images/img-4cf249fa7e2b.webp",
       "bytes": 416088,
       "sha256": "256b0f1b22b19836adccb9831e0a40384ee02654331f61ddf25cf649810da9c0"
@@ -193,6 +223,11 @@
       "sha256": "327bed6fe4e7a06cc7d6b3e4c6783fbad3b1ef81db0a49a0118fb559e7eacbd1"
     },
     {
+      "path": "images/img-5d6ed8cc2375.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-5e10a4094151.webp",
       "bytes": 366876,
       "sha256": "bb119bbce1a6e5d4391e36f5f3bedff30785b85b8afe4a4ed110f437ff0dae07"
@@ -228,6 +263,11 @@
       "sha256": "9f4f21fbce5d85ad7bf9f10c864fdf6b15ef7d4a3a6faf612bd3afd38a92fdfe"
     },
     {
+      "path": "images/img-688aec7dfda8.webp",
+      "bytes": 190728,
+      "sha256": "aa386664c984132d414ce6f2e4764e6e793aefd10f0452fce10aee172b38fe6e"
+    },
+    {
       "path": "images/img-6b8d121fba1a.webp",
       "bytes": 498362,
       "sha256": "ba028efdd18343c1f50ceac85f6ca63b1b54475b821b646578b7b2154759ab45"
@@ -248,9 +288,19 @@
       "sha256": "595547ce6574aa35f4f3cf0c8f614b9c385a4c00e40062a3ed64fe9fbb176c16"
     },
     {
+      "path": "images/img-7214bbcea1d1.webp",
+      "bytes": 7810,
+      "sha256": "c57cdfed5eeaf137e5f0b30f963977ac25dc9877da05114d883a094e4eb3372d"
+    },
+    {
       "path": "images/img-77cf10bc96a2.webp",
       "bytes": 376568,
       "sha256": "6b54cdb90e56f7a6314bde49be90952b54215a8defe496897d32054adcef94d7"
+    },
+    {
+      "path": "images/img-780d45209251.webp",
+      "bytes": 5016,
+      "sha256": "ea31a282fceb5adb141a2e48295807c452692b15e4896315d042385b173f7d5b"
     },
     {
       "path": "images/img-7c72c6f69fac.webp",
@@ -293,6 +343,11 @@
       "sha256": "0d4e0c0fb3aeec6ae1a54a1fc49724d21a4152c573c1a8337754a4248713a4b3"
     },
     {
+      "path": "images/img-9466e11b1129.webp",
+      "bytes": 203928,
+      "sha256": "c687cf790f544afaca10cc9f9f9cd03b3861b8a362901976ce15ac25b5fe5b04"
+    },
+    {
       "path": "images/img-99b8b857390a.webp",
       "bytes": 296130,
       "sha256": "4a249d6f10d3efa700bf1764200f35fe23a939c1fd17dfe06550ecf33bea304a"
@@ -313,6 +368,11 @@
       "sha256": "67d74138222b7f2fd4e8f664ee731af55fd8764b1a6ac36d20b2b852aed8b356"
     },
     {
+      "path": "images/img-aa346923d6bd.webp",
+      "bytes": 6050,
+      "sha256": "becc1e4a4a17a080834d20973669fc1a39905ba2a55bbc3ea977a83dba7cdd5d"
+    },
+    {
       "path": "images/img-b25c9992668f.webp",
       "bytes": 369128,
       "sha256": "81664d31d6897e9b1ae3e2b4bff1199f31616e342493fce5e566628526600be6"
@@ -326,6 +386,11 @@
       "path": "images/img-b77965f147f4.webp",
       "bytes": 232994,
       "sha256": "c12a5d074eabe03146c28fa624f99cdef149c2a243996261e80981cd08ba7fde"
+    },
+    {
+      "path": "images/img-b7eef0d88abb.webp",
+      "bytes": 7250,
+      "sha256": "3330c0b415ede53b4f84ccb2fbd72c8493db7aa2dc03400d3d44ac95e653e53b"
     },
     {
       "path": "images/img-b877f34183a6.webp",
@@ -428,6 +493,11 @@
       "sha256": "fe2e4af00a3b2a4779c8b33bd3c92f373200d043fe882f433cdf14ed40ef046f"
     },
     {
+      "path": "images/img-f1c325d68e85.webp",
+      "bytes": 6804,
+      "sha256": "80c27201c7a53c607a772d683cd3fd6d97f73f20628b4a7608b6b6a0f633814c"
+    },
+    {
       "path": "images/img-f2525d9fbad9.webp",
       "bytes": 251606,
       "sha256": "8b3abbb295f50d5138c1ad00d168310a8e89786ef3447889230b8b0aaf800437"
@@ -464,8 +534,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 48655,
-      "sha256": "b7e52388082f7bc570bc26feaba8b79f01b9156df1e76a003e88feb6b061984a"
+      "bytes": 89272,
+      "sha256": "b02ef449e411189e4e2eaf25e361255db470683fc7c3a2ba8ab6a71123970f70"
     },
     {
       "path": "source.html",
@@ -481,17 +551,53 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/2200xxs.jpg",
       "path": "images/img-630cebf0a99c.webp",
       "media_type": "image/webp",
       "bytes": 806626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/19/00680534-7542-4d49-afe7-c5b964f66c8e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/19/00680534-7542-4d49-afe7-c5b964f66c8e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/19/00680534-7542-4d49-afe7-c5b964f66c8e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/19/00680534-7542-4d49-afe7-c5b964f66c8e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/19/00680534-7542-4d49-afe7-c5b964f66c8e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/19/00680534-7542-4d49-afe7-c5b964f66c8e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -499,13 +605,31 @@
       "path": "images/img-c1b6a20f1321.webp",
       "media_type": "image/webp",
       "bytes": 516634,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/16/b24d8d12-64c1-4849-b123-6f8b52588fc3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/16/b24d8d12-64c1-4849-b123-6f8b52588fc3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/16/b24d8d12-64c1-4849-b123-6f8b52588fc3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/16/b24d8d12-64c1-4849-b123-6f8b52588fc3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/16/b24d8d12-64c1-4849-b123-6f8b52588fc3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/16/b24d8d12-64c1-4849-b123-6f8b52588fc3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -513,13 +637,31 @@
       "path": "images/img-33b209f7c76d.webp",
       "media_type": "image/webp",
       "bytes": 633272,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/20/0eddf1f2-6329-439e-bbbc-539a6adf472c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/20/0eddf1f2-6329-439e-bbbc-539a6adf472c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/20/0eddf1f2-6329-439e-bbbc-539a6adf472c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/20/0eddf1f2-6329-439e-bbbc-539a6adf472c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/20/0eddf1f2-6329-439e-bbbc-539a6adf472c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/20/0eddf1f2-6329-439e-bbbc-539a6adf472c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -527,13 +669,31 @@
       "path": "images/img-6e4f2348de8d.webp",
       "media_type": "image/webp",
       "bytes": 483362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/69cf1e98-f5d2-4b02-8ddd-f0f621e50036/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/69cf1e98-f5d2-4b02-8ddd-f0f621e50036/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/69cf1e98-f5d2-4b02-8ddd-f0f621e50036/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/69cf1e98-f5d2-4b02-8ddd-f0f621e50036/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/69cf1e98-f5d2-4b02-8ddd-f0f621e50036/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/69cf1e98-f5d2-4b02-8ddd-f0f621e50036/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -541,79 +701,131 @@
       "path": "images/img-e5ea39c05ee1.webp",
       "media_type": "image/webp",
       "bytes": 780858,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-f1c325d68e85.webp",
+      "media_type": "image/webp",
+      "bytes": 6804,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-5d6ed8cc2375.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-aa346923d6bd.webp",
+      "media_type": "image/webp",
+      "bytes": 6050,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-130f4f52fb31.webp",
+      "media_type": "image/webp",
+      "bytes": 5304,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-780d45209251.webp",
+      "media_type": "image/webp",
+      "bytes": 5016,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-7214bbcea1d1.webp",
+      "media_type": "image/webp",
+      "bytes": 7810,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-259cd7e57c0c.webp",
+      "media_type": "image/webp",
+      "bytes": 4886,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%286%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-b7eef0d88abb.webp",
+      "media_type": "image/webp",
+      "bytes": 7250,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-45cf19630b1f.webp",
+      "media_type": "image/webp",
+      "bytes": 7250,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%288%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-14a9bbe027b1.webp",
+      "media_type": "image/webp",
+      "bytes": 6864,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/160x120xc%289%29.jpg",
+      "path": "images/img-420a91a44508.webp",
+      "media_type": "image/webp",
+      "bytes": 4330,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/19/00680534-7542-4d49-afe7-c5b964f66c8e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/19/00680534-7542-4d49-afe7-c5b964f66c8e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/16/b24d8d12-64c1-4849-b123-6f8b52588fc3/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/16/b24d8d12-64c1-4849-b123-6f8b52588fc3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/20/0eddf1f2-6329-439e-bbbc-539a6adf472c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/20/0eddf1f2-6329-439e-bbbc-539a6adf472c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/69cf1e98-f5d2-4b02-8ddd-f0f621e50036/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/01/14/20/16/69cf1e98-f5d2-4b02-8ddd-f0f621e50036/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -621,7 +833,7 @@
       "path": "images/img-bc744b7bc5ec.webp",
       "media_type": "image/webp",
       "bytes": 414040,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -629,7 +841,7 @@
       "path": "images/img-3784f741867e.webp",
       "media_type": "image/webp",
       "bytes": 672056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -637,7 +849,7 @@
       "path": "images/img-20ab1d3e3af0.webp",
       "media_type": "image/webp",
       "bytes": 672056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -645,7 +857,7 @@
       "path": "images/img-c2b79fa13f4b.webp",
       "media_type": "image/webp",
       "bytes": 709396,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -653,7 +865,7 @@
       "path": "images/img-f2525d9fbad9.webp",
       "media_type": "image/webp",
       "bytes": 251606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -661,7 +873,7 @@
       "path": "images/img-b66e147ab6f9.webp",
       "media_type": "image/webp",
       "bytes": 336080,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -669,7 +881,7 @@
       "path": "images/img-5033316754b1.webp",
       "media_type": "image/webp",
       "bytes": 473274,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -677,7 +889,7 @@
       "path": "images/img-2c2d90716806.webp",
       "media_type": "image/webp",
       "bytes": 478460,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -685,7 +897,7 @@
       "path": "images/img-08dc14db91bd.webp",
       "media_type": "image/webp",
       "bytes": 473918,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -693,7 +905,7 @@
       "path": "images/img-362057d899d3.webp",
       "media_type": "image/webp",
       "bytes": 597848,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -701,7 +913,7 @@
       "path": "images/img-57285ebca5bd.webp",
       "media_type": "image/webp",
       "bytes": 402568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -709,7 +921,7 @@
       "path": "images/img-daf20d34fe54.webp",
       "media_type": "image/webp",
       "bytes": 382356,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -717,7 +929,7 @@
       "path": "images/img-2bb14904048c.webp",
       "media_type": "image/webp",
       "bytes": 684896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -725,7 +937,7 @@
       "path": "images/img-0d78b9bf6ecc.webp",
       "media_type": "image/webp",
       "bytes": 671142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -733,7 +945,7 @@
       "path": "images/img-308f2934c4d9.webp",
       "media_type": "image/webp",
       "bytes": 177948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -741,7 +953,7 @@
       "path": "images/img-77cf10bc96a2.webp",
       "media_type": "image/webp",
       "bytes": 376568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -749,7 +961,7 @@
       "path": "images/img-281a8b353edd.webp",
       "media_type": "image/webp",
       "bytes": 408102,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -757,7 +969,7 @@
       "path": "images/img-38bfc19eebc7.webp",
       "media_type": "image/webp",
       "bytes": 219280,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -765,7 +977,7 @@
       "path": "images/img-b25c9992668f.webp",
       "media_type": "image/webp",
       "bytes": 369128,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -773,7 +985,7 @@
       "path": "images/img-facfb743a405.webp",
       "media_type": "image/webp",
       "bytes": 187730,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -781,7 +993,7 @@
       "path": "images/img-55ec192f6571.webp",
       "media_type": "image/webp",
       "bytes": 496598,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -789,7 +1001,7 @@
       "path": "images/img-9a767ed5097b.webp",
       "media_type": "image/webp",
       "bytes": 492454,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -797,7 +1009,7 @@
       "path": "images/img-6e96fa39753f.webp",
       "media_type": "image/webp",
       "bytes": 219668,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -805,7 +1017,7 @@
       "path": "images/img-dde71c959d21.webp",
       "media_type": "image/webp",
       "bytes": 171614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -813,7 +1025,7 @@
       "path": "images/img-b77965f147f4.webp",
       "media_type": "image/webp",
       "bytes": 232994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -821,7 +1033,7 @@
       "path": "images/img-fa6f65a76575.webp",
       "media_type": "image/webp",
       "bytes": 157296,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -829,7 +1041,7 @@
       "path": "images/img-99b8b857390a.webp",
       "media_type": "image/webp",
       "bytes": 296130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -837,7 +1049,7 @@
       "path": "images/img-510ccb28e2de.webp",
       "media_type": "image/webp",
       "bytes": 253954,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -845,7 +1057,7 @@
       "path": "images/img-3247971521d9.webp",
       "media_type": "image/webp",
       "bytes": 175516,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -853,7 +1065,7 @@
       "path": "images/img-09cf16a4b465.webp",
       "media_type": "image/webp",
       "bytes": 246764,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -861,7 +1073,7 @@
       "path": "images/img-5e10a4094151.webp",
       "media_type": "image/webp",
       "bytes": 366876,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -869,7 +1081,7 @@
       "path": "images/img-655fa7ed44bb.webp",
       "media_type": "image/webp",
       "bytes": 553222,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -877,7 +1089,7 @@
       "path": "images/img-b877f34183a6.webp",
       "media_type": "image/webp",
       "bytes": 714074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -885,7 +1097,7 @@
       "path": "images/img-51c009d5e326.webp",
       "media_type": "image/webp",
       "bytes": 713910,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -893,7 +1105,7 @@
       "path": "images/img-7f434a50dc4d.webp",
       "media_type": "image/webp",
       "bytes": 351144,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -901,7 +1113,7 @@
       "path": "images/img-9030900020c4.webp",
       "media_type": "image/webp",
       "bytes": 292152,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -909,7 +1121,7 @@
       "path": "images/img-40be4f8064cd.webp",
       "media_type": "image/webp",
       "bytes": 366466,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -917,7 +1129,7 @@
       "path": "images/img-d4078c28e8fb.webp",
       "media_type": "image/webp",
       "bytes": 348188,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -925,7 +1137,7 @@
       "path": "images/img-f263628252bc.webp",
       "media_type": "image/webp",
       "bytes": 91922,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -933,7 +1145,7 @@
       "path": "images/img-b963b788af03.webp",
       "media_type": "image/webp",
       "bytes": 512034,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -941,7 +1153,7 @@
       "path": "images/img-64f2014e4144.webp",
       "media_type": "image/webp",
       "bytes": 78432,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -949,7 +1161,7 @@
       "path": "images/img-d024e887f696.webp",
       "media_type": "image/webp",
       "bytes": 162066,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -957,7 +1169,7 @@
       "path": "images/img-3ac6c0945b72.webp",
       "media_type": "image/webp",
       "bytes": 184026,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -965,7 +1177,7 @@
       "path": "images/img-4e4e6802e573.webp",
       "media_type": "image/webp",
       "bytes": 210780,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -973,7 +1185,7 @@
       "path": "images/img-850cc0485a92.webp",
       "media_type": "image/webp",
       "bytes": 162924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -981,7 +1193,7 @@
       "path": "images/img-ea78dfaaf729.webp",
       "media_type": "image/webp",
       "bytes": 174896,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -989,7 +1201,7 @@
       "path": "images/img-2e7dfc08b3fb.webp",
       "media_type": "image/webp",
       "bytes": 140514,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -997,7 +1209,7 @@
       "path": "images/img-eb5c18e08baf.webp",
       "media_type": "image/webp",
       "bytes": 681836,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1005,7 +1217,7 @@
       "path": "images/img-134fd1076f84.webp",
       "media_type": "image/webp",
       "bytes": 121996,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1013,7 +1225,7 @@
       "path": "images/img-8628ac43d2c2.webp",
       "media_type": "image/webp",
       "bytes": 466920,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1021,7 +1233,7 @@
       "path": "images/img-614e3e35561e.webp",
       "media_type": "image/webp",
       "bytes": 640586,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1029,7 +1241,7 @@
       "path": "images/img-5ff49d2c0943.webp",
       "media_type": "image/webp",
       "bytes": 204286,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1037,7 +1249,7 @@
       "path": "images/img-72037909343c.webp",
       "media_type": "image/webp",
       "bytes": 185454,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1045,7 +1257,7 @@
       "path": "images/img-4cf249fa7e2b.webp",
       "media_type": "image/webp",
       "bytes": 416088,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1053,7 +1265,7 @@
       "path": "images/img-0a760cb4ce6c.webp",
       "media_type": "image/webp",
       "bytes": 411282,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1061,7 +1273,7 @@
       "path": "images/img-9ca801c0c424.webp",
       "media_type": "image/webp",
       "bytes": 516654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1069,7 +1281,7 @@
       "path": "images/img-079fb87fa423.webp",
       "media_type": "image/webp",
       "bytes": 118022,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1077,7 +1289,7 @@
       "path": "images/img-ef7e3b02ef2e.webp",
       "media_type": "image/webp",
       "bytes": 116328,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1085,7 +1297,7 @@
       "path": "images/img-c5d8d30edb65.webp",
       "media_type": "image/webp",
       "bytes": 79538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1093,7 +1305,7 @@
       "path": "images/img-c7a506b5c182.webp",
       "media_type": "image/webp",
       "bytes": 74936,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1101,7 +1313,7 @@
       "path": "images/img-2a1650e2b8d2.webp",
       "media_type": "image/webp",
       "bytes": 153624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1109,7 +1321,7 @@
       "path": "images/img-eb7f1e20c89a.webp",
       "media_type": "image/webp",
       "bytes": 247614,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1117,7 +1329,7 @@
       "path": "images/img-8b8f8332062a.webp",
       "media_type": "image/webp",
       "bytes": 537568,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1125,7 +1337,7 @@
       "path": "images/img-7c72c6f69fac.webp",
       "media_type": "image/webp",
       "bytes": 655880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1133,7 +1345,7 @@
       "path": "images/img-6b8d121fba1a.webp",
       "media_type": "image/webp",
       "bytes": 498362,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1141,7 +1353,7 @@
       "path": "images/img-833db3cbea1e.webp",
       "media_type": "image/webp",
       "bytes": 667092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1149,7 +1361,7 @@
       "path": "images/img-c442ee9877bc.webp",
       "media_type": "image/webp",
       "bytes": 689418,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1157,7 +1369,7 @@
       "path": "images/img-59adc972ba81.webp",
       "media_type": "image/webp",
       "bytes": 622912,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1165,7 +1377,7 @@
       "path": "images/img-2226d6df5269.webp",
       "media_type": "image/webp",
       "bytes": 416926,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1173,7 +1385,7 @@
       "path": "images/img-fe8e57762e19.webp",
       "media_type": "image/webp",
       "bytes": 526472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1181,7 +1393,7 @@
       "path": "images/img-d8e1d4f423fc.webp",
       "media_type": "image/webp",
       "bytes": 608452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1189,7 +1401,7 @@
       "path": "images/img-c573f1946a7b.webp",
       "media_type": "image/webp",
       "bytes": 533046,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1197,7 +1409,7 @@
       "path": "images/img-a3d28c0920fb.webp",
       "media_type": "image/webp",
       "bytes": 668994,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1205,7 +1417,7 @@
       "path": "images/img-62f1076df30d.webp",
       "media_type": "image/webp",
       "bytes": 668426,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1213,7 +1425,7 @@
       "path": "images/img-162f18468054.webp",
       "media_type": "image/webp",
       "bytes": 714610,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1221,7 +1433,7 @@
       "path": "images/img-5c7931653738.webp",
       "media_type": "image/webp",
       "bytes": 808924,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1229,7 +1441,7 @@
       "path": "images/img-fb1fd3a34c32.webp",
       "media_type": "image/webp",
       "bytes": 616140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1237,7 +1449,7 @@
       "path": "images/img-f7ee689a5fbf.webp",
       "media_type": "image/webp",
       "bytes": 494554,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1245,7 +1457,7 @@
       "path": "images/img-40b8a3547c1a.webp",
       "media_type": "image/webp",
       "bytes": 541596,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1253,7 +1465,7 @@
       "path": "images/img-8edc802ea8a5.webp",
       "media_type": "image/webp",
       "bytes": 494908,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1261,7 +1473,7 @@
       "path": "images/img-20d2cdf72402.webp",
       "media_type": "image/webp",
       "bytes": 28560,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1269,25 +1481,37 @@
       "path": "images/img-5a786c843301.webp",
       "media_type": "image/webp",
       "bytes": 8762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/2200xxs%2849%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-688aec7dfda8.webp",
+      "media_type": "image/webp",
+      "bytes": 190728,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/2200xxs%2850%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-9466e11b1129.webp",
+      "media_type": "image/webp",
+      "bytes": 203928,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/nesso-italy/Lake%20Como%20Exclusive%20Villa%20With%20Rare%20Lake%20Access%20And%20In%20Nesso,%20Lombardy,%20Italy%20For%20Sale%20%2818297944%29_files/2200xxs%2851%29.jpg",
+      "path": "images/img-2109677d031b.webp",
+      "media_type": "image/webp",
+      "bytes": 162618,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/29/14/18/14/441218bf-5821-409f-bccf-1ce234d914e4/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1295,25 +1519,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1321,13 +1545,13 @@
       "path": "images/img-dc99da6230c1.webp",
       "media_type": "image/webp",
       "bytes": 916,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 89,
-    "images_existing": 0,
-    "images_failed": 22,
+    "images_new": 14,
+    "images_existing": 89,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -2,15 +2,15 @@
 
 - Source: https://www.jamesedition.com/real_estate/malibu-ca-usa/estate-malibu-united-states-17427502
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:24Z
+- Retrieved: 2026-09-28T00:20:49Z
 - Address: 10502 Yellow Hill Road, Malibu, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=34.076196,-118.93983
 - Coordinates: 34.08, -118.94
 - Site listing ID: 17427502
 - Listing reference: 067552
 - First listed: Mar 17
-- Last updated: March 17
-- Images downloaded: 10
+- Last updated: June 18
+- Images downloaded: 22
 
 ## Property
 

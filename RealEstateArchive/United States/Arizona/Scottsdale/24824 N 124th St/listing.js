@@ -8,7 +8,7 @@ window.listingArchiveListing = {
     "listing_reference": "213518741.0",
     "first_listed": "Apr 4",
     "last_updated": "Yesterday",
-    "retrieved_at": "2026-06-16T03:43:16.534203Z"
+    "retrieved_at": "2026-09-28T00:18:02.953645Z"
   },
   "location": {
     "address": "24824 N 124th St, AZ, Scottsdale, Arizona, United States",
@@ -78,6 +78,21 @@ window.listingArchiveListing = {
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/2200xxs.jpg",
       "file": "004-29402c4a.webp",
       "media_type": "image/webp",
@@ -86,7 +101,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/2200xxs.jpg",
@@ -97,7 +128,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/2200xxs.jpg",
@@ -108,7 +155,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/2200xxs.jpg",
@@ -119,7 +182,23 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/2200xxs.jpg",
@@ -130,55 +209,97 @@ window.listingArchiveListing = {
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-3d0b5663050b.webp",
+      "media_type": "image/webp",
+      "bytes": 3292,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-1af38abfca50.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-5d7de7d03ac7.webp",
+      "media_type": "image/webp",
+      "bytes": 3068,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-9c7e5e945d00.webp",
+      "media_type": "image/webp",
+      "bytes": 4812,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-ace0d865bd8e.webp",
+      "media_type": "image/webp",
+      "bytes": 5002,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-67769ad437ae.webp",
+      "media_type": "image/webp",
+      "bytes": 5032,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%285%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-e5911c54f27f.webp",
+      "media_type": "image/webp",
+      "bytes": 3760,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%286%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-5e2155fa2d10.webp",
+      "media_type": "image/webp",
+      "bytes": 4722,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%287%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-c8df9ce0a0f0.webp",
+      "media_type": "image/webp",
+      "bytes": 5626,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%288%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-7112c6b641cc.webp",
+      "media_type": "image/webp",
+      "bytes": 3462,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%289%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-8dc7ca87f465.webp",
+      "media_type": "image/webp",
+      "bytes": 4004,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-1fa77737cf5d.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -373,6 +494,69 @@ window.listingArchiveListing = {
     "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%287%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%288%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/160x120xc%289%29.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/5650684d-4d2f-40e9-920a-95b194da87d9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/81350b31-c7de-4f8e-b5b1-cf2fadc95a9e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/fe92d340-a553-4255-9b49-3d362cf6889e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/f7af7245-2ef8-426b-baef-7bc206812928/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/scottsdale-az-usa/24824%20N%20124th%20St%20In%20Scottsdale,%20Arizona,%20United%20States%20For%20Sale%20%2817564409%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/04/04/02/39/25/96fe685f-6dce-4dcc-8f9c-ac7fd655b8ec/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 };

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:48.543156Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51-hoagland-road-blairstown-nj-07825-18838779",
     "canonical_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51-hoagland-road-blairstown-nj-07825-18838779",
@@ -9,13 +9,13 @@
     "listing_reference": "Q5LQC9",
     "first_listed": "Sep 11",
     "last_updated": "September 11",
-    "retrieved_at": "2026-09-26T18:46:13.401974Z"
+    "retrieved_at": "2026-09-28T00:18:48.172517Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2471,
-      "sha256": "9d4cd2140bee4841fba527d46eff93d2d427d5d1a9fb8d1104d592a0dba3983b"
+      "sha256": "e845ba4af1c878badf8b3ce96b056897ca6e419608ee39db2e3a8b8985deb05a"
     },
     {
       "path": "images/img-003cd7e8b3a0.webp",
@@ -43,6 +43,11 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-14ad75e705e5.webp",
+      "bytes": 173928,
+      "sha256": "037fd12de8ab6af119767f168f7e595b15e7354094a416116a2212c0da2e6797"
+    },
+    {
       "path": "images/img-15619f5332a6.webp",
       "bytes": 216184,
       "sha256": "9fd2e288ea6f17dee7269b78179b035573fe93daba1f2c8ea86e88d39b509058"
@@ -63,6 +68,11 @@
       "sha256": "091ad5154bd4d6ab5034cec2c7197d119d31f4f377a93b4d0934781917d2c8d3"
     },
     {
+      "path": "images/img-1e18bb50ea20.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-2e9cd11f5316.webp",
       "bytes": 112262,
       "sha256": "083356dfe8d07cf84dd5ecbfd7f1a84ba69d466360ebecc63c37db62d0a70f4d"
@@ -73,9 +83,19 @@
       "sha256": "c809299a9407fbed485b8ce796e2e15492515ec9d040984342bb5e9477714b73"
     },
     {
+      "path": "images/img-34d260839318.webp",
+      "bytes": 273720,
+      "sha256": "d75a5b2e24e4f25e9d79225b212dbfa4a0598182455db6270c981c7dd68a12b3"
+    },
+    {
       "path": "images/img-3502045ad417.webp",
       "bytes": 703292,
       "sha256": "b27d053378f8dd780eda9922f449de37995e515ffe3a458b6066dd2f4e6ba916"
+    },
+    {
+      "path": "images/img-4b5fde9953d0.jpg",
+      "bytes": 897395,
+      "sha256": "c515ef341f3dc1af7e540776ffcfbd25c9f1b1fb7b7fc1f81210c21ec1548093"
     },
     {
       "path": "images/img-533303d6d1b3.webp",
@@ -108,9 +128,19 @@
       "sha256": "f281136069ecd5ffbe6bc1935f3e70fb9fbc574ae18e66a4c9f9af780ffe4b34"
     },
     {
+      "path": "images/img-64ca6d136309.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-661803140878.webp",
       "bytes": 113526,
       "sha256": "39a02d904950439989eb433c067a00c0367332e2fe4067259aa1ab6b66be4545"
+    },
+    {
+      "path": "images/img-66ca62a730ec.webp",
+      "bytes": 186252,
+      "sha256": "7e6c80b81ff69e08b70bef2b038dbcdb38638e699659ff0a7c63c48a977d1391"
     },
     {
       "path": "images/img-683278852668.webp",
@@ -118,9 +148,19 @@
       "sha256": "dc5df1d67fec86a061a2d4fe257bea0cd71b29e9225f9481236bf4d748498d9c"
     },
     {
+      "path": "images/img-72f54c5d9542.webp",
+      "bytes": 318002,
+      "sha256": "00e2b6aaca2ccbef418e9ba817a06e33bb91d53309b637ea0bcba16a8c42c057"
+    },
+    {
       "path": "images/img-7763431de24b.webp",
       "bytes": 122234,
       "sha256": "7329f2950c343e559c2868a99385fa97b48ecff2d993a90d216173927554b485"
+    },
+    {
+      "path": "images/img-77f1572fcb8d.webp",
+      "bytes": 169238,
+      "sha256": "93da81ff3d953077611891f408c9b25e976b433aff5e5eaf1025a39dbf5ac61d"
     },
     {
       "path": "images/img-8d4232272575.webp",
@@ -148,6 +188,11 @@
       "sha256": "143b36187ed1f6daf1c93c32621a55ddfcd5f6303c985e44650f630bb83d0a6c"
     },
     {
+      "path": "images/img-ad9db7535ae5.jpg",
+      "bytes": 897395,
+      "sha256": "c515ef341f3dc1af7e540776ffcfbd25c9f1b1fb7b7fc1f81210c21ec1548093"
+    },
+    {
       "path": "images/img-ae1dd2a2a78f.webp",
       "bytes": 192812,
       "sha256": "f233c68e058230e71e33eed8e46babe34537da4f680b9078e2e64adfb603f32c"
@@ -156,6 +201,11 @@
       "path": "images/img-afa5e358e052.webp",
       "bytes": 521184,
       "sha256": "d13ec2f20520a3828f90a877ac87518051163902534fd5ece52f3def59bdcca3"
+    },
+    {
+      "path": "images/img-b1cfb43425a0.jpg",
+      "bytes": 897395,
+      "sha256": "c515ef341f3dc1af7e540776ffcfbd25c9f1b1fb7b7fc1f81210c21ec1548093"
     },
     {
       "path": "images/img-b272f1270f44.webp",
@@ -188,9 +238,19 @@
       "sha256": "18c009ef7f869c8261f50d05957d77dc526b02ed46584c6deb3e4927f00c3350"
     },
     {
+      "path": "images/img-dc70a5675405.webp",
+      "bytes": 6890,
+      "sha256": "8fd4614f556af62f7662f3afda5c746c89d4452826e0c4b20a71f03c9ecb9fd7"
+    },
+    {
       "path": "images/img-dc90c501bd51.svg",
       "bytes": 63657,
       "sha256": "caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d"
+    },
+    {
+      "path": "images/img-e03a6e663905.jpg",
+      "bytes": 897395,
+      "sha256": "c515ef341f3dc1af7e540776ffcfbd25c9f1b1fb7b7fc1f81210c21ec1548093"
     },
     {
       "path": "images/img-e9d8773f7274.webp",
@@ -209,8 +269,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 29164,
-      "sha256": "eb784babab8e8d8a924168d1538e32ca4ee8876171cd60056b125f590c1276ae"
+      "bytes": 50070,
+      "sha256": "c3ddf42d0322b957d0f53d16ae44cbb4fc55f6d58af1a29bcc9f6568f5de2fc6"
     },
     {
       "path": "source.html",
@@ -226,17 +286,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/2200xxs.jpg",
       "path": "images/img-9a73e9eaf956.webp",
       "media_type": "image/webp",
       "bytes": 979368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/d3efb889-a33c-4556-ba19-e95b98c94bc3/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/d3efb889-a33c-4556-ba19-e95b98c94bc3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/d3efb889-a33c-4556-ba19-e95b98c94bc3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/d3efb889-a33c-4556-ba19-e95b98c94bc3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/d3efb889-a33c-4556-ba19-e95b98c94bc3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/d3efb889-a33c-4556-ba19-e95b98c94bc3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -244,13 +334,33 @@
       "path": "images/img-f1ed239a3cd0.webp",
       "media_type": "image/webp",
       "bytes": 802202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/1100xxs%281%29.jpg",
+      "path": "images/img-72f54c5d9542.webp",
+      "media_type": "image/webp",
+      "bytes": 318002,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/f093ee6d-a336-4edd-9628-f6ddac7da638/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/f093ee6d-a336-4edd-9628-f6ddac7da638/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/f093ee6d-a336-4edd-9628-f6ddac7da638/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/f093ee6d-a336-4edd-9628-f6ddac7da638/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/f093ee6d-a336-4edd-9628-f6ddac7da638/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/f093ee6d-a336-4edd-9628-f6ddac7da638/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -258,13 +368,33 @@
       "path": "images/img-6413d61e8622.webp",
       "media_type": "image/webp",
       "bytes": 749870,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/1100xxs%282%29.jpg",
+      "path": "images/img-66ca62a730ec.webp",
+      "media_type": "image/webp",
+      "bytes": 186252,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/9b768eb1-f40c-4353-83d8-d7682c4f348d/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/9b768eb1-f40c-4353-83d8-d7682c4f348d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/9b768eb1-f40c-4353-83d8-d7682c4f348d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/9b768eb1-f40c-4353-83d8-d7682c4f348d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/9b768eb1-f40c-4353-83d8-d7682c4f348d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/9b768eb1-f40c-4353-83d8-d7682c4f348d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -272,13 +402,33 @@
       "path": "images/img-3502045ad417.webp",
       "media_type": "image/webp",
       "bytes": 703292,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/1100xxs%283%29.jpg",
+      "path": "images/img-14ad75e705e5.webp",
+      "media_type": "image/webp",
+      "bytes": 173928,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/2b8b5217-bcff-4358-aed6-55176d2e708c/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/2b8b5217-bcff-4358-aed6-55176d2e708c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/2b8b5217-bcff-4358-aed6-55176d2e708c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/2b8b5217-bcff-4358-aed6-55176d2e708c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/2b8b5217-bcff-4358-aed6-55176d2e708c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/2b8b5217-bcff-4358-aed6-55176d2e708c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -286,98 +436,110 @@
       "path": "images/img-ae1dd2a2a78f.webp",
       "media_type": "image/webp",
       "bytes": 192812,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-34d260839318.webp",
+      "media_type": "image/webp",
+      "bytes": 273720,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-dc70a5675405.webp",
+      "media_type": "image/webp",
+      "bytes": 6890,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/request_plan_bg-33cc1401.png",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-1e18bb50ea20.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/street_view-b1ba588c.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-64ca6d136309.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-e03a6e663905.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 897395,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-003cd7e8b3a0.webp",
+      "media_type": "image/webp",
+      "bytes": 274268,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-d8e54373ceaa.webp",
+      "media_type": "image/webp",
+      "bytes": 160270,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-fc2ed7629b44.webp",
+      "media_type": "image/webp",
+      "bytes": 152644,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-8d4232272575.webp",
+      "media_type": "image/webp",
+      "bytes": 231808,
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/2000xxs%285%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/2d303c85-290a-49ad-9b2a-8ab5618f0827/je/2000xxs.jpg",
-      "path": "images/img-003cd7e8b3a0.webp",
+      "path": "images/img-77f1572fcb8d.webp",
       "media_type": "image/webp",
-      "bytes": 274268,
+      "bytes": 169238,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/a0307b84-b6e8-4281-814d-0653172a989f/je/2000xxs.jpg",
-      "path": "images/img-d8e54373ceaa.webp",
-      "media_type": "image/webp",
-      "bytes": 160270,
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/2000xxs.jpg",
+      "path": "images/img-4b5fde9953d0.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 897395,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/06a54835-c151-4cc6-ad83-cbe798c667e8/je/2000xxs.jpg",
-      "path": "images/img-fc2ed7629b44.webp",
-      "media_type": "image/webp",
-      "bytes": 152644,
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/2b8b5217-bcff-4358-aed6-55176d2e708c/je/2000xxs.jpg",
+      "path": "images/img-ad9db7535ae5.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 897395,
       "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/56294aed-3b5c-4774-9bb3-5bbc43d080a7/je/2000xxs.jpg",
-      "path": "images/img-8d4232272575.webp",
-      "media_type": "image/webp",
-      "bytes": 231808,
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/d3efb889-a33c-4556-ba19-e95b98c94bc3/je/2000xxs.jpg",
+      "path": "images/img-b1cfb43425a0.jpg",
+      "media_type": "image/jpeg",
+      "bytes": 897395,
       "status": "new"
     },
     {
@@ -386,7 +548,7 @@
       "path": "images/img-3090523e0116.webp",
       "media_type": "image/webp",
       "bytes": 211140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -394,7 +556,7 @@
       "path": "images/img-03419bf00589.webp",
       "media_type": "image/webp",
       "bytes": 372714,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -402,7 +564,7 @@
       "path": "images/img-c3308d0cc478.webp",
       "media_type": "image/webp",
       "bytes": 251706,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -410,7 +572,7 @@
       "path": "images/img-ac474dfb1e8d.webp",
       "media_type": "image/webp",
       "bytes": 459094,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -418,7 +580,7 @@
       "path": "images/img-cbd9470e5a4a.webp",
       "media_type": "image/webp",
       "bytes": 634732,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -426,7 +588,7 @@
       "path": "images/img-90e776d948b3.webp",
       "media_type": "image/webp",
       "bytes": 691866,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -434,7 +596,7 @@
       "path": "images/img-db50d96c08eb.webp",
       "media_type": "image/webp",
       "bytes": 753562,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -442,7 +604,7 @@
       "path": "images/img-683278852668.webp",
       "media_type": "image/webp",
       "bytes": 309726,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -450,7 +612,7 @@
       "path": "images/img-02e452116ecd.webp",
       "media_type": "image/webp",
       "bytes": 593620,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -458,7 +620,7 @@
       "path": "images/img-03f961f9f42f.webp",
       "media_type": "image/webp",
       "bytes": 216130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -466,7 +628,7 @@
       "path": "images/img-533303d6d1b3.webp",
       "media_type": "image/webp",
       "bytes": 227540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -474,7 +636,7 @@
       "path": "images/img-afa5e358e052.webp",
       "media_type": "image/webp",
       "bytes": 521184,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -482,7 +644,7 @@
       "path": "images/img-61df5cc1565e.webp",
       "media_type": "image/webp",
       "bytes": 181600,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -490,7 +652,7 @@
       "path": "images/img-b272f1270f44.webp",
       "media_type": "image/webp",
       "bytes": 144276,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -498,7 +660,7 @@
       "path": "images/img-661803140878.webp",
       "media_type": "image/webp",
       "bytes": 113526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -506,7 +668,7 @@
       "path": "images/img-60863a6bd7e5.webp",
       "media_type": "image/webp",
       "bytes": 190320,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -514,7 +676,7 @@
       "path": "images/img-d2e06b836539.webp",
       "media_type": "image/webp",
       "bytes": 139880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -522,7 +684,7 @@
       "path": "images/img-a5bd02b9f2f2.webp",
       "media_type": "image/webp",
       "bytes": 221874,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -530,7 +692,7 @@
       "path": "images/img-7763431de24b.webp",
       "media_type": "image/webp",
       "bytes": 122234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -538,7 +700,7 @@
       "path": "images/img-e9d8773f7274.webp",
       "media_type": "image/webp",
       "bytes": 120556,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -546,7 +708,7 @@
       "path": "images/img-2e9cd11f5316.webp",
       "media_type": "image/webp",
       "bytes": 112262,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -554,7 +716,7 @@
       "path": "images/img-1616ce523eed.webp",
       "media_type": "image/webp",
       "bytes": 325008,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -562,7 +724,7 @@
       "path": "images/img-1aa5391cfb9a.webp",
       "media_type": "image/webp",
       "bytes": 105186,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -570,7 +732,7 @@
       "path": "images/img-542cabf65a03.webp",
       "media_type": "image/webp",
       "bytes": 268772,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -578,13 +740,13 @@
       "path": "images/img-15619f5332a6.webp",
       "media_type": "image/webp",
       "bytes": 216184,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/blairstown-nj-usa/51%20Hoagland%20Road,%20Blairstown,%20Nj%20In%20Johnsonburg,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818838779%29_files/2200xxsxm.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/09/11/10/53/25/e30386a3-40e2-4fbe-918d-fbd9d2498961/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -592,7 +754,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -600,7 +762,7 @@
       "path": "images/img-dc90c501bd51.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -608,7 +770,7 @@
       "path": "images/img-194c24efc5ac.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -616,13 +778,13 @@
       "path": "images/img-08ae040ecb3d.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 38,
-    "images_existing": 0,
-    "images_failed": 15,
+    "images_new": 12,
+    "images_existing": 38,
+    "images_failed": 16,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:52.880069Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6-bedrooms-single-family-detached-15575669",
     "canonical_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6-bedrooms-single-family-detached-15575669",
@@ -8,14 +8,14 @@
     "listing_id": "15575669",
     "listing_reference": "26k6sk",
     "first_listed": "May 2, 2025",
-    "last_updated": "April 6",
-    "retrieved_at": "2026-06-16T03:43:19.146974Z"
+    "last_updated": "June 16",
+    "retrieved_at": "2026-09-28T00:18:52.321043Z"
   },
   "files": [
     {
       "path": "README.md",
-      "bytes": 1910,
-      "sha256": "6a8516698d6e569b5b73a52b268d1166be1ee2e61ab5bfb3579edfd8a6934fa2"
+      "bytes": 1911,
+      "sha256": "4d4b44f5df9783dc3a0fda4315a7283bbdc9fe5a6de82da6451e6452b33b6e7d"
     },
     {
       "path": "images/004-9b33aa1e.webp",
@@ -63,14 +63,44 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-00838565c462.webp",
+      "bytes": 28830,
+      "sha256": "d1380cf316f7f103420bf943432aa169440fd8b193ca1be15af669954f93cb21"
+    },
+    {
+      "path": "images/img-24b4f8878a46.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-26e168dbc9f5.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-3c26ea1c96a5.webp",
+      "bytes": 55240,
+      "sha256": "e908368b5533ec1738a87148f1c7b6825f000171de37cfe68e43cc6821e467a5"
+    },
+    {
+      "path": "images/img-64cb2639a99d.webp",
+      "bytes": 38316,
+      "sha256": "fad3e23bb57bdd43f298801b4370ddf0371eca7bb7b4bb6722ed973ca0ff1b80"
+    },
+    {
+      "path": "images/img-89bfc07055b1.webp",
+      "bytes": 5498,
+      "sha256": "9ac1551628fb19dc3e82c92d9406ce7bfc574b701198e93d1d2641acf55a7a32"
+    },
+    {
       "path": "listing.json",
-      "bytes": 15287,
-      "sha256": "e56de6c483ce597127c4f77f97fcc0a15972c357218598a3eddbd47a89941771"
+      "bytes": 111095,
+      "sha256": "c25a25f7650a55b8900a35afb9f9894ac92bbc97490f398d6a1eee97c1efe3ca"
     },
     {
       "path": "source.html",
-      "bytes": 325937,
-      "sha256": "b0841057a13d8416b79eadecd604f1837c047c29047f181a626d41f1d72ea51b"
+      "bytes": 464199,
+      "sha256": "fca620bd2e02554e0e4d655331d7fb7f1ed138270868c57c7fb738171445b848"
     },
     {
       "path": "source.url",
@@ -79,6 +109,24 @@
     }
   ],
   "assets": [
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/2200xxs.jpg",
@@ -90,7 +138,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -103,7 +170,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -116,7 +202,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -129,7 +234,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -142,22 +266,362 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-89bfc07055b1.webp",
+      "media_type": "image/webp",
+      "bytes": 5498,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-24b4f8878a46.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-26e168dbc9f5.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a6e7d523-3c25-47d1-88c4-a27bcf1219da/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/199f2059-421d-443c-a540-d1910a2c6264/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/d98bfff0-ace1-40a6-a544-8287354d24f2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f083a4f1-32d2-42e6-bf25-71d5e3c7729d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/ec778968-44fc-46d9-99a3-ed0904702857/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/ec778968-44fc-46d9-99a3-ed0904702857/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/63f425bd-a828-4164-8c40-9fc9bcdeb7f8/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/63f425bd-a828-4164-8c40-9fc9bcdeb7f8/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/652cabd1-3d58-4ea4-8b8e-1db10a2ecc39/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/652cabd1-3d58-4ea4-8b8e-1db10a2ecc39/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/553520a5-d614-43b8-b458-0de59be1d343/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/553520a5-d614-43b8-b458-0de59be1d343/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/90068c5f-5899-4610-839c-3648aeb395e5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/90068c5f-5899-4610-839c-3648aeb395e5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/4722b74d-3972-4ebc-953d-0602fc0786af/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/4722b74d-3972-4ebc-953d-0602fc0786af/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/98b0cb74-7b46-4e6a-8761-9fedc86d94bf/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/98b0cb74-7b46-4e6a-8761-9fedc86d94bf/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/8ed3cb94-8fbc-4a6a-a2b3-7b18f3085c6c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/8ed3cb94-8fbc-4a6a-a2b3-7b18f3085c6c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/39525ccf-2af5-48da-bcbe-11d55b3daf8b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/39525ccf-2af5-48da-bcbe-11d55b3daf8b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/7e23c342-ca79-4d22-bf83-ca7355d2992b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/7e23c342-ca79-4d22-bf83-ca7355d2992b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/e77f1475-a7c0-4c70-b9dc-2247a29abdcf/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/e77f1475-a7c0-4c70-b9dc-2247a29abdcf/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/4ab72d1a-083c-47c6-ae78-3c380d643b85/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/4ab72d1a-083c-47c6-ae78-3c380d643b85/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f634932c-a592-41ce-b825-afa9b1e37d19/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/f634932c-a592-41ce-b825-afa9b1e37d19/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/4aa04031-1b44-4967-a8c9-82bb96a5978c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/4aa04031-1b44-4967-a8c9-82bb96a5978c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/6dd36146-6dce-4320-aecf-28c0413360a7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/6dd36146-6dce-4320-aecf-28c0413360a7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/3643e19a-049c-4374-8c9d-ddc6aaae8514/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/3643e19a-049c-4374-8c9d-ddc6aaae8514/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/988fe8fb-9dde-4167-aa6c-0ddb5dbc88ea/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/988fe8fb-9dde-4167-aa6c-0ddb5dbc88ea/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/7c57baec-16ed-4e25-acfa-eb83ecfd1473/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/7c57baec-16ed-4e25-acfa-eb83ecfd1473/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/cfb35eeb-f637-4799-a375-4480b72796ec/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/cfb35eeb-f637-4799-a375-4480b72796ec/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/71bd072d-f5c5-4994-8db2-03694d3d3821/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/71bd072d-f5c5-4994-8db2-03694d3d3821/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/0901f9f4-ea96-4c55-8b5a-7bd217f1ba19/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/0901f9f4-ea96-4c55-8b5a-7bd217f1ba19/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b84a6c1e-4859-45ac-a12c-573957c42514/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b84a6c1e-4859-45ac-a12c-573957c42514/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/1f5df164-dacc-404b-af46-0afad8a41e79/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/1f5df164-dacc-404b-af46-0afad8a41e79/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/411670b6-87bb-43e5-a9c3-4e4c7772e8b5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/411670b6-87bb-43e5-a9c3-4e4c7772e8b5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/55fbc42b-61cd-4d25-8387-8d83a8ec90f2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/55fbc42b-61cd-4d25-8387-8d83a8ec90f2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/888f73a9-3f4b-4fa0-82a3-d232388db795/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/888f73a9-3f4b-4fa0-82a3-d232388db795/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/ad82f224-e55e-4b18-b88d-c7e764a1502e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/ad82f224-e55e-4b18-b88d-c7e764a1502e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/bed7d143-2113-43cc-852f-aac0be71bcbc/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/bed7d143-2113-43cc-852f-aac0be71bcbc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/ea665eba-e4fe-4288-b30b-79609e02a54e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/ea665eba-e4fe-4288-b30b-79609e02a54e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a91369ac-d9cc-4316-b7f9-25118de6cb03/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a91369ac-d9cc-4316-b7f9-25118de6cb03/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/024f3891-6dc1-4aa4-9db3-dfd7970842ca/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/024f3891-6dc1-4aa4-9db3-dfd7970842ca/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/596fdc8e-6558-4934-b4b5-9394969f3d7b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/596fdc8e-6558-4934-b4b5-9394969f3d7b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/5bd93bfb-4edb-4f94-96e1-aaff0a0fc585/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/5bd93bfb-4edb-4f94-96e1-aaff0a0fc585/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/28e8185e-8123-4cb6-a94e-97768beecd13/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/28e8185e-8123-4cb6-a94e-97768beecd13/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/90813cf9-182a-413a-af8b-f6255899f5ca/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/90813cf9-182a-413a-af8b-f6255899f5ca/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/3f07463a-2162-49b3-b6c3-7ec12e48f4e6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/3f07463a-2162-49b3-b6c3-7ec12e48f4e6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/77e62578-4cb6-495a-832b-d5339c0830b6/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/77e62578-4cb6-495a-832b-d5339c0830b6/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/e1e620e5-2328-41d1-9d96-69d475c4c14c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/e1e620e5-2328-41d1-9d96-69d475c4c14c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a3dac4ed-41b4-44b3-a987-ca4c16e4a041/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/a3dac4ed-41b4-44b3-a987-ca4c16e4a041/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/4507e5b8-ae7f-47ab-a46d-a3bceac4a5ff/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/4507e5b8-ae7f-47ab-a46d-a3bceac4a5ff/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/bacef848-6a4f-498b-81c0-91367a6f4abc/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/bacef848-6a4f-498b-81c0-91367a6f4abc/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/c0e8fd12-7503-4367-ad36-9bed352a9165/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/c0e8fd12-7503-4367-ad36-9bed352a9165/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/bc5d9452-50da-4c27-af60-3b88aae5ca15/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/bc5d9452-50da-4c27-af60-3b88aae5ca15/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/53da40d6-bf25-4c71-be00-d1a82c04fc15/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/53da40d6-bf25-4c71-be00-d1a82c04fc15/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/79658dc4-84a6-49e7-859e-1a48615d325a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/79658dc4-84a6-49e7-859e-1a48615d325a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/2200xxs%2822%29.jpg",
+      "path": "images/img-3c26ea1c96a5.webp",
+      "media_type": "image/webp",
+      "bytes": 55240,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/2200xxs%2823%29.jpg",
+      "path": "images/img-00838565c462.webp",
+      "media_type": "image/webp",
+      "bytes": 28830,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.jamesedition.com/real_estate/saddle-river-nj-usa/6%20Bedrooms%20Single%20Family%20Detached%20In%20Saddle%20River,%20New%20Jersey,%20United%20States%20For%20Sale%20%2815575669%29_files/2200xxs%2824%29.jpg",
+      "path": "images/img-64cb2639a99d.webp",
+      "media_type": "image/webp",
+      "bytes": 38316,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/04/30/15/08/23/b0a23e62-4340-4d99-a4a6-967fde97df54/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -193,9 +657,9 @@
     }
   ],
   "summary": {
-    "images_new": 8,
+    "images_new": 6,
     "images_existing": 9,
-    "images_failed": 0,
+    "images_failed": 71,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

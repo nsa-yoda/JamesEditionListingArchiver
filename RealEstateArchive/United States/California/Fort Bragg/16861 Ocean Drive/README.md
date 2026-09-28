@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/fort-bragg-ca-usa/sea-breeze-perched-above-the-ocean-18190901
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:29Z
+- Retrieved: 2026-09-28T00:24:52Z
 - Address: 16861 Ocean Drive, Fort Bragg, CA 95437, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.39130049,-123.81630498
 - Coordinates: 39.39, -123.82
@@ -10,7 +10,7 @@
 - Listing reference: ZQWSZG
 - First listed: Jun 16
 - Last updated: June 16
-- Images downloaded: 55
+- Images downloaded: 61
 
 ## Property
 

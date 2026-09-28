@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/wassaic-ny-usa/single-family-residence-in-wassaic-17981824
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:09:09Z
+- Retrieved: 2026-09-28T00:25:29Z
 - Address: 365 Tower Hill Road, Wassaic, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.787412,-73.590524
 - Coordinates: 41.79, -73.59
@@ -10,7 +10,7 @@
 - Listing reference: 1002180
 - First listed: May 22
 - Last updated: May 22
-- Images downloaded: 30
+- Images downloaded: 35
 
 ## Property
 

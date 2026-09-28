@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:53.851866Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/exceptional-oceanfront-property-14723586",
     "canonical_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/exceptional-oceanfront-property-14723586",
@@ -9,13 +9,13 @@
     "listing_reference": "SLMSNE",
     "first_listed": "Sep 20, 2024",
     "last_updated": "April 8",
-    "retrieved_at": "2026-06-19T08:18:39.202374Z"
+    "retrieved_at": "2026-09-28T00:20:53.507266Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3376,
-      "sha256": "26da3c141eee53fa79f470d04d04452d8adfa4a5b449237302ff7711c7dc64cf"
+      "sha256": "20f16e2548b17760e18c725737fee298e7debee8140ab6544e2c66ef2e51c4b2"
     },
     {
       "path": "images/img-0185f75cadda.webp",
@@ -68,6 +68,11 @@
       "sha256": "9f0a91ade789e21a3485fed1827c64b77baf505167105e67a38a616698cbb327"
     },
     {
+      "path": "images/img-66b65e1eb1b4.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-6addadd09762.webp",
       "bytes": 539762,
       "sha256": "2b9b449dd275a8bad32245c87947678a23b45aca392d98a48a4e2fa738165b43"
@@ -93,6 +98,11 @@
       "sha256": "b3dbb49c014f59cc984fb0c57c20669abf94bed1949543f67be9ba18217db09b"
     },
     {
+      "path": "images/img-aec36f277e91.webp",
+      "bytes": 507818,
+      "sha256": "30f7c0c6f5a85cf2882493ef1ec0684e0fc08eebadae4dd7e1ec1c43703ae34c"
+    },
+    {
       "path": "images/img-b67930615dae.webp",
       "bytes": 359474,
       "sha256": "2c0db18cf0cf9ff7979778a59a84e18c562313725e049cbb6036c96bf57d592a"
@@ -101,6 +111,21 @@
       "path": "images/img-caf7633dd106.svg",
       "bytes": 63710,
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
+    },
+    {
+      "path": "images/img-cfab3f08ff5e.webp",
+      "bytes": 553978,
+      "sha256": "4ec267958abfc1e27527f31af3c67cd763bf0711efab58ee1f4ae6cfc77309c1"
+    },
+    {
+      "path": "images/img-dd30aeaa6ee8.webp",
+      "bytes": 4080,
+      "sha256": "a7369592a14e4d85e6cdb419f50aa73a3d343a317076bbd5a1d078a61bcc1fce"
+    },
+    {
+      "path": "images/img-e53460306c57.webp",
+      "bytes": 580736,
+      "sha256": "41bcf23088645e8877acadbcca7965457fc924a756eae7d503b952da3d03dc57"
     },
     {
       "path": "images/img-e9ff1c5a561a.webp",
@@ -113,9 +138,14 @@
       "sha256": "f05d6631f262f9e19e239e6c79cf8ccb4f8ee536f0ba04c0a8f877af7babacdb"
     },
     {
+      "path": "images/img-f791c1233daa.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 22446,
-      "sha256": "2f18cd3d56bcc442afc2476d314b97fb72dc6d06739319343164ec3ed9611a58"
+      "bytes": 48728,
+      "sha256": "1b157f5272d299449ee873c3615044387aa22779300f9ec6bec809ce17188f6b"
     },
     {
       "path": "source.html",
@@ -131,17 +161,47 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/2200xxs.jpg",
       "path": "images/img-23e027b8f6d3.webp",
       "media_type": "image/webp",
       "bytes": 488132,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -149,13 +209,25 @@
       "path": "images/img-9e2472cfd9d0.webp",
       "media_type": "image/webp",
       "bytes": 535448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -163,13 +235,25 @@
       "path": "images/img-80e1849d8668.webp",
       "media_type": "image/webp",
       "bytes": 438334,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -177,13 +261,25 @@
       "path": "images/img-58bd6f39ed2e.webp",
       "media_type": "image/webp",
       "bytes": 507804,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -191,31 +287,61 @@
       "path": "images/img-9a85edb24382.webp",
       "media_type": "image/webp",
       "bytes": 420082,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-dd30aeaa6ee8.webp",
+      "media_type": "image/webp",
+      "bytes": 4080,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f791c1233daa.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-66b65e1eb1b4.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/31d8d085-7ba4-43bc-86c8-1170f0b7abc8/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/2e4ea437-8395-4250-ba7c-41b8e69f84e7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/91fb8310-aa06-4b6f-9e4a-722dd876ba37/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/c1b48ee1-e923-476f-a4b6-5c3d7db5a739/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -223,7 +349,7 @@
       "path": "images/img-4ad61da44427.webp",
       "media_type": "image/webp",
       "bytes": 456404,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -231,7 +357,7 @@
       "path": "images/img-06ee0805ad49.webp",
       "media_type": "image/webp",
       "bytes": 413368,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -239,7 +365,7 @@
       "path": "images/img-ea5324c3c8d5.webp",
       "media_type": "image/webp",
       "bytes": 467272,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -247,7 +373,7 @@
       "path": "images/img-0185f75cadda.webp",
       "media_type": "image/webp",
       "bytes": 455856,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -255,7 +381,7 @@
       "path": "images/img-74ab1a84a7d4.webp",
       "media_type": "image/webp",
       "bytes": 401180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -263,7 +389,7 @@
       "path": "images/img-e9ff1c5a561a.webp",
       "media_type": "image/webp",
       "bytes": 479234,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -271,7 +397,7 @@
       "path": "images/img-6addadd09762.webp",
       "media_type": "image/webp",
       "bytes": 539762,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -279,7 +405,7 @@
       "path": "images/img-0e7b57671a7c.webp",
       "media_type": "image/webp",
       "bytes": 559926,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -287,7 +413,7 @@
       "path": "images/img-1f02d8edc84d.webp",
       "media_type": "image/webp",
       "bytes": 392358,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -295,25 +421,37 @@
       "path": "images/img-b67930615dae.webp",
       "media_type": "image/webp",
       "bytes": 359474,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%286%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-aec36f277e91.webp",
+      "media_type": "image/webp",
+      "bytes": 507818,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%287%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-e53460306c57.webp",
+      "media_type": "image/webp",
+      "bytes": 580736,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pescadero-ca-usa/Exceptional%20Oceanfront%20Property%20In%20Pescadero,%20California,%20United%20States%20For%20Sale%20%2814723586%29_files/2200xxsxm%288%29.jpg",
+      "path": "images/img-cfab3f08ff5e.webp",
+      "media_type": "image/webp",
+      "bytes": 553978,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/09/23/14/08/28/e5ac1455-e785-4503-b8f3-2b16cdbbf462/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -321,7 +459,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -329,7 +467,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -337,7 +475,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -345,13 +483,13 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 19,
-    "images_existing": 0,
-    "images_failed": 11,
+    "images_new": 6,
+    "images_existing": 19,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

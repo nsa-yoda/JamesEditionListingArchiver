@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/stuart-island-canada/extraordinary-120-acre-oceanfront-property-on-stuart-island-16758562
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:36Z
+- Retrieved: 2026-09-28T00:20:57Z
 - Address: 1 Stuart Island, Alert Bay, British Columbia, Canada
 - Map: https://www.google.com/maps/search/?api=1&query=50.07171329,-126.02573549
 - Coordinates: 50.07, -126.03
@@ -10,7 +10,7 @@
 - Listing reference: 1021346
 - First listed: Dec 6, 2025
 - Last updated: June 19
-- Images downloaded: 94
+- Images downloaded: 97
 - Videos downloaded: 0
 
 ## Property

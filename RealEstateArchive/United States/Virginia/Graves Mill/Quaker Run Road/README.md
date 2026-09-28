@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/madison-va-usa/quaker-run-road-madison-va-22727-14003924
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:34Z
+- Retrieved: 2026-09-28T00:24:02Z
 - Address: Quaker Run Road, Madison, VA 22727, Graves Mill, Virginia, United States
 - Map: https://www.google.com/maps/search/?api=1&query=38.45491293,-78.35075525
 - Coordinates: 38.45, -78.35
@@ -10,7 +10,7 @@
 - Listing reference: 9F1D0724-B50A-49E8-97AE-AB612BADBADB
 - First listed: Mar 25, 2024
 - Last updated: December 15, 2025
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

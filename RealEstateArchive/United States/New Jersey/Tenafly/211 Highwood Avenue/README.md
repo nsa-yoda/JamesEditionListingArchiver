@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/tenafly-nj-usa/residential-tenafly-18123231
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:08:46Z
+- Retrieved: 2026-09-28T00:24:34Z
 - Address: 211 Highwood Avenue, Tenafly, NJ 07670, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.92257,-73.94959
 - Coordinates: 40.92, -73.95
@@ -10,7 +10,7 @@
 - Listing reference: 2124754989349210
 - First listed: Jun 10
 - Last updated: June 10
-- Images downloaded: 53
+- Images downloaded: 56
 
 ## Property
 

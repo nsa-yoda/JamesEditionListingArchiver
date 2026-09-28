@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/setagaya-ku-japan/kamisoshigaya-1-chome-newly-built-house-18322810
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:53Z
+- Retrieved: 2026-09-28T00:22:01Z
 - Address: Setagaya-ku, 13 157-0065, Setagaya City, Tokyo, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=35.6569173,139.5967682
 - Coordinates: 35.66, 139.6
@@ -10,7 +10,7 @@
 - Listing reference: 4MLV7G
 - First listed: Jul 2
 - Last updated: July 2
-- Images downloaded: 18
+- Images downloaded: 21
 
 ## Property
 

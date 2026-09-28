@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/lometa-tx-usa/colorado-river-ranch-13798848
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:07:53Z
+- Retrieved: 2026-09-28T00:20:20Z
 - Address: Colorado River Ranch - 3304 +/- Acres , Lometa, TX 76853, Plano, Texas, United States
 - Map: https://www.google.com/maps/search/?api=1&query=33.0067842,-96.7191104
 - Coordinates: 33.01, -96.72
@@ -10,8 +10,8 @@
 - Listing reference: 6VNVG3
 - First listed: Feb 7, 2024
 - Last updated: March 31
-- Images downloaded: 9
-- Videos downloaded: 0
+- Images downloaded: 12
+- Videos downloaded: 1
 
 ## Property
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:01.560343Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24-club-way-cedar-grove-nj-07009-18061034",
     "canonical_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24-club-way-cedar-grove-nj-07009-18061034",
@@ -9,13 +9,13 @@
     "listing_reference": "KMN884",
     "first_listed": "Jun 2",
     "last_updated": "June 2",
-    "retrieved_at": "2026-06-18T07:06:28.022998Z"
+    "retrieved_at": "2026-09-28T00:18:01.003348Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 1630,
-      "sha256": "b2f2725a16f1a7f35df89601a6d0bb62ab2ce1f44af5f83d239f00b04808f28d"
+      "sha256": "1b890af15006b06f73fcb91f4430eb8a8aff760711b6b234e3739168cfcb2b60"
     },
     {
       "path": "images/004-14359f68.webp",
@@ -163,9 +163,34 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-303d6b8cbb8d.webp",
+      "bytes": 755930,
+      "sha256": "eed4fa6054fa9c76fd592a2c5afd3fad48c46ac716093cbe9de6ff86ad226c91"
+    },
+    {
+      "path": "images/img-78e0f8a02748.webp",
+      "bytes": 1206770,
+      "sha256": "ab511545afc74a5c8dc8cfa2b64d5a36bf4fe05a16255a5cd13d824c5cb92c27"
+    },
+    {
+      "path": "images/img-7db7b5b20e40.webp",
+      "bytes": 6352,
+      "sha256": "fe069c687f11b6efc421d2acd5cc22400d1e2593f8929472309641a0d9616767"
+    },
+    {
+      "path": "images/img-d598169f9ad5.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-f950c1a57b3d.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 21167,
-      "sha256": "5ce9eb8e49a65a1eeabde7694bef968cdd335647d27dc30c06181fead1c43ca6"
+      "bytes": 47484,
+      "sha256": "33c463457a03d8e701042a1d24987fd96a52587b6b59e6ae498f0c875ace755b"
     },
     {
       "path": "source.html",
@@ -181,6 +206,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/2200xxs.jpg",
       "path": "images/004-14359f68.webp",
       "media_type": "image/webp",
@@ -189,8 +232,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/0f095b63-f013-4115-aae8-a473253c9b4a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/0f095b63-f013-4115-aae8-a473253c9b4a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/0f095b63-f013-4115-aae8-a473253c9b4a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/0f095b63-f013-4115-aae8-a473253c9b4a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/0f095b63-f013-4115-aae8-a473253c9b4a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/0f095b63-f013-4115-aae8-a473253c9b4a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -202,8 +258,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/873ff3b4-ab55-429d-89b9-3eac2697ddae/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/873ff3b4-ab55-429d-89b9-3eac2697ddae/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/873ff3b4-ab55-429d-89b9-3eac2697ddae/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/873ff3b4-ab55-429d-89b9-3eac2697ddae/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/873ff3b4-ab55-429d-89b9-3eac2697ddae/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/873ff3b4-ab55-429d-89b9-3eac2697ddae/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -215,8 +284,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/cb99ef5c-b389-4608-be90-9ecfa9a6f029/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/cb99ef5c-b389-4608-be90-9ecfa9a6f029/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/cb99ef5c-b389-4608-be90-9ecfa9a6f029/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/cb99ef5c-b389-4608-be90-9ecfa9a6f029/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/cb99ef5c-b389-4608-be90-9ecfa9a6f029/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/cb99ef5c-b389-4608-be90-9ecfa9a6f029/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -228,8 +310,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/d5769b36-57ce-4d1c-b23c-56ab80a2020e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/d5769b36-57ce-4d1c-b23c-56ab80a2020e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/d5769b36-57ce-4d1c-b23c-56ab80a2020e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/d5769b36-57ce-4d1c-b23c-56ab80a2020e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/d5769b36-57ce-4d1c-b23c-56ab80a2020e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/d5769b36-57ce-4d1c-b23c-56ab80a2020e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -241,23 +336,57 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7db7b5b20e40.webp",
+      "media_type": "image/webp",
+      "bytes": 6352,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f950c1a57b3d.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-d598169f9ad5.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/0f095b63-f013-4115-aae8-a473253c9b4a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/0f095b63-f013-4115-aae8-a473253c9b4a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/873ff3b4-ab55-429d-89b9-3eac2697ddae/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/873ff3b4-ab55-429d-89b9-3eac2697ddae/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/cb99ef5c-b389-4608-be90-9ecfa9a6f029/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/cb99ef5c-b389-4608-be90-9ecfa9a6f029/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/d5769b36-57ce-4d1c-b23c-56ab80a2020e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/d5769b36-57ce-4d1c-b23c-56ab80a2020e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -422,12 +551,24 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/2200xxsxm%2823%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-303d6b8cbb8d.webp",
+      "media_type": "image/webp",
+      "bytes": 755930,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/cedar-grove-nj-usa/24%20Club%20Way,%20Cedar%20Grove,%20Nj%2007009%20In%20Montclair,%20New%20Jersey,%20United%20States%20For%20Sale%20%2818061034%29_files/2200xxsxm%2824%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-78e0f8a02748.webp",
+      "media_type": "image/webp",
+      "bytes": 1206770,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/02/08/12/04/299eb317-03dd-4fc5-b821-c04807d83ed7/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -463,9 +604,9 @@
     }
   ],
   "summary": {
-    "images_new": 10,
+    "images_new": 5,
     "images_existing": 29,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/woodstock-ny-usa/326-raycliffe-drive-woodstock-ny-12498-16267201
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:33Z
+- Retrieved: 2026-09-28T00:18:21Z
 - Address: 326 Raycliffe Drive, Woodstock, NY 12498, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=42.077328,-74.07723
 - Coordinates: 42.08, -74.08
@@ -10,7 +10,7 @@
 - Listing reference: xzy7m2
 - First listed: Sep 26, 2025
 - Last updated: July 14
-- Images downloaded: 25
+- Images downloaded: 30
 
 ## Property
 

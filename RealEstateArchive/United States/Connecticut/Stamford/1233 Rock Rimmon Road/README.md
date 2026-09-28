@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/stamford-ct-usa/hillandale-17239564
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:26Z
+- Retrieved: 2026-09-28T00:21:46Z
 - Address: 1233 Rock Rimmon Road , Stamford, CT 06903, Connecticut, United States
 - Map: https://www.google.com/maps/search/?api=1&query=41.163083,-73.588659
 - Coordinates: 41.16, -73.59
@@ -10,8 +10,8 @@
 - Listing reference: TX86F6
 - First listed: Feb 17
 - Last updated: February 18
-- Images downloaded: 10
-- Videos downloaded: 0
+- Images downloaded: 16
+- Videos downloaded: 1
 
 ## Property
 

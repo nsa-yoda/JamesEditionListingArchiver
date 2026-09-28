@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:26:23.165245Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/brno-czechia/unique-organic-shape-villa-with-elevator-pool-garden-near-brno-center-15835856",
     "canonical_url": "https://www.jamesedition.com/real_estate/brno-czechia/unique-organic-shape-villa-with-elevator-pool-garden-near-brno-center-15835856",
@@ -9,13 +9,13 @@
     "listing_reference": "047976",
     "first_listed": "Jun 25, 2025",
     "last_updated": "November 26, 2025",
-    "retrieved_at": "2026-06-16T03:43:41.180751Z"
+    "retrieved_at": "2026-09-28T00:26:22.779847Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3426,
-      "sha256": "2946f937645f76ce0bcbfb64a8e00c8e61e07cf86142462701265607b9f5ef92"
+      "sha256": "d26861ef5b853025438e8646d69979636883deb36081d351a64325204d07ee6d"
     },
     {
       "path": "images/004-e21e1ef4.webp",
@@ -68,9 +68,24 @@
       "sha256": "4852144e4664f620ed56db7521970767f8f66bddd3e330c2b25c41e0fd167733"
     },
     {
+      "path": "images/img-0952d9e97687.webp",
+      "bytes": 7772,
+      "sha256": "73272dcb664fc855a60fddb90e39d2d1a10115245b50147d602ec8ff45e9db5e"
+    },
+    {
+      "path": "images/img-0c3f8844c75c.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-f90832611ba7.webp",
+      "bytes": 122286,
+      "sha256": "91eb48d6934ff16857af028e6d77deba99d85689c875aaeb79fcbf019b930996"
+    },
+    {
       "path": "listing.json",
-      "bytes": 19972,
-      "sha256": "d3122177ac02ab33303df20d1c38debbbcf3ef1ea6c75866662d60374e4d7098"
+      "bytes": 48996,
+      "sha256": "b0b182cc42c7e921d08e0bdaacda4701604b15630a00ea9ddcd0e53fb2edcfc7"
     },
     {
       "path": "source.html",
@@ -86,6 +101,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/2200xxs.jpg",
       "path": "images/004-e21e1ef4.webp",
       "media_type": "image/webp",
@@ -95,7 +128,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afff91e-9771-4716-9e8e-31131c010601/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afff91e-9771-4716-9e8e-31131c010601/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afff91e-9771-4716-9e8e-31131c010601/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afff91e-9771-4716-9e8e-31131c010601/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afff91e-9771-4716-9e8e-31131c010601/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afff91e-9771-4716-9e8e-31131c010601/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -108,7 +160,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/38ee7cf6-46e8-4b4a-99df-0ef5720d03fc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/38ee7cf6-46e8-4b4a-99df-0ef5720d03fc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/38ee7cf6-46e8-4b4a-99df-0ef5720d03fc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/38ee7cf6-46e8-4b4a-99df-0ef5720d03fc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/38ee7cf6-46e8-4b4a-99df-0ef5720d03fc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/38ee7cf6-46e8-4b4a-99df-0ef5720d03fc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -121,7 +192,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/42d9520d-153a-4150-a757-0b0e1ae532a4/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/42d9520d-153a-4150-a757-0b0e1ae532a4/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/42d9520d-153a-4150-a757-0b0e1ae532a4/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/42d9520d-153a-4150-a757-0b0e1ae532a4/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/42d9520d-153a-4150-a757-0b0e1ae532a4/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/42d9520d-153a-4150-a757-0b0e1ae532a4/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -134,7 +224,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/e5219dbc-8ed5-4fbc-9aae-79a92ac22c7e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/e5219dbc-8ed5-4fbc-9aae-79a92ac22c7e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/e5219dbc-8ed5-4fbc-9aae-79a92ac22c7e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/e5219dbc-8ed5-4fbc-9aae-79a92ac22c7e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/e5219dbc-8ed5-4fbc-9aae-79a92ac22c7e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/e5219dbc-8ed5-4fbc-9aae-79a92ac22c7e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -147,32 +256,38 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0952d9e97687.webp",
+      "media_type": "image/webp",
+      "bytes": 7772,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-0c3f8844c75c.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f90832611ba7.webp",
+      "media_type": "image/webp",
+      "bytes": 122286,
+      "status": "new"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/brno-czechia/Unique%20Organic%20Shape%20Villa%20With%20In%20Brno,%20South%20Moravian%20Region,%20Czechia%20For%20Sale%20%2815835856%29_files/2000xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/25/08/57/45/3afa5b17-75c2-4a10-9e69-220a6ce35550/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -216,9 +331,9 @@
     }
   ],
   "summary": {
-    "images_new": 10,
+    "images_new": 3,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

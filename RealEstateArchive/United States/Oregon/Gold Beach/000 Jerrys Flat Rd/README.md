@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/gold-beach-or-usa/vacant-land-17376789
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:32:05Z
+- Retrieved: 2026-09-28T00:26:24Z
 - Address: 000 Jerrys Flat Rd, Gold Beach, OR 97444, Oregon, United States
 - Map: https://www.google.com/maps/search/?api=1&query=42.459558,-124.357124
 - Coordinates: 42.46, -124.36
@@ -10,7 +10,7 @@
 - Listing reference: w9zexs
 - First listed: Mar 10
 - Last updated: March 10
-- Images downloaded: 29
+- Images downloaded: 32
 
 ## Property
 

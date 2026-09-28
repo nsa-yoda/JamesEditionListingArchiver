@@ -78,13 +78,16 @@ func TestBrowserPageUsesJSONWithJavaScriptFallback(t *testing.T) {
 		t.Fatal(err)
 	}
 	source := string(page)
-	for _, expected := range []string{`href="../index.html"`, `join(" > ")`, `fetch("./index.json"`, `script.src = "./index.js"`, `window.listingArchiveIndex`, `fetch("./listing.json"`, `script.src = "./listing.js"`, `window.listingArchiveListing`, `className = "media-gallery"`, `gap: 30px`, `width: 100vw`, `video-js.min.css`, `video.min.js`, `videojs(video`, `object-fit: contain`, `listing-toolbar`, `Copy URL`, `data-filter-button`} {
+	for _, expected := range []string{`href="../index.html"`, `join(" > ")`, `fetch("./index.json"`, `script.src = "./index.js"`, `window.listingArchiveIndex`, `fetch("./listing.json"`, `script.src = "./listing.js"`, `window.listingArchiveListing`, `className = "media-gallery"`, `gap: 30px`, `width: 100vw`, `video-js.min.css`, `video.min.js`, `videojs(video`, `object-fit: contain`, `listing-toolbar`, `Copy URL`, `data-filter-button`, `is not available locally`} {
 		if !strings.Contains(source, expected) {
 			t.Fatalf("browser page does not contain %q", expected)
 		}
 	}
 	if strings.Contains(source, `<script src="./index.js">`) {
 		t.Fatal("browser page loads index.js before trying index.json")
+	}
+	if strings.Contains(source, "item.file ? `${subdir}/${item.file}` : item.source_url") {
+		t.Fatal("browser media gallery links to remote source URLs when local files are missing")
 	}
 }
 

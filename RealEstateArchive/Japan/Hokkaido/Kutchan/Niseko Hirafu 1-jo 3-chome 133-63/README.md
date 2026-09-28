@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/kutchan-japan/yukikage-the-annex-award-winning-dual-residence-masterpiece-in-hirafu-with-panoramic-views-15500085
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:43Z
+- Retrieved: 2026-09-28T00:27:05Z
 - Address: Niseko Hirafu 1-jo 3-chome 133-63, Kutchan, Hokkaido, Japan
 - Map: https://www.google.com/maps/search/?api=1&query=42.8639717,140.7071051
 - Coordinates: 42.86, 140.71
@@ -10,7 +10,7 @@
 - Listing reference: 4520884
 - First listed: Apr 17, 2025
 - Last updated: March 11
-- Images downloaded: 10
+- Images downloaded: 13
 - Videos downloaded: 0
 
 ## Property

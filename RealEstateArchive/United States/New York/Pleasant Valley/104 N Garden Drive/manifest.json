@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:27:03.050992Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105",
     "canonical_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/woodland-waters-16853105",
@@ -9,13 +9,13 @@
     "listing_reference": "YF7J5V",
     "first_listed": "Dec 26, 2025",
     "last_updated": "March 26",
-    "retrieved_at": "2026-06-18T07:09:20.619652Z"
+    "retrieved_at": "2026-09-28T00:27:02.665396Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 5102,
-      "sha256": "30fbad35cd63fa935b49933ea5c57a7293b37b1b60bbfe141dcf59ae8b02ca6b"
+      "sha256": "fc4a5106e44041b24269309ff6cb2bc241e27e8199167dcc86256d480dc1816b"
     },
     {
       "path": "images/004-5a3e9e44.webp",
@@ -263,9 +263,39 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-040b3fb76317.webp",
+      "bytes": 7598,
+      "sha256": "5e69729854a682bc85e30d971e84b409af4a58142fd58274c2a990fb79c6e853"
+    },
+    {
+      "path": "images/img-258b1ea5e942.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-34752db51533.webp",
+      "bytes": 915462,
+      "sha256": "0f219430b670c45695b9c5a16969d5c9c1f11fc58d703840542b69a741f43b17"
+    },
+    {
+      "path": "images/img-8c00326ed351.webp",
+      "bytes": 1136520,
+      "sha256": "900332844e299d269de7584ca2eb754aee47afc5cbac4e775a83500921977cc7"
+    },
+    {
+      "path": "images/img-a737bcddb691.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-f4f6ccb4e022.webp",
+      "bytes": 424262,
+      "sha256": "8c09d5c91333e59a99a4a6b7b276c60091cf2632823a6594ba1ed90c2b39f01b"
+    },
+    {
       "path": "listing.json",
-      "bytes": 33642,
-      "sha256": "27cf90c324b3c82f454bc2a60b5c873d60f37d86a06a7b2e6b6e67840b3513ca"
+      "bytes": 60176,
+      "sha256": "6813e23cb2cefcff19004e44af62e769e0a89327b2e7d58736172c85d6759b86"
     },
     {
       "path": "source.html",
@@ -281,6 +311,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/2200xxs.jpg",
       "path": "images/004-5a3e9e44.webp",
       "media_type": "image/webp",
@@ -289,8 +337,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -302,8 +363,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -315,8 +389,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -328,8 +415,21 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -341,23 +441,57 @@
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
-    },
-    {
-      "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-040b3fb76317.webp",
+      "media_type": "image/webp",
+      "bytes": 7598,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a737bcddb691.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-258b1ea5e942.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/b10398f2-0825-4cc1-a853-eb5902530dc9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/5c6da04c-7087-48d3-a10c-1523209895e2/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/6132ed85-438e-4343-87e1-ba529502bcd5/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/a503d017-2814-43e9-8f4f-969393b6ef54/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -682,17 +816,32 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2827%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f4f6ccb4e022.webp",
+      "media_type": "image/webp",
+      "bytes": 424262,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2828%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-8c00326ed351.webp",
+      "media_type": "image/webp",
+      "bytes": 1136520,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pawling-ny-usa/Woodland%20Waters%20In%20Pleasant%20Valley,%20New%20York,%20United%20States%20For%20Sale%20%2816853105%29_files/2200xxsxm%2829%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-34752db51533.webp",
+      "media_type": "image/webp",
+      "bytes": 915462,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/12/23/13/40/27/76294dfd-f488-40b0-a248-04e777d72b59/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -728,9 +877,9 @@
     }
   ],
   "summary": {
-    "images_new": 11,
+    "images_new": 6,
     "images_existing": 49,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

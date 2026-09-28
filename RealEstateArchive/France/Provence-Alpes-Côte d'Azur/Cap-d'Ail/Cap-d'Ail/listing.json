@@ -8,7 +8,7 @@
     "listing_reference": "10771",
     "first_listed": "Mar 24, 2025",
     "last_updated": "March 26",
-    "retrieved_at": "2026-06-16T03:43:22.282999Z"
+    "retrieved_at": "2026-09-28T00:20:16.532135Z"
   },
   "location": {
     "address": "Cap-d'Ail, 06320, France",
@@ -84,6 +84,21 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/2200xxs.jpg",
       "file": "004-9151c745.webp",
       "media_type": "image/webp",
@@ -92,7 +107,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/2200xxs.jpg",
@@ -103,7 +134,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/2200xxs.jpg",
@@ -114,7 +161,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/2200xxs.jpg",
@@ -125,7 +188,23 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/2200xxs.jpg",
@@ -136,15 +215,27 @@
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-d790c93c177b.webp",
+      "media_type": "image/webp",
+      "bytes": 7812,
+      "status": "new"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "file": "img-47784a842031.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
@@ -322,6 +413,69 @@
     "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg: HTTP 403 Forbidden",
     "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/160x120xc.jpg: HTTP 403 Forbidden",
-    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden"
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png: HTTP 403 Forbidden",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/92540096-0e92-4398-ace0-c7c76b5081f8/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/6f07f4cd-e1ab-4ff7-8226-803e974b11ea/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/37a0a189-1980-4852-9f0c-2bf81f8ac140/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/19c9c08e-3d11-43d6-a382-73598c6f65a0/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/cap-d-ail-france/Cap%20D%27ail%20A%20Magnificent%20In%20Cap%20D%27ail,%20Provence%20Alpes%20Co%CC%82te%20D%27azur,%20France%20For%20Sale%20%2815390884%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2025/10/27/15/22/06/ef996c0f-e244-41e8-9252-d29aab6becdc/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
   ]
 }

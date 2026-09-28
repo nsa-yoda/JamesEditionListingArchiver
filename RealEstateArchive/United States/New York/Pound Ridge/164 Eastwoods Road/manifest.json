@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:25:24.241884Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/single-family-residence-in-pound-ridge-18091851",
     "canonical_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/single-family-residence-in-pound-ridge-18091851",
@@ -9,13 +9,13 @@
     "listing_reference": "1007263",
     "first_listed": "Jun 5",
     "last_updated": "June 5",
-    "retrieved_at": "2026-06-18T07:09:02.746882Z"
+    "retrieved_at": "2026-09-28T00:25:23.810641Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2949,
-      "sha256": "71fbed1346b2fe7c9292e1d1cc1aef4d67d9e657908dc6fdcaf3333bc981d5ee"
+      "sha256": "402e8f72c4c65d439a35e42191d313eac246019879dacaafc55d52f0f9402f7a"
     },
     {
       "path": "images/004-2e774d1b.webp",
@@ -268,9 +268,34 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-2e7eeec444d2.webp",
+      "bytes": 3866,
+      "sha256": "62eedc599d88f3f6168bc0e7f7df216fdc2f3121291137f807fddea0090d98b6"
+    },
+    {
+      "path": "images/img-4f51d62acf65.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-85f0ca1d0cea.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-86d290a1d944.png",
+      "bytes": 3564,
+      "sha256": "ad7e16f8e405630ec78ae9c2085714ea2f8cc19fcc1cb9dea9fc73967be9f635"
+    },
+    {
+      "path": "images/img-ad9eda39683f.webp",
+      "bytes": 530748,
+      "sha256": "cad2bdae81ca16ca30b1999cac8876c81e2938b5bf84cbb9bb2503def60e7dd3"
+    },
+    {
       "path": "listing.json",
-      "bytes": 29707,
-      "sha256": "b264d5405eeb93d040d27e49dde8d46b7ea52a094659fa2f049b139b7b196d5f"
+      "bytes": 66488,
+      "sha256": "53f31928d5d27b38fa75dda9b78f7fa80dc6c45fa5ec35d5156cb25d268aafd1"
     },
     {
       "path": "source.html",
@@ -286,6 +311,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/2200xxs.jpg",
       "path": "images/004-2e774d1b.webp",
       "media_type": "image/webp",
@@ -295,7 +338,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -308,7 +370,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -321,7 +402,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -334,7 +434,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -347,27 +466,70 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/M00000489.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-86d290a1d944.png",
+      "media_type": "image/png",
+      "bytes": 3564,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-2e7eeec444d2.webp",
+      "media_type": "image/webp",
+      "bytes": 3866,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4f51d62acf65.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-85f0ca1d0cea.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/40511c2d-9c28-4b8b-a006-5aae917a495c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/cb67e536-7c52-4ae7-a948-148069f3f717/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/b5cfa861-6584-48ec-93fa-5d2d97481182/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/090affcb-ac65-4bd2-b8f9-f469b5a4b73d/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -700,7 +862,16 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/pound-ridge-ny-usa/Single%20Family%20Residence%20In%20Pound%20Ridge%20In%20Pound%20Ridge,%20New%20York,%20United%20States%20For%20Sale%20%2818091851%29_files/2200xxs%2845%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ad9eda39683f.webp",
+      "media_type": "image/webp",
+      "bytes": 530748,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/05/13/03/23/3fd10219-5914-421c-96d7-54316d9b2584/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -736,9 +907,9 @@
     }
   ],
   "summary": {
-    "images_new": 10,
+    "images_new": 5,
     "images_existing": 50,
-    "images_failed": 0,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

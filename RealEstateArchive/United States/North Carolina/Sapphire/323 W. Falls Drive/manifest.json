@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:18:20.696392Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323-w-falls-drive-in-lonesome-valley-16316447",
     "canonical_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323-w-falls-drive-in-lonesome-valley-16316447",
@@ -9,13 +9,13 @@
     "listing_reference": "FLHY4V",
     "first_listed": "Oct 4, 2025",
     "last_updated": "July 1",
-    "retrieved_at": "2026-08-28T00:27:31.485573Z"
+    "retrieved_at": "2026-09-28T00:18:07.118692Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3600,
-      "sha256": "c1008ebb52cdbed5955421866e06b23571cb8bf2d61f7de4fec01ce7da059156"
+      "sha256": "559ce335481c564193a9cf1a21294e6b1608c38276d59962b8c25c8e61932cd7"
     },
     {
       "path": "images/img-032f56c64e4c.webp",
@@ -41,6 +41,11 @@
       "path": "images/img-1482fff07177.webp",
       "bytes": 196526,
       "sha256": "b62c172e9a986ecc9a6230bd2eda968b5def20187d4e5c2ed8e19443898270a5"
+    },
+    {
+      "path": "images/img-16fe0cb4b8d2.webp",
+      "bytes": 6174,
+      "sha256": "2fc5a7ad0abb093287c0d9b49603e1fb7533a63c6cc25c79b82d6a5a5022d822"
     },
     {
       "path": "images/img-1b4765bc3592.webp",
@@ -108,6 +113,11 @@
       "sha256": "69133458c007f8230695f61751fa3503b8da9d5195950a7373e0e493d21a9b50"
     },
     {
+      "path": "images/img-41baf370cd65.webp",
+      "bytes": 118830,
+      "sha256": "ae4a0e3ea92958c1ce2d86ab1113bc75101a41a83cab78a5ad9a8e54e0e50c28"
+    },
+    {
       "path": "images/img-47499cc7e6a9.webp",
       "bytes": 170158,
       "sha256": "e4223e157a5693d8adf5ec5091a7291649d21b747217c62f8b9673bc56f10774"
@@ -126,6 +136,11 @@
       "path": "images/img-4d165a8aec4f.webp",
       "bytes": 115156,
       "sha256": "87c7d21b9da203899eb4fcac0cd90a79717cd76cae7eac7b52853053dd047029"
+    },
+    {
+      "path": "images/img-4ec3ed77e507.webp",
+      "bytes": 196888,
+      "sha256": "5d12420332a1a973a9cbf6d9d6406d1d0dcd755adc1bf0e92604469ce267bce4"
     },
     {
       "path": "images/img-524246a287b1.webp",
@@ -248,6 +263,11 @@
       "sha256": "3394e2d20411db2dc4dc6d3170c2ee1cdc56b5334e8ca4c1b6ff16ee3ee830ff"
     },
     {
+      "path": "images/img-9dda9ff4d8f9.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-a01f294d9ba1.webp",
       "bytes": 749860,
       "sha256": "eb7f1d6474f1bee52f11ec8892e51848065c48aa1b6119249bbc3623d385c532"
@@ -343,6 +363,11 @@
       "sha256": "bced661a35b18d6f40eebfa143773b3739f786d3187d84874f184549ef86713a"
     },
     {
+      "path": "images/img-df8aaa7bb2e2.webp",
+      "bytes": 133530,
+      "sha256": "5d356f361d9e1ef9f1412119e01f3aaf87707497ed7b59ef9bd6b37d47ceb6b0"
+    },
+    {
       "path": "images/img-e0366500433d.webp",
       "bytes": 87870,
       "sha256": "d5fa05a1ec88a4435833fa7d3537bcfda7c54b86589b06f70607c4120bd61ef7"
@@ -403,6 +428,11 @@
       "sha256": "e68893221429f9f11ec011f924b460c20ddd305cc6b0e3d1cbc7b563e3670a8a"
     },
     {
+      "path": "images/img-f8ef7f1a2760.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-fa19d0da3e75.webp",
       "bytes": 302512,
       "sha256": "17dabf52e436d16a0172ae278ce41a2f1a51413c50a4a49c68a3c038245d564c"
@@ -424,8 +454,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 41969,
-      "sha256": "4f5ce1d2361b409cde330baebd9f805b6881cd97a2d3bb06f979a00936f57b7a"
+      "bytes": 72535,
+      "sha256": "d6bca4e7b72297c0c0273205a4ecece7cb3acc5b8699b5e3cd8fc026734daf63"
     },
     {
       "path": "source.html",
@@ -436,22 +466,72 @@
       "path": "source.url",
       "bytes": 103,
       "sha256": "95b92c02955f4944984401b3d756751c3f049aab70bcd65614c4629d91e3e7fd"
+    },
+    {
+      "path": "videos/img-c47253e033ce.webp",
+      "bytes": 200970,
+      "sha256": "774a2640977a4087c6e3ce0d872044d36b2e6da4041b0b8f6bea6d751d570c89"
+    },
+    {
+      "path": "videos/vid-402b5b5fdbe1.mp4",
+      "bytes": 85025902,
+      "sha256": "0a34544fbe7ad03ed33a11bdd9f3579a9c0b4d6a32bcef22a22e59c021a23c3e"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5699924528001/default_default/index.html?videoId=6382041913112\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-402b5b5fdbe1.mp4",
+      "media_type": "video/mp4",
+      "bytes": 85025902,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/1040x620xc.jpg",
+      "poster_path": "videos/img-c47253e033ce.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/2200xxs.jpg",
       "path": "images/img-7a8f812d9a44.webp",
       "media_type": "image/webp",
       "bytes": 831412,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/924c642b-12c5-4a0a-b61a-a3a3fe0e8d5b/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/924c642b-12c5-4a0a-b61a-a3a3fe0e8d5b/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/924c642b-12c5-4a0a-b61a-a3a3fe0e8d5b/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/924c642b-12c5-4a0a-b61a-a3a3fe0e8d5b/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/924c642b-12c5-4a0a-b61a-a3a3fe0e8d5b/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/924c642b-12c5-4a0a-b61a-a3a3fe0e8d5b/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -459,13 +539,25 @@
       "path": "images/img-3eaea0e08af6.webp",
       "media_type": "image/webp",
       "bytes": 361220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/8e08cc2b-16ef-45b3-bfc3-9d6afa5be95c/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/8e08cc2b-16ef-45b3-bfc3-9d6afa5be95c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/8e08cc2b-16ef-45b3-bfc3-9d6afa5be95c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/8e08cc2b-16ef-45b3-bfc3-9d6afa5be95c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/8e08cc2b-16ef-45b3-bfc3-9d6afa5be95c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/8e08cc2b-16ef-45b3-bfc3-9d6afa5be95c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -473,13 +565,25 @@
       "path": "images/img-a43d4504d6ba.webp",
       "media_type": "image/webp",
       "bytes": 407172,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/d9c11160-4916-4f21-aad5-e91d9d9ade80/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/d9c11160-4916-4f21-aad5-e91d9d9ade80/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/d9c11160-4916-4f21-aad5-e91d9d9ade80/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/d9c11160-4916-4f21-aad5-e91d9d9ade80/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/d9c11160-4916-4f21-aad5-e91d9d9ade80/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/d9c11160-4916-4f21-aad5-e91d9d9ade80/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -487,13 +591,25 @@
       "path": "images/img-a01f294d9ba1.webp",
       "media_type": "image/webp",
       "bytes": 749860,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/3c16469e-d599-47bc-b484-23b342fb26e9/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/3c16469e-d599-47bc-b484-23b342fb26e9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/3c16469e-d599-47bc-b484-23b342fb26e9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/3c16469e-d599-47bc-b484-23b342fb26e9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/3c16469e-d599-47bc-b484-23b342fb26e9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/3c16469e-d599-47bc-b484-23b342fb26e9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -501,31 +617,61 @@
       "path": "images/img-04de74ac90ec.webp",
       "media_type": "image/webp",
       "bytes": 360052,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-16fe0cb4b8d2.webp",
+      "media_type": "image/webp",
+      "bytes": 6174,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-9dda9ff4d8f9.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-f8ef7f1a2760.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/924c642b-12c5-4a0a-b61a-a3a3fe0e8d5b/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/924c642b-12c5-4a0a-b61a-a3a3fe0e8d5b/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/8e08cc2b-16ef-45b3-bfc3-9d6afa5be95c/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/8e08cc2b-16ef-45b3-bfc3-9d6afa5be95c/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/d9c11160-4916-4f21-aad5-e91d9d9ade80/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/d9c11160-4916-4f21-aad5-e91d9d9ade80/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/3c16469e-d599-47bc-b484-23b342fb26e9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/3c16469e-d599-47bc-b484-23b342fb26e9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -533,7 +679,7 @@
       "path": "images/img-a044abbc26f4.webp",
       "media_type": "image/webp",
       "bytes": 307918,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -541,7 +687,7 @@
       "path": "images/img-5954593347db.webp",
       "media_type": "image/webp",
       "bytes": 344182,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -549,7 +695,7 @@
       "path": "images/img-84b7e01d26aa.webp",
       "media_type": "image/webp",
       "bytes": 319448,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -557,7 +703,7 @@
       "path": "images/img-1b4765bc3592.webp",
       "media_type": "image/webp",
       "bytes": 848880,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -565,7 +711,7 @@
       "path": "images/img-f5bf05c7b4cc.webp",
       "media_type": "image/webp",
       "bytes": 359970,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -573,7 +719,7 @@
       "path": "images/img-e3391e3895ed.webp",
       "media_type": "image/webp",
       "bytes": 401886,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -581,7 +727,7 @@
       "path": "images/img-64fa3c830905.webp",
       "media_type": "image/webp",
       "bytes": 175888,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -589,7 +735,7 @@
       "path": "images/img-1482fff07177.webp",
       "media_type": "image/webp",
       "bytes": 196526,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -597,7 +743,7 @@
       "path": "images/img-481a357b161b.webp",
       "media_type": "image/webp",
       "bytes": 225120,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -605,7 +751,7 @@
       "path": "images/img-dd645cbf00ef.webp",
       "media_type": "image/webp",
       "bytes": 379802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -613,7 +759,7 @@
       "path": "images/img-29487666f780.webp",
       "media_type": "image/webp",
       "bytes": 133986,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -621,7 +767,7 @@
       "path": "images/img-53935da03d7f.webp",
       "media_type": "image/webp",
       "bytes": 133374,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -629,7 +775,7 @@
       "path": "images/img-ec36573bd8d5.webp",
       "media_type": "image/webp",
       "bytes": 262130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -637,7 +783,7 @@
       "path": "images/img-638757dea429.webp",
       "media_type": "image/webp",
       "bytes": 137698,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -645,7 +791,7 @@
       "path": "images/img-eb7d08cd4c0c.webp",
       "media_type": "image/webp",
       "bytes": 303152,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -653,7 +799,7 @@
       "path": "images/img-7bd505e55d3e.webp",
       "media_type": "image/webp",
       "bytes": 307462,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -661,7 +807,7 @@
       "path": "images/img-aa3bdd440953.webp",
       "media_type": "image/webp",
       "bytes": 280692,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -669,7 +815,7 @@
       "path": "images/img-1224a7395451.webp",
       "media_type": "image/webp",
       "bytes": 245214,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -677,7 +823,7 @@
       "path": "images/img-fd06cb5a688f.webp",
       "media_type": "image/webp",
       "bytes": 208090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -685,7 +831,7 @@
       "path": "images/img-fa19d0da3e75.webp",
       "media_type": "image/webp",
       "bytes": 302512,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -693,7 +839,7 @@
       "path": "images/img-bba456425b92.webp",
       "media_type": "image/webp",
       "bytes": 436606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -701,7 +847,7 @@
       "path": "images/img-34a413603a09.webp",
       "media_type": "image/webp",
       "bytes": 116932,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -709,7 +855,7 @@
       "path": "images/img-9cc64cf85407.webp",
       "media_type": "image/webp",
       "bytes": 334342,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -717,7 +863,7 @@
       "path": "images/img-fb24631ee2ca.webp",
       "media_type": "image/webp",
       "bytes": 291378,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -725,7 +871,7 @@
       "path": "images/img-8cde51fae37e.webp",
       "media_type": "image/webp",
       "bytes": 186138,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -733,7 +879,7 @@
       "path": "images/img-e0c0fe9f5f0e.webp",
       "media_type": "image/webp",
       "bytes": 264538,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -741,7 +887,7 @@
       "path": "images/img-a13ed12af547.webp",
       "media_type": "image/webp",
       "bytes": 433770,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -749,7 +895,7 @@
       "path": "images/img-d817ab8cd6c0.webp",
       "media_type": "image/webp",
       "bytes": 412872,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -757,7 +903,7 @@
       "path": "images/img-73ad12c67bbd.webp",
       "media_type": "image/webp",
       "bytes": 396578,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -765,7 +911,7 @@
       "path": "images/img-ba6b5057f441.webp",
       "media_type": "image/webp",
       "bytes": 395650,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -773,7 +919,7 @@
       "path": "images/img-cf47dda651ca.webp",
       "media_type": "image/webp",
       "bytes": 404558,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -781,7 +927,7 @@
       "path": "images/img-486ed8883dde.webp",
       "media_type": "image/webp",
       "bytes": 568564,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -789,7 +935,7 @@
       "path": "images/img-cdec559c9ce2.webp",
       "media_type": "image/webp",
       "bytes": 322754,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -797,7 +943,7 @@
       "path": "images/img-e8d5cd19be97.webp",
       "media_type": "image/webp",
       "bytes": 403818,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -805,7 +951,7 @@
       "path": "images/img-524246a287b1.webp",
       "media_type": "image/webp",
       "bytes": 351776,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -813,7 +959,7 @@
       "path": "images/img-32b37490393f.webp",
       "media_type": "image/webp",
       "bytes": 498722,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -821,7 +967,7 @@
       "path": "images/img-952dac8b17d6.webp",
       "media_type": "image/webp",
       "bytes": 995564,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -829,7 +975,7 @@
       "path": "images/img-6612d5be644f.webp",
       "media_type": "image/webp",
       "bytes": 588894,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -837,7 +983,7 @@
       "path": "images/img-5dd60df93282.webp",
       "media_type": "image/webp",
       "bytes": 226326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -845,7 +991,7 @@
       "path": "images/img-1c690417abda.webp",
       "media_type": "image/webp",
       "bytes": 277100,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -853,7 +999,7 @@
       "path": "images/img-20cf19c35164.webp",
       "media_type": "image/webp",
       "bytes": 225820,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -861,7 +1007,7 @@
       "path": "images/img-bd4ec1594836.webp",
       "media_type": "image/webp",
       "bytes": 303876,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -869,7 +1015,7 @@
       "path": "images/img-e04a0a0f8188.webp",
       "media_type": "image/webp",
       "bytes": 228080,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -877,7 +1023,7 @@
       "path": "images/img-61508dc00aec.webp",
       "media_type": "image/webp",
       "bytes": 166058,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -885,7 +1031,7 @@
       "path": "images/img-a26b1f5aa063.webp",
       "media_type": "image/webp",
       "bytes": 580186,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -893,7 +1039,7 @@
       "path": "images/img-86e79fbfe290.webp",
       "media_type": "image/webp",
       "bytes": 277322,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -901,7 +1047,7 @@
       "path": "images/img-04a05cb1b675.webp",
       "media_type": "image/webp",
       "bytes": 244092,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -909,7 +1055,7 @@
       "path": "images/img-792ad5497b63.webp",
       "media_type": "image/webp",
       "bytes": 122778,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -917,7 +1063,7 @@
       "path": "images/img-e0366500433d.webp",
       "media_type": "image/webp",
       "bytes": 87870,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -925,7 +1071,7 @@
       "path": "images/img-a5ec404b11b1.webp",
       "media_type": "image/webp",
       "bytes": 275772,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -933,7 +1079,7 @@
       "path": "images/img-c160e22679c1.webp",
       "media_type": "image/webp",
       "bytes": 171514,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -941,7 +1087,7 @@
       "path": "images/img-76e90f318e28.webp",
       "media_type": "image/webp",
       "bytes": 112894,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -949,7 +1095,7 @@
       "path": "images/img-6fa7cbce6154.webp",
       "media_type": "image/webp",
       "bytes": 99074,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -957,7 +1103,7 @@
       "path": "images/img-7113035816e9.webp",
       "media_type": "image/webp",
       "bytes": 250484,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -965,7 +1111,7 @@
       "path": "images/img-2563bf7683d7.webp",
       "media_type": "image/webp",
       "bytes": 325328,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -973,7 +1119,7 @@
       "path": "images/img-381498352d82.webp",
       "media_type": "image/webp",
       "bytes": 158864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -981,7 +1127,7 @@
       "path": "images/img-f2334f0ca873.webp",
       "media_type": "image/webp",
       "bytes": 127608,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -989,7 +1135,7 @@
       "path": "images/img-f0f7bc7e61dd.webp",
       "media_type": "image/webp",
       "bytes": 151740,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -997,7 +1143,7 @@
       "path": "images/img-92721e23090d.webp",
       "media_type": "image/webp",
       "bytes": 213220,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1005,7 +1151,7 @@
       "path": "images/img-d33bf3544667.webp",
       "media_type": "image/webp",
       "bytes": 193494,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1013,7 +1159,7 @@
       "path": "images/img-47499cc7e6a9.webp",
       "media_type": "image/webp",
       "bytes": 170158,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1021,7 +1167,7 @@
       "path": "images/img-faac418acae5.webp",
       "media_type": "image/webp",
       "bytes": 109112,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1029,7 +1175,7 @@
       "path": "images/img-1c5f37b38e25.webp",
       "media_type": "image/webp",
       "bytes": 128692,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1037,7 +1183,7 @@
       "path": "images/img-66e97e286056.webp",
       "media_type": "image/webp",
       "bytes": 101528,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1045,7 +1191,7 @@
       "path": "images/img-e42eef6a6bce.webp",
       "media_type": "image/webp",
       "bytes": 235228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1053,7 +1199,7 @@
       "path": "images/img-e71039fd5cc0.webp",
       "media_type": "image/webp",
       "bytes": 184414,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1061,7 +1207,7 @@
       "path": "images/img-23d403591264.webp",
       "media_type": "image/webp",
       "bytes": 164452,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1069,7 +1215,7 @@
       "path": "images/img-032f56c64e4c.webp",
       "media_type": "image/webp",
       "bytes": 180236,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1077,7 +1223,7 @@
       "path": "images/img-ccd929a44a2d.webp",
       "media_type": "image/webp",
       "bytes": 152228,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1085,7 +1231,7 @@
       "path": "images/img-4d165a8aec4f.webp",
       "media_type": "image/webp",
       "bytes": 115156,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1093,7 +1239,7 @@
       "path": "images/img-96aabb0cc15f.webp",
       "media_type": "image/webp",
       "bytes": 149208,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1101,7 +1247,7 @@
       "path": "images/img-2bd330044ad8.webp",
       "media_type": "image/webp",
       "bytes": 602118,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1109,7 +1255,7 @@
       "path": "images/img-3352ae97ef32.webp",
       "media_type": "image/webp",
       "bytes": 704192,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1117,7 +1263,7 @@
       "path": "images/img-d8e69dbd7816.webp",
       "media_type": "image/webp",
       "bytes": 619600,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -1125,25 +1271,37 @@
       "path": "images/img-c06e743bf5ac.webp",
       "media_type": "image/webp",
       "bytes": 801572,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/2200xxsxm%2855%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-4ec3ed77e507.webp",
+      "media_type": "image/webp",
+      "bytes": 196888,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/2200xxsxm%2856%29.jpg",
-      "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "path": "images/img-df8aaa7bb2e2.webp",
+      "media_type": "image/webp",
+      "bytes": 133530,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/sapphire-nc-usa/323%20W.%20Falls%20Drive%20In%20Lonesome%20In%20Sapphire,%20North%20Carolina,%20United%20States%20For%20Sale%20%2816316447%29_files/2200xxsxm%2857%29.jpg",
+      "path": "images/img-41baf370cd65.webp",
+      "media_type": "image/webp",
+      "bytes": 118830,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/10/03/15/43/10/4d4989cd-37da-4ec9-b94e-cf86a85c22ba/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -1151,32 +1309,32 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     }
   ],
   "summary": {
-    "images_new": 81,
-    "images_existing": 0,
-    "images_failed": 14,
-    "videos_new": 0,
+    "images_new": 6,
+    "images_existing": 81,
+    "images_failed": 24,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/spina-italy/farm-estate-with-xi-century-castle-for-sale-in-umbria-16046987
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:08:40Z
+- Retrieved: 2026-09-28T00:21:14Z
 - Address: Spina PG, Marsciano, Umbria, Italy
 - Map: https://www.google.com/maps/search/?api=1&query=42.9858846,12.2786163
 - Coordinates: 42.99, 12.28
 - Site listing ID: 16046987
 - First listed: Aug 13, 2025
 - Last updated: August 13, 2025
-- Images downloaded: 9
+- Images downloaded: 14
 
 ## Property
 

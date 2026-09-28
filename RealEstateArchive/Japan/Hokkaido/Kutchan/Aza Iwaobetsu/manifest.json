@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:23:18.585512Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/kutchan-japan/odin-hills-k-series-villa-lot-k3-15252204",
     "canonical_url": "https://www.jamesedition.com/real_estate/kutchan-japan/odin-hills-k-series-villa-lot-k3-15252204",
@@ -9,13 +9,13 @@
     "listing_reference": "4517802",
     "first_listed": "Feb 22, 2025",
     "last_updated": "December 17, 2025",
-    "retrieved_at": "2026-06-16T03:43:32.120065Z"
+    "retrieved_at": "2026-09-28T00:23:18.172864Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2401,
-      "sha256": "cfce2cb36c3f1fe2aa9dc7bc0c4838ca4e969c3607d4a9c14c0ed3648fbefd8a"
+      "sha256": "b505cbc9957bd0ab1bbb90b115e1cd7f7000546bafc024665dc0fb4c753aec3f"
     },
     {
       "path": "images/004-6f0cf4da.webp",
@@ -68,9 +68,19 @@
       "sha256": "78c2b6a66570c08de5b985428aff328d07c6bfd2cb1aadcccfb643863f977552"
     },
     {
+      "path": "images/img-013c26893e69.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
+      "path": "images/img-9e86add213dc.webp",
+      "bytes": 3668,
+      "sha256": "9f29cbb1f8940987423f15b680a9eb373a9451a93f01c3a426a4127599bce35e"
+    },
+    {
       "path": "listing.json",
-      "bytes": 15824,
-      "sha256": "f8b3c2a415d6eb1755e776a05da7e240ca9793bd95d1d0a17da50be93d3ab894"
+      "bytes": 44955,
+      "sha256": "7d44bde252afb0b037f00ff18f5f678180914cdeb82991f45655479daa1a30d2"
     },
     {
       "path": "source.html",
@@ -86,6 +96,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/2200xxs.jpg",
       "path": "images/004-6f0cf4da.webp",
       "media_type": "image/webp",
@@ -95,7 +123,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4d8eda2a-7ffd-47bb-b713-89176fb90e0f/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4d8eda2a-7ffd-47bb-b713-89176fb90e0f/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4d8eda2a-7ffd-47bb-b713-89176fb90e0f/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4d8eda2a-7ffd-47bb-b713-89176fb90e0f/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4d8eda2a-7ffd-47bb-b713-89176fb90e0f/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4d8eda2a-7ffd-47bb-b713-89176fb90e0f/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -108,7 +155,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/2e1c7343-c844-4e3e-9b28-1f700c9d7f9d/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/2e1c7343-c844-4e3e-9b28-1f700c9d7f9d/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/2e1c7343-c844-4e3e-9b28-1f700c9d7f9d/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/2e1c7343-c844-4e3e-9b28-1f700c9d7f9d/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/2e1c7343-c844-4e3e-9b28-1f700c9d7f9d/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/2e1c7343-c844-4e3e-9b28-1f700c9d7f9d/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -121,7 +187,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/af806e7b-2361-4f44-9cfc-166391722f52/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/af806e7b-2361-4f44-9cfc-166391722f52/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/af806e7b-2361-4f44-9cfc-166391722f52/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/af806e7b-2361-4f44-9cfc-166391722f52/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/af806e7b-2361-4f44-9cfc-166391722f52/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/af806e7b-2361-4f44-9cfc-166391722f52/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -134,7 +219,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4f5c6bea-dace-4d1b-bfbe-b9598e3c4f61/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4f5c6bea-dace-4d1b-bfbe-b9598e3c4f61/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4f5c6bea-dace-4d1b-bfbe-b9598e3c4f61/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4f5c6bea-dace-4d1b-bfbe-b9598e3c4f61/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4f5c6bea-dace-4d1b-bfbe-b9598e3c4f61/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/4f5c6bea-dace-4d1b-bfbe-b9598e3c4f61/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -147,17 +251,30 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-9e86add213dc.webp",
+      "media_type": "image/webp",
+      "bytes": 3668,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/kutchan-japan/Odin%20Hills%20K%20Series%20Villa%20Lot%20K3%20In%20Kutchan,%20Hokkaido,%20Japan%20For%20Sale%20%2815252204%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-013c26893e69.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2025/06/05/08/42/17/147ab05a-22dc-415f-b559-a9ea29a6ed96/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -201,9 +318,9 @@
     }
   ],
   "summary": {
-    "images_new": 7,
+    "images_new": 2,
     "images_existing": 10,
-    "images_failed": 0,
+    "images_failed": 21,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

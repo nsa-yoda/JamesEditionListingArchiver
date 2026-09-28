@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/finale-ligure-italy/forte-tortagna-a-historic-fortress-reborn-as-an-exclusive-residence-16276613
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:08:40Z
+- Retrieved: 2026-09-28T00:21:27Z
 - Address: 17024 Finale Ligure, Province of Savona, Italy, Finale Pia - Calvisio, Liguria
 - Map: https://www.google.com/maps/search/?api=1&query=44.1741579,8.3537927
 - Coordinates: 44.17, 8.35
 - Site listing ID: 16276613
 - First listed: Sep 29, 2025
 - Last updated: May 23
-- Images downloaded: 9
+- Images downloaded: 11
 - Videos downloaded: 0
 
 ## Property

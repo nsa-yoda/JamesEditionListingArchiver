@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/cayucos-ca-usa/5010-cabrillo-highway-13182949
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:18:02Z
+- Retrieved: 2026-09-28T00:18:47Z
 - Address: 5010 Cabrillo Highway, Cayucos, CA 93430, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=35.4601983,-120.9786967
 - Coordinates: 35.46, -120.98
@@ -10,7 +10,7 @@
 - Listing reference: 4CL4JQ
 - First listed: Aug 24, 2023
 - Last updated: February 1, 2025
-- Images downloaded: 54
+- Images downloaded: 57
 
 ## Property
 

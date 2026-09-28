@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/big-sur-ca-usa/manufactured-home-in-big-sur-16521496
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:01Z
+- Retrieved: 2026-09-28T00:22:42Z
 - Address: 0 Morning Glory Ranch, Big Sur, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=36.024216,-121.555388
 - Coordinates: 36.02, -121.56
@@ -10,7 +10,7 @@
 - Listing reference: SC25234598
 - First listed: Oct 28, 2025
 - Last updated: April 21
-- Images downloaded: 37
+- Images downloaded: 41
 
 ## Property
 

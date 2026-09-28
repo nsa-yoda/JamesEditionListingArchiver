@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/canaan-ny-usa/a-home-like-no-other-16091791
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:07:25Z
+- Retrieved: 2026-09-28T00:19:34Z
 - Address: 241 Cunningham Hill Road, Canaan, NY 12029, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=42.3803389618294,-73.4031171801326
 - Coordinates: 42.38, -73.4
@@ -10,8 +10,8 @@
 - Listing reference: 4JEQD5
 - First listed: Aug 25, 2025
 - Last updated: May 18
-- Images downloaded: 66
-- Videos downloaded: 0
+- Images downloaded: 72
+- Videos downloaded: 1
 
 ## Property
 

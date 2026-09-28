@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:20:55.74567Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/stafa-switzerland/exclusive-villa-with-private-lake-access-on-lake-zurich-18143924",
     "canonical_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/exclusive-villa-with-private-lake-access-on-lake-zurich-18143924",
@@ -8,13 +8,13 @@
     "listing_id": "18143924",
     "first_listed": "Jun 11",
     "last_updated": "June 11",
-    "retrieved_at": "2026-08-28T00:28:27.370102Z"
+    "retrieved_at": "2026-09-28T00:20:54.250942Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3661,
-      "sha256": "21af19d1f254a30bd4cc3d2f0a836c030d6ee2f9ade23553435d89a42329037e"
+      "sha256": "fbccf51894995305306f7fb51f3cb2b1de8e718ec5ac90ad6ac5674496ed2f65"
     },
     {
       "path": "images/img-0763e4185913.webp",
@@ -47,9 +47,19 @@
       "sha256": "5256c2cb2ca134cfd755dd2950253baa4dd94e8aa75db2d6c5076524fa3186ae"
     },
     {
+      "path": "images/img-28f22ca47cd3.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "images/img-2e0fde95df14.webp",
       "bytes": 829212,
       "sha256": "a0cae27ca18c26c5bb58d8db7088e5efd7c0495efe66da945d2d354c999d3804"
+    },
+    {
+      "path": "images/img-399f8f108a61.webp",
+      "bytes": 3394,
+      "sha256": "d8ca88a60dd0328a3d03a48139d3670b5eca754e91f3326440f70596bed36e32"
     },
     {
       "path": "images/img-3a0eec6c3662.webp",
@@ -142,6 +152,11 @@
       "sha256": "615739b8be368f60abad63b581a459d6b8130a406ca2675bfd6c36d9d6bf87ea"
     },
     {
+      "path": "images/img-c794146df55a.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
       "path": "images/img-cd18372193c0.webp",
       "bytes": 122376,
       "sha256": "41d4adfa06cb128a0fdab0a04d2559b38f24bc123c150f0180ba47d20ecdd6ec"
@@ -158,8 +173,8 @@
     },
     {
       "path": "listing.json",
-      "bytes": 27984,
-      "sha256": "9a320dc860991e0e72bcc96e26d73e1433420d4b675101224a9a957cf816a5d3"
+      "bytes": 68238,
+      "sha256": "bc7a0e936f7041c00e322298d3e9461081102bc8f0aad0fd64570a85f3717ce5"
     },
     {
       "path": "source.html",
@@ -180,11 +195,29 @@
   "assets": [
     {
       "kind": "video",
-      "source_url": "https://player.vimeo.com/video/1199431865?autoplay=1\u0026amp;muted=1\u0026amp;loop=1\u0026amp;controls=0\u0026amp;background=1\u0026amp;title=0\u0026amp;byline=0\u0026amp;portrait=0\u0026amp;badge=0",
+      "source_url": "https://player.vimeo.com/video/1199431865?autoplay=1\u0026muted=1\u0026loop=1\u0026controls=0\u0026background=1\u0026title=0\u0026byline=0\u0026portrait=0\u0026badge=0",
       "status": "failed",
       "poster_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/1040x620xc.jpg",
       "poster_path": "videos/img-c4b618420466.webp",
-      "error": "response is not a recognized video"
+      "error": "yt-dlp could not download the video player URL"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -192,13 +225,31 @@
       "path": "images/img-cd18372193c0.webp",
       "media_type": "image/webp",
       "bytes": 122376,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -206,13 +257,31 @@
       "path": "images/img-a57bbf77cf4f.webp",
       "media_type": "image/webp",
       "bytes": 210626,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -220,13 +289,31 @@
       "path": "images/img-0c68c71c6810.webp",
       "media_type": "image/webp",
       "bytes": 616042,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -234,13 +321,31 @@
       "path": "images/img-c18afcae656f.webp",
       "media_type": "image/webp",
       "bytes": 405684,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -248,31 +353,67 @@
       "path": "images/img-2e0fde95df14.webp",
       "media_type": "image/webp",
       "bytes": 829212,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-399f8f108a61.webp",
+      "media_type": "image/webp",
+      "bytes": 3394,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "path": "images/img-28f22ca47cd3.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "path": "images/img-c794146df55a.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/2000xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/defadc8b-dc06-415f-9f42-ff3bb7462479/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/13bb3f87-9f87-4c96-83af-0ec853c395a7/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/61ece3cf-bee2-4d73-b07d-f9af0a4fe89a/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/39/e64489c7-eaa0-40b4-948e-704d6f1c7857/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -280,7 +421,7 @@
       "path": "images/img-7dcd81b07ca4.webp",
       "media_type": "image/webp",
       "bytes": 617794,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -288,7 +429,7 @@
       "path": "images/img-d9015e7f832f.webp",
       "media_type": "image/webp",
       "bytes": 61654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -296,7 +437,7 @@
       "path": "images/img-b82491a52860.webp",
       "media_type": "image/webp",
       "bytes": 382000,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -304,7 +445,7 @@
       "path": "images/img-91872db7a86a.webp",
       "media_type": "image/webp",
       "bytes": 337398,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -312,7 +453,7 @@
       "path": "images/img-3ff7b3c699f6.webp",
       "media_type": "image/webp",
       "bytes": 130592,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -320,7 +461,7 @@
       "path": "images/img-85a83a438501.webp",
       "media_type": "image/webp",
       "bytes": 114802,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -328,7 +469,7 @@
       "path": "images/img-af0ab302f4a7.webp",
       "media_type": "image/webp",
       "bytes": 87412,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -336,7 +477,7 @@
       "path": "images/img-9536b5202e3e.webp",
       "media_type": "image/webp",
       "bytes": 108892,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -344,7 +485,7 @@
       "path": "images/img-43a9ed096f11.webp",
       "media_type": "image/webp",
       "bytes": 122864,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -352,7 +493,7 @@
       "path": "images/img-18196847a7d4.webp",
       "media_type": "image/webp",
       "bytes": 61948,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -360,7 +501,7 @@
       "path": "images/img-612d23049ee6.webp",
       "media_type": "image/webp",
       "bytes": 156736,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -368,7 +509,7 @@
       "path": "images/img-92a1c4762a4d.webp",
       "media_type": "image/webp",
       "bytes": 67428,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -376,7 +517,7 @@
       "path": "images/img-648b64ae4488.webp",
       "media_type": "image/webp",
       "bytes": 62118,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -384,7 +525,7 @@
       "path": "images/img-506e37e246b9.webp",
       "media_type": "image/webp",
       "bytes": 86672,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -392,7 +533,7 @@
       "path": "images/img-5b403f35a24c.webp",
       "media_type": "image/webp",
       "bytes": 104160,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -400,7 +541,7 @@
       "path": "images/img-0c5a6965278d.webp",
       "media_type": "image/webp",
       "bytes": 71266,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -408,7 +549,7 @@
       "path": "images/img-d1a638dcc753.webp",
       "media_type": "image/webp",
       "bytes": 120176,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -416,7 +557,7 @@
       "path": "images/img-2172971a9f86.webp",
       "media_type": "image/webp",
       "bytes": 70436,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -424,7 +565,7 @@
       "path": "images/img-ae774a143821.webp",
       "media_type": "image/webp",
       "bytes": 452758,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -432,7 +573,7 @@
       "path": "images/img-3a0eec6c3662.webp",
       "media_type": "image/webp",
       "bytes": 195202,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -440,25 +581,13 @@
       "path": "images/img-20cddd4e3265.webp",
       "media_type": "image/webp",
       "bytes": 238884,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2821%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2822%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/stafa-switzerland/Exclusive%20Villa%20With%20Private%20Lake%20Access%20On%20Lake%20In%20Sta%CC%88fa,%20Zu%CC%88rich,%20Switzerland%20For%20Sale%20%2818143924%29_files/2200xxs%2823%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/08/12/01/38/80fead35-83be-4552-a3b1-c90c219735be/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -466,25 +595,25 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -492,13 +621,13 @@
       "path": "images/img-0763e4185913.webp",
       "media_type": "image/webp",
       "bytes": 904,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 28,
-    "images_existing": 0,
-    "images_failed": 14,
+    "images_new": 3,
+    "images_existing": 28,
+    "images_failed": 29,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 1

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/united-kingdom/invergare-house-glenarn-road-rhu-helensburgh-18082515
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:28:48Z
+- Retrieved: 2026-09-28T00:21:59Z
 - Address: Invergare House, Glenarn Road, Rhu, Helensburgh, Scotland
 - Map: https://www.google.com/maps/search/?api=1&query=56.016555,-4.770667
 - Coordinates: 56.02, -4.77
@@ -10,7 +10,7 @@
 - Listing reference: GLS260054
 - First listed: Jun 4
 - Last updated: June 4
-- Images downloaded: 45
+- Images downloaded: 48
 
 ## Property
 

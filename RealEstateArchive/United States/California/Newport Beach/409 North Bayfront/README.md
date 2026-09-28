@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/newport-beach-ca-usa/single-family-residence-in-newport-beach-17784281
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:31:20Z
+- Retrieved: 2026-09-28T00:25:22Z
 - Address: 409 North Bayfront, Newport Beach, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=33.608543,-117.896666
 - Coordinates: 33.61, -117.9
@@ -10,7 +10,7 @@
 - Listing reference: NP26091328
 - First listed: Apr 29
 - Last updated: April 29
-- Images downloaded: 43
+- Images downloaded: 47
 - Videos downloaded: 0
 
 ## Property

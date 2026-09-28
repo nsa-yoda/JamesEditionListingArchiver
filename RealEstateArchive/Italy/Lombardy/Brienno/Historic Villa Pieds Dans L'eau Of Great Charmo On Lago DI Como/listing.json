@@ -7,7 +7,7 @@
     "listing_id": "18348881",
     "first_listed": "Jul 6",
     "last_updated": "Today",
-    "retrieved_at": "2026-08-28T00:28:40.922298Z"
+    "retrieved_at": "2026-09-28T00:21:51.079661Z"
   },
   "location": {
     "address": "Via Regina, 60, 22010 Brienno CO, Lombardy, Italy",
@@ -83,117 +83,215 @@
   },
   "images": [
     {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/2200xxs.jpg",
       "file": "img-e47a4b4f6d32.webp",
       "media_type": "image/webp",
       "bytes": 510860,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/2200xxs.jpg",
       "file": "img-6a51f06336a5.webp",
       "media_type": "image/webp",
       "bytes": 619338,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/2200xxs.jpg",
       "file": "img-ac73d9c2bb79.webp",
       "media_type": "image/webp",
       "bytes": 436346,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/2200xxs.jpg",
       "file": "img-090b638e36c6.webp",
       "media_type": "image/webp",
       "bytes": 537646,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/2200xxs.jpg",
       "file": "img-24f58dad3343.webp",
       "media_type": "image/webp",
       "bytes": 370918,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%281%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%282%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%283%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/1f2d7c7a-465d-49a6-9302-ccb9113bad24/je/2000xxs.jpg",
-      "file": "img-b212712d6b88.webp",
+      "file": "img-37a0cf244c77.webp",
       "media_type": "image/webp",
-      "bytes": 521286,
+      "bytes": 5280,
       "status": "new"
     },
     {
-      "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/c3e2bf61-d32b-48ee-910c-ef1383efa0af/je/2000xxs.jpg",
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
+      "file": "img-389889213987.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
+      "file": "img-b5f89e3f2b86.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs.jpg",
+      "file": "img-54eda2a9e729.webp",
+      "media_type": "image/webp",
+      "bytes": 429990,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%281%29.jpg",
+      "file": "img-d3b8a28e6cfe.webp",
+      "media_type": "image/webp",
+      "bytes": 519348,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%282%29.jpg",
+      "file": "img-cb4982884d0b.webp",
+      "media_type": "image/webp",
+      "bytes": 314810,
+      "status": "new"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%283%29.jpg",
+      "file": "img-b212712d6b88.webp",
+      "media_type": "image/webp",
+      "bytes": 521286,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2000xxs%284%29.jpg",
       "file": "img-795c32afe6c6.webp",
       "media_type": "image/webp",
       "bytes": 205628,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/2000xxs.jpg",
+      "file": "img-16a3cf25be2e.webp",
+      "media_type": "image/webp",
+      "bytes": 429990,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/2000xxs.jpg",
+      "file": "img-c3fb50ad7a87.webp",
+      "media_type": "image/webp",
+      "bytes": 429990,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/2000xxs.jpg",
+      "file": "img-285bfdc5a469.webp",
+      "media_type": "image/webp",
+      "bytes": 429990,
       "status": "new"
     },
     {
@@ -201,125 +299,139 @@
       "file": "img-42b0f4557185.webp",
       "media_type": "image/webp",
       "bytes": 560498,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/8908826f-cdc5-4dfd-8d8b-924c8fb85600/je/2000xxs.jpg",
       "file": "img-608152795590.webp",
       "media_type": "image/webp",
       "bytes": 552654,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/bf91ff92-e7aa-4612-9449-56396d80e5f5/je/2000xxs.jpg",
       "file": "img-5b133924c335.webp",
       "media_type": "image/webp",
       "bytes": 493218,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/ee8e209a-001c-44a0-bc98-6f4e323e07d5/je/2000xxs.jpg",
       "file": "img-1f2a3ddc9b35.webp",
       "media_type": "image/webp",
       "bytes": 120510,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/9747f061-9805-45fe-a876-8712bbd874a8/je/2000xxs.jpg",
       "file": "img-49ab27905308.webp",
       "media_type": "image/webp",
       "bytes": 681490,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/97623ed1-d8b9-4d30-97a5-0930aa6bbe4e/je/2000xxs.jpg",
       "file": "img-20e846134352.webp",
       "media_type": "image/webp",
       "bytes": 453624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/5164b392-6df9-44f4-b994-748deedfe644/je/2000xxs.jpg",
       "file": "img-07fdc2ea8eee.webp",
       "media_type": "image/webp",
       "bytes": 412540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/79e3a0e7-58e0-493d-b57a-3abb21cd1f4e/je/2000xxs.jpg",
       "file": "img-87fe846448ea.webp",
       "media_type": "image/webp",
       "bytes": 468130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/2fe8935d-e186-424e-8554-90d650468e0a/je/2000xxs.jpg",
       "file": "img-08e7e3cd4ecd.webp",
       "media_type": "image/webp",
       "bytes": 290606,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b4593d46-a617-450c-9255-083ca39a0ef2/je/2000xxs.jpg",
       "file": "img-95f7259238dd.webp",
       "media_type": "image/webp",
       "bytes": 243890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/b8eb099e-62e4-4998-a760-9cb76413c873/je/2000xxs.jpg",
       "file": "img-8fa92621efa9.webp",
       "media_type": "image/webp",
       "bytes": 199584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/ef3d4901-0aee-42f7-854c-70af21da9bd7/je/2000xxs.jpg",
       "file": "img-d12a0649dded.webp",
       "media_type": "image/webp",
       "bytes": 307810,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/e75afeec-add6-4228-b4fa-4a827c5f6a74/je/2000xxs.jpg",
       "file": "img-6d14a31f4ea8.webp",
       "media_type": "image/webp",
       "bytes": 453624,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ad42968e-8762-457e-a7e3-351c531330ce/je/2000xxs.jpg",
       "file": "img-22e5f0e6292f.webp",
       "media_type": "image/webp",
       "bytes": 412540,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/7bf4d15f-e6d9-49cd-87b0-7f0ea5bc016f/je/2000xxs.jpg",
       "file": "img-6e67a9612a74.webp",
       "media_type": "image/webp",
       "bytes": 468130,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/fadc625a-4fed-4c12-b570-4b7e1c20c951/je/2000xxs.jpg",
       "file": "img-0a0f4005868d.webp",
       "media_type": "image/webp",
       "bytes": 243890,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/78557a8c-6951-4c55-a831-b0e284d341eb/je/2000xxs.jpg",
       "file": "img-bb5004070227.webp",
       "media_type": "image/webp",
       "bytes": 199584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/4009b6a1-2435-47d0-a7ce-d6be8f6bb111/je/2000xxs.jpg",
       "file": "img-ff7019252b3e.webp",
       "media_type": "image/webp",
       "bytes": 307810,
+      "status": "existing"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/2000xxs.jpg",
+      "file": "img-1faa5a9cd009.webp",
+      "media_type": "image/webp",
+      "bytes": 429990,
+      "status": "new"
+    },
+    {
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/2000xxs.jpg",
+      "file": "img-94ed5714da33.webp",
+      "media_type": "image/webp",
+      "bytes": 429990,
       "status": "new"
     },
     {
@@ -327,69 +439,69 @@
       "file": "img-f1e6fb7e0865.webp",
       "media_type": "image/webp",
       "bytes": 406344,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/9c533e43-2942-46db-99f9-aa75d192ff1b/je/2000xxs.jpg",
       "file": "img-1e9c12ea834e.webp",
       "media_type": "image/webp",
       "bytes": 289472,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/03/17/57/12/0cbd58e2-5973-4a71-a409-d92a864e0ef5/je/2000xxs.jpg",
       "file": "img-8afe179ab625.webp",
       "media_type": "image/webp",
       "bytes": 488354,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/0d258767-5325-4447-8976-19370634fbb9/je/2000xxs.jpg",
       "file": "img-eddc5e7f9be7.webp",
       "media_type": "image/webp",
       "bytes": 864498,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/c17ee2b0-2b79-418a-ab1a-2c430fd830fd/je/2000xxs.jpg",
       "file": "img-f0e99b03051c.webp",
       "media_type": "image/webp",
       "bytes": 138030,
-      "status": "new"
+      "status": "existing"
     },
     {
-      "source_url": "https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2200xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 429 Too Many Requests"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "source_url": "https://assets.jamesedition.com/android-chrome-192x192.png?v=2",
       "file": "img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg",
       "status": "failed",
-      "error": "HTTP 404 Not Found"
+      "error": "Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
     },
     {
       "source_url": "https://img.jamesedition.com/agent_images/2026/06/23/07/21/17/53fde871-f26e-42bc-ab60-e115df762e14/je/80x80xc.jpg",
       "file": "img-aaa6d316ccc4.webp",
       "media_type": "image/webp",
       "bytes": 668,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "metadata": {
@@ -586,6 +698,78 @@
     "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/2200xxs.jpg: HTTP 429 Too Many Requests",
     "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: HTTP 404 Not Found",
     "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: HTTP 404 Not Found",
-    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found"
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: HTTP 404 Not Found",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/ba0be9aa-d893-4348-8cee-7884fd9350b3/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/05/18/45/38/b199bb9e-7c1b-492d-8d2b-220ac4045180/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/ca4c3072-42b8-469f-a96a-400ccffae799/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/760xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/900xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/1536xxsxm.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/17/57/33/180e4545-82b4-4f97-beb5-a9a8f5fdb90c/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg: Get \"https://www.jamesedition.com/real_estate/brienno-italy/Historic%20Villa%20Pieds%20Dans%20L%27eau%20Of%20Great%20Charmo%20On%20In%20Brienno,%20Lombardy,%20Italy%20For%20Sale%20%2818348881%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host",
+    "image https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg: Get \"https://img.jamesedition.com/listing_images/2026/07/04/10/57/46/20710782-601d-4daa-81d0-ce3b0e0d5c78/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-regular-caacbbac3eafe3961b3b007da19e856b1ad7d3108261110a9e2132b7f00fe06d.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-500-633fc6b1432a6c3eb62583a91585f362ca61409af5242e137bbe4506aaf5f140.svg\": dial tcp: lookup static-x.jamesedition.com: no such host",
+    "image https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg: Get \"https://static-x.jamesedition.com/assets/inter/inter-600-0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589.svg\": dial tcp: lookup static-x.jamesedition.com: no such host"
   ]
 }

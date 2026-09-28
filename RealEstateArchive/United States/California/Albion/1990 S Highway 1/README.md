@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/elk-usa/saddle-point-estate-where-history-meets-horizon-16993217
 - Site: jamesedition
-- Retrieved: 2026-06-19T08:34:10Z
+- Retrieved: 2026-09-28T00:24:35Z
 - Address: 1990 S Highway 1, Albion, California, United States
 - Map: https://www.google.com/maps/search/?api=1&query=39.175401,-123.749389
 - Coordinates: 39.18, -123.75
@@ -10,7 +10,7 @@
 - Listing reference: C1-11238
 - First listed: Jan 24
 - Last updated: Today
-- Images downloaded: 62
+- Images downloaded: 65
 
 ## Property
 

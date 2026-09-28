@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/alpine-nj-usa/38-rio-vista-drive-alpine-nj-07620-17475642
 - Site: jamesedition
-- Retrieved: 2026-06-18T07:06:34Z
+- Retrieved: 2026-09-28T00:18:25Z
 - Address: 38 Rio Vista Drive , Alpine, NJ 07620, New Jersey, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.9330915,-73.9367111
 - Coordinates: 40.93, -73.94
@@ -10,7 +10,7 @@
 - Listing reference: 7CFTP4
 - First listed: Mar 25
 - Last updated: March 25
-- Images downloaded: 37
+- Images downloaded: 43
 
 ## Property
 

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/upper-brookville-ny-usa/4-red-fox-lane-upper-brookville-ny-11545-17424250
 - Site: jamesedition
-- Retrieved: 2026-08-28T00:27:40Z
+- Retrieved: 2026-09-28T00:18:27Z
 - Address: 4 Red Fox Lane , Upper Brookville, NY 11545, New York, United States
 - Map: https://www.google.com/maps/search/?api=1&query=40.8463829,-73.5789742
 - Coordinates: 40.85, -73.58
@@ -10,7 +10,7 @@
 - Listing reference: 8SJ8D3
 - First listed: Mar 16
 - Last updated: June 17
-- Images downloaded: 29
+- Images downloaded: 32
 
 ## Property
 

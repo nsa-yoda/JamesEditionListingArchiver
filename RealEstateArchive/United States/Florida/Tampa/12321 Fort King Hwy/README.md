@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/tampa-fl-usa/12321-fort-king-hwy-tampa-fl-33592-17772228
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:12Z
+- Retrieved: 2026-09-28T00:17:08Z
 - Address: 12321 Fort King Hwy, Tampa, FL 33592, Florida, United States
 - Map: https://www.google.com/maps/search/?api=1&query=28.0685859,-82.2838874
 - Coordinates: 28.07, -82.28
@@ -10,7 +10,7 @@
 - Listing reference: 4CMS2B
 - First listed: Apr 27
 - Last updated: April 28
-- Images downloaded: 97
+- Images downloaded: 112
 
 ## Property
 

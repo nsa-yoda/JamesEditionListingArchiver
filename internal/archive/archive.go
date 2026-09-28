@@ -36,12 +36,14 @@ type Result struct {
 var ErrArchiveCollision = errors.New("archive path collision")
 
 type Options struct {
-	Root         string
-	Workers      int
-	Overwrite    bool
-	MetadataOnly bool
-	MaxImages    int
-	AssetsOnly   bool
+	Root          string
+	Workers       int
+	Overwrite     bool
+	MetadataOnly  bool
+	MaxImages     int
+	AssetsOnly    bool
+	VideosOnly    bool
+	LocalMediaDir string
 }
 
 type ExistingIndex struct {
@@ -104,14 +106,19 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 	}
 	listing := extracted
 	var directory string
-	if options.AssetsOnly {
+	archiveExists := false
+	if options.AssetsOnly || options.VideosOnly {
 		if existing, err := BuildExistingIndex(options.Root); err == nil {
 			if found, ok := existing.Find(*listing); ok {
 				directory = found
+				archiveExists = true
 			}
 		} else {
 			return Result{}, fmt.Errorf("inspect existing archives for assets-only refresh: %w", err)
 		}
+	}
+	if options.VideosOnly && !archiveExists {
+		return Result{}, fmt.Errorf("videos-only refresh requires an existing archive")
 	}
 	if directory == "" {
 		directory, err = resolveListingDirectory(options.Root, *listing)
@@ -133,17 +140,24 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 	if err != nil {
 		return Result{}, err
 	}
-	if options.AssetsOnly {
-		if existing, err := readListing(filepath.Join(directory, "listing.json")); err == nil {
+	var previous *model.Listing
+	if existing, err := readListing(filepath.Join(directory, "listing.json")); err == nil {
+		previous = &existing
+	} else if !os.IsNotExist(err) {
+		return Result{}, fmt.Errorf("read existing listing: %w", err)
+	}
+	if options.AssetsOnly || options.VideosOnly {
+		if previous != nil {
+			existing := *previous
 			existing.Source.URL = rawURL
 			if existing.Source.CanonicalURL == "" {
 				existing.Source.CanonicalURL = listing.Source.CanonicalURL
 			}
 			existing.Source.RetrievedAt = listing.Source.RetrievedAt
 			listing = &existing
-		} else if !os.IsNotExist(err) {
-			return Result{}, fmt.Errorf("read existing listing for assets-only refresh: %w", err)
 		}
+	} else if previous != nil {
+		listing = mergeListing(*previous, *listing)
 	}
 	discoveredImages := len(mediaURLs.Images)
 	discoveredVideos := len(mediaURLs.Videos)
@@ -163,9 +177,13 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 			})
 		}
 	} else {
-		listing.Images = s.Client.DownloadImages(ctx, mediaURLs.Images, imagesDir, downloader.ImageOptions{
-			Workers: options.Workers, Overwrite: options.Overwrite, Referer: finalURL, Existing: lookups.Images,
-		})
+		if !options.VideosOnly {
+			listing.Images = s.Client.DownloadImages(ctx, mediaURLs.Images, imagesDir, downloader.ImageOptions{
+				Workers: options.Workers, Overwrite: options.Overwrite, Referer: finalURL, Existing: lookups.Images, LocalDir: options.LocalMediaDir,
+			})
+		} else if previous != nil {
+			listing.Images = previous.Images
+		}
 		if len(mediaURLs.Videos) > 0 {
 			videosDir := filepath.Join(directory, "videos")
 			if err := os.MkdirAll(videosDir, 0o755); err != nil {
@@ -180,7 +198,7 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 				}
 			}
 			listing.Videos = s.Client.DownloadVideos(ctx, videoURLs, videosDir, downloader.ImageOptions{
-				Workers: options.Workers, Overwrite: options.Overwrite, Referer: finalURL, Existing: lookups.Videos,
+				Workers: options.Workers, Overwrite: options.Overwrite, Referer: finalURL, Existing: lookups.Videos, LocalDir: options.LocalMediaDir,
 			})
 			for index := range listing.Videos {
 				if posterURL := videoPosters[listing.Videos[index].SourceURL]; posterURL != "" {
@@ -192,6 +210,14 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 			}
 		}
 	}
+	if previous != nil && !options.AssetsOnly && !options.VideosOnly {
+		listing.Images = mergeAssets(listing.Images, previous.Images)
+		listing.Videos = mergeAssets(listing.Videos, previous.Videos)
+	} else if previous != nil && options.VideosOnly && len(mediaURLs.Videos) > 0 {
+		listing.Videos = mergeAssets(listing.Videos, previous.Videos)
+	}
+	listing.Images = dedupeAssetsByFile(listing.Images)
+	listing.Videos = dedupeAssetsByFile(listing.Videos)
 	for _, image := range listing.Images {
 		if image.Error != "" {
 			listing.Warnings = append(listing.Warnings, fmt.Sprintf("image %s: %s", image.SourceURL, image.Error))
@@ -228,7 +254,11 @@ func (s Service) process(ctx context.Context, rawURL, finalURL string, html []by
 		return Result{}, fmt.Errorf("update browser indexes: %w", err)
 	}
 	if len(listing.Videos) > 0 {
-		if err := updateBrowserIndexes(options.Root, filepath.Join(directory, "videos"), generatedAt); err != nil {
+		videosDir := filepath.Join(directory, "videos")
+		if err := os.MkdirAll(videosDir, 0o755); err != nil {
+			return Result{}, fmt.Errorf("create video archive directory: %w", err)
+		}
+		if err := updateBrowserIndexes(options.Root, videosDir, generatedAt); err != nil {
 			return Result{}, fmt.Errorf("update browser indexes: %w", err)
 		}
 	}
@@ -261,6 +291,179 @@ func (s Service) extract(ctx context.Context, rawURL, finalURL string, html []by
 		listing.Source.CanonicalURL = finalURL
 	}
 	return listing, mediaURLs, nil
+}
+
+func mergeListing(old, current model.Listing) *model.Listing {
+	if current.Source.URL == "" {
+		current.Source.URL = old.Source.URL
+	}
+	if current.Source.CanonicalURL == "" {
+		current.Source.CanonicalURL = old.Source.CanonicalURL
+	}
+	if current.Source.Site == "" {
+		current.Source.Site = old.Source.Site
+	}
+	if current.Source.ListingID == "" {
+		current.Source.ListingID = old.Source.ListingID
+	}
+	if current.Source.ListingReference == "" {
+		current.Source.ListingReference = old.Source.ListingReference
+	}
+	if current.Source.FirstListed == "" {
+		current.Source.FirstListed = old.Source.FirstListed
+	}
+	if current.Source.LastUpdated == "" {
+		current.Source.LastUpdated = old.Source.LastUpdated
+	}
+	if current.Location.Address == "" {
+		current.Location.Address = old.Location.Address
+	}
+	if current.Location.Street == "" {
+		current.Location.Street = old.Location.Street
+	}
+	if current.Location.Municipality == "" {
+		current.Location.Municipality = old.Location.Municipality
+	}
+	if current.Location.Region == "" {
+		current.Location.Region = old.Location.Region
+	}
+	if current.Location.PostalCode == "" {
+		current.Location.PostalCode = old.Location.PostalCode
+	}
+	if current.Location.Country == "" {
+		current.Location.Country = old.Location.Country
+	}
+	if current.Location.MapURL == "" {
+		current.Location.MapURL = old.Location.MapURL
+	}
+	if current.Location.Latitude == nil {
+		current.Location.Latitude = old.Location.Latitude
+	}
+	if current.Location.Longitude == nil {
+		current.Location.Longitude = old.Location.Longitude
+	}
+	if current.Property.Title == "" {
+		current.Property.Title = old.Property.Title
+	}
+	if current.Property.Type == "" {
+		current.Property.Type = old.Property.Type
+	}
+	if current.Property.Availability == "" {
+		current.Property.Availability = old.Property.Availability
+	}
+	if current.Property.Price == nil {
+		current.Property.Price = old.Property.Price
+	}
+	if current.Property.PricePerArea == nil {
+		current.Property.PricePerArea = old.Property.PricePerArea
+	}
+	if current.Property.Bedrooms == nil {
+		current.Property.Bedrooms = old.Property.Bedrooms
+	}
+	if current.Property.Bathrooms == nil {
+		current.Property.Bathrooms = old.Property.Bathrooms
+	}
+	if current.Property.Floors == nil {
+		current.Property.Floors = old.Property.Floors
+	}
+	if current.Property.InteriorArea == nil {
+		current.Property.InteriorArea = old.Property.InteriorArea
+	}
+	if current.Property.LotArea == nil {
+		current.Property.LotArea = old.Property.LotArea
+	}
+	if current.Property.YearBuilt == nil {
+		current.Property.YearBuilt = old.Property.YearBuilt
+	}
+	if current.Property.PhotoCount == nil {
+		current.Property.PhotoCount = old.Property.PhotoCount
+	}
+	if current.Property.VideoURL == "" {
+		current.Property.VideoURL = old.Property.VideoURL
+	}
+	if current.Property.Description == "" {
+		current.Property.Description = old.Property.Description
+	}
+	current.Property.Features = appendUnique(old.Property.Features, current.Property.Features...)
+	if current.Broker.Agent == "" {
+		current.Broker.Agent = old.Broker.Agent
+	}
+	if current.Broker.AgentProfileURL == "" {
+		current.Broker.AgentProfileURL = old.Broker.AgentProfileURL
+	}
+	if current.Broker.AgentLicense == "" {
+		current.Broker.AgentLicense = old.Broker.AgentLicense
+	}
+	if current.Broker.Agency == "" {
+		current.Broker.Agency = old.Broker.Agency
+	}
+	if current.Broker.AgencyProfileURL == "" {
+		current.Broker.AgencyProfileURL = old.Broker.AgencyProfileURL
+	}
+	if current.Broker.AgencyAddress == "" {
+		current.Broker.AgencyAddress = old.Broker.AgencyAddress
+	}
+	if current.Metadata == nil {
+		current.Metadata = old.Metadata
+	} else {
+		for key, value := range old.Metadata {
+			if _, exists := current.Metadata[key]; !exists {
+				current.Metadata[key] = value
+			}
+		}
+	}
+	current.Warnings = appendUnique(old.Warnings, current.Warnings...)
+	return &current
+}
+
+func appendUnique(existing []string, values ...string) []string {
+	seen := make(map[string]bool, len(existing)+len(values))
+	out := make([]string, 0, len(existing)+len(values))
+	for _, value := range append(append([]string(nil), existing...), values...) {
+		if value != "" && !seen[value] {
+			out = append(out, value)
+			seen[value] = true
+		}
+	}
+	return out
+}
+
+func mergeAssets(current, old []model.Asset) []model.Asset {
+	indices := make(map[string]int, len(current))
+	for index, asset := range current {
+		indices[asset.SourceURL] = index
+	}
+	out := append([]model.Asset(nil), current...)
+	for _, asset := range old {
+		if index, exists := indices[asset.SourceURL]; exists {
+			if out[index].File == "" && asset.File != "" {
+				asset.Status = "existing"
+				asset.Error = ""
+				out[index] = asset
+			}
+		} else if asset.File != "" {
+			indices[asset.SourceURL] = len(out)
+			out = append(out, asset)
+		}
+	}
+	return dedupeAssetsByFile(out)
+}
+
+func dedupeAssetsByFile(assets []model.Asset) []model.Asset {
+	seenFiles := make(map[string]bool, len(assets))
+	seenURLs := make(map[string]bool, len(assets))
+	out := make([]model.Asset, 0, len(assets))
+	for _, asset := range assets {
+		if seenURLs[asset.SourceURL] || asset.File != "" && seenFiles[asset.File] {
+			continue
+		}
+		out = append(out, asset)
+		seenURLs[asset.SourceURL] = true
+		if asset.File != "" {
+			seenFiles[asset.File] = true
+		}
+	}
+	return out
 }
 
 func listingDirectory(root string, listing model.Listing) (string, error) {
@@ -573,13 +776,6 @@ func (s Service) downloadVideoPosters(ctx context.Context, videosDir, referer st
 			continue
 		}
 		videos[index].PosterFile = results[0].File
-		if videos[index].Status == "" {
-			videos[index].Status = results[0].Status
-		}
-		if results[0].Error != "" && videos[index].Error == "" {
-			videos[index].Error = fmt.Sprintf("poster %s: %s", videos[index].PosterSourceURL, results[0].Error)
-			videos[index].Status = "failed"
-		}
 	}
 	return nil
 }

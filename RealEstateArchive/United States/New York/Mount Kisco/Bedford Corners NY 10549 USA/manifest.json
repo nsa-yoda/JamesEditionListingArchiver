@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:26:21.65073Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/timeless-elegance-meets-modern-luxury-estate-living-18088422",
     "canonical_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/timeless-elegance-meets-modern-luxury-estate-living-18088422",
@@ -9,13 +9,13 @@
     "listing_reference": "07d0309a-5fc9-11f1-901e-6045bdd61ac4",
     "first_listed": "Jun 5",
     "last_updated": "June 13",
-    "retrieved_at": "2026-06-18T07:09:16.10352Z"
+    "retrieved_at": "2026-09-28T00:26:21.269336Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 2118,
-      "sha256": "7f908c6b6cdfa98715594c5492a3108de3a68151dc1e243b49e1981e437a4538"
+      "sha256": "bcf586898f60ebcef578b9875365d607b19bbac48cce817bd0c52f4f03c4e1f0"
     },
     {
       "path": "images/004-e8b23fe2.webp",
@@ -173,9 +173,39 @@
       "sha256": "0d4f387df6a81f8c83f6d68366995b383f0b2c62447bd6b27bb40bff43a22589"
     },
     {
+      "path": "images/img-01e0428ab58d.webp",
+      "bytes": 739600,
+      "sha256": "17378ec6de52e5b57b61275e3072c9b8ca2ab64cffd736396615a59bbc15cdfc"
+    },
+    {
+      "path": "images/img-53307f4aaefe.webp",
+      "bytes": 4852,
+      "sha256": "3f8f7f12993499273deae05eb0e52eb5b55a9922c95f2a7dd334f288a21b51dd"
+    },
+    {
+      "path": "images/img-78a05bac6f50.webp",
+      "bytes": 624546,
+      "sha256": "3dc13177e5b2249af683e3a404dbbdd0de7301e737095418b5125a8e876dbb62"
+    },
+    {
+      "path": "images/img-808495926e2f.webp",
+      "bytes": 827982,
+      "sha256": "c490eef76435e99df46a0842244035f72b9e8e7071272e67d08e9a9950948b49"
+    },
+    {
+      "path": "images/img-80f13396ca73.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
+    },
+    {
+      "path": "images/img-f4e411dd2572.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 23560,
-      "sha256": "610f55c2902b93c6340c534243fcd8b78c96dfddaf1742420cf47df34d354a17"
+      "bytes": 60463,
+      "sha256": "afc953098e78cea3e68bbbf4d6a5172b7e6ebf70fc669b8b3d9fdf00e81c76da"
     },
     {
       "path": "source.html",
@@ -191,6 +221,24 @@
   "assets": [
     {
       "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/2200xxs.jpg",
       "path": "images/004-e8b23fe2.webp",
       "media_type": "image/webp",
@@ -200,7 +248,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -213,7 +280,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%281%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%281%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -226,7 +312,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%282%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%282%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -239,7 +344,26 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%283%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%283%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -252,22 +376,62 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%284%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "status": "failed",
+      "error": "Get \"https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/1100xxs%284%29.jpg\": dial tcp: lookup www.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/160x120xc.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-53307f4aaefe.webp",
+      "media_type": "image/webp",
+      "bytes": 4852,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-f4e411dd2572.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-80f13396ca73.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/fa6331d3-12f0-456e-9f28-9224e7365194/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2099ed59-d096-4cf7-9a9a-1171b700b736/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/ad06cefa-3933-4b1e-acdb-7fa8e78a8c08/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/2b60a5e3-fc58-41c4-b73d-54854b13244e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -448,17 +612,32 @@
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/2200xxs%2825%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-808495926e2f.webp",
+      "media_type": "image/webp",
+      "bytes": 827982,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/2200xxs%2824%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-78a05bac6f50.webp",
+      "media_type": "image/webp",
+      "bytes": 624546,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/bedford-corners-ny-usa/Timeless%20Elegance%20Meets%20Modern%20Luxury%20In%20Mount%20Kisco,%20New%20York,%20United%20States%20For%20Sale%20%2818088422%29_files/2200xxs%2823%29.jpg",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-01e0428ab58d.webp",
+      "media_type": "image/webp",
+      "bytes": 739600,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/1040x620xc.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/06/04/14/48/37/b6f15c0b-d16b-451a-a82d-49bc40726567/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -494,9 +673,9 @@
     }
   ],
   "summary": {
-    "images_new": 11,
+    "images_new": 6,
     "images_existing": 31,
-    "images_failed": 0,
+    "images_failed": 26,
     "videos_new": 0,
     "videos_existing": 0,
     "videos_failed": 0

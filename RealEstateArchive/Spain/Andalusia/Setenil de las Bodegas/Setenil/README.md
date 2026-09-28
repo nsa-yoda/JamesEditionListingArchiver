@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/setenil-spain/finca-venta-cadiz-15969984
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:25Z
+- Retrieved: 2026-09-28T00:21:26Z
 - Address: Setenil, 11692, Spain
 - Map: https://www.google.com/maps/search/?api=1&query=36.8639129,-5.181303799999999
 - Coordinates: 36.86, -5.18
@@ -10,7 +10,7 @@
 - Listing reference: 8095280952429
 - First listed: Jul 24, 2025
 - Last updated: April 13
-- Images downloaded: 9
+- Images downloaded: 16
 
 ## Property
 

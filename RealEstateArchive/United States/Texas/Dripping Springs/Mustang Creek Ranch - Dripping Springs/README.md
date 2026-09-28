@@ -2,14 +2,14 @@
 
 - Source: https://www.jamesedition.com/real_estate/hays-county-tx-usa/mustang-creek-ranch-dripping-springs-texas-855-acres-with-live-water-custom-home-16327496
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:30Z
+- Retrieved: 2026-09-28T00:22:47Z
 - Address: Loop 165, Texas 78620, Dripping Springs, United States
 - Map: https://www.google.com/maps/search/?api=1&query=30.1663062,-98.226485
 - Coordinates: 30.17, -98.23
 - Site listing ID: 16327496
 - First listed: Oct 7, 2025
 - Last updated: November 11, 2025
-- Images downloaded: 10
+- Images downloaded: 13
 - Videos downloaded: 0
 
 ## Property

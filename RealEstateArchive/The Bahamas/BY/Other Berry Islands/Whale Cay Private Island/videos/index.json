@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "path": "The Bahamas/BY/Other Berry Islands/Whale Cay Private Island/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-cf3077a7df73.webp",
+      "href": "img-cf3077a7df73.webp",
+      "size": 67936
+    },
+    {
+      "name": "vid-ad47b4cf16d0.mp4",
+      "href": "vid-ad47b4cf16d0.mp4",
+      "size": 54726534
+    }
+  ],
+  "last_updated": "2026-09-28T00:26:53.481011Z"
+}

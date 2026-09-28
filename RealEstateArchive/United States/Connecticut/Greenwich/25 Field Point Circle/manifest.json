@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T22:23:11.98126Z",
+  "generated_at": "2026-09-28T00:21:25.770159Z",
   "source": {
     "url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/field-point-circle-17442077",
     "canonical_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/field-point-circle-17442077",
@@ -9,13 +9,13 @@
     "listing_reference": "VNXK72",
     "first_listed": "Mar 19",
     "last_updated": "June 1",
-    "retrieved_at": "2026-06-19T08:18:46.668836Z"
+    "retrieved_at": "2026-09-28T00:21:15.07461Z"
   },
   "files": [
     {
       "path": "README.md",
       "bytes": 3915,
-      "sha256": "cf7b0197f4b06cffefe12a6a4a6c07629d373f4163c4ca1f6423e3d724f7de96"
+      "sha256": "204aa554b34fdf14b858312ec2967ada632e70b1bf679f12b827e5a2bebd4df4"
     },
     {
       "path": "images/img-09f1556448a7.webp",
@@ -48,6 +48,11 @@
       "sha256": "5964b431861b96e0a20a4235af0dce5e0fa50c388538bb6c36b8128c0d6e1aba"
     },
     {
+      "path": "images/img-4b112205fa14.webp",
+      "bytes": 6784,
+      "sha256": "f1ee020c4d5c2df8fd0957f8bb04cfa38a94fe0624c4f130ee8aae1085cc7a18"
+    },
+    {
       "path": "images/img-4d8be312662a.webp",
       "bytes": 1097090,
       "sha256": "2cc8b64c988287d20cacb08f7fabd25ae3a42aa250edbab0c37887766b24d5c9"
@@ -58,6 +63,11 @@
       "sha256": "b740d76df60e64b40a67536071fa4760dc6e2bdbeb742c477a714801329d9491"
     },
     {
+      "path": "images/img-5fb81309af57.webp",
+      "bytes": 58144,
+      "sha256": "bd647bfc3e1140d6588f33536999f87332885deba2e9357ce1a19ada91c5fbb4"
+    },
+    {
       "path": "images/img-6e74f9d693d7.webp",
       "bytes": 625280,
       "sha256": "7c696c397059cc516dcdec3f7dbf87b251f9701992dbddfe9bffe06606fac5e1"
@@ -66,6 +76,11 @@
       "path": "images/img-6ec207eb14b1.webp",
       "bytes": 438404,
       "sha256": "33b09dcac63f5e086e01714000d5bfd98e4f06d569b7441454308ceb6e2d9429"
+    },
+    {
+      "path": "images/img-7946410998c3.webp",
+      "bytes": 49240,
+      "sha256": "2b6591860940ca92319f473021bcfcfffa9f4bcec6a095b4b3c5be98e134a783"
     },
     {
       "path": "images/img-8ca1641282aa.webp",
@@ -86,6 +101,11 @@
       "path": "images/img-a641e839fdf6.webp",
       "bytes": 198082,
       "sha256": "d0fa6bc5bcd0ed1eef54c3a285ed40642c7e7b24bdf9c9af890f6649bf1bae6e"
+    },
+    {
+      "path": "images/img-a86ab0263739.png",
+      "bytes": 767001,
+      "sha256": "11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab"
     },
     {
       "path": "images/img-b08496906aa2.webp",
@@ -118,9 +138,14 @@
       "sha256": "e1e384239e719c73db6b76096681f27f5452584496f3da2124c1c5edaa32055c"
     },
     {
+      "path": "images/img-ef3890f38c04.png",
+      "bytes": 8627,
+      "sha256": "6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6"
+    },
+    {
       "path": "listing.json",
-      "bytes": 33033,
-      "sha256": "27522b121bc057f9f2f7fde2634edb1acbaef2c8429e7d4517dc8a27db6341e6"
+      "bytes": 66041,
+      "sha256": "53685beb48698177f4b0dd377a47b9dbb6b86677de55dc96f05c7a4668643053"
     },
     {
       "path": "source.html",
@@ -131,22 +156,72 @@
       "path": "source.url",
       "bytes": 86,
       "sha256": "2847ecddb61a660e3671f703aba7f4c15b80e6550d5c44379d2e4ed4fe4dc912"
+    },
+    {
+      "path": "videos/img-b3faad2ea3b5.webp",
+      "bytes": 223426,
+      "sha256": "280e0cfe7f17f0aa055091ec24ae27181c37c333e40d7244fb06f1b96cd01552"
+    },
+    {
+      "path": "videos/vid-0ab34c909873.mp4",
+      "bytes": 62592795,
+      "sha256": "1ba77a28da0c4d0ca0ad2b134d3b5e73147694ce50a5b81a9d81245546dd1e47"
     }
   ],
   "assets": [
+    {
+      "kind": "video",
+      "source_url": "https://players.brightcove.net/5782886755001/rJlOfaQNgQ_default/index.html?videoId=ref:sir_listings_2b343d34-e7b7-44dc-9138-0a6c5bc5acff\u0026autoplay=muted\u0026loop=true\u0026controls=false\u0026playsinline=true\u0026t=10",
+      "path": "videos/vid-0ab34c909873.mp4",
+      "media_type": "video/mp4",
+      "bytes": 62592795,
+      "status": "new",
+      "poster_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/1040x620xc.jpg",
+      "poster_path": "videos/img-b3faad2ea3b5.webp"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/760xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2200xxs.jpg",
       "path": "images/img-4d8be312662a.webp",
       "media_type": "image/webp",
       "bytes": 1097090,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -154,13 +229,25 @@
       "path": "images/img-09f1556448a7.webp",
       "media_type": "image/webp",
       "bytes": 909200,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%281%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -168,13 +255,25 @@
       "path": "images/img-6e74f9d693d7.webp",
       "media_type": "image/webp",
       "bytes": 625280,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%282%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -182,13 +281,25 @@
       "path": "images/img-4958d56e9b05.webp",
       "media_type": "image/webp",
       "bytes": 263584,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%283%29.jpg",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/760xxsxm.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/760xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/900xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/900xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/1536xxsxm.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/1536xxsxm.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -196,49 +307,61 @@
       "path": "images/img-a641e839fdf6.webp",
       "media_type": "image/webp",
       "bytes": 198082,
-      "status": "new"
-    },
-    {
-      "kind": "image",
-      "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/1100xxs%284%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/160x120xc.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-4b112205fa14.webp",
+      "media_type": "image/webp",
+      "bytes": 6784,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/request_plan_bg-6b4d11a6b94210280acb03b850861db8fc13011436a67a6dc11a4278a6c3b2e6.png",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-ef3890f38c04.png",
+      "media_type": "image/png",
+      "bytes": 8627,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/street_view-11c731a0552309b4f3659df5ba230fcf859d078f7345199043bd5766b28904ab.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-a86ab0263739.png",
+      "media_type": "image/png",
+      "bytes": 767001,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d44a2270-1b35-436a-b3f8-f97b2216a910/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/7d512b56-920d-4ae5-add9-0376e3651609/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a5369690-683f-4a78-8a73-e78f6bf1398e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/2000xxs.jpg",
+      "status": "failed",
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/8412038e-1826-42a3-a5c8-b7d7a3a3f3c9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -246,19 +369,19 @@
       "path": "images/img-a5ceb8b9727f.webp",
       "media_type": "image/webp",
       "bytes": 250442,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b8738b34-37d4-4e61-8fb4-fda2eb259e43/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b8738b34-37d4-4e61-8fb4-fda2eb259e43/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b8738b34-37d4-4e61-8fb4-fda2eb259e43/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/35b8ba60-ba5b-4019-affe-bbec706c5df9/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/35b8ba60-ba5b-4019-affe-bbec706c5df9/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/35b8ba60-ba5b-4019-affe-bbec706c5df9/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -266,49 +389,49 @@
       "path": "images/img-9a605d48a2fa.webp",
       "media_type": "image/webp",
       "bytes": 296142,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a4ab3633-4c18-4ef0-aa16-955ed9ac8637/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a4ab3633-4c18-4ef0-aa16-955ed9ac8637/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/a4ab3633-4c18-4ef0-aa16-955ed9ac8637/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/6fc38629-1f21-4a10-b453-383a880297a3/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/6fc38629-1f21-4a10-b453-383a880297a3/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/6fc38629-1f21-4a10-b453-383a880297a3/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/f2e18342-823b-46d0-9b0a-31af1986af17/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/f2e18342-823b-46d0-9b0a-31af1986af17/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/f2e18342-823b-46d0-9b0a-31af1986af17/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/29b61161-726a-49ee-8b69-6091f2b5e4f4/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/29b61161-726a-49ee-8b69-6091f2b5e4f4/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/29b61161-726a-49ee-8b69-6091f2b5e4f4/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d0ea6680-a00e-4d6b-b7c2-ef16e8e1c321/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d0ea6680-a00e-4d6b-b7c2-ef16e8e1c321/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/d0ea6680-a00e-4d6b-b7c2-ef16e8e1c321/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b3dce873-da22-46e7-bb4d-5d916ee9103e/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b3dce873-da22-46e7-bb4d-5d916ee9103e/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/b3dce873-da22-46e7-bb4d-5d916ee9103e/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
       "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/3814ede3-7b09-4aa2-8b5f-e744a12b26d0/je/2000xxs.jpg",
       "status": "failed",
-      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/3814ede3-7b09-4aa2-8b5f-e744a12b26d0/je/2000xxs.jpg\": read tcp [2600:4040:ae95:3500:7812:bf38:591c:8bf1]:60296-\u003e[2600:9000:24f1:9e00:11:64e9:5c00:93a1]:443: read: connection reset by peer"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/3814ede3-7b09-4aa2-8b5f-e744a12b26d0/je/2000xxs.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -316,7 +439,7 @@
       "path": "images/img-b13786794c2b.webp",
       "media_type": "image/webp",
       "bytes": 489056,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -324,7 +447,7 @@
       "path": "images/img-edae0d501005.webp",
       "media_type": "image/webp",
       "bytes": 651180,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -332,7 +455,7 @@
       "path": "images/img-6ec207eb14b1.webp",
       "media_type": "image/webp",
       "bytes": 438404,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -340,7 +463,7 @@
       "path": "images/img-313853209586.webp",
       "media_type": "image/webp",
       "bytes": 960216,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -348,7 +471,7 @@
       "path": "images/img-c4a31fefc472.webp",
       "media_type": "image/webp",
       "bytes": 982916,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -356,7 +479,7 @@
       "path": "images/img-b08496906aa2.webp",
       "media_type": "image/webp",
       "bytes": 880440,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -364,7 +487,7 @@
       "path": "images/img-8ca1641282aa.webp",
       "media_type": "image/webp",
       "bytes": 43326,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -372,19 +495,29 @@
       "path": "images/img-125b330ab8b3.webp",
       "media_type": "image/webp",
       "bytes": 51140,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/2200xxsxm%2822%29.jpg",
-      "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "path": "images/img-7946410998c3.webp",
+      "media_type": "image/webp",
+      "bytes": 49240,
+      "status": "new"
     },
     {
       "kind": "image",
       "source_url": "https://www.jamesedition.com/real_estate/greenwich-ct-usa/Field%20Point%20Circle%20In%20Greenwich,%20Connecticut,%20United%20States%20For%20Sale%20%2817442077%29_files/2200xxsxm%2823%29.jpg",
+      "path": "images/img-5fb81309af57.webp",
+      "media_type": "image/webp",
+      "bytes": 58144,
+      "status": "new"
+    },
+    {
+      "kind": "image",
+      "source_url": "https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/1040x620xc.jpg",
       "status": "failed",
-      "error": "HTTP 403 Forbidden"
+      "error": "Get \"https://img.jamesedition.com/listing_images/2026/03/19/13/09/25/189656a1-d775-44eb-bf1d-8aa7991ad3fa/je/1040x620xc.jpg\": dial tcp: lookup img.jamesedition.com: no such host"
     },
     {
       "kind": "image",
@@ -392,7 +525,7 @@
       "path": "images/img-57242b8ef18d.webp",
       "media_type": "image/webp",
       "bytes": 1004,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -400,7 +533,7 @@
       "path": "images/img-4055dfde7ac7.svg",
       "media_type": "image/svg+xml",
       "bytes": 63657,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -408,7 +541,7 @@
       "path": "images/img-272e34fedba6.svg",
       "media_type": "image/svg+xml",
       "bytes": 63675,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -416,7 +549,7 @@
       "path": "images/img-caf7633dd106.svg",
       "media_type": "image/svg+xml",
       "bytes": 63710,
-      "status": "new"
+      "status": "existing"
     },
     {
       "kind": "image",
@@ -424,14 +557,14 @@
       "path": "images/img-dd94e60cc610.webp",
       "media_type": "image/webp",
       "bytes": 1122,
-      "status": "new"
+      "status": "existing"
     }
   ],
   "summary": {
-    "images_new": 20,
-    "images_existing": 0,
-    "images_failed": 22,
-    "videos_new": 0,
+    "images_new": 5,
+    "images_existing": 20,
+    "images_failed": 30,
+    "videos_new": 1,
     "videos_existing": 0,
     "videos_failed": 0
   }

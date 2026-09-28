@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/jackson-wy-usa/private-haven-in-bar-bc-ranch-18183270
 - Site: jamesedition
-- Retrieved: 2026-09-26T18:46:40Z
+- Retrieved: 2026-09-28T00:23:56Z
 - Address: 1125 W Bar BC Ranch Road , Jackson, WY 83001, Wyoming, United States
 - Map: https://www.google.com/maps/search/?api=1&query=43.5364385,-110.7879309
 - Coordinates: 43.54, -110.79
@@ -10,8 +10,8 @@
 - Listing reference: VPEG5P
 - First listed: Jun 15
 - Last updated: June 16
-- Images downloaded: 48
-- Videos downloaded: 0
+- Images downloaded: 51
+- Videos downloaded: 1
 
 ## Property
 

@@ -2,7 +2,7 @@
 
 - Source: https://www.jamesedition.com/real_estate/palm-beach-fl-usa/unmatched-oceanfront-estate-with-exceptional-privacy-and-views-17306697
 - Site: jamesedition
-- Retrieved: 2026-06-16T03:43:41Z
+- Retrieved: 2026-09-28T00:26:23Z
 - Address: 911 N Ocean Boulevard Palm Beach FL 33480 USA, Florida, United States
 - Map: https://www.google.com/maps/search/?api=1&query=26.746845,-80.0357897
 - Coordinates: 26.75, -80.04
@@ -10,7 +10,7 @@
 - Listing reference: 7d8f38c9-738a-4db5-a325-80f9de9882b5
 - First listed: Feb 27
 - Last updated: June 12
-- Images downloaded: 9
+- Images downloaded: 12
 
 ## Property
 

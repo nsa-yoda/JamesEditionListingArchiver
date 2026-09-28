@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "path": "United States/New York/Canaan/241 Cunningham Hill Road/videos",
+  "parent": "../index.html",
+  "directories": [],
+  "files": [
+    {
+      "name": "img-0e14b47cc150.webp",
+      "href": "img-0e14b47cc150.webp",
+      "size": 107524
+    },
+    {
+      "name": "vid-d61daa268994.mp4",
+      "href": "vid-d61daa268994.mp4",
+      "size": 105215121
+    }
+  ],
+  "last_updated": "2026-09-28T00:19:50.255763Z"
+}
